@@ -12,9 +12,32 @@ import os
 from datetime import datetime, timezone
 
 FEEDS = [
-    ("BBC Mundo",     "https://feeds.bbci.co.uk/mundo/rss.xml"),
-    ("El País",       "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"),
-    ("La Vanguardia", "https://www.lavanguardia.com/rss/home.xml"),
+    # España — centro / izquierda
+    ("El País",           "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"),
+    ("elDiario.es",       "https://www.eldiario.es/rss/"),
+    ("Público",           "https://www.publico.es/rss/"),
+    # España — centro / derecha
+    ("El Mundo",          "https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml"),
+    ("ABC",               "https://www.abc.es/rss/feeds/abc_EspanaEspana.xml"),
+    ("El Confidencial",   "https://rss.elconfidencial.com/espana/"),
+    # España — autogestionados / alternativos
+    ("El Salto",          "https://www.elsaltodiario.com/rss"),
+    ("Diagonal",          "https://www.diagonalperiodico.net/rss.xml"),
+    # España — libertario / liberal
+    ("Libre Mercado",     "https://www.libremercado.com/rss/"),
+    # Internacional — neutrales
+    ("BBC Mundo",         "https://feeds.bbci.co.uk/mundo/rss.xml"),
+    ("DW Español",        "https://rss.dw.com/rdf/rss-es-all"),
+    ("France 24 ES",      "https://www.france24.com/es/rss"),
+    # Latinoamérica — mainstream
+    ("Infobae",           "https://www.infobae.com/feeds/rss/"),
+    ("La Nación AR",      "https://www.lanacion.com.ar/arc/outboundfeeds/rss/"),
+    ("El Universal MX",   "https://www.eluniversal.com.mx/rss.xml"),
+    ("La Jornada MX",     "https://www.jornada.com.mx/rss/edicion.xml"),
+    ("El Tiempo CO",      "https://www.eltiempo.com/rss/portada.xml"),
+    # Latinoamérica — alternativos / comunitarios
+    ("Desinformémonos",   "https://desinformemonos.org/feed/"),
+    ("Resumen Latinoam.", "https://www.resumenlatinoamericano.org/feed/"),
 ]
 
 def load_lexicon(path="afinn_es.csv"):

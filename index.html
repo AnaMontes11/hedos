@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Hedos — collective mood index</title>
+<title>Hedos — índice de estado de ánimo colectivo</title>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=IBM+Plex+Mono:wght@300;400&display=swap" rel="stylesheet">
 <style>
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -105,33 +105,34 @@ footer { border-top: 0.5px solid var(--border); padding: 2rem; display: flex; al
 <nav>
   <a class="nav-logo" href="#">Hedos</a>
   <ul class="nav-links">
-    <li><a href="#data-section">data</a></li>
-    <li><a href="#words-section">words</a></li>
-    <li><a href="#articles-section">articles</a></li>
-    <li><a href="#about-section">about</a></li>
+    <li><a href="#data-section">datos</a></li>
+    <li><a href="#words-section">palabras</a></li>
+    <li><a href="#articles-section">titulares</a></li>
+    <li><a href="#about-section">método</a></li>
+    <li><a href="#maker-section">autora</a></li>
   </ul>
   <div class="nav-status">
     <div class="pulse-dot"></div>
-    <span id="nav-score">loading…</span>
+    <span id="nav-score">cargando…</span>
   </div>
 </nav>
 
 <div class="hero">
   <div class="hero-bg"></div>
-  <span class="eyebrow">collective hedonic index · spanish internet</span>
+  <span class="eyebrow">índice hedónico colectivo · internet en español</span>
   <div class="score-wrap">
     <div class="score-number" id="hero-score">—</div>
     <div class="score-sub" id="hero-label">/ 9.0 · hedonic score</div>
   </div>
   <p class="hero-desc">
-    A <em>hedonic thermometer</em> built on the AFINN word-scoring method.
-    Every hour, RSS feeds from Spanish-language media are scanned,
-    words are weighted against human-annotated affect scores,
-    and the collective mood surfaces as a single number.
+    Un <em>termómetro hedónico</em> basado en el método de puntuación AFINN.
+    Cada hora, RSS de medios en español son analizados,
+    las palabras se ponderan según puntuaciones de afecto anotadas por humanos,
+    y el estado de ánimo colectivo emerge como un único número.
   </p>
   <div class="scroll-hint">
     <div class="scroll-line"></div>
-    <span>scroll</span>
+    <span>bajar</span>
   </div>
 </div>
 
@@ -139,13 +140,13 @@ footer { border-top: 0.5px solid var(--border); padding: 2rem; display: flex; al
 
   <section id="data-section">
     <div class="sec-header">
-      <h2 class="sec-title">Today's pulse</h2>
+      <h2 class="sec-title">El pulso de hoy</h2>
       <span class="sec-meta" id="generated-ts">—</span>
     </div>
     <div class="stats-row" id="stats-row">
-      <div class="stat-card"><div class="stat-label">Global score</div><div class="stat-val" id="stat-score">—</div></div>
-      <div class="stat-card"><div class="stat-label">Articles scored</div><div class="stat-val" id="stat-articles">—</div></div>
-      <div class="stat-card"><div class="stat-label">Words matched</div><div class="stat-val" id="stat-words">—</div></div>
+      <div class="stat-card"><div class="stat-label">Score global</div><div class="stat-val" id="stat-score">—</div></div>
+      <div class="stat-card"><div class="stat-label">Artículos puntuados</div><div class="stat-val" id="stat-articles">—</div></div>
+      <div class="stat-card"><div class="stat-label">Palabras identificadas</div><div class="stat-val" id="stat-words">—</div></div>
     </div>
     <div class="chart-wrap">
       <canvas id="histchart"></canvas>
@@ -154,24 +155,24 @@ footer { border-top: 0.5px solid var(--border); padding: 2rem; display: flex; al
       <div class="heatmap-grid" id="heatmap"></div>
     </div>
     <div class="hm-legend">
-      <span>negative</span>
+      <span>negativo</span>
       <div class="legend-swatches" id="legend-sw"></div>
-      <span>positive</span>
+      <span>positivo</span>
     </div>
   </section>
 
   <section id="words-section">
     <div class="sec-header">
-      <h2 class="sec-title">Charged words</h2>
-      <span class="sec-meta">most frequent · weighted</span>
+      <h2 class="sec-title">Palabras cargadas</h2>
+      <span class="sec-meta">más frecuentes · ponderadas</span>
     </div>
     <div class="words-cols">
       <div>
-        <div class="words-col-title">Most negative</div>
+        <div class="words-col-title">Más negativas</div>
         <div id="neg-words"></div>
       </div>
       <div>
-        <div class="words-col-title">Most positive</div>
+        <div class="words-col-title">Más positivas</div>
         <div id="pos-words"></div>
       </div>
     </div>
@@ -179,22 +180,40 @@ footer { border-top: 0.5px solid var(--border); padding: 2rem; display: flex; al
 
   <section id="articles-section">
     <div class="sec-header">
-      <h2 class="sec-title">Latest articles</h2>
-      <span class="sec-meta">scored this hour</span>
+      <h2 class="sec-title">Últimos titulares</h2>
+      <span class="sec-meta">puntuados esta hora</span>
     </div>
     <div class="articles-list" id="articles-list"></div>
   </section>
 
   <section id="about-section">
     <div class="sec-header">
-      <h2 class="sec-title">How it works</h2>
-      <span class="sec-meta">methodology</span>
+      <h2 class="sec-title">Cómo funciona</h2>
+      <span class="sec-meta">metodología</span>
     </div>
     <div class="about-grid">
-      <div class="about-card"><div class="about-num">01 · source</div><div class="about-title">Spanish RSS feeds</div><div class="about-body">BBC Mundo, El País, and La Vanguardia provide a continuous flow of Spanish-language headlines and summaries, sampled every hour via GitHub Actions.</div></div>
-      <div class="about-card"><div class="about-num">02 · scoring</div><div class="about-title">AFINN-ES word valence</div><div class="about-body">Each word is matched against a Spanish translation of the AFINN dictionary — 2,100+ words rated −5 to +5 by human annotators. Scores map to a 1–9 hedonic scale.</div></div>
-      <div class="about-card"><div class="about-num">03 · aggregation</div><div class="about-title">Weighted average</div><div class="about-body">Scores are averaged across all matched words per article, then across all articles. The global score reflects the mean hedonic valence of the current news cycle.</div></div>
-      <div class="about-card"><div class="about-num">04 · caveat</div><div class="about-title">Known limitations</div><div class="about-body">The lexicon is small (2,100 words). Context is lost — "guerra" scores −2 whether it's a war or a metaphor. This measures linguistic affect, not lived experience.</div></div>
+      <div class="about-card"><div class="about-num">01 · fuente</div><div class="about-title">RSS en español</div><div class="about-body">BBC Mundo, El País y La Vanguardia proporcionan un flujo continuo de titulares y resúmenes en español, muestreado cada hora mediante GitHub Actions.</div></div>
+      <div class="about-card"><div class="about-num">02 · puntuación</div><div class="about-title">Léxico AFINN-ES</div><div class="about-body">Cada palabra se cruza con una traducción española del diccionario AFINN — más de 2.100 palabras valoradas de −5 a +5 por anotadores humanos. Las puntuaciones se mapean a una escala hedónica de 1 a 9.</div></div>
+      <div class="about-card"><div class="about-num">03 · agregación</div><div class="about-title">Media ponderada</div><div class="about-body">Las puntuaciones se promedian entre todas las palabras coincidentes por artículo y luego entre todos los artículos. El score global refleja la valencia hedónica media del ciclo de noticias actual.</div></div>
+      <div class="about-card"><div class="about-num">04 · limitaciones</div><div class="about-title">Sesgos conocidos</div><div class="about-body">El léxico es pequeño (2.100 palabras). El contexto se pierde — "guerra" puntúa −2 tanto si es una guerra como una metáfora. Esto mide el afecto lingüístico, no la experiencia vivida.</div></div>
+    </div>
+  </section>
+
+  <section id="maker-section">
+    <div class="sec-header">
+      <h2 class="sec-title">Sobre la autora</h2>
+    </div>
+    <div style="max-width: 640px; display: flex; flex-direction: column; gap: 1rem;">
+      <p style="font-size:13px; line-height:1.9; color:var(--muted)">
+        Soy Ana, product designer messing con vibe code. Un día me pregunté si podría crear un termómetro para medir el estado de ánimo de internet — y aquí estamos.
+      </p>
+      <p style="font-size:13px; line-height:1.9; color:var(--muted)">
+        Soy defensora de humanizar un mundo que se vuelve cada vez más artificial. Creo que el diseño debería crear apego, deseo, recuerdo. Que si tu producto tiene IA pero no te hace sentir nada, está condenado a morir.
+      </p>
+      <p style="font-size:13px; line-height:1.9; color:var(--muted)">
+        Me divierto explorando, aprendiendo y de paso rompiendo cosas por el camino. También lancé <a href="https://www.figma.com/community" style="color:var(--accent2); text-decoration:none">Pix2Text</a>, un plugin de Figma para convertir texto de imágenes en contenido editable. Porque aparentemente no sé estar quieta.
+      </p>
+    </div>
     </div>
   </section>
 
@@ -202,8 +221,8 @@ footer { border-top: 0.5px solid var(--border); padding: 2rem; display: flex; al
 
 <footer>
   <p class="footer-note">
-    Real data · AFINN-ES lexicon · updated hourly via GitHub Actions<br>
-    Sources: BBC Mundo, El País, La Vanguardia · <a href="https://github.com" style="color:var(--faint)">view on GitHub</a>
+    Datos reales · léxico AFINN-ES · actualizado cada hora via GitHub Actions<br>
+    Fuentes: El País, elDiario.es, Público, El Mundo, ABC, El Confidencial, El Salto, Diagonal, Libre Mercado, BBC Mundo, DW Español, France 24, Infobae, La Nación, El Universal, La Jornada, El Tiempo, Desinformémonos, Resumen Latinoamericano · <a href="https://github.com/AnaMontes11/hedos" style="color:var(--faint)">ver en GitHub</a>
   </p>
   <span class="footer-logo">Hedos</span>
 </footer>
@@ -267,7 +286,7 @@ function renderHistory(data) {
   if (history.length < 2) {
     ctx.fillStyle = 'rgba(221,216,204,0.2)';
     ctx.font = '12px IBM Plex Mono';
-    ctx.fillText('Not enough history yet — check back in a few hours', 20, H/2);
+    ctx.fillText('Aún no hay suficiente historial — vuelve en unas horas', 20, H/2);
     return;
   }
 
@@ -412,7 +431,7 @@ async function init() {
   const data = await loadData();
   if (!data) {
     document.getElementById('hero-score').textContent = '—';
-    document.getElementById('nav-score').textContent  = 'no data';
+    document.getElementById('nav-score').textContent  = 'sin datos';
     document.getElementById('hero-score').style.color = 'var(--muted)';
     return;
   }

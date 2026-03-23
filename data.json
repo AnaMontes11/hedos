@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-23T20:35:33Z",
-  "global_score": 4.92,
-  "articles_scored": 96,
-  "words_matched": 265,
+  "generated": "2026-03-23T21:34:10Z",
+  "global_score": 4.9,
+  "articles_scored": 100,
+  "words_matched": 273,
   "top_negative": [
     {
       "word": "culo",
@@ -43,11 +43,15 @@
       "score": 4
     },
     {
+      "word": "alegre",
+      "score": 3
+    },
+    {
       "word": "paraíso",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "caro",
       "score": 3
     },
     {
@@ -59,30 +63,26 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "premios",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.83,
+    "El País": 4.84,
     "elDiario.es": 4.63,
     "El Mundo": 4.55,
-    "ABC": 5.64,
+    "ABC": 5.55,
     "El Confidencial": 4.97,
     "BBC Mundo": 5.08,
     "France 24 ES": 4.94,
-    "La Nación AR": 5.17,
+    "La Nación AR": 4.76,
     "La Jornada MX": 4.58,
     "Desinformémonos": 4.77,
-    "Resumen Latinoam.": 4.82
+    "Resumen Latinoam.": 5.11
   },
   "articles": [
     {
@@ -126,7 +126,7 @@
     {
       "source": "El País",
       "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trum",
-      "score": 4.8,
+      "score": 4.87,
       "words": [
         {
           "word": "ataque",
@@ -239,8 +239,20 @@
     {
       "source": "elDiario.es",
       "title": "Moreno adelanta las elecciones en Andalucía al 17 de mayo",
-      "score": 5.29,
+      "score": 5.31,
       "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "festivo",
+          "score": 2
+        },
+        {
+          "word": "festivo",
+          "score": 2
+        },
         {
           "word": "claro",
           "score": 1
@@ -248,18 +260,6 @@
         {
           "word": "favorito",
           "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "popular",
-          "score": 3
         }
       ]
     },
@@ -415,6 +415,10 @@
     {
       "timestamp": "2026-03-23T20:35:33Z",
       "score": 4.92
+    },
+    {
+      "timestamp": "2026-03-23T21:34:10Z",
+      "score": 4.9
     }
   ]
 }

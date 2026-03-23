@@ -1,0 +1,37 @@
+name: Hedos — hourly update
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Download AFINN-ES lexicon
+        run: curl -L "https://raw.githubusercontent.com/jboscomendoza/rpubs/master/sentimientos_afinn/lexico_afinn.en.es.csv" -o afinn_es.csv
+
+      - name: Run Hedos
+        run: python hedos.py
+
+      - name: Commit data.json
+        run: |
+          git config user.name  "hedos-bot"
+          git config user.email "hedos@users.noreply.github.com"
+          git add data.json
+          git diff --staged --quiet || git commit -m "data: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

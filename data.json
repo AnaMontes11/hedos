@@ -1,13 +1,9 @@
 {
-  "generated": "2026-03-24T04:17:31Z",
-  "global_score": 4.66,
-  "articles_scored": 96,
-  "words_matched": 265,
+  "generated": "2026-03-24T05:58:11Z",
+  "global_score": 4.69,
+  "articles_scored": 89,
+  "words_matched": 294,
   "top_negative": [
-    {
-      "word": "culo",
-      "score": -4
-    },
     {
       "word": "torturas",
       "score": -4
@@ -21,19 +17,23 @@
       "score": -4
     },
     {
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "violencia",
+      "score": -3
+    },
+    {
       "word": "crisis",
       "score": -3
     },
     {
-      "word": "abuso",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
       "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "desesperadamente",
       "score": -3
     }
   ],
@@ -43,11 +43,15 @@
       "score": 4
     },
     {
-      "word": "paraíso",
-      "score": 3
+      "word": "victorias",
+      "score": 4
     },
     {
-      "word": "calmar",
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "paraíso",
       "score": 3
     },
     {
@@ -55,36 +59,61 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "placer",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     },
     {
       "word": "celebrar",
       "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "genial",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.75,
-    "elDiario.es": 4.64,
+    "El País": 4.42,
+    "elDiario.es": 4.53,
     "El Mundo": 4.51,
-    "ABC": 4.44,
     "El Confidencial": 4.53,
     "BBC Mundo": 5.16,
-    "France 24 ES": 4.09,
-    "La Nación AR": 5.0,
+    "France 24 ES": 4.17,
+    "La Nación AR": 5.45,
     "La Jornada MX": 4.58,
     "Desinformémonos": 4.47,
     "Resumen Latinoam.": 5.25
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Los asesores de Abascal señalados por los críticos han facturado casi 1,3 millon",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Vox SA, dentelladas por ¿un partido o un negocio?",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "críticos",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "La convocatoria precipita el cambio de Gobierno más difícil: sustituir a María J",
@@ -102,218 +131,125 @@
     },
     {
       "source": "El País",
-      "title": "Trump asegura que hay conversaciones “productivas” con Irán y aplaza cinco días ",
-      "score": 5.0,
+      "title": "La escolta policial aumenta en la política del Ayuntamiento de Madrid: el acoso ",
+      "score": 4.0,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
+          "word": "aumenta",
+          "score": 1
         },
         {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "niega",
+          "word": "acoso",
           "score": -2
         },
         {
-          "word": "intereses",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trum",
-      "score": 5.32,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
+          "word": "peligro",
+          "score": -2
         },
         {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "alcanzar",
-          "score": 1
-        },
-        {
-          "word": "guerra",
+          "word": "cargos",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Los anuncios de Trump desatan otra jornada caótica en las Bolsas, que deja al pe",
-      "score": 5.27,
+      "title": "Israel prepara la gran invasión del sur de Líbano, ante la desesperación de sus ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "desesperación",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Está fallando el sistema de defensa aérea de Israel contra Irán?",
+      "score": 4.2,
       "words": [
         {
           "word": "ataques",
           "score": -1
-        },
-        {
-          "word": "euforia",
-          "score": 3
-        },
-        {
-          "word": "espera",
-          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "“Narcisista maligno” o “presidente sobrehumano”: el debate sobre la salud mental",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "sufre",
-          "score": -2
-        },
-        {
-          "word": "trastornos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel vuelve a cargar contra Sánchez por un vídeo propagandístico iraní",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estos son los más de 300 nuevos soletes Repsol: restaurantes, bares y cafeterías",
+      "title": "Vender al mejor postor: así se fija el precio en el multimillonario mercado del ",
       "score": 7.4,
       "words": [
         {
-          "word": "encanto",
+          "word": "mejor",
           "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Colombia cuenta 66 muertos tras el accidente de un avión militar mientras Gobier",
-      "score": 3.4,
+      "title": "Gonzalo Escrig, clavario de la Semana Santa de Sagunto: “No considero machirulo ",
+      "score": 4.2,
       "words": [
         {
-          "word": "accidente",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "dolor",
-          "score": -2
+          "word": "rechazar",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Meloni sufre su primera derrota en las urnas desde 2022 en un referéndum para re",
+      "title": "Vivir peor",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ante la eventualidad de que Vox llegue al Gobierno",
       "score": 5.0,
       "words": [
         {
-          "word": "sufre",
-          "score": -2
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "favor",
-          "score": 2
+          "word": "solitario",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Moreno adelanta las elecciones en Andalucía al 17 de mayo",
-      "score": 5.31,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "festivo",
-          "score": 2
-        },
-        {
-          "word": "festivo",
-          "score": 2
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "favorito",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Consejo de Estado falla contra el registro de jornada de Trabajo que boicoteó",
-      "score": 4.95,
-      "words": [
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "urgente",
-          "score": -1
-        },
-        {
-          "word": "aprueba",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Podemos se abstendrá el jueves en la votación del decreto por la guerra de Irán ",
-      "score": 4.64,
+      "title": "Trump busca a la desesperada una salida a la guerra en Irán ante la crisis econó",
+      "score": 5.02,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
+          "word": "crisis",
+          "score": -3
         },
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
         },
         {
           "word": "guerra",
@@ -323,11 +259,15 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP pide al Gobierno por carta nuevas medidas por la guerra de Irán para no de",
-      "score": 4.48,
+      "title": "Trump ha sido devorado por el caos que él puso en marcha",
+      "score": 4.69,
       "words": [
         {
-          "word": "guerra",
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "caos",
           "score": -2
         },
         {
@@ -335,43 +275,12 @@
           "score": -2
         },
         {
-          "word": "evita",
-          "score": -1
+          "word": "cierto",
+          "score": 2
         },
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump ordena “posponer” los ataques contra plantas energéticas de Irán tras unas",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "posponer",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "posponer",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
         }
       ]
     },
@@ -399,6 +308,60 @@
         {
           "word": "aprueba",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La relatora de la ONU denuncia que Israel practica torturas sistemáticas contra ",
+      "score": 3.36,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "torturas",
+          "score": -4
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "torturas",
+          "score": -4
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un juez de Getafe imputa por prevaricación al firmante de los 'protocolos de la ",
+      "score": 4.55,
+      "words": [
+        {
+          "word": "vergüenza",
+          "score": -2
+        },
+        {
+          "word": "vergüenza",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "autor",
+          "score": -2
         }
       ]
     }
@@ -439,6 +402,10 @@
     {
       "timestamp": "2026-03-24T04:17:31Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-03-24T05:58:11Z",
+      "score": 4.69
     }
   ]
 }

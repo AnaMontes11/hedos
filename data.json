@@ -1,24 +1,16 @@
 {
-  "generated": "2026-03-24T11:43:17Z",
-  "global_score": 4.75,
-  "articles_scored": 97,
-  "words_matched": 277,
+  "generated": "2026-03-24T13:06:40Z",
+  "global_score": 4.6,
+  "articles_scored": 100,
+  "words_matched": 286,
   "top_negative": [
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "infierno",
-      "score": -4
-    },
-    {
       "word": "tortura",
       "score": -4
-    },
-    {
-      "word": "perdió",
-      "score": -3
     },
     {
       "word": "crisis",
@@ -35,9 +27,21 @@
     {
       "word": "matar",
       "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "enemigos",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "ganador",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -47,15 +51,11 @@
       "score": 4
     },
     {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
       "word": "felicidad",
-      "score": 3
-    },
-    {
-      "word": "aliviado",
-      "score": 3
-    },
-    {
-      "word": "celebra",
       "score": 3
     },
     {
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.62,
-    "elDiario.es": 4.83,
-    "El Mundo": 4.29,
-    "ABC": 5.35,
-    "El Confidencial": 4.88,
+    "El País": 4.41,
+    "elDiario.es": 4.98,
+    "El Mundo": 4.46,
+    "ABC": 4.83,
+    "El Confidencial": 4.84,
     "BBC Mundo": 4.6,
-    "France 24 ES": 4.4,
-    "La Nación AR": 5.22,
+    "France 24 ES": 4.47,
+    "La Nación AR": 4.22,
     "La Jornada MX": 4.88,
     "Desinformémonos": 4.47,
-    "Resumen Latinoam.": 4.73
+    "Resumen Latinoam.": 4.31
   },
   "articles": [
     {
@@ -118,7 +118,7 @@
     {
       "source": "El País",
       "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Las ",
-      "score": 4.2,
+      "score": 3.93,
       "words": [
         {
           "word": "ataque",
@@ -127,6 +127,10 @@
         {
           "word": "dudas",
           "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
@@ -143,6 +147,17 @@
     },
     {
       "source": "El País",
+      "title": "Apuestas millonarias en derivados financieros predijeron minutos antes el anunci",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "picado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "¿Está fallando el sistema de defensa aérea de Israel contra Irán?",
       "score": 4.2,
       "words": [
@@ -154,42 +169,50 @@
     },
     {
       "source": "El País",
-      "title": "El final del futuro",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "perdió",
-          "score": -3
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las vidas que la dictadura argentina arrojó a España: “Soy hijo del exilio”",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "golpe",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Argentina: nunca más, 50 años después",
+      "title": "Israel anuncia que tomará el control militar del 10% del territorio de Líbano",
       "score": 5.8,
       "words": [
         {
-          "word": "permitir",
+          "word": "claro",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Gonzalo Escrig, clavario de la Semana Santa de Sagunto: “No considero machirulo ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "rechazar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Junts votará a favor del dec",
+      "score": 4.33,
+      "words": [
+        {
+          "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -217,6 +240,33 @@
         {
           "word": "guerra",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU amenaza a la UE con dejarla sin \"contratos favorables\" de gas si no se apru",
+      "score": 4.97,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "aprueba",
+          "score": 2
         }
       ]
     },
@@ -276,109 +326,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU amenaza a la UE con dejarla sin \"contratos favorables\" de gas si no se apru",
-      "score": 4.97,
+      "title": "Feijóo pide que el Gobierno acepte no votar este jueves el decreto de Irán y que",
+      "score": 4.74,
       "words": [
         {
-          "word": "amenaza",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "aprueba",
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "amenaza",
+          "word": "guerra",
           "score": -2
-        },
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Junts dará luz verde al decreto anticrisis a cambio de que el PSOE escenifique s",
+      "score": 5.8,
+      "words": [
         {
-          "word": "aprueba",
+          "word": "apoyo",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La autoridad disciplinaria del Poder Judicial pide archivar cuatro denuncias con",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "autoridad",
-          "score": 1
         },
         {
-          "word": "errores",
-          "score": -2
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "autoridad",
-          "score": 1
+          "word": "favor",
+          "score": 2
         },
         {
-          "word": "errores",
-          "score": -2
+          "word": "eximir",
+          "score": -1
         },
         {
-          "word": "tenso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Hechos probados... y olvidados por el juez Peinado para seguir persiguiendo a Be",
-      "score": 5.15,
-      "words": [
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "errores",
-          "score": -2
-        },
-        {
-          "word": "viva",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un juez de Getafe imputa por prevaricación al firmante de los 'protocolos de la ",
-      "score": 4.55,
-      "words": [
-        {
-          "word": "vergüenza",
-          "score": -2
-        },
-        {
-          "word": "vergüenza",
-          "score": -2
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "autor",
-          "score": -2
+          "word": "impuesto",
+          "score": -1
         }
       ]
     }
@@ -443,6 +439,10 @@
     {
       "timestamp": "2026-03-24T11:43:17Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-03-24T13:06:40Z",
+      "score": 4.6
     }
   ]
 }

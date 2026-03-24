@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-24T09:53:59Z",
-  "global_score": 4.7,
+  "generated": "2026-03-24T10:50:38Z",
+  "global_score": 4.67,
   "articles_scored": 100,
-  "words_matched": 280,
+  "words_matched": 285,
   "top_negative": [
     {
       "word": "culo",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "victorias",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
@@ -51,15 +47,11 @@
       "score": 4
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "amado",
-      "score": 3
-    },
-    {
       "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "celebrado",
       "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.21,
-    "elDiario.es": 4.75,
-    "El Mundo": 4.31,
-    "ABC": 4.85,
+    "El País": 4.45,
+    "elDiario.es": 4.83,
+    "El Mundo": 4.17,
+    "ABC": 4.43,
     "El Confidencial": 4.6,
-    "BBC Mundo": 5.16,
-    "France 24 ES": 4.74,
-    "La Nación AR": 5.15,
+    "BBC Mundo": 5.05,
+    "France 24 ES": 4.55,
+    "La Nación AR": 5.0,
     "La Jornada MX": 4.88,
     "Desinformémonos": 4.47,
-    "Resumen Latinoam.": 4.56
+    "Resumen Latinoam.": 4.81
   },
   "articles": [
     {
@@ -117,39 +117,31 @@
     },
     {
       "source": "El País",
-      "title": "La convocatoria precipita el cambio de Gobierno más difícil: sustituir a María J",
-      "score": 4.6,
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Las ",
+      "score": 3.93,
       "words": [
         {
-          "word": "difícil",
-          "score": -2
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "jesús",
-          "score": 1
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "denuncia",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La escolta policial aumenta en la política del Ayuntamiento de Madrid: el acoso ",
-      "score": 4.0,
+      "title": "El nuevo bandazo de Trump en Irán: mediadores misteriosos, contactos preliminare",
+      "score": 6.6,
       "words": [
         {
-          "word": "aumenta",
-          "score": 1
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        },
-        {
-          "word": "cargos",
-          "score": -2
+          "word": "capacidad",
+          "score": 2
         }
       ]
     },
@@ -172,25 +164,6 @@
         {
           "word": "ataques",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Las ",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "denuncia",
-          "score": -2
         }
       ]
     },
@@ -369,6 +342,33 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Hechos probados... y olvidados por el juez Peinado para seguir persiguiendo a Be",
+      "score": 5.15,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "errores",
+          "score": -2
+        },
+        {
+          "word": "viva",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
@@ -423,6 +423,10 @@
     {
       "timestamp": "2026-03-24T09:53:59Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-03-24T10:50:38Z",
+      "score": 4.67
     }
   ]
 }

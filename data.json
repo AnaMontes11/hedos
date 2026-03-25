@@ -1,23 +1,19 @@
 {
-  "generated": "2026-03-25T13:04:13Z",
-  "global_score": 4.59,
-  "articles_scored": 93,
-  "words_matched": 286,
+  "generated": "2026-03-25T14:56:26Z",
+  "global_score": 4.44,
+  "articles_scored": 98,
+  "words_matched": 319,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "tortura",
-      "score": -4
-    },
-    {
-      "word": "fraudulento",
+      "word": "infierno",
       "score": -4
     },
     {
@@ -25,8 +21,12 @@
       "score": -4
     },
     {
-      "word": "pierde",
-      "score": -3
+      "word": "fraudulento",
+      "score": -4
+    },
+    {
+      "word": "tortura",
+      "score": -4
     },
     {
       "word": "crimen",
@@ -39,7 +39,7 @@
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "divertido",
       "score": 4
     },
     {
@@ -51,7 +51,15 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "penetración",
+      "score": 3
+    },
+    {
+      "word": "suerte",
       "score": 3
     },
     {
@@ -61,30 +69,41 @@
     {
       "word": "amable",
       "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "celebrando",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.55,
-    "elDiario.es": 4.57,
-    "El Mundo": 4.58,
-    "ABC": 5.57,
-    "El Confidencial": 4.56,
-    "BBC Mundo": 4.52,
-    "France 24 ES": 4.36,
-    "La Nación AR": 4.92,
+    "El País": 3.9,
+    "elDiario.es": 4.49,
+    "El Mundo": 4.91,
+    "ABC": 5.35,
+    "El Confidencial": 4.49,
+    "BBC Mundo": 4.72,
+    "France 24 ES": 4.29,
+    "La Nación AR": 3.84,
     "La Jornada MX": 4.7,
     "Desinformémonos": 3.57,
-    "Resumen Latinoam.": 4.16
+    "Resumen Latinoam.": 4.22
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Sánchez se lanza contra PP y Vox: “Han contribuido con su apoyo y su silencio al",
@@ -135,59 +154,6 @@
         },
         {
           "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos presenta un plan de paz de 15 puntos, mientras planea el desplieg",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "establecido",
-          "score": 1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La guerra que nunca pierde Israel: sus servicios secretos vuelven a encadenar ma",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "asesinatos",
           "score": -2
         }
       ]
@@ -257,9 +223,31 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "“A tomar por culo, nos estamos desconectando”: los audios entre Red Eléctrica y ",
+      "score": 1.8,
+      "words": [
+        {
+          "word": "culo",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Novedades en la declaración de la renta 2025-2026: ayudas para el gimnasio y ded",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "cobrar",
+          "score": -2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Sánchez alerta de que los efectos de Irán serán \"mucho peores\" que los de Irak y",
-      "score": 4.19,
+      "score": 4.26,
       "words": [
         {
           "word": "alerta",
@@ -312,109 +300,109 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Diputación de Valencia ficha en comisión de servicios a la pareja de Pérez Ll",
-      "score": 4.78,
+      "title": "Trump moviliza unidades de paracaidistas para desplegarse en el Golfo Pérsico mi",
+      "score": 5.03,
       "words": [
         {
-          "word": "puesto",
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "ganar",
-          "score": 4
+          "word": "combate",
+          "score": -1
         },
         {
-          "word": "popular",
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "\"Detengan a este ser salvaje\": los iraníes temen que el aplazamiento del ataque ",
+      "score": 4.62,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "desastre",
+          "score": -2
+        },
+        {
+          "word": "mayor",
           "score": 3
         },
         {
-          "word": "puesto",
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Una \"lluvia negra\" sobre Irán y agua contaminada: la guerra desata una crisis ec",
+      "score": 4.02,
+      "words": [
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "cobrar",
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "conflicto",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La vicepresidenta de la Diputación, sobre la pareja de Pérez Llorca: \"Cada uno t",
-      "score": 4.91,
+      "title": "Quién es Mohamad Ghalibaf, el hombre fuerte de Irán que acapara las miradas mien",
+      "score": 4.41,
       "words": [
         {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "cubrir",
-          "score": -3
-        },
-        {
-          "word": "cubrir",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las acusaciones de PSOE y Más Madrid recurren el archivo para la número 3 de Ayu",
-      "score": 4.66,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "superior",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La fundación financiada por Vox declaró 630.000 euros en pagos por \"servicios a ",
-      "score": 4.85,
-      "words": [
-        {
-          "word": "libertad",
+          "word": "fuerte",
           "score": 2
         },
         {
-          "word": "alcanzado",
-          "score": 1
+          "word": "negociar",
+          "score": 2
         },
         {
-          "word": "aislado",
-          "score": -1
+          "word": "fuerte",
+          "score": 2
         },
         {
-          "word": "legal",
-          "score": 1
+          "word": "negociar",
+          "score": 2
         },
         {
-          "word": "paga",
-          "score": -1
+          "word": "guerra",
+          "score": -2
         }
       ]
     }
@@ -555,6 +543,10 @@
     {
       "timestamp": "2026-03-25T13:04:13Z",
       "score": 4.59
+    },
+    {
+      "timestamp": "2026-03-25T14:56:26Z",
+      "score": 4.44
     }
   ]
 }

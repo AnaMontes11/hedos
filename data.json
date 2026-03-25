@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-25T11:39:55Z",
-  "global_score": 4.57,
+  "generated": "2026-03-25T13:04:13Z",
+  "global_score": 4.59,
   "articles_scored": 93,
-  "words_matched": 321,
+  "words_matched": 286,
   "top_negative": [
     {
       "word": "culo",
@@ -10,10 +10,6 @@
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "infierno",
       "score": -4
     },
     {
@@ -33,33 +29,29 @@
       "score": -3
     },
     {
+      "word": "crimen",
+      "score": -3
+    },
+    {
       "word": "destruir",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "divertido",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "emoción",
+      "word": "victorias",
+      "score": 4
+    },
+    {
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "celebrar",
       "score": 3
     },
     {
@@ -69,18 +61,26 @@
     {
       "word": "amable",
       "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.35,
-    "elDiario.es": 4.44,
-    "El Mundo": 4.27,
-    "ABC": 5.26,
-    "El Confidencial": 5.04,
-    "BBC Mundo": 4.48,
-    "France 24 ES": 4.48,
-    "La Nación AR": 4.98,
-    "La Jornada MX": 4.88,
+    "El País": 4.55,
+    "elDiario.es": 4.57,
+    "El Mundo": 4.58,
+    "ABC": 5.57,
+    "El Confidencial": 4.56,
+    "BBC Mundo": 4.52,
+    "France 24 ES": 4.36,
+    "La Nación AR": 4.92,
+    "La Jornada MX": 4.7,
     "Desinformémonos": 3.57,
     "Resumen Latinoam.": 4.16
   },
@@ -194,24 +194,12 @@
     },
     {
       "source": "El País",
-      "title": "La Comunidad de Madrid inaugura un polémico ciclo de charlas sobre terrorismo en",
-      "score": 4.6,
+      "title": "PP y Vox cierran un principio de acuerdo programático para un Gobierno de coalic",
+      "score": 5.8,
       "words": [
         {
-          "word": "polémico",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -236,12 +224,20 @@
     },
     {
       "source": "El País",
-      "title": "La Diputación de Valencia contrata a la pareja de Pérez Llorca por “urgente nece",
-      "score": 4.2,
+      "title": "La misteriosa desaparición de un testigo del crimen sin resolver de la viuda de ",
+      "score": 4.73,
       "words": [
         {
-          "word": "urgente",
-          "score": -1
+          "word": "crimen",
+          "score": -3
+        },
+        {
+          "word": "resolver",
+          "score": 1
+        },
+        {
+          "word": "jesús",
+          "score": 1
         }
       ]
     },
@@ -289,6 +285,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Aznar responde a Sánchez y defiende dos décadas después la guerra de Irak: \"Sada",
+      "score": 5.05,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "destrucción",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "destrucción",
+          "score": -3
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La Diputación de Valencia ficha en comisión de servicios a la pareja de Pérez Ll",
       "score": 4.78,
       "words": [
@@ -311,6 +334,33 @@
         {
           "word": "cobrar",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La vicepresidenta de la Diputación, sobre la pareja de Pérez Llorca: \"Cada uno t",
+      "score": 4.91,
+      "words": [
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "cobrar",
+          "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "cubrir",
+          "score": -3
+        },
+        {
+          "word": "cubrir",
+          "score": -3
         }
       ]
     },
@@ -365,60 +415,6 @@
         {
           "word": "paga",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Vox se querella contra Joan Baldoví por sus críticas a las irregularidades de Re",
-      "score": 3.58,
-      "words": [
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "juvenil",
-          "score": 2
-        },
-        {
-          "word": "ruptura",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "despectivo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump moviliza unidades de paracaidistas para desplegarse en el Golfo Pérsico mi",
-      "score": 5.03,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "combate",
-          "score": -1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
         }
       ]
     }
@@ -555,6 +551,10 @@
     {
       "timestamp": "2026-03-25T11:39:55Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-03-25T13:04:13Z",
+      "score": 4.59
     }
   ]
 }

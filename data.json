@@ -1,13 +1,9 @@
 {
-  "generated": "2026-03-25T08:48:04Z",
-  "global_score": 4.57,
+  "generated": "2026-03-25T09:51:53Z",
+  "global_score": 4.5,
   "articles_scored": 93,
-  "words_matched": 300,
+  "words_matched": 313,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -29,11 +25,15 @@
       "score": -3
     },
     {
-      "word": "odio",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "cruel",
       "score": -3
     }
   ],
@@ -43,11 +43,19 @@
       "score": 4
     },
     {
+      "word": "exitoso",
+      "score": 3
+    },
+    {
       "word": "emoción",
       "score": 3
     },
     {
-      "word": "maravilla",
+      "word": "galardonado",
+      "score": 3
+    },
+    {
+      "word": "suerte",
       "score": 3
     },
     {
@@ -61,25 +69,17 @@
     {
       "word": "premio",
       "score": 3
-    },
-    {
-      "word": "celebrando",
-      "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.44,
-    "elDiario.es": 4.6,
-    "El Mundo": 4.38,
-    "ABC": 5.01,
-    "El Confidencial": 4.96,
+    "El País": 4.28,
+    "elDiario.es": 4.46,
+    "El Mundo": 4.44,
+    "ABC": 5.17,
+    "El Confidencial": 4.97,
     "BBC Mundo": 4.04,
     "France 24 ES": 4.48,
-    "La Nación AR": 5.61,
+    "La Nación AR": 4.75,
     "La Jornada MX": 4.88,
     "Desinformémonos": 3.57,
     "Resumen Latinoam.": 4.16
@@ -87,28 +87,55 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Sánchez: “Aznar nos arrastró",
-      "score": 4.66,
+      "title": "Sánchez se lanza contra PP y Vox: “Han contribuido con su apoyo y su silencio al",
+      "score": 4.33,
       "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "desastre",
+          "score": -2
+        },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "cometer",
-          "score": 1
-        },
-        {
-          "word": "error",
+          "word": "guerra",
           "score": -2
         },
         {
+          "word": "asegurar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Feijóo: “Difícilmente se pue",
+      "score": 3.86,
+      "words": [
+        {
           "word": "paz",
           "score": 2
+        },
+        {
+          "word": "propaganda",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "desastre",
+          "score": -2
         }
       ]
     },
@@ -238,17 +265,56 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Dimite la presidenta de los estudiantes de Medicina: “Los sindicatos admiten en ",
-      "score": 5.0,
+      "source": "elDiario.es",
+      "title": "Sánchez alerta de que los efectos de Irán serán \"mucho peores\" que los de Irak y",
+      "score": 4.26,
       "words": [
         {
-          "word": "rechazando",
+          "word": "alerta",
           "score": -1
         },
         {
-          "word": "intereses",
-          "score": 1
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Diputación de Valencia ficha en comisión de servicios a la pareja de Pérez Ll",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "puesto",
+          "score": -2
         }
       ]
     },
@@ -308,87 +374,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Diputación de Valencia ficha en comisión de servicios a la pareja de Pérez Ll",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La convocatoria en Andalucía encuentra al PP atrapado en la negociación con Vox ",
-      "score": 4.93,
-      "words": [
-        {
-          "word": "atrapado",
-          "score": -2
-        },
-        {
-          "word": "atrapado",
-          "score": -2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "jesús",
-          "score": 1
-        },
-        {
-          "word": "miedo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Podemos apura la cuenta atrás hasta el 6 de abril para decidir si concurre a las",
-      "score": 4.79,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        },
-        {
-          "word": "despejado",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "La jueza de la dana pone al testigo Mazón ante el dilema de dar sus whatsapps y ",
       "score": 4.28,
       "words": [
@@ -411,6 +396,33 @@
         {
           "word": "sospecha",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un país con menos bares, menos médicos y más impuestos: cómo sería España con un",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "riqueza",
+          "score": 3
+        },
+        {
+          "word": "fuerte",
+          "score": 2
         }
       ]
     }
@@ -535,6 +547,10 @@
     {
       "timestamp": "2026-03-25T08:48:04Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-03-25T09:51:53Z",
+      "score": 4.5
     }
   ]
 }

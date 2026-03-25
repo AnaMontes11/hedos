@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-25T01:59:06Z",
-  "global_score": 4.69,
-  "articles_scored": 95,
-  "words_matched": 258,
+  "generated": "2026-03-25T04:26:54Z",
+  "global_score": 4.66,
+  "articles_scored": 93,
+  "words_matched": 254,
   "top_negative": [
     {
       "word": "culo",
@@ -10,6 +10,10 @@
     },
     {
       "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "violación",
       "score": -4
     },
     {
@@ -31,13 +35,13 @@
     {
       "word": "mal",
       "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -51,11 +55,7 @@
       "score": 3
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "alegre",
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -75,11 +75,11 @@
     "El País": 4.95,
     "elDiario.es": 5.02,
     "El Mundo": 4.6,
-    "ABC": 5.33,
-    "El Confidencial": 4.71,
-    "BBC Mundo": 3.99,
-    "France 24 ES": 4.19,
-    "La Nación AR": 6.27,
+    "ABC": 4.51,
+    "El Confidencial": 5.4,
+    "BBC Mundo": 4.04,
+    "France 24 ES": 4.17,
+    "La Nación AR": 5.86,
     "La Jornada MX": 4.88,
     "Desinformémonos": 3.57,
     "Resumen Latinoam.": 4.16
@@ -503,6 +503,10 @@
     {
       "timestamp": "2026-03-25T01:59:06Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-03-25T04:26:54Z",
+      "score": 4.66
     }
   ]
 }

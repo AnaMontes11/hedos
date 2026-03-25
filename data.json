@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-25T16:10:54Z",
-  "global_score": 4.58,
-  "articles_scored": 94,
-  "words_matched": 295,
+  "generated": "2026-03-25T17:56:54Z",
+  "global_score": 4.59,
+  "articles_scored": 92,
+  "words_matched": 306,
   "top_negative": [
     {
       "word": "negro",
@@ -21,37 +21,33 @@
       "score": -4
     },
     {
-      "word": "tortura",
-      "score": -4
-    },
-    {
-      "word": "crimen",
-      "score": -3
-    },
-    {
       "word": "destruir",
       "score": -3
     },
     {
       "word": "peor",
       "score": -3
+    },
+    {
+      "word": "cruel",
+      "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganador",
-      "score": 4
-    },
     {
       "word": "alegría",
       "score": 4
     },
     {
-      "word": "ganar",
+      "word": "divertido",
       "score": 4
     },
     {
-      "word": "divertido",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -63,36 +59,67 @@
       "score": 3
     },
     {
-      "word": "agradable",
+      "word": "celebra",
       "score": 3
     },
     {
       "word": "mejor",
       "score": 3
+    },
+    {
+      "word": "perfecto",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.9,
-    "elDiario.es": 4.75,
-    "El Mundo": 4.79,
-    "ABC": 5.53,
-    "El Confidencial": 4.66,
-    "BBC Mundo": 4.26,
-    "France 24 ES": 4.24,
-    "La Nación AR": 4.57,
+    "El País": 4.22,
+    "elDiario.es": 4.85,
+    "El Mundo": 4.77,
+    "ABC": 4.3,
+    "El Confidencial": 4.35,
+    "BBC Mundo": 4.23,
+    "France 24 ES": 4.36,
+    "La Nación AR": 5.04,
     "La Jornada MX": 4.7,
-    "Desinformémonos": 4.37,
-    "Resumen Latinoam.": 4.48
+    "Desinformémonos": 4.5,
+    "Resumen Latinoam.": 5.49
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán",
-      "score": 3.93,
+      "title": "Irán rechaza la oferta de Estados Unidos para acabar la guerra",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "oportunidad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Neta",
+      "score": 3.8,
       "words": [
         {
           "word": "ataque",
           "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "rechaza",
@@ -182,57 +209,61 @@
     },
     {
       "source": "El País",
-      "title": "La misteriosa desaparición de un testigo del crimen sin resolver de la viuda de ",
-      "score": 4.73,
+      "title": "El insólito caso de la rodilla de Mbappé y saber dónde duele",
+      "score": 5.8,
       "words": [
         {
-          "word": "crimen",
-          "score": -3
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        },
-        {
-          "word": "jesús",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Que le corten la cabeza a Rosalía",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "rabia",
+          "word": "duele",
           "score": -2
         },
         {
-          "word": "envidia",
-          "score": -1
+          "word": "suerte",
+          "score": 3
+        },
+        {
+          "word": "posibilidades",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "“A tomar por culo, nos estamos desconectando”: los audios entre Red Eléctrica y ",
+      "title": "Meloni fuerza la dimisión de una ministra que se negaba a renunciar",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "renunciar",
+          "score": -1
+        },
+        {
+          "word": "abandonar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Meta y YouTube pierden el juicio sobre la adicción de los menores a redes social",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "sentencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“A tomar por culo, nos estamos desconectando”: los audios entre REE y las empres",
       "score": 1.8,
       "words": [
         {
           "word": "culo",
           "score": -4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Novedades en la declaración de la renta 2025-2026: ayudas para el gimnasio y ded",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "cobrar",
-          "score": -2
         }
       ]
     },
@@ -292,108 +323,81 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump moviliza unidades de paracaidistas para desplegarse en el Golfo Pérsico mi",
-      "score": 5.03,
+      "title": "Letta: \"Europa es una colonia de Estados Unidos en los sectores de tecnología y ",
+      "score": 4.98,
       "words": [
         {
-          "word": "paz",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "paz",
+          "word": "autor",
+          "score": -2
+        },
+        {
+          "word": "impulsar",
+          "score": 1
+        },
+        {
+          "word": "importante",
           "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "combate",
-          "score": -1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
+          "word": "ganado",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Crece la presión a Starmer para que el Reino Unido vuelva al mercado único de la",
-      "score": 5.59,
+      "title": "Vox apuesta por la continuidad \"sin sorpresas\" y nombrará candidato a su portavo",
+      "score": 5.53,
       "words": [
         {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Detengan a este ser salvaje\": los iraníes temen que el aplazamiento del ataque ",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "solo",
+          "word": "miedo",
           "score": -2
         },
         {
-          "word": "desastre",
-          "score": -2
+          "word": "confianza",
+          "score": 1
         },
         {
           "word": "mayor",
           "score": 3
         },
         {
-          "word": "ataque",
-          "score": -1
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "estable",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Una \"lluvia negra\" sobre Irán y agua contaminada: la guerra desata una crisis ec",
-      "score": 4.02,
+      "title": "Quién es Mohamad Ghalibaf, el hombre fuerte de Irán que acapara las miradas mien",
+      "score": 4.41,
       "words": [
         {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
           "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "conflicto",
           "score": -2
         }
       ]
@@ -543,6 +547,10 @@
     {
       "timestamp": "2026-03-25T16:10:54Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-03-25T17:56:54Z",
+      "score": 4.59
     }
   ]
 }

@@ -1,31 +1,23 @@
 {
-  "generated": "2026-03-26T13:09:15Z",
-  "global_score": 4.64,
-  "articles_scored": 93,
-  "words_matched": 288,
+  "generated": "2026-03-26T15:01:46Z",
+  "global_score": 4.65,
+  "articles_scored": 98,
+  "words_matched": 266,
   "top_negative": [
+    {
+      "word": "violación",
+      "score": -4
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "mierda",
+      "word": "infierno",
       "score": -4
     },
     {
-      "word": "víctima",
-      "score": -3
-    },
-    {
-      "word": "abusos",
-      "score": -3
-    },
-    {
       "word": "muerto",
-      "score": -3
-    },
-    {
-      "word": "crisis",
       "score": -3
     },
     {
@@ -33,7 +25,15 @@
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "malo",
+      "score": -3
+    },
+    {
+      "word": "odio",
       "score": -3
     }
   ],
@@ -43,19 +43,19 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "alegrarse",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
       "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "excelencia",
       "score": 3
     },
     {
@@ -72,49 +72,61 @@
     }
   ],
   "per_source": {
-    "El País": 3.82,
-    "elDiario.es": 4.75,
-    "El Mundo": 4.46,
-    "ABC": 5.3,
-    "El Confidencial": 4.75,
-    "BBC Mundo": 4.48,
-    "France 24 ES": 4.19,
-    "La Nación AR": 5.17,
+    "El País": 3.54,
+    "elDiario.es": 5.0,
+    "El Mundo": 4.83,
+    "ABC": 5.07,
+    "El Confidencial": 4.38,
+    "BBC Mundo": 4.32,
+    "France 24 ES": 4.54,
+    "La Nación AR": 4.57,
     "La Jornada MX": 4.47,
-    "Desinformémonos": 5.13,
-    "Resumen Latinoam.": 4.59
+    "Desinformémonos": 5.36,
+    "Resumen Latinoam.": 4.8
   },
   "articles": [
     {
       "source": "El País",
-      "title": "“Chicos de 13 años me han provocado”: las palabras del obispo Bernardo Álvarez a",
-      "score": 3.4,
+      "title": "Última hora de la actualidad política, en directo | El Congreso debate el decret",
+      "score": 4.8,
       "words": [
         {
-          "word": "provocado",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "provocar",
           "score": -1
         },
         {
-          "word": "víctima",
-          "score": -3
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "afectado",
-          "score": -1
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trum",
-      "score": 4.6,
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán",
+      "score": 4.4,
       "words": [
         {
           "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "espera",
           "score": -1
         },
         {
@@ -124,59 +136,28 @@
         {
           "word": "asegura",
           "score": 2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "muerto",
-          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Los paramédicos bajo las bombas en el sur de Líbano: “De aquí no me voy”",
-      "score": 4.2,
+      "title": "Vox, sobre la negociación en Extremadura: “Parece que estamos avanzando a pesar ",
+      "score": 3.4,
       "words": [
         {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "límites",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Ali Vaez, experto en Irán de International Crisis Group: “Trump ha iniciado una ",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "guerra",
+          "word": "demandas",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo |El PP se abstendrá en la vota",
-      "score": 5.0,
+      "title": "El COI anuncia que solo las mujeres biológicas podrán participar en disciplinas ",
+      "score": 3.4,
       "words": [
         {
-          "word": "guerra",
+          "word": "solo",
           "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
         }
       ]
     },
@@ -205,28 +186,12 @@
     },
     {
       "source": "El País",
-      "title": "Pasión y muerte de Noelia Castillo",
-      "score": 3.4,
+      "title": "Los bulos sobre Noelia Castillo: de la violación de ‘menas’ a la “eutanasia por ",
+      "score": 1.8,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "temido",
-          "score": -2
+          "word": "violación",
+          "score": -4
         }
       ]
     },
@@ -274,28 +239,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez marca el paso a Feijóo y Abascal con el ‘no a la guerra’ y amarra la reb",
-      "score": 4.57,
+      "title": "Entre la oportunidad y el desafío: el escenario en el que se mueven las renovabl",
+      "score": 5.62,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "oportunidad",
+          "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "oportunidad",
+          "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "oportunidades",
+          "score": 2
         },
         {
-          "word": "ilegal",
-          "score": -3
+          "word": "oportunidad",
+          "score": 2
         },
         {
-          "word": "intereses",
-          "score": 1
+          "word": "oportunidad",
+          "score": 2
         }
       ]
     },
@@ -382,6 +347,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "España, líder en innovación biotecnológica: “Uno de cada dos ensayos clínicos en",
+      "score": 5.57,
+      "words": [
+        {
+          "word": "innovación",
+          "score": 1
+        },
+        {
+          "word": "innovación",
+          "score": 1
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "optimista",
+          "score": 2
+        },
+        {
+          "word": "excelencia",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El PP se abstendrá en la convalidación del decreto del Gobierno ante la guerra d",
       "score": 4.31,
       "words": [
@@ -409,28 +401,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Vox prueba en Extremadura la debilidad negociadora del PP: pide sanidad para los",
-      "score": 4.92,
+      "title": "El PSOE se une a PP, Vox, Junts y PNV para aprobar definitivamente que se endure",
+      "score": 4.54,
       "words": [
         {
-          "word": "debilidad",
-          "score": -2
-        },
-        {
-          "word": "debilidad",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "atrapado",
+          "word": "autores",
           "score": -2
         },
         {
           "word": "pasado",
           "score": -1
+        },
+        {
+          "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     }
@@ -635,6 +627,10 @@
     {
       "timestamp": "2026-03-26T13:09:15Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-03-26T15:01:46Z",
+      "score": 4.65
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
-  "generated": "2026-03-26T05:04:02Z",
-  "global_score": 4.62,
-  "articles_scored": 96,
-  "words_matched": 310,
+  "generated": "2026-03-26T07:05:01Z",
+  "global_score": 4.6,
+  "articles_scored": 97,
+  "words_matched": 314,
   "top_negative": [
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "mierda",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "muerto",
       "score": -3
-    },
-    {
-      "word": "pierde",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,23 +43,11 @@
       "score": 4
     },
     {
-      "word": "divertido",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "victorias",
-      "score": 4
-    },
-    {
       "word": "premios",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "premio",
       "score": 3
     },
     {
@@ -67,19 +55,31 @@
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "emoción",
+      "score": 3
+    },
+    {
+      "word": "emocionante",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 3.94,
-    "elDiario.es": 5.03,
+    "elDiario.es": 4.67,
     "El Mundo": 4.6,
-    "ABC": 4.3,
+    "ABC": 5.21,
     "El Confidencial": 4.58,
     "BBC Mundo": 4.8,
-    "France 24 ES": 4.29,
-    "La Nación AR": 5.0,
+    "France 24 ES": 4.16,
+    "La Nación AR": 4.06,
     "La Jornada MX": 4.7,
     "Desinformémonos": 5.13,
     "Resumen Latinoam.": 4.59
@@ -140,17 +140,6 @@
     },
     {
       "source": "El País",
-      "title": "La justicia bloquea las cuentas de Análisis Relevante, la consultora que pagó a ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El Gobierno recompone la mayoría de la investidura con Junts para hacer frente a",
       "score": 3.67,
       "words": [
@@ -165,6 +154,17 @@
         {
           "word": "evita",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La justicia bloquea las cuentas de Análisis Relevante, la consultora que pagó a ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
         }
       ]
     },
@@ -250,6 +250,141 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Irán fija sus condiciones y aleja la posibilidad de una salida negociada mientra",
+      "score": 4.61,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El impacto del bloqueo de Ormuz amenaza con paralizar Taiwán, el principal fabri",
+      "score": 4.37,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "natural",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El jefe de la agencia marítima de la ONU: \"Nuestra prioridad es evacuar a los 20",
+      "score": 4.52,
+      "words": [
+        {
+          "word": "interrupción",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "seguro",
+          "score": 2
+        },
+        {
+          "word": "pánico",
+          "score": -3
+        },
+        {
+          "word": "energético",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Por qué es improbable que el plan de 15 puntos de Trump contente a Irán",
+      "score": 4.98,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez marca el paso a Feijóo y Abascal con el ‘no a la guerra’ y amarra la reb",
+      "score": 4.57,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "intereses",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Sánchez alerta de que los efectos de Irán serán \"mucho peores\" que los de Irak y",
       "score": 4.26,
       "words": [
@@ -272,141 +407,6 @@
         {
           "word": "guerra",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Aznar responde a Sánchez y defiende dos décadas después la guerra de Irak: \"Sada",
-      "score": 5.05,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "destrucción",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "destrucción",
-          "score": -3
-        },
-        {
-          "word": "alerta",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Letta: \"Europa es una colonia de Estados Unidos en los sectores de tecnología y ",
-      "score": 4.98,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "autor",
-          "score": -2
-        },
-        {
-          "word": "impulsar",
-          "score": 1
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "ganado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Fondo España Crece: un motor de 120.000 millones para blindar la inversión frent",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "asegurando",
-          "score": 1
-        },
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Hereu defiende el \"crecimiento sosegado\" del turismo en España tras alcanzar réc",
-      "score": 6.0,
-      "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "sosegado",
-          "score": 2
-        },
-        {
-          "word": "alcanzar",
-          "score": 1
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "sosegado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La industria del futuro, a debate: “Estamos en pleno relanzamiento de la antigua",
-      "score": 5.24,
-      "words": [
-        {
-          "word": "interesante",
-          "score": 2
-        },
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "importancia",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
         }
       ]
     }
@@ -591,6 +591,10 @@
     {
       "timestamp": "2026-03-26T05:04:02Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-03-26T07:05:01Z",
+      "score": 4.6
     }
   ]
 }

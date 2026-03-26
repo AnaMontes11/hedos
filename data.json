@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-26T18:02:33Z",
-  "global_score": 4.68,
+  "generated": "2026-03-26T19:53:16Z",
+  "global_score": 4.88,
   "articles_scored": 92,
-  "words_matched": 275,
+  "words_matched": 267,
   "top_negative": [
     {
       "word": "negro",
@@ -13,11 +13,15 @@
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "mierda",
       "score": -4
     },
     {
-      "word": "morir",
+      "word": "infierno",
+      "score": -4
+    },
+    {
+      "word": "muerto",
       "score": -3
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "preocupado",
       "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,90 +43,64 @@
       "score": 5
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "riqueza",
       "score": 3
     },
     {
-      "word": "galante",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "penetración",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "diversiones",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     },
     {
       "word": "excelencia",
       "score": 3
-    },
-    {
-      "word": "excelente",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.33,
-    "elDiario.es": 5.0,
-    "El Mundo": 4.53,
-    "ABC": 4.98,
-    "El Confidencial": 4.45,
+    "El País": 4.79,
+    "elDiario.es": 5.02,
+    "El Mundo": 5.06,
+    "ABC": 5.26,
+    "El Confidencial": 4.5,
     "BBC Mundo": 4.72,
-    "France 24 ES": 4.2,
-    "La Nación AR": 4.75,
+    "France 24 ES": 4.4,
+    "La Nación AR": 5.0,
     "La Jornada MX": 4.47,
     "Desinformémonos": 5.1,
-    "Resumen Latinoam.": 4.84
+    "Resumen Latinoam.": 5.31
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Sánchez nombra a Carlos Cuer",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "jesús",
-          "score": 1
-        },
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Carlos Cuerpo, un perfil técnico y sosegado como número dos del Gobierno",
-      "score": 6.2,
+      "score": 5.53,
       "words": [
         {
           "word": "sosegado",
           "score": 2
         },
         {
-          "word": "jesús",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La mayoría de investidura ratifica el escudo social por la guerra de Irán con la",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
+          "word": "tiempo",
           "score": -2
+        },
+        {
+          "word": "ganado",
+          "score": 2
         }
       ]
     },
@@ -178,24 +152,58 @@
     },
     {
       "source": "El País",
-      "title": "Noelia Castillo, ante su eutanasia tras 601 días de espera: “No puedo más con es",
-      "score": 3.6,
+      "title": "Noelia Castillo ha muerto por eutanasia tras 601 días de espera",
+      "score": 4.4,
       "words": [
+        {
+          "word": "muerto",
+          "score": -3
+        },
         {
           "word": "espera",
           "score": -1
         },
         {
-          "word": "morir",
-          "score": -3
+          "word": "cumplido",
+          "score": 2
         },
         {
-          "word": "denuncia",
+          "word": "espera",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Qué mejoras necesita la ley de la eutanasia?",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "jesús",
+          "score": 1
+        },
+        {
+          "word": "bueno",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La muerte digna de Noelia Castillo",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "muerte",
           "score": -2
         },
         {
-          "word": "ignora",
-          "score": -1
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "sufrimiento",
+          "score": -2
         }
       ]
     },
@@ -211,28 +219,21 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Cronología del ‘caso Noelia’| La joven parapléjica tiene programada la eutanasia",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "morir",
-          "score": -3
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Sánchez nombra vicepresidente a Carlos Cuerpo y ministro de Hacienda a Arcadi Es",
-      "score": 5.24,
+      "score": 5.36,
       "words": [
         {
           "word": "jesús",
           "score": 1
+        },
+        {
+          "word": "tranquilo",
+          "score": 2
+        },
+        {
+          "word": "tranquilo",
+          "score": 2
         },
         {
           "word": "evitado",
@@ -241,14 +242,6 @@
         {
           "word": "crisis",
           "score": -3
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "puesto",
-          "score": -2
         }
       ]
     },
@@ -308,6 +301,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Todo controlado",
+      "score": 5.22,
+      "words": [
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        },
+        {
+          "word": "soluciones",
+          "score": 1
+        },
+        {
+          "word": "cubrir",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El Congreso convalida el decreto para paliar los efectos económicos de la guerra",
       "score": 4.98,
       "words": [
@@ -335,33 +355,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PSOE se une a PP, Vox, Junts y PNV para aprobar definitivamente que se endure",
-      "score": 4.54,
-      "words": [
-        {
-          "word": "autores",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Sánchez pide \"no doblegarse\" ante Estados Unidos para construir una Europa \"más ",
       "score": 5.25,
       "words": [
@@ -384,6 +377,33 @@
         {
           "word": "compromiso",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Por qué molestarse en hablar de la guerra de Irán cuando puedes meterte un chute",
+      "score": 4.38,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "alerta",
+          "score": -1
         }
       ]
     },
@@ -627,6 +647,10 @@
     {
       "timestamp": "2026-03-26T18:02:33Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-03-26T19:53:16Z",
+      "score": 4.88
     }
   ]
 }

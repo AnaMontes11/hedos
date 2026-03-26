@@ -1,9 +1,13 @@
 {
-  "generated": "2026-03-26T22:27:16Z",
-  "global_score": 4.86,
-  "articles_scored": 93,
+  "generated": "2026-03-26T23:30:27Z",
+  "global_score": 4.8,
+  "articles_scored": 92,
   "words_matched": 271,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "violación",
       "score": -4
@@ -11,10 +15,6 @@
     {
       "word": "mierda",
       "score": -4
-    },
-    {
-      "word": "destruir",
-      "score": -3
     },
     {
       "word": "muerto",
@@ -43,20 +43,12 @@
       "score": 5
     },
     {
-      "word": "ganador",
+      "word": "triunfo",
       "score": 4
     },
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "calmar",
-      "score": 3
     },
     {
       "word": "celebrar",
@@ -69,17 +61,25 @@
     {
       "word": "excelente",
       "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.67,
+    "El País": 4.72,
     "elDiario.es": 5.02,
     "El Mundo": 5.06,
-    "ABC": 4.8,
+    "ABC": 4.63,
     "El Confidencial": 4.32,
     "BBC Mundo": 4.87,
     "France 24 ES": 5.28,
-    "La Nación AR": 5.2,
+    "La Nación AR": 4.74,
     "La Jornada MX": 4.47,
     "Desinformémonos": 5.1,
     "Resumen Latinoam.": 4.49
@@ -134,7 +134,7 @@
     {
       "source": "El País",
       "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trum",
-      "score": 4.2,
+      "score": 4.52,
       "words": [
         {
           "word": "ataque",
@@ -145,16 +145,16 @@
           "score": -1
         },
         {
-          "word": "destruir",
-          "score": -3
-        },
-        {
           "word": "guerra",
           "score": -2
         },
         {
           "word": "apoyo",
           "score": 2
+        },
+        {
+          "word": "ataques",
+          "score": -1
         }
       ]
     },
@@ -671,6 +671,10 @@
     {
       "timestamp": "2026-03-26T22:27:16Z",
       "score": 4.86
+    },
+    {
+      "timestamp": "2026-03-26T23:30:27Z",
+      "score": 4.8
     }
   ]
 }

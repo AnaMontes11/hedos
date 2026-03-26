@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-26T16:58:25Z",
-  "global_score": 4.62,
-  "articles_scored": 96,
-  "words_matched": 272,
+  "generated": "2026-03-26T18:02:33Z",
+  "global_score": 4.68,
+  "articles_scored": 92,
+  "words_matched": 275,
   "top_negative": [
     {
       "word": "negro",
@@ -25,29 +25,33 @@
       "score": -3
     },
     {
+      "word": "enfado",
+      "score": -3
+    },
+    {
+      "word": "preocupado",
+      "score": -3
+    },
+    {
       "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "criminal",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "celebrado",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "galante",
       "score": 3
     },
     {
@@ -65,29 +69,25 @@
     {
       "word": "excelente",
       "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.98,
-    "elDiario.es": 5.1,
-    "El Mundo": 4.72,
-    "ABC": 5.12,
-    "El Confidencial": 4.34,
-    "BBC Mundo": 4.47,
-    "France 24 ES": 3.99,
-    "La Nación AR": 5.48,
+    "El País": 4.33,
+    "elDiario.es": 5.0,
+    "El Mundo": 4.53,
+    "ABC": 4.98,
+    "El Confidencial": 4.45,
+    "BBC Mundo": 4.72,
+    "France 24 ES": 4.2,
+    "La Nación AR": 4.75,
     "La Jornada MX": 4.47,
     "Desinformémonos": 5.1,
-    "Resumen Latinoam.": 4.06
+    "Resumen Latinoam.": 4.84
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Sánchez comparecerá a partir",
+      "title": "Última hora de la actualidad política, en directo | Sánchez nombra a Carlos Cuer",
       "score": 5.27,
       "words": [
         {
@@ -101,6 +101,21 @@
         {
           "word": "guerra",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Carlos Cuerpo, un perfil técnico y sosegado como número dos del Gobierno",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "sosegado",
+          "score": 2
+        },
+        {
+          "word": "jesús",
+          "score": 1
         }
       ]
     },
@@ -163,17 +178,6 @@
     },
     {
       "source": "El País",
-      "title": "El COI anuncia que solo las mujeres biológicas podrán participar en disciplinas ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Noelia Castillo, ante su eutanasia tras 601 días de espera: “No puedo más con es",
       "score": 3.6,
       "words": [
@@ -218,6 +222,87 @@
         {
           "word": "morir",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez nombra vicepresidente a Carlos Cuerpo y ministro de Hacienda a Arcadi Es",
+      "score": 5.24,
+      "words": [
+        {
+          "word": "jesús",
+          "score": 1
+        },
+        {
+          "word": "evitado",
+          "score": -1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De técnico a la sombra de Calviño a vicepresidente: el ascenso fulgurante del tr",
+      "score": 4.95,
+      "words": [
+        {
+          "word": "tranquilo",
+          "score": 2
+        },
+        {
+          "word": "tranquilo",
+          "score": 2
+        },
+        {
+          "word": "tesoro",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Arcadi España, el discípulo de Ximo Puig que lideró la reforma fiscal de la izqu",
+      "score": 4.62,
+      "words": [
+        {
+          "word": "serio",
+          "score": 2
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "preocupado",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -326,87 +411,6 @@
         {
           "word": "cumplir",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El reto de la red eléctrica española: entre la \"mina de oro\" renovable y el cuel",
-      "score": 4.81,
-      "words": [
-        {
-          "word": "reto",
-          "score": -1
-        },
-        {
-          "word": "reto",
-          "score": -1
-        },
-        {
-          "word": "excelente",
-          "score": 3
-        },
-        {
-          "word": "morir",
-          "score": -3
-        },
-        {
-          "word": "optimista",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "España, líder en innovación biotecnológica: “Uno de cada dos ensayos clínicos en",
-      "score": 5.57,
-      "words": [
-        {
-          "word": "innovación",
-          "score": 1
-        },
-        {
-          "word": "innovación",
-          "score": 1
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "optimista",
-          "score": 2
-        },
-        {
-          "word": "excelencia",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Yolanda Díaz anuncia los trámites para formar el Consejo del Trabajo Autónomo at",
-      "score": 4.96,
-      "words": [
-        {
-          "word": "atascado",
-          "score": -2
-        },
-        {
-          "word": "atascado",
-          "score": -2
-        },
-        {
-          "word": "atascado",
-          "score": -2
-        },
-        {
-          "word": "celebrando",
-          "score": 3
-        },
-        {
-          "word": "atascado",
-          "score": -2
         }
       ]
     }
@@ -619,6 +623,10 @@
     {
       "timestamp": "2026-03-26T16:58:25Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-03-26T18:02:33Z",
+      "score": 4.68
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-26T11:02:13Z",
-  "global_score": 4.76,
-  "articles_scored": 94,
-  "words_matched": 304,
+  "generated": "2026-03-26T13:09:15Z",
+  "global_score": 4.64,
+  "articles_scored": 93,
+  "words_matched": 288,
   "top_negative": [
     {
       "word": "culo",
@@ -10,14 +10,6 @@
     },
     {
       "word": "mierda",
-      "score": -4
-    },
-    {
-      "word": "burro",
-      "score": -4
-    },
-    {
-      "word": "fraudulento",
       "score": -4
     },
     {
@@ -29,19 +21,23 @@
       "score": -3
     },
     {
+      "word": "muerto",
+      "score": -3
+    },
+    {
       "word": "crisis",
       "score": -3
     },
     {
       "word": "morir",
       "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganador",
-      "score": 4
-    },
     {
       "word": "alegría",
       "score": 4
@@ -59,28 +55,32 @@
       "score": 4
     },
     {
-      "word": "premios",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "excelente",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.65,
-    "elDiario.es": 4.74,
-    "El Mundo": 4.52,
-    "ABC": 5.42,
-    "El Confidencial": 4.95,
-    "BBC Mundo": 4.72,
-    "France 24 ES": 4.16,
-    "La Nación AR": 6.32,
-    "La Jornada MX": 4.7,
+    "El País": 3.82,
+    "elDiario.es": 4.75,
+    "El Mundo": 4.46,
+    "ABC": 5.3,
+    "El Confidencial": 4.75,
+    "BBC Mundo": 4.48,
+    "France 24 ES": 4.19,
+    "La Nación AR": 5.17,
+    "La Jornada MX": 4.47,
     "Desinformémonos": 5.13,
     "Resumen Latinoam.": 4.59
   },
@@ -111,7 +111,7 @@
     {
       "source": "El País",
       "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trum",
-      "score": 4.54,
+      "score": 4.6,
       "words": [
         {
           "word": "ataque",
@@ -126,12 +126,12 @@
           "score": 2
         },
         {
-          "word": "ataque",
-          "score": -1
-        },
-        {
           "word": "responsable",
           "score": 2
+        },
+        {
+          "word": "muerto",
+          "score": -3
         }
       ]
     },
@@ -167,20 +167,16 @@
     },
     {
       "source": "El País",
-      "title": "El Gobierno recompone la mayoría de la investidura con Junts para hacer frente a",
-      "score": 3.67,
+      "title": "Última hora de la actualidad política, en directo |El PP se abstendrá en la vota",
+      "score": 5.0,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "ruptura",
-          "score": -2
-        },
-        {
-          "word": "evita",
-          "score": -1
+          "word": "favor",
+          "score": 2
         }
       ]
     },
@@ -359,28 +355,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Begoña Gómez recurre la decisión del juez Peinado de llevarla ante un jurado pop",
-      "score": 4.58,
+      "title": "El reto de la red eléctrica española: entre la \"mina de oro\" renovable y el cuel",
+      "score": 4.81,
       "words": [
         {
-          "word": "popular",
+          "word": "reto",
+          "score": -1
+        },
+        {
+          "word": "reto",
+          "score": -1
+        },
+        {
+          "word": "excelente",
           "score": 3
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "morir",
+          "score": -3
         },
         {
-          "word": "asegura",
+          "word": "optimista",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP se abstendrá en la convalidación del decreto del Gobierno ante la guerra d",
+      "score": 4.31,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "favor",
           "score": 2
         },
         {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "popular",
-          "score": 3
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -408,33 +431,6 @@
         {
           "word": "pasado",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Espinosa de los Monteros afirma que Vox le ha abierto expediente para expulsarlo",
-      "score": 5.22,
-      "words": [
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "mejora",
-          "score": 2
-        },
-        {
-          "word": "sentido",
-          "score": 3
         }
       ]
     }
@@ -635,6 +631,10 @@
     {
       "timestamp": "2026-03-26T11:02:13Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-03-26T13:09:15Z",
+      "score": 4.64
     }
   ]
 }

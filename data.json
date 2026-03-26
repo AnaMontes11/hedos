@@ -1,9 +1,13 @@
 {
-  "generated": "2026-03-26T15:01:46Z",
-  "global_score": 4.65,
-  "articles_scored": 98,
-  "words_matched": 266,
+  "generated": "2026-03-26T16:58:25Z",
+  "global_score": 4.62,
+  "articles_scored": 96,
+  "words_matched": 272,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "violación",
       "score": -4
@@ -11,14 +15,6 @@
     {
       "word": "culo",
       "score": -4
-    },
-    {
-      "word": "infierno",
-      "score": -4
-    },
-    {
-      "word": "muerto",
-      "score": -3
     },
     {
       "word": "morir",
@@ -29,25 +25,33 @@
       "score": -3
     },
     {
-      "word": "malo",
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "odio",
+      "word": "vil",
+      "score": -3
+    },
+    {
+      "word": "criminal",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "celebrar",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
       "score": 3
     },
     {
@@ -63,59 +67,77 @@
       "score": 3
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "celebrando",
+      "word": "suerte",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.54,
-    "elDiario.es": 5.0,
-    "El Mundo": 4.83,
-    "ABC": 5.07,
-    "El Confidencial": 4.38,
-    "BBC Mundo": 4.32,
-    "France 24 ES": 4.54,
-    "La Nación AR": 4.57,
+    "El País": 3.98,
+    "elDiario.es": 5.1,
+    "El Mundo": 4.72,
+    "ABC": 5.12,
+    "El Confidencial": 4.34,
+    "BBC Mundo": 4.47,
+    "France 24 ES": 3.99,
+    "La Nación AR": 5.48,
     "La Jornada MX": 4.47,
-    "Desinformémonos": 5.36,
-    "Resumen Latinoam.": 4.8
+    "Desinformémonos": 5.1,
+    "Resumen Latinoam.": 4.06
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | El Congreso debate el decret",
-      "score": 4.8,
+      "title": "Última hora de la actualidad política, en directo | Sánchez comparecerá a partir",
+      "score": 5.27,
       "words": [
         {
+          "word": "jesús",
+          "score": 1
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "provocar",
-          "score": -1
-        },
-        {
-          "word": "mayor",
-          "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán",
-      "score": 4.4,
+      "title": "La mayoría de investidura ratifica el escudo social por la guerra de Irán con la",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Israel mata al responsable del cierre de Ormuz mientras Trump urge a Irán a alca",
+      "score": 6.07,
+      "words": [
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trum",
+      "score": 4.9,
       "words": [
         {
           "word": "ataque",
@@ -126,27 +148,16 @@
           "score": -2
         },
         {
-          "word": "espera",
-          "score": -1
+          "word": "deseando",
+          "score": 1
         },
         {
-          "word": "amenazar",
-          "score": -2
+          "word": "llegar",
+          "score": 1
         },
         {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Vox, sobre la negociación en Extremadura: “Parece que estamos avanzando a pesar ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "demandas",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -212,6 +223,60 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Congreso convalida el decreto para paliar los efectos económicos de la guerra",
+      "score": 4.98,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PSOE se une a PP, Vox, Junts y PNV para aprobar definitivamente que se endure",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "autores",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Sánchez pide \"no doblegarse\" ante Estados Unidos para construir una Europa \"más ",
       "score": 5.25,
       "words": [
@@ -239,82 +304,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Entre la oportunidad y el desafío: el escenario en el que se mueven las renovabl",
-      "score": 5.62,
+      "title": "Mónica García anuncia un decreto para conocer la duración real de las listas de ",
+      "score": 5.07,
       "words": [
         {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "oportunidades",
-          "score": 2
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Yolanda Díaz anuncia los trámites para formar el Consejo del Trabajo Autónomo at",
-      "score": 4.96,
-      "words": [
-        {
-          "word": "atascado",
-          "score": -2
-        },
-        {
-          "word": "atascado",
-          "score": -2
-        },
-        {
-          "word": "atascado",
-          "score": -2
-        },
-        {
-          "word": "celebrando",
-          "score": 3
-        },
-        {
-          "word": "atascado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sara Aagesen, en el Foro Económico de elDiario.es: \"Nuestro mayor riesgo es la d",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "reto",
+          "word": "espera",
           "score": -1
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "huelga",
+          "score": -1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
+          "score": 2
         }
       ]
     },
@@ -374,55 +385,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP se abstendrá en la convalidación del decreto del Gobierno ante la guerra d",
-      "score": 4.31,
+      "title": "Yolanda Díaz anuncia los trámites para formar el Consejo del Trabajo Autónomo at",
+      "score": 4.96,
       "words": [
         {
-          "word": "guerra",
+          "word": "atascado",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "atascado",
           "score": -2
         },
         {
-          "word": "puesto",
+          "word": "atascado",
           "score": -2
         },
         {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PSOE se une a PP, Vox, Junts y PNV para aprobar definitivamente que se endure",
-      "score": 4.54,
-      "words": [
-        {
-          "word": "autores",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "mayor",
+          "word": "celebrando",
           "score": 3
+        },
+        {
+          "word": "atascado",
+          "score": -2
         }
       ]
     }
@@ -631,6 +615,10 @@
     {
       "timestamp": "2026-03-26T15:01:46Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-03-26T16:58:25Z",
+      "score": 4.62
     }
   ]
 }

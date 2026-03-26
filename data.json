@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-26T02:05:30Z",
-  "global_score": 4.56,
-  "articles_scored": 98,
-  "words_matched": 313,
+  "generated": "2026-03-26T05:04:02Z",
+  "global_score": 4.62,
+  "articles_scored": 96,
+  "words_matched": 310,
   "top_negative": [
     {
       "word": "culo",
@@ -13,27 +13,27 @@
       "score": -4
     },
     {
-      "word": "fraudulento",
-      "score": -4
-    },
-    {
-      "word": "traición",
+      "word": "víctima",
       "score": -3
     },
     {
-      "word": "destruir",
+      "word": "abusos",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "cruel",
+      "word": "morir",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "muerto",
+      "score": -3
+    },
+    {
+      "word": "pierde",
       "score": -3
     }
   ],
@@ -59,187 +59,191 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "amor",
       "score": 3
     },
     {
       "word": "bueno",
       "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.02,
+    "El País": 3.94,
     "elDiario.es": 5.03,
     "El Mundo": 4.6,
-    "ABC": 4.74,
-    "El Confidencial": 4.26,
-    "BBC Mundo": 4.33,
-    "France 24 ES": 4.43,
-    "La Nación AR": 4.24,
+    "ABC": 4.3,
+    "El Confidencial": 4.58,
+    "BBC Mundo": 4.8,
+    "France 24 ES": 4.29,
+    "La Nación AR": 5.0,
     "La Jornada MX": 4.7,
     "Desinformémonos": 5.13,
-    "Resumen Latinoam.": 4.54
+    "Resumen Latinoam.": 4.59
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Irán rechaza la propuesta de Trump para poner fin a la guerra y reivindica su so",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "demandas",
-          "score": -2
-        },
-        {
-          "word": "aumenta",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | EE U",
-      "score": 3.9,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "acepta",
-          "score": 1
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La inmensa mayoría del Congreso rechaza la guerra pese a la bronca política",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ridiculizar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El último control a Montero en el Congreso anticipa la tensión de la campaña and",
+      "title": "“Chicos de 13 años me han provocado”: las palabras del obispo Bernardo Álvarez a",
       "score": 3.4,
       "words": [
         {
-          "word": "tensión",
+          "word": "provocado",
           "score": -1
         },
         {
-          "word": "acusaciones",
+          "word": "víctima",
+          "score": -3
+        },
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los paramédicos bajo las bombas en el sur de Líbano: “De aquí no me voy”",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "límites",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ali Vaez, experto en Irán de International Crisis Group: “Trump ha iniciado una ",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La justicia bloquea las cuentas de Análisis Relevante, la consultora que pagó a ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno recompone la mayoría de la investidura con Junts para hacer frente a",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "traición",
+          "word": "ruptura",
+          "score": -2
+        },
+        {
+          "word": "evita",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Noelia Castillo, ante su eutanasia tras 601 días de espera: “No puedo más con es",
+      "score": 3.6,
+      "words": [
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "morir",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "ignora",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Pasión y muerte de Noelia Castillo",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "temido",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La opción de Cuerpo como vicepresidente gana enteros dentro del Gobierno",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "pierde",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "PP y Vox avanzan en un acuerdo programático para un Gobierno de coalición en Ext",
-      "score": 5.8,
+      "title": "Miguel Urbán: “Intentaron destruirme como forma de destruir unas ideas”",
+      "score": 3.0,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Meta y YouTube pierden el juicio sobre la adicción de los menores a redes social",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trinidad fue a visitar a su marido a la cárcel, un guardia le dio una palmada, e",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "tragedia",
-          "score": -2
+          "word": "destruir",
+          "score": -3
         },
         {
           "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Noelia, antes de su eutanasia: “No quiero ser ejemplo de nadie, simplemente es m",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "muerte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Meloni fuerza la dimisión de una ministra que se negaba a renunciar",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "renunciar",
-          "score": -1
-        },
-        {
-          "word": "abandonar",
           "score": -2
         }
       ]
@@ -583,6 +587,10 @@
     {
       "timestamp": "2026-03-26T02:05:30Z",
       "score": 4.56
+    },
+    {
+      "timestamp": "2026-03-26T05:04:02Z",
+      "score": 4.62
     }
   ]
 }

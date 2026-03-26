@@ -1,12 +1,12 @@
 {
-  "generated": "2026-03-26T08:52:28Z",
-  "global_score": 4.66,
-  "articles_scored": 96,
-  "words_matched": 312,
+  "generated": "2026-03-26T09:59:05Z",
+  "global_score": 4.64,
+  "articles_scored": 97,
+  "words_matched": 286,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
+      "word": "culo",
+      "score": -4
     },
     {
       "word": "mierda",
@@ -51,35 +51,35 @@
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "premios",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "excelencia",
       "score": 3
     },
     {
       "word": "sexy",
       "score": 3
+    },
+    {
+      "word": "admirar",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.96,
-    "elDiario.es": 4.63,
-    "El Mundo": 4.75,
-    "ABC": 5.35,
-    "El Confidencial": 4.26,
+    "El País": 3.76,
+    "elDiario.es": 4.99,
+    "El Mundo": 4.38,
+    "ABC": 4.95,
+    "El Confidencial": 4.74,
     "BBC Mundo": 4.8,
     "France 24 ES": 4.1,
-    "La Nación AR": 5.0,
+    "La Nación AR": 4.78,
     "La Jornada MX": 4.7,
     "Desinformémonos": 5.13,
     "Resumen Latinoam.": 4.59
@@ -111,15 +111,23 @@
     {
       "source": "El País",
       "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán",
-      "score": 3.8,
+      "score": 5.4,
       "words": [
         {
           "word": "ataque",
           "score": -1
         },
         {
-          "word": "conflicto",
-          "score": -2
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "responsable",
+          "score": 2
         }
       ]
     },
@@ -224,120 +232,70 @@
     },
     {
       "source": "El País",
-      "title": "La justicia bloquea las cuentas de Análisis Relevante, la consultora que pagó a ",
-      "score": 6.6,
+      "title": "Cronología del ‘caso Noelia’| La joven parapléjica tiene programada la eutanasia",
+      "score": 3.4,
       "words": [
         {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Irán fija sus condiciones y aleja la posibilidad de una salida negociada mientra",
-      "score": 4.61,
-      "words": [
-        {
-          "word": "rechaza",
+          "word": "espera",
           "score": -1
         },
         {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "oferta",
-          "score": 2
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El impacto del bloqueo de Ormuz amenaza con paralizar Taiwán, el principal fabri",
-      "score": 4.37,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "natural",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El jefe de la agencia marítima de la ONU: \"Nuestra prioridad es evacuar a los 20",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "interrupción",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "seguro",
-          "score": 2
-        },
-        {
-          "word": "pánico",
+          "word": "morir",
           "score": -3
-        },
-        {
-          "word": "energético",
-          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Por qué es improbable que el plan de 15 puntos de Trump contente a Irán",
-      "score": 4.98,
+      "title": "Sánchez pide \"no doblegarse\" ante Estados Unidos para construir una Europa \"más ",
+      "score": 5.25,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "paz",
-          "score": 2
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "paz",
-          "score": 2
+          "word": "proteger",
+          "score": 1
         },
         {
-          "word": "paz",
-          "score": 2
+          "word": "mejor",
+          "score": 3
         },
         {
-          "word": "ataque",
-          "score": -1
+          "word": "compromiso",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Yolanda Díaz anuncia los trámites para formar el Consejo del Trabajo Autónomo at",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "atascado",
+          "score": -2
+        },
+        {
+          "word": "atascado",
+          "score": -2
+        },
+        {
+          "word": "atascado",
+          "score": -2
+        },
+        {
+          "word": "celebrando",
+          "score": 3
+        },
+        {
+          "word": "atascado",
+          "score": -2
         }
       ]
     },
@@ -397,6 +355,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Begoña Gómez recurre la decisión del juez Peinado de llevarla ante un jurado pop",
+      "score": 4.58,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "De memoria y olvido",
       "score": 4.16,
       "words": [
@@ -419,6 +404,33 @@
         {
           "word": "loco",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vox prueba en Extremadura la debilidad negociadora del PP: pide sanidad para los",
+      "score": 4.92,
+      "words": [
+        {
+          "word": "debilidad",
+          "score": -2
+        },
+        {
+          "word": "debilidad",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "atrapado",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
         }
       ]
     }
@@ -611,6 +623,10 @@
     {
       "timestamp": "2026-03-26T08:52:28Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-03-26T09:59:05Z",
+      "score": 4.64
     }
   ]
 }

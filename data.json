@@ -1,13 +1,9 @@
 {
-  "generated": "2026-03-26T20:33:27Z",
-  "global_score": 4.82,
-  "articles_scored": 94,
-  "words_matched": 269,
+  "generated": "2026-03-26T21:29:28Z",
+  "global_score": 4.88,
+  "articles_scored": 89,
+  "words_matched": 266,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "violación",
       "score": -4
@@ -21,10 +17,6 @@
       "score": -4
     },
     {
-      "word": "torturado",
-      "score": -4
-    },
-    {
       "word": "destruir",
       "score": -3
     },
@@ -34,6 +26,14 @@
     },
     {
       "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "enfado",
+      "score": -3
+    },
+    {
+      "word": "preocupado",
       "score": -3
     }
   ],
@@ -47,18 +47,6 @@
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "penetración",
-      "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
-    },
-    {
       "word": "diversiones",
       "score": 3
     },
@@ -69,20 +57,32 @@
     {
       "word": "celebrar",
       "score": 3
+    },
+    {
+      "word": "excelencia",
+      "score": 3
+    },
+    {
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.69,
+    "El País": 4.67,
     "elDiario.es": 5.02,
-    "El Mundo": 5.29,
-    "ABC": 5.28,
-    "El Confidencial": 4.6,
-    "BBC Mundo": 4.72,
-    "France 24 ES": 4.4,
-    "La Nación AR": 5.03,
+    "El Mundo": 5.06,
+    "ABC": 5.06,
+    "El Confidencial": 4.32,
+    "BBC Mundo": 4.9,
+    "France 24 ES": 5.1,
+    "La Nación AR": 5.27,
     "La Jornada MX": 4.47,
     "Desinformémonos": 5.1,
-    "Resumen Latinoam.": 4.45
+    "Resumen Latinoam.": 4.65
   },
   "articles": [
     {
@@ -107,7 +107,7 @@
     {
       "source": "El País",
       "title": "Israel mata al responsable del cierre de Ormuz mientras Trump urge a Irán a alca",
-      "score": 6.07,
+      "score": 5.96,
       "words": [
         {
           "word": "responsable",
@@ -115,6 +115,14 @@
         },
         {
           "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "llegar",
           "score": 1
         },
         {
@@ -655,6 +663,10 @@
     {
       "timestamp": "2026-03-26T20:33:27Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-03-26T21:29:28Z",
+      "score": 4.88
     }
   ]
 }

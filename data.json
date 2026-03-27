@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T14:46:36Z",
-  "global_score": 4.82,
-  "articles_scored": 91,
-  "words_matched": 228,
+  "generated": "2026-03-27T15:51:25Z",
+  "global_score": 4.71,
+  "articles_scored": 94,
+  "words_matched": 254,
   "top_negative": [
     {
       "word": "infierno",
@@ -15,10 +15,6 @@
     {
       "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "crisis",
-      "score": -3
     },
     {
       "word": "peor",
@@ -34,6 +30,10 @@
     },
     {
       "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -51,6 +51,10 @@
       "score": 3
     },
     {
+      "word": "vibrante",
+      "score": 3
+    },
+    {
       "word": "perfecto",
       "score": 3
     },
@@ -63,86 +67,71 @@
       "score": 3
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "sentido",
+      "word": "perfectamente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.87,
-    "elDiario.es": 5.15,
-    "El Mundo": 4.27,
-    "ABC": 5.45,
-    "El Confidencial": 4.95,
-    "BBC Mundo": 5.55,
-    "France 24 ES": 4.41,
-    "La Nación AR": 5.27,
+    "El País": 3.69,
+    "elDiario.es": 5.19,
+    "El Mundo": 4.3,
+    "ABC": 5.29,
+    "El Confidencial": 4.66,
+    "BBC Mundo": 5.43,
+    "France 24 ES": 3.94,
+    "La Nación AR": 5.4,
     "La Jornada MX": 4.52,
-    "Desinformémonos": 5.1,
+    "Desinformémonos": 4.93,
     "Resumen Latinoam.": 4.88
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El Banco de España eleva el crecimiento para este año pero avisa de que los prec",
-      "score": 4.68,
+      "title": "Israel intensifica la guerra en todos los frentes y amenaza con asesinar a más a",
+      "score": 3.6,
       "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "advierte",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "conflicto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La inflación se dispara al 3,3% en marzo por la subida de los combustibles",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Vídeo | Crisis energética: ¿hasta dónde subirá la gasolina?",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "guerra",
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "bloqueo",
+          "word": "batalla",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Los ",
+      "score": 3.74,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
         }
       ]
     },
@@ -186,27 +175,27 @@
     },
     {
       "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Isra",
-      "score": 3.74,
+      "title": "El Banco de España eleva el crecimiento para este año pero avisa de que los prec",
+      "score": 4.68,
       "words": [
         {
-          "word": "ataque",
-          "score": -1
+          "word": "crecimiento",
+          "score": 2
         },
         {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "cargos",
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "amenazas",
+          "word": "conflicto",
           "score": -2
         }
       ]
@@ -267,6 +256,17 @@
         },
         {
           "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Bodega Josefa, el bar de barrio que no quiere ser una neotaberna",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "difícil",
           "score": -2
         }
       ]
@@ -354,33 +354,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La necesidad de \"regular bien\" la Inteligencia Artificial para no \"quedarse atrá",
-      "score": 5.19,
-      "words": [
-        {
-          "word": "promesa",
-          "score": 1
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Óscar Puente adelanta más medidas de apoyo al sector del transporte ante la cris",
       "score": 5.05,
       "words": [
@@ -403,6 +376,33 @@
         {
           "word": "crisis",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Carlos Cuerpo, en el VI Foro Económico de elDiario.es: \"Debemos redoblar la apue",
+      "score": 4.83,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     }
@@ -675,6 +675,10 @@
     {
       "timestamp": "2026-03-27T14:46:36Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-03-27T15:51:25Z",
+      "score": 4.71
     }
   ]
 }

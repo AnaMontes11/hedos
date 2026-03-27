@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T22:29:38Z",
-  "global_score": 4.97,
-  "articles_scored": 97,
-  "words_matched": 239,
+  "generated": "2026-03-27T23:30:08Z",
+  "global_score": 4.93,
+  "articles_scored": 99,
+  "words_matched": 238,
   "top_negative": [
     {
       "word": "infierno",
@@ -21,10 +21,6 @@
       "score": -3
     },
     {
-      "word": "peor",
-      "score": -3
-    },
-    {
       "word": "delito",
       "score": -3
     },
@@ -34,6 +30,10 @@
     },
     {
       "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "ilegal",
       "score": -3
     }
   ],
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.33,
+    "El País": 4.53,
     "elDiario.es": 5.23,
     "El Mundo": 4.73,
     "ABC": 5.12,
     "El Confidencial": 5.22,
     "BBC Mundo": 5.25,
-    "France 24 ES": 4.48,
-    "La Nación AR": 4.93,
+    "France 24 ES": 4.41,
+    "La Nación AR": 4.64,
     "La Jornada MX": 4.52,
     "Desinformémonos": 5.09,
-    "Resumen Latinoam.": 5.75
+    "Resumen Latinoam.": 5.57
   },
   "articles": [
     {
@@ -137,39 +137,35 @@
     },
     {
       "source": "El País",
+      "title": "Trump exige a Irán que reabra el estrecho de Ormuz mientras critica a la OTAN: “",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Trump envía a miles de soldados más al Golfo para preparar la operación “infiern",
       "score": 1.8,
       "words": [
         {
           "word": "infierno",
           "score": -4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Irak llora a los muertos que deja el peor ataque contra su ejército desde el ini",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "atacado",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
         }
       ]
     },
@@ -719,6 +715,10 @@
     {
       "timestamp": "2026-03-27T22:29:38Z",
       "score": 4.97
+    },
+    {
+      "timestamp": "2026-03-27T23:30:08Z",
+      "score": 4.93
     }
   ]
 }

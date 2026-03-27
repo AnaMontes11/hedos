@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T17:47:51Z",
-  "global_score": 4.78,
-  "articles_scored": 97,
-  "words_matched": 251,
+  "generated": "2026-03-27T18:52:54Z",
+  "global_score": 4.7,
+  "articles_scored": 89,
+  "words_matched": 237,
   "top_negative": [
     {
       "word": "infierno",
@@ -14,6 +14,10 @@
     },
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "violación",
       "score": -4
     },
     {
@@ -30,10 +34,6 @@
     },
     {
       "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "crisis",
       "score": -3
     }
   ],
@@ -73,16 +73,15 @@
   ],
   "per_source": {
     "El País": 3.92,
-    "elDiario.es": 5.19,
+    "elDiario.es": 5.23,
     "El Mundo": 4.42,
-    "ABC": 5.15,
     "El Confidencial": 5.16,
-    "BBC Mundo": 5.43,
-    "France 24 ES": 4.29,
-    "La Nación AR": 4.87,
+    "BBC Mundo": 5.35,
+    "France 24 ES": 4.35,
+    "La Nación AR": 4.31,
     "La Jornada MX": 4.52,
     "Desinformémonos": 5.09,
-    "Resumen Latinoam.": 4.74
+    "Resumen Latinoam.": 4.77
   },
   "articles": [
     {
@@ -691,6 +690,10 @@
     {
       "timestamp": "2026-03-27T17:47:51Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-03-27T18:52:54Z",
+      "score": 4.7
     }
   ]
 }

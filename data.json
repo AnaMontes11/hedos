@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T07:03:59Z",
+  "generated": "2026-03-27T08:48:56Z",
   "global_score": 4.72,
-  "articles_scored": 95,
-  "words_matched": 259,
+  "articles_scored": 96,
+  "words_matched": 275,
   "top_negative": [
     {
       "word": "infierno",
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "enfado",
+      "word": "preocupado",
       "score": -3
     },
     {
-      "word": "preocupado",
+      "word": "enfado",
       "score": -3
     }
   ],
@@ -41,6 +41,10 @@
     {
       "word": "excepcional",
       "score": 5
+    },
+    {
+      "word": "milagro",
+      "score": 4
     },
     {
       "word": "alegre",
@@ -55,31 +59,27 @@
       "score": 3
     },
     {
+      "word": "medalla",
+      "score": 3
+    },
+    {
       "word": "leal",
       "score": 3
     },
     {
       "word": "sentido",
       "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
-    },
-    {
-      "word": "perfecto",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.27,
-    "elDiario.es": 4.96,
-    "El Mundo": 3.76,
-    "ABC": 5.23,
-    "El Confidencial": 5.28,
+    "El País": 4.48,
+    "elDiario.es": 4.74,
+    "El Mundo": 4.07,
+    "ABC": 4.82,
+    "El Confidencial": 4.63,
     "BBC Mundo": 5.16,
     "France 24 ES": 4.85,
-    "La Nación AR": 4.09,
+    "La Nación AR": 4.9,
     "La Jornada MX": 4.47,
     "Desinformémonos": 5.1,
     "Resumen Latinoam.": 4.73
@@ -163,8 +163,8 @@
     },
     {
       "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán",
-      "score": 4.04,
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Isra",
+      "score": 5.0,
       "words": [
         {
           "word": "ataque",
@@ -175,12 +175,19 @@
           "score": -1
         },
         {
-          "word": "retrasar",
-          "score": -1
-        },
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La inflación se dispara al 3,3% en marzo por la subida de los combustibles",
+      "score": 5.4,
+      "words": [
         {
-          "word": "ataques",
-          "score": -1
+          "word": "mayor",
+          "score": 3
         },
         {
           "word": "guerra",
@@ -258,6 +265,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La inflación se dispara al 3,3%, un punto más, por la guerra en Oriente Medio y ",
+      "score": 4.42,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Sánchez busca con la elección de Cuerpo centrar el debate en la economía y la dé",
       "score": 5.37,
       "words": [
@@ -280,60 +314,6 @@
         {
           "word": "escapar",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez nombra vicepresidente a Carlos Cuerpo y ministro de Hacienda a Arcadi Es",
-      "score": 5.36,
-      "words": [
-        {
-          "word": "jesús",
-          "score": 1
-        },
-        {
-          "word": "tranquilo",
-          "score": 2
-        },
-        {
-          "word": "tranquilo",
-          "score": 2
-        },
-        {
-          "word": "evitado",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "De técnico a la sombra de Calviño a vicepresidente: el ascenso fulgurante del tr",
-      "score": 4.95,
-      "words": [
-        {
-          "word": "tranquilo",
-          "score": 2
-        },
-        {
-          "word": "tranquilo",
-          "score": 2
-        },
-        {
-          "word": "tesoro",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     },
@@ -366,55 +346,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Noelia ya ha muerto: el primer caso de eutanasia impugnada por los ultracatólico",
-      "score": 4.56,
+      "title": "De técnico a la sombra de Calviño a vicepresidente: el ascenso fulgurante del tr",
+      "score": 4.95,
       "words": [
         {
-          "word": "muerto",
-          "score": -3
+          "word": "tranquilo",
+          "score": 2
         },
         {
-          "word": "muerto",
-          "score": -3
+          "word": "tranquilo",
+          "score": 2
         },
         {
-          "word": "derecho",
-          "score": 1
+          "word": "tesoro",
+          "score": 2
         },
         {
-          "word": "morir",
-          "score": -3
+          "word": "mejor",
+          "score": 3
         },
         {
-          "word": "batalla",
-          "score": -1
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Noelia muere tras casi dos años de batalla legal de los ultras Abogados Cristian",
-      "score": 4.51,
+      "title": "La Fiscalía Europea cita como testigo a Begoña Gómez por los contratos de Red.es",
+      "score": 5.42,
       "words": [
         {
-          "word": "batalla",
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "admitir",
           "score": -1
         },
         {
-          "word": "legal",
-          "score": 1
+          "word": "popular",
+          "score": 3
         },
         {
-          "word": "batalla",
-          "score": -1
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "muerte",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         }
       ]
     }
@@ -662,6 +642,10 @@
     },
     {
       "timestamp": "2026-03-27T07:03:59Z",
+      "score": 4.72
+    },
+    {
+      "timestamp": "2026-03-27T08:48:56Z",
       "score": 4.72
     }
   ]

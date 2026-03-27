@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T05:05:09Z",
+  "generated": "2026-03-27T07:03:59Z",
   "global_score": 4.72,
   "articles_scored": 95,
-  "words_matched": 258,
+  "words_matched": 259,
   "top_negative": [
     {
       "word": "infierno",
@@ -17,11 +17,11 @@
       "score": -4
     },
     {
-      "word": "crisis",
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "crisis",
       "score": -3
     },
     {
@@ -43,14 +43,6 @@
       "score": 5
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "alegre",
       "score": 3
     },
@@ -69,17 +61,25 @@
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.97,
+    "El País": 4.27,
     "elDiario.es": 4.96,
-    "El Mundo": 3.78,
-    "ABC": 5.13,
+    "El Mundo": 3.76,
+    "ABC": 5.23,
     "El Confidencial": 5.28,
     "BBC Mundo": 5.16,
     "France 24 ES": 4.85,
-    "La Nación AR": 4.53,
+    "La Nación AR": 4.09,
     "La Jornada MX": 4.47,
     "Desinformémonos": 5.1,
     "Resumen Latinoam.": 4.73
@@ -112,17 +112,6 @@
         {
           "word": "ganado",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La construcción de vivienda protegida se desplomó un 23% en 2025 pese a la crisi",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
         }
       ]
     },
@@ -174,6 +163,55 @@
     },
     {
       "source": "El País",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán",
+      "score": 4.04,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "retrasar",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La construcción de vivienda protegida se desplomó un 23% en 2025 pese a la crisi",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "‘Altas capacidades’: así son. Y así nos parecen",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "logra",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Así fue cómo The Rolling Stones grabaron el peor disco de su carrera: “Había dem",
       "score": 2.87,
       "words": [
@@ -193,23 +231,28 @@
     },
     {
       "source": "El País",
-      "title": "‘Altas capacidades’: así son. Y así nos parecen",
-      "score": 6.6,
+      "title": "Frugalismo o la felicidad de tener menos: “No va de privarse, va de simplificar ",
+      "score": 6.07,
       "words": [
         {
-          "word": "logra",
+          "word": "felicidad",
+          "score": 3
+        },
+        {
+          "word": "éxito",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Desafío Semanal: enfréntate a nuestro test de actualidad en 10 preguntas",
-      "score": 3.4,
-      "words": [
+        },
         {
-          "word": "restos",
+          "word": "tiempo",
           "score": -2
+        },
+        {
+          "word": "deseo",
+          "score": 1
+        },
+        {
+          "word": "calma",
+          "score": 2
         }
       ]
     },
@@ -368,33 +411,6 @@
         {
           "word": "legal",
           "score": 1
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las purgas de Vox avanzan a un ritmo que hubiera complacido a Stalin",
-      "score": 4.72,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "error",
-          "score": -2
-        },
-        {
-          "word": "paga",
-          "score": -1
         },
         {
           "word": "muerte",
@@ -642,6 +658,10 @@
     },
     {
       "timestamp": "2026-03-27T05:05:09Z",
+      "score": 4.72
+    },
+    {
+      "timestamp": "2026-03-27T07:03:59Z",
       "score": 4.72
     }
   ]

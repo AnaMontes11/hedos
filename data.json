@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T08:48:56Z",
-  "global_score": 4.72,
+  "generated": "2026-03-27T09:52:42Z",
+  "global_score": 4.74,
   "articles_scored": 96,
-  "words_matched": 275,
+  "words_matched": 282,
   "top_negative": [
     {
       "word": "infierno",
@@ -29,21 +29,17 @@
       "score": -3
     },
     {
-      "word": "preocupado",
+      "word": "enfado",
       "score": -3
     },
     {
-      "word": "enfado",
+      "word": "preocupado",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "milagro",
+      "word": "divertido",
       "score": 4
     },
     {
@@ -51,35 +47,39 @@
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "celebra",
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "lealtad",
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
+      "score": 3
+    },
+    {
+      "word": "entusiasta",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.48,
-    "elDiario.es": 4.74,
-    "El Mundo": 4.07,
-    "ABC": 4.82,
-    "El Confidencial": 4.63,
+    "elDiario.es": 4.73,
+    "El Mundo": 3.82,
+    "ABC": 5.02,
+    "El Confidencial": 4.81,
     "BBC Mundo": 5.16,
     "France 24 ES": 4.85,
-    "La Nación AR": 4.9,
+    "La Nación AR": 4.98,
     "La Jornada MX": 4.47,
     "Desinformémonos": 5.1,
     "Resumen Latinoam.": 4.73
@@ -292,6 +292,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Óscar Puente adelanta más medidas de apoyo al sector del transporte ante la cris",
+      "score": 5.05,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Sánchez busca con la elección de Cuerpo centrar el debate en la economía y la dé",
       "score": 5.37,
       "words": [
@@ -314,33 +341,6 @@
         {
           "word": "escapar",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Arcadi España, el discípulo de Ximo Puig que lideró la reforma fiscal de la izqu",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "serio",
-          "score": 2
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "preocupado",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     },
@@ -373,28 +373,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Fiscalía Europea cita como testigo a Begoña Gómez por los contratos de Red.es",
-      "score": 5.42,
+      "title": "Arcadi España, el discípulo de Ximo Puig que lideró la reforma fiscal de la izqu",
+      "score": 4.62,
       "words": [
         {
-          "word": "popular",
-          "score": 3
+          "word": "serio",
+          "score": 2
         },
         {
-          "word": "admitir",
-          "score": -1
+          "word": "problemas",
+          "score": -2
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "responsable",
+          "score": 2
         },
         {
-          "word": "delitos",
+          "word": "preocupado",
           "score": -3
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "guerra",
+          "score": -2
         }
       ]
     }
@@ -647,6 +647,10 @@
     {
       "timestamp": "2026-03-27T08:48:56Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-03-27T09:52:42Z",
+      "score": 4.74
     }
   ]
 }

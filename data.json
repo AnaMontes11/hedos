@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T11:39:41Z",
-  "global_score": 4.68,
-  "articles_scored": 96,
-  "words_matched": 247,
+  "generated": "2026-03-27T13:00:57Z",
+  "global_score": 4.76,
+  "articles_scored": 97,
+  "words_matched": 239,
   "top_negative": [
     {
       "word": "infierno",
@@ -43,7 +43,7 @@
       "score": 5
     },
     {
-      "word": "alegría",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -51,11 +51,7 @@
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "excelente",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.71,
-    "elDiario.es": 4.96,
-    "El Mundo": 4.07,
-    "ABC": 4.57,
-    "El Confidencial": 4.47,
-    "BBC Mundo": 5.19,
-    "France 24 ES": 4.85,
+    "El País": 4.09,
+    "elDiario.es": 5.55,
+    "El Mundo": 4.15,
+    "ABC": 5.0,
+    "El Confidencial": 4.65,
+    "BBC Mundo": 5.36,
+    "France 24 ES": 4.8,
     "La Nación AR": 4.17,
     "La Jornada MX": 4.52,
     "Desinformémonos": 5.1,
-    "Resumen Latinoam.": 4.73
+    "Resumen Latinoam.": 4.96
   },
   "articles": [
     {
@@ -182,39 +182,54 @@
     },
     {
       "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán",
-      "score": 4.36,
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Isra",
+      "score": 3.74,
       "words": [
         {
           "word": "ataque",
           "score": -1
         },
         {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
           "word": "ataques",
           "score": -1
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
       "title": "El Supremo rebaja a la mitad las costas que fijó al ex fiscal general por los ga",
-      "score": 6.6,
+      "score": 5.0,
       "words": [
         {
-          "word": "justicia",
-          "score": 2
+          "word": "acepta",
+          "score": 1
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Shakira anuncia dos nuevas fechas en Madrid, y ya suma 11 conciertos, tras arras",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
@@ -249,29 +264,10 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Eliades Ochoa, el último gran trovador: “La gente ya no tiene alegría en Cuba”",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "alegría",
-          "score": 4
-        },
-        {
-          "word": "cumplir",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Óscar López anuncia que la jornada de 35 horas a los funcionarios del Estado se ",
-      "score": 5.36,
+      "score": 5.31,
       "words": [
-        {
-          "word": "oferta",
-          "score": 2
-        },
         {
           "word": "acuerdo",
           "score": 1
@@ -287,6 +283,91 @@
         {
           "word": "celebra",
           "score": 3
+        },
+        {
+          "word": "respalda",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Claves de la jornada de 35 horas para funcionarios del Estado: a quién afecta y ",
+      "score": 6.38,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Bustinduy promete \"más actuaciones para defender a los inquilinos\" y confía en g",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "imparable",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La necesidad de \"regular bien\" la Inteligencia Artificial para no \"quedarse atrá",
+      "score": 5.19,
+      "words": [
+        {
+          "word": "promesa",
+          "score": 1
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "capacidad",
+          "score": 2
         }
       ]
     },
@@ -314,87 +395,6 @@
         {
           "word": "crisis",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El futuro del transporte pasa por la intermodalidad: \"Se debe usar cada medio al",
-      "score": 6.05,
-      "words": [
-        {
-          "word": "importancia",
-          "score": 2
-        },
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Supremo rebaja las costas que debe pagar el ex fiscal general al abogado de l",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "cubrir",
-          "score": -3
-        },
-        {
-          "word": "legal",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez busca con la elección de Cuerpo centrar el debate en la economía y la dé",
-      "score": 5.37,
-      "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "arrastra",
-          "score": -1
-        },
-        {
-          "word": "querido",
-          "score": 2
-        },
-        {
-          "word": "escapar",
-          "score": -1
         }
       ]
     }
@@ -659,6 +659,10 @@
     {
       "timestamp": "2026-03-27T11:39:41Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-03-27T13:00:57Z",
+      "score": 4.76
     }
   ]
 }

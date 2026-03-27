@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T15:51:25Z",
-  "global_score": 4.71,
-  "articles_scored": 94,
-  "words_matched": 254,
+  "generated": "2026-03-27T16:52:34Z",
+  "global_score": 4.68,
+  "articles_scored": 97,
+  "words_matched": 243,
   "top_negative": [
     {
       "word": "infierno",
@@ -17,15 +17,15 @@
       "score": -4
     },
     {
+      "word": "matar",
+      "score": -3
+    },
+    {
       "word": "peor",
       "score": -3
     },
     {
       "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "mal",
       "score": -3
     },
     {
@@ -47,19 +47,7 @@
       "score": 4
     },
     {
-      "word": "alegre",
-      "score": 3
-    },
-    {
-      "word": "vibrante",
-      "score": 3
-    },
-    {
-      "word": "perfecto",
-      "score": 3
-    },
-    {
-      "word": "emocionado",
+      "word": "amor",
       "score": 3
     },
     {
@@ -69,26 +57,38 @@
     {
       "word": "perfectamente",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.69,
+    "El País": 3.74,
     "elDiario.es": 5.19,
     "El Mundo": 4.3,
-    "ABC": 5.29,
-    "El Confidencial": 4.66,
+    "ABC": 5.65,
+    "El Confidencial": 5.05,
     "BBC Mundo": 5.43,
-    "France 24 ES": 3.94,
-    "La Nación AR": 5.4,
+    "France 24 ES": 4.17,
+    "La Nación AR": 4.04,
     "La Jornada MX": 4.52,
     "Desinformémonos": 4.93,
-    "Resumen Latinoam.": 4.88
+    "Resumen Latinoam.": 4.52
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Israel intensifica la guerra en todos los frentes y amenaza con asesinar a más a",
-      "score": 3.6,
+      "title": "Israel intensifica la guerra en todos los frentes y amenaza con matar más lídere",
+      "score": 3.4,
       "words": [
         {
           "word": "guerra",
@@ -99,8 +99,8 @@
           "score": -2
         },
         {
-          "word": "cargos",
-          "score": -2
+          "word": "matar",
+          "score": -3
         },
         {
           "word": "batalla",
@@ -110,19 +110,11 @@
     },
     {
       "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Los ",
-      "score": 3.74,
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Isra",
+      "score": 3.67,
       "words": [
         {
           "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
           "score": -1
         },
         {
@@ -131,6 +123,14 @@
         },
         {
           "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "advierte",
           "score": -2
         }
       ]
@@ -221,6 +221,25 @@
     },
     {
       "source": "El País",
+      "title": "El lehendakari eleva la presión para que el ‘Guernica’ se traslade al País Vasco",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "error",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Shakira anuncia dos nuevas fechas en Madrid, y ya suma 11 conciertos, tras arras",
       "score": 3.4,
       "words": [
@@ -238,25 +257,6 @@
         {
           "word": "logra",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Así fue cómo The Rolling Stones grabaron el peor disco de su carrera: “Había dem",
-      "score": 2.87,
-      "words": [
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "tiempo",
-          "score": -2
         }
       ]
     },
@@ -679,6 +679,10 @@
     {
       "timestamp": "2026-03-27T15:51:25Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-03-27T16:52:34Z",
+      "score": 4.68
     }
   ]
 }

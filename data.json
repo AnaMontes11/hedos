@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-27T16:52:34Z",
-  "global_score": 4.68,
+  "generated": "2026-03-27T17:47:51Z",
+  "global_score": 4.78,
   "articles_scored": 97,
-  "words_matched": 243,
+  "words_matched": 251,
   "top_negative": [
     {
       "word": "infierno",
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 3.74,
+    "El País": 3.92,
     "elDiario.es": 5.19,
-    "El Mundo": 4.3,
-    "ABC": 5.65,
-    "El Confidencial": 5.05,
+    "El Mundo": 4.42,
+    "ABC": 5.15,
+    "El Confidencial": 5.16,
     "BBC Mundo": 5.43,
-    "France 24 ES": 4.17,
-    "La Nación AR": 4.04,
+    "France 24 ES": 4.29,
+    "La Nación AR": 4.87,
     "La Jornada MX": 4.52,
-    "Desinformémonos": 4.93,
-    "Resumen Latinoam.": 4.52
+    "Desinformémonos": 5.09,
+    "Resumen Latinoam.": 4.74
   },
   "articles": [
     {
@@ -111,27 +111,27 @@
     {
       "source": "El País",
       "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Isra",
-      "score": 3.67,
+      "score": 4.3,
       "words": [
         {
           "word": "ataque",
           "score": -1
         },
         {
-          "word": "amenaza",
+          "word": "fuga",
+          "score": -1
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
+          "word": "ataques",
+          "score": -1
         }
       ]
     },
@@ -175,23 +175,19 @@
     },
     {
       "source": "El País",
-      "title": "El Banco de España eleva el crecimiento para este año pero avisa de que los prec",
-      "score": 4.68,
+      "title": "El Banco de España advierte de que la inflación llegaría al 6% en el peor escena",
+      "score": 3.2,
       "words": [
         {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "guerra",
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "crecimiento",
-          "score": 2
+          "word": "peor",
+          "score": -3
         },
         {
-          "word": "advierte",
+          "word": "guerra",
           "score": -2
         },
         {
@@ -221,6 +217,25 @@
     },
     {
       "source": "El País",
+      "title": "Leonardo DiCaprio, el controvertido pero adorable último patriarca de Hollywood:",
+      "score": 6.07,
+      "words": [
+        {
+          "word": "adorable",
+          "score": 3
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        },
+        {
+          "word": "elegante",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El lehendakari eleva la presión para que el ‘Guernica’ se traslade al País Vasco",
       "score": 3.67,
       "words": [
@@ -234,17 +249,6 @@
         },
         {
           "word": "error",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Shakira anuncia dos nuevas fechas en Madrid, y ya suma 11 conciertos, tras arras",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "tiempo",
           "score": -2
         }
       ]
@@ -683,6 +687,10 @@
     {
       "timestamp": "2026-03-27T16:52:34Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-03-27T17:47:51Z",
+      "score": 4.78
     }
   ]
 }

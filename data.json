@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-28T22:26:59Z",
-  "global_score": 4.6,
-  "articles_scored": 94,
-  "words_matched": 279,
+  "generated": "2026-03-28T23:28:30Z",
+  "global_score": 4.63,
+  "articles_scored": 95,
+  "words_matched": 275,
   "top_negative": [
     {
       "word": "culo",
@@ -59,15 +59,15 @@
       "score": 3
     },
     {
+      "word": "emoción",
+      "score": 3
+    },
+    {
       "word": "riqueza",
       "score": 3
     },
     {
       "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "caro",
       "score": 3
     }
   ],
@@ -75,11 +75,11 @@
     "El País": 4.13,
     "elDiario.es": 4.44,
     "El Mundo": 5.11,
-    "ABC": 5.13,
+    "ABC": 5.48,
     "El Confidencial": 4.38,
     "BBC Mundo": 4.44,
     "France 24 ES": 4.68,
-    "La Nación AR": 4.69,
+    "La Nación AR": 4.61,
     "La Jornada MX": 4.74,
     "Desinformémonos": 3.93,
     "Resumen Latinoam.": 4.85
@@ -791,6 +791,10 @@
     {
       "timestamp": "2026-03-28T22:26:59Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-03-28T23:28:30Z",
+      "score": 4.63
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-28T07:44:04Z",
-  "global_score": 4.99,
+  "generated": "2026-03-28T08:36:11Z",
+  "global_score": 4.98,
   "articles_scored": 96,
-  "words_matched": 311,
+  "words_matched": 298,
   "top_negative": [
     {
       "word": "negro",
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
+      "word": "criminales",
+      "score": -3
+    },
+    {
       "word": "destruir",
       "score": -3
     },
     {
-      "word": "matar",
-      "score": -3
-    },
-    {
-      "word": "empeorar",
+      "word": "vil",
       "score": -3
     }
   ],
@@ -55,6 +55,10 @@
       "score": 4
     },
     {
+      "word": "maravilloso",
+      "score": 4
+    },
+    {
       "word": "alegre",
       "score": 3
     },
@@ -65,21 +69,17 @@
     {
       "word": "premio",
       "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.58,
-    "elDiario.es": 4.63,
+    "El País": 5.51,
+    "elDiario.es": 4.69,
     "El Mundo": 4.07,
-    "ABC": 5.22,
-    "El Confidencial": 5.64,
+    "ABC": 5.25,
+    "El Confidencial": 5.58,
     "BBC Mundo": 4.94,
     "France 24 ES": 4.22,
-    "La Nación AR": 5.53,
+    "La Nación AR": 5.5,
     "La Jornada MX": 4.52,
     "Desinformémonos": 5.09,
     "Resumen Latinoam.": 5.36
@@ -108,6 +108,33 @@
         {
           "word": "progreso",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Los ",
+      "score": 3.88,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -158,25 +185,6 @@
         {
           "word": "alerta",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Irán y EE UU, una larga historia de falsas negociaciones de paz",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "sucio",
-          "score": -2
         }
       ]
     },
@@ -269,6 +277,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Esa persona naranja de la que usted me está hablando",
+      "score": 4.55,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "provocado",
+          "score": -1
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump alienta las negociaciones con Irán para salir del avispero y se revuelve a",
       "score": 4.61,
       "words": [
@@ -291,6 +326,33 @@
         {
           "word": "destruir",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Guerra en Irán, última hora del ataque de EEUU e Israel en directo",
+      "score": 4.24,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -345,60 +407,6 @@
         {
           "word": "desastre",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Carlos Cuerpo y Yolanda Díaz: la tensión política entre el PSOE y Sumar escala a",
-      "score": 4.85,
-      "words": [
-        {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "tranquilo",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez busca con la elección de Cuerpo centrar el debate en la economía y la dé",
-      "score": 5.37,
-      "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "arrastra",
-          "score": -1
-        },
-        {
-          "word": "querido",
-          "score": 2
-        },
-        {
-          "word": "escapar",
-          "score": -1
         }
       ]
     }
@@ -727,6 +735,10 @@
     {
       "timestamp": "2026-03-28T07:44:04Z",
       "score": 4.99
+    },
+    {
+      "timestamp": "2026-03-28T08:36:11Z",
+      "score": 4.98
     }
   ]
 }

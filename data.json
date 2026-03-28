@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-28T06:56:03Z",
-  "global_score": 5.05,
+  "generated": "2026-03-28T07:44:04Z",
+  "global_score": 4.99,
   "articles_scored": 96,
-  "words_matched": 306,
+  "words_matched": 311,
   "top_negative": [
     {
       "word": "negro",
@@ -59,15 +59,15 @@
       "score": 3
     },
     {
+      "word": "premios",
+      "score": 3
+    },
+    {
       "word": "premio",
       "score": 3
     },
     {
       "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "súper",
       "score": 3
     }
   ],
@@ -75,11 +75,11 @@
     "El País": 5.58,
     "elDiario.es": 4.63,
     "El Mundo": 4.07,
-    "ABC": 5.19,
+    "ABC": 5.22,
     "El Confidencial": 5.64,
     "BBC Mundo": 4.94,
     "France 24 ES": 4.22,
-    "La Nación AR": 6.44,
+    "La Nación AR": 5.53,
     "La Jornada MX": 4.52,
     "Desinformémonos": 5.09,
     "Resumen Latinoam.": 5.36
@@ -723,6 +723,10 @@
     {
       "timestamp": "2026-03-28T06:56:03Z",
       "score": 5.05
+    },
+    {
+      "timestamp": "2026-03-28T07:44:04Z",
+      "score": 4.99
     }
   ]
 }

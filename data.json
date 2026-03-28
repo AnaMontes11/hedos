@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-28T11:26:32Z",
-  "global_score": 4.66,
-  "articles_scored": 97,
-  "words_matched": 266,
+  "generated": "2026-03-28T12:50:54Z",
+  "global_score": 4.75,
+  "articles_scored": 99,
+  "words_matched": 281,
   "top_negative": [
     {
       "word": "negro",
@@ -55,39 +55,58 @@
       "score": 3
     },
     {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
       "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "agradable",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.44,
-    "elDiario.es": 4.6,
-    "El Mundo": 3.58,
-    "ABC": 4.22,
-    "El Confidencial": 5.1,
-    "BBC Mundo": 4.49,
-    "France 24 ES": 4.22,
-    "La Nación AR": 4.63,
-    "La Jornada MX": 4.52,
+    "El País": 4.76,
+    "elDiario.es": 4.57,
+    "El Mundo": 4.13,
+    "ABC": 5.29,
+    "El Confidencial": 4.73,
+    "BBC Mundo": 4.35,
+    "France 24 ES": 4.06,
+    "La Nación AR": 4.83,
+    "La Jornada MX": 4.74,
     "Desinformémonos": 5.09,
-    "Resumen Latinoam.": 5.36
+    "Resumen Latinoam.": 5.62
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Lo",
+      "title": "Los hutíes de Yemen se suman a la guerra en Oriente Próximo y amenazan con bloqu",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "bloquear",
+          "score": -1
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
       "score": 3.6,
       "words": [
         {
@@ -95,16 +114,16 @@
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataque",
+          "word": "ataques",
           "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -156,17 +175,6 @@
     },
     {
       "source": "El País",
-      "title": "Mónica Oltra anuncia este sábado su regreso a la política para optar a la alcald",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "celebra",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Sanidad agilizará la eutanasia en casos urgentes y reforzará el papel de la enfe",
       "score": 5.0,
       "words": [
@@ -177,47 +185,6 @@
         {
           "word": "derecho",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Amor y sexo con desnivel: los libros exploran los claroscuros de las parejas des",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "amor",
-          "score": 3
-        },
-        {
-          "word": "novela",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cómo uso Claude: el agente IA del que todos hablan",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "ayuda",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El misterio del segundo bronce celtíbero más importante conocido y que oculta un",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "valor",
-          "score": 2
         }
       ]
     },
@@ -237,6 +204,47 @@
         {
           "word": "incorrecto",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los caseros se blindan pese a la caída de la morosidad: así funcionan los seguro",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "garantía",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los líos de los Fitz-James que ensombrecen el centenario de Cayetana de Alba: po",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "exposición",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Amor y sexo con desnivel: los libros exploran los claroscuros de las parejas des",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "amor",
+          "score": 3
+        },
+        {
+          "word": "novela",
+          "score": 2
         }
       ]
     },
@@ -743,6 +751,10 @@
     {
       "timestamp": "2026-03-28T11:26:32Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-03-28T12:50:54Z",
+      "score": 4.75
     }
   ]
 }

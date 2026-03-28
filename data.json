@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-28T10:29:28Z",
-  "global_score": 4.91,
+  "generated": "2026-03-28T11:26:32Z",
+  "global_score": 4.66,
   "articles_scored": 97,
-  "words_matched": 293,
+  "words_matched": 266,
   "top_negative": [
     {
       "word": "negro",
@@ -43,10 +43,6 @@
       "score": 5
     },
     {
-      "word": "brillante",
-      "score": 4
-    },
-    {
       "word": "maravilloso",
       "score": 4
     },
@@ -59,27 +55,31 @@
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "prestigio",
       "score": 3
     },
     {
-      "word": "emocionante",
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "agradable",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.35,
-    "elDiario.es": 4.69,
-    "El Mundo": 3.7,
-    "ABC": 4.98,
-    "El Confidencial": 5.4,
-    "BBC Mundo": 4.94,
+    "El País": 5.44,
+    "elDiario.es": 4.6,
+    "El Mundo": 3.58,
+    "ABC": 4.22,
+    "El Confidencial": 5.1,
+    "BBC Mundo": 4.49,
     "France 24 ES": 4.22,
-    "La Nación AR": 5.69,
+    "La Nación AR": 4.63,
     "La Jornada MX": 4.52,
     "Desinformémonos": 5.09,
     "Resumen Latinoam.": 5.36
@@ -156,6 +156,17 @@
     },
     {
       "source": "El País",
+      "title": "Mónica Oltra anuncia este sábado su regreso a la política para optar a la alcald",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "celebra",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Sanidad agilizará la eutanasia en casos urgentes y reforzará el papel de la enfe",
       "score": 5.0,
       "words": [
@@ -166,17 +177,6 @@
         {
           "word": "derecho",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un progreso hacia el precipicio",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "progreso",
-          "score": 2
         }
       ]
     },
@@ -739,6 +739,10 @@
     {
       "timestamp": "2026-03-28T10:29:28Z",
       "score": 4.91
+    },
+    {
+      "timestamp": "2026-03-28T11:26:32Z",
+      "score": 4.66
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-28T08:36:11Z",
-  "global_score": 4.98,
-  "articles_scored": 96,
-  "words_matched": 298,
+  "generated": "2026-03-28T09:35:01Z",
+  "global_score": 4.87,
+  "articles_scored": 97,
+  "words_matched": 295,
   "top_negative": [
     {
       "word": "negro",
@@ -43,10 +43,6 @@
       "score": 5
     },
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
       "word": "brillante",
       "score": 4
     },
@@ -63,23 +59,27 @@
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.51,
+    "El País": 5.48,
     "elDiario.es": 4.69,
-    "El Mundo": 4.07,
-    "ABC": 5.25,
-    "El Confidencial": 5.58,
+    "El Mundo": 3.7,
+    "ABC": 4.94,
+    "El Confidencial": 5.4,
     "BBC Mundo": 4.94,
     "France 24 ES": 4.22,
-    "La Nación AR": 5.5,
+    "La Nación AR": 5.03,
     "La Jornada MX": 4.52,
     "Desinformémonos": 5.09,
     "Resumen Latinoam.": 5.36
@@ -87,38 +87,16 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Sanidad agilizará la eutanasia en casos urgentes y reforzará el papel de la enfe",
-      "score": 5.0,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Lo",
+      "score": 3.6,
       "words": [
         {
-          "word": "evitar",
-          "score": -1
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "derecho",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un progreso hacia el precipicio",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "progreso",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Los ",
-      "score": 3.88,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "guerra",
@@ -127,14 +105,6 @@
         {
           "word": "ataque",
           "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     },
@@ -185,6 +155,32 @@
         {
           "word": "alerta",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sanidad agilizará la eutanasia en casos urgentes y reforzará el papel de la enfe",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un progreso hacia el precipicio",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "progreso",
+          "score": 2
         }
       ]
     },
@@ -739,6 +735,10 @@
     {
       "timestamp": "2026-03-28T08:36:11Z",
       "score": 4.98
+    },
+    {
+      "timestamp": "2026-03-28T09:35:01Z",
+      "score": 4.87
     }
   ]
 }

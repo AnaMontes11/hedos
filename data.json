@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-28T09:35:01Z",
-  "global_score": 4.87,
+  "generated": "2026-03-28T10:29:28Z",
+  "global_score": 4.91,
   "articles_scored": 97,
-  "words_matched": 295,
+  "words_matched": 293,
   "top_negative": [
     {
       "word": "negro",
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
-      "word": "criminales",
-      "score": -3
-    },
-    {
       "word": "destruir",
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "matar",
+      "score": -3
+    },
+    {
+      "word": "empeorar",
       "score": -3
     }
   ],
@@ -47,11 +47,11 @@
       "score": 4
     },
     {
-      "word": "ganar",
+      "word": "maravilloso",
       "score": 4
     },
     {
-      "word": "maravilloso",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -59,27 +59,27 @@
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
+      "word": "premios",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "emocionante",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.48,
+    "El País": 5.35,
     "elDiario.es": 4.69,
     "El Mundo": 3.7,
-    "ABC": 4.94,
+    "ABC": 4.98,
     "El Confidencial": 5.4,
     "BBC Mundo": 4.94,
     "France 24 ES": 4.22,
-    "La Nación AR": 5.03,
+    "La Nación AR": 5.69,
     "La Jornada MX": 4.52,
     "Desinformémonos": 5.09,
     "Resumen Latinoam.": 5.36
@@ -110,6 +110,29 @@
     },
     {
       "source": "El País",
+      "title": "Los hutíes, el riesgo para el petróleo saudí que puede agravar la crisis energét",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "agravar",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "lanzado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Los vaivenes de Trump alejan el final de la guerra contra Irán",
       "score": 3.4,
       "words": [
@@ -128,33 +151,6 @@
         {
           "word": "crisis",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Irán mantiene su capacidad de atacar con misiles tras un mes de guerra",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "alerta",
-          "score": -1
         }
       ]
     },
@@ -246,6 +242,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Guerra en Irán, última hora del ataque de EEUU e Israel en directo",
+      "score": 4.24,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Más inflación y menos crecimiento: el mes de guerra en Oriente Medio ya le pasa ",
       "score": 4.43,
       "words": [
@@ -268,33 +291,6 @@
         {
           "word": "peor",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Esa persona naranja de la que usted me está hablando",
-      "score": 4.55,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "provocado",
-          "score": -1
-        },
-        {
-          "word": "tipo",
-          "score": 2
         }
       ]
     },
@@ -327,28 +323,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Guerra en Irán, última hora del ataque de EEUU e Israel en directo",
-      "score": 4.24,
+      "title": "Esa persona naranja de la que usted me está hablando",
+      "score": 4.55,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "ataque",
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "provocado",
           "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "tipo",
+          "score": 2
         }
       ]
     },
@@ -739,6 +735,10 @@
     {
       "timestamp": "2026-03-28T09:35:01Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-03-28T10:29:28Z",
+      "score": 4.91
     }
   ]
 }

@@ -1,39 +1,39 @@
 {
-  "generated": "2026-03-28T04:26:04Z",
-  "global_score": 4.87,
-  "articles_scored": 86,
-  "words_matched": 219,
+  "generated": "2026-03-28T05:55:04Z",
+  "global_score": 4.78,
+  "articles_scored": 99,
+  "words_matched": 309,
   "top_negative": [
     {
-      "word": "infierno",
-      "score": -4
+      "word": "negro",
+      "score": -5
     },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "infierno",
       "score": -4
-    },
-    {
-      "word": "matar",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
     },
     {
       "word": "crisis",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "destruir",
+      "score": -3
+    },
+    {
+      "word": "matar",
+      "score": -3
+    },
+    {
+      "word": "empeorar",
       "score": -3
     }
   ],
@@ -41,6 +41,10 @@
     {
       "word": "excepcional",
       "score": 5
+    },
+    {
+      "word": "brillante",
+      "score": 4
     },
     {
       "word": "ganar",
@@ -51,34 +55,31 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "súper",
       "score": 3
     },
     {
-      "word": "lealtad",
+      "word": "emocionante",
       "score": 3
     },
     {
       "word": "perfectamente",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.52,
-    "elDiario.es": 5.23,
+    "El País": 5.36,
+    "elDiario.es": 4.63,
     "El Mundo": 4.07,
+    "ABC": 4.7,
     "El Confidencial": 5.64,
     "BBC Mundo": 4.94,
     "France 24 ES": 4.22,
-    "La Nación AR": 4.97,
+    "La Nación AR": 3.94,
     "La Jornada MX": 4.52,
     "Desinformémonos": 5.09,
     "Resumen Latinoam.": 5.36
@@ -86,7 +87,48 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Israel intensifica la guerra en todos los frentes y amenaza con matar a más líde",
+      "title": "Sanidad agilizará la eutanasia en casos urgentes y reforzará el papel de la enfe",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La voz de Noelia",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "daño",
+          "score": -2
+        },
+        {
+          "word": "incapacidad",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un progreso hacia el precipicio",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "progreso",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los vaivenes de Trump alejan el final de la guerra contra Irán",
       "score": 3.4,
       "words": [
         {
@@ -94,288 +136,211 @@
           "score": -2
         },
         {
-          "word": "amenaza",
+          "word": "amenazas",
           "score": -2
         },
-        {
-          "word": "matar",
-          "score": -3
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Un a",
-      "score": 4.43,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuga",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump exige a Irán que reabra el estrecho de Ormuz mientras critica a la OTAN: “",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump envía a miles de soldados más al Golfo para preparar la operación “infiern",
-      "score": 1.8,
-      "words": [
-        {
-          "word": "infierno",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Marco Rubio: “Quizás haya una oportunidad” para el cambio en Cuba",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "gratis",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Detenidas cinco mujeres por la agresión tránsfoba ocurrida en un pueblo de León",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Leonardo DiCaprio, el controvertido pero adorable último patriarca de Hollywood:",
-      "score": 6.07,
-      "words": [
-        {
-          "word": "adorable",
-          "score": 3
-        },
-        {
-          "word": "dejar",
-          "score": -1
-        },
-        {
-          "word": "elegante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El lehendakari eleva la presión para que el ‘Guernica’ se traslade al País Vasco",
-      "score": 3.67,
-      "words": [
         {
           "word": "presión",
           "score": -1
         },
         {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "error",
-          "score": -2
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "‘Altas capacidades’: así son. Y así nos parecen",
-      "score": 6.6,
+      "title": "Irán mantiene su capacidad de atacar con misiles tras un mes de guerra",
+      "score": 5.0,
       "words": [
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
         {
           "word": "logra",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Óscar López anuncia que la jornada de 35 horas a los funcionarios del Estado se ",
-      "score": 5.31,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
         },
         {
-          "word": "reto",
+          "word": "ataque",
           "score": -1
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "alerta",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Irán y EE UU, una larga historia de falsas negociaciones de paz",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
         },
         {
-          "word": "celebra",
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "sucio",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Amor y sexo con desnivel: los libros exploran los claroscuros de las parejas des",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "amor",
           "score": 3
         },
         {
-          "word": "respalda",
+          "word": "novela",
           "score": 2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Claves de la jornada de 35 horas para funcionarios del Estado: a quién afecta y ",
-      "score": 6.38,
+      "source": "El País",
+      "title": "Cómo uso Claude: el agente IA del que todos hablan",
+      "score": 6.6,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
-        },
+          "word": "ayuda",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El misterio del segundo bronce celtíbero más importante conocido y que oculta un",
+      "score": 6.6,
+      "words": [
         {
-          "word": "rico",
+          "word": "importante",
           "score": 2
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
+          "word": "valor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Comprar una casa por 300.000 euros y acabar pagando 500.000: el precio real de a",
+      "score": 5.53,
+      "words": [
         {
-          "word": "oferta",
+          "word": "activo",
           "score": 2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "seguro",
+          "score": 2
+        },
+        {
+          "word": "incorrecto",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Bustinduy promete \"más actuaciones para defender a los inquilinos\" y confía en g",
-      "score": 5.37,
+      "title": "Más inflación y menos crecimiento: el mes de guerra en Oriente Medio ya le pasa ",
+      "score": 4.43,
       "words": [
         {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "asegura",
+          "word": "crecimiento",
           "score": 2
         },
         {
-          "word": "presión",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump alienta las negociaciones con Irán para salir del avispero y se revuelve a",
+      "score": 4.61,
+      "words": [
+        {
+          "word": "alienta",
+          "score": 2
+        },
+        {
+          "word": "alienta",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "cumplido",
+          "score": 2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La guerra de Oriente Medio arrastra a Europa a la estanflación",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "arrastra",
           "score": -1
         },
         {
-          "word": "imparable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Óscar Puente adelanta más medidas de apoyo al sector del transporte ante la cris",
-      "score": 5.05,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "arrastra",
+          "score": -1
         },
         {
-          "word": "crisis",
-          "score": -3
+          "word": "crecimiento",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Carlos Cuerpo, en el VI Foro Económico de elDiario.es: \"Debemos redoblar la apue",
-      "score": 4.83,
+      "title": "El diario de guerra que nadie esperaba: las confesiones del hijo del presidente ",
+      "score": 4.22,
       "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
         {
           "word": "guerra",
           "score": -2
@@ -383,33 +348,45 @@
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "desastre",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Un cambio sin vuelta atrás: el futuro de la industria del automóvil en España pa",
-      "score": 4.69,
+      "title": "Carlos Cuerpo y Yolanda Díaz: la tensión política entre el PSOE y Sumar escala a",
+      "score": 4.85,
       "words": [
         {
-          "word": "culo",
-          "score": -4
+          "word": "tensión",
+          "score": -1
         },
         {
-          "word": "ambicioso",
+          "word": "tensión",
+          "score": -1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "tranquilo",
           "score": 2
         },
         {
-          "word": "importancia",
-          "score": 2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "importancia",
-          "score": 2
+          "word": "crisis",
+          "score": -3
         }
       ]
     }
@@ -726,6 +703,10 @@
     {
       "timestamp": "2026-03-28T04:26:04Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-03-28T05:55:04Z",
+      "score": 4.78
     }
   ]
 }

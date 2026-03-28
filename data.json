@@ -1,15 +1,11 @@
 {
-  "generated": "2026-03-28T16:30:42Z",
-  "global_score": 4.52,
-  "articles_scored": 99,
-  "words_matched": 309,
+  "generated": "2026-03-28T17:26:22Z",
+  "global_score": 4.56,
+  "articles_scored": 96,
+  "words_matched": 292,
   "top_negative": [
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "infierno",
       "score": -4
     },
     {
@@ -21,19 +17,23 @@
       "score": -3
     },
     {
-      "word": "criminales",
-      "score": -3
-    },
-    {
       "word": "destruir",
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "matar",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "empeorar",
+      "score": -3
+    },
+    {
+      "word": "preocupado",
+      "score": -3
+    },
+    {
+      "word": "enfado",
       "score": -3
     }
   ],
@@ -47,42 +47,42 @@
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "maravilloso",
       "score": 4
     },
     {
-      "word": "alegre",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "paraíso",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "prestigio",
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "caro",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.38,
-    "elDiario.es": 4.58,
-    "El Mundo": 4.13,
-    "ABC": 5.17,
-    "El Confidencial": 4.76,
+    "El País": 4.11,
+    "elDiario.es": 4.55,
+    "El Mundo": 4.96,
+    "ABC": 5.63,
+    "El Confidencial": 4.38,
     "BBC Mundo": 4.33,
-    "France 24 ES": 3.87,
-    "La Nación AR": 4.81,
+    "France 24 ES": 4.1,
+    "La Nación AR": 4.76,
     "La Jornada MX": 4.74,
-    "Desinformémonos": 4.46,
-    "Resumen Latinoam.": 4.44
+    "Desinformémonos": 4.21,
+    "Resumen Latinoam.": 4.38
   },
   "articles": [
     {
@@ -175,6 +175,17 @@
     },
     {
       "source": "El País",
+      "title": "Cientos de miles de ciudadanos se suman al movimiento ‘No Kings’ para protestar ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "protestar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Sanidad agilizará la eutanasia en casos urgentes y reforzará el papel de la enfe",
       "score": 5.0,
       "words": [
@@ -215,25 +226,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Comprar una casa por 300.000 euros y acabar pagando 500.000: el precio real de a",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "activo",
-          "score": 2
-        },
-        {
-          "word": "seguro",
-          "score": 2
-        },
-        {
-          "word": "incorrecto",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Guerra en Irán, última hora del ataque de EEUU e Israel en directo",
       "score": 4.16,
@@ -256,60 +248,6 @@
         },
         {
           "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Esa persona naranja de la que usted me está hablando",
-      "score": 4.55,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "provocado",
-          "score": -1
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El diario de guerra que nadie esperaba: las confesiones del hijo del presidente ",
-      "score": 4.22,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "desastre",
           "score": -2
         }
       ]
@@ -343,55 +281,82 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Más inflación y menos crecimiento: el mes de guerra en Oriente Medio ya le pasa ",
-      "score": 4.43,
+      "title": "Esa persona naranja de la que usted me está hablando",
+      "score": 4.55,
       "words": [
         {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "crecimiento",
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "importante",
           "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "provocado",
+          "score": -1
         },
         {
-          "word": "peor",
-          "score": -3
+          "word": "tipo",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La guerra de Oriente Medio arrastra a Europa a la estanflación",
-      "score": 4.53,
+      "title": "Miles de protestas se multiplican en todo EEUU contra el autoritarismo de Trump ",
+      "score": 4.57,
+      "words": [
+        {
+          "word": "protestas",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "protestas",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "celebra",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El diario de guerra que nadie esperaba: las confesiones del hijo del presidente ",
+      "score": 4.22,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "arrastra",
-          "score": -1
-        },
-        {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "arrastra",
+          "word": "ataque",
           "score": -1
         },
         {
-          "word": "crecimiento",
-          "score": 2
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "desastre",
+          "score": -2
         }
       ]
     },
@@ -419,6 +384,33 @@
         {
           "word": "ataque",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Más inflación y menos crecimiento: el mes de guerra en Oriente Medio ya le pasa ",
+      "score": 4.43,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
         }
       ]
     }
@@ -783,6 +775,10 @@
     {
       "timestamp": "2026-03-28T16:30:42Z",
       "score": 4.52
+    },
+    {
+      "timestamp": "2026-03-28T17:26:22Z",
+      "score": 4.56
     }
   ]
 }

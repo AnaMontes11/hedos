@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-29T09:34:21Z",
-  "global_score": 4.71,
-  "articles_scored": 91,
-  "words_matched": 307,
+  "generated": "2026-03-29T10:30:14Z",
+  "global_score": 4.66,
+  "articles_scored": 92,
+  "words_matched": 303,
   "top_negative": [
     {
       "word": "infierno",
@@ -21,19 +21,19 @@
       "score": -3
     },
     {
-      "word": "perdiendo",
+      "word": "malo",
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "ilegal",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "muerto",
       "score": -3
     }
   ],
@@ -43,15 +43,15 @@
       "score": 5
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "maravilloso",
       "score": 4
     },
     {
       "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "feliz",
       "score": 3
     },
     {
@@ -63,23 +63,23 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "bueno",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.07,
-    "elDiario.es": 4.7,
+    "elDiario.es": 4.72,
     "El Mundo": 4.61,
-    "ABC": 4.44,
-    "El Confidencial": 5.7,
-    "BBC Mundo": 4.44,
+    "ABC": 4.77,
+    "El Confidencial": 5.36,
+    "BBC Mundo": 4.27,
     "France 24 ES": 4.54,
-    "La Nación AR": 6.12,
+    "La Nación AR": 5.35,
     "La Jornada MX": 4.74,
     "Desinformémonos": 3.93,
     "Resumen Latinoam.": 5.01
@@ -255,136 +255,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La derecha judicial blinda su cruzada contra el Gobierno",
-      "score": 4.58,
+      "title": "Sánchez envía una carta a la militancia del PSOE para reivindicar su 'No a la gu",
+      "score": 4.3,
       "words": [
         {
-          "word": "errores",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "cargos",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "errores",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "solo",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Oltra vuelve con el espejo de Lula y convierte València en la gran batalla polít",
-      "score": 4.67,
+      "title": "Avraham Burg, de la cúpula del Estado de Israel a la muerte del sionismo: \"Esta ",
+      "score": 4.35,
       "words": [
         {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "lucha",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Vox recaudó de sus grupos territoriales un millón en 2020, casi la misma cantida",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "cargos",
+          "word": "muerte",
           "score": -2
         },
         {
-          "word": "dudas",
-          "score": -1
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "valor",
+          "word": "paz",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El derecho de Noelia a morir con dignidad",
-      "score": 4.66,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
         },
         {
-          "word": "morir",
-          "score": -3
+          "word": "pasado",
+          "score": -1
         },
         {
           "word": "derecho",
           "score": 1
-        },
-        {
-          "word": "morir",
-          "score": -3
-        },
-        {
-          "word": "infierno",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Esto dicen los datos sobre qué hogares se benefician más de la rebaja de impuest",
-      "score": 5.09,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     },
@@ -417,11 +336,11 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Miles de protestas se multiplican en todo EEUU contra el autoritarismo de Trump ",
-      "score": 4.54,
+      "title": "Europa queda varada en tierra de nadie ante la guerra de Irán",
+      "score": 4.76,
       "words": [
         {
-          "word": "protestas",
+          "word": "guerra",
           "score": -2
         },
         {
@@ -429,16 +348,97 @@
           "score": -2
         },
         {
-          "word": "protestas",
+          "word": "conflicto",
           "score": -2
+        },
+        {
+          "word": "claro",
+          "score": 1
         },
         {
           "word": "guerra",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Qué nos dicen las transferencias de armas de las guerras actuales (y futuras)",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "incrementar",
+          "score": 1
         },
         {
-          "word": "celebra",
+          "word": "mayor",
           "score": 3
+        },
+        {
+          "word": "destruido",
+          "score": -3
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "conflictos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Esto dicen los datos sobre qué hogares se benefician más de la rebaja de impuest",
+      "score": 5.09,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La derecha judicial blinda su cruzada contra el Gobierno",
+      "score": 4.58,
+      "words": [
+        {
+          "word": "errores",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "autoridad",
+          "score": 1
+        },
+        {
+          "word": "errores",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     }
@@ -855,6 +855,10 @@
     {
       "timestamp": "2026-03-29T09:34:21Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-03-29T10:30:14Z",
+      "score": 4.66
     }
   ]
 }

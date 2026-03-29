@@ -1,13 +1,9 @@
 {
-  "generated": "2026-03-29T08:40:00Z",
-  "global_score": 4.69,
-  "articles_scored": 93,
-  "words_matched": 317,
+  "generated": "2026-03-29T09:34:21Z",
+  "global_score": 4.71,
+  "articles_scored": 91,
+  "words_matched": 307,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "infierno",
       "score": -4
@@ -34,6 +30,10 @@
     },
     {
       "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     }
   ],
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "caro",
+      "word": "celebrando",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.07,
-    "elDiario.es": 4.77,
-    "El Mundo": 4.64,
-    "ABC": 4.83,
-    "El Confidencial": 5.33,
+    "elDiario.es": 4.7,
+    "El Mundo": 4.61,
+    "ABC": 4.44,
+    "El Confidencial": 5.7,
     "BBC Mundo": 4.44,
     "France 24 ES": 4.54,
-    "La Nación AR": 5.38,
+    "La Nación AR": 6.12,
     "La Jornada MX": 4.74,
     "Desinformémonos": 3.93,
-    "Resumen Latinoam.": 4.91
+    "Resumen Latinoam.": 5.01
   },
   "articles": [
     {
@@ -851,6 +851,10 @@
     {
       "timestamp": "2026-03-29T08:40:00Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-03-29T09:34:21Z",
+      "score": 4.71
     }
   ]
 }

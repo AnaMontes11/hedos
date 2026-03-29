@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-29T16:32:30Z",
-  "global_score": 4.58,
-  "articles_scored": 96,
-  "words_matched": 323,
+  "generated": "2026-03-29T17:27:31Z",
+  "global_score": 4.59,
+  "articles_scored": 98,
+  "words_matched": 332,
   "top_negative": [
     {
       "word": "infierno",
@@ -14,6 +14,10 @@
     },
     {
       "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "asesinato",
       "score": -3
-    },
-    {
-      "word": "criminal",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -47,15 +47,11 @@
       "score": 4
     },
     {
-      "word": "alegre",
+      "word": "lealtad",
       "score": 3
     },
     {
-      "word": "exitoso",
-      "score": 3
-    },
-    {
-      "word": "premio",
+      "word": "caro",
       "score": 3
     },
     {
@@ -67,24 +63,78 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "leal",
+      "score": 3
+    },
+    {
+      "word": "impresiona",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.03,
+    "El País": 4.05,
     "elDiario.es": 4.73,
-    "El Mundo": 4.07,
+    "El Mundo": 3.99,
     "ABC": 5.61,
-    "El Confidencial": 4.7,
+    "El Confidencial": 5.17,
     "BBC Mundo": 4.57,
-    "France 24 ES": 4.47,
-    "La Nación AR": 5.63,
+    "France 24 ES": 4.76,
+    "La Nación AR": 5.06,
     "La Jornada MX": 4.09,
     "Desinformémonos": 3.99,
-    "Resumen Latinoam.": 4.68
+    "Resumen Latinoam.": 4.45
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Israel impide a la máxima autoridad católica de Tierra Santa acceder al Santo Se",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "autoridad",
+          "score": 1
+        },
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 3.97,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "restos",
+          "score": -2
+        },
+        {
+          "word": "ampliar",
+          "score": 1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "La guerra de Trump y Netanyahu contra Irán: 30 días de caos y un futuro incierto",
@@ -129,33 +179,6 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 3.97,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "restos",
-          "score": -2
-        },
-        {
-          "word": "ampliar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Miles de iraníes huyen a Turquía: “Atacan objetivos no militares”",
       "score": 3.13,
       "words": [
@@ -170,21 +193,6 @@
         {
           "word": "morir",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La guerra de Trump abona el terreno para la especulación financiera, pero levant",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "evitar",
-          "score": -1
         }
       ]
     },
@@ -867,6 +875,10 @@
     {
       "timestamp": "2026-03-29T16:32:30Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-03-29T17:27:31Z",
+      "score": 4.59
     }
   ]
 }

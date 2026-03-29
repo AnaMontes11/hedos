@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-29T19:30:29Z",
-  "global_score": 4.59,
-  "articles_scored": 99,
-  "words_matched": 327,
+  "generated": "2026-03-29T20:28:55Z",
+  "global_score": 4.57,
+  "articles_scored": 95,
+  "words_matched": 318,
   "top_negative": [
     {
       "word": "infierno",
@@ -15,10 +15,6 @@
     {
       "word": "violación",
       "score": -4
-    },
-    {
-      "word": "morir",
-      "score": -3
     },
     {
       "word": "preocupante",
@@ -35,6 +31,10 @@
     {
       "word": "pierde",
       "score": -3
+    },
+    {
+      "word": "asesinato",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -43,46 +43,46 @@
       "score": 5
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "milagro",
-      "score": 4
-    },
-    {
       "word": "maravilloso",
       "score": 4
     },
     {
-      "word": "sabroso",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "medalla",
+      "score": 3
+    },
+    {
+      "word": "impresionante",
+      "score": 3
+    },
+    {
+      "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "encantado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.07,
+    "El País": 4.1,
     "elDiario.es": 4.7,
     "El Mundo": 4.03,
-    "ABC": 5.65,
+    "ABC": 5.55,
     "El Confidencial": 4.78,
-    "BBC Mundo": 4.57,
-    "France 24 ES": 4.98,
-    "La Nación AR": 4.68,
+    "BBC Mundo": 4.3,
+    "France 24 ES": 4.79,
+    "La Nación AR": 5.12,
     "La Jornada MX": 4.09,
     "Desinformémonos": 3.99,
-    "Resumen Latinoam.": 4.82
+    "Resumen Latinoam.": 4.85
   },
   "articles": [
     {
@@ -133,20 +133,20 @@
     },
     {
       "source": "El País",
-      "title": "La guerra de Trump y Netanyahu contra Irán: 30 días de caos y un futuro incierto",
-      "score": 3.67,
+      "title": "Irán acusa a Estados Unidos de planificar una invasión mientras habla de negocia",
+      "score": 3.4,
       "words": [
         {
-          "word": "guerra",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "caos",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "incierto",
-          "score": -1
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
@@ -175,20 +175,20 @@
     },
     {
       "source": "El País",
-      "title": "Miles de iraníes huyen a Turquía: “Atacan objetivos no militares”",
-      "score": 3.13,
+      "title": "La guerra de Trump y Netanyahu contra Irán: 30 días de caos y un futuro incierto",
+      "score": 3.67,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "miedo",
+          "word": "caos",
           "score": -2
         },
         {
-          "word": "morir",
-          "score": -3
+          "word": "incierto",
+          "score": -1
         }
       ]
     },
@@ -883,6 +883,10 @@
     {
       "timestamp": "2026-03-29T19:30:29Z",
       "score": 4.59
+    },
+    {
+      "timestamp": "2026-03-29T20:28:55Z",
+      "score": 4.57
     }
   ]
 }

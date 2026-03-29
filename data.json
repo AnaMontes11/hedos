@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-29T07:55:59Z",
+  "generated": "2026-03-29T08:40:00Z",
   "global_score": 4.69,
-  "articles_scored": 94,
-  "words_matched": 319,
+  "articles_scored": 93,
+  "words_matched": 317,
   "top_negative": [
     {
       "word": "negro",
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "diversión",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "caro",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.07,
     "elDiario.es": 4.77,
-    "El Mundo": 4.77,
-    "ABC": 5.16,
+    "El Mundo": 4.64,
+    "ABC": 4.83,
     "El Confidencial": 5.33,
     "BBC Mundo": 4.44,
     "France 24 ES": 4.54,
-    "La Nación AR": 5.03,
+    "La Nación AR": 5.38,
     "La Jornada MX": 4.74,
     "Desinformémonos": 3.93,
-    "Resumen Latinoam.": 4.79
+    "Resumen Latinoam.": 4.91
   },
   "articles": [
     {
@@ -846,6 +846,10 @@
     },
     {
       "timestamp": "2026-03-29T07:55:59Z",
+      "score": 4.69
+    },
+    {
+      "timestamp": "2026-03-29T08:40:00Z",
       "score": 4.69
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-29T10:30:14Z",
-  "global_score": 4.66,
-  "articles_scored": 92,
-  "words_matched": 303,
+  "generated": "2026-03-29T11:26:42Z",
+  "global_score": 4.75,
+  "articles_scored": 94,
+  "words_matched": 310,
   "top_negative": [
     {
       "word": "infierno",
@@ -51,37 +51,37 @@
       "score": 3
     },
     {
-      "word": "feliz",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "riqueza",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "encantado",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.07,
     "elDiario.es": 4.72,
-    "El Mundo": 4.61,
-    "ABC": 4.77,
-    "El Confidencial": 5.36,
+    "El Mundo": 4.43,
+    "ABC": 5.25,
+    "El Confidencial": 5.61,
     "BBC Mundo": 4.27,
     "France 24 ES": 4.54,
-    "La Nación AR": 5.35,
+    "La Nación AR": 5.62,
     "La Jornada MX": 4.74,
-    "Desinformémonos": 3.93,
+    "Desinformémonos": 3.99,
     "Resumen Latinoam.": 5.01
   },
   "articles": [
@@ -859,6 +859,10 @@
     {
       "timestamp": "2026-03-29T10:30:14Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-03-29T11:26:42Z",
+      "score": 4.75
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-29T11:26:42Z",
-  "global_score": 4.75,
-  "articles_scored": 94,
-  "words_matched": 310,
+  "generated": "2026-03-29T12:51:13Z",
+  "global_score": 4.46,
+  "articles_scored": 95,
+  "words_matched": 325,
   "top_negative": [
     {
       "word": "infierno",
@@ -17,23 +17,23 @@
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "malo",
+      "word": "matar",
       "score": -3
     },
     {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "crisis",
+      "word": "desconfianza",
       "score": -3
     },
     {
       "word": "muerto",
+      "score": -3
+    },
+    {
+      "word": "pierde",
       "score": -3
     }
   ],
@@ -41,6 +41,10 @@
     {
       "word": "excepcional",
       "score": 5
+    },
+    {
+      "word": "bendición",
+      "score": 4
     },
     {
       "word": "maravilloso",
@@ -51,36 +55,32 @@
       "score": 3
     },
     {
+      "word": "premio",
+      "score": 3
+    },
+    {
       "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     },
     {
       "word": "celebrar",
       "score": 3
-    },
-    {
-      "word": "encantado",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "celebrando",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.07,
-    "elDiario.es": 4.72,
-    "El Mundo": 4.43,
-    "ABC": 5.25,
-    "El Confidencial": 5.61,
-    "BBC Mundo": 4.27,
-    "France 24 ES": 4.54,
-    "La Nación AR": 5.62,
-    "La Jornada MX": 4.74,
+    "El País": 4.04,
+    "elDiario.es": 4.74,
+    "El Mundo": 4.11,
+    "ABC": 4.94,
+    "El Confidencial": 4.96,
+    "BBC Mundo": 4.33,
+    "France 24 ES": 4.44,
+    "La Nación AR": 4.46,
+    "La Jornada MX": 4.09,
     "Desinformémonos": 3.99,
     "Resumen Latinoam.": 5.01
   },
@@ -124,6 +124,33 @@
         {
           "word": "lanzado",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 3.88,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "combate",
+          "score": -1
         }
       ]
     },
@@ -228,35 +255,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno deja fuera de las becas completas de educación a 380.000 jóvenes que",
-      "score": 5.23,
-      "words": [
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "pobreza",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "pobreza",
-          "score": -1
-        },
-        {
-          "word": "pobreza",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez envía una carta a la militancia del PSOE para reivindicar su 'No a la gu",
-      "score": 4.3,
+      "title": "Europa queda varada en tierra de nadie ante la guerra de Irán",
+      "score": 4.76,
       "words": [
         {
           "word": "guerra",
@@ -267,12 +267,12 @@
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "conflicto",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "claro",
+          "score": 1
         },
         {
           "word": "guerra",
@@ -336,8 +336,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Europa queda varada en tierra de nadie ante la guerra de Irán",
-      "score": 4.76,
+      "title": "Sánchez envía una carta a la militancia del PSOE para reivindicar su 'No a la gu",
+      "score": 4.3,
       "words": [
         {
           "word": "guerra",
@@ -348,12 +348,12 @@
           "score": -2
         },
         {
-          "word": "conflicto",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "claro",
-          "score": 1
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "guerra",
@@ -390,28 +390,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Esto dicen los datos sobre qué hogares se benefician más de la rebaja de impuest",
-      "score": 5.09,
+      "title": "El Gobierno deja fuera de las becas completas de educación a 380.000 jóvenes que",
+      "score": 5.23,
       "words": [
         {
-          "word": "guerra",
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "ataque",
+          "word": "pobreza",
           "score": -1
         },
         {
-          "word": "guerra",
+          "word": "riesgo",
           "score": -2
+        },
+        {
+          "word": "pobreza",
+          "score": -1
+        },
+        {
+          "word": "pobreza",
+          "score": -1
         }
       ]
     },
@@ -863,6 +863,10 @@
     {
       "timestamp": "2026-03-29T11:26:42Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-03-29T12:51:13Z",
+      "score": 4.46
     }
   ]
 }

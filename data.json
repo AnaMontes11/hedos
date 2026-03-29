@@ -1,15 +1,31 @@
 {
-  "generated": "2026-03-29T02:08:42Z",
-  "global_score": 4.61,
-  "articles_scored": 95,
-  "words_matched": 275,
+  "generated": "2026-03-29T05:08:31Z",
+  "global_score": 4.68,
+  "articles_scored": 93,
+  "words_matched": 314,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "infierno",
+      "score": -4
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "crisis",
+      "word": "morir",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "criminales",
       "score": -3
     },
     {
@@ -17,23 +33,7 @@
       "score": -3
     },
     {
-      "word": "matar",
-      "score": -3
-    },
-    {
-      "word": "empeorar",
-      "score": -3
-    },
-    {
-      "word": "preocupado",
-      "score": -3
-    },
-    {
-      "word": "enfado",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
+      "word": "vil",
       "score": -3
     }
   ],
@@ -43,27 +43,27 @@
       "score": 5
     },
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "bendición",
+      "score": 4
+    },
+    {
       "word": "maravilloso",
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "sabroso",
+      "word": "alegre",
       "score": 3
     },
     {
-      "word": "heroico",
+      "word": "maravilla",
       "score": 3
     },
     {
-      "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "genial",
+      "word": "premio",
       "score": 3
     },
     {
@@ -72,37 +72,22 @@
     }
   ],
   "per_source": {
-    "El País": 4.13,
-    "elDiario.es": 4.44,
+    "El País": 3.91,
+    "elDiario.es": 4.82,
     "El Mundo": 4.64,
-    "ABC": 5.63,
-    "El Confidencial": 4.38,
+    "ABC": 5.32,
+    "El Confidencial": 5.17,
     "BBC Mundo": 4.44,
-    "France 24 ES": 4.45,
-    "La Nación AR": 5.75,
+    "France 24 ES": 4.54,
+    "La Nación AR": 5.12,
     "La Jornada MX": 4.74,
     "Desinformémonos": 3.93,
-    "Resumen Latinoam.": 4.13
+    "Resumen Latinoam.": 4.79
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Lo",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los hutíes de Yemen se suman a la guerra en Oriente Próximo y amenazan con bloqu",
+      "title": "La guerra de Trump y Netanyahu contra Irán: 30 días de caos y un futuro incierto",
       "score": 3.67,
       "words": [
         {
@@ -110,31 +95,31 @@
           "score": -2
         },
         {
-          "word": "bloquear",
-          "score": -1
+          "word": "caos",
+          "score": -2
         },
         {
-          "word": "agresión",
-          "score": -2
+          "word": "incierto",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Los hutíes, el riesgo para el petróleo saudí que puede agravar la crisis energét",
-      "score": 3.8,
+      "title": "Mapas | Más de 3.000 ataques en Oriente Próximo: un mes de guerra sin pausa",
+      "score": 4.4,
       "words": [
         {
-          "word": "riesgo",
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "agravar",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
+          "word": "ataques",
+          "score": -1
         },
         {
           "word": "lanzado",
@@ -144,130 +129,115 @@
     },
     {
       "source": "El País",
-      "title": "Los vaivenes de Trump alejan el final de la guerra contra Irán",
-      "score": 3.4,
+      "title": "Miles de iraníes huyen a Turquía: “Atacan objetivos no militares”",
+      "score": 3.13,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "amenazas",
+          "word": "miedo",
           "score": -2
         },
         {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "crisis",
+          "word": "morir",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Cientos de miles de ciudadanos se suman al movimiento ‘No Kings’ para protestar ",
-      "score": 3.4,
+      "title": "La guerra de Trump abona el terreno para la especulación financiera, pero levant",
+      "score": 3.8,
       "words": [
         {
-          "word": "protestar",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Eduardo García Llama, ingeniero de la misión a la Luna de la NASA: “Hay dos mome",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "resolver",
+          "score": 1
+        },
+        {
+          "word": "problemas",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Sanidad agilizará la eutanasia en casos urgentes y reforzará el papel de la enfe",
-      "score": 5.0,
+      "title": "La autopista al infierno de Tiger Woods, entre el mito y el hombre",
+      "score": 3.2,
       "words": [
         {
-          "word": "evitar",
+          "word": "infierno",
+          "score": -4
+        },
+        {
+          "word": "mito",
           "score": -1
         },
         {
-          "word": "derecho",
+          "word": "accidente",
+          "score": -2
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Viaje en el expreso nocturno desde Pekín a la frontera de la hermética Corea del",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "llegar",
           "score": 1
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Un progreso hacia el precipicio",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "progreso",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La voz de Noelia",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "daño",
-          "score": -2
-        },
-        {
-          "word": "incapacidad",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Miles de protestas se multiplican en todo EEUU contra el autoritarismo de Trump ",
-      "score": 4.54,
+      "title": "El Gobierno deja fuera de las becas completas de educación a 380.000 jóvenes que",
+      "score": 5.23,
       "words": [
         {
-          "word": "protestas",
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "pobreza",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "protestas",
-          "score": -2
+          "word": "pobreza",
+          "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump alienta las negociaciones con Irán para salir del avispero y se revuelve a",
-      "score": 4.61,
-      "words": [
-        {
-          "word": "alienta",
-          "score": 2
-        },
-        {
-          "word": "alienta",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "cumplido",
-          "score": 2
-        },
-        {
-          "word": "destruir",
-          "score": -3
+          "word": "pobreza",
+          "score": -1
         }
       ]
     },
@@ -300,36 +270,102 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El diario de guerra que nadie esperaba: las confesiones del hijo del presidente ",
-      "score": 4.22,
+      "title": "Oltra vuelve con el espejo de Lula y convierte València en la gran batalla polít",
+      "score": 4.67,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataque",
+          "word": "batalla",
           "score": -1
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "espera",
+          "score": -1
         },
         {
-          "word": "desastre",
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "lucha",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Así te hemos contado la última hora del ataque de EEUU e Israel a Irán del 28 de",
-      "score": 4.2,
+      "title": "Vox recaudó de sus grupos territoriales un millón en 2020, casi la misma cantida",
+      "score": 5.1,
       "words": [
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La derecha judicial blinda su cruzada contra el Gobierno",
+      "score": 4.58,
+      "words": [
+        {
+          "word": "errores",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "autoridad",
+          "score": 1
+        },
+        {
+          "word": "errores",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Esto dicen los datos sobre qué hogares se benefician más de la rebaja de impuest",
+      "score": 5.09,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
         {
           "word": "ataque",
           "score": -1
@@ -337,10 +373,17 @@
         {
           "word": "guerra",
           "score": -2
-        },
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Europa queda varada en tierra de nadie ante la guerra de Irán",
+      "score": 4.76,
+      "words": [
         {
-          "word": "ataque",
-          "score": -1
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "guerra",
@@ -349,33 +392,14 @@
         {
           "word": "conflicto",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Decenas de exembajadores y altos funcionarios israelíes firman una carta pública",
-      "score": 4.26,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
         },
         {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "violencia",
-          "score": -3
+          "word": "claro",
+          "score": 1
         },
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "valor",
-          "score": 2
         }
       ]
     },
@@ -799,6 +823,10 @@
     {
       "timestamp": "2026-03-29T02:08:42Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-03-29T05:08:31Z",
+      "score": 4.68
     }
   ]
 }

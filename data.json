@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-30T07:24:13Z",
+  "generated": "2026-03-30T09:08:59Z",
   "global_score": 4.68,
-  "articles_scored": 97,
-  "words_matched": 302,
+  "articles_scored": 98,
+  "words_matched": 308,
   "top_negative": [
     {
       "word": "negro",
@@ -43,10 +43,6 @@
       "score": 5
     },
     {
-      "word": "bendición",
-      "score": 4
-    },
-    {
       "word": "brillante",
       "score": 4
     },
@@ -63,23 +59,27 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "excelencia",
+      "score": 3
+    },
+    {
+      "word": "placer",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.08,
-    "elDiario.es": 4.54,
+    "El País": 5.22,
+    "elDiario.es": 4.55,
     "El Mundo": 4.62,
-    "ABC": 4.92,
-    "El Confidencial": 4.49,
-    "BBC Mundo": 4.64,
+    "ABC": 5.2,
+    "El Confidencial": 3.97,
+    "BBC Mundo": 4.24,
     "France 24 ES": 4.68,
-    "La Nación AR": 4.81,
+    "La Nación AR": 5.16,
     "La Jornada MX": 4.09,
     "Desinformémonos": 3.99,
     "Resumen Latinoam.": 5.4
@@ -173,27 +173,16 @@
     },
     {
       "source": "El País",
-      "title": "Eve Babitz, la díscola cronista de Los Ángeles resucita",
-      "score": 6.6,
+      "title": "Esa subvención de la que usted me habla",
+      "score": 6.2,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El verdadero pastrami ni es de Nueva York ni provoca orgasmos",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "provoca",
-          "score": -1
+          "word": "fácil",
+          "score": 1
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "ayuda",
+          "score": 2
         }
       ]
     },
@@ -214,15 +203,11 @@
     },
     {
       "source": "El País",
-      "title": "Esa subvención de la que usted me habla",
-      "score": 6.2,
+      "title": "“La dirección nos presionó para que echáramos a Espinosa de los Monteros”, asegu",
+      "score": 6.6,
       "words": [
         {
-          "word": "fácil",
-          "score": 1
-        },
-        {
-          "word": "ayuda",
+          "word": "asegura",
           "score": 2
         }
       ]
@@ -332,6 +317,33 @@
         {
           "word": "acuerdo",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump afirma que quiere tomar el petróleo de Irán después de enviar miles de sol",
+      "score": 4.56,
+      "words": [
+        {
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "maduro",
+          "score": 2
+        },
+        {
+          "word": "sincero",
+          "score": 2
+        },
+        {
+          "word": "tontos",
+          "score": -2
         }
       ]
     },
@@ -842,6 +854,10 @@
     },
     {
       "timestamp": "2026-03-30T07:24:13Z",
+      "score": 4.68
+    },
+    {
+      "timestamp": "2026-03-30T09:08:59Z",
       "score": 4.68
     }
   ]

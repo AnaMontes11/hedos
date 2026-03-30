@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-30T18:56:16Z",
-  "global_score": 4.65,
-  "articles_scored": 96,
-  "words_matched": 286,
+  "generated": "2026-03-30T19:55:32Z",
+  "global_score": 4.61,
+  "articles_scored": 98,
+  "words_matched": 279,
   "top_negative": [
     {
       "word": "negro",
@@ -55,7 +55,7 @@
       "score": 4
     },
     {
-      "word": "alegre",
+      "word": "celebra",
       "score": 3
     },
     {
@@ -63,7 +63,7 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "premio",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.6,
+    "El País": 4.44,
     "elDiario.es": 4.85,
     "El Mundo": 4.56,
-    "ABC": 5.13,
+    "ABC": 5.36,
     "El Confidencial": 4.04,
     "BBC Mundo": 4.84,
-    "France 24 ES": 4.01,
-    "La Nación AR": 4.28,
+    "France 24 ES": 4.35,
+    "La Nación AR": 4.25,
     "La Jornada MX": 5.71,
-    "Desinformémonos": 4.32,
-    "Resumen Latinoam.": 4.85
+    "Desinformémonos": 3.99,
+    "Resumen Latinoam.": 4.29
   },
   "articles": [
     {
@@ -102,8 +102,19 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Gu",
-      "score": 3.96,
+      "title": "La Casa Blanca responde que no necesita a España para su misión en Irán",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
+      "score": 3.7,
       "words": [
         {
           "word": "guerra",
@@ -395,33 +406,6 @@
         },
         {
           "word": "convencer",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Iglesia claudica y firma con el Gobierno el convenio para mejorar las indemni",
-      "score": 5.29,
-      "words": [
-        {
-          "word": "mejorar",
-          "score": 2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "mejorar",
-          "score": 2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
           "score": 1
         }
       ]
@@ -935,6 +919,10 @@
     {
       "timestamp": "2026-03-30T18:56:16Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-03-30T19:55:32Z",
+      "score": 4.61
     }
   ]
 }

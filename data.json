@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-30T16:04:15Z",
-  "global_score": 4.67,
-  "articles_scored": 97,
-  "words_matched": 270,
+  "generated": "2026-03-30T17:53:18Z",
+  "global_score": 4.81,
+  "articles_scored": 99,
+  "words_matched": 282,
   "top_negative": [
     {
       "word": "negro",
@@ -11,6 +11,14 @@
     {
       "word": "tortura",
       "score": -4
+    },
+    {
+      "word": "crimen",
+      "score": -3
+    },
+    {
+      "word": "preocupación",
+      "score": -3
     },
     {
       "word": "víctimas",
@@ -27,14 +35,6 @@
     {
       "word": "delito",
       "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "violencia",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -44,10 +44,6 @@
     },
     {
       "word": "celestial",
-      "score": 4
-    },
-    {
-      "word": "divertido",
       "score": 4
     },
     {
@@ -63,54 +59,70 @@
       "score": 3
     },
     {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
       "word": "riqueza",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.84,
-    "elDiario.es": 4.85,
-    "El Mundo": 4.13,
-    "ABC": 4.67,
+    "El País": 4.97,
+    "elDiario.es": 4.83,
+    "El Mundo": 4.34,
+    "ABC": 4.97,
     "El Confidencial": 3.99,
-    "BBC Mundo": 5.24,
-    "France 24 ES": 4.35,
-    "La Nación AR": 4.27,
+    "BBC Mundo": 5.04,
+    "France 24 ES": 4.45,
+    "La Nación AR": 5.38,
     "La Jornada MX": 5.71,
-    "Desinformémonos": 4.45,
+    "Desinformémonos": 4.32,
     "Resumen Latinoam.": 4.85
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.2,
+      "title": "Trump eleva las amenazas contra Irán pese a presumir de progresos en las negocia",
+      "score": 3.4,
       "words": [
         {
-          "word": "guerra",
+          "word": "amenazas",
           "score": -2
         },
         {
-          "word": "amenaza",
+          "word": "abandonar",
           "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "España cierra su espacio aéreo a los vuelos de aviones que participan en la guer",
-      "score": 3.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
+      "score": 3.96,
       "words": [
         {
           "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "denuncia",
           "score": -2
         }
       ]
@@ -136,12 +148,24 @@
     },
     {
       "source": "El País",
-      "title": "Radiografía del poder hoy en Irán: la Guardia Revolucionaria toma el mando",
-      "score": 3.4,
+      "title": "Dos ataques contra los cascos azules matan a tres soldados bajo mando español en",
+      "score": 3.8,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "preocupación",
+          "score": -3
+        },
+        {
+          "word": "víctimas",
+          "score": -3
         }
       ]
     },
@@ -207,20 +231,24 @@
     },
     {
       "source": "El País",
-      "title": "El Gobierno indultará este martes a ‘Las seis de la Suiza’",
-      "score": 4.73,
+      "title": "El petrolero ruso llega a Cuba mientras Trump asegura que permitirá la ayuda a l",
+      "score": 5.8,
       "words": [
         {
-          "word": "perdón",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "prisión",
-          "score": -2
+          "word": "ayuda",
+          "score": 2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "problemas",
+          "score": -2
         }
       ]
     },
@@ -887,6 +915,10 @@
     {
       "timestamp": "2026-03-30T16:04:15Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-03-30T17:53:18Z",
+      "score": 4.81
     }
   ]
 }

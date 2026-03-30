@@ -1,15 +1,15 @@
 {
-  "generated": "2026-03-30T17:53:18Z",
-  "global_score": 4.81,
-  "articles_scored": 99,
-  "words_matched": 282,
+  "generated": "2026-03-30T18:56:16Z",
+  "global_score": 4.65,
+  "articles_scored": 96,
+  "words_matched": 286,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "tortura",
+      "word": "culo",
       "score": -4
     },
     {
@@ -17,37 +17,41 @@
       "score": -3
     },
     {
-      "word": "preocupación",
-      "score": -3
-    },
-    {
       "word": "víctimas",
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "terror",
+      "score": -3
+    },
+    {
+      "word": "asesinato",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "triunfo",
-      "score": 4
-    },
     {
       "word": "celestial",
       "score": 4
     },
     {
       "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "brillante",
       "score": 4
     },
     {
@@ -59,27 +63,23 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "emoción",
       "score": 3
     },
     {
       "word": "riqueza",
       "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.97,
-    "elDiario.es": 4.83,
-    "El Mundo": 4.34,
-    "ABC": 4.97,
-    "El Confidencial": 3.99,
-    "BBC Mundo": 5.04,
-    "France 24 ES": 4.45,
-    "La Nación AR": 5.38,
+    "El País": 4.6,
+    "elDiario.es": 4.85,
+    "El Mundo": 4.56,
+    "ABC": 5.13,
+    "El Confidencial": 4.04,
+    "BBC Mundo": 4.84,
+    "France 24 ES": 4.01,
+    "La Nación AR": 4.28,
     "La Jornada MX": 5.71,
     "Desinformémonos": 4.32,
     "Resumen Latinoam.": 4.85
@@ -102,7 +102,7 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Gu",
       "score": 3.96,
       "words": [
         {
@@ -110,62 +110,47 @@
           "score": -2
         },
         {
-          "word": "ayuda",
-          "score": 2
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "crimen",
+          "score": -3
         },
         {
           "word": "guerra",
           "score": -2
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Israel aprueba condenar a muerte por defecto a los palestinos de Cisjordania que",
+      "score": 4.04,
+      "words": [
         {
-          "word": "paz",
+          "word": "aprueba",
           "score": 2
         },
         {
-          "word": "denuncia",
+          "word": "condenar",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las derrotas de Trump desnudan los límites de EE UU",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "límites",
-          "score": -1
         },
         {
-          "word": "expone",
-          "score": -1
+          "word": "muerte",
+          "score": -2
         },
         {
-          "word": "eficaz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Dos ataques contra los cascos azules matan a tres soldados bajo mando español en",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
+          "word": "defecto",
+          "score": -2
         },
         {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "preocupación",
-          "score": -3
-        },
-        {
-          "word": "víctimas",
-          "score": -3
+          "word": "pena",
+          "score": -2
         }
       ]
     },
@@ -190,12 +175,12 @@
     },
     {
       "source": "El País",
-      "title": "La gran misa pagana de Rosalía: todas las claves del ‘Lux Tour’ en su desembarco",
-      "score": 7.4,
+      "title": "De punta en blanco, literalmente: liturgia y nervios en las horas previas al ‘sh",
+      "score": 4.2,
       "words": [
         {
-          "word": "grandioso",
-          "score": 3
+          "word": "nervios",
+          "score": -1
         }
       ]
     },
@@ -254,136 +239,163 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PSOE pide el ingreso en prisión por Kitchen del número dos de Interior con el",
-      "score": 4.41,
+      "title": "Trump afirma que quiere tomar el petróleo de Irán después de enviar miles de sol",
+      "score": 4.43,
       "words": [
         {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "aprecia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Caso Kitchen: juicio a la guerra sucia del Partido Popular sin la X en el banqui",
-      "score": 4.7,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La exculpación de Cospedal en cinco actos (de García Castellón)",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "duro",
-          "score": -2
-        },
-        {
-          "word": "pasado",
+          "word": "admite",
           "score": -1
         },
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "esperando",
-          "score": 2
-        },
-        {
-          "word": "vil",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "'Juicio final a la guerra sucia del PP': un documental de elDiario.es sobre la O",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "escándalos",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Mazón pide personarse en la causa de la dana tras su citación a declarar como te",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "acepta",
+          "word": "claro",
           "score": 1
         },
         {
-          "word": "puesto",
-          "score": -2
+          "word": "maduro",
+          "score": 2
         },
         {
-          "word": "chocar",
+          "word": "sincero",
+          "score": 2
+        },
+        {
+          "word": "tontos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Romper la Cúpula de Hierro: cómo utiliza Irán bombas de racimo para eludir el es",
+      "score": 4.42,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "cielo",
+          "score": 2
+        },
+        {
+          "word": "ataque",
           "score": -1
         },
         {
-          "word": "superior",
+          "word": "asesinato",
+          "score": -3
+        },
+        {
+          "word": "claramente",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno aprobará otro decreto con más ayudas al sector del transporte por ca",
+      "score": 4.68,
+      "words": [
+        {
+          "word": "apoyo",
           "score": 2
         },
         {
-          "word": "justicia",
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Para entender por qué Trump sigue bombardeando Irán hay que mirar a Nixon en Vie",
+      "score": 4.42,
+      "words": [
+        {
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "honor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump arma otro ‘TACO’ en el mercado del petróleo, donde se mimetizan la geopolí",
+      "score": 4.76,
+      "words": [
+        {
+          "word": "beneficio",
+          "score": 2
+        },
+        {
+          "word": "beneficio",
+          "score": 2
+        },
+        {
+          "word": "pánico",
+          "score": -3
+        },
+        {
+          "word": "energético",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El vicepresidente de EEUU dice que los extraterrestres son \"demonios\" y asegura ",
+      "score": 5.05,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "obsesionado",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "obsesionado",
+          "score": 2
+        },
+        {
+          "word": "convencer",
+          "score": 1
         }
       ]
     },
@@ -919,6 +931,10 @@
     {
       "timestamp": "2026-03-30T17:53:18Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-03-30T18:56:16Z",
+      "score": 4.65
     }
   ]
 }

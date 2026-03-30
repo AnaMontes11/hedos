@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-30T20:43:07Z",
-  "global_score": 4.74,
-  "articles_scored": 96,
-  "words_matched": 273,
+  "generated": "2026-03-30T21:39:42Z",
+  "global_score": 4.75,
+  "articles_scored": 97,
+  "words_matched": 274,
   "top_negative": [
     {
       "word": "negro",
@@ -67,19 +67,19 @@
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.76,
+    "El País": 5.0,
     "elDiario.es": 4.94,
-    "El Mundo": 4.56,
-    "ABC": 5.3,
+    "El Mundo": 4.83,
+    "ABC": 5.38,
     "El Confidencial": 4.04,
     "BBC Mundo": 4.84,
-    "France 24 ES": 4.35,
-    "La Nación AR": 5.36,
+    "France 24 ES": 4.32,
+    "La Nación AR": 4.54,
     "La Jornada MX": 5.71,
     "Desinformémonos": 4.19,
     "Resumen Latinoam.": 4.38
@@ -170,12 +170,12 @@
     },
     {
       "source": "El País",
-      "title": "De punta en blanco, literalmente: liturgia y nervios en las horas previas al ‘sh",
-      "score": 4.2,
+      "title": "Rosalía en Madrid: el Lunes Santo que vivimos en la gloria",
+      "score": 6.6,
       "words": [
         {
-          "word": "nervios",
-          "score": -1
+          "word": "gloria",
+          "score": 2
         }
       ]
     },
@@ -911,6 +911,10 @@
     {
       "timestamp": "2026-03-30T20:43:07Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-03-30T21:39:42Z",
+      "score": 4.75
     }
   ]
 }

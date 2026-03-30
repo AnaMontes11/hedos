@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-30T09:08:59Z",
-  "global_score": 4.68,
-  "articles_scored": 98,
-  "words_matched": 308,
+  "generated": "2026-03-30T11:00:03Z",
+  "global_score": 4.82,
+  "articles_scored": 96,
+  "words_matched": 287,
   "top_negative": [
     {
       "word": "negro",
@@ -17,23 +17,23 @@
       "score": -4
     },
     {
+      "word": "víctimas",
+      "score": -3
+    },
+    {
+      "word": "pierde",
+      "score": -3
+    },
+    {
+      "word": "abusos",
+      "score": -3
+    },
+    {
+      "word": "abuso",
+      "score": -3
+    },
+    {
       "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "violencia",
-      "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "retirada",
       "score": -3
     }
   ],
@@ -59,28 +59,28 @@
       "score": 3
     },
     {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "excelencia",
-      "score": 3
-    },
-    {
-      "word": "placer",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.22,
-    "elDiario.es": 4.55,
-    "El Mundo": 4.62,
-    "ABC": 5.2,
-    "El Confidencial": 3.97,
-    "BBC Mundo": 4.24,
+    "El País": 5.03,
+    "elDiario.es": 4.6,
+    "El Mundo": 4.33,
+    "ABC": 4.73,
+    "El Confidencial": 5.02,
+    "BBC Mundo": 4.66,
     "France 24 ES": 4.68,
-    "La Nación AR": 5.16,
-    "La Jornada MX": 4.09,
+    "La Nación AR": 4.83,
+    "La Jornada MX": 5.71,
     "Desinformémonos": 3.99,
     "Resumen Latinoam.": 5.4
   },
@@ -99,7 +99,7 @@
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 5.4,
+      "score": 5.27,
       "words": [
         {
           "word": "guerra",
@@ -111,10 +111,6 @@
         },
         {
           "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "ampliar",
           "score": 1
         }
       ]
@@ -151,11 +147,19 @@
     },
     {
       "source": "El País",
-      "title": "Estados Unidos flexibiliza el bloqueo a Cuba y autoriza la llegada de un buque p",
+      "title": "La Iglesia y el Gobierno firman el protocolo para indemnizar a las víctimas de p",
       "score": 4.2,
       "words": [
         {
-          "word": "bloqueo",
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "pasado",
           "score": -1
         }
       ]
@@ -203,12 +207,50 @@
     },
     {
       "source": "El País",
-      "title": "“La dirección nos presionó para que echáramos a Espinosa de los Monteros”, asegu",
-      "score": 6.6,
+      "title": "Estados Unidos flexibiliza el bloqueo a Cuba y autoriza la llegada de un buque p",
+      "score": 4.2,
       "words": [
         {
-          "word": "asegura",
+          "word": "bloqueo",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El PP impulsa la séptima comisión de investigación en el Senado, esta vez, sobre",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "jesús",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Iglesia claudica y firma con el Gobierno el convenio para mejorar las indemni",
+      "score": 5.29,
+      "words": [
+        {
+          "word": "mejorar",
           "score": 2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "mejorar",
+          "score": 2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -268,7 +310,7 @@
     },
     {
       "source": "elDiario.es",
-      "title": "'Juicio final a la guerra sucia del PP': un especial de elDiario.es sobre la Ope",
+      "title": "'Juicio final a la guerra sucia del PP': un documental de elDiario.es sobre la O",
       "score": 3.93,
       "words": [
         {
@@ -317,60 +359,6 @@
         {
           "word": "acuerdo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump afirma que quiere tomar el petróleo de Irán después de enviar miles de sol",
-      "score": 4.56,
-      "words": [
-        {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "maduro",
-          "score": 2
-        },
-        {
-          "word": "sincero",
-          "score": 2
-        },
-        {
-          "word": "tontos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Para entender por qué Trump sigue bombardeando Irán hay que mirar a Nixon en Vie",
-      "score": 4.42,
-      "words": [
-        {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "honor",
-          "score": 2
         }
       ]
     }
@@ -859,6 +847,10 @@
     {
       "timestamp": "2026-03-30T09:08:59Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-03-30T11:00:03Z",
+      "score": 4.82
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-30T19:55:32Z",
-  "global_score": 4.61,
-  "articles_scored": 98,
-  "words_matched": 279,
+  "generated": "2026-03-30T20:43:07Z",
+  "global_score": 4.74,
+  "articles_scored": 96,
+  "words_matched": 273,
   "top_negative": [
     {
       "word": "negro",
@@ -11,10 +11,6 @@
     {
       "word": "culo",
       "score": -4
-    },
-    {
-      "word": "crimen",
-      "score": -3
     },
     {
       "word": "víctimas",
@@ -34,6 +30,10 @@
     },
     {
       "word": "asesinato",
+      "score": -3
+    },
+    {
+      "word": "cargado",
       "score": -3
     }
   ],
@@ -55,36 +55,74 @@
       "score": 4
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
       "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "premio",
       "score": 3
     },
     {
       "word": "riqueza",
       "score": 3
+    },
+    {
+      "word": "caro",
+      "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.44,
-    "elDiario.es": 4.85,
+    "El País": 4.76,
+    "elDiario.es": 4.94,
     "El Mundo": 4.56,
-    "ABC": 5.36,
+    "ABC": 5.3,
     "El Confidencial": 4.04,
     "BBC Mundo": 4.84,
     "France 24 ES": 4.35,
-    "La Nación AR": 4.25,
+    "La Nación AR": 5.36,
     "La Jornada MX": 5.71,
-    "Desinformémonos": 3.99,
-    "Resumen Latinoam.": 4.29
+    "Desinformémonos": 4.19,
+    "Resumen Latinoam.": 4.38
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El Vaticano tuvo que intervenir para que no encallara el acuerdo entre la Iglesi",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "tenso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La Iglesia aún debe buscar “rostro a rostro” a los encubridores",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "decisivo",
+          "score": 1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Trump eleva las amenazas contra Irán pese a presumir de progresos en las negocia",
@@ -113,74 +151,20 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
-      "score": 3.7,
+      "title": "El petróleo supera los 114 dólares por barril y su precio escala a máximos de ju",
+      "score": 6.87,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "crimen",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel aprueba condenar a muerte por defecto a los palestinos de Cisjordania que",
-      "score": 4.04,
-      "words": [
-        {
-          "word": "aprueba",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "condenar",
-          "score": -2
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "defecto",
-          "score": -2
-        },
-        {
-          "word": "pena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Iglesia y el Gobierno firman el protocolo para indemnizar a las víctimas de p",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "pasado",
-          "score": -1
+          "word": "progreso",
+          "score": 2
         }
       ]
     },
@@ -222,6 +206,33 @@
         {
           "word": "ataque",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Israel aprueba condenar a muerte por defecto a los palestinos de Cisjordania que",
+      "score": 4.04,
+      "words": [
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "condenar",
+          "score": -2
+        },
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "defecto",
+          "score": -2
+        },
+        {
+          "word": "pena",
+          "score": -2
         }
       ]
     },
@@ -380,33 +391,6 @@
         {
           "word": "guerra",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El vicepresidente de EEUU dice que los extraterrestres son \"demonios\" y asegura ",
-      "score": 5.05,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "obsesionado",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "obsesionado",
-          "score": 2
-        },
-        {
-          "word": "convencer",
-          "score": 1
         }
       ]
     }
@@ -923,6 +907,10 @@
     {
       "timestamp": "2026-03-30T19:55:32Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-03-30T20:43:07Z",
+      "score": 4.74
     }
   ]
 }

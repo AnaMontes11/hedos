@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-31T19:57:28Z",
-  "global_score": 4.43,
-  "articles_scored": 100,
-  "words_matched": 288,
+  "generated": "2026-03-31T20:48:05Z",
+  "global_score": 4.55,
+  "articles_scored": 99,
+  "words_matched": 301,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
       "word": "crimen",
       "score": -3
     },
@@ -34,6 +30,10 @@
     },
     {
       "word": "terrible",
+      "score": -3
+    },
+    {
+      "word": "cargado",
       "score": -3
     }
   ],
@@ -59,32 +59,59 @@
       "score": 3
     },
     {
+      "word": "sentido",
+      "score": 3
+    },
+    {
       "word": "diversión",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.17,
-    "elDiario.es": 4.39,
+    "El País": 4.38,
+    "elDiario.es": 4.59,
     "El Mundo": 4.11,
-    "ABC": 4.9,
+    "ABC": 4.78,
     "El Confidencial": 4.19,
     "BBC Mundo": 4.39,
-    "France 24 ES": 4.48,
-    "La Nación AR": 4.38,
+    "France 24 ES": 4.36,
+    "La Nación AR": 5.23,
     "La Jornada MX": 4.43,
-    "Desinformémonos": 4.36,
-    "Resumen Latinoam.": 4.78
+    "Desinformémonos": 4.44,
+    "Resumen Latinoam.": 4.99
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Trump se desentiende del estrecho de Ormuz, pese a que puso su reapertura como c",
@@ -103,33 +130,6 @@
       "words": [
         {
           "word": "prohibido",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.09,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
           "score": -2
         }
       ]
@@ -216,12 +216,16 @@
     },
     {
       "source": "El País",
-      "title": "España - Egipto, en directo: España domina pero sin crear ocasiones claras",
-      "score": 3.4,
+      "title": "España - Egipto, en directo: Fermín perdona el primer gol de España y debuta Joa",
+      "score": 5.0,
       "words": [
         {
-          "word": "peligro",
+          "word": "disparo",
           "score": -2
+        },
+        {
+          "word": "mejorado",
+          "score": 2
         }
       ]
     },
@@ -268,6 +272,87 @@
         {
           "word": "renuncia",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un juez federal bloquea la construcción del salón de baile de Trump en la Casa B",
+      "score": 5.33,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "autoridad",
+          "score": 1
+        },
+        {
+          "word": "autoridad",
+          "score": 1
+        },
+        {
+          "word": "realizar",
+          "score": 2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un 'broker' del jefe del Pentágono intentó invertir en un fondo de defensa antes",
+      "score": 4.39,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "oportunidades",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump refuerza la legitimidad del régimen iraní que quería destruir y no se da c",
+      "score": 5.13,
+      "words": [
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "destruido",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "won",
+          "score": 3
         }
       ]
     },
@@ -322,87 +407,6 @@
         {
           "word": "paz",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump refuerza la legitimidad del régimen iraní que quería destruir y no se da c",
-      "score": 5.13,
-      "words": [
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "destruido",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "won",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un 'broker' del jefe del Pentágono intentó invertir en un fondo de defensa antes",
-      "score": 4.39,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "oportunidades",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "'Genocidio reproductivo': cómo trata Israel de aniquilar el futuro de la poblaci",
-      "score": 4.14,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "torturas",
-          "score": -4
-        },
-        {
-          "word": "sufrimiento",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
         }
       ]
     }
@@ -983,6 +987,10 @@
     {
       "timestamp": "2026-03-31T19:57:28Z",
       "score": 4.43
+    },
+    {
+      "timestamp": "2026-03-31T20:48:05Z",
+      "score": 4.55
     }
   ]
 }

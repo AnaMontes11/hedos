@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-31T07:10:24Z",
-  "global_score": 4.81,
-  "articles_scored": 97,
-  "words_matched": 318,
+  "generated": "2026-03-31T08:56:11Z",
+  "global_score": 4.76,
+  "articles_scored": 99,
+  "words_matched": 307,
   "top_negative": [
     {
       "word": "negro",
@@ -15,10 +15,6 @@
     {
       "word": "tortura",
       "score": -4
-    },
-    {
-      "word": "víctimas",
-      "score": -3
     },
     {
       "word": "ilegal",
@@ -34,6 +30,10 @@
     },
     {
       "word": "odio",
+      "score": -3
+    },
+    {
+      "word": "advertencia",
       "score": -3
     }
   ],
@@ -59,11 +59,11 @@
       "score": 4
     },
     {
-      "word": "alegre",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "alegre",
       "score": 3
     },
     {
@@ -72,57 +72,19 @@
     }
   ],
   "per_source": {
-    "El País": 4.64,
-    "elDiario.es": 4.4,
-    "El Mundo": 4.9,
-    "ABC": 5.68,
-    "El Confidencial": 4.66,
+    "El País": 4.71,
+    "elDiario.es": 4.35,
+    "El Mundo": 4.93,
+    "ABC": 4.69,
+    "El Confidencial": 4.61,
     "BBC Mundo": 5.35,
-    "France 24 ES": 3.93,
-    "La Nación AR": 4.25,
+    "France 24 ES": 4.4,
+    "La Nación AR": 4.26,
     "La Jornada MX": 5.71,
     "Desinformémonos": 4.43,
     "Resumen Latinoam.": 4.81
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "El Vaticano tuvo que intervenir para que no encallara el acuerdo entre la Iglesi",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "tenso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Iglesia aún debe buscar “rostro a rostro” a los encubridores",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "decisivo",
-          "score": 1
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "La guerra de Irán según Trump: un atropellado relato con amenazas, contradiccion",
@@ -334,6 +296,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Israel aprueba una ley para aplicar la pena de muerte a los palestinos",
+      "score": 4.11,
+      "words": [
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "pena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump refuerza la legitimidad del régimen iraní que quería destruir y no se da c",
       "score": 5.13,
       "words": [
@@ -361,28 +350,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Israel aprueba una ley para aplicar la pena de muerte a los palestinos",
-      "score": 4.11,
+      "title": "Un 'broker' del jefe del Pentágono intentó invertir en un fondo de defensa antes",
+      "score": 4.39,
       "words": [
         {
-          "word": "aprueba",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "oportunidades",
           "score": 2
-        },
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La venganza del agente 81.067: el investigador de la caja B del PP desmonta la c",
+      "score": 4.38,
+      "words": [
         {
-          "word": "pena",
+          "word": "venganza",
           "score": -2
         },
         {
-          "word": "muerte",
+          "word": "venganza",
           "score": -2
         },
         {
-          "word": "aprueba",
-          "score": 2
+          "word": "acoso",
+          "score": -2
         },
         {
-          "word": "pena",
+          "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
         }
       ]
     }
@@ -927,6 +943,10 @@
     {
       "timestamp": "2026-03-31T07:10:24Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-03-31T08:56:11Z",
+      "score": 4.76
     }
   ]
 }

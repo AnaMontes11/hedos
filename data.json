@@ -1,8 +1,8 @@
 {
-  "generated": "2026-03-31T11:46:03Z",
-  "global_score": 4.45,
-  "articles_scored": 96,
-  "words_matched": 300,
+  "generated": "2026-03-31T13:13:07Z",
+  "global_score": 4.42,
+  "articles_scored": 99,
+  "words_matched": 298,
   "top_negative": [
     {
       "word": "negro",
@@ -33,13 +33,13 @@
       "score": -3
     },
     {
-      "word": "violencia",
+      "word": "destruir",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
+      "word": "alegría",
       "score": 4
     },
     {
@@ -59,11 +59,11 @@
       "score": 4
     },
     {
-      "word": "premio",
+      "word": "bueno",
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "leal",
       "score": 3
     },
     {
@@ -74,15 +74,15 @@
   "per_source": {
     "El País": 4.66,
     "elDiario.es": 4.5,
-    "El Mundo": 4.72,
-    "ABC": 4.82,
-    "El Confidencial": 3.58,
-    "BBC Mundo": 4.91,
-    "France 24 ES": 4.29,
-    "La Nación AR": 3.67,
+    "El Mundo": 4.71,
+    "ABC": 4.42,
+    "El Confidencial": 3.86,
+    "BBC Mundo": 4.55,
+    "France 24 ES": 4.2,
+    "La Nación AR": 4.39,
     "La Jornada MX": 4.43,
     "Desinformémonos": 4.43,
-    "Resumen Latinoam.": 4.64
+    "Resumen Latinoam.": 4.43
   },
   "articles": [
     {
@@ -216,7 +216,7 @@
     {
       "source": "elDiario.es",
       "title": "España cerró 2025 con un déficit del 2,2%, la menor cifra desde el estallido de ",
-      "score": 4.48,
+      "score": 4.45,
       "words": [
         {
           "word": "déficit",
@@ -296,55 +296,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "'Genocidio reproductivo': cómo trata Israel de aniquilar el futuro de la poblaci",
-      "score": 4.14,
+      "title": "Margarita Robles: \"EEUU e Israel no pueden ser los que decidan sin contar con na",
+      "score": 5.16,
       "words": [
         {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "torturas",
-          "score": -4
-        },
-        {
-          "word": "sufrimiento",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Israel aprueba una ley para aplicar la pena de muerte a los palestinos",
-      "score": 4.19,
-      "words": [
-        {
-          "word": "aprueba",
+          "word": "tipo",
           "score": 2
         },
         {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "aprueba",
+          "word": "tipo",
           "score": 2
         },
         {
-          "word": "pena",
+          "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
         }
       ]
     },
@@ -399,6 +372,33 @@
         {
           "word": "oportunidades",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU amplía su despliegue en la región y juega con una posible invasión de Irán ",
+      "score": 4.59,
+      "words": [
+        {
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "alienta",
+          "score": 2
+        },
+        {
+          "word": "provocar",
+          "score": -1
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
         }
       ]
     }
@@ -955,6 +955,10 @@
     {
       "timestamp": "2026-03-31T11:46:03Z",
       "score": 4.45
+    },
+    {
+      "timestamp": "2026-03-31T13:13:07Z",
+      "score": 4.42
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
-  "generated": "2026-03-31T13:13:07Z",
-  "global_score": 4.42,
-  "articles_scored": 99,
-  "words_matched": 298,
+  "generated": "2026-03-31T14:59:13Z",
+  "global_score": 4.49,
+  "articles_scored": 93,
+  "words_matched": 289,
   "top_negative": [
     {
       "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "coño",
       "score": -5
     },
     {
@@ -25,15 +29,11 @@
       "score": -3
     },
     {
-      "word": "odio",
+      "word": "terror",
       "score": -3
     },
     {
-      "word": "advertencia",
-      "score": -3
-    },
-    {
-      "word": "destruir",
+      "word": "terrible",
       "score": -3
     }
   ],
@@ -47,10 +47,6 @@
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "victorias",
       "score": 4
     },
@@ -59,11 +55,15 @@
       "score": 4
     },
     {
-      "word": "bueno",
+      "word": "diversión",
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     },
     {
@@ -72,22 +72,33 @@
     }
   ],
   "per_source": {
-    "El País": 4.66,
-    "elDiario.es": 4.5,
-    "El Mundo": 4.71,
-    "ABC": 4.42,
-    "El Confidencial": 3.86,
-    "BBC Mundo": 4.55,
-    "France 24 ES": 4.2,
-    "La Nación AR": 4.39,
+    "El País": 4.53,
+    "elDiario.es": 4.48,
+    "El Mundo": 4.16,
+    "ABC": 5.02,
+    "El Confidencial": 4.29,
+    "BBC Mundo": 4.5,
+    "France 24 ES": 4.29,
+    "La Nación AR": 5.08,
     "La Jornada MX": 4.43,
     "Desinformémonos": 4.43,
-    "Resumen Latinoam.": 4.43
+    "Resumen Latinoam.": 4.31
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
+      "title": "Israel anuncia que demolerá “todas las viviendas” en las localidades libanesas f",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "prohibido",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
       "score": 3.0,
       "words": [
         {
@@ -102,43 +113,28 @@
     },
     {
       "source": "El País",
-      "title": "Mohammed Shiaa al Sudani, primer ministro: “Irak no quiere ser parte en esta gue",
-      "score": 4.84,
+      "title": "La aprobación en Israel de la pena de muerte para palestinos indigna a Europa",
+      "score": 4.2,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "asegura",
+          "word": "aprobación",
           "score": 2
         },
         {
-          "word": "atacado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Starmer refuerza su imagen política al plantar cara a los ataques de Trump",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
+          "word": "pena",
+          "score": -2
         },
         {
-          "word": "unido",
-          "score": 1
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "evita",
+          "score": -1
         }
       ]
     },
@@ -159,12 +155,24 @@
     },
     {
       "source": "El País",
-      "title": "Ágatha Ruiz de la Prada: “En mi familia, las ricas han sido ellas. Y quien tiene",
-      "score": 3.4,
+      "title": "Si te gustó una serie, te recomendamos otra: 8 opciones para quedarte en casa es",
+      "score": 4.6,
       "words": [
         {
-          "word": "moda",
-          "score": -2
+          "word": "gustó",
+          "score": 2
+        },
+        {
+          "word": "terror",
+          "score": -3
+        },
+        {
+          "word": "terrible",
+          "score": -3
+        },
+        {
+          "word": "gustos",
+          "score": 2
         }
       ]
     },
@@ -377,27 +385,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU amplía su despliegue en la región y juega con una posible invasión de Irán ",
-      "score": 4.59,
+      "title": "'Genocidio reproductivo': cómo trata Israel de aniquilar el futuro de la poblaci",
+      "score": 4.14,
       "words": [
         {
-          "word": "ilegal",
+          "word": "violencia",
           "score": -3
         },
         {
-          "word": "guerra",
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "alienta",
-          "score": 2
+          "word": "torturas",
+          "score": -4
         },
         {
-          "word": "provocar",
-          "score": -1
+          "word": "sufrimiento",
+          "score": -2
         },
         {
-          "word": "bloqueo",
+          "word": "ataques",
           "score": -1
         }
       ]
@@ -959,6 +967,10 @@
     {
       "timestamp": "2026-03-31T13:13:07Z",
       "score": 4.42
+    },
+    {
+      "timestamp": "2026-03-31T14:59:13Z",
+      "score": 4.49
     }
   ]
 }

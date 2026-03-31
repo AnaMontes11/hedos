@@ -1,15 +1,19 @@
 {
-  "generated": "2026-03-31T02:07:18Z",
-  "global_score": 4.77,
-  "articles_scored": 101,
-  "words_matched": 273,
+  "generated": "2026-03-31T05:07:02Z",
+  "global_score": 4.65,
+  "articles_scored": 98,
+  "words_matched": 312,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "culo",
+      "word": "torturas",
+      "score": -4
+    },
+    {
+      "word": "tortura",
       "score": -4
     },
     {
@@ -17,29 +21,33 @@
       "score": -3
     },
     {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
       "word": "crisis",
       "score": -3
     },
     {
-      "word": "destruir",
+      "word": "desesperado",
       "score": -3
     },
     {
-      "word": "terror",
-      "score": -3
-    },
-    {
-      "word": "asesinato",
-      "score": -3
-    },
-    {
-      "word": "cargado",
+      "word": "odio",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "divertido",
+      "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "alegría",
       "score": 4
     },
     {
@@ -51,38 +59,30 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
+      "word": "premio",
+      "score": 3
     },
     {
-      "word": "brillante",
-      "score": 4
+      "word": "alegre",
+      "score": 3
     },
     {
       "word": "amor",
       "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.76,
-    "elDiario.es": 4.94,
+    "El País": 4.46,
+    "elDiario.es": 4.42,
     "El Mundo": 4.9,
-    "ABC": 5.69,
-    "El Confidencial": 4.04,
-    "BBC Mundo": 5.23,
-    "France 24 ES": 3.99,
-    "La Nación AR": 4.54,
+    "ABC": 4.5,
+    "El Confidencial": 4.57,
+    "BBC Mundo": 5.35,
+    "France 24 ES": 3.78,
+    "La Nación AR": 4.03,
     "La Jornada MX": 5.71,
     "Desinformémonos": 4.43,
-    "Resumen Latinoam.": 4.2
+    "Resumen Latinoam.": 4.81
   },
   "articles": [
     {
@@ -125,46 +125,84 @@
     },
     {
       "source": "El País",
-      "title": "Trump eleva las amenazas contra Irán pese a presumir de progresos en las negocia",
+      "title": "La guerra de Irán según Trump: un atropellado relato con amenazas, contradiccion",
       "score": 3.4,
       "words": [
         {
-          "word": "amenazas",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "abandonar",
+          "word": "amenazas",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La Casa Blanca responde que no necesita a España para su misión en Irán",
-      "score": 3.4,
+      "title": "Mohammed Shiaa al Sudani, primer ministro: “Irak no quiere ser parte en esta gue",
+      "score": 4.84,
       "words": [
         {
-          "word": "conflicto",
+          "word": "guerra",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El petróleo supera los 114 dólares por barril y su precio escala a máximos de ju",
-      "score": 6.87,
-      "words": [
+        },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "ataques",
+          "score": -1
         },
         {
           "word": "asegura",
           "score": 2
         },
         {
-          "word": "progreso",
-          "score": 2
+          "word": "atacado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Starmer refuerza su imagen política al plantar cara a los ataques de Trump",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "unido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La arriesgada jugada de la nave Orion: viajar a la Luna en su primer vuelo con h",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ágatha Ruiz de la Prada: “En mi familia, las ricas han sido ellas. Y quien tiene",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "moda",
+          "score": -2
         }
       ]
     },
@@ -181,60 +219,115 @@
     },
     {
       "source": "El País",
-      "title": "Los 12 discos de pop y rock que hay que escuchar hoy (marzo 2026)",
-      "score": 7.4,
+      "title": "En nombre del padre",
+      "score": 4.47,
       "words": [
         {
-          "word": "excelencia",
-          "score": 3
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "“Hija, ¿estás segura de dónde te metes?”: cómo la madre de Carolyn Bessette desa",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "trágico",
+          "word": "descuidado",
           "score": -2
         },
         {
-          "word": "tiempo",
+          "word": "importancia",
+          "score": 2
+        },
+        {
+          "word": "carga",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Un instituto de Mallorca se moviliza tras la denuncia de un ataque homófobo cont",
-      "score": 3.8,
+      "source": "elDiario.es",
+      "title": "EEUU amplía su despliegue en la región y juega con una posible invasión de Irán ",
+      "score": 4.59,
       "words": [
         {
-          "word": "denuncia",
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "ataque",
+          "word": "alienta",
+          "score": 2
+        },
+        {
+          "word": "provocar",
+          "score": -1
+        },
+        {
+          "word": "bloqueo",
           "score": -1
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Israel aprueba condenar a muerte por defecto a los palestinos de Cisjordania que",
-      "score": 4.04,
+      "source": "elDiario.es",
+      "title": "Los hutíes entran en la guerra de Irán: qué supone para la región y cuál es su a",
+      "score": 4.31,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "devastador",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "'Genocidio reproductivo': cómo trata Israel de aniquilar el futuro de la poblaci",
+      "score": 4.14,
+      "words": [
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "torturas",
+          "score": -4
+        },
+        {
+          "word": "sufrimiento",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Israel aprueba una ley para aplicar la pena de muerte a los palestinos",
+      "score": 4.11,
       "words": [
         {
           "word": "aprueba",
           "score": 2
         },
         {
-          "word": "condenar",
+          "word": "pena",
           "score": -2
         },
         {
@@ -242,8 +335,8 @@
           "score": -2
         },
         {
-          "word": "defecto",
-          "score": -2
+          "word": "aprueba",
+          "score": 2
         },
         {
           "word": "pena",
@@ -253,73 +346,19 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump afirma que quiere tomar el petróleo de Irán después de enviar miles de sol",
-      "score": 4.43,
+      "title": "La venganza del agente 81.067: el investigador de la caja B del PP desmonta la c",
+      "score": 4.38,
       "words": [
         {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "maduro",
-          "score": 2
-        },
-        {
-          "word": "sincero",
-          "score": 2
-        },
-        {
-          "word": "tontos",
+          "word": "venganza",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Romper la Cúpula de Hierro: cómo utiliza Irán bombas de racimo para eludir el es",
-      "score": 4.42,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
         },
         {
-          "word": "cielo",
-          "score": 2
+          "word": "venganza",
+          "score": -2
         },
         {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "asesinato",
-          "score": -3
-        },
-        {
-          "word": "claramente",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno aprobará otro decreto con más ayudas al sector del transporte por ca",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "guerra",
+          "word": "acoso",
           "score": -2
         },
         {
@@ -327,62 +366,35 @@
           "score": -2
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "popular",
+          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Para entender por qué Trump sigue bombardeando Irán hay que mirar a Nixon en Vie",
-      "score": 4.42,
+      "title": "El PSOE pide el ingreso en prisión por Kitchen del número dos de Interior con el",
+      "score": 4.41,
       "words": [
         {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "guerra",
+          "word": "prisión",
           "score": -2
         },
         {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "honor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump arma otro ‘TACO’ en el mercado del petróleo, donde se mimetizan la geopolí",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "beneficio",
-          "score": 2
-        },
-        {
-          "word": "beneficio",
-          "score": 2
-        },
-        {
-          "word": "pánico",
-          "score": -3
-        },
-        {
-          "word": "energético",
-          "score": 2
-        },
-        {
-          "word": "guerra",
+          "word": "prisión",
           "score": -2
+        },
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "aprecia",
+          "score": 2
         }
       ]
     }
@@ -919,6 +931,10 @@
     {
       "timestamp": "2026-03-31T02:07:18Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-03-31T05:07:02Z",
+      "score": 4.65
     }
   ]
 }

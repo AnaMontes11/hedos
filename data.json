@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-01T13:16:16Z",
-  "global_score": 4.53,
-  "articles_scored": 98,
-  "words_matched": 266,
+  "generated": "2026-04-01T15:02:06Z",
+  "global_score": 4.63,
+  "articles_scored": 96,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "culo",
@@ -17,11 +17,11 @@
       "score": -3
     },
     {
-      "word": "racista",
+      "word": "racismo",
       "score": -3
     },
     {
-      "word": "racismo",
+      "word": "racistas",
       "score": -3
     },
     {
@@ -29,19 +29,15 @@
       "score": -3
     },
     {
-      "word": "falso",
+      "word": "enfado",
       "score": -3
     },
     {
-      "word": "abusos",
+      "word": "culpa",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "excepcional",
-      "score": 5
-    },
     {
       "word": "celestial",
       "score": 4
@@ -51,15 +47,19 @@
       "score": 4
     },
     {
-      "word": "alegre",
-      "score": 3
-    },
-    {
       "word": "emocionante",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     },
     {
@@ -67,22 +67,22 @@
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "perfectamente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.42,
-    "elDiario.es": 4.54,
-    "El Mundo": 4.55,
-    "ABC": 4.94,
-    "El Confidencial": 4.93,
+    "El País": 4.17,
+    "elDiario.es": 4.51,
+    "El Mundo": 4.56,
+    "ABC": 4.88,
+    "El Confidencial": 4.95,
     "BBC Mundo": 4.94,
-    "France 24 ES": 4.29,
-    "La Nación AR": 3.97,
+    "France 24 ES": 4.36,
+    "La Nación AR": 4.89,
     "La Jornada MX": 4.82,
-    "Desinformémonos": 4.3,
-    "Resumen Latinoam.": 3.97
+    "Desinformémonos": 4.27,
+    "Resumen Latinoam.": 4.38
   },
   "articles": [
     {
@@ -175,36 +175,6 @@
     },
     {
       "source": "El País",
-      "title": "La NASA explica cómo salvarles la vida a los astronautas que viajan a la Luna",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "posibilidades",
-          "score": 2
-        },
-        {
-          "word": "preparado",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El cántico racista en el RCDE Stadium: “Musulmán el que no bote”",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "racista",
-          "score": -3
-        },
-        {
-          "word": "frase",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El racismo en el fútbol vuelve a avergonzar a España por los cánticos de “Musulm",
       "score": 4.0,
       "words": [
@@ -228,6 +198,21 @@
     },
     {
       "source": "El País",
+      "title": "Lamine Yamal: “Soy musulmán y usar la religión como burla en un campo os deja co",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "burla",
+          "score": -2
+        },
+        {
+          "word": "racistas",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Salvo eso de musulmán el que no bote",
       "score": 2.6,
       "words": [
@@ -238,141 +223,6 @@
         {
           "word": "mal",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las otras puertas de Kitchen que García Castellón cerró: el falso cura, el espio",
-      "score": 4.28,
-      "words": [
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "'Juicio final a la guerra sucia del PP': un documental de elDiario.es sobre la O",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "escándalos",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Willy Bárcenas, sobre el asalto del falso cura a su casa: \"Tuvo que haber alguie",
-      "score": 3.61,
-      "words": [
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "secuestro",
-          "score": -2
-        },
-        {
-          "word": "aislado",
-          "score": -1
-        },
-        {
-          "word": "falso",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Supremo tumba los pluses salariales basados en evaluaciones del trabajador qu",
-      "score": 5.09,
-      "words": [
-        {
-          "word": "tumba",
-          "score": -2
-        },
-        {
-          "word": "tumba",
-          "score": -2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ángel Escribano anuncia que dimitirá como presidente de Indra este miércoles",
-      "score": 4.31,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "renuncia",
-          "score": -1
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "celebrar",
-          "score": 3
-        },
-        {
-          "word": "puesto",
-          "score": -2
         }
       ]
     },
@@ -427,6 +277,168 @@
         {
           "word": "asegurado",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Bases y espacio aéreo vetado: el pulso de Europa con Trump se acrecienta ante la",
+      "score": 4.92,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "pobre",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un juez federal bloquea la construcción del salón de baile de Trump en la Casa B",
+      "score": 5.33,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "autoridad",
+          "score": 1
+        },
+        {
+          "word": "autoridad",
+          "score": 1
+        },
+        {
+          "word": "realizar",
+          "score": 2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El abogado de Begoña Gómez, ante el juez Peinado: \"Aquí se hace y se permite hac",
+      "score": 4.36,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Fiscalía Europea cita como testigo a Begoña Gómez por los contratos de Red.es",
+      "score": 5.42,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "admitir",
+          "score": -1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Willy Bárcenas, sobre el asalto del falso cura a su casa: \"Tuvo que haber alguie",
+      "score": 3.61,
+      "words": [
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "secuestro",
+          "score": -2
+        },
+        {
+          "word": "aislado",
+          "score": -1
+        },
+        {
+          "word": "falso",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "'Juicio final a la guerra sucia del PP': un documental de elDiario.es sobre la O",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "escándalos",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
         }
       ]
     }
@@ -1051,6 +1063,10 @@
     {
       "timestamp": "2026-04-01T13:16:16Z",
       "score": 4.53
+    },
+    {
+      "timestamp": "2026-04-01T15:02:06Z",
+      "score": 4.63
     }
   ]
 }

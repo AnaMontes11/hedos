@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-01T16:51:45Z",
-  "global_score": 4.64,
-  "articles_scored": 97,
-  "words_matched": 252,
+  "generated": "2026-04-01T17:47:52Z",
+  "global_score": 4.78,
+  "articles_scored": 94,
+  "words_matched": 249,
   "top_negative": [
     {
       "word": "culo",
@@ -47,14 +47,6 @@
       "score": 4
     },
     {
-      "word": "fiel",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "suerte",
       "score": 3
     },
@@ -69,20 +61,28 @@
     {
       "word": "contento",
       "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.18,
+    "El País": 4.21,
     "elDiario.es": 4.52,
-    "El Mundo": 4.52,
-    "ABC": 5.12,
-    "El Confidencial": 4.83,
+    "El Mundo": 4.9,
+    "ABC": 5.27,
+    "El Confidencial": 4.81,
     "BBC Mundo": 4.94,
-    "France 24 ES": 5.25,
-    "La Nación AR": 3.34,
+    "France 24 ES": 4.93,
+    "La Nación AR": 5.08,
     "La Jornada MX": 4.82,
-    "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 4.83
+    "Desinformémonos": 3.97,
+    "Resumen Latinoam.": 4.81
   },
   "articles": [
     {
@@ -157,7 +157,7 @@
     {
       "source": "El País",
       "title": "El racismo en el fútbol vuelve a avergonzar a España por los cánticos de “Musulm",
-      "score": 4.0,
+      "score": 4.2,
       "words": [
         {
           "word": "racismo",
@@ -174,6 +174,10 @@
         {
           "word": "deseo",
           "score": 1
+        },
+        {
+          "word": "inaceptable",
+          "score": -2
         }
       ]
     },
@@ -1079,6 +1083,10 @@
     {
       "timestamp": "2026-04-01T16:51:45Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-04-01T17:47:52Z",
+      "score": 4.78
     }
   ]
 }

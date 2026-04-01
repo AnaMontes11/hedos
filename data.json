@@ -1,15 +1,11 @@
 {
-  "generated": "2026-04-01T09:01:10Z",
-  "global_score": 4.52,
-  "articles_scored": 93,
-  "words_matched": 259,
+  "generated": "2026-04-01T10:52:31Z",
+  "global_score": 4.56,
+  "articles_scored": 95,
+  "words_matched": 277,
   "top_negative": [
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "musaraña",
       "score": -4
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "vil",
       "score": -3
+    },
+    {
+      "word": "destruir",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -55,59 +55,36 @@
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
       "word": "emocionante",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "emoción",
+      "score": 3
+    },
+    {
+      "word": "paraíso",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.93,
-    "elDiario.es": 4.52,
-    "El Mundo": 5.05,
-    "ABC": 4.47,
-    "El Confidencial": 4.23,
-    "BBC Mundo": 4.33,
+    "El País": 4.75,
+    "elDiario.es": 4.63,
+    "El Mundo": 5.63,
+    "ABC": 5.44,
+    "El Confidencial": 4.42,
+    "BBC Mundo": 4.5,
     "France 24 ES": 4.2,
-    "La Nación AR": 5.9,
+    "La Nación AR": 4.15,
     "La Jornada MX": 4.43,
     "Desinformémonos": 4.3,
-    "Resumen Latinoam.": 3.62
+    "Resumen Latinoam.": 3.58
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "Las Bolsas se disparan y el petróleo cae ante la esperanza de que la guerra acab",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "euforia",
-          "score": 3
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
@@ -128,6 +105,29 @@
         {
           "word": "ataques",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las Bolsas se disparan y el petróleo cae ante la esperanza de que la guerra acab",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "euforia",
+          "score": 3
+        },
+        {
+          "word": "conflicto",
+          "score": -2
         }
       ]
     },
@@ -230,24 +230,12 @@
     },
     {
       "source": "El País",
-      "title": "Berlín se rearma, y sus vecinos sopesan los riesgos y ventajas de la nueva hegem",
-      "score": 6.0,
+      "title": "Rosalía sin fotoperiodistas",
+      "score": 4.2,
       "words": [
         {
-          "word": "riesgos",
-          "score": -2
-        },
-        {
-          "word": "ventajas",
-          "score": 2
-        },
-        {
-          "word": "serio",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
@@ -995,6 +983,10 @@
     {
       "timestamp": "2026-04-01T09:01:10Z",
       "score": 4.52
+    },
+    {
+      "timestamp": "2026-04-01T10:52:31Z",
+      "score": 4.56
     }
   ]
 }

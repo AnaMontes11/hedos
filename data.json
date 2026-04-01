@@ -1,20 +1,24 @@
 {
-  "generated": "2026-04-01T07:17:16Z",
-  "global_score": 4.51,
-  "articles_scored": 96,
-  "words_matched": 270,
+  "generated": "2026-04-01T09:01:10Z",
+  "global_score": 4.52,
+  "articles_scored": 93,
+  "words_matched": 259,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
     },
     {
+      "word": "musaraña",
+      "score": -4
+    },
+    {
       "word": "tortura",
       "score": -4
+    },
+    {
+      "word": "racista",
+      "score": -3
     },
     {
       "word": "traición",
@@ -30,10 +34,6 @@
     },
     {
       "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "destruir",
       "score": -3
     }
   ],
@@ -55,36 +55,82 @@
       "score": 4
     },
     {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "emocionante",
       "score": 3
     },
     {
-      "word": "bonito",
-      "score": 3
-    },
-    {
-      "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "riguroso",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.21,
-    "elDiario.es": 4.57,
-    "El Mundo": 4.76,
-    "ABC": 5.76,
-    "El Confidencial": 3.98,
+    "El País": 4.93,
+    "elDiario.es": 4.52,
+    "El Mundo": 5.05,
+    "ABC": 4.47,
+    "El Confidencial": 4.23,
     "BBC Mundo": 4.33,
     "France 24 ES": 4.2,
-    "La Nación AR": 3.94,
+    "La Nación AR": 5.9,
     "La Jornada MX": 4.43,
     "Desinformémonos": 4.3,
     "Resumen Latinoam.": 3.62
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Las Bolsas se disparan y el petróleo cae ante la esperanza de que la guerra acab",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "euforia",
+          "score": 3
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Así será el recorrido de Artemis 2 hacia la cara oculta de la Luna: el reto de e",
@@ -147,80 +193,15 @@
     },
     {
       "source": "El País",
-      "title": "España cerrará a los venezolanos la vía exprés de regularización de la que gozab",
-      "score": 6.6,
+      "title": "El cántico racista en el RCDE Stadium: “Musulmán el que no bote”",
+      "score": 3.0,
       "words": [
         {
-          "word": "privilegiado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "racista",
+          "score": -3
         },
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Berlín se rearma, y sus vecinos sopesan los riesgos y ventajas de la nueva hegem",
-      "score": 6.0,
-      "words": [
-        {
-          "word": "riesgos",
-          "score": -2
-        },
-        {
-          "word": "ventajas",
-          "score": 2
-        },
-        {
-          "word": "serio",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Richard Hatchett, epidemiólogo: “El riesgo de que haya una pandemia es hoy mayor",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "peligro",
+          "word": "frase",
           "score": -2
         }
       ]
@@ -244,6 +225,29 @@
         {
           "word": "traición",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Berlín se rearma, y sus vecinos sopesan los riesgos y ventajas de la nueva hegem",
+      "score": 6.0,
+      "words": [
+        {
+          "word": "riesgos",
+          "score": -2
+        },
+        {
+          "word": "ventajas",
+          "score": 2
+        },
+        {
+          "word": "serio",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -987,6 +991,10 @@
     {
       "timestamp": "2026-04-01T07:17:16Z",
       "score": 4.51
+    },
+    {
+      "timestamp": "2026-04-01T09:01:10Z",
+      "score": 4.52
     }
   ]
 }

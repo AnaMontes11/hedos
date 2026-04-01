@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-01T20:55:34Z",
-  "global_score": 4.73,
-  "articles_scored": 94,
-  "words_matched": 277,
+  "generated": "2026-04-01T21:39:48Z",
+  "global_score": 4.67,
+  "articles_scored": 91,
+  "words_matched": 293,
   "top_negative": [
     {
       "word": "negro",
@@ -39,6 +39,14 @@
   ],
   "top_positive": [
     {
+      "word": "asombroso",
+      "score": 5
+    },
+    {
+      "word": "encantados",
+      "score": 5
+    },
+    {
       "word": "celestial",
       "score": 4
     },
@@ -61,25 +69,17 @@
     {
       "word": "fascinante",
       "score": 3
-    },
-    {
-      "word": "alegre",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.67,
-    "elDiario.es": 4.86,
-    "El Mundo": 4.71,
-    "ABC": 4.93,
+    "El País": 4.48,
+    "elDiario.es": 4.85,
+    "El Mundo": 4.68,
+    "ABC": 5.13,
     "El Confidencial": 4.81,
     "BBC Mundo": 4.78,
-    "France 24 ES": 4.54,
-    "La Nación AR": 5.09,
+    "France 24 ES": 4.34,
+    "La Nación AR": 4.43,
     "La Jornada MX": 4.82,
     "Desinformémonos": 3.97,
     "Resumen Latinoam.": 4.65
@@ -87,9 +87,13 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | Ya se están sel",
-      "score": 6.6,
+      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | Solucionado el ",
+      "score": 5.0,
       "words": [
+        {
+          "word": "problema",
+          "score": -2
+        },
         {
           "word": "ganando",
           "score": 2
@@ -370,55 +374,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno propone que Ángel Simón sea el nuevo presidente de Indra en sustituc",
-      "score": 5.35,
+      "title": "En directo: menos de una hora para el lanzamiento de la misión Artemisa II y sus",
+      "score": 5.03,
       "words": [
         {
-          "word": "permitir",
-          "score": 1
+          "word": "celebra",
+          "score": 3
         },
         {
-          "word": "confianza",
-          "score": 1
+          "word": "bueno",
+          "score": 3
         },
         {
-          "word": "renuncia",
-          "score": -1
+          "word": "riesgo",
+          "score": -2
         },
         {
-          "word": "aceptado",
-          "score": -1
+          "word": "peor",
+          "score": -3
         },
         {
-          "word": "avanzado",
-          "score": 1
+          "word": "emergencia",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Fin a la 'era Escribano' en Indra: catorce meses al frente sin salvar el \"confli",
-      "score": 5.48,
+      "title": "Preparados para lo peor: qué pasa con los astronautas de Artemisa II si hay una ",
+      "score": 4.59,
       "words": [
         {
-          "word": "salvar",
-          "score": 2
+          "word": "peor",
+          "score": -3
         },
         {
-          "word": "conflicto",
+          "word": "emergencia",
           "score": -2
         },
         {
-          "word": "salvar",
-          "score": 2
+          "word": "peor",
+          "score": -3
         },
         {
-          "word": "conflicto",
+          "word": "emergencia",
           "score": -2
         },
         {
-          "word": "abrazo",
-          "score": 2
+          "word": "accidentes",
+          "score": -2
         }
       ]
     }
@@ -1067,6 +1071,10 @@
     {
       "timestamp": "2026-04-01T20:55:34Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-04-01T21:39:48Z",
+      "score": 4.67
     }
   ]
 }

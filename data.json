@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-01T18:58:16Z",
-  "global_score": 4.75,
-  "articles_scored": 97,
-  "words_matched": 274,
+  "generated": "2026-04-01T19:59:00Z",
+  "global_score": 4.78,
+  "articles_scored": 92,
+  "words_matched": 265,
   "top_negative": [
     {
       "word": "culo",
@@ -43,6 +43,14 @@
       "score": 4
     },
     {
+      "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "bendición",
+      "score": 4
+    },
+    {
       "word": "maravilloso",
       "score": 4
     },
@@ -61,33 +69,25 @@
     {
       "word": "amor",
       "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.62,
+    "El País": 4.67,
     "elDiario.es": 4.86,
-    "El Mundo": 4.59,
-    "ABC": 5.33,
+    "El Mundo": 4.41,
+    "ABC": 5.23,
     "El Confidencial": 4.81,
-    "BBC Mundo": 4.82,
-    "France 24 ES": 4.71,
-    "La Nación AR": 4.74,
+    "BBC Mundo": 4.78,
+    "France 24 ES": 4.75,
+    "La Nación AR": 6.1,
     "La Jornada MX": 4.82,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.77
+    "Resumen Latinoam.": 4.65
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | Los cuatro astr",
+      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | Ya se están sel",
       "score": 6.6,
       "words": [
         {
@@ -98,8 +98,19 @@
     },
     {
       "source": "El País",
+      "title": "De Apolo a Artemis II: “Desde el punto de vista técnico no hay ni una pieza pare",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "permitir",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 5.48,
+      "score": 4.73,
       "words": [
         {
           "word": "guerra",
@@ -118,8 +129,8 @@
           "score": -2
         },
         {
-          "word": "importante",
-          "score": 2
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
@@ -408,33 +419,6 @@
         {
           "word": "abrazo",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El abogado de Begoña Gómez, ante el juez Peinado: \"Aquí se hace y se permite hac",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "popular",
-          "score": 3
         }
       ]
     }
@@ -1075,6 +1059,10 @@
     {
       "timestamp": "2026-04-01T18:58:16Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-04-01T19:59:00Z",
+      "score": 4.78
     }
   ]
 }

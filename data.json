@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-01T17:47:52Z",
-  "global_score": 4.78,
-  "articles_scored": 94,
-  "words_matched": 249,
+  "generated": "2026-04-01T18:58:16Z",
+  "global_score": 4.75,
+  "articles_scored": 97,
+  "words_matched": 274,
   "top_negative": [
     {
       "word": "culo",
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "enfado",
+      "word": "destruir",
       "score": -3
     }
   ],
@@ -43,8 +43,24 @@
       "score": 4
     },
     {
+      "word": "maravilloso",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "fascinante",
+      "score": 3
+    },
+    {
+      "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
     },
     {
       "word": "suerte",
@@ -53,42 +69,37 @@
     {
       "word": "popular",
       "score": 3
-    },
-    {
-      "word": "perfectamente",
-      "score": 3
-    },
-    {
-      "word": "contento",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.21,
-    "elDiario.es": 4.52,
-    "El Mundo": 4.9,
-    "ABC": 5.27,
+    "El País": 4.62,
+    "elDiario.es": 4.86,
+    "El Mundo": 4.59,
+    "ABC": 5.33,
     "El Confidencial": 4.81,
-    "BBC Mundo": 4.94,
-    "France 24 ES": 4.93,
-    "La Nación AR": 5.08,
+    "BBC Mundo": 4.82,
+    "France 24 ES": 4.71,
+    "La Nación AR": 4.74,
     "La Jornada MX": 4.82,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.81
+    "Resumen Latinoam.": 4.77
   },
   "articles": [
     {
       "source": "El País",
+      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | Los cuatro astr",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ganando",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 5.0,
+      "score": 5.48,
       "words": [
         {
           "word": "guerra",
@@ -107,8 +118,8 @@
           "score": -2
         },
         {
-          "word": "ataques",
-          "score": -1
+          "word": "importante",
+          "score": 2
         }
       ]
     },
@@ -214,7 +225,7 @@
     {
       "source": "elDiario.es",
       "title": "Trump asegura que Irán ha pedido un alto el fuego y Teherán lo niega: \"Es falso ",
-      "score": 4.34,
+      "score": 4.39,
       "words": [
         {
           "word": "asegura",
@@ -348,6 +359,60 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Gobierno propone que Ángel Simón sea el nuevo presidente de Indra en sustituc",
+      "score": 5.35,
+      "words": [
+        {
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "renuncia",
+          "score": -1
+        },
+        {
+          "word": "aceptado",
+          "score": -1
+        },
+        {
+          "word": "avanzado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Fin a la 'era Escribano' en Indra: catorce meses al frente sin salvar el \"confli",
+      "score": 5.48,
+      "words": [
+        {
+          "word": "salvar",
+          "score": 2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "salvar",
+          "score": 2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "abrazo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El abogado de Begoña Gómez, ante el juez Peinado: \"Aquí se hace y se permite hac",
       "score": 4.36,
       "words": [
@@ -366,87 +431,6 @@
         {
           "word": "popular",
           "score": 3
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Fiscalía Europea cita como testigo a Begoña Gómez por los contratos de Red.es",
-      "score": 5.42,
-      "words": [
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "admitir",
-          "score": -1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Willy Bárcenas, sobre el asalto del falso cura a su casa: \"Tuvo que haber alguie",
-      "score": 3.61,
-      "words": [
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "secuestro",
-          "score": -2
-        },
-        {
-          "word": "aislado",
-          "score": -1
-        },
-        {
-          "word": "falso",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "'Juicio final a la guerra sucia del PP': un documental de elDiario.es sobre la O",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "escándalos",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
         },
         {
           "word": "popular",
@@ -1087,6 +1071,10 @@
     {
       "timestamp": "2026-04-01T17:47:52Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-04-01T18:58:16Z",
+      "score": 4.75
     }
   ]
 }

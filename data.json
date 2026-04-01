@@ -1,15 +1,11 @@
 {
-  "generated": "2026-04-01T02:23:50Z",
-  "global_score": 4.32,
-  "articles_scored": 93,
-  "words_matched": 286,
+  "generated": "2026-04-01T05:22:12Z",
+  "global_score": 4.54,
+  "articles_scored": 91,
+  "words_matched": 262,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "torturas",
+      "word": "culo",
       "score": -4
     },
     {
@@ -17,45 +13,53 @@
       "score": -4
     },
     {
-      "word": "maldición",
-      "score": -4
-    },
-    {
-      "word": "crimen",
+      "word": "falso",
       "score": -3
     },
     {
-      "word": "terror",
+      "word": "suelto",
       "score": -3
     },
     {
-      "word": "terrible",
+      "word": "vil",
       "score": -3
     },
     {
-      "word": "pierde",
+      "word": "destruir",
+      "score": -3
+    },
+    {
+      "word": "destruyendo",
+      "score": -3
+    },
+    {
+      "word": "escándalos",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "celestial",
-      "score": 4
-    },
-    {
-      "word": "victorias",
-      "score": 4
+      "word": "excepcional",
+      "score": 5
     },
     {
       "word": "triunfo",
       "score": 4
     },
     {
-      "word": "diversión",
+      "word": "celestial",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "emocionante",
       "score": 3
     },
     {
-      "word": "maravilla",
+      "word": "amor",
       "score": 3
     },
     {
@@ -63,28 +67,95 @@
       "score": 3
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.14,
+    "El País": 5.58,
     "elDiario.es": 4.59,
     "El Mundo": 5.06,
-    "ABC": 4.02,
-    "El Confidencial": 4.41,
-    "BBC Mundo": 4.29,
-    "France 24 ES": 4.0,
-    "La Nación AR": 5.3,
+    "ABC": 4.88,
+    "El Confidencial": 4.47,
+    "BBC Mundo": 4.33,
+    "France 24 ES": 4.2,
+    "La Nación AR": 3.9,
     "La Jornada MX": 4.43,
     "Desinformémonos": 4.3,
     "Resumen Latinoam.": 3.62
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Así será el recorrido de Artemis 2 hacia la cara oculta de la Luna: el reto de e",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "reto",
+          "score": -1
+        },
+        {
+          "word": "capaz",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Dentro del Centro Espacial Kennedy, a unos metros del Artemis II",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "preparado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Lori Glaze, administradora asociada de la NASA: “Es un vuelo de prueba. Muchos s",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "posibilidades",
+          "score": 2
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La NASA explica cómo salvarles la vida a los astronautas que viajan a la Luna",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "posibilidades",
+          "score": 2
+        },
+        {
+          "word": "preparado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España cerrará a los venezolanos la vía exprés de regularización de la que gozab",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "privilegiado",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
@@ -114,198 +185,107 @@
     },
     {
       "source": "El País",
-      "title": "Trump se desentiende del estrecho de Ormuz, pese a que puso su reapertura como c",
-      "score": 5.0,
+      "title": "Berlín se rearma, y sus vecinos sopesan los riesgos y ventajas de la nueva hegem",
+      "score": 6.0,
       "words": [
         {
-          "word": "guerra",
+          "word": "riesgos",
           "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel anuncia que demolerá “todas las viviendas” en las localidades libanesas f",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "prohibido",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Secuestrada en Irak la periodista estadounidense Shelly Kittleson",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "detenido",
-          "score": -1
-        },
-        {
-          "word": "sospechosos",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La aprobación en Israel de la pena de muerte para palestinos indigna a Europa y ",
-      "score": 3.76,
-      "words": [
-        {
-          "word": "aprobación",
+          "word": "ventajas",
           "score": 2
         },
         {
-          "word": "pena",
+          "word": "serio",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Richard Hatchett, epidemiólogo: “El riesgo de que haya una pandemia es hoy mayor",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "muerte",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         },
         {
           "word": "advierte",
           "score": -2
         },
         {
-          "word": "grave",
+          "word": "peligro",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Si te gustó una serie, te recomendamos otra: 8 opciones para quedarte en casa es",
-      "score": 4.6,
+      "title": "Nicaragua y Cuba en el espejo de Venezuela",
+      "score": 6.6,
       "words": [
         {
-          "word": "gustó",
-          "score": 2
-        },
-        {
-          "word": "terror",
-          "score": -3
-        },
-        {
-          "word": "terrible",
-          "score": -3
-        },
-        {
-          "word": "gustos",
+          "word": "maduro",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Ni son 10.000 pasos ni se hacen de cualquier manera: cómo caminar para que realm",
-      "score": 6.2,
+      "title": "Confinamiento económico",
+      "score": 6.6,
       "words": [
         {
-          "word": "beneficios",
+          "word": "juvenil",
           "score": 2
         },
         {
-          "word": "alcanzar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Una España en pruebas se atasca ante Egipto",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El cántico racista en el RCDE Stadium: “Musulmán el que no bote”",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "racista",
-          "score": -3
-        },
-        {
-          "word": "frase",
-          "score": -2
+          "word": "responsable",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Renfe tira la toalla en Francia y aparca su proyecto de alta velocidad a París a",
-      "score": 4.49,
+      "title": "Las otras puertas de Kitchen que García Castellón cerró: el falso cura, el espio",
+      "score": 4.31,
       "words": [
         {
-          "word": "renuncia",
-          "score": -1
+          "word": "falso",
+          "score": -3
         },
         {
-          "word": "renuncia",
-          "score": -1
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "resolver",
           "score": 1
         },
         {
-          "word": "acuerdo",
+          "word": "asuntos",
           "score": 1
-        },
-        {
-          "word": "renuncia",
-          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Un juez federal bloquea la construcción del salón de baile de Trump en la Casa B",
-      "score": 5.33,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "realizar",
-          "score": 2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un 'broker' del jefe del Pentágono intentó invertir en un fondo de defensa antes",
-      "score": 4.39,
+      "title": "'Juicio final a la guerra sucia del PP': un documental de elDiario.es sobre la O",
+      "score": 3.93,
       "words": [
         {
           "word": "guerra",
@@ -316,7 +296,7 @@
           "score": -2
         },
         {
-          "word": "destruir",
+          "word": "escándalos",
           "score": -3
         },
         {
@@ -324,89 +304,89 @@
           "score": -2
         },
         {
-          "word": "oportunidades",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump refuerza la legitimidad del régimen iraní que quería destruir y no se da c",
-      "score": 5.13,
-      "words": [
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "destruido",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "won",
+          "word": "popular",
           "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Los hutíes entran en la guerra de Irán: qué supone para la región y cuál es su a",
-      "score": 4.26,
+      "title": "Willy Bárcenas, sobre el asalto del falso cura a su casa: \"Tuvo que haber alguie",
+      "score": 3.67,
       "words": [
         {
-          "word": "guerra",
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "secuestro",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "devastador",
-          "score": -2
-        },
-        {
-          "word": "ataques",
+          "word": "aislado",
           "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "falso",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Margarita Robles: \"EEUU e Israel no pueden ser los que decidan sin contar con na",
-      "score": 5.16,
+      "title": "El Supremo tumba los pluses salariales basados en evaluaciones del trabajador qu",
+      "score": 5.09,
       "words": [
         {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "guerra",
+          "word": "tumba",
           "score": -2
         },
         {
-          "word": "tipo",
+          "word": "tumba",
+          "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "superior",
           "score": 2
         },
         {
-          "word": "paz",
+          "word": "importante",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "¿Un impuesto a los ultrarricos? Más que necesario",
+      "score": 5.29,
+      "words": [
+        {
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "riqueza",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "refugios",
+          "score": -1
         }
       ]
     }
@@ -1007,6 +987,10 @@
     {
       "timestamp": "2026-04-01T02:23:50Z",
       "score": 4.32
+    },
+    {
+      "timestamp": "2026-04-01T05:22:12Z",
+      "score": 4.54
     }
   ]
 }

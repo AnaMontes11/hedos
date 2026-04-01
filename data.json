@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-01T22:34:53Z",
-  "global_score": 4.69,
-  "articles_scored": 93,
-  "words_matched": 296,
+  "generated": "2026-04-01T23:33:53Z",
+  "global_score": 4.89,
+  "articles_scored": 92,
+  "words_matched": 293,
   "top_negative": [
     {
       "word": "negro",
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
-      "word": "mal",
-      "score": -3
-    },
-    {
       "word": "falso",
       "score": -3
     },
     {
       "word": "enemigos",
+      "score": -3
+    },
+    {
+      "word": "destruir",
       "score": -3
     }
   ],
@@ -51,10 +51,6 @@
       "score": 4
     },
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
       "word": "bendición",
       "score": 4
     },
@@ -67,32 +63,62 @@
       "score": 4
     },
     {
-      "word": "fascinante",
+      "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "amor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.66,
-    "elDiario.es": 4.85,
-    "El Mundo": 4.67,
-    "ABC": 5.18,
+    "El País": 5.23,
+    "elDiario.es": 4.87,
+    "El Mundo": 4.81,
+    "ABC": 5.21,
     "El Confidencial": 4.81,
-    "BBC Mundo": 4.78,
-    "France 24 ES": 4.33,
-    "La Nación AR": 4.57,
+    "BBC Mundo": 4.93,
+    "France 24 ES": 4.47,
+    "La Nación AR": 5.0,
     "La Jornada MX": 4.82,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.65
+    "Resumen Latinoam.": 5.38
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | Se reanuda la c",
+      "title": "El cohete tripulado más potente lanza a los cuatro astronautas de Artemis 2 haci",
       "score": 6.6,
       "words": [
         {
+          "word": "éxito",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | Artemis 2 despe",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
           "word": "ganando",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El lanzamiento de Artemis 2 a la Luna, en imágenes",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "natural",
+          "score": 1
         }
       ]
     },
@@ -214,21 +240,6 @@
         },
         {
           "word": "racistas",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Salvo eso de musulmán el que no bote",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "racismo",
-          "score": -3
-        },
-        {
-          "word": "mal",
           "score": -3
         }
       ]
@@ -370,54 +381,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "En directo: activada la cuenta atrás para el lanzamiento de la misión Artemisa I",
-      "score": 4.95,
+      "title": "La misión Artemisa II despega con éxito y comienza el regreso a la Luna después ",
+      "score": 5.22,
       "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
         {
           "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Preparados para lo peor: qué pasa con los astronautas de Artemisa II si hay una ",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "accidentes",
           "score": -2
         }
       ]
@@ -1075,6 +1059,10 @@
     {
       "timestamp": "2026-04-01T22:34:53Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-04-01T23:33:53Z",
+      "score": 4.89
     }
   ]
 }

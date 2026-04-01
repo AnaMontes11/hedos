@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-01T15:02:06Z",
-  "global_score": 4.63,
-  "articles_scored": 96,
+  "generated": "2026-04-01T16:51:45Z",
+  "global_score": 4.64,
+  "articles_scored": 97,
   "words_matched": 252,
   "top_negative": [
     {
@@ -11,10 +11,6 @@
     {
       "word": "tortura",
       "score": -4
-    },
-    {
-      "word": "furioso",
-      "score": -3
     },
     {
       "word": "racismo",
@@ -29,11 +25,15 @@
       "score": -3
     },
     {
-      "word": "enfado",
+      "word": "falso",
       "score": -3
     },
     {
-      "word": "culpa",
+      "word": "enemigos",
+      "score": -3
+    },
+    {
+      "word": "enfado",
       "score": -3
     }
   ],
@@ -47,11 +47,11 @@
       "score": 4
     },
     {
-      "word": "emocionante",
+      "word": "fiel",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -63,36 +63,40 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "perfectamente",
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "contento",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.17,
-    "elDiario.es": 4.51,
-    "El Mundo": 4.56,
-    "ABC": 4.88,
-    "El Confidencial": 4.95,
+    "El País": 4.18,
+    "elDiario.es": 4.52,
+    "El Mundo": 4.52,
+    "ABC": 5.12,
+    "El Confidencial": 4.83,
     "BBC Mundo": 4.94,
-    "France 24 ES": 4.36,
-    "La Nación AR": 4.89,
+    "France 24 ES": 5.25,
+    "La Nación AR": 3.34,
     "La Jornada MX": 4.82,
-    "Desinformémonos": 4.27,
-    "Resumen Latinoam.": 4.38
+    "Desinformémonos": 3.9,
+    "Resumen Latinoam.": 4.83
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 5.0,
       "words": [
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
         },
         {
           "word": "asegura",
@@ -110,43 +114,35 @@
     },
     {
       "source": "El País",
-      "title": "Trump asegura que se plantea “seriamente” retirar a Estados Unidos de la OTAN",
-      "score": 5.0,
+      "title": "Trump abre el camino para una rápida salida de Estados Unidos de la guerra contr",
+      "score": 4.4,
       "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "furioso",
-          "score": -3
-        },
-        {
-          "word": "unirse",
-          "score": 1
-        },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "importante",
-          "score": 2
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las Bolsas se disparan y el petróleo cae ante la esperanza de que la guerra acab",
-      "score": 5.2,
+      "title": "Las Bolsas se disparan en su mejor sesión en un año y el petróleo se estabiliza ",
+      "score": 6.07,
       "words": [
         {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "mejor",
+          "score": 3
         },
         {
           "word": "euforia",
@@ -155,21 +151,6 @@
         {
           "word": "conflicto",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Así será el recorrido de Artemis 2 hacia la cara oculta de la Luna: el reto de e",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "reto",
-          "score": -1
-        },
-        {
-          "word": "capaz",
-          "score": 1
         }
       ]
     },
@@ -223,6 +204,33 @@
         {
           "word": "mal",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump asegura que Irán ha pedido un alto el fuego y Teherán lo niega: \"Es falso ",
+      "score": 4.34,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -1067,6 +1075,10 @@
     {
       "timestamp": "2026-04-01T15:02:06Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-04-01T16:51:45Z",
+      "score": 4.64
     }
   ]
 }

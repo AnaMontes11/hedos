@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-01T23:33:53Z",
-  "global_score": 4.89,
-  "articles_scored": 92,
-  "words_matched": 293,
+  "generated": "2026-04-02T02:03:26Z",
+  "global_score": 4.87,
+  "articles_scored": 93,
+  "words_matched": 284,
   "top_negative": [
     {
       "word": "negro",
@@ -15,6 +15,10 @@
     {
       "word": "tortura",
       "score": -4
+    },
+    {
+      "word": "pérdida",
+      "score": -3
     },
     {
       "word": "racismo",
@@ -30,10 +34,6 @@
     },
     {
       "word": "enemigos",
-      "score": -3
-    },
-    {
-      "word": "destruir",
       "score": -3
     }
   ],
@@ -51,10 +51,6 @@
       "score": 4
     },
     {
-      "word": "bendición",
-      "score": 4
-    },
-    {
       "word": "maravilloso",
       "score": 4
     },
@@ -63,26 +59,30 @@
       "score": 4
     },
     {
-      "word": "alegre",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "placer",
+      "score": 3
+    },
+    {
+      "word": "emocionante",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.23,
+    "El País": 4.92,
     "elDiario.es": 4.87,
-    "El Mundo": 4.81,
-    "ABC": 5.21,
+    "El Mundo": 5.33,
+    "ABC": 5.51,
     "El Confidencial": 4.81,
-    "BBC Mundo": 4.93,
-    "France 24 ES": 4.47,
-    "La Nación AR": 5.0,
+    "BBC Mundo": 5.07,
+    "France 24 ES": 4.7,
+    "La Nación AR": 5.03,
     "La Jornada MX": 4.82,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 5.38
+    "Resumen Latinoam.": 4.2
   },
   "articles": [
     {
@@ -113,42 +113,31 @@
     },
     {
       "source": "El País",
-      "title": "El lanzamiento de Artemis 2 a la Luna, en imágenes",
-      "score": 5.8,
+      "title": "Los astronautas siguen adelante con la misión a pesar de una pérdida de comunica",
+      "score": 3.0,
       "words": [
         {
-          "word": "natural",
-          "score": 1
+          "word": "pérdida",
+          "score": -3
+        },
+        {
+          "word": "problemas",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "De Apolo a Artemis II: “Desde el punto de vista técnico no hay ni una pieza pare",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "permitir",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.6,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 5.48,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         },
         {
           "word": "mayor",
@@ -157,6 +146,10 @@
         {
           "word": "asegura",
           "score": 2
+        },
+        {
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
@@ -402,6 +395,33 @@
         },
         {
           "word": "riesgo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Preparados para lo peor: qué pasa con los astronautas de Artemisa II si hay una ",
+      "score": 4.59,
+      "words": [
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "accidentes",
           "score": -2
         }
       ]
@@ -1063,6 +1083,10 @@
     {
       "timestamp": "2026-04-01T23:33:53Z",
       "score": 4.89
+    },
+    {
+      "timestamp": "2026-04-02T02:03:26Z",
+      "score": 4.87
     }
   ]
 }

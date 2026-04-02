@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-02T22:29:03Z",
-  "global_score": 4.81,
-  "articles_scored": 96,
-  "words_matched": 264,
+  "generated": "2026-04-02T23:33:10Z",
+  "global_score": 4.8,
+  "articles_scored": 94,
+  "words_matched": 251,
   "top_negative": [
     {
       "word": "culo",
@@ -10,10 +10,6 @@
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "tortura",
       "score": -4
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "desconfianza",
       "score": -3
+    },
+    {
+      "word": "abuso",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -43,19 +43,11 @@
       "score": 4
     },
     {
-      "word": "fiel",
-      "score": 3
-    },
-    {
       "word": "bueno",
       "score": 3
     },
     {
       "word": "paraíso",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
       "score": 3
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "excelencia",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.06,
     "elDiario.es": 4.77,
     "El Mundo": 4.72,
-    "ABC": 5.77,
+    "ABC": 5.58,
     "El Confidencial": 4.14,
     "BBC Mundo": 4.35,
-    "France 24 ES": 4.71,
-    "La Nación AR": 3.77,
+    "France 24 ES": 4.72,
+    "La Nación AR": 4.59,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.3,
-    "Resumen Latinoam.": 4.86
+    "Resumen Latinoam.": 4.48
   },
   "articles": [
     {
@@ -388,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-24T08:51:00Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-03-24T09:53:59Z",
       "score": 4.7
@@ -1059,6 +1055,10 @@
     {
       "timestamp": "2026-04-02T22:29:03Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-04-02T23:33:10Z",
+      "score": 4.8
     }
   ]
 }

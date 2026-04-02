@@ -1,11 +1,15 @@
 {
-  "generated": "2026-04-02T18:53:50Z",
-  "global_score": 4.62,
+  "generated": "2026-04-02T19:49:23Z",
+  "global_score": 4.71,
   "articles_scored": 98,
-  "words_matched": 272,
+  "words_matched": 267,
   "top_negative": [
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
@@ -17,29 +21,25 @@
       "score": -3
     },
     {
-      "word": "abuso",
-      "score": -3
-    },
-    {
-      "word": "enfado",
-      "score": -3
-    },
-    {
-      "word": "destruido",
-      "score": -3
-    },
-    {
       "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "fiasco",
       "score": -3
     },
     {
       "word": "desconfianza",
       "score": -3
+    },
+    {
+      "word": "abuso",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "alegría",
       "score": 4
     },
     {
@@ -55,11 +55,11 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "galardonado",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "prestigio",
       "score": 3
     },
     {
@@ -67,19 +67,19 @@
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.01,
-    "elDiario.es": 4.76,
+    "elDiario.es": 4.77,
     "El Mundo": 4.72,
-    "ABC": 4.76,
+    "ABC": 5.42,
     "El Confidencial": 4.13,
     "BBC Mundo": 4.89,
-    "France 24 ES": 4.45,
-    "La Nación AR": 3.4,
+    "France 24 ES": 4.47,
+    "La Nación AR": 3.67,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.3,
     "Resumen Latinoam.": 4.58
@@ -226,33 +226,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump se enfrenta al descontento popular por la subida de precios en el primer a",
-      "score": 4.74,
-      "words": [
-        {
-          "word": "descontento",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "descontento",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Macron lidera la respuesta a Trump mientras Von der Leyen apuesta por la diploma",
       "score": 4.31,
       "words": [
@@ -275,6 +248,60 @@
         {
           "word": "amenazas",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump defrauda a los mercados y provoca caídas en las bolsas y la subida del pre",
+      "score": 4.57,
+      "words": [
+        {
+          "word": "provoca",
+          "score": -1
+        },
+        {
+          "word": "provoca",
+          "score": -1
+        },
+        {
+          "word": "descontento",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Donald Trump destituye a la fiscal general de EEUU, Pam Bondi, tras sus desencue",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "perseguir",
+          "score": -2
+        },
+        {
+          "word": "enemigos",
+          "score": -3
         }
       ]
     },
@@ -334,16 +361,16 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump defrauda a los mercados y provoca caídas en las bolsas y la subida del pre",
-      "score": 4.57,
+      "title": "Trump se enfrenta al descontento popular por la subida de precios en el primer a",
+      "score": 4.74,
       "words": [
         {
-          "word": "provoca",
-          "score": -1
+          "word": "descontento",
+          "score": -2
         },
         {
-          "word": "provoca",
-          "score": -1
+          "word": "popular",
+          "score": 3
         },
         {
           "word": "descontento",
@@ -354,44 +381,13 @@
           "score": 3
         },
         {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Vox se enreda en su política internacional de seguidismo a Trump y Netanyahu",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "evita",
-          "score": -1
-        },
-        {
-          "word": "criticar",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "abandona",
+          "word": "solo",
           "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-24T01:53:18Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-03-24T04:17:31Z",
       "score": 4.66
@@ -1059,6 +1055,10 @@
     {
       "timestamp": "2026-04-02T18:53:50Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-04-02T19:49:23Z",
+      "score": 4.71
     }
   ]
 }

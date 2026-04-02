@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-02T02:03:26Z",
-  "global_score": 4.87,
-  "articles_scored": 93,
-  "words_matched": 284,
+  "generated": "2026-04-02T05:00:20Z",
+  "global_score": 4.79,
+  "articles_scored": 94,
+  "words_matched": 283,
   "top_negative": [
     {
       "word": "negro",
@@ -17,23 +17,23 @@
       "score": -4
     },
     {
+      "word": "destruir",
+      "score": -3
+    },
+    {
       "word": "pérdida",
       "score": -3
     },
     {
-      "word": "racismo",
+      "word": "abuso",
       "score": -3
     },
     {
-      "word": "racistas",
+      "word": "enfado",
       "score": -3
     },
     {
-      "word": "falso",
-      "score": -3
-    },
-    {
-      "word": "enemigos",
+      "word": "destruido",
       "score": -3
     }
   ],
@@ -47,11 +47,15 @@
       "score": 5
     },
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "celestial",
       "score": 4
     },
     {
-      "word": "maravilloso",
+      "word": "bendición",
       "score": 4
     },
     {
@@ -59,32 +63,78 @@
       "score": 4
     },
     {
-      "word": "emoción",
+      "word": "devoto",
       "score": 3
     },
     {
-      "word": "placer",
-      "score": 3
-    },
-    {
-      "word": "emocionante",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.92,
-    "elDiario.es": 4.87,
-    "El Mundo": 5.33,
-    "ABC": 5.51,
-    "El Confidencial": 4.81,
-    "BBC Mundo": 5.07,
+    "El País": 5.26,
+    "elDiario.es": 4.67,
+    "El Mundo": 5.24,
+    "ABC": 5.23,
+    "El Confidencial": 4.84,
+    "BBC Mundo": 4.95,
     "France 24 ES": 4.7,
-    "La Nación AR": 5.03,
+    "La Nación AR": 4.77,
     "La Jornada MX": 4.82,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.2
+    "Resumen Latinoam.": 4.02
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Trump pide paciencia a un público cansado de una guerra que “está a punto de aca",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "cansado",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Israel raciona misiles interceptores ante el riesgo de caer en una guerra de des",
+      "score": 4.04,
+      "words": [
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "desigual",
+          "score": -1
+        },
+        {
+          "word": "importancia",
+          "score": 2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El cohete tripulado más potente lanza a los cuatro astronautas de Artemis 2 haci",
@@ -92,21 +142,6 @@
       "words": [
         {
           "word": "éxito",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | Artemis 2 despe",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "ganando",
           "score": 2
         }
       ]
@@ -128,112 +163,149 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 5.48,
+      "title": "¿Qué va a pasar en la misión Artemis 2 cada día? Así es el viaje a la Luna más s",
+      "score": 6.6,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "asegura",
+          "word": "seguro",
           "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Trump abre el camino para una rápida salida de Estados Unidos de la guerra contr",
-      "score": 4.4,
+      "title": "Videoanálisis | El Artemis 2 inicia la misión que busca ganar la carrera espacia",
+      "score": 8.2,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
+          "word": "ganar",
+          "score": 4
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las Bolsas se disparan en su mejor sesión en un año y el petróleo se estabiliza ",
-      "score": 6.07,
+      "title": "El lanzamiento de Artemis 2 a la Luna, en imágenes",
+      "score": 5.8,
       "words": [
         {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "euforia",
-          "score": 3
-        },
-        {
-          "word": "conflicto",
-          "score": -2
+          "word": "natural",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El racismo en el fútbol vuelve a avergonzar a España por los cánticos de “Musulm",
-      "score": 4.2,
+      "title": "La gran batalla por el estadio de Shakira: a favor o en contra de sus 11 concier",
+      "score": 4.73,
       "words": [
         {
-          "word": "racismo",
-          "score": -3
-        },
-        {
-          "word": "avergonzar",
-          "score": -2
-        },
-        {
-          "word": "expone",
+          "word": "batalla",
           "score": -1
         },
         {
-          "word": "deseo",
-          "score": 1
+          "word": "favor",
+          "score": 2
         },
         {
-          "word": "inaceptable",
+          "word": "problemas",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Lamine Yamal: “Soy musulmán y usar la religión como burla en un campo os deja co",
-      "score": 3.0,
+      "title": "Buscador de bares y restaurantes de carretera: Más de ochenta pistas por toda Es",
+      "score": 5.0,
       "words": [
         {
-          "word": "burla",
+          "word": "gustos",
+          "score": 2
+        },
+        {
+          "word": "pena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump se enfrenta al descontento popular por la subida de precios en el primer a",
+      "score": 4.74,
+      "words": [
+        {
+          "word": "descontento",
           "score": -2
         },
         {
-          "word": "racistas",
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "descontento",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Año I después del ‘Día de la Liberación’ arancelaria de Trump: el comercio globa",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "descontento",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "asombro",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las negociaciones sobre Irán impulsadas por Pakistán muestran el nacimiento de u",
+      "score": 4.55,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "escepticismo",
+          "score": -2
+        },
+        {
+          "word": "desconfianza",
           "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
         }
       ]
     },
@@ -266,33 +338,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump dice que baraja seriamente sacar a EEUU de la OTAN",
-      "score": 4.58,
-      "words": [
-        {
-          "word": "convencido",
-          "score": -1
-        },
-        {
-          "word": "cierto",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Trump dice que Estados Unidos podría terminar la guerra de Irán “en dos o tres s",
       "score": 4.52,
       "words": [
@@ -320,108 +365,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Bases y espacio aéreo vetado: el pulso de Europa con Trump se acrecienta ante la",
-      "score": 4.92,
+      "title": "Vox se enreda en su política internacional de seguidismo a Trump y Netanyahu",
+      "score": 4.84,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenazar",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "pobre",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un juez federal bloquea la construcción del salón de baile de Trump en la Casa B",
-      "score": 5.33,
-      "words": [
-        {
-          "word": "pasado",
+          "word": "bloqueo",
           "score": -1
         },
         {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "realizar",
-          "score": 2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La misión Artemisa II despega con éxito y comienza el regreso a la Luna después ",
-      "score": 5.22,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "espera",
+          "word": "evita",
           "score": -1
         },
         {
-          "word": "riesgo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Preparados para lo peor: qué pasa con los astronautas de Artemisa II si hay una ",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "emergencia",
+          "word": "criticar",
           "score": -2
         },
         {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "emergencia",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "accidentes",
+          "word": "abandona",
           "score": -2
         }
       ]
@@ -1087,6 +1051,10 @@
     {
       "timestamp": "2026-04-02T02:03:26Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-04-02T05:00:20Z",
+      "score": 4.79
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-02T08:53:35Z",
-  "global_score": 4.73,
+  "generated": "2026-04-02T09:59:45Z",
+  "global_score": 4.8,
   "articles_scored": 95,
-  "words_matched": 292,
+  "words_matched": 282,
   "top_negative": [
     {
       "word": "culo",
@@ -51,12 +51,12 @@
       "score": 5
     },
     {
-      "word": "celestial",
+      "word": "ganar",
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
+      "word": "amor",
+      "score": 3
     },
     {
       "word": "celebra",
@@ -75,11 +75,11 @@
     "El País": 5.18,
     "elDiario.es": 4.7,
     "El Mundo": 5.44,
-    "ABC": 4.68,
+    "ABC": 6.15,
     "El Confidencial": 5.07,
-    "BBC Mundo": 4.95,
-    "France 24 ES": 4.58,
-    "La Nación AR": 4.7,
+    "BBC Mundo": 4.63,
+    "France 24 ES": 4.3,
+    "La Nación AR": 4.59,
     "La Jornada MX": 4.82,
     "Desinformémonos": 3.85,
     "Resumen Latinoam.": 4.02
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-23T17:50:58Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-03-23T18:51:43Z",
       "score": 4.8
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-04-02T08:53:35Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-04-02T09:59:45Z",
+      "score": 4.8
     }
   ]
 }

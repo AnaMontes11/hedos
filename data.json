@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-02T05:00:20Z",
-  "global_score": 4.79,
-  "articles_scored": 94,
-  "words_matched": 283,
+  "generated": "2026-04-02T07:08:38Z",
+  "global_score": 4.76,
+  "articles_scored": 95,
+  "words_matched": 285,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -17,11 +13,15 @@
       "score": -4
     },
     {
-      "word": "destruir",
+      "word": "pérdida",
       "score": -3
     },
     {
-      "word": "pérdida",
+      "word": "pierde",
+      "score": -3
+    },
+    {
+      "word": "destruir",
       "score": -3
     },
     {
@@ -55,7 +55,7 @@
       "score": 4
     },
     {
-      "word": "bendición",
+      "word": "maravilloso",
       "score": 4
     },
     {
@@ -63,78 +63,28 @@
       "score": 4
     },
     {
-      "word": "devoto",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "amado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.26,
-    "elDiario.es": 4.67,
-    "El Mundo": 5.24,
-    "ABC": 5.23,
-    "El Confidencial": 4.84,
+    "El País": 5.18,
+    "elDiario.es": 4.8,
+    "El Mundo": 5.29,
+    "ABC": 5.15,
+    "El Confidencial": 4.53,
     "BBC Mundo": 4.95,
-    "France 24 ES": 4.7,
-    "La Nación AR": 4.77,
+    "France 24 ES": 4.58,
+    "La Nación AR": 4.67,
     "La Jornada MX": 4.82,
     "Desinformémonos": 3.97,
     "Resumen Latinoam.": 4.02
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "Trump pide paciencia a un público cansado de una guerra que “está a punto de aca",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "cansado",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel raciona misiles interceptores ante el riesgo de caer en una guerra de des",
-      "score": 4.04,
-      "words": [
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "desigual",
-          "score": -1
-        },
-        {
-          "word": "importancia",
-          "score": 2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "El cohete tripulado más potente lanza a los cuatro astronautas de Artemis 2 haci",
@@ -163,17 +113,6 @@
     },
     {
       "source": "El País",
-      "title": "¿Qué va a pasar en la misión Artemis 2 cada día? Así es el viaje a la Luna más s",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "seguro",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Videoanálisis | El Artemis 2 inicia la misión que busca ganar la carrera espacia",
       "score": 8.2,
       "words": [
@@ -185,12 +124,92 @@
     },
     {
       "source": "El País",
+      "title": "¿Qué va a pasar en la misión Artemis 2 cada día? Así es el viaje a la Luna más s",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "seguro",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El lanzamiento de Artemis 2 a la Luna, en imágenes",
       "score": 5.8,
       "words": [
         {
           "word": "natural",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump pide paciencia a un público cansado de una guerra que “está a punto de aca",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "cansado",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las Bolsas sufren y el petróleo sube tras el decepcionante discurso de Trump",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "decepcionante",
+          "score": -2
+        },
+        {
+          "word": "euforia",
+          "score": 3
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Israel raciona misiles interceptores ante el riesgo de caer en una guerra de des",
+      "score": 4.04,
+      "words": [
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "desigual",
+          "score": -1
+        },
+        {
+          "word": "importancia",
+          "score": 2
+        },
+        {
+          "word": "destruir",
+          "score": -3
         }
       ]
     },
@@ -257,33 +276,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Año I después del ‘Día de la Liberación’ arancelaria de Trump: el comercio globa",
-      "score": 4.53,
-      "words": [
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "descontento",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "asombro",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Las negociaciones sobre Irán impulsadas por Pakistán muestran el nacimiento de u",
       "score": 4.55,
       "words": [
@@ -311,24 +303,24 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump asegura que Irán ha pedido un alto el fuego y Teherán lo niega: \"Es falso ",
-      "score": 4.39,
+      "title": "Trump insiste en que la guerra de Irán se terminará “muy pronto”: “Las próximas ",
+      "score": 4.85,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "fuego",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "niega",
+          "word": "duro",
           "score": -2
         },
         {
-          "word": "falso",
-          "score": -3
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "duro",
+          "score": -2
         },
         {
           "word": "asegura",
@@ -338,27 +330,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump dice que Estados Unidos podría terminar la guerra de Irán “en dos o tres s",
-      "score": 4.52,
+      "title": "Año I después del ‘Día de la Liberación’ arancelaria de Trump: el comercio globa",
+      "score": 4.53,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "valor",
+          "score": 2
         },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "conflicto",
+          "word": "descontento",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "popular",
+          "score": 3
         },
         {
-          "word": "asegurado",
+          "word": "asombro",
           "score": 2
         }
       ]
@@ -1055,6 +1047,10 @@
     {
       "timestamp": "2026-04-02T05:00:20Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-04-02T07:08:38Z",
+      "score": 4.76
     }
   ]
 }

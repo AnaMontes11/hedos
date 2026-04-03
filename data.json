@@ -1,23 +1,15 @@
 {
-  "generated": "2026-04-03T16:36:49Z",
-  "global_score": 4.72,
-  "articles_scored": 89,
-  "words_matched": 278,
+  "generated": "2026-04-03T17:31:59Z",
+  "global_score": 4.81,
+  "articles_scored": 94,
+  "words_matched": 282,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "tortura",
       "score": -4
     },
     {
@@ -35,11 +27,23 @@
     {
       "word": "violencia",
       "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "crisis",
+      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "ganador",
       "score": 4
     },
     {
@@ -49,10 +53,6 @@
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "calmar",
-      "score": 3
     },
     {
       "word": "popular",
@@ -72,35 +72,35 @@
     }
   ],
   "per_source": {
-    "El País": 4.92,
+    "El País": 4.82,
     "elDiario.es": 4.8,
-    "El Mundo": 4.52,
-    "ABC": 5.39,
-    "El Confidencial": 4.84,
-    "BBC Mundo": 5.13,
-    "France 24 ES": 4.37,
-    "La Nación AR": 5.68,
+    "El Mundo": 4.71,
+    "ABC": 5.42,
+    "El Confidencial": 4.94,
+    "BBC Mundo": 5.44,
+    "France 24 ES": 4.84,
+    "La Nación AR": 5.09,
     "La Jornada MX": 4.0,
-    "Desinformémonos": 4.12,
-    "Resumen Latinoam.": 4.22
+    "Desinformémonos": 4.24,
+    "Resumen Latinoam.": 4.34
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 5.53,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Re",
+      "score": 4.73,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "rescate",
+          "word": "recompensa",
           "score": 2
         },
         {
-          "word": "recompensa",
-          "score": 2
+          "word": "combate",
+          "score": -1
         }
       ]
     },
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-24T22:27:51Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-03-24T23:29:39Z",
       "score": 4.67
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-04-03T16:36:49Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-04-03T17:31:59Z",
+      "score": 4.81
     }
   ]
 }

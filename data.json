@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-03T19:36:27Z",
+  "generated": "2026-04-03T20:33:18Z",
   "global_score": 4.75,
   "articles_scored": 95,
-  "words_matched": 261,
+  "words_matched": 262,
   "top_negative": [
     {
       "word": "culo",
@@ -25,19 +25,27 @@
       "score": -3
     },
     {
-      "word": "violencia",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "pierde",
       "score": -3
     },
     {
-      "word": "muerto",
+      "word": "delicado",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "ganador",
       "score": 4
@@ -61,34 +69,26 @@
     {
       "word": "bueno",
       "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.12,
+    "El País": 5.1,
     "elDiario.es": 4.88,
     "El Mundo": 4.45,
     "ABC": 5.36,
     "El Confidencial": 4.89,
-    "BBC Mundo": 5.44,
-    "France 24 ES": 4.46,
-    "La Nación AR": 4.61,
+    "BBC Mundo": 5.52,
+    "France 24 ES": 4.15,
+    "La Nación AR": 4.58,
     "La Jornada MX": 4.0,
     "Desinformémonos": 4.24,
-    "Resumen Latinoam.": 4.6
+    "Resumen Latinoam.": 4.76
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Un",
-      "score": 4.73,
+      "score": 4.6,
       "words": [
         {
           "word": "guerra",
@@ -97,6 +97,10 @@
         {
           "word": "recompensa",
           "score": 2
+        },
+        {
+          "word": "ataque",
+          "score": -1
         },
         {
           "word": "rechazado",
@@ -245,28 +249,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Yasmina logró romper su matrimonio forzado tras cuatro años en Catalunya: \"Fue e",
-      "score": 4.73,
+      "title": "\"Chicos, estáis genial\": las primeras imágenes de la Tierra desde la misión Arte",
+      "score": 5.5,
       "words": [
         {
-          "word": "forzado",
-          "score": -1
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "mejor",
+          "word": "genial",
           "score": 3
         },
         {
-          "word": "forzado",
-          "score": -1
+          "word": "genial",
+          "score": 3
         },
         {
-          "word": "peor",
-          "score": -3
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "genial",
+          "score": 3
+        },
+        {
+          "word": "compartido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Artemisa II completa con éxito su maniobra clave y ya lleva rumbo a la Luna",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "problema",
+          "score": -2
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "establecido",
+          "score": 1
         }
       ]
     },
@@ -350,40 +381,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump se estrella de nuevo con el problema del iPhone de 2.200 euros en su guerr",
-      "score": 4.42,
-      "words": [
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "destruye",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-25T04:26:54Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-03-25T05:59:21Z",
       "score": 4.54
@@ -1050,6 +1050,10 @@
     },
     {
       "timestamp": "2026-04-03T19:36:27Z",
+      "score": 4.75
+    },
+    {
+      "timestamp": "2026-04-03T20:33:18Z",
       "score": 4.75
     }
   ]

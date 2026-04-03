@@ -1,9 +1,13 @@
 {
-  "generated": "2026-04-03T14:04:03Z",
-  "global_score": 4.66,
-  "articles_scored": 94,
-  "words_matched": 289,
+  "generated": "2026-04-03T15:37:26Z",
+  "global_score": 4.53,
+  "articles_scored": 92,
+  "words_matched": 285,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -13,7 +17,15 @@
       "score": -4
     },
     {
+      "word": "tortura",
+      "score": -4
+    },
+    {
       "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "muerto",
       "score": -3
     },
     {
@@ -23,21 +35,13 @@
     {
       "word": "enfado",
       "score": -3
-    },
-    {
-      "word": "pierde",
-      "score": -3
-    },
-    {
-      "word": "delicado",
-      "score": -3
-    },
-    {
-      "word": "violencia",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "alegría",
+      "score": 4
+    },
     {
       "word": "victorioso",
       "score": 4
@@ -47,15 +51,15 @@
       "score": 4
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "emoción",
+      "word": "calmar",
       "score": 3
     },
     {
       "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "emoción",
       "score": 3
     },
     {
@@ -65,86 +69,49 @@
     {
       "word": "prestigio",
       "score": 3
-    },
-    {
-      "word": "perfecto",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.92,
-    "elDiario.es": 4.66,
-    "El Mundo": 4.52,
-    "ABC": 5.27,
+    "El País": 4.82,
+    "elDiario.es": 4.67,
+    "El Mundo": 4.45,
+    "ABC": 4.94,
     "El Confidencial": 4.84,
     "BBC Mundo": 5.13,
-    "France 24 ES": 4.36,
-    "La Nación AR": 5.07,
+    "France 24 ES": 4.25,
+    "La Nación AR": 4.14,
     "La Jornada MX": 4.0,
     "Desinformémonos": 4.12,
-    "Resumen Latinoam.": 4.36
+    "Resumen Latinoam.": 4.22
   },
   "articles": [
     {
       "source": "El País",
-      "title": "IU, Sumar y Podemos alcanzan un acuerdo para concurrir juntos a las elecciones e",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "batalla",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Éxito en la maniobra decisiva de la nave Orion: “La tripulación de Artemis 2 est",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los astronautas de la Artemis 2 hablan de las primeras 30 horas de misión: “Soy ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
-      "score": 3.67,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 5.53,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "amenaza",
-          "score": -2
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "ataques",
-          "score": -1
+          "word": "recompensa",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El jefe del Pentágono obliga a dimitir al máximo mando del Ejército de Tierra",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -177,38 +144,71 @@
     },
     {
       "source": "El País",
-      "title": "El jefe del Pentágono obliga a dimitir al máximo mando del Ejército de Tierra",
-      "score": 3.4,
+      "title": "IU, Sumar y Podemos alcanzan un acuerdo para concurrir juntos a las elecciones e",
+      "score": 5.8,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Christopher Walken: “Claro que soy vulnerable. Quien piense que no lo es se conf",
-      "score": 5.27,
+      "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la",
+      "score": 4.2,
       "words": [
         {
-          "word": "claro",
-          "score": 1
-        },
+          "word": "batalla",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Primeras imágenes de la Tierra vista por la misión Artemis 2 en su histórico via",
+      "score": 6.6,
+      "words": [
         {
-          "word": "vulnerable",
-          "score": -2
-        },
-        {
-          "word": "orgulloso",
+          "word": "sol",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los astronautas de la Artemis 2 hablan de las primeras 30 horas de misión: “Soy ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“El sábado comí en un restaurante muerto”: así fue la peor comida de mi vida en ",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "muerto",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "IU y Sumar alcanzan un acuerdo con Podemos para integrarlo en la coalición Por A",
-      "score": 5.14,
+      "score": 5.23,
       "words": [
         {
           "word": "acuerdo",
@@ -396,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-24T20:39:29Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-03-24T21:35:37Z",
       "score": 4.74
@@ -1067,6 +1063,10 @@
     {
       "timestamp": "2026-04-03T14:04:03Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-04-03T15:37:26Z",
+      "score": 4.53
     }
   ]
 }

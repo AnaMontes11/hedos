@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-03T18:42:20Z",
-  "global_score": 4.71,
-  "articles_scored": 92,
-  "words_matched": 262,
+  "generated": "2026-04-03T19:36:27Z",
+  "global_score": 4.75,
+  "articles_scored": 95,
+  "words_matched": 261,
   "top_negative": [
     {
       "word": "culo",
@@ -13,8 +13,8 @@
       "score": -4
     },
     {
-      "word": "muerto",
-      "score": -3
+      "word": "violación",
+      "score": -4
     },
     {
       "word": "peor",
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "muerto",
       "score": -3
     }
   ],
@@ -63,31 +63,31 @@
       "score": 3
     },
     {
-      "word": "brillar",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.82,
+    "El País": 5.12,
     "elDiario.es": 4.88,
     "El Mundo": 4.45,
-    "ABC": 5.39,
+    "ABC": 5.36,
     "El Confidencial": 4.89,
     "BBC Mundo": 5.44,
-    "France 24 ES": 4.72,
-    "La Nación AR": 3.68,
+    "France 24 ES": 4.46,
+    "La Nación AR": 4.61,
     "La Jornada MX": 4.0,
     "Desinformémonos": 4.24,
-    "Resumen Latinoam.": 4.52
+    "Resumen Latinoam.": 4.6
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Re",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Un",
       "score": 4.73,
       "words": [
         {
@@ -99,8 +99,23 @@
           "score": 2
         },
         {
-          "word": "combate",
+          "word": "rechazado",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Estados Unidos rescata a un piloto del primer avión derribado por Irán en la gue",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "recompensa",
+          "score": 2
         }
       ]
     },
@@ -132,28 +147,6 @@
     },
     {
       "source": "El País",
-      "title": "IU, Sumar y Podemos alcanzan un acuerdo para concurrir juntos a las elecciones e",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "batalla",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Primeras imágenes de la Tierra de Artemis 2 en su histórico viaje a la Luna: aur",
       "score": 6.6,
       "words": [
@@ -176,20 +169,23 @@
     },
     {
       "source": "El País",
-      "title": "“El sábado comí en un restaurante muerto”: así fue la peor comida de mi vida en ",
-      "score": 2.6,
+      "title": "IU, Sumar y Podemos alcanzan un acuerdo para concurrir juntos a las elecciones e",
+      "score": 5.8,
       "words": [
         {
-          "word": "muerto",
-          "score": -3
-        },
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la",
+      "score": 4.2,
+      "words": [
         {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "muerto",
-          "score": -3
+          "word": "batalla",
+          "score": -1
         }
       ]
     },
@@ -384,10 +380,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-25T01:59:06Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-03-25T04:26:54Z",
       "score": 4.66
@@ -1055,6 +1047,10 @@
     {
       "timestamp": "2026-04-03T18:42:20Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-04-03T19:36:27Z",
+      "score": 4.75
     }
   ]
 }

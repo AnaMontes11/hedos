@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-03T15:37:26Z",
-  "global_score": 4.53,
-  "articles_scored": 92,
-  "words_matched": 285,
+  "generated": "2026-04-03T16:36:49Z",
+  "global_score": 4.72,
+  "articles_scored": 89,
+  "words_matched": 278,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -4
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
       "word": "muerto",
       "score": -3
     },
@@ -34,6 +30,10 @@
     },
     {
       "word": "enfado",
+      "score": -3
+    },
+    {
+      "word": "violencia",
       "score": -3
     }
   ],
@@ -63,23 +63,23 @@
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "brillar",
       "score": 3
     },
     {
-      "word": "prestigio",
+      "word": "riqueza",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.82,
-    "elDiario.es": 4.67,
-    "El Mundo": 4.45,
-    "ABC": 4.94,
+    "El País": 4.92,
+    "elDiario.es": 4.8,
+    "El Mundo": 4.52,
+    "ABC": 5.39,
     "El Confidencial": 4.84,
     "BBC Mundo": 5.13,
-    "France 24 ES": 4.25,
-    "La Nación AR": 4.14,
+    "France 24 ES": 4.37,
+    "La Nación AR": 5.68,
     "La Jornada MX": 4.0,
     "Desinformémonos": 4.12,
     "Resumen Latinoam.": 4.22
@@ -106,39 +106,27 @@
     },
     {
       "source": "El País",
-      "title": "El jefe del Pentágono obliga a dimitir al máximo mando del Ejército de Tierra",
-      "score": 3.4,
+      "title": "La Casa Blanca pide aumentar un 40% el presupuesto para defensa al récord histór",
+      "score": 4.6,
       "words": [
         {
-          "word": "guerra",
+          "word": "aumentar",
+          "score": 1
+        },
+        {
+          "word": "lucha",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La guerra de Irán resucita el riesgo de estanflación 50 años después de la últim",
-      "score": 3.8,
+      "title": "El jefe del Pentágono obliga a dimitir al máximo mando del Ejército de Tierra",
+      "score": 3.4,
       "words": [
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
         }
       ]
     },
@@ -166,7 +154,7 @@
     },
     {
       "source": "El País",
-      "title": "Primeras imágenes de la Tierra vista por la misión Artemis 2 en su histórico via",
+      "title": "Primeras imágenes de la Tierra de Artemis 2 en su histórico viaje a la Luna: aur",
       "score": 6.6,
       "words": [
         {
@@ -261,33 +249,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La guerra en Irán amenaza con provocar una escasez mundial de alimentos",
-      "score": 4.04,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "provocar",
-          "score": -1
-        },
-        {
-          "word": "escasez",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Yasmina logró romper su matrimonio forzado tras cuatro años en Catalunya: \"Fue e",
       "score": 4.73,
       "words": [
@@ -310,6 +271,33 @@
         {
           "word": "peor",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La guerra en Irán amenaza con provocar una escasez mundial de alimentos",
+      "score": 4.04,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "provocar",
+          "score": -1
+        },
+        {
+          "word": "escasez",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -396,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-24T21:35:37Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-03-24T22:27:51Z",
       "score": 4.6
@@ -1067,6 +1051,10 @@
     {
       "timestamp": "2026-04-03T15:37:26Z",
       "score": 4.53
+    },
+    {
+      "timestamp": "2026-04-03T16:36:49Z",
+      "score": 4.72
     }
   ]
 }

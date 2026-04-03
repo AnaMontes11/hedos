@@ -1,9 +1,13 @@
 {
-  "generated": "2026-04-03T05:02:30Z",
-  "global_score": 4.89,
-  "articles_scored": 94,
-  "words_matched": 304,
+  "generated": "2026-04-03T07:04:37Z",
+  "global_score": 4.79,
+  "articles_scored": 93,
+  "words_matched": 294,
   "top_negative": [
+    {
+      "word": "perra",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -31,10 +35,6 @@
     {
       "word": "lamentable",
       "score": -3
-    },
-    {
-      "word": "retirada",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -55,10 +55,6 @@
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
       "word": "emoción",
       "score": 3
     },
@@ -69,17 +65,21 @@
     {
       "word": "prestigio",
       "score": 3
+    },
+    {
+      "word": "perfecto",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.12,
-    "elDiario.es": 4.66,
-    "El Mundo": 4.98,
-    "ABC": 5.13,
-    "El Confidencial": 5.25,
+    "El País": 5.01,
+    "elDiario.es": 4.79,
+    "El Mundo": 4.71,
+    "ABC": 4.82,
+    "El Confidencial": 5.13,
     "BBC Mundo": 4.63,
     "France 24 ES": 4.5,
-    "La Nación AR": 5.41,
+    "La Nación AR": 4.83,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.12,
     "Resumen Latinoam.": 4.67
@@ -109,6 +109,17 @@
         {
           "word": "crecimiento",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El jefe del Pentágono obliga a dimitir al máximo mando del Ejército de Tierra",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -188,17 +199,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La gran pasión social y religiosa en la Semana Santa de la pequeña Zamora: se es",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "La guerra en Irán amenaza con provocar una escasez mundial de alimentos",
       "score": 4.04,
@@ -222,6 +222,33 @@
         {
           "word": "guerra",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El jefe del Pentágono destituye al responsable del Ejército de tierra en plena g",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -386,40 +413,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los gurús de la manosfera y su falsa receta para que niños y chavales se convier",
-      "score": 4.96,
-      "words": [
-        {
-          "word": "duro",
-          "score": -2
-        },
-        {
-          "word": "promesa",
-          "score": 1
-        },
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "unido",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-24T11:43:17Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-03-24T13:06:40Z",
       "score": 4.6
@@ -1087,6 +1083,10 @@
     {
       "timestamp": "2026-04-03T05:02:30Z",
       "score": 4.89
+    },
+    {
+      "timestamp": "2026-04-03T07:04:37Z",
+      "score": 4.79
     }
   ]
 }

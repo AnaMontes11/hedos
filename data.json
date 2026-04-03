@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-03T07:04:37Z",
-  "global_score": 4.79,
-  "articles_scored": 93,
-  "words_matched": 294,
+  "generated": "2026-04-03T08:50:47Z",
+  "global_score": 4.72,
+  "articles_scored": 94,
+  "words_matched": 299,
   "top_negative": [
     {
       "word": "perra",
@@ -14,6 +14,10 @@
     },
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "infierno",
       "score": -4
     },
     {
@@ -31,19 +35,19 @@
     {
       "word": "delicado",
       "score": -3
-    },
-    {
-      "word": "lamentable",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "triunfo",
       "score": 4
     },
     {
       "word": "victorioso",
+      "score": 4
+    },
+    {
+      "word": "ganar",
       "score": 4
     },
     {
@@ -55,34 +59,30 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "perfecto",
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.01,
-    "elDiario.es": 4.79,
+    "elDiario.es": 4.77,
     "El Mundo": 4.71,
-    "ABC": 4.82,
-    "El Confidencial": 5.13,
-    "BBC Mundo": 4.63,
+    "ABC": 5.12,
+    "El Confidencial": 4.56,
+    "BBC Mundo": 4.58,
     "France 24 ES": 4.5,
-    "La Nación AR": 4.83,
+    "La Nación AR": 4.31,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.12,
-    "Resumen Latinoam.": 4.67
+    "Resumen Latinoam.": 4.46
   },
   "articles": [
     {
@@ -227,6 +227,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Macron lidera la respuesta a Trump mientras Von der Leyen apuesta por la diploma",
+      "score": 4.31,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El jefe del Pentágono destituye al responsable del Ejército de tierra en plena g",
       "score": 5.4,
       "words": [
@@ -281,11 +308,11 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Macron lidera la respuesta a Trump mientras Von der Leyen apuesta por la diploma",
-      "score": 4.31,
+      "title": "Trump se estrella de nuevo con el problema del iPhone de 2.200 euros en su guerr",
+      "score": 4.42,
       "words": [
         {
-          "word": "guerra",
+          "word": "problema",
           "score": -2
         },
         {
@@ -293,7 +320,7 @@
           "score": -2
         },
         {
-          "word": "duro",
+          "word": "problema",
           "score": -2
         },
         {
@@ -301,62 +328,8 @@
           "score": -2
         },
         {
-          "word": "amenazas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Donald Trump destituye a la fiscal general de EEUU, Pam Bondi, tras sus desencue",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "perseguir",
-          "score": -2
-        },
-        {
-          "word": "enemigos",
+          "word": "destruye",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Koldo, RTVE, CIS, dana, Adamuz: el PP exprime su mayoría en el Senado con una co",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "promovido",
-          "score": 1
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "descarrila",
-          "score": -2
-        },
-        {
-          "word": "interrogatorio",
-          "score": -1
-        },
-        {
-          "word": "establecido",
-          "score": 1
         }
       ]
     },
@@ -389,6 +362,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Koldo, RTVE, CIS, dana, Adamuz: el PP exprime su mayoría en el Senado con una co",
+      "score": 4.59,
+      "words": [
+        {
+          "word": "promovido",
+          "score": 1
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "descarrila",
+          "score": -2
+        },
+        {
+          "word": "interrogatorio",
+          "score": -1
+        },
+        {
+          "word": "establecido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Yasmina logró romper su matrimonio forzado tras cuatro años en Catalunya: \"Fue e",
       "score": 4.73,
       "words": [
@@ -416,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-24T13:06:40Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-03-24T14:55:54Z",
       "score": 4.68
@@ -1087,6 +1083,10 @@
     {
       "timestamp": "2026-04-03T07:04:37Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-04-03T08:50:47Z",
+      "score": 4.72
     }
   ]
 }

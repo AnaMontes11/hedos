@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-03T10:40:44Z",
-  "global_score": 4.8,
-  "articles_scored": 96,
-  "words_matched": 298,
+  "generated": "2026-04-03T11:35:49Z",
+  "global_score": 4.83,
+  "articles_scored": 99,
+  "words_matched": 299,
   "top_negative": [
     {
       "word": "culo",
@@ -21,6 +21,10 @@
       "score": -3
     },
     {
+      "word": "enfado",
+      "score": -3
+    },
+    {
       "word": "pierde",
       "score": -3
     },
@@ -29,11 +33,7 @@
       "score": -3
     },
     {
-      "word": "enfado",
-      "score": -3
-    },
-    {
-      "word": "lamentable",
+      "word": "violencia",
       "score": -3
     }
   ],
@@ -55,36 +55,80 @@
       "score": 3
     },
     {
-      "word": "leal",
-      "score": 3
-    },
-    {
-      "word": "impresiona",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "emoción",
       "score": 3
     },
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "visionario",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.21,
-    "elDiario.es": 4.77,
-    "El Mundo": 4.51,
-    "ABC": 4.97,
-    "El Confidencial": 5.17,
+    "El País": 4.91,
+    "elDiario.es": 4.74,
+    "El Mundo": 4.3,
+    "ABC": 5.48,
+    "El Confidencial": 4.8,
     "BBC Mundo": 4.83,
     "France 24 ES": 4.5,
-    "La Nación AR": 4.9,
+    "La Nación AR": 5.57,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.12,
     "Resumen Latinoam.": 4.39
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "IU, Sumar y Podemos alcanzan un acuerdo para concurrir juntos a las elecciones e",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "batalla",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Éxito en la maniobra decisiva de la nave Orion: “La tripulación de Artemis 2 est",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los astronautas de la Artemis 2 hablan de las primeras 30 horas de misión: “Soy ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "La guerra de Irán resucita el riesgo de estanflación 50 años después de la últim",
@@ -148,39 +192,6 @@
     },
     {
       "source": "El País",
-      "title": "Éxito en la maniobra decisiva de la nave Orion: “La tripulación de Artemis 2 est",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los astronautas de la Artemis 2 hablan de las primeras 30 horas de misión: “Soy ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El espectáculo de ver salir un cohete hacia la Luna",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "llegar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Christopher Walken: “Claro que soy vulnerable. Quien piense que no lo es se conf",
       "score": 5.27,
       "words": [
@@ -199,13 +210,56 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Las entrevistas de Roberto Bolaño: explosivo, espontáneo, iconoclasta, generoso",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "IU y Sumar alcanzan un acuerdo con Podemos para integrarlo en la coalición Por A",
+      "score": 5.42,
       "words": [
         {
-          "word": "generoso",
-          "score": 2
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "legal",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Macron critica la estrategia de Trump en Irán y pide una coalición de países ind",
+      "score": 4.27,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "querer",
+          "score": 1
+        },
+        {
+          "word": "criticado",
+          "score": -2
         }
       ]
     },
@@ -238,28 +292,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Macron critica la estrategia de Trump en Irán y pide una coalición de países ind",
-      "score": 4.27,
+      "title": "Yasmina logró romper su matrimonio forzado tras cuatro años en Catalunya: \"Fue e",
+      "score": 4.73,
       "words": [
         {
-          "word": "critica",
-          "score": -2
+          "word": "forzado",
+          "score": -1
         },
         {
-          "word": "critica",
-          "score": -2
+          "word": "peor",
+          "score": -3
         },
         {
-          "word": "acusa",
-          "score": -2
+          "word": "mejor",
+          "score": 3
         },
         {
-          "word": "querer",
-          "score": 1
+          "word": "forzado",
+          "score": -1
         },
         {
-          "word": "criticado",
-          "score": -2
+          "word": "peor",
+          "score": -3
         }
       ]
     },
@@ -343,67 +397,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso encadena varapalos en los tribunales: tres recados del Constitucional y Mi",
-      "score": 5.14,
-      "words": [
-        {
-          "word": "persigue",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "persigue",
-          "score": -2
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "tumba",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Koldo, RTVE, CIS, dana, Adamuz: el PP exprime su mayoría en el Senado con una co",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "promovido",
-          "score": 1
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "descarrila",
-          "score": -2
-        },
-        {
-          "word": "interrogatorio",
-          "score": -1
-        },
-        {
-          "word": "establecido",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-24T17:54:38Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-03-24T18:59:43Z",
       "score": 4.66
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-04-03T10:40:44Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-04-03T11:35:49Z",
+      "score": 4.83
     }
   ]
 }

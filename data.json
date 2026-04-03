@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-02T23:33:10Z",
-  "global_score": 4.8,
-  "articles_scored": 94,
-  "words_matched": 251,
+  "generated": "2026-04-03T02:05:10Z",
+  "global_score": 4.86,
+  "articles_scored": 92,
+  "words_matched": 244,
   "top_negative": [
     {
       "word": "culo",
@@ -39,6 +39,10 @@
   ],
   "top_positive": [
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
@@ -51,15 +55,11 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "fiel",
       "score": 3
     },
     {
-      "word": "admira",
-      "score": 3
-    },
-    {
-      "word": "excelencia",
+      "word": "emoción",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 5.06,
+    "El País": 5.33,
     "elDiario.es": 4.77,
-    "El Mundo": 4.72,
-    "ABC": 5.58,
-    "El Confidencial": 4.14,
-    "BBC Mundo": 4.35,
-    "France 24 ES": 4.72,
-    "La Nación AR": 4.59,
+    "El Mundo": 4.98,
+    "ABC": 5.17,
+    "El Confidencial": 4.37,
+    "BBC Mundo": 4.63,
+    "France 24 ES": 4.9,
+    "La Nación AR": 4.25,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.3,
-    "Resumen Latinoam.": 4.48
+    "Resumen Latinoam.": 4.67
   },
   "articles": [
     {
@@ -121,49 +121,33 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El",
-      "score": 5.0,
+      "title": "El jefe del Pentágono obliga a dimitir al máximo mando del Ejército de Tierra",
+      "score": 3.4,
       "words": [
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "renuncia",
-          "score": -1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Los astronautas de la Artemis 2 se preparan para ir a otro mundo: “Tan solo hemo",
-      "score": 3.4,
+      "title": "Éxito en la maniobra decisiva de la nave Orion: “La tripulación de Artemis 2 est",
+      "score": 6.6,
       "words": [
         {
-          "word": "solo",
-          "score": -2
+          "word": "éxito",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | Seis minutos cr",
-      "score": 4.47,
+      "title": "Última hora del lanzamiento de la misión Artemis 2, en directo | La nave Orion s",
+      "score": 5.27,
       "words": [
         {
-          "word": "críticos",
+          "word": "crítico",
           "score": -2
         },
         {
@@ -171,8 +155,8 @@
           "score": 2
         },
         {
-          "word": "problema",
-          "score": -2
+          "word": "natural",
+          "score": 1
         }
       ]
     },
@@ -388,10 +372,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-24T09:53:59Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-03-24T10:50:38Z",
       "score": 4.67
@@ -1059,6 +1039,10 @@
     {
       "timestamp": "2026-04-02T23:33:10Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-04-03T02:05:10Z",
+      "score": 4.86
     }
   ]
 }

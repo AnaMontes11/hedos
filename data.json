@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-04T20:27:50Z",
-  "global_score": 4.48,
-  "articles_scored": 84,
-  "words_matched": 245,
+  "generated": "2026-04-04T21:29:06Z",
+  "global_score": 4.6,
+  "articles_scored": 94,
+  "words_matched": 263,
   "top_negative": [
     {
       "word": "negro",
@@ -47,6 +47,10 @@
       "score": 4
     },
     {
+      "word": "milagro",
+      "score": 4
+    },
+    {
       "word": "triunfo",
       "score": 4
     },
@@ -59,28 +63,25 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "caro",
+      "word": "alegre",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.28,
+    "El País": 4.46,
     "elDiario.es": 4.76,
-    "El Mundo": 3.7,
+    "El Mundo": 3.69,
+    "ABC": 5.11,
     "El Confidencial": 5.0,
     "BBC Mundo": 4.75,
-    "France 24 ES": 4.11,
-    "La Nación AR": 3.98,
+    "France 24 ES": 4.19,
+    "La Nación AR": 4.78,
     "La Jornada MX": 5.12,
-    "Desinformémonos": 4.52,
+    "Desinformémonos": 4.08,
     "Resumen Latinoam.": 4.47
   },
   "articles": [
@@ -219,31 +220,23 @@
     },
     {
       "source": "El País",
-      "title": "Atlético de Madrid – FC Barcelona | Rashford hace el empate tras el gol de Giuli",
-      "score": 5.0,
+      "title": "Atlético de Madrid – FC Barcelona | El Barcelona remonta al Atlético y se pone a",
+      "score": 3.4,
       "words": [
         {
           "word": "expulsado",
           "score": -2
-        },
-        {
-          "word": "defensor",
-          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El Real Madrid da otro salto al vacío en Liga con la derrota en el descuento en ",
-      "score": 4.2,
+      "title": "Aitana confiesa ante Rosalía y todo el público de Madrid que Sebastián Yatra no ",
+      "score": 7.4,
       "words": [
         {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "descuento",
-          "score": -1
+          "word": "fiel",
+          "score": 3
         }
       ]
     },
@@ -411,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-26T11:02:13Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-03-26T13:09:15Z",
       "score": 4.64
@@ -1082,6 +1071,10 @@
     {
       "timestamp": "2026-04-04T20:27:50Z",
       "score": 4.48
+    },
+    {
+      "timestamp": "2026-04-04T21:29:06Z",
+      "score": 4.6
     }
   ]
 }

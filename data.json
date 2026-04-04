@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-04T11:27:09Z",
-  "global_score": 4.81,
-  "articles_scored": 95,
-  "words_matched": 262,
+  "generated": "2026-04-04T12:50:33Z",
+  "global_score": 4.71,
+  "articles_scored": 93,
+  "words_matched": 269,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -17,8 +13,12 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
+      "word": "destruye",
+      "score": -3
+    },
+    {
+      "word": "muerto",
+      "score": -3
     },
     {
       "word": "mal",
@@ -72,19 +72,57 @@
     }
   ],
   "per_source": {
-    "El País": 5.35,
+    "El País": 5.17,
     "elDiario.es": 4.9,
-    "El Mundo": 4.27,
-    "ABC": 5.6,
+    "El Mundo": 4.09,
+    "ABC": 5.28,
     "El Confidencial": 5.0,
-    "BBC Mundo": 4.56,
-    "France 24 ES": 4.23,
-    "La Nación AR": 5.08,
+    "BBC Mundo": 4.64,
+    "France 24 ES": 4.27,
+    "La Nación AR": 4.38,
     "La Jornada MX": 5.12,
     "Desinformémonos": 4.29,
-    "Resumen Latinoam.": 4.42
+    "Resumen Latinoam.": 4.43
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El ejército israelí recrudece los ataques a Hezbolá y destruye edificios residen",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "destruye",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "desaparecido",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "España, Alemania, Italia, Austria y Portugal piden a Bruselas un impuesto a los ",
@@ -100,21 +138,6 @@
         },
         {
           "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "desaparecido",
           "score": -2
         }
       ]
@@ -209,21 +232,6 @@
         },
         {
           "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El imparable fenómeno por el que el centro de todas las ciudades empieza a parec",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "imparable",
-          "score": 2
-        },
-        {
-          "word": "solo",
           "score": -2
         }
       ]
@@ -392,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-25T20:36:06Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-03-25T21:36:48Z",
       "score": 4.67
@@ -1063,6 +1067,10 @@
     {
       "timestamp": "2026-04-04T11:27:09Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-04-04T12:50:33Z",
+      "score": 4.71
     }
   ]
 }

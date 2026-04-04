@@ -1,11 +1,19 @@
 {
-  "generated": "2026-04-04T10:30:45Z",
-  "global_score": 4.66,
-  "articles_scored": 93,
-  "words_matched": 259,
+  "generated": "2026-04-04T11:27:09Z",
+  "global_score": 4.81,
+  "articles_scored": 95,
+  "words_matched": 262,
   "top_negative": [
     {
+      "word": "negro",
+      "score": -5
+    },
+    {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "tortura",
       "score": -4
     },
     {
@@ -27,20 +35,16 @@
     {
       "word": "crisis",
       "score": -3
-    },
-    {
-      "word": "destruir",
-      "score": -3
-    },
-    {
-      "word": "enemigos",
-      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "excepcional",
       "score": 5
+    },
+    {
+      "word": "eufórico",
+      "score": 4
     },
     {
       "word": "brillante",
@@ -59,11 +63,7 @@
       "score": 4
     },
     {
-      "word": "exitoso",
-      "score": 3
-    },
-    {
-      "word": "premios",
+      "word": "riqueza",
       "score": 3
     },
     {
@@ -74,13 +74,13 @@
   "per_source": {
     "El País": 5.35,
     "elDiario.es": 4.9,
-    "El Mundo": 4.35,
-    "ABC": 5.21,
+    "El Mundo": 4.27,
+    "ABC": 5.6,
     "El Confidencial": 5.0,
-    "BBC Mundo": 4.88,
+    "BBC Mundo": 4.56,
     "France 24 ES": 4.23,
-    "La Nación AR": 4.36,
-    "La Jornada MX": 4.0,
+    "La Nación AR": 5.08,
+    "La Jornada MX": 5.12,
     "Desinformémonos": 4.29,
     "Resumen Latinoam.": 4.42
   },
@@ -329,6 +329,10 @@
         {
           "word": "alcanzar",
           "score": 1
+        },
+        {
+          "word": "advierte",
+          "score": -2
         }
       ]
     },
@@ -388,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-25T19:50:17Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-03-25T20:36:06Z",
       "score": 4.69
@@ -1059,6 +1059,10 @@
     {
       "timestamp": "2026-04-04T10:30:45Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-04-04T11:27:09Z",
+      "score": 4.81
     }
   ]
 }

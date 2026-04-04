@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-04T18:38:05Z",
-  "global_score": 4.58,
-  "articles_scored": 91,
-  "words_matched": 288,
+  "generated": "2026-04-04T19:29:21Z",
+  "global_score": 4.68,
+  "articles_scored": 94,
+  "words_matched": 263,
   "top_negative": [
     {
       "word": "negro",
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "perdiendo",
       "score": -3
     }
   ],
@@ -47,7 +47,7 @@
       "score": 4
     },
     {
-      "word": "brillante",
+      "word": "milagro",
       "score": 4
     },
     {
@@ -67,28 +67,28 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "amor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.47,
-    "elDiario.es": 4.81,
-    "El Mundo": 3.5,
-    "ABC": 4.87,
-    "El Confidencial": 5.29,
-    "BBC Mundo": 4.78,
-    "France 24 ES": 4.32,
-    "La Nación AR": 3.89,
+    "El País": 4.53,
+    "elDiario.es": 4.76,
+    "El Mundo": 3.7,
+    "ABC": 5.34,
+    "El Confidencial": 5.0,
+    "BBC Mundo": 4.75,
+    "France 24 ES": 4.11,
+    "La Nación AR": 4.99,
     "La Jornada MX": 5.12,
     "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 4.45
+    "Resumen Latinoam.": 4.64
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 3.53,
+      "score": 3.67,
       "words": [
         {
           "word": "guerra",
@@ -103,27 +103,23 @@
           "score": -4
         },
         {
-          "word": "ataque",
+          "word": "espera",
           "score": -1
         },
         {
-          "word": "muerto",
-          "score": -3
+          "word": "ataque",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
       "title": "Estados Unidos redobla los esfuerzos para rescatar al aviador desaparecido un dí",
-      "score": 4.73,
+      "score": 5.0,
       "words": [
         {
           "word": "desaparecido",
           "score": -2
-        },
-        {
-          "word": "fuga",
-          "score": -1
         },
         {
           "word": "recompensa",
@@ -226,29 +222,6 @@
         {
           "word": "fiel",
           "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Samanta Schweblin, escritora: “Prestar atención es el superpoder más grande: ya ",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "capaz",
-          "score": 1
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "amenaza",
-          "score": -2
         }
       ]
     },
@@ -413,13 +386,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De las bombas de racimo a los misiles Tomahawk: análisis visual del armamento ut",
+      "score": 4.29,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "enemigos",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-26T08:52:28Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-03-26T09:59:05Z",
       "score": 4.64
@@ -1087,6 +1083,10 @@
     {
       "timestamp": "2026-04-04T18:38:05Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-04-04T19:29:21Z",
+      "score": 4.68
     }
   ]
 }

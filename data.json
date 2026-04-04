@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-04T09:35:03Z",
-  "global_score": 4.65,
-  "articles_scored": 94,
-  "words_matched": 288,
+  "generated": "2026-04-04T10:30:45Z",
+  "global_score": 4.66,
+  "articles_scored": 93,
+  "words_matched": 259,
   "top_negative": [
     {
       "word": "culo",
@@ -59,47 +59,32 @@
       "score": 4
     },
     {
+      "word": "exitoso",
+      "score": 3
+    },
+    {
       "word": "premios",
       "score": 3
     },
     {
-      "word": "feliz",
-      "score": 3
-    },
-    {
-      "word": "sentido",
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.35,
-    "elDiario.es": 4.78,
+    "elDiario.es": 4.9,
     "El Mundo": 4.35,
     "ABC": 5.21,
-    "El Confidencial": 4.8,
+    "El Confidencial": 5.0,
     "BBC Mundo": 4.88,
     "France 24 ES": 4.23,
-    "La Nación AR": 4.62,
+    "La Nación AR": 4.36,
     "La Jornada MX": 4.0,
     "Desinformémonos": 4.29,
-    "Resumen Latinoam.": 4.4
+    "Resumen Latinoam.": 4.42
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "desaparecido",
-          "score": -2
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "España, Alemania, Italia, Austria y Portugal piden a Bruselas un impuesto a los ",
@@ -115,6 +100,21 @@
         },
         {
           "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "desaparecido",
           "score": -2
         }
       ]
@@ -285,7 +285,7 @@
     {
       "source": "elDiario.es",
       "title": "España se une a otros cuatro países europeos para exigir a la UE un impuesto a l",
-      "score": 5.0,
+      "score": 4.95,
       "words": [
         {
           "word": "impuesto",
@@ -306,6 +306,29 @@
         {
           "word": "justa",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo y Abascal volvieron a hablar tras las elecciones de Castilla y León para ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "avanzado",
+          "score": 1
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
         }
       ]
     },
@@ -362,40 +385,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El mapa de los anuncios de pisos turísticos, calle a calle: zonas al límite, aun",
-      "score": 5.25,
-      "words": [
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "oferta",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-25T18:58:33Z",
-      "score": 4.48
-    },
     {
       "timestamp": "2026-03-25T19:50:17Z",
       "score": 4.62
@@ -1063,6 +1055,10 @@
     {
       "timestamp": "2026-04-04T09:35:03Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-04-04T10:30:45Z",
+      "score": 4.66
     }
   ]
 }

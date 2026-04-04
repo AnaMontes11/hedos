@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-04T21:29:06Z",
-  "global_score": 4.6,
+  "generated": "2026-04-04T22:27:17Z",
+  "global_score": 4.62,
   "articles_scored": 94,
-  "words_matched": 263,
+  "words_matched": 271,
   "top_negative": [
     {
       "word": "negro",
@@ -63,11 +63,11 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "riguroso",
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "maravilla",
       "score": 3
     }
   ],
@@ -77,14 +77,29 @@
     "El Mundo": 3.69,
     "ABC": 5.11,
     "El Confidencial": 5.0,
-    "BBC Mundo": 4.75,
-    "France 24 ES": 4.19,
-    "La Nación AR": 4.78,
+    "BBC Mundo": 4.78,
+    "France 24 ES": 4.45,
+    "La Nación AR": 4.64,
     "La Jornada MX": 5.12,
     "Desinformémonos": 4.08,
     "Resumen Latinoam.": 4.47
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Estados Unidos redobla los esfuerzos para rescatar al aviador desaparecido un dí",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "desaparecido",
+          "score": -2
+        },
+        {
+          "word": "recompensa",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
@@ -109,21 +124,6 @@
         {
           "word": "ataque",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos redobla los esfuerzos para rescatar al aviador desaparecido un dí",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "desaparecido",
-          "score": -2
-        },
-        {
-          "word": "recompensa",
-          "score": 2
         }
       ]
     },
@@ -220,11 +220,11 @@
     },
     {
       "source": "El País",
-      "title": "Atlético de Madrid – FC Barcelona | El Barcelona remonta al Atlético y se pone a",
+      "title": "El Barça da un golpe de rebote a la Liga",
       "score": 3.4,
       "words": [
         {
-          "word": "expulsado",
+          "word": "golpe",
           "score": -2
         }
       ]
@@ -404,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-26T13:09:15Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-03-26T15:01:46Z",
       "score": 4.65
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-04T21:29:06Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-04-04T22:27:17Z",
+      "score": 4.62
     }
   ]
 }

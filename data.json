@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-04T13:51:35Z",
-  "global_score": 4.85,
-  "articles_scored": 97,
-  "words_matched": 263,
+  "generated": "2026-04-04T14:31:27Z",
+  "global_score": 4.78,
+  "articles_scored": 94,
+  "words_matched": 265,
   "top_negative": [
     {
       "word": "culo",
@@ -47,6 +47,10 @@
       "score": 4
     },
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "brillante",
       "score": 4
     },
@@ -65,23 +69,19 @@
     {
       "word": "riqueza",
       "score": 3
-    },
-    {
-      "word": "exitoso",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.17,
     "elDiario.es": 4.9,
-    "El Mundo": 4.0,
-    "ABC": 5.81,
-    "El Confidencial": 4.7,
+    "El Mundo": 4.08,
+    "ABC": 5.47,
+    "El Confidencial": 4.6,
     "BBC Mundo": 4.78,
     "France 24 ES": 4.42,
-    "La Nación AR": 5.46,
+    "La Nación AR": 5.22,
     "La Jornada MX": 5.12,
-    "Desinformémonos": 4.29,
+    "Desinformémonos": 4.2,
     "Resumen Latinoam.": 4.59
   },
   "articles": [
@@ -400,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-25T22:33:34Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-03-25T23:32:06Z",
       "score": 4.59
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-04-04T13:51:35Z",
       "score": 4.85
+    },
+    {
+      "timestamp": "2026-04-04T14:31:27Z",
+      "score": 4.78
     }
   ]
 }

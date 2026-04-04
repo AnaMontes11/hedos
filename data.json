@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-04T22:27:17Z",
-  "global_score": 4.62,
+  "generated": "2026-04-04T23:29:06Z",
+  "global_score": 4.77,
   "articles_scored": 94,
   "words_matched": 271,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "infierno",
       "score": -4
@@ -34,6 +30,10 @@
     },
     {
       "word": "perdiendo",
+      "score": -3
+    },
+    {
+      "word": "cubrir",
       "score": -3
     }
   ],
@@ -63,7 +63,7 @@
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "amor",
       "score": 3
     },
     {
@@ -75,14 +75,14 @@
     "El País": 4.46,
     "elDiario.es": 4.76,
     "El Mundo": 3.69,
-    "ABC": 5.11,
+    "ABC": 5.25,
     "El Confidencial": 5.0,
     "BBC Mundo": 4.78,
     "France 24 ES": 4.45,
-    "La Nación AR": 4.64,
+    "La Nación AR": 5.6,
     "La Jornada MX": 5.12,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 4.47
+    "Resumen Latinoam.": 5.26
   },
   "articles": [
     {
@@ -404,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-26T15:01:46Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-03-26T16:58:25Z",
       "score": 4.62
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-04T22:27:17Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-04-04T23:29:06Z",
+      "score": 4.77
     }
   ]
 }

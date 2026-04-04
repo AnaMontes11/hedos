@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-04T06:59:14Z",
+  "generated": "2026-04-04T07:52:52Z",
   "global_score": 4.61,
-  "articles_scored": 90,
+  "articles_scored": 92,
   "words_matched": 330,
   "top_negative": [
     {
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
+      "word": "destruir",
+      "score": -3
+    },
+    {
       "word": "enemigos",
       "score": -3
     },
     {
       "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "destruye",
       "score": -3
     }
   ],
@@ -44,6 +44,10 @@
     },
     {
       "word": "brillante",
+      "score": 4
+    },
+    {
+      "word": "bendición",
       "score": 4
     },
     {
@@ -63,26 +67,22 @@
       "score": 4
     },
     {
-      "word": "perfectamente",
-      "score": 3
-    },
-    {
-      "word": "celebrando",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.38,
-    "elDiario.es": 4.8,
+    "El País": 5.35,
+    "elDiario.es": 4.76,
     "El Mundo": 4.33,
-    "ABC": 4.83,
-    "El Confidencial": 4.9,
-    "BBC Mundo": 4.7,
+    "ABC": 5.35,
+    "El Confidencial": 4.5,
+    "BBC Mundo": 4.59,
     "France 24 ES": 4.23,
-    "La Nación AR": 4.72,
+    "La Nación AR": 4.84,
     "La Jornada MX": 4.0,
     "Desinformémonos": 4.29,
-    "Resumen Latinoam.": 4.35
+    "Resumen Latinoam.": 4.14
   },
   "articles": [
     {
@@ -102,16 +102,20 @@
     },
     {
       "source": "El País",
-      "title": "Estados Unidos rescata a un piloto del primer avión derribado por Irán en la gue",
-      "score": 5.0,
+      "title": "España, Alemania, Italia, Austria y Portugal piden a Bruselas un impuesto a los ",
+      "score": 4.73,
       "words": [
+        {
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "beneficios",
+          "score": 2
+        },
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "recompensa",
-          "score": 2
         }
       ]
     },
@@ -334,6 +338,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Guerra en Irán, última hora del ataque de EEUU e Israel en directo",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "desaparecido",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "De las bombas de racimo a los misiles Tomahawk: análisis visual del armamento ut",
       "score": 4.29,
       "words": [
@@ -358,40 +389,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La escalada militar reabre el debate de la soberanía alimentaria en Europa: \"Viv",
-      "score": 4.7,
-      "words": [
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-25T14:56:26Z",
-      "score": 4.44
-    },
     {
       "timestamp": "2026-03-25T16:10:54Z",
       "score": 4.58
@@ -1058,6 +1058,10 @@
     },
     {
       "timestamp": "2026-04-04T06:59:14Z",
+      "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-04T07:52:52Z",
       "score": 4.61
     }
   ]

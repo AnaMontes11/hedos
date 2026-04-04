@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-04T19:29:21Z",
-  "global_score": 4.68,
-  "articles_scored": 94,
-  "words_matched": 263,
+  "generated": "2026-04-04T20:27:50Z",
+  "global_score": 4.48,
+  "articles_scored": 84,
+  "words_matched": 245,
   "top_negative": [
     {
       "word": "negro",
@@ -47,10 +47,6 @@
       "score": 4
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
       "word": "triunfo",
       "score": 4
     },
@@ -59,30 +55,33 @@
       "score": 4
     },
     {
-      "word": "admira",
-      "score": 3
-    },
-    {
       "word": "riqueza",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "caro",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.53,
+    "El País": 4.28,
     "elDiario.es": 4.76,
     "El Mundo": 3.7,
-    "ABC": 5.34,
     "El Confidencial": 5.0,
     "BBC Mundo": 4.75,
     "France 24 ES": 4.11,
-    "La Nación AR": 4.99,
+    "La Nación AR": 3.98,
     "La Jornada MX": 5.12,
     "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 4.64
+    "Resumen Latinoam.": 4.47
   },
   "articles": [
     {
@@ -139,6 +138,25 @@
         {
           "word": "destruye",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La policía arresta a 17 personas en la mayor manifestación en Israel contra la g",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "protesta",
+          "score": -2
         }
       ]
     },
@@ -201,6 +219,21 @@
     },
     {
       "source": "El País",
+      "title": "Atlético de Madrid – FC Barcelona | Rashford hace el empate tras el gol de Giuli",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "expulsado",
+          "score": -2
+        },
+        {
+          "word": "defensor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El Real Madrid da otro salto al vacío en Liga con la derrota en el descuento en ",
       "score": 4.2,
       "words": [
@@ -211,17 +244,6 @@
         {
           "word": "descuento",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Aitana confiesa ante Rosalía y todo el público de Madrid que Sebastián Yatra no ",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "fiel",
-          "score": 3
         }
       ]
     },
@@ -386,40 +408,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "De las bombas de racimo a los misiles Tomahawk: análisis visual del armamento ut",
-      "score": 4.29,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "enemigos",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-26T09:59:05Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-03-26T11:02:13Z",
       "score": 4.76
@@ -1087,6 +1078,10 @@
     {
       "timestamp": "2026-04-04T19:29:21Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-04-04T20:27:50Z",
+      "score": 4.48
     }
   ]
 }

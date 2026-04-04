@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-04T08:38:04Z",
-  "global_score": 4.61,
-  "articles_scored": 92,
-  "words_matched": 327,
+  "generated": "2026-04-04T09:35:03Z",
+  "global_score": 4.65,
+  "articles_scored": 94,
+  "words_matched": 288,
   "top_negative": [
     {
       "word": "culo",
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
+      "word": "crisis",
+      "score": -3
+    },
+    {
       "word": "destruir",
       "score": -3
     },
     {
       "word": "enemigos",
-      "score": -3
-    },
-    {
-      "word": "vil",
       "score": -3
     }
   ],
@@ -44,14 +44,6 @@
     },
     {
       "word": "brillante",
-      "score": 4
-    },
-    {
-      "word": "bendición",
-      "score": 4
-    },
-    {
-      "word": "milagro",
       "score": 4
     },
     {
@@ -67,22 +59,30 @@
       "score": 4
     },
     {
-      "word": "celebra",
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.35,
-    "elDiario.es": 4.76,
-    "El Mundo": 4.39,
-    "ABC": 5.26,
+    "elDiario.es": 4.78,
+    "El Mundo": 4.35,
+    "ABC": 5.21,
     "El Confidencial": 4.8,
-    "BBC Mundo": 4.59,
+    "BBC Mundo": 4.88,
     "France 24 ES": 4.23,
-    "La Nación AR": 4.55,
+    "La Nación AR": 4.62,
     "La Jornada MX": 4.0,
     "Desinformémonos": 4.29,
-    "Resumen Latinoam.": 4.14
+    "Resumen Latinoam.": 4.4
   },
   "articles": [
     {
@@ -284,6 +284,60 @@
     },
     {
       "source": "elDiario.es",
+      "title": "España se une a otros cuatro países europeos para exigir a la UE un impuesto a l",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "beneficios",
+          "score": 2
+        },
+        {
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "beneficios",
+          "score": 2
+        },
+        {
+          "word": "justa",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Guerra en Irán, última hora del ataque de EEUU e Israel en directo",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "desaparecido",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Un acuerdo necesario en una coyuntura propicia para la izquierda",
       "score": 5.38,
       "words": [
@@ -335,67 +389,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Guerra en Irán, última hora del ataque de EEUU e Israel en directo",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "desaparecido",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "De las bombas de racimo a los misiles Tomahawk: análisis visual del armamento ut",
-      "score": 4.29,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "enemigos",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-25T17:56:54Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-03-25T18:58:33Z",
       "score": 4.48
@@ -1063,6 +1059,10 @@
     {
       "timestamp": "2026-04-04T08:38:04Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-04T09:35:03Z",
+      "score": 4.65
     }
   ]
 }

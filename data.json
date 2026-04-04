@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-04T17:27:18Z",
-  "global_score": 4.78,
-  "articles_scored": 94,
-  "words_matched": 280,
+  "generated": "2026-04-04T18:38:05Z",
+  "global_score": 4.58,
+  "articles_scored": 91,
+  "words_matched": 288,
   "top_negative": [
     {
       "word": "negro",
@@ -47,15 +47,7 @@
       "score": 4
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "brillante",
-      "score": 4
-    },
-    {
-      "word": "alegría",
       "score": 4
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "admira",
       "score": 3
+    },
+    {
+      "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "emoción",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.64,
+    "El País": 4.47,
     "elDiario.es": 4.81,
-    "El Mundo": 3.7,
-    "ABC": 5.33,
+    "El Mundo": 3.5,
+    "ABC": 4.87,
     "El Confidencial": 5.29,
     "BBC Mundo": 4.78,
-    "France 24 ES": 4.44,
-    "La Nación AR": 5.83,
+    "France 24 ES": 4.32,
+    "La Nación AR": 3.89,
     "La Jornada MX": 5.12,
     "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 4.5
+    "Resumen Latinoam.": 4.45
   },
   "articles": [
     {
@@ -109,6 +109,25 @@
         {
           "word": "muerto",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Estados Unidos redobla los esfuerzos para rescatar al aviador desaparecido un dí",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "desaparecido",
+          "score": -2
+        },
+        {
+          "word": "fuga",
+          "score": -1
+        },
+        {
+          "word": "recompensa",
+          "score": 2
         }
       ]
     },
@@ -187,7 +206,7 @@
     {
       "source": "El País",
       "title": "El Real Madrid da otro salto al vacío en Liga con la derrota en el descuento en ",
-      "score": 3.93,
+      "score": 4.2,
       "words": [
         {
           "word": "vacío",
@@ -196,10 +215,6 @@
         {
           "word": "descuento",
           "score": -1
-        },
-        {
-          "word": "pobre",
-          "score": -2
         }
       ]
     },
@@ -234,17 +249,6 @@
         {
           "word": "amenaza",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Primeras imágenes de la Tierra de Artemis 2 en su histórico viaje a la Luna: aur",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "sol",
-          "score": 2
         }
       ]
     },
@@ -412,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-26T07:05:01Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-03-26T08:52:28Z",
       "score": 4.66
@@ -1083,6 +1083,10 @@
     {
       "timestamp": "2026-04-04T17:27:18Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-04-04T18:38:05Z",
+      "score": 4.58
     }
   ]
 }

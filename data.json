@@ -1,11 +1,23 @@
 {
-  "generated": "2026-04-05T02:10:47Z",
-  "global_score": 4.62,
-  "articles_scored": 97,
-  "words_matched": 271,
+  "generated": "2026-04-05T05:09:54Z",
+  "global_score": 4.72,
+  "articles_scored": 96,
+  "words_matched": 343,
   "top_negative": [
     {
+      "word": "negro",
+      "score": -5
+    },
+    {
       "word": "infierno",
+      "score": -4
+    },
+    {
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "molesto",
       "score": -4
     },
     {
@@ -17,41 +29,21 @@
       "score": -4
     },
     {
-      "word": "destruye",
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "enemigos",
-      "score": -3
-    },
-    {
-      "word": "perdiendo",
-      "score": -3
-    },
-    {
-      "word": "cubrir",
-      "score": -3
-    },
-    {
-      "word": "destruir",
+      "word": "crisis",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
       "word": "eufórico",
       "score": 4
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
+      "word": "alegría",
       "score": 4
     },
     {
@@ -63,23 +55,31 @@
       "score": 3
     },
     {
-      "word": "maravilla",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "emoción",
+      "score": 3
+    },
+    {
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.47,
-    "elDiario.es": 4.76,
+    "El País": 4.18,
+    "elDiario.es": 4.61,
     "El Mundo": 4.44,
-    "ABC": 5.25,
-    "El Confidencial": 5.0,
-    "BBC Mundo": 5.02,
+    "ABC": 5.63,
+    "El Confidencial": 4.9,
+    "BBC Mundo": 4.9,
     "France 24 ES": 4.49,
-    "La Nación AR": 4.0,
+    "La Nación AR": 5.36,
     "La Jornada MX": 5.12,
     "Desinformémonos": 4.08,
     "Resumen Latinoam.": 4.07
@@ -87,39 +87,57 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Estados Unidos redobla los esfuerzos para rescatar al aviador desaparecido un dí",
-      "score": 5.0,
+      "title": "La trama de las mascarillas se sienta en el banquillo: Ábalos ante su primer jui",
+      "score": 3.4,
       "words": [
         {
-          "word": "desaparecido",
+          "word": "pena",
           "score": -2
-        },
-        {
-          "word": "recompensa",
-          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 3.74,
+      "title": "La gran pregunta que marca el juicio de Kitchen e impacta en el PP: ¿quién orden",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "boicotear",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Más allá de las acusaciones",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 5.27,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "advierte",
-          "score": -2
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "riesgos",
-          "score": -2
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "ataques",
-          "score": -1
+          "word": "celebra",
+          "score": 3
         },
         {
           "word": "llegar",
@@ -129,50 +147,92 @@
     },
     {
       "source": "El País",
-      "title": "El ejército israelí recrudece los ataques a Hezbolá y destruye edificios residen",
+      "title": "Estados Unidos necesita a Europa y a la OTAN, pese a la embestida de Trump",
       "score": 3.4,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
+          "word": "abandonar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Pete Hegseth, el secretario de Defensa en guerra contra el Pentágono",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "destruye",
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Teresa Nieves-Chinchilla, directora de meteorología espacial de la NASA: “El pri",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La maquinaria corrupta de Ábalos, Koldo García y Aldama exprimió el dinero públi",
+      "score": 5.06,
+      "words": [
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "crisis",
           "score": -3
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "La policía arresta a 17 personas en la mayor manifestación en Israel contra la g",
-      "score": 4.73,
+      "source": "elDiario.es",
+      "title": "'Caso Ábalos: la tríada de la corrupción': un documental de elDiario.es sobre el",
+      "score": 3.56,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "peor",
+          "score": -3
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "protesta",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "España, Alemania, Italia, Austria y Portugal piden a Bruselas un impuesto a los ",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "impuesto",
+          "word": "interrogatorio",
           "score": -1
         },
         {
-          "word": "beneficios",
-          "score": 2
+          "word": "renuncia",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "guerra",
@@ -181,21 +241,106 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Pam Bondi, la fiscal general que se enredó en el ‘caso Epstein’",
-      "score": 4.0,
+      "source": "elDiario.es",
+      "title": "Ábalos, desde prisión: \"La Fiscalía solicitó todos los delitos posibles y su máx",
+      "score": 4.61,
       "words": [
         {
-          "word": "caído",
+          "word": "prisión",
           "score": -2
         },
         {
-          "word": "desgracia",
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "prisión",
           "score": -2
         },
         {
-          "word": "justicia",
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "asegura",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El pacto de última hora de IU y Podemos en Andalucía, una solución de urgencia q",
+      "score": 4.89,
+      "words": [
+        {
+          "word": "solución",
+          "score": 1
+        },
+        {
+          "word": "solución",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "evita",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las promesas rotas del 'America First': la subida del gasto militar que Trump qu",
+      "score": 4.52,
+      "words": [
+        {
+          "word": "promesas",
+          "score": 1
+        },
+        {
+          "word": "impulsar",
+          "score": 1
+        },
+        {
+          "word": "promesas",
+          "score": 1
+        },
+        {
+          "word": "impulsar",
+          "score": 1
+        },
+        {
+          "word": "aumentar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De las bombas de racimo a los misiles Tomahawk: análisis visual del armamento ut",
+      "score": 4.29,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
         },
         {
           "word": "enemigos",
@@ -204,210 +349,61 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Presión pública, contactos secretos: la doble estrategia de Trump hacia Cuba",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Barça da un golpe de rebote a la Liga",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "golpe",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Aitana confiesa ante Rosalía y todo el público de Madrid que Sebastián Yatra no ",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "fiel",
-          "score": 3
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "El informe que muestra que Ayuso regaló millones a la sanidad privada: \"71.653.0",
-      "score": 4.41,
-      "words": [
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "perdiendo",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La derecha replica estrategias de bloqueo en el Constitucional y el Poder Judici",
-      "score": 5.35,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo y Abascal volvieron a hablar tras las elecciones de Castilla y León para ",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "alcanzar",
-          "score": 1
-        },
-        {
-          "word": "avanzado",
-          "score": 1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "alcanzar",
-          "score": 1
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Guerra en Irán, última hora del ataque de EEUU e Israel en directo",
-      "score": 3.67,
+      "title": "Una extensa red de opacos contactos y el control del estrecho de Ormuz alimentan",
+      "score": 4.52,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "ataque",
-          "score": -1
-        },
-        {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "ataque",
-          "score": -1
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "desaparecido",
+          "word": "colapsado",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "España se une a otros cuatro países europeos para exigir a la UE un impuesto a l",
-      "score": 4.95,
+      "title": "De internautas a usuarios: ¿en qué momento internet dejó de ser un sitio al que ",
+      "score": 5.06,
       "words": [
         {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "beneficios",
+          "word": "posibilidades",
           "score": 2
         },
         {
-          "word": "impuesto",
-          "score": -1
+          "word": "tiempo",
+          "score": -2
         },
         {
-          "word": "beneficios",
+          "word": "seguro",
           "score": 2
         },
         {
-          "word": "justa",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El mapa de los anuncios de pisos turísticos, calle a calle: zonas al límite, aun",
-      "score": 5.25,
-      "words": [
+          "word": "tiempo",
+          "score": -2
+        },
         {
-          "word": "presión",
+          "word": "mito",
           "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "oferta",
-          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-26T18:02:33Z",
-      "score": 4.68
-    },
     {
       "timestamp": "2026-03-26T19:53:16Z",
       "score": 4.88
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-05T02:10:47Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-04-05T05:09:54Z",
+      "score": 4.72
     }
   ]
 }

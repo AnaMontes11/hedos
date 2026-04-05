@@ -1,11 +1,15 @@
 {
-  "generated": "2026-04-05T05:09:54Z",
-  "global_score": 4.72,
-  "articles_scored": 96,
-  "words_matched": 343,
+  "generated": "2026-04-05T07:02:48Z",
+  "global_score": 4.56,
+  "articles_scored": 95,
+  "words_matched": 336,
   "top_negative": [
     {
       "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "pinchazo",
       "score": -5
     },
     {
@@ -30,10 +34,6 @@
     },
     {
       "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "crisis",
       "score": -3
     }
   ],
@@ -73,13 +73,13 @@
   ],
   "per_source": {
     "El País": 4.18,
-    "elDiario.es": 4.61,
-    "El Mundo": 4.44,
-    "ABC": 5.63,
+    "elDiario.es": 4.53,
+    "El Mundo": 4.34,
+    "ABC": 5.84,
     "El Confidencial": 4.9,
     "BBC Mundo": 4.9,
     "France 24 ES": 4.49,
-    "La Nación AR": 5.36,
+    "La Nación AR": 3.26,
     "La Jornada MX": 5.12,
     "Desinformémonos": 4.08,
     "Resumen Latinoam.": 4.07
@@ -120,7 +120,7 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo| Tru",
       "score": 5.27,
       "words": [
         {
@@ -147,17 +147,6 @@
     },
     {
       "source": "El País",
-      "title": "Estados Unidos necesita a Europa y a la OTAN, pese a la embestida de Trump",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "abandonar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Pete Hegseth, el secretario de Defensa en guerra contra el Pentágono",
       "score": 5.4,
       "words": [
@@ -168,6 +157,17 @@
         {
           "word": "mayor",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Estados Unidos necesita a Europa y a la OTAN, pese a la embestida de Trump",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "abandonar",
+          "score": -2
         }
       ]
     },
@@ -296,6 +296,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Guerra en Irán, última hora del ataque de EEUU e Israel en directo",
+      "score": 3.91,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "desaparecido",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Las promesas rotas del 'America First': la subida del gasto militar que Trump qu",
       "score": 4.52,
       "words": [
@@ -350,33 +377,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Una extensa red de opacos contactos y el control del estrecho de Ormuz alimentan",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "colapsado",
-          "score": -2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "De internautas a usuarios: ¿en qué momento internet dejó de ser un sitio al que ",
       "score": 5.06,
       "words": [
@@ -404,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-26T19:53:16Z",
-      "score": 4.88
-    },
     {
       "timestamp": "2026-03-26T20:33:27Z",
       "score": 4.82
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-05T05:09:54Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-04-05T07:02:48Z",
+      "score": 4.56
     }
   ]
 }

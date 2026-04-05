@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-05T15:29:47Z",
-  "global_score": 4.65,
-  "articles_scored": 91,
-  "words_matched": 290,
+  "generated": "2026-04-05T16:34:09Z",
+  "global_score": 4.54,
+  "articles_scored": 94,
+  "words_matched": 292,
   "top_negative": [
     {
       "word": "culo",
@@ -21,6 +21,10 @@
       "score": -3
     },
     {
+      "word": "peor",
+      "score": -3
+    },
+    {
       "word": "falso",
       "score": -3
     },
@@ -30,10 +34,6 @@
     },
     {
       "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "desesperadamente",
       "score": -3
     }
   ],
@@ -47,10 +47,6 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
@@ -59,27 +55,31 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "maravillas",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "espléndido",
       "score": 3
     },
     {
       "word": "perfectamente",
       "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.54,
+    "El País": 4.26,
     "elDiario.es": 4.48,
-    "El Mundo": 4.78,
-    "ABC": 5.38,
+    "El Mundo": 4.56,
+    "ABC": 5.26,
     "El Confidencial": 4.76,
     "BBC Mundo": 4.92,
-    "France 24 ES": 4.41,
-    "La Nación AR": 4.33,
+    "France 24 ES": 4.49,
+    "La Nación AR": 3.74,
     "La Jornada MX": 4.86,
     "Desinformémonos": 4.08,
     "Resumen Latinoam.": 4.45
@@ -136,6 +136,21 @@
     },
     {
       "source": "El País",
+      "title": "Primeros compases de una marcha fúnebre geoeconómica",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "recesión",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Pete Hegseth, el secretario de Defensa en guerra contra el Pentágono",
       "score": 5.4,
       "words": [
@@ -172,21 +187,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Teresa Nieves-Chinchilla, directora de meteorología espacial de la NASA: “El pri",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "La guerra contra Irán y la Edad de Piedra",
       "score": 4.38,
@@ -216,7 +216,7 @@
     {
       "source": "elDiario.es",
       "title": "Qué sabemos sobre la operación de rescate de EEUU del segundo aviador del caza d",
-      "score": 4.61,
+      "score": 4.59,
       "words": [
         {
           "word": "rescate",
@@ -404,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-27T09:52:42Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-03-27T10:44:55Z",
       "score": 4.81
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-05T15:29:47Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-04-05T16:34:09Z",
+      "score": 4.54
     }
   ]
 }

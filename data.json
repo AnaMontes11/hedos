@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-05T18:40:05Z",
-  "global_score": 4.66,
-  "articles_scored": 98,
-  "words_matched": 298,
+  "generated": "2026-04-05T19:31:47Z",
+  "global_score": 4.71,
+  "articles_scored": 96,
+  "words_matched": 300,
   "top_negative": [
     {
       "word": "culo",
@@ -59,15 +59,15 @@
       "score": 3
     },
     {
-      "word": "leal",
-      "score": 3
-    },
-    {
-      "word": "impresiona",
-      "score": 3
-    },
-    {
       "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     }
   ],
@@ -75,14 +75,14 @@
     "El País": 4.13,
     "elDiario.es": 4.55,
     "El Mundo": 4.64,
-    "ABC": 5.3,
-    "El Confidencial": 5.17,
+    "ABC": 5.11,
+    "El Confidencial": 4.68,
     "BBC Mundo": 4.92,
-    "France 24 ES": 4.98,
-    "La Nación AR": 4.56,
+    "France 24 ES": 5.04,
+    "La Nación AR": 5.39,
     "La Jornada MX": 4.86,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 4.13
+    "Resumen Latinoam.": 4.34
   },
   "articles": [
     {
@@ -392,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-27T13:00:57Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-03-27T14:46:36Z",
       "score": 4.82
@@ -1063,6 +1059,10 @@
     {
       "timestamp": "2026-04-05T18:40:05Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-04-05T19:31:47Z",
+      "score": 4.71
     }
   ]
 }

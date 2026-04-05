@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-05T08:40:03Z",
-  "global_score": 4.53,
-  "articles_scored": 92,
-  "words_matched": 354,
+  "generated": "2026-04-05T09:36:33Z",
+  "global_score": 4.59,
+  "articles_scored": 93,
+  "words_matched": 350,
   "top_negative": [
     {
       "word": "negro",
@@ -43,16 +43,16 @@
       "score": 4
     },
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
       "word": "triunfo",
       "score": 4
     },
     {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "alegre",
+      "score": 3
     },
     {
       "word": "riqueza",
@@ -67,57 +67,24 @@
       "score": 3
     },
     {
-      "word": "lealtad",
+      "word": "excelente",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.18,
-    "elDiario.es": 4.54,
-    "El Mundo": 4.34,
-    "ABC": 4.92,
+    "elDiario.es": 4.58,
+    "El Mundo": 4.47,
+    "ABC": 4.5,
     "El Confidencial": 4.73,
-    "BBC Mundo": 5.03,
+    "BBC Mundo": 4.73,
     "France 24 ES": 4.49,
-    "La Nación AR": 4.41,
+    "La Nación AR": 4.81,
     "La Jornada MX": 5.12,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 4.05
+    "Resumen Latinoam.": 4.75
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "La trama de las mascarillas se sienta en el banquillo: Ábalos ante su primer jui",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "pena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La gran pregunta que marca el juicio de Kitchen e impacta en el PP: ¿quién orden",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "boicotear",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Más allá de las acusaciones",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo| Tru",
@@ -167,6 +134,39 @@
       "words": [
         {
           "word": "abandonar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La trama de las mascarillas se sienta en el banquillo: Ábalos ante su primer jui",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "pena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La gran pregunta que marca el juicio de Kitchen e impacta en el PP: ¿quién orden",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "boicotear",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Más allá de las acusaciones",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusaciones",
           "score": -2
         }
       ]
@@ -404,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-26T21:29:28Z",
-      "score": 4.88
-    },
     {
       "timestamp": "2026-03-26T22:27:16Z",
       "score": 4.86
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-05T08:40:03Z",
       "score": 4.53
+    },
+    {
+      "timestamp": "2026-04-05T09:36:33Z",
+      "score": 4.59
     }
   ]
 }

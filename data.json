@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-05T11:27:20Z",
-  "global_score": 4.79,
-  "articles_scored": 91,
-  "words_matched": 340,
+  "generated": "2026-04-05T12:52:49Z",
+  "global_score": 4.78,
+  "articles_scored": 92,
+  "words_matched": 338,
   "top_negative": [
     {
       "word": "fraude",
@@ -39,11 +39,7 @@
   ],
   "top_positive": [
     {
-      "word": "bendición",
-      "score": 4
-    },
-    {
-      "word": "milagro",
+      "word": "brillante",
       "score": 4
     },
     {
@@ -55,34 +51,38 @@
       "score": 4
     },
     {
-      "word": "alegre",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "celebra",
+      "word": "brillar",
       "score": 3
     },
     {
       "word": "excelente",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
     "El País": 4.26,
-    "elDiario.es": 4.61,
-    "El Mundo": 4.9,
-    "ABC": 5.53,
-    "El Confidencial": 4.7,
-    "BBC Mundo": 4.73,
+    "elDiario.es": 4.7,
+    "El Mundo": 4.93,
+    "ABC": 5.38,
+    "El Confidencial": 4.9,
+    "BBC Mundo": 4.92,
     "France 24 ES": 4.56,
-    "La Nación AR": 5.04,
+    "La Nación AR": 5.48,
     "La Jornada MX": 4.86,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 5.15
+    "Resumen Latinoam.": 4.43
   },
   "articles": [
     {
@@ -261,6 +261,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "José Luis Villacañas: “Trump no es un loco, hay un plan, una estrategia y un obj",
+      "score": 4.49,
+      "words": [
+        {
+          "word": "loco",
+          "score": -2
+        },
+        {
+          "word": "loco",
+          "score": -2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "prisión",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Pradales insiste a Sánchez: \"¿Sacaron a Franco de su tumba y no son capaces de t",
       "score": 4.62,
       "words": [
@@ -288,28 +315,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "José Luis Villacañas: “Trump no es un loco, hay un plan, una estrategia y un obj",
-      "score": 4.49,
+      "title": "El Aberri Eguna muestra la distancia física y política entre PNV y EH Bildu, con",
+      "score": 5.37,
       "words": [
         {
-          "word": "loco",
+          "word": "carga",
           "score": -2
         },
         {
-          "word": "loco",
+          "word": "tumba",
           "score": -2
         },
         {
-          "word": "evitar",
-          "score": -1
+          "word": "sentido",
+          "score": 3
         },
         {
-          "word": "derecho",
+          "word": "criticar",
+          "score": -2
+        },
+        {
+          "word": "querer",
           "score": 1
-        },
-        {
-          "word": "prisión",
-          "score": -2
         }
       ]
     },
@@ -366,40 +393,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "De internautas a usuarios: ¿en qué momento internet dejó de ser un sitio al que ",
-      "score": 5.06,
-      "words": [
-        {
-          "word": "posibilidades",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "seguro",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "mito",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-27T02:06:24Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-03-27T05:05:09Z",
       "score": 4.72
@@ -1067,6 +1063,10 @@
     {
       "timestamp": "2026-04-05T11:27:20Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-04-05T12:52:49Z",
+      "score": 4.78
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-05T20:29:52Z",
-  "global_score": 4.72,
-  "articles_scored": 95,
-  "words_matched": 310,
+  "generated": "2026-04-05T21:29:16Z",
+  "global_score": 4.71,
+  "articles_scored": 94,
+  "words_matched": 307,
   "top_negative": [
     {
       "word": "culo",
@@ -55,7 +55,7 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "exitoso",
       "score": 3
     },
     {
@@ -74,15 +74,15 @@
   "per_source": {
     "El País": 4.13,
     "elDiario.es": 4.55,
-    "El Mundo": 4.64,
-    "ABC": 5.33,
+    "El Mundo": 4.92,
+    "ABC": 5.39,
     "El Confidencial": 4.68,
-    "BBC Mundo": 4.92,
-    "France 24 ES": 5.08,
-    "La Nación AR": 4.83,
+    "BBC Mundo": 4.63,
+    "France 24 ES": 4.71,
+    "La Nación AR": 5.21,
     "La Jornada MX": 4.86,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 4.63
+    "Resumen Latinoam.": 4.49
   },
   "articles": [
     {
@@ -392,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-27T15:51:25Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-03-27T16:52:34Z",
       "score": 4.68
@@ -1063,6 +1059,10 @@
     {
       "timestamp": "2026-04-05T20:29:52Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-04-05T21:29:16Z",
+      "score": 4.71
     }
   ]
 }

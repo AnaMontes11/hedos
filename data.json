@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-06T18:55:32Z",
-  "global_score": 4.67,
-  "articles_scored": 97,
-  "words_matched": 244,
+  "generated": "2026-04-06T19:51:58Z",
+  "global_score": 4.65,
+  "articles_scored": 96,
+  "words_matched": 242,
   "top_negative": [
     {
       "word": "puto",
@@ -39,16 +39,16 @@
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "brillante",
       "score": 4
     },
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "celebrando",
-      "score": 3
     },
     {
       "word": "visionario",
@@ -72,54 +72,27 @@
     }
   ],
   "per_source": {
-    "El País": 5.09,
+    "El País": 5.12,
     "elDiario.es": 4.66,
-    "El Mundo": 4.71,
-    "ABC": 5.33,
+    "El Mundo": 4.87,
+    "ABC": 5.12,
     "El Confidencial": 4.31,
     "BBC Mundo": 4.37,
-    "France 24 ES": 4.4,
-    "La Nación AR": 4.4,
+    "France 24 ES": 4.0,
+    "La Nación AR": 4.27,
     "La Jornada MX": 4.66,
     "Desinformémonos": 5.06,
-    "Resumen Latinoam.": 4.42
+    "Resumen Latinoam.": 4.72
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.0,
+      "title": "Trump, sobre el ultimátum a Irán: “Podemos destruir un país entero en una noche ",
+      "score": 5.27,
       "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
         {
           "word": "destruir",
           "score": -3
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Irán rechaza un alto el fuego temporal y Trump avisa de que no prorrogará su ult",
-      "score": 5.23,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
         },
         {
           "word": "solo",
@@ -132,6 +105,33 @@
         {
           "word": "paz",
           "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "sufrir",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
@@ -404,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-28T09:35:01Z",
-      "score": 4.87
-    },
     {
       "timestamp": "2026-03-28T10:29:28Z",
       "score": 4.91
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-06T18:55:32Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-04-06T19:51:58Z",
+      "score": 4.65
     }
   ]
 }

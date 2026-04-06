@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-06T16:42:58Z",
-  "global_score": 4.67,
-  "articles_scored": 97,
-  "words_matched": 247,
+  "generated": "2026-04-06T17:41:51Z",
+  "global_score": 4.78,
+  "articles_scored": 95,
+  "words_matched": 225,
   "top_negative": [
     {
       "word": "puto",
@@ -29,26 +29,22 @@
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
+      "word": "destruir",
+      "score": -3
     },
     {
-      "word": "crisis",
+      "word": "enemigos",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "milagro",
+      "word": "alegría",
       "score": 4
     },
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "premio",
-      "score": 3
     },
     {
       "word": "celebrando",
@@ -59,32 +55,59 @@
       "score": 3
     },
     {
-      "word": "medalla",
-      "score": 3
-    },
-    {
       "word": "celebra",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "agradable",
+      "score": 3
+    },
+    {
+      "word": "emocionante",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.86,
-    "elDiario.es": 4.77,
-    "El Mundo": 5.19,
-    "ABC": 4.93,
+    "El País": 4.74,
+    "elDiario.es": 4.63,
+    "El Mundo": 5.39,
+    "ABC": 5.04,
     "El Confidencial": 4.31,
     "BBC Mundo": 4.13,
-    "France 24 ES": 4.7,
-    "La Nación AR": 4.59,
+    "France 24 ES": 4.51,
+    "La Nación AR": 5.71,
     "La Jornada MX": 4.66,
-    "Desinformémonos": 4.86,
-    "Resumen Latinoam.": 4.31
+    "Desinformémonos": 5.06,
+    "Resumen Latinoam.": 4.87
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Irán rechaza un alto el fuego temporal y Trump avisa de que no prorrogará su ult",
@@ -109,29 +132,6 @@
         {
           "word": "paz",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
         }
       ]
     },
@@ -214,6 +214,33 @@
         {
           "word": "exploración",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump, sobre Irán: \"Todo el país puede ser tomado en una noche, y esa noche podr",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -378,40 +405,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Bárcenas denuncia ante el tribunal de Kitchen que fue sometido a un “cacheo inte",
-      "score": 4.32,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-28T07:44:04Z",
-      "score": 4.99
-    },
     {
       "timestamp": "2026-03-28T08:36:11Z",
       "score": 4.98
@@ -1079,6 +1075,10 @@
     {
       "timestamp": "2026-04-06T16:42:58Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-04-06T17:41:51Z",
+      "score": 4.78
     }
   ]
 }

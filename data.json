@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-06T05:21:21Z",
-  "global_score": 4.69,
-  "articles_scored": 93,
+  "generated": "2026-04-06T07:26:21Z",
+  "global_score": 4.73,
+  "articles_scored": 94,
   "words_matched": 298,
   "top_negative": [
     {
@@ -10,10 +10,6 @@
     },
     {
       "word": "bastardos",
-      "score": -5
-    },
-    {
-      "word": "negro",
       "score": -5
     },
     {
@@ -33,25 +29,25 @@
       "score": -4
     },
     {
+      "word": "fraudes",
+      "score": -4
+    },
+    {
       "word": "advertencias",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "caro",
+      "word": "visionario",
       "score": 3
     },
     {
-      "word": "visionario",
+      "word": "excelencia",
       "score": 3
     },
     {
@@ -69,17 +65,21 @@
     {
       "word": "celebrando",
       "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.75,
-    "elDiario.es": 4.75,
-    "El Mundo": 4.9,
-    "ABC": 5.24,
+    "El País": 4.77,
+    "elDiario.es": 4.77,
+    "El Mundo": 4.83,
+    "ABC": 5.12,
     "El Confidencial": 5.02,
     "BBC Mundo": 4.5,
     "France 24 ES": 4.44,
-    "La Nación AR": 4.3,
+    "La Nación AR": 4.9,
     "La Jornada MX": 4.86,
     "Desinformémonos": 4.08,
     "Resumen Latinoam.": 4.81
@@ -125,6 +125,29 @@
     },
     {
       "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Pa",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Trump vuelve a dar prioridad a la reapertura del estrecho de Ormuz al acercarse ",
       "score": 5.0,
       "words": [
@@ -163,20 +186,43 @@
     },
     {
       "source": "El País",
-      "title": "Bruselas ultima medidas contra la crisis energética por la guerra de Irán",
-      "score": 4.2,
+      "title": "El mercado laboral crea 211.510 empleos en el mejor marzo del registro pese a la",
+      "score": 5.4,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
+          "word": "mejor",
+          "score": 3
         },
         {
           "word": "guerra",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El mayor estudio sobre el hígado alerta de los estragos silenciosos de la mala d",
+      "score": 4.52,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "energético",
-          "score": 2
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "estragos",
+          "score": -2
+        },
+        {
+          "word": "sufre",
+          "score": -2
+        },
+        {
+          "word": "cáncer",
+          "score": -1
         }
       ]
     },
@@ -211,29 +257,6 @@
         {
           "word": "invitación",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las bajas laborales en España marcaron en 2025 otro récord sin soluciones a la v",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "soluciones",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "incapacidad",
-          "score": -2
         }
       ]
     },
@@ -398,40 +421,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Shakira construirá un estadio para 50.000 espectadores por concierto: recinto \"d",
-      "score": 5.5,
-      "words": [
-        {
-          "word": "moda",
-          "score": -2
-        },
-        {
-          "word": "preparado",
-          "score": 1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "gloria",
-          "score": 2
-        },
-        {
-          "word": "avanzado",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-27T20:36:15Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-03-27T21:31:36Z",
       "score": 4.75
@@ -1099,6 +1091,10 @@
     {
       "timestamp": "2026-04-06T05:21:21Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-04-06T07:26:21Z",
+      "score": 4.73
     }
   ]
 }

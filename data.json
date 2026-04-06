@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-06T13:04:21Z",
-  "global_score": 4.69,
-  "articles_scored": 103,
-  "words_matched": 248,
+  "generated": "2026-04-06T14:43:52Z",
+  "global_score": 4.66,
+  "articles_scored": 100,
+  "words_matched": 261,
   "top_negative": [
     {
       "word": "puto",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
@@ -69,19 +65,23 @@
     {
       "word": "fiel",
       "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.81,
-    "elDiario.es": 4.59,
-    "El Mundo": 5.04,
-    "ABC": 5.16,
-    "El Confidencial": 4.55,
-    "BBC Mundo": 4.49,
-    "France 24 ES": 4.35,
-    "La Nación AR": 4.64,
+    "El País": 4.92,
+    "elDiario.es": 4.74,
+    "El Mundo": 4.93,
+    "ABC": 4.91,
+    "El Confidencial": 4.59,
+    "BBC Mundo": 4.13,
+    "France 24 ES": 4.48,
+    "La Nación AR": 4.56,
     "La Jornada MX": 4.66,
-    "Desinformémonos": 4.08,
+    "Desinformémonos": 4.17,
     "Resumen Latinoam.": 5.12
   },
   "articles": [
@@ -130,7 +130,7 @@
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 5.0,
+      "score": 5.53,
       "words": [
         {
           "word": "guerra",
@@ -141,31 +141,35 @@
           "score": 2
         },
         {
+          "word": "importancia",
+          "score": 2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
           "word": "mayor",
           "score": 3
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "advierte",
-          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Trump vuelve a dar prioridad a la reapertura del estrecho de Ormuz al acercarse ",
-      "score": 5.0,
+      "title": "Israel extiende su ofensiva en Líbano con la voladura de pueblos enteros en el s",
+      "score": 4.47,
       "words": [
         {
-          "word": "guerra",
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "conflicto",
           "score": -2
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "solución",
+          "score": 1
         }
       ]
     },
@@ -208,51 +212,12 @@
     },
     {
       "source": "El País",
-      "title": "Los españoles ven a Trump como la mayor amenaza por delante de Putin",
-      "score": 5.2,
+      "title": "Christina Koch, la primera mujer que orbitará la Luna para que otras la pisen al",
+      "score": 5.8,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "pesimismo",
-          "score": -2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El mayor estudio sobre el hígado alerta de los estragos silenciosos de la mala d",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "alerta",
-          "score": -1
-        },
-        {
-          "word": "estragos",
-          "score": -2
-        },
-        {
-          "word": "sufre",
-          "score": -2
-        },
-        {
-          "word": "cáncer",
-          "score": -1
+          "word": "exploración",
+          "score": 1
         }
       ]
     },
@@ -417,13 +382,36 @@
           "score": 3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un ministro, un asesor con poderes y un comisionista sin escrúpulos: la génesis ",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "cumple",
+          "score": 2
+        },
+        {
+          "word": "intereses",
+          "score": 1
+        },
+        {
+          "word": "suerte",
+          "score": 3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-28T04:26:04Z",
-      "score": 4.87
-    },
     {
       "timestamp": "2026-03-28T05:55:04Z",
       "score": 4.78
@@ -1091,6 +1079,10 @@
     {
       "timestamp": "2026-04-06T13:04:21Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-04-06T14:43:52Z",
+      "score": 4.66
     }
   ]
 }

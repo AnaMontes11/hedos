@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-06T19:51:58Z",
-  "global_score": 4.65,
-  "articles_scored": 96,
-  "words_matched": 242,
+  "generated": "2026-04-06T20:35:20Z",
+  "global_score": 4.82,
+  "articles_scored": 97,
+  "words_matched": 247,
   "top_negative": [
     {
       "word": "puto",
@@ -51,38 +51,38 @@
       "score": 4
     },
     {
+      "word": "premio",
+      "score": 3
+    },
+    {
       "word": "visionario",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "leal",
+      "score": 3
+    },
+    {
+      "word": "impresiona",
       "score": 3
     },
     {
       "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "emocionante",
-      "score": 3
-    },
-    {
-      "word": "emocionado",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.12,
     "elDiario.es": 4.66,
-    "El Mundo": 4.87,
+    "El Mundo": 5.04,
     "ABC": 5.12,
-    "El Confidencial": 4.31,
-    "BBC Mundo": 4.37,
+    "El Confidencial": 5.17,
+    "BBC Mundo": 4.41,
     "France 24 ES": 4.0,
-    "La Nación AR": 4.27,
+    "La Nación AR": 5.11,
     "La Jornada MX": 4.66,
     "Desinformémonos": 5.06,
-    "Resumen Latinoam.": 4.72
+    "Resumen Latinoam.": 4.81
   },
   "articles": [
     {
@@ -404,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-28T10:29:28Z",
-      "score": 4.91
-    },
     {
       "timestamp": "2026-03-28T11:26:32Z",
       "score": 4.66
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-06T19:51:58Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-04-06T20:35:20Z",
+      "score": 4.82
     }
   ]
 }

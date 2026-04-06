@@ -1,9 +1,21 @@
 {
-  "generated": "2026-04-06T02:11:51Z",
-  "global_score": 4.66,
-  "articles_scored": 85,
-  "words_matched": 303,
+  "generated": "2026-04-06T05:21:21Z",
+  "global_score": 4.69,
+  "articles_scored": 93,
+  "words_matched": 298,
   "top_negative": [
+    {
+      "word": "puto",
+      "score": -5
+    },
+    {
+      "word": "bastardos",
+      "score": -5
+    },
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -13,33 +25,21 @@
       "score": -4
     },
     {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "infierno",
       "score": -4
     },
     {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "advertencia",
-      "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "pérdida",
-      "score": -3
-    },
-    {
-      "word": "crisis",
+      "word": "advertencias",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -47,39 +47,39 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
+      "word": "caro",
+      "score": 3
     },
     {
       "word": "visionario",
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "alabado",
       "score": 3
     },
     {
-      "word": "bonito",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "celebrando",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.16,
-    "elDiario.es": 4.55,
+    "El País": 4.75,
+    "elDiario.es": 4.75,
     "El Mundo": 4.9,
-    "ABC": 5.48,
-    "El Confidencial": 4.68,
-    "BBC Mundo": 4.63,
-    "France 24 ES": 4.1,
-    "La Nación AR": 5.47,
+    "ABC": 5.24,
+    "El Confidencial": 5.02,
+    "BBC Mundo": 4.5,
+    "France 24 ES": 4.44,
+    "La Nación AR": 4.3,
     "La Jornada MX": 4.86,
     "Desinformémonos": 4.08,
     "Resumen Latinoam.": 4.81
@@ -87,72 +87,230 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Trump anuncia el rescate del segundo aviador y amenaza a Irán con “volarlo todo”",
-      "score": 5.0,
+      "title": "Los españoles ven a Trump como la mayor amenaza por delante de Putin",
+      "score": 5.2,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
+          "word": "mayor",
+          "score": 3
         },
         {
           "word": "amenaza",
           "score": -2
+        },
+        {
+          "word": "pesimismo",
+          "score": -2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Salvar al aviador herido en Irán: una operación peligrosa, compleja y contra rel",
-      "score": 5.53,
+      "title": "Irán golpea las infraestructuras críticas de los países del Golfo en respuesta a",
+      "score": 3.8,
       "words": [
         {
-          "word": "salvar",
-          "score": 2
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump vuelve a dar prioridad a la reapertura del estrecho de Ormuz al acercarse ",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "rescate",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los iraníes, ante las amenazas de Estados Unidos de devolverles a “la Edad de Pi",
+      "score": 3.2,
+      "words": [
+        {
+          "word": "amenazas",
+          "score": -2
         },
         {
-          "word": "desaparecido",
+          "word": "advertencias",
+          "score": -3
+        },
+        {
+          "word": "indignación",
+          "score": -2
+        },
+        {
+          "word": "escepticismo",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Estados Unidos necesita a Europa y a la OTAN, pese a la embestida de Trump",
-      "score": 3.4,
+      "title": "Bruselas ultima medidas contra la crisis energética por la guerra de Irán",
+      "score": 4.2,
       "words": [
         {
-          "word": "abandonar",
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "energético",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Primeros compases de una marcha fúnebre geoeconómica",
-      "score": 3.0,
+      "title": "Que el patriotismo cambie de bando",
+      "score": 7.4,
       "words": [
         {
-          "word": "recesión",
+          "word": "amor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Besar o no besar, ese es el dilema",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "dilema",
+          "score": -1
+        },
+        {
+          "word": "perdón",
+          "score": 2
+        },
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "invitación",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las bajas laborales en España marcaron en 2025 otro récord sin soluciones a la v",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "soluciones",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "problema",
           "score": -2
         },
         {
-          "word": "peor",
+          "word": "incapacidad",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juicio del caso Kitchen reabre la polémica sobre los fondos reservados 40 año",
+      "score": 4.93,
+      "words": [
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "desaparece",
+          "score": -1
+        },
+        {
+          "word": "muerto",
           "score": -3
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Pete Hegseth, el secretario de Defensa en guerra contra el Pentágono",
-      "score": 5.4,
+      "source": "elDiario.es",
+      "title": "Arranca el juicio de Kitchen: la guerra sucia del PP con su ministro del Interio",
+      "score": 4.1,
       "words": [
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Hasta la cocina de la corrupción: el gran juicio de la Kitchen",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "enemigos",
+          "score": -3
         },
         {
           "word": "mayor",
@@ -161,249 +319,115 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La trama de las mascarillas se sienta en el banquillo: Ábalos ante su primer jui",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "Un ministro, un asesor con poderes y un comisionista sin escrúpulos: la génesis ",
+      "score": 5.0,
       "words": [
+        {
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "cumple",
+          "score": 2
+        },
+        {
+          "word": "intereses",
+          "score": 1
+        },
+        {
+          "word": "suerte",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El mecanismo de la corrupción contado por Aldama: \"Dar 10.000 euros al mes por c",
+      "score": 4.03,
+      "words": [
+        {
+          "word": "beneficio",
+          "score": 2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
         {
           "word": "pena",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La gran pregunta que marca el juicio de Kitchen e impacta en el PP: ¿quién orden",
-      "score": 3.4,
-      "words": [
+        },
         {
-          "word": "boicotear",
+          "word": "inferior",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Más allá del éxito del rescate de un aviador, el derribo del caza es un recordat",
-      "score": 5.04,
+      "title": "Shakira factura y el viaje lo pagas tú: quién gana más con el fenómeno de las 'r",
+      "score": 5.28,
       "words": [
         {
-          "word": "éxito",
-          "score": 2
+          "word": "celebrar",
+          "score": 3
         },
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "capaz",
+          "word": "enorme",
           "score": 1
         },
         {
-          "word": "éxito",
-          "score": 2
+          "word": "celebra",
+          "score": 3
         },
         {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué sabemos sobre la operación de rescate de EEUU del segundo aviador del caza d",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "combate",
+          "word": "aislado",
           "score": -1
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "barrera",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "José Luis Villacañas: “Trump no es un loco, hay un plan, una estrategia y un obj",
-      "score": 4.49,
+      "title": "Shakira construirá un estadio para 50.000 espectadores por concierto: recinto \"d",
+      "score": 5.5,
       "words": [
         {
-          "word": "loco",
+          "word": "moda",
           "score": -2
         },
         {
-          "word": "loco",
-          "score": -2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "derecho",
+          "word": "preparado",
           "score": 1
         },
         {
-          "word": "prisión",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La guerra contra Irán y la Edad de Piedra",
-      "score": 4.38,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "libertad",
+          "word": "gloria",
           "score": 2
         },
         {
-          "word": "falso",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las promesas rotas del 'America First': la subida del gasto militar que Trump qu",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "promesas",
+          "word": "avanzado",
           "score": 1
-        },
-        {
-          "word": "impulsar",
-          "score": 1
-        },
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "impulsar",
-          "score": 1
-        },
-        {
-          "word": "aumentar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ni la gasolina, ni el diésel: el fueloil es la clave para el comercio mundial y ",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "soluciones",
-          "score": 1
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La maquinaria corrupta de Ábalos, Koldo García y Aldama exprimió el dinero públi",
-      "score": 5.06,
-      "words": [
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ábalos, desde prisión: \"La Fiscalía solicitó todos los delitos posibles y su máx",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "asegura",
-          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-27T19:39:39Z",
-      "score": 4.88
-    },
     {
       "timestamp": "2026-03-27T20:36:15Z",
       "score": 4.72
@@ -1071,6 +1095,10 @@
     {
       "timestamp": "2026-04-06T02:11:51Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-04-06T05:21:21Z",
+      "score": 4.69
     }
   ]
 }

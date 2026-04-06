@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-06T14:43:52Z",
-  "global_score": 4.66,
-  "articles_scored": 100,
-  "words_matched": 261,
+  "generated": "2026-04-06T15:43:07Z",
+  "global_score": 4.69,
+  "articles_scored": 97,
+  "words_matched": 250,
   "top_negative": [
     {
       "word": "puto",
@@ -47,10 +47,6 @@
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "sentido",
       "score": 3
     },
@@ -69,45 +65,72 @@
     {
       "word": "celebrar",
       "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.92,
+    "El País": 4.86,
     "elDiario.es": 4.74,
-    "El Mundo": 4.93,
-    "ABC": 4.91,
-    "El Confidencial": 4.59,
+    "El Mundo": 5.19,
+    "ABC": 4.56,
+    "El Confidencial": 4.47,
     "BBC Mundo": 4.13,
-    "France 24 ES": 4.48,
-    "La Nación AR": 4.56,
+    "France 24 ES": 4.41,
+    "La Nación AR": 4.99,
     "La Jornada MX": 4.66,
-    "Desinformémonos": 4.17,
-    "Resumen Latinoam.": 5.12
+    "Desinformémonos": 4.8,
+    "Resumen Latinoam.": 4.92
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Israel ataca en Irán el mayor yacimiento de gas natural del mundo mientras Teher",
-      "score": 5.2,
+      "title": "Irán rechaza un alto el fuego temporal con EE UU y Trump avisa de que no prorrog",
+      "score": 5.23,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "natural",
-          "score": 1
+          "word": "rechaza",
+          "score": -1
         },
         {
           "word": "fuego",
           "score": -2
         },
         {
-          "word": "aclara",
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "fuego",
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "acusa",
           "score": -2
         }
       ]
@@ -124,33 +147,6 @@
         {
           "word": "guerra",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "importancia",
-          "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
         }
       ]
     },
@@ -412,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-28T05:55:04Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-03-28T06:56:03Z",
       "score": 5.05
@@ -1083,6 +1075,10 @@
     {
       "timestamp": "2026-04-06T14:43:52Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-04-06T15:43:07Z",
+      "score": 4.69
     }
   ]
 }

@@ -1,15 +1,11 @@
 {
-  "generated": "2026-04-07T02:07:54Z",
-  "global_score": 4.57,
-  "articles_scored": 80,
-  "words_matched": 234,
+  "generated": "2026-04-07T05:07:08Z",
+  "global_score": 4.67,
+  "articles_scored": 86,
+  "words_matched": 248,
   "top_negative": [
     {
-      "word": "puto",
-      "score": -5
-    },
-    {
-      "word": "bastardos",
+      "word": "negro",
       "score": -5
     },
     {
@@ -21,11 +17,15 @@
       "score": -4
     },
     {
+      "word": "fraude",
+      "score": -4
+    },
+    {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "puta",
       "score": -4
     },
     {
@@ -33,18 +33,30 @@
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "delitos",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "brillante",
+      "word": "asombroso",
+      "score": 5
+    },
+    {
+      "word": "maravilloso",
       "score": 4
     },
     {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "riguroso",
+      "score": 3
+    },
+    {
+      "word": "prestigio",
+      "score": 3
     },
     {
       "word": "visionario",
@@ -57,33 +69,44 @@
     {
       "word": "amor",
       "score": 3
-    },
-    {
-      "word": "emocionante",
-      "score": 3
-    },
-    {
-      "word": "bonito",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.32,
-    "elDiario.es": 4.64,
+    "El País": 4.73,
+    "elDiario.es": 4.68,
     "El Mundo": 5.59,
-    "El Confidencial": 4.41,
-    "BBC Mundo": 4.33,
-    "France 24 ES": 4.2,
-    "La Nación AR": 3.88,
+    "ABC": 4.95,
+    "El Confidencial": 4.44,
+    "BBC Mundo": 4.4,
+    "France 24 ES": 4.43,
+    "La Nación AR": 4.17,
     "La Jornada MX": 4.66,
     "Desinformémonos": 5.21,
-    "Resumen Latinoam.": 3.83
+    "Resumen Latinoam.": 4.24
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Artemis 2 inicia su regreso a la Tierra, tras contemplar lugares nunca vistos de",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los astronautas de Artemis 2 hablan con Trump y el jefe de NASA desde el espacio",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "mejorar",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Trump, sobre el ultimátum a Irán: “Podemos destruir un país entero en una noche ",
@@ -113,102 +136,80 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "title": "La muerte de una familia en Haifa muestra la vulnerabilidad de Israel, a pesar d",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "vulnerabilidad",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los acusados, los testigos y los delitos que se juzgan en el ‘caso Koldo’",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La izquierda catatónica",
       "score": 4.2,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
+          "word": "dejar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Reírse del desamor en el confesionario de Rosalía",
+      "score": 3.4,
+      "words": [
         {
-          "word": "sufrir",
+          "word": "conflictos",
           "score": -2
-        },
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump amenaza a Irán con volver \"a la Edad de Piedra\" en su ultimátum por la rea",
+      "score": 4.17,
+      "words": [
         {
-          "word": "asegura",
-          "score": 2
+          "word": "amenaza",
+          "score": -2
         },
         {
           "word": "amenaza",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump revela que Estados Unidos intentó entregar armas a rebeldes iraníes, sin é",
-      "score": 6.6,
-      "words": [
+        },
         {
-          "word": "éxito",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel extiende su ofensiva en Líbano con la voladura de pueblos enteros en el s",
-      "score": 4.47,
-      "words": [
+          "word": "crisis",
+          "score": -3
+        },
         {
-          "word": "alerta",
+          "word": "bloqueo",
           "score": -1
         },
         {
-          "word": "conflicto",
+          "word": "amenaza",
           "score": -2
-        },
-        {
-          "word": "solución",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El mercado laboral crea 211.510 empleos en el mejor marzo del registro pese a la",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Pablo Iglesias, tras el acuerdo de izquierdas en Andalucía con Podemos: “Hay una",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Ayuso insiste en no trasladar el Guernica a Bilbao: “Me parece que es cateto. La",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "acusado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Artemis 2 inicia su regreso a la Tierra, tras contemplar lugares nunca vistos de",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
         }
       ]
     },
@@ -268,145 +269,141 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump da señales de descontrol ante los reveses militares en Irán y la crisis gl",
-      "score": 4.29,
+      "title": "Juicio a Ábalos en el Supremo: cronología del caso que llevó la corrupción al co",
+      "score": 4.58,
       "words": [
         {
-          "word": "crisis",
+          "word": "criminal",
           "score": -3
         },
         {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La amenaza de Trump de salir de la OTAN: un desvarío por la falta de sumisión de",
-      "score": 4.65,
-      "words": [
-        {
-          "word": "amenaza",
+          "word": "golpe",
           "score": -2
         },
         {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "ignora",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los fabricantes españoles de fertilizantes avisan: si la guerra escala, puede ce",
-      "score": 4.05,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "agrava",
-          "score": -2
-        },
-        {
-          "word": "interrupciones",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PSOE vuelve a pedir la imputación de Cospedal y el PP en el arranque del juic",
-      "score": 5.28,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "popular",
+          "word": "mayor",
           "score": 3
         },
         {
-          "word": "responsable",
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Ábalos: de la caspa al juicio",
+      "score": 5.13,
+      "words": [
+        {
+          "word": "sucio",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "querido",
           "score": 2
         },
         {
-          "word": "gloria",
+          "word": "ampliar",
+          "score": 1
+        },
+        {
+          "word": "importante",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "🎙 PODCAST | Hasta la cocina de la corrupción: el gran juicio de la Kitchen",
-      "score": 4.73,
+      "title": "Crónica de una condena anunciada",
+      "score": 4.67,
       "words": [
         {
-          "word": "solo",
+          "word": "condena",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "condena",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "desaparece",
+          "score": -1
+        },
+        {
+          "word": "condena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Estudiar Medicina en la universidad pública es cada vez más difícil: “Hay famili",
+      "score": 5.34,
+      "words": [
+        {
+          "word": "difícil",
           "score": -2
         },
+        {
+          "word": "difícil",
+          "score": -2
+        },
+        {
+          "word": "demanda",
+          "score": -1
+        },
+        {
+          "word": "estancamiento",
+          "score": -2
+        },
+        {
+          "word": "oferta",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La brigada política mantiene prietas las filas en el arranque del juicio de Kitc",
+      "score": 4.11,
+      "words": [
         {
           "word": "enemigos",
           "score": -3
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "competente",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "exponer",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-28T15:28:33Z",
-      "score": 4.5
-    },
     {
       "timestamp": "2026-03-28T16:30:42Z",
       "score": 4.52
@@ -1074,6 +1071,10 @@
     {
       "timestamp": "2026-04-07T02:07:54Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-04-07T05:07:08Z",
+      "score": 4.67
     }
   ]
 }

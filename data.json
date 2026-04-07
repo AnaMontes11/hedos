@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-07T08:59:06Z",
-  "global_score": 4.76,
-  "articles_scored": 84,
-  "words_matched": 283,
+  "generated": "2026-04-07T10:13:00Z",
+  "global_score": 4.83,
+  "articles_scored": 90,
+  "words_matched": 284,
   "top_negative": [
     {
       "word": "infierno",
@@ -21,25 +21,33 @@
       "score": -4
     },
     {
-      "word": "puta",
-      "score": -4
-    },
-    {
-      "word": "delitos",
-      "score": -3
-    },
-    {
       "word": "crisis",
       "score": -3
     },
     {
       "word": "preocupado",
       "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "advertencias",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "alegría",
       "score": 4
     },
     {
@@ -59,51 +67,32 @@
       "score": 3
     },
     {
-      "word": "visionario",
-      "score": 3
-    },
-    {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "premio",
+      "word": "galardonado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.22,
-    "elDiario.es": 4.74,
-    "El Mundo": 5.09,
-    "ABC": 5.21,
-    "El Confidencial": 4.09,
-    "BBC Mundo": 4.4,
-    "France 24 ES": 4.8,
-    "La Nación AR": 4.95,
-    "La Jornada MX": 4.66,
+    "El País": 5.19,
+    "elDiario.es": 4.86,
+    "El Mundo": 4.67,
+    "ABC": 4.8,
+    "El Confidencial": 4.59,
+    "BBC Mundo": 4.72,
+    "France 24 ES": 4.66,
+    "La Nación AR": 5.54,
+    "La Jornada MX": 4.58,
     "Desinformémonos": 5.21,
     "Resumen Latinoam.": 4.35
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Artemis 2 inicia su regreso a la Tierra tras contemplar lugares nunca vistos de ",
-      "score": 7.4,
+      "title": "Juicio contra Ábalos, Koldo y Aldama, en directo | El hijo de Ábalos niega en el",
+      "score": 3.4,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los astronautas de Artemis 2 hablan con Trump y el jefe de NASA desde el espacio",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "mejorar",
-          "score": 2
+          "word": "niega",
+          "score": -2
         }
       ]
     },
@@ -147,12 +136,23 @@
     },
     {
       "source": "El País",
-      "title": "Los acusados, los testigos y los delitos que se juzgan en el ‘caso Koldo’",
-      "score": 2.6,
+      "title": "Artemis 2 inicia su regreso a la Tierra tras contemplar lugares nunca vistos de ",
+      "score": 7.4,
       "words": [
         {
-          "word": "delitos",
-          "score": -3
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los astronautas de Artemis 2 hablan con Trump y el jefe de NASA desde el espacio",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "mejorar",
+          "score": 2
         }
       ]
     },
@@ -164,6 +164,17 @@
         {
           "word": "sentido",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La izquierda catatónica",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "dejar",
+          "score": -1
         }
       ]
     },
@@ -382,40 +393,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La misión Artemisa II llega al momento clave: hitos y malentendidos sobre su pas",
-      "score": 5.55,
-      "words": [
-        {
-          "word": "alcanzado",
-          "score": 1
-        },
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "disfrutar",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "exclusivo",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-28T18:37:29Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-03-28T19:27:59Z",
       "score": 4.65
@@ -1083,6 +1063,10 @@
     {
       "timestamp": "2026-04-07T08:59:06Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-04-07T10:13:00Z",
+      "score": 4.83
     }
   ]
 }

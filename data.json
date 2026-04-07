@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-07T07:12:12Z",
-  "global_score": 4.81,
+  "generated": "2026-04-07T08:59:06Z",
+  "global_score": 4.76,
   "articles_scored": 84,
-  "words_matched": 282,
+  "words_matched": 283,
   "top_negative": [
     {
       "word": "infierno",
@@ -39,7 +39,7 @@
   ],
   "top_positive": [
     {
-      "word": "bendición",
+      "word": "ganador",
       "score": 4
     },
     {
@@ -63,31 +63,31 @@
       "score": 3
     },
     {
-      "word": "admirar",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.1,
+    "El País": 5.22,
     "elDiario.es": 4.74,
-    "El Mundo": 5.29,
-    "ABC": 5.55,
-    "El Confidencial": 4.39,
+    "El Mundo": 5.09,
+    "ABC": 5.21,
+    "El Confidencial": 4.09,
     "BBC Mundo": 4.4,
-    "France 24 ES": 4.87,
-    "La Nación AR": 4.85,
+    "France 24 ES": 4.8,
+    "La Nación AR": 4.95,
     "La Jornada MX": 4.66,
     "Desinformémonos": 5.21,
-    "Resumen Latinoam.": 4.24
+    "Resumen Latinoam.": 4.35
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Artemis 2 inicia su regreso a la Tierra, tras contemplar lugares nunca vistos de",
+      "title": "Artemis 2 inicia su regreso a la Tierra tras contemplar lugares nunca vistos de ",
       "score": 7.4,
       "words": [
         {
@@ -110,7 +110,7 @@
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 3.8,
+      "score": 3.67,
       "words": [
         {
           "word": "guerra",
@@ -119,6 +119,10 @@
         {
           "word": "ataques",
           "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
@@ -154,23 +158,12 @@
     },
     {
       "source": "El País",
-      "title": "La generación alfa no llama, no escribe emails y juega con la ortografía: “La re",
+      "title": "La generación alfa no llama, no escribe ‘emails’ y juega con la ortografía: “La ",
       "score": 7.4,
       "words": [
         {
           "word": "sentido",
           "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La izquierda catatónica",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "dejar",
-          "score": -1
         }
       ]
     },
@@ -389,13 +382,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La misión Artemisa II llega al momento clave: hitos y malentendidos sobre su pas",
+      "score": 5.55,
+      "words": [
+        {
+          "word": "alcanzado",
+          "score": 1
+        },
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "disfrutar",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "exclusivo",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-28T17:26:22Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-03-28T18:37:29Z",
       "score": 4.59
@@ -1063,6 +1079,10 @@
     {
       "timestamp": "2026-04-07T07:12:12Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-04-07T08:59:06Z",
+      "score": 4.76
     }
   ]
 }

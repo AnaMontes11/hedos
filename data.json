@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-07T22:35:46Z",
-  "global_score": 4.71,
-  "articles_scored": 91,
-  "words_matched": 239,
+  "generated": "2026-04-07T23:34:58Z",
+  "global_score": 4.81,
+  "articles_scored": 95,
+  "words_matched": 268,
   "top_negative": [
     {
       "word": "puto",
@@ -13,8 +13,8 @@
       "score": -5
     },
     {
-      "word": "negro",
-      "score": -5
+      "word": "culo",
+      "score": -4
     },
     {
       "word": "infierno",
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "crimen",
+      "word": "morir",
       "score": -3
     }
   ],
@@ -45,6 +45,10 @@
     {
       "word": "brillante",
       "score": 4
+    },
+    {
+      "word": "amor",
+      "score": 3
     },
     {
       "word": "emoción",
@@ -65,48 +69,29 @@
     {
       "word": "celebrar",
       "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.1,
-    "elDiario.es": 4.7,
-    "El Mundo": 5.48,
+    "El País": 4.09,
+    "elDiario.es": 4.65,
+    "El Mundo": 5.66,
     "ABC": 5.08,
     "El Confidencial": 4.67,
-    "BBC Mundo": 4.83,
-    "France 24 ES": 5.01,
-    "La Nación AR": 4.08,
+    "BBC Mundo": 4.86,
+    "France 24 ES": 5.05,
+    "La Nación AR": 4.59,
     "La Jornada MX": 4.58,
-    "Desinformémonos": 5.07,
-    "Resumen Latinoam.": 4.48
+    "Desinformémonos": 5.28,
+    "Resumen Latinoam.": 4.64
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Trump eleva la presión a pocas horas de que expire el ultimátum a Irán: “Esta no",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Pa",
+      "title": "Trump suspende el ultimátum a Irán y declara un alto el fuego de dos semanas",
       "score": 3.4,
       "words": [
         {
-          "word": "guerra",
+          "word": "fuego",
           "score": -2
         }
       ]
@@ -214,28 +199,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El dilema legal de los soldados frente al ultimátum de Trump: ¿incumplir órdenes",
-      "score": 4.14,
+      "title": "Trump anuncia un alto el fuego de dos semanas y da marcha atrás en sus amenazas ",
+      "score": 4.43,
       "words": [
         {
-          "word": "dilema",
-          "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "cometer",
-          "score": 1
-        },
-        {
-          "word": "guerra",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "dilema",
-          "score": -1
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "fuerza",
+          "score": 2
         }
       ]
     },
@@ -322,28 +307,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Albares dice que España rechazó acudir a las reuniones para desbloquear Ormuz po",
-      "score": 4.85,
+      "title": "El dilema legal de los soldados frente al ultimátum de Trump: ¿incumplir órdenes",
+      "score": 4.14,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "dilema",
+          "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "legal",
+          "score": 1
         },
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asuntos",
+          "word": "cometer",
           "score": 1
         },
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "dilema",
+          "score": -1
         }
       ]
     },
@@ -373,13 +358,36 @@
           "score": 1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Fiscalía se opone a que Cospedal vuelva a ser investigada en Kitchen y que se",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "competente",
+          "score": 2
+        },
+        {
+          "word": "rechazado",
+          "score": -1
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-29T08:40:00Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-03-29T09:34:21Z",
       "score": 4.71
@@ -1047,6 +1055,10 @@
     {
       "timestamp": "2026-04-07T22:35:46Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-04-07T23:34:58Z",
+      "score": 4.81
     }
   ]
 }

@@ -1,15 +1,11 @@
 {
-  "generated": "2026-04-07T11:52:15Z",
-  "global_score": 4.76,
-  "articles_scored": 90,
-  "words_matched": 259,
+  "generated": "2026-04-07T13:17:27Z",
+  "global_score": 4.68,
+  "articles_scored": 95,
+  "words_matched": 246,
   "top_negative": [
     {
-      "word": "infierno",
-      "score": -4
-    },
-    {
-      "word": "molesto",
+      "word": "puta",
       "score": -4
     },
     {
@@ -21,29 +17,41 @@
       "score": -4
     },
     {
+      "word": "matar",
+      "score": -3
+    },
+    {
       "word": "muerto",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "indignados",
       "score": -3
     },
     {
-      "word": "preocupado",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "delitos",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "alegría",
       "score": 4
     },
     {
       "word": "brillante",
+      "score": 4
+    },
+    {
+      "word": "maravilloso",
       "score": 4
     },
     {
@@ -59,32 +67,81 @@
       "score": 3
     },
     {
-      "word": "leal",
-      "score": 3
-    },
-    {
-      "word": "impresiona",
-      "score": 3
-    },
-    {
-      "word": "sentido",
+      "word": "emocionante",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.78,
-    "elDiario.es": 4.77,
-    "El Mundo": 5.52,
-    "ABC": 4.67,
-    "El Confidencial": 5.12,
+    "El País": 4.95,
+    "elDiario.es": 4.88,
+    "El Mundo": 4.9,
+    "ABC": 4.83,
+    "El Confidencial": 4.61,
     "BBC Mundo": 4.49,
-    "France 24 ES": 4.51,
-    "La Nación AR": 4.6,
+    "France 24 ES": 4.66,
+    "La Nación AR": 4.12,
     "La Jornada MX": 4.58,
     "Desinformémonos": 5.21,
     "Resumen Latinoam.": 4.35
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 3.72,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Israel y EE UU lanzan una oleada de ataques contra instalaciones civiles de Irán",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "matar",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un atacante muerto y otros dos heridos en un tiroteo junto al consulado de Israe",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "muerto",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Juicio contra Ábalos, Koldo y Aldama, en directo | El hermano de Koldo declara q",
@@ -109,102 +166,12 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 3.97,
+      "title": "Quién es Aday Mara, el primer español en ganar la liga universitaria de balonces",
+      "score": 8.2,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La muerte de una familia en Haifa muestra la vulnerabilidad de Israel, a pesar d",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "vulnerabilidad",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un atacante muerto y otros dos heridos en un tiroteo junto al consulado de Israe",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "muerto",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Artemis 2 inicia su regreso a la Tierra tras contemplar lugares nunca vistos de ",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los astronautas de Artemis 2 hablan con Trump y el jefe de NASA desde el espacio",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "mejorar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La izquierda catatónica",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "dejar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Reírse del desamor en el confesionario de Rosalía",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "conflictos",
-          "score": -2
+          "word": "ganar",
+          "score": 4
         }
       ]
     },
@@ -232,146 +199,203 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Trump amenaza a Irán con volver \"a la Edad de Piedra\" en su ultimátum por la rea",
-      "score": 4.17,
+      "source": "El País",
+      "title": "El Gobierno da luz verde a la reforma para blindar el aborto en la Constitución",
+      "score": 4.6,
       "words": [
         {
-          "word": "amenaza",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "crisis",
+          "word": "indignados",
           "score": -3
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "De la guerra de liberación a la guerra de destrucción: la “trampa de la escalada",
-      "score": 4.22,
+      "source": "El País",
+      "title": "La muerte heroica del coronel que se vistió de gala para su pelotón de fusilamie",
+      "score": 6.07,
       "words": [
         {
-          "word": "guerra",
+          "word": "muerte",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "destrucción",
-          "score": -3
-        },
-        {
-          "word": "trampa",
-          "score": -1
-        },
-        {
-          "word": "fracaso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Al menos un muerto en un tiroteo cerca del consulado de Israel en Estambul",
-      "score": 3.76,
-      "words": [
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "sospechosos",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Irán rechaza pactar un alto el fuego temporal mientras Trump insiste en que su u",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Juicio a Ábalos en el Supremo: cronología del caso que llevó la corrupción al co",
-      "score": 4.58,
-      "words": [
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "golpe",
-          "score": -2
-        },
-        {
-          "word": "mayor",
+          "word": "amor",
           "score": 3
         },
         {
-          "word": "criminal",
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El tribunal de Kitchen rechaza investigar a Cospedal y al PP porque esa decisión",
+      "score": 5.69,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "esperado",
+          "score": -1
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "resolver",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Fiscalía se opone a que Cospedal vuelva a ser investigada en Kitchen y que se",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "competente",
+          "score": 2
+        },
+        {
+          "word": "rechazado",
+          "score": -1
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "destruir",
           "score": -3
         },
         {
-          "word": "crisis",
+          "word": "capacidad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La brigada política mantiene prietas las filas en el arranque del juicio de Kitc",
+      "score": 4.11,
+      "words": [
+        {
+          "word": "enemigos",
           "score": -3
+        },
+        {
+          "word": "competente",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "exponer",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP intenta que la gente crea que el Ministerio del Interior de un Gobierno de",
+      "score": 4.68,
+      "words": [
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "obligado",
+          "score": 1
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "abuso",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El presidente que no sabía nada",
+      "score": 4.82,
+      "words": [
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "ciego",
+          "score": -1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El hijo de Ábalos niega ser el “custodio” del dinero de su padre: \"Lo que le he ",
+      "score": 4.45,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "interrogatorio",
+          "score": -1
+        },
+        {
+          "word": "negado",
+          "score": -2
+        },
+        {
+          "word": "sospecha",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-28T20:27:01Z",
-      "score": 4.49
-    },
     {
       "timestamp": "2026-03-28T21:27:22Z",
       "score": 4.58
@@ -1039,6 +1063,10 @@
     {
       "timestamp": "2026-04-07T11:52:15Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-04-07T13:17:27Z",
+      "score": 4.68
     }
   ]
 }

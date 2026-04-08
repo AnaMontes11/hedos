@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-08T07:14:53Z",
-  "global_score": 4.74,
-  "articles_scored": 97,
-  "words_matched": 313,
+  "generated": "2026-04-08T08:58:29Z",
+  "global_score": 4.72,
+  "articles_scored": 95,
+  "words_matched": 304,
   "top_negative": [
     {
       "word": "bastardos",
@@ -29,15 +29,19 @@
       "score": -4
     },
     {
-      "word": "locura",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "perdiendo",
+      "word": "peor",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "eufórico",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -51,6 +55,10 @@
       "score": 3
     },
     {
+      "word": "bonito",
+      "score": 3
+    },
+    {
       "word": "bueno",
       "score": 3
     },
@@ -59,30 +67,22 @@
       "score": 3
     },
     {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
       "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "paraíso",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.65,
-    "elDiario.es": 4.71,
-    "El Mundo": 5.06,
-    "ABC": 5.31,
-    "El Confidencial": 4.39,
-    "BBC Mundo": 4.85,
-    "France 24 ES": 4.36,
-    "La Nación AR": 4.34,
+    "El País": 4.63,
+    "elDiario.es": 4.77,
+    "El Mundo": 5.24,
+    "ABC": 4.9,
+    "El Confidencial": 3.84,
+    "BBC Mundo": 5.02,
+    "France 24 ES": 4.09,
+    "La Nación AR": 5.13,
     "La Jornada MX": 4.58,
     "Desinformémonos": 4.94,
-    "Resumen Latinoam.": 4.76
+    "Resumen Latinoam.": 4.96
   },
   "articles": [
     {
@@ -111,19 +111,19 @@
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 4.68,
+      "score": 4.9,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "acepta",
-          "score": 1
-        },
-        {
           "word": "fuego",
           "score": -2
+        },
+        {
+          "word": "destruir",
+          "score": -3
         },
         {
           "word": "celebra",
@@ -137,8 +137,8 @@
     },
     {
       "source": "El País",
-      "title": "Euforia en las Bolsas europeas tras el alto el fuego temporal en Irán y el Ibex ",
-      "score": 4.73,
+      "title": "Euforia en las Bolsas tras el alto el fuego temporal en Irán: el Ibex sube un 3,",
+      "score": 5.4,
       "words": [
         {
           "word": "euforia",
@@ -147,17 +147,13 @@
         {
           "word": "fuego",
           "score": -2
-        },
-        {
-          "word": "deuda",
-          "score": -2
         }
       ]
     },
     {
       "source": "El País",
       "title": "El precio del petróleo se desploma tras el acuerdo para un alto el fuego de dos ",
-      "score": 4.6,
+      "score": 5.0,
       "words": [
         {
           "word": "acuerdo",
@@ -165,6 +161,14 @@
         },
         {
           "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "guerra",
           "score": -2
         }
       ]
@@ -209,53 +213,38 @@
     },
     {
       "source": "El País",
-      "title": "La locura del Bernabéu se queda corta y el Bayern tumba al Madrid",
-      "score": 2.87,
-      "words": [
-        {
-          "word": "locura",
-          "score": -3
-        },
-        {
-          "word": "tumba",
-          "score": -2
-        },
-        {
-          "word": "perdiendo",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El millón de Aena",
+      "title": "El desenfrenado verano del 73 de Ábalos y Jessica: “Lo que vivimos solo lo sabem",
       "score": 3.4,
       "words": [
         {
-          "word": "molesta",
+          "word": "solo",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Son las nueve de la tarde",
-      "score": 4.2,
+      "title": "Ábalos en el banquillo: la peor foto para el PSOE",
+      "score": 2.6,
       "words": [
         {
-          "word": "límites",
-          "score": -1
+          "word": "peor",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Otro supuesto enchufe de una mujer vinculada a Ábalos, plato fuerte de la segund",
-      "score": 6.6,
+      "title": "¿Qué ha pasado el primer día del juicio por la trama de las mascarillas?",
+      "score": 5.0,
       "words": [
         {
-          "word": "fuerte",
-          "score": 2
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "confianza",
+          "score": 1
         }
       ]
     },
@@ -370,7 +359,7 @@
     {
       "source": "elDiario.es",
       "title": "La guerra en Irán evidencia la necesidad de un 'electroshock' que corte con el p",
-      "score": 4.43,
+      "score": 4.46,
       "words": [
         {
           "word": "guerra",
@@ -393,13 +382,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Nunca es buen momento para Cospedal en el caso Kitchen",
+      "score": 4.11,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "arrastrado",
+          "score": -1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-29T12:51:13Z",
-      "score": 4.46
-    },
     {
       "timestamp": "2026-03-29T13:51:44Z",
       "score": 4.48
@@ -1067,6 +1079,10 @@
     {
       "timestamp": "2026-04-08T07:14:53Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-04-08T08:58:29Z",
+      "score": 4.72
     }
   ]
 }

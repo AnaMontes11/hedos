@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-08T15:07:22Z",
-  "global_score": 4.6,
-  "articles_scored": 94,
-  "words_matched": 273,
+  "generated": "2026-04-08T16:59:21Z",
+  "global_score": 4.73,
+  "articles_scored": 98,
+  "words_matched": 293,
   "top_negative": [
     {
       "word": "bastardos",
@@ -39,11 +39,15 @@
   ],
   "top_positive": [
     {
+      "word": "maravilloso",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "celebrar",
+      "word": "perfectamente",
       "score": 3
     },
     {
@@ -51,19 +55,15 @@
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
       "word": "popular",
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "felicidad",
       "score": 3
     },
     {
@@ -72,27 +72,35 @@
     }
   ],
   "per_source": {
-    "El País": 4.53,
-    "elDiario.es": 4.66,
-    "El Mundo": 4.42,
-    "ABC": 4.92,
-    "El Confidencial": 4.47,
-    "BBC Mundo": 4.56,
-    "France 24 ES": 4.39,
-    "La Nación AR": 4.44,
+    "El País": 4.78,
+    "elDiario.es": 4.74,
+    "El Mundo": 5.06,
+    "ABC": 5.24,
+    "El Confidencial": 4.53,
+    "BBC Mundo": 4.58,
+    "France 24 ES": 4.21,
+    "La Nación AR": 4.81,
     "La Jornada MX": 5.17,
-    "Desinformémonos": 4.77,
-    "Resumen Latinoam.": 3.92
+    "Desinformémonos": 4.83,
+    "Resumen Latinoam.": 4.1
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.73,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 4.68,
       "words": [
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         },
         {
           "word": "mayor",
@@ -201,13 +209,9 @@
     },
     {
       "source": "El País",
-      "title": "Juicio contra Ábalos, Koldo y Aldama, en directo | Un ex alto cargo de Adif aseg",
+      "title": "Un ex alto cargo de Adif asegura que Ábalos llamó a Pardo de Vera porque en Inec",
       "score": 6.6,
       "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
         {
           "word": "asegura",
           "score": 2
@@ -216,45 +220,50 @@
     },
     {
       "source": "El País",
-      "title": "El desenfrenado verano del 73 de Ábalos y Jessica: “Lo que vivimos solo lo sabem",
-      "score": 3.4,
+      "title": "La Guardia Civil certifica que la vía de Adamuz se rompió un día antes del accid",
+      "score": 3.72,
       "words": [
         {
-          "word": "solo",
+          "word": "rompió",
+          "score": -1
+        },
+        {
+          "word": "accidente",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "sabotaje",
+          "score": -2
+        },
+        {
+          "word": "colisión",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Ábalos en el banquillo: la peor foto para el PSOE",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "peor",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Qué ha pasado el primer día del juicio por la trama de las mascarillas?",
+      "title": "“En algún momento nos la damos igual seguro”: nuevos audios entre Red Eléctrica ",
       "score": 5.0,
       "words": [
         {
-          "word": "pasado",
-          "score": -1
+          "word": "seguro",
+          "score": 2
         },
         {
-          "word": "confianza",
-          "score": 1
+          "word": "problemas",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "Israel desafía los llamamientos para extender la tregua a Líbano y lanza su \"may",
-      "score": 4.64,
+      "score": 4.56,
       "words": [
         {
           "word": "mayor",
@@ -273,8 +282,8 @@
           "score": -1
         },
         {
-          "word": "aceptar",
-          "score": 1
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
@@ -301,6 +310,33 @@
         },
         {
           "word": "amenazas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El caos y los insultos de Trump empujan al Reino Unido hacia la Unión Europea",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "insultos",
+          "score": -2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "insultos",
           "score": -2
         }
       ]
@@ -388,10 +424,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-29T17:27:31Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-03-29T18:38:53Z",
       "score": 4.54
@@ -1059,6 +1091,10 @@
     {
       "timestamp": "2026-04-08T15:07:22Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-04-08T16:59:21Z",
+      "score": 4.73
     }
   ]
 }

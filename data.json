@@ -1,15 +1,11 @@
 {
-  "generated": "2026-04-08T02:08:41Z",
+  "generated": "2026-04-08T05:08:59Z",
   "global_score": 4.78,
-  "articles_scored": 92,
-  "words_matched": 262,
+  "articles_scored": 97,
+  "words_matched": 296,
   "top_negative": [
     {
-      "word": "puto",
-      "score": -5
-    },
-    {
-      "word": "bastardos",
+      "word": "negro",
       "score": -5
     },
     {
@@ -21,41 +17,41 @@
       "score": -4
     },
     {
-      "word": "infierno",
-      "score": -4
-    },
-    {
       "word": "puta",
-      "score": -4
-    },
-    {
-      "word": "tortura",
       "score": -4
     },
     {
       "word": "destruir",
       "score": -3
+    },
+    {
+      "word": "locura",
+      "score": -3
+    },
+    {
+      "word": "perdiendo",
+      "score": -3
+    },
+    {
+      "word": "morir",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
     {
       "word": "victorias",
       "score": 4
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "brillante",
-      "score": 4
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "maravilla",
       "score": 3
     },
     {
@@ -63,7 +59,11 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     },
     {
@@ -72,16 +72,16 @@
     }
   ],
   "per_source": {
-    "El País": 4.3,
-    "elDiario.es": 4.7,
+    "El País": 4.37,
+    "elDiario.es": 4.78,
     "El Mundo": 4.82,
-    "ABC": 5.11,
-    "El Confidencial": 4.67,
-    "BBC Mundo": 4.88,
-    "France 24 ES": 5.07,
-    "La Nación AR": 4.51,
+    "ABC": 5.08,
+    "El Confidencial": 4.43,
+    "BBC Mundo": 4.85,
+    "France 24 ES": 4.51,
+    "La Nación AR": 5.71,
     "La Jornada MX": 4.58,
-    "Desinformémonos": 5.28,
+    "Desinformémonos": 4.94,
     "Resumen Latinoam.": 4.76
   },
   "articles": [
@@ -110,28 +110,20 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Pa",
-      "score": 4.52,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
+      "score": 4.2,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
+          "word": "acepta",
           "score": 1
         },
         {
-          "word": "paz",
-          "score": 2
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
@@ -175,37 +167,67 @@
     },
     {
       "source": "El País",
-      "title": "Claves sobre el ultimátum de Trump: ¿Qué podría atacar Estados Unidos en Irán? ¿",
-      "score": 3.4,
+      "title": "Las amenazas de Trump contra Irán repugnan incluso dentro del mundo MAGA",
+      "score": 5.0,
       "words": [
         {
-          "word": "riesgo",
+          "word": "amenazas",
           "score": -2
         },
         {
-          "word": "sentencia",
-          "score": -2
+          "word": "cumplir",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las defensas de Ábalos y Koldo señalan a Aldama",
+      "title": "La locura del Bernabéu se queda corta y el Bayern tumba al Madrid",
+      "score": 2.87,
+      "words": [
+        {
+          "word": "locura",
+          "score": -3
+        },
+        {
+          "word": "tumba",
+          "score": -2
+        },
+        {
+          "word": "perdiendo",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El millón de Aena",
       "score": 3.4,
       "words": [
         {
-          "word": "extraño",
+          "word": "molesta",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El hijo modelo y el hermano de los mil “favores”: los familiares blindan a Ábalo",
+      "title": "Son las nueve de la tarde",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "límites",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Otro supuesto enchufe de una mujer vinculada a Ábalos, plato fuerte de la segund",
       "score": 6.6,
       "words": [
         {
-          "word": "favores",
+          "word": "fuerte",
           "score": 2
         }
       ]
@@ -222,17 +244,6 @@
         {
           "word": "confianza",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El desenfrenado verano del 73 de Ábalos y Jessica: “Lo que vivimos solo lo sabem",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
         }
       ]
     },
@@ -265,38 +276,11 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Al menos un muerto en un tiroteo cerca del consulado de Israel en Estambul",
-      "score": 3.76,
+      "title": "¿Consiguió Netanyahu engañar a Trump para que participara en su “guerra fácil” c",
+      "score": 4.54,
       "words": [
         {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "sospechosos",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El director iraní Asghar Farhadi insta a los artistas a protestar contra la guer",
-      "score": 3.69,
-      "words": [
-        {
-          "word": "protestar",
+          "word": "engañar",
           "score": -2
         },
         {
@@ -304,51 +288,86 @@
           "score": -2
         },
         {
-          "word": "detener",
-          "score": -1
-        },
-        {
-          "word": "protestar",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El dilema legal de los soldados frente al ultimátum de Trump: ¿incumplir órdenes",
-      "score": 4.14,
-      "words": [
-        {
-          "word": "dilema",
-          "score": -1
-        },
-        {
-          "word": "legal",
+          "word": "fácil",
           "score": 1
         },
         {
-          "word": "cometer",
+          "word": "engañar",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El caos y los insultos de Trump empujan al Reino Unido hacia la Unión Europea",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "insultos",
+          "score": -2
+        },
+        {
+          "word": "unido",
           "score": 1
+        },
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "insultos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La guerra en Irán evidencia la necesidad de un 'electroshock' que corte con el p",
+      "score": 4.43,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "corte",
+          "score": -1
         },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "dilema",
+          "word": "corte",
           "score": -1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El tribunal de Kitchen rechaza investigar a Cospedal y al PP porque esa decisión",
-      "score": 5.49,
+      "title": "Nunca es buen momento para Cospedal en el caso Kitchen",
+      "score": 4.11,
       "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
         {
           "word": "rechaza",
           "score": -1
@@ -358,52 +377,13 @@
           "score": -1
         },
         {
-          "word": "esperado",
+          "word": "arrastrado",
           "score": -1
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Fiscalía se opone a que Cospedal vuelva a ser investigada en Kitchen y que se",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "competente",
-          "score": 2
-        },
-        {
-          "word": "rechazado",
-          "score": -1
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "capacidad",
-          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-29T10:30:14Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-03-29T11:26:42Z",
       "score": 4.75
@@ -1070,6 +1050,10 @@
     },
     {
       "timestamp": "2026-04-08T02:08:41Z",
+      "score": 4.78
+    },
+    {
+      "timestamp": "2026-04-08T05:08:59Z",
       "score": 4.78
     }
   ]

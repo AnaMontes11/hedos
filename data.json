@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-08T10:12:45Z",
-  "global_score": 4.79,
-  "articles_scored": 100,
-  "words_matched": 311,
+  "generated": "2026-04-08T11:53:14Z",
+  "global_score": 4.71,
+  "articles_scored": 98,
+  "words_matched": 296,
   "top_negative": [
     {
       "word": "bastardos",
@@ -29,19 +29,15 @@
       "score": -4
     },
     {
-      "word": "destruir",
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "morir",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "eufórico",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -51,11 +47,7 @@
       "score": 4
     },
     {
-      "word": "amado",
-      "score": 3
-    },
-    {
-      "word": "felicidad",
+      "word": "fiel",
       "score": 3
     },
     {
@@ -63,28 +55,55 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "cortés",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.54,
-    "elDiario.es": 4.77,
-    "El Mundo": 5.17,
-    "ABC": 5.89,
-    "El Confidencial": 4.05,
-    "BBC Mundo": 5.02,
-    "France 24 ES": 4.11,
-    "La Nación AR": 4.93,
-    "La Jornada MX": 4.58,
+    "El País": 4.66,
+    "elDiario.es": 4.62,
+    "El Mundo": 4.33,
+    "ABC": 5.11,
+    "El Confidencial": 4.3,
+    "BBC Mundo": 5.1,
+    "France 24 ES": 4.22,
+    "La Nación AR": 4.52,
+    "La Jornada MX": 5.17,
     "Desinformémonos": 4.94,
     "Resumen Latinoam.": 4.66
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Estados Unidos e Irán acuerdan un alto el fuego de dos semanas justo antes de ex",
@@ -110,11 +129,15 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 4.04,
+      "title": "Los mercados se alejan del abismo pero sin despejar las dudas: “El conflicto sig",
+      "score": 3.6,
       "words": [
         {
-          "word": "guerra",
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "conflicto",
           "score": -2
         },
         {
@@ -122,30 +145,7 @@
           "score": -2
         },
         {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "enemigo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Euforia en las Bolsas tras el alto el fuego temporal en Irán: el Ibex sube un 3,",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "euforia",
-          "score": 3
-        },
-        {
-          "word": "fuego",
+          "word": "riesgo",
           "score": -2
         }
       ]
@@ -213,27 +213,23 @@
     },
     {
       "source": "El País",
+      "title": "Juicio contra Ábalos, Koldo y Aldama, en directo | Una de las mujeres vinculadas",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El desenfrenado verano del 73 de Ábalos y Jessica: “Lo que vivimos solo lo sabem",
       "score": 3.4,
       "words": [
         {
           "word": "solo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Juicio contra Ábalos, Koldo y Aldama, en directo | Un exdirectivo de Renfe decla",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "adecuado",
-          "score": 1
         }
       ]
     },
@@ -400,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-29T14:32:07Z",
-      "score": 4.51
-    },
     {
       "timestamp": "2026-03-29T15:28:51Z",
       "score": 4.59
@@ -1071,6 +1063,10 @@
     {
       "timestamp": "2026-04-08T10:12:45Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-04-08T11:53:14Z",
+      "score": 4.71
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-08T18:12:30Z",
-  "global_score": 4.65,
-  "articles_scored": 84,
-  "words_matched": 263,
+  "generated": "2026-04-08T19:57:38Z",
+  "global_score": 4.68,
+  "articles_scored": 89,
+  "words_matched": 265,
   "top_negative": [
     {
       "word": "bastardos",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "popular",
       "score": 3
     },
@@ -69,19 +65,24 @@
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "calmar",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.84,
-    "elDiario.es": 4.71,
-    "El Mundo": 5.02,
+    "El País": 4.42,
+    "elDiario.es": 4.73,
+    "El Mundo": 5.26,
+    "ABC": 5.04,
     "El Confidencial": 4.53,
-    "BBC Mundo": 4.58,
-    "France 24 ES": 3.78,
-    "La Nación AR": 4.89,
+    "BBC Mundo": 4.62,
+    "France 24 ES": 3.94,
+    "La Nación AR": 5.35,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.93,
-    "Resumen Latinoam.": 4.21
+    "Resumen Latinoam.": 3.94
   },
   "articles": [
     {
@@ -177,16 +178,35 @@
     },
     {
       "source": "El País",
-      "title": "Las amenazas de Trump contra Irán repugnan incluso dentro del mundo MAGA",
-      "score": 5.0,
+      "title": "La UE, Canadá, Reino Unido y Japón reclaman que el alto el fuego en la guerra de",
+      "score": 4.8,
       "words": [
         {
-          "word": "amenazas",
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "cumplir",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "libertad",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El difuso trabajo de la amiga de Ábalos que pasaba su jornada en una empresa púb",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "quejado",
+          "score": -2
         }
       ]
     },
@@ -197,17 +217,6 @@
       "words": [
         {
           "word": "ayuda",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un ex alto cargo de Adif asegura que Ábalos llamó a Pardo de Vera porque en Inec",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "asegura",
           "score": 2
         }
       ]
@@ -269,8 +278,12 @@
     {
       "source": "elDiario.es",
       "title": "La Casa Blanca reconoce que Trump abordará con Rutte su posible salida de la OTA",
-      "score": 4.6,
+      "score": 4.83,
       "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
         {
           "word": "defensor",
           "score": 2
@@ -286,10 +299,6 @@
         {
           "word": "sentido",
           "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     },
@@ -403,10 +412,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-29T19:30:29Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-03-29T20:28:55Z",
       "score": 4.57
@@ -1074,6 +1079,10 @@
     {
       "timestamp": "2026-04-08T18:12:30Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-04-08T19:57:38Z",
+      "score": 4.68
     }
   ]
 }

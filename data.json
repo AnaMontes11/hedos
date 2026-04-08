@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-08T11:53:14Z",
-  "global_score": 4.71,
-  "articles_scored": 98,
-  "words_matched": 296,
+  "generated": "2026-04-08T13:15:43Z",
+  "global_score": 4.74,
+  "articles_scored": 95,
+  "words_matched": 272,
   "top_negative": [
     {
       "word": "bastardos",
@@ -13,7 +13,7 @@
       "score": -5
     },
     {
-      "word": "fraude",
+      "word": "infierno",
       "score": -4
     },
     {
@@ -21,7 +21,7 @@
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "morir",
+      "word": "delito",
       "score": -3
     }
   ],
@@ -47,18 +47,6 @@
       "score": 4
     },
     {
-      "word": "fiel",
-      "score": 3
-    },
-    {
-      "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "cortés",
-      "score": 3
-    },
-    {
       "word": "bueno",
       "score": 3
     },
@@ -69,26 +57,38 @@
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.66,
-    "elDiario.es": 4.62,
-    "El Mundo": 4.33,
-    "ABC": 5.11,
-    "El Confidencial": 4.3,
-    "BBC Mundo": 5.1,
-    "France 24 ES": 4.22,
-    "La Nación AR": 4.52,
+    "El País": 4.59,
+    "elDiario.es": 4.64,
+    "El Mundo": 4.53,
+    "ABC": 5.63,
+    "El Confidencial": 4.47,
+    "BBC Mundo": 4.58,
+    "France 24 ES": 3.97,
+    "La Nación AR": 5.0,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.94,
-    "Resumen Latinoam.": 4.66
+    "Resumen Latinoam.": 4.73
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 5.0,
+      "score": 4.73,
       "words": [
         {
           "word": "guerra",
@@ -99,8 +99,8 @@
           "score": 3
         },
         {
-          "word": "ataques",
-          "score": -1
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -129,23 +129,15 @@
     },
     {
       "source": "El País",
-      "title": "Los mercados se alejan del abismo pero sin despejar las dudas: “El conflicto sig",
-      "score": 3.6,
+      "title": "Pakistán, el mediador inesperado de la tregua entre Estados Unidos e Irán",
+      "score": 5.0,
       "words": [
         {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "conflicto",
-          "score": -2
+          "word": "negociar",
+          "score": 2
         },
         {
           "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
           "score": -2
         }
       ]
@@ -175,24 +167,16 @@
     },
     {
       "source": "El País",
-      "title": "Irán, una tregua pírrica para Trump",
-      "score": 5.6,
+      "title": "Yo, Donald Trump, soy el imperio al final de la decadencia",
+      "score": 3.8,
       "words": [
-        {
-          "word": "paga",
-          "score": -1
-        },
-        {
-          "word": "caro",
-          "score": 3
-        },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "prestigio",
-          "score": 3
+          "word": "límites",
+          "score": -1
         }
       ]
     },
@@ -261,28 +245,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump anuncia un alto el fuego de dos semanas y da marcha atrás en sus amenazas ",
-      "score": 4.42,
+      "title": "Un juez de Andorra imputa a Carvajal, Silva, Cazorla y otros cuatro futbolistas ",
+      "score": 5.17,
       "words": [
         {
-          "word": "fuego",
+          "word": "moda",
           "score": -2
         },
         {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "fuerza",
+          "word": "ayuda",
           "score": 2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "activo",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
@@ -315,60 +299,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "¿Consiguió Netanyahu engañar a Trump para que participara en su “guerra fácil” c",
-      "score": 4.54,
-      "words": [
-        {
-          "word": "engañar",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fácil",
-          "score": 1
-        },
-        {
-          "word": "engañar",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El caos y los insultos de Trump empujan al Reino Unido hacia la Unión Europea",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "caos",
-          "score": -2
-        },
-        {
-          "word": "insultos",
-          "score": -2
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "caos",
-          "score": -2
-        },
-        {
-          "word": "insultos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "La guerra en Irán evidencia la necesidad de un 'electroshock' que corte con el p",
       "score": 4.46,
       "words": [
@@ -393,13 +323,63 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump anuncia que Irán no tendrá \"uranio enriquecido\" y amenaza con aranceles de",
+      "score": 4.68,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "restos",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump anuncia un alto el fuego de dos semanas y da marcha atrás en sus amenazas ",
+      "score": 4.42,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-29T15:28:51Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-03-29T16:32:30Z",
       "score": 4.58
@@ -1067,6 +1047,10 @@
     {
       "timestamp": "2026-04-08T11:53:14Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-04-08T13:15:43Z",
+      "score": 4.74
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-08T13:15:43Z",
-  "global_score": 4.74,
-  "articles_scored": 95,
-  "words_matched": 272,
+  "generated": "2026-04-08T15:07:22Z",
+  "global_score": 4.6,
+  "articles_scored": 94,
+  "words_matched": 273,
   "top_negative": [
     {
       "word": "bastardos",
@@ -13,7 +13,7 @@
       "score": -5
     },
     {
-      "word": "infierno",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -21,7 +21,7 @@
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "infierno",
       "score": -4
     },
     {
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -43,8 +43,8 @@
       "score": 4
     },
     {
-      "word": "victorias",
-      "score": 4
+      "word": "celebrar",
+      "score": 3
     },
     {
       "word": "bueno",
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.59,
-    "elDiario.es": 4.64,
-    "El Mundo": 4.53,
-    "ABC": 5.63,
+    "El País": 4.53,
+    "elDiario.es": 4.66,
+    "El Mundo": 4.42,
+    "ABC": 4.92,
     "El Confidencial": 4.47,
-    "BBC Mundo": 4.58,
-    "France 24 ES": 3.97,
-    "La Nación AR": 5.0,
+    "BBC Mundo": 4.56,
+    "France 24 ES": 4.39,
+    "La Nación AR": 4.44,
     "La Jornada MX": 5.17,
-    "Desinformémonos": 4.94,
-    "Resumen Latinoam.": 4.73
+    "Desinformémonos": 4.77,
+    "Resumen Latinoam.": 3.92
   },
   "articles": [
     {
@@ -129,38 +129,23 @@
     },
     {
       "source": "El País",
-      "title": "Pakistán, el mediador inesperado de la tregua entre Estados Unidos e Irán",
-      "score": 5.0,
+      "title": "Israel causa decenas de muertos tras lanzar 160 bombas sobre Líbano, la mayor ol",
+      "score": 5.2,
       "words": [
-        {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El precio del petróleo se desploma tras el acuerdo para un alto el fuego de dos ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
         {
           "word": "mayor",
           "score": 3
         },
         {
           "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "fuego",
           "score": -2
         }
       ]
@@ -182,6 +167,25 @@
     },
     {
       "source": "El País",
+      "title": "Acuerdo entre EE UU e Irán: las claves del alto el fuego y sus implicaciones en ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Las amenazas de Trump contra Irán repugnan incluso dentro del mundo MAGA",
       "score": 5.0,
       "words": [
@@ -197,9 +201,13 @@
     },
     {
       "source": "El País",
-      "title": "Juicio contra Ábalos, Koldo y Aldama, en directo | Una de las mujeres vinculadas",
+      "title": "Juicio contra Ábalos, Koldo y Aldama, en directo | Un ex alto cargo de Adif aseg",
       "score": 6.6,
       "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
         {
           "word": "asegura",
           "score": 2
@@ -245,82 +253,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Un juez de Andorra imputa a Carvajal, Silva, Cazorla y otros cuatro futbolistas ",
-      "score": 5.17,
+      "title": "Israel desafía los llamamientos para extender la tregua a Líbano y lanza su \"may",
+      "score": 4.64,
       "words": [
         {
-          "word": "moda",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "activo",
-          "score": 2
-        },
-        {
-          "word": "pasado",
+          "word": "ataque",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El día que Trump mantuvo al mundo en vilo con sus amenazas apocalípticas sobre I",
-      "score": 4.13,
-      "words": [
-        {
-          "word": "amenazas",
-          "score": -2
         },
         {
-          "word": "amenazas",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "amenaza",
-          "score": -2
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "matar",
-          "score": -3
-        },
-        {
-          "word": "ampliar",
+          "word": "aceptar",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La guerra en Irán evidencia la necesidad de un 'electroshock' que corte con el p",
-      "score": 4.46,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "corte",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "corte",
-          "score": -1
-        },
-        {
-          "word": "conflicto",
-          "score": -2
         }
       ]
     },
@@ -353,6 +307,60 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La guerra en Irán evidencia la necesidad de un 'electroshock' que corte con el p",
+      "score": 4.46,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "corte",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "corte",
+          "score": -1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El día que Trump mantuvo al mundo en vilo con sus amenazas apocalípticas sobre I",
+      "score": 4.13,
+      "words": [
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "matar",
+          "score": -3
+        },
+        {
+          "word": "ampliar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump anuncia un alto el fuego de dos semanas y da marcha atrás en sus amenazas ",
       "score": 4.42,
       "words": [
@@ -380,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-29T16:32:30Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-03-29T17:27:31Z",
       "score": 4.59
@@ -1051,6 +1055,10 @@
     {
       "timestamp": "2026-04-08T13:15:43Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-04-08T15:07:22Z",
+      "score": 4.6
     }
   ]
 }

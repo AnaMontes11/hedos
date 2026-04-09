@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-09T13:21:51Z",
-  "global_score": 4.61,
-  "articles_scored": 98,
-  "words_matched": 336,
+  "generated": "2026-04-09T15:20:33Z",
+  "global_score": 4.64,
+  "articles_scored": 92,
+  "words_matched": 305,
   "top_negative": [
-    {
-      "word": "violación",
-      "score": -4
-    },
     {
       "word": "culo",
       "score": -4
@@ -17,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "violador",
+      "word": "violación",
       "score": -4
     },
     {
@@ -26,6 +22,10 @@
     },
     {
       "word": "pérdida",
+      "score": -3
+    },
+    {
+      "word": "abusado",
       "score": -3
     },
     {
@@ -39,59 +39,63 @@
   ],
   "top_positive": [
     {
-      "word": "magnífico",
-      "score": 5
-    },
-    {
-      "word": "maravilloso",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "brillante",
       "score": 4
     },
     {
-      "word": "premio",
+      "word": "devoto",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "fiel",
+      "score": 3
+    },
+    {
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     },
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.87,
-    "elDiario.es": 4.44,
-    "El Mundo": 5.0,
-    "ABC": 5.32,
+    "El País": 3.72,
+    "elDiario.es": 4.56,
+    "El Mundo": 4.98,
+    "ABC": 5.62,
     "El Confidencial": 4.73,
-    "BBC Mundo": 4.16,
-    "France 24 ES": 4.34,
+    "BBC Mundo": 4.26,
+    "France 24 ES": 4.29,
     "La Nación AR": 5.1,
     "La Jornada MX": 4.65,
     "Desinformémonos": 4.82,
-    "Resumen Latinoam.": 4.24
+    "Resumen Latinoam.": 3.91
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 3.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ne",
+      "score": 3.6,
       "words": [
         {
           "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
           "score": -2
         },
         {
@@ -99,35 +103,12 @@
           "score": -2
         },
         {
-          "word": "violación",
-          "score": -4
+          "word": "violar",
+          "score": -2
         },
         {
           "word": "fuego",
           "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La paz entre Irán y Estados Unidos se negociará en Pakistán bajo la amenaza de l",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "aceptado",
-          "score": -1
         }
       ]
     },
@@ -175,25 +156,6 @@
     },
     {
       "source": "El País",
-      "title": "40 días de guerra inútil",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "inútil",
-          "score": -2
-        },
-        {
-          "word": "caos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El PSOE lanza una andanada contra Ayuso por Quirón: “Es usted rarita moralmente ",
       "score": 4.2,
       "words": [
@@ -218,6 +180,33 @@
         },
         {
           "word": "grave",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "García-Page niega que haya financiación ilegal en el PSOE y denuncia que alguien",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "robado",
+          "score": -2
+        },
+        {
+          "word": "acusación",
           "score": -2
         }
       ]
@@ -300,33 +289,6 @@
         {
           "word": "fuego",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Israel da la espalda a la vía diplomática y apuesta por la escalada con una masa",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "espalda",
-          "score": 1
-        },
-        {
-          "word": "espalda",
-          "score": 1
-        },
-        {
-          "word": "negado",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "lanzado",
-          "score": 1
         }
       ]
     },
@@ -437,13 +399,63 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El FMI advierte que \"no se volverá\" al escenario energético previo a la guerra c",
+      "score": 4.7,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "energético",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Reino Unido denuncia una operación rusa para sabotear cables submarinos en el",
+      "score": 4.55,
+      "words": [
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-30T16:04:15Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-03-30T17:53:18Z",
       "score": 4.81
@@ -1111,6 +1123,10 @@
     {
       "timestamp": "2026-04-09T13:21:51Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-09T15:20:33Z",
+      "score": 4.64
     }
   ]
 }

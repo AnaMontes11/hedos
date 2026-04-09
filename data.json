@@ -1,19 +1,19 @@
 {
-  "generated": "2026-04-09T11:55:09Z",
-  "global_score": 4.55,
-  "articles_scored": 97,
-  "words_matched": 311,
+  "generated": "2026-04-09T13:21:51Z",
+  "global_score": 4.61,
+  "articles_scored": 98,
+  "words_matched": 336,
   "top_negative": [
+    {
+      "word": "violación",
+      "score": -4
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
       "word": "infierno",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -39,6 +39,10 @@
   ],
   "top_positive": [
     {
+      "word": "magnífico",
+      "score": 5
+    },
+    {
       "word": "maravilloso",
       "score": 4
     },
@@ -51,63 +55,59 @@
       "score": 4
     },
     {
-      "word": "celebra",
-      "score": 3
+      "word": "brillante",
+      "score": 4
     },
     {
-      "word": "excelente",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "calmar",
+      "word": "premio",
       "score": 3
     },
     {
       "word": "bueno",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.17,
-    "elDiario.es": 4.62,
+    "El País": 3.87,
+    "elDiario.es": 4.44,
     "El Mundo": 5.0,
-    "ABC": 4.9,
+    "ABC": 5.32,
     "El Confidencial": 4.73,
-    "BBC Mundo": 4.13,
-    "France 24 ES": 4.22,
-    "La Nación AR": 4.51,
+    "BBC Mundo": 4.16,
+    "France 24 ES": 4.34,
+    "La Nación AR": 5.1,
     "La Jornada MX": 4.65,
     "Desinformémonos": 4.82,
-    "Resumen Latinoam.": 4.21
+    "Resumen Latinoam.": 4.24
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ne",
-      "score": 4.3,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 3.4,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "presión",
-          "score": -1
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "violación",
+          "score": -4
         },
         {
           "word": "fuego",
           "score": -2
         },
         {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
+          "word": "riesgo",
           "score": -2
         }
       ]
@@ -223,21 +223,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "El Gobierno, sobre el proceso a Ábalos: “Es imposible hablar de nada positivo es",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "admite",
-          "score": -1
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "El frágil alto el fuego entre EEUU e Irán se tambalea entre nuevas amenazas de T",
       "score": 4.59,
@@ -293,46 +278,11 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Reabrir un estrecho que ya estaba abierto: por qué Ormuz es la baza decisiva de ",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "activo",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El alto el fuego en Oriente Medio no acaba con el pesimismo económico en la UE: ",
-      "score": 4.41,
+      "title": "Intrahistoria de un alto el fuego: cómo logró Pakistán su \"victoria diplomática\"",
+      "score": 4.71,
       "words": [
         {
           "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "pesimismo",
-          "score": -2
-        },
-        {
-          "word": "choque",
           "score": -2
         },
         {
@@ -340,35 +290,16 @@
           "score": -2
         },
         {
-          "word": "pesimismo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El fracaso de la ilegal agresión a Irán",
-      "score": 4.54,
-      "words": [
-        {
-          "word": "fracaso",
-          "score": -2
+          "word": "evitar",
+          "score": -1
         },
         {
-          "word": "ilegal",
+          "word": "catástrofe",
           "score": -3
         },
         {
-          "word": "agresión",
+          "word": "fuego",
           "score": -2
-        },
-        {
-          "word": "fracaso",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
         }
       ]
     },
@@ -401,37 +332,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Rufián y Montero se dan cita en Barcelona mientras Podemos alienta un “tándem” d",
-      "score": 5.61,
+      "title": "El alto el fuego en Oriente Medio no acaba con el pesimismo económico en la UE: ",
+      "score": 4.41,
       "words": [
         {
-          "word": "alienta",
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "pesimismo",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "pesimismo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Reabrir un estrecho que ya estaba abierto: por qué Ormuz es la baza decisiva de ",
+      "score": 4.75,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "activo",
           "score": 2
         },
         {
-          "word": "alienta",
-          "score": 2
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "asegura",
+          "word": "negociar",
           "score": 2
-        },
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ester Muñoz (PP), sobre el soldado español retenido por Israel: \"Yo he estado en",
+      "score": 4.11,
+      "words": [
         {
-          "word": "excusa",
+          "word": "retenido",
           "score": -1
         },
         {
-          "word": "unirse",
-          "score": 1
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "retenido",
+          "score": -1
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "evita",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump desaparece del vocabulario de Feijóo",
+      "score": 4.06,
+      "words": [
+        {
+          "word": "desaparece",
+          "score": -1
+        },
+        {
+          "word": "desaparece",
+          "score": -1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-30T14:25:27Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-03-30T16:04:15Z",
       "score": 4.67
@@ -1099,6 +1107,10 @@
     {
       "timestamp": "2026-04-09T11:55:09Z",
       "score": 4.55
+    },
+    {
+      "timestamp": "2026-04-09T13:21:51Z",
+      "score": 4.61
     }
   ]
 }

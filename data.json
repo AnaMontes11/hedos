@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-09T17:04:51Z",
-  "global_score": 4.76,
-  "articles_scored": 98,
-  "words_matched": 293,
+  "generated": "2026-04-09T19:02:04Z",
+  "global_score": 4.74,
+  "articles_scored": 99,
+  "words_matched": 312,
   "top_negative": [
     {
       "word": "puto",
@@ -13,42 +13,42 @@
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "ilegal",
+      "word": "destruido",
       "score": -3
     },
     {
-      "word": "abusado",
+      "word": "desconfianza",
       "score": -3
     },
     {
-      "word": "pérdida",
+      "word": "violencia",
       "score": -3
     },
     {
       "word": "crisis",
       "score": -3
+    },
+    {
+      "word": "catástrofe",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "maravilloso",
+      "score": 4
+    },
+    {
+      "word": "divertido",
       "score": 4
     },
     {
       "word": "brillante",
       "score": 4
-    },
-    {
-      "word": "entusiasta",
-      "score": 3
     },
     {
       "word": "celebra",
@@ -59,36 +59,59 @@
       "score": 3
     },
     {
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
       "word": "excelente",
-      "score": 3
-    },
-    {
-      "word": "perfectamente",
-      "score": 3
-    },
-    {
-      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.39,
-    "elDiario.es": 4.62,
-    "El Mundo": 5.16,
-    "ABC": 4.95,
-    "El Confidencial": 4.84,
-    "BBC Mundo": 4.08,
-    "France 24 ES": 4.24,
-    "La Nación AR": 5.48,
+    "El País": 4.74,
+    "elDiario.es": 4.5,
+    "El Mundo": 5.07,
+    "ABC": 5.44,
+    "El Confidencial": 4.51,
+    "BBC Mundo": 4.12,
+    "France 24 ES": 4.29,
+    "La Nación AR": 5.32,
     "La Jornada MX": 4.65,
     "Desinformémonos": 4.77,
-    "Resumen Latinoam.": 5.12
+    "Resumen Latinoam.": 4.77
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ne",
-      "score": 3.4,
+      "title": "EE UU lleva a Israel a negociar con Líbano sobre Hezbolá para evitar que descarr",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
+      "score": 3.67,
       "words": [
         {
           "word": "guerra",
@@ -97,6 +120,10 @@
         {
           "word": "fuego",
           "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
         }
       ]
     },
@@ -121,15 +148,38 @@
     },
     {
       "source": "El País",
-      "title": "Montero y Rufián hablan sobre el futuro de la izquierda desde Barcelona, en dire",
+      "title": "Los iraníes continúan sumidos en una profunda inquietud tras el alto el fuego: “",
+      "score": 3.56,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "destruido",
+          "score": -3
+        },
+        {
+          "word": "abandonado",
+          "score": -2
+        },
+        {
+          "word": "desconfianza",
+          "score": -3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Rufián en su charla con Montero en directo: “¿Por qué ERC no puede inspirar como",
       "score": 6.6,
       "words": [
         {
-          "word": "interesante",
-          "score": 2
-        },
-        {
-          "word": "asegura",
+          "word": "inspirar",
           "score": 2
         }
       ]
@@ -147,6 +197,52 @@
     },
     {
       "source": "El País",
+      "title": "Guerra civil en el paraíso de los chimpancés: “Han diezmado al grupo rival”",
+      "score": 5.32,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "paraíso",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La candidez de la (presunta) testaferro inunda el juicio por el ‘caso Koldo’",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "candidez",
+          "score": -2
+        },
+        {
+          "word": "paja",
+          "score": -2
+        },
+        {
+          "word": "favorecido",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Instrucciones para llevar bolsas de dinero a Ferraz",
       "score": 6.6,
       "words": [
@@ -157,55 +253,9 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "García-Page niega que haya financiación ilegal en el PSOE y denuncia que alguien",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "robado",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El frenazo de Vox en España se agudiza en Andalucía",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "negar",
-          "score": -2
-        },
-        {
-          "word": "pérdida",
-          "score": -3
-        },
-        {
-          "word": "grave",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Netanyahu anuncia negociaciones directas con Líbano mientras el ejército israelí",
-      "score": 4.66,
+      "score": 4.77,
       "words": [
         {
           "word": "fuego",
@@ -363,67 +413,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump desaparece del vocabulario de Feijóo",
-      "score": 4.06,
-      "words": [
-        {
-          "word": "desaparece",
-          "score": -1
-        },
-        {
-          "word": "desaparece",
-          "score": -1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El FMI advierte que \"no se volverá\" al escenario energético previo a la guerra c",
-      "score": 4.7,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "energético",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-30T18:56:16Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-03-30T19:55:32Z",
       "score": 4.61
@@ -1091,6 +1083,10 @@
     {
       "timestamp": "2026-04-09T17:04:51Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-04-09T19:02:04Z",
+      "score": 4.74
     }
   ]
 }

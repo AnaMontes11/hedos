@@ -1,23 +1,11 @@
 {
-  "generated": "2026-04-09T02:01:15Z",
-  "global_score": 4.63,
-  "articles_scored": 92,
-  "words_matched": 283,
+  "generated": "2026-04-09T05:07:09Z",
+  "global_score": 4.66,
+  "articles_scored": 97,
+  "words_matched": 269,
   "top_negative": [
     {
-      "word": "bastardos",
-      "score": -5
-    },
-    {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -25,15 +13,27 @@
       "score": -4
     },
     {
-      "word": "cargado",
-      "score": -3
+      "word": "fraude",
+      "score": -4
     },
     {
       "word": "ilegal",
       "score": -3
     },
     {
+      "word": "cargado",
+      "score": -3
+    },
+    {
       "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "terror",
+      "score": -3
+    },
+    {
+      "word": "peor",
       "score": -3
     }
   ],
@@ -43,43 +43,43 @@
       "score": 4
     },
     {
-      "word": "felicidad",
-      "score": 3
+      "word": "maravilloso",
+      "score": 4
+    },
+    {
+      "word": "milagro",
+      "score": 4
     },
     {
       "word": "popular",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "feliz",
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "felicidad",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
-    },
-    {
-      "word": "calmar",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.34,
-    "elDiario.es": 4.7,
+    "El País": 4.37,
+    "elDiario.es": 4.76,
     "El Mundo": 4.76,
-    "ABC": 4.76,
-    "El Confidencial": 4.53,
-    "BBC Mundo": 4.35,
-    "France 24 ES": 4.11,
-    "La Nación AR": 4.52,
+    "ABC": 4.22,
+    "El Confidencial": 4.42,
+    "BBC Mundo": 4.26,
+    "France 24 ES": 4.68,
+    "La Nación AR": 5.06,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.82,
     "Resumen Latinoam.": 4.92
@@ -87,16 +87,20 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Nuevos ataques en Oriente Próximo muestran la fragilidad del alto el fuego entre",
-      "score": 3.8,
+      "title": "La paz entre Irán y Estados Unidos se negociará en Pakistán bajo la amenaza de l",
+      "score": 4.73,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
+          "word": "paz",
+          "score": 2
         },
         {
-          "word": "fuego",
+          "word": "amenaza",
           "score": -2
+        },
+        {
+          "word": "aceptado",
+          "score": -1
         }
       ]
     },
@@ -140,69 +144,92 @@
     },
     {
       "source": "El País",
-      "title": "Israel causa más de 250 muertos en Líbano tras lanzar 160 bombas, su mayor olead",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Yo, Donald Trump, soy el imperio al final de la decadencia",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "límites",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La UE, Canadá, Reino Unido y Japón reclaman que el alto el fuego en la guerra de",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El difuso trabajo de la amiga de Ábalos que pasaba su jornada en una empresa púb",
+      "title": "Netanyahu, en la diana por prometer una gran victoria en Irán y recibir un alto ",
       "score": 3.4,
       "words": [
         {
-          "word": "quejado",
+          "word": "fuego",
           "score": -2
+        },
+        {
+          "word": "carga",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Pagar un peaje a Irán por cruzar el estrecho de Ormuz: una moderna piratería con",
+      "score": 4.84,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "cobrar",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "40 días de guerra inútil",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "inútil",
+          "score": -2
+        },
+        {
+          "word": "caos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump e Irán: de la amenaza de genocidio a la tregua",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno, sobre el proceso a Ábalos: “Es imposible hablar de nada positivo es",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "admite",
+          "score": -1
         }
       ]
     },
@@ -219,15 +246,15 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El frágil alto el fuego pactado entre Trump e Irán se tambalea",
-      "score": 4.45,
+      "title": "El frágil alto el fuego entre EEUU e Irán se tambalea entre nuevas amenazas de T",
+      "score": 4.59,
       "words": [
         {
           "word": "fuego",
           "score": -2
         },
         {
-          "word": "fuego",
+          "word": "amenazas",
           "score": -2
         },
         {
@@ -239,60 +266,6 @@
           "score": -2
         },
         {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Israel desafía los llamamientos para extender la tregua a Líbano y lanza su \"may",
-      "score": 4.56,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump anuncia que Irán no tendrá \"uranio enriquecido\" y amenaza con aranceles de",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "restos",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
           "word": "amenazas",
           "score": -2
         }
@@ -300,19 +273,73 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Casa Blanca reconoce que Trump quería abordar con Rutte su posible salida de ",
-      "score": 4.83,
+      "title": "🎙 PODCAST | TACO: Trump, la gallina y el shock",
+      "score": 4.08,
       "words": [
         {
-          "word": "amenaza",
+          "word": "amenazar",
           "score": -2
         },
         {
-          "word": "defensor",
+          "word": "infierno",
+          "score": -4
+        },
+        {
+          "word": "terror",
+          "score": -3
+        },
+        {
+          "word": "negociar",
           "score": 2
         },
         {
-          "word": "cumplir",
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Israel da la espalda a la vía diplomática y apuesta por la escalada con una masa",
+      "score": 4.72,
+      "words": [
+        {
+          "word": "espalda",
+          "score": 1
+        },
+        {
+          "word": "espalda",
+          "score": 1
+        },
+        {
+          "word": "negado",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "lanzado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Reabrir un estrecho que ya estaba abierto: por qué Ormuz es la baza decisiva de ",
+      "score": 4.75,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "activo",
           "score": 2
         },
         {
@@ -320,98 +347,67 @@
           "score": -2
         },
         {
-          "word": "sentido",
+          "word": "negociar",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los testigos acorralan a Ábalos y Koldo García por los enchufes de dos mujeres e",
+      "score": 4.46,
+      "words": [
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "mayor",
           "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La amenaza de Trump de salir de la OTAN: un desvarío por la falta de sumisión de",
-      "score": 4.65,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
         },
         {
-          "word": "legal",
-          "score": 1
+          "word": "gracias",
+          "score": 2
         },
         {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "ignora",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El día que Trump mantuvo al mundo en vilo con sus amenazas apocalípticas sobre I",
-      "score": 4.13,
-      "words": [
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "matar",
+          "word": "delito",
           "score": -3
         },
         {
-          "word": "ampliar",
-          "score": 1
+          "word": "acusaciones",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump anuncia un alto el fuego de dos semanas y da marcha atrás en sus amenazas ",
-      "score": 4.42,
+      "title": "La militante del PSOE vinculada a Ábalos defiende su contratación en una empresa",
+      "score": 4.79,
       "words": [
         {
-          "word": "fuego",
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "amenazas",
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "negado",
           "score": -2
         },
         {
-          "word": "fuego",
-          "score": -2
+          "word": "espalda",
+          "score": 1
         },
         {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "fuerza",
+          "word": "fuerte",
           "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-30T05:21:56Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-03-30T07:24:13Z",
       "score": 4.68
@@ -1079,6 +1075,10 @@
     {
       "timestamp": "2026-04-09T02:01:15Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-04-09T05:07:09Z",
+      "score": 4.66
     }
   ]
 }

@@ -1,15 +1,19 @@
 {
-  "generated": "2026-04-09T15:20:33Z",
-  "global_score": 4.64,
-  "articles_scored": 92,
-  "words_matched": 305,
+  "generated": "2026-04-09T17:04:51Z",
+  "global_score": 4.76,
+  "articles_scored": 98,
+  "words_matched": 293,
   "top_negative": [
+    {
+      "word": "puto",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -21,37 +25,29 @@
       "score": -3
     },
     {
-      "word": "pérdida",
-      "score": -3
-    },
-    {
       "word": "abusado",
       "score": -3
     },
     {
-      "word": "cargado",
+      "word": "pérdida",
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "crisis",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "brillante",
       "score": 4
     },
     {
-      "word": "devoto",
-      "score": 3
-    },
-    {
-      "word": "fiel",
-      "score": 3
-    },
-    {
-      "word": "premios",
+      "word": "entusiasta",
       "score": 3
     },
     {
@@ -69,44 +65,36 @@
     {
       "word": "perfectamente",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.72,
-    "elDiario.es": 4.56,
-    "El Mundo": 4.98,
-    "ABC": 5.62,
-    "El Confidencial": 4.73,
-    "BBC Mundo": 4.26,
-    "France 24 ES": 4.29,
-    "La Nación AR": 5.1,
+    "El País": 4.39,
+    "elDiario.es": 4.62,
+    "El Mundo": 5.16,
+    "ABC": 4.95,
+    "El Confidencial": 4.84,
+    "BBC Mundo": 4.08,
+    "France 24 ES": 4.24,
+    "La Nación AR": 5.48,
     "La Jornada MX": 4.65,
-    "Desinformémonos": 4.82,
-    "Resumen Latinoam.": 3.91
+    "Desinformémonos": 4.77,
+    "Resumen Latinoam.": 5.12
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ne",
-      "score": 3.6,
+      "score": 3.4,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "violar",
-          "score": -2
-        },
-        {
           "word": "fuego",
           "score": -2
         }
@@ -114,43 +102,35 @@
     },
     {
       "source": "El País",
-      "title": "Netanyahu, en la diana por prometer una gran victoria en Irán y recibir un alto ",
-      "score": 3.4,
+      "title": "Irán intensifica el bloqueo de Ormuz tras el alto el fuego",
+      "score": 3.67,
       "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
         {
           "word": "fuego",
           "score": -2
         },
         {
-          "word": "carga",
+          "word": "solo",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Pagar un peaje a Irán por cruzar el estrecho de Ormuz: una moderna piratería con",
-      "score": 4.84,
+      "title": "Montero y Rufián hablan sobre el futuro de la izquierda desde Barcelona, en dire",
+      "score": 6.6,
       "words": [
         {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
+          "word": "interesante",
           "score": 2
         },
         {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -167,20 +147,12 @@
     },
     {
       "source": "El País",
-      "title": "El frenazo de Vox en España se agudiza en Andalucía",
-      "score": 3.13,
+      "title": "Instrucciones para llevar bolsas de dinero a Ferraz",
+      "score": 6.6,
       "words": [
         {
-          "word": "negar",
-          "score": -2
-        },
-        {
-          "word": "pérdida",
-          "score": -3
-        },
-        {
-          "word": "grave",
-          "score": -2
+          "word": "tipo",
+          "score": 2
         }
       ]
     },
@@ -212,10 +184,33 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "El frágil alto el fuego entre EEUU e Irán se tambalea entre nuevas amenazas de T",
-      "score": 4.59,
+      "source": "El País",
+      "title": "El frenazo de Vox en España se agudiza en Andalucía",
+      "score": 3.13,
       "words": [
+        {
+          "word": "negar",
+          "score": -2
+        },
+        {
+          "word": "pérdida",
+          "score": -3
+        },
+        {
+          "word": "grave",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Netanyahu anuncia negociaciones directas con Líbano mientras el ejército israelí",
+      "score": 4.66,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
         {
           "word": "fuego",
           "score": -2
@@ -229,38 +224,34 @@
           "score": -2
         },
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "🎙 PODCAST | TACO: Trump, la gallina y el shock",
-      "score": 4.08,
+      "title": "El alto el fuego en Oriente Medio no acaba con el pesimismo económico en la UE: ",
+      "score": 4.41,
       "words": [
         {
-          "word": "amenazar",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "infierno",
-          "score": -4
+          "word": "pesimismo",
+          "score": -2
         },
         {
-          "word": "terror",
-          "score": -3
-        },
-        {
-          "word": "negociar",
-          "score": 2
+          "word": "choque",
+          "score": -2
         },
         {
           "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "pesimismo",
           "score": -2
         }
       ]
@@ -294,19 +285,19 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El alto el fuego en Oriente Medio no acaba con el pesimismo económico en la UE: ",
-      "score": 4.41,
+      "title": "El frágil alto el fuego entre EEUU e Irán se tambalea entre nuevas amenazas de T",
+      "score": 4.59,
       "words": [
         {
           "word": "fuego",
           "score": -2
         },
         {
-          "word": "pesimismo",
+          "word": "amenazas",
           "score": -2
         },
         {
-          "word": "choque",
+          "word": "acusaciones",
           "score": -2
         },
         {
@@ -314,7 +305,7 @@
           "score": -2
         },
         {
-          "word": "pesimismo",
+          "word": "amenazas",
           "score": -2
         }
       ]
@@ -426,40 +417,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Reino Unido denuncia una operación rusa para sabotear cables submarinos en el",
-      "score": 4.55,
-      "words": [
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-30T17:53:18Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-03-30T18:56:16Z",
       "score": 4.65
@@ -1127,6 +1087,10 @@
     {
       "timestamp": "2026-04-09T15:20:33Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-04-09T17:04:51Z",
+      "score": 4.76
     }
   ]
 }

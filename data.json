@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-09T07:17:59Z",
-  "global_score": 4.81,
-  "articles_scored": 96,
-  "words_matched": 276,
+  "generated": "2026-04-09T09:04:19Z",
+  "global_score": 4.69,
+  "articles_scored": 93,
+  "words_matched": 311,
   "top_negative": [
     {
       "word": "culo",
@@ -39,56 +39,56 @@
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "triunfo",
       "score": 4
     },
     {
-      "word": "popular",
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "leal",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "bonito",
       "score": 3
     },
     {
-      "word": "aliviado",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "afecto",
-      "score": 3
-    },
-    {
-      "word": "feliz",
-      "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "felicidad",
+      "word": "encantado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.36,
-    "elDiario.es": 4.76,
-    "El Mundo": 4.93,
-    "ABC": 5.58,
-    "El Confidencial": 4.8,
-    "BBC Mundo": 4.26,
+    "El País": 4.02,
+    "elDiario.es": 4.69,
+    "El Mundo": 4.58,
+    "ABC": 5.41,
+    "El Confidencial": 4.38,
+    "BBC Mundo": 4.15,
     "France 24 ES": 4.55,
-    "La Nación AR": 4.77,
+    "La Nación AR": 5.08,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.82,
-    "Resumen Latinoam.": 4.92
+    "Resumen Latinoam.": 4.95
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.04,
+      "score": 5.0,
       "words": [
         {
           "word": "guerra",
@@ -219,32 +219,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "El Gobierno, sobre el proceso a Ábalos: “Es imposible hablar de nada positivo es",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "admite",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Extraños en un tren: “¿Y a una persona que no está yendo a trabajar, se le sube ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "ayuda",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "El frágil alto el fuego entre EEUU e Irán se tambalea entre nuevas amenazas de T",
       "score": 4.59,
@@ -300,33 +274,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Reabrir un estrecho que ya estaba abierto: por qué Ormuz es la baza decisiva de ",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "activo",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Israel da la espalda a la vía diplomática y apuesta por la escalada con una masa",
       "score": 4.7,
       "words": [
@@ -354,64 +301,141 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los testigos acorralan a Ábalos y Koldo García por los enchufes de dos mujeres e",
-      "score": 4.46,
+      "title": "Reabrir un estrecho que ya estaba abierto: por qué Ormuz es la baza decisiva de ",
+      "score": 4.75,
       "words": [
         {
-          "word": "cargos",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "gracias",
+          "word": "activo",
           "score": 2
         },
         {
-          "word": "delito",
-          "score": -3
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "acusaciones",
-          "score": -2
+          "word": "negociar",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La militante del PSOE vinculada a Ábalos defiende su contratación en una empresa",
-      "score": 4.79,
+      "title": "El fracaso de la ilegal agresión a Irán",
+      "score": 4.54,
       "words": [
         {
-          "word": "puesto",
+          "word": "fracaso",
           "score": -2
         },
         {
-          "word": "gracias",
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Rufián y Montero se dan cita en Barcelona mientras Podemos alienta un “tándem” d",
+      "score": 5.61,
+      "words": [
+        {
+          "word": "alienta",
           "score": 2
         },
         {
-          "word": "negado",
-          "score": -2
+          "word": "alienta",
+          "score": 2
         },
         {
-          "word": "espalda",
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "excusa",
+          "score": -1
+        },
+        {
+          "word": "unirse",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Xavi Domènech: \"Las peleas personales no pueden ser la excusa para no unirse con",
+      "score": 5.11,
+      "words": [
+        {
+          "word": "excusa",
+          "score": -1
+        },
+        {
+          "word": "unirse",
           "score": 1
         },
         {
-          "word": "fuerte",
+          "word": "excusa",
+          "score": -1
+        },
+        {
+          "word": "unirse",
+          "score": 1
+        },
+        {
+          "word": "ambicioso",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump desaparece del vocabulario de Feijóo",
+      "score": 4.06,
+      "words": [
+        {
+          "word": "desaparece",
+          "score": -1
+        },
+        {
+          "word": "desaparece",
+          "score": -1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-30T09:08:59Z",
-      "score": 4.68
-    },
     {
       "timestamp": "2026-03-30T11:00:03Z",
       "score": 4.82
@@ -1079,6 +1103,10 @@
     {
       "timestamp": "2026-04-09T07:17:59Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-04-09T09:04:19Z",
+      "score": 4.69
     }
   ]
 }

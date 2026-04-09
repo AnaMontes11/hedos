@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-09T09:04:19Z",
-  "global_score": 4.69,
-  "articles_scored": 93,
-  "words_matched": 311,
+  "generated": "2026-04-09T10:56:19Z",
+  "global_score": 4.75,
+  "articles_scored": 97,
+  "words_matched": 301,
   "top_negative": [
     {
       "word": "culo",
@@ -13,15 +13,15 @@
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
       "word": "violación",
       "score": -4
     },
     {
       "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "pérdida",
       "score": -3
     },
     {
@@ -39,14 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "triunfo",
       "score": 4
     },
@@ -55,31 +47,39 @@
       "score": 4
     },
     {
-      "word": "leal",
-      "score": 3
-    },
-    {
-      "word": "bonito",
-      "score": 3
-    },
-    {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "encantado",
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.02,
-    "elDiario.es": 4.69,
-    "El Mundo": 4.58,
-    "ABC": 5.41,
-    "El Confidencial": 4.38,
-    "BBC Mundo": 4.15,
-    "France 24 ES": 4.55,
-    "La Nación AR": 5.08,
+    "El País": 4.17,
+    "elDiario.es": 4.62,
+    "El Mundo": 5.1,
+    "ABC": 4.77,
+    "El Confidencial": 4.58,
+    "BBC Mundo": 4.13,
+    "France 24 ES": 4.54,
+    "La Nación AR": 5.55,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.82,
     "Resumen Latinoam.": 4.95
@@ -87,38 +87,27 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 5.0,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ne",
+      "score": 4.3,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
           "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump vuelve a cargar contra la OTAN: “No estuvo ahí cuando la necesitábamos”",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "critica",
           "score": -2
         }
       ]
@@ -205,16 +194,46 @@
     },
     {
       "source": "El País",
-      "title": "Trump e Irán: de la amenaza de genocidio a la tregua",
-      "score": 3.4,
+      "title": "El PSOE lanza una andanada contra Ayuso por Quirón: “Es usted rarita moralmente ",
+      "score": 4.2,
       "words": [
         {
-          "word": "amenaza",
+          "word": "enjuicia",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El frenazo de Vox en España se agudiza en Andalucía",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "negar",
           "score": -2
         },
         {
-          "word": "fuego",
+          "word": "pérdida",
+          "score": -3
+        },
+        {
+          "word": "grave",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno, sobre el proceso a Ábalos: “Es imposible hablar de nada positivo es",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "admite",
+          "score": -1
         }
       ]
     },
@@ -274,33 +293,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Israel da la espalda a la vía diplomática y apuesta por la escalada con una masa",
-      "score": 4.7,
-      "words": [
-        {
-          "word": "espalda",
-          "score": 1
-        },
-        {
-          "word": "espalda",
-          "score": 1
-        },
-        {
-          "word": "negado",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "lanzado",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Reabrir un estrecho que ya estaba abierto: por qué Ormuz es la baza decisiva de ",
       "score": 4.75,
       "words": [
@@ -323,6 +315,33 @@
         {
           "word": "negociar",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Israel da la espalda a la vía diplomática y apuesta por la escalada con una masa",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "espalda",
+          "score": 1
+        },
+        {
+          "word": "espalda",
+          "score": 1
+        },
+        {
+          "word": "negado",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "lanzado",
+          "score": 1
         }
       ]
     },
@@ -355,6 +374,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El alto el fuego en Oriente Medio no acaba con el pesimismo económico en la UE: ",
+      "score": 4.41,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "pesimismo",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "pesimismo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Rufián y Montero se dan cita en Barcelona mientras Podemos alienta un “tándem” d",
       "score": 5.61,
       "words": [
@@ -379,67 +425,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Xavi Domènech: \"Las peleas personales no pueden ser la excusa para no unirse con",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "excusa",
-          "score": -1
-        },
-        {
-          "word": "unirse",
-          "score": 1
-        },
-        {
-          "word": "excusa",
-          "score": -1
-        },
-        {
-          "word": "unirse",
-          "score": 1
-        },
-        {
-          "word": "ambicioso",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump desaparece del vocabulario de Feijóo",
-      "score": 4.06,
-      "words": [
-        {
-          "word": "desaparece",
-          "score": -1
-        },
-        {
-          "word": "desaparece",
-          "score": -1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-30T11:00:03Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-03-30T12:01:11Z",
       "score": 4.91
@@ -1107,6 +1095,10 @@
     {
       "timestamp": "2026-04-09T09:04:19Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-04-09T10:56:19Z",
+      "score": 4.75
     }
   ]
 }

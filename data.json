@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-09T20:46:37Z",
-  "global_score": 4.54,
-  "articles_scored": 97,
-  "words_matched": 303,
+  "generated": "2026-04-09T21:42:31Z",
+  "global_score": 4.59,
+  "articles_scored": 94,
+  "words_matched": 299,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -35,6 +31,10 @@
     {
       "word": "catástrofe",
       "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -47,7 +47,11 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "impresionante",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
       "score": 3
     },
     {
@@ -65,23 +69,19 @@
     {
       "word": "perfectamente",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.6,
+    "El País": 4.56,
     "elDiario.es": 4.56,
     "El Mundo": 5.03,
-    "ABC": 5.19,
-    "El Confidencial": 4.43,
-    "BBC Mundo": 4.05,
-    "France 24 ES": 4.3,
-    "La Nación AR": 4.1,
+    "ABC": 5.18,
+    "El Confidencial": 4.58,
+    "BBC Mundo": 3.94,
+    "France 24 ES": 4.41,
+    "La Nación AR": 4.36,
     "La Jornada MX": 4.65,
-    "Desinformémonos": 4.77,
+    "Desinformémonos": 4.97,
     "Resumen Latinoam.": 4.18
   },
   "articles": [
@@ -110,11 +110,19 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
-      "score": 4.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.04,
       "words": [
         {
           "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "cobrar",
           "score": -2
         },
         {
@@ -123,10 +131,6 @@
         },
         {
           "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "rechaza",
           "score": -1
         }
       ]
@@ -436,10 +440,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-30T20:43:07Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-03-30T21:39:42Z",
       "score": 4.75
@@ -1107,6 +1107,10 @@
     {
       "timestamp": "2026-04-09T20:46:37Z",
       "score": 4.54
+    },
+    {
+      "timestamp": "2026-04-09T21:42:31Z",
+      "score": 4.59
     }
   ]
 }

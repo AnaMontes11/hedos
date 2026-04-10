@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-10T19:41:40Z",
-  "global_score": 4.61,
-  "articles_scored": 96,
-  "words_matched": 287,
+  "generated": "2026-04-10T20:33:32Z",
+  "global_score": 4.58,
+  "articles_scored": 97,
+  "words_matched": 277,
   "top_negative": [
     {
       "word": "culo",
@@ -74,12 +74,12 @@
   "per_source": {
     "El País": 4.42,
     "elDiario.es": 4.52,
-    "El Mundo": 4.53,
-    "ABC": 5.12,
+    "El Mundo": 4.76,
+    "ABC": 5.49,
     "El Confidencial": 4.3,
     "BBC Mundo": 4.56,
-    "France 24 ES": 4.69,
-    "La Nación AR": 5.67,
+    "France 24 ES": 4.65,
+    "La Nación AR": 4.35,
     "La Jornada MX": 4.12,
     "Desinformémonos": 4.69,
     "Resumen Latinoam.": 4.37
@@ -412,10 +412,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-31T20:48:05Z",
-      "score": 4.55
-    },
     {
       "timestamp": "2026-03-31T21:36:27Z",
       "score": 4.45
@@ -1083,6 +1079,10 @@
     {
       "timestamp": "2026-04-10T19:41:40Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-10T20:33:32Z",
+      "score": 4.58
     }
   ]
 }

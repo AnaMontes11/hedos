@@ -1,12 +1,20 @@
 {
-  "generated": "2026-04-10T02:13:29Z",
-  "global_score": 4.48,
-  "articles_scored": 99,
-  "words_matched": 300,
+  "generated": "2026-04-10T05:22:59Z",
+  "global_score": 4.55,
+  "articles_scored": 95,
+  "words_matched": 292,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "perra",
       "score": -5
+    },
+    {
+      "word": "mierda",
+      "score": -4
     },
     {
       "word": "culo",
@@ -17,23 +25,15 @@
       "score": -4
     },
     {
-      "word": "destruido",
-      "score": -3
-    },
-    {
-      "word": "desconfianza",
-      "score": -3
-    },
-    {
-      "word": "violencia",
-      "score": -3
-    },
-    {
       "word": "mal",
       "score": -3
     },
     {
       "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "matar",
       "score": -3
     }
   ],
@@ -43,23 +43,19 @@
       "score": 4
     },
     {
+      "word": "celestial",
+      "score": 4
+    },
+    {
+      "word": "maravilloso",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "brillante",
-      "score": 4
-    },
-    {
       "word": "impresionante",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "súper",
       "score": 3
     },
     {
@@ -69,17 +65,21 @@
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "contento",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.56,
-    "elDiario.es": 4.56,
+    "El País": 5.18,
+    "elDiario.es": 4.8,
     "El Mundo": 4.19,
-    "ABC": 4.69,
-    "El Confidencial": 4.32,
-    "BBC Mundo": 3.91,
-    "France 24 ES": 4.48,
-    "La Nación AR": 5.27,
+    "ABC": 4.42,
+    "El Confidencial": 4.89,
+    "BBC Mundo": 3.96,
+    "France 24 ES": 4.62,
+    "La Nación AR": 5.05,
     "La Jornada MX": 4.65,
     "Desinformémonos": 4.56,
     "Resumen Latinoam.": 4.06
@@ -87,24 +87,12 @@
   "articles": [
     {
       "source": "El País",
-      "title": "EE UU empuja a Israel a negociar con Líbano sobre Hezbolá para evitar que descar",
-      "score": 4.6,
+      "title": "Beirut espanta el miedo tras la ofensiva israelí más letal: “Dejad que nos maten",
+      "score": 3.4,
       "words": [
         {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "fuego",
+          "word": "miedo",
           "score": -2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
         }
       ]
     },
@@ -137,115 +125,107 @@
     },
     {
       "source": "El País",
-      "title": "Irán intensifica el bloqueo de Ormuz tras el alto el fuego",
-      "score": 3.67,
+      "title": "Mojtaba Jameneí sigue en paradero desconocido pero Irán no da signos de vacío de",
+      "score": 4.4,
       "words": [
         {
-          "word": "bloqueo",
+          "word": "vacío",
           "score": -1
         },
         {
-          "word": "fuego",
+          "word": "ausencia",
           "score": -2
         },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los iraníes continúan sumidos en una profunda inquietud tras el alto el fuego: “",
-      "score": 3.56,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "destruido",
-          "score": -3
-        },
-        {
-          "word": "abandonado",
-          "score": -2
-        },
-        {
-          "word": "desconfianza",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PSOE lanza una andanada contra Ayuso por Quirón: “Es usted rarita moralmente ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "enjuicia",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Guerra civil en el paraíso de los chimpancés: “Han diezmado al grupo rival”",
-      "score": 5.32,
-      "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "paraíso",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La candidez de la (presunta) testaferro inunda el juicio por el ‘caso Koldo’",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "candidez",
-          "score": -2
-        },
-        {
-          "word": "paja",
-          "score": -2
-        },
-        {
-          "word": "favorecido",
+          "word": "asegura",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Instrucciones para llevar bolsas de dinero a Ferraz",
+      "title": "Jesulín de Ubrique llega a ‘Tu cara me suena’: “¿Si me toca una mujer? Pues nada",
       "score": 6.6,
       "words": [
         {
-          "word": "tipo",
+          "word": "asegura",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Fangoria: “Los bobos serán sustituidos por la inteligencia artificial, pero los ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "importante",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Berberina: beneficios y mitos del mal llamado “Ozempic natural”",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "beneficios",
+          "score": 2
+        },
+        {
+          "word": "mal",
+          "score": -3
+        },
+        {
+          "word": "natural",
+          "score": 1
+        },
+        {
+          "word": "beneficios",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Enamorarse o romper en un pueblo: “Es como si siempre estuvieses en el instituto",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "comparte",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump acusa a Irán de incumplir el acuerdo sobre Ormuz antes de la negociación e",
+      "score": 4.85,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "amenazas",
+          "score": -2
         }
       ]
     },
@@ -278,50 +258,50 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El alto el fuego en Oriente Medio no acaba con el pesimismo económico en la UE: ",
-      "score": 4.41,
+      "title": "“Hezbolá no está aquí\": así vivieron los vecinos de Beirut la matanza de Israel ",
+      "score": 4.18,
       "words": [
         {
-          "word": "fuego",
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "tard",
           "score": -2
         },
         {
-          "word": "pesimismo",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "pesimismo",
+          "word": "solo",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Intrahistoria de un alto el fuego: cómo logró Pakistán su \"victoria diplomática\"",
-      "score": 4.71,
+      "title": "En una guerra sin vencedores, Netanyahu parece el gran perdedor",
+      "score": 4.13,
       "words": [
         {
-          "word": "fuego",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "fuego",
+          "word": "perdedor",
+          "score": -3
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "catástrofe",
+          "word": "perdedor",
           "score": -3
         },
         {
@@ -332,118 +312,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El frágil alto el fuego entre EEUU e Irán se tambalea entre nuevas amenazas de T",
-      "score": 4.59,
+      "title": "Trump estalla contra los referentes MAGA que le llamaron \"lunático genocida\" por",
+      "score": 4.19,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
+          "word": "lunático",
+          "score": -3
         },
         {
           "word": "amenazas",
           "score": -2
         },
         {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
+          "word": "lunático",
+          "score": -3
         },
         {
           "word": "amenazas",
           "score": -2
+        },
+        {
+          "word": "lunático",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Reabrir un estrecho que ya estaba abierto: por qué Ormuz es la baza decisiva de ",
-      "score": 4.75,
+      "title": "Viaje al “Palacio de Versalles” secreto de los Orbán y su aldea natal: “Es el gr",
+      "score": 5.2,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "activo",
+          "word": "rico",
           "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "negociar",
+          "word": "rescate",
           "score": 2
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "culo",
+          "score": -4
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Ester Muñoz (PP), sobre el soldado español retenido por Israel: \"Yo he estado en",
-      "score": 4.11,
+      "title": "🎙 PODCAST | Las elecciones de Viktor Orbán, la excepción convertida en troyano",
+      "score": 5.29,
       "words": [
         {
-          "word": "retenido",
+          "word": "optimista",
+          "score": 2
+        },
+        {
+          "word": "contagioso",
           "score": -1
         },
         {
-          "word": "tiempo",
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "peligro",
           "score": -2
-        },
-        {
-          "word": "retenido",
-          "score": -1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "evita",
-          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump desaparece del vocabulario de Feijóo",
-      "score": 4.06,
+      "title": "Rufián y Montero contrapesan sus diferencias para apelar a un frente antifascist",
+      "score": 5.03,
       "words": [
         {
-          "word": "desaparece",
+          "word": "inspirar",
+          "score": 2
+        },
+        {
+          "word": "compartir",
+          "score": 1
+        },
+        {
+          "word": "excusa",
           "score": -1
         },
         {
-          "word": "desaparece",
+          "word": "unirse",
+          "score": 1
+        },
+        {
+          "word": "exigente",
           "score": -1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-31T02:07:18Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-03-31T05:07:02Z",
       "score": 4.65
@@ -1111,6 +1087,10 @@
     {
       "timestamp": "2026-04-10T02:13:29Z",
       "score": 4.48
+    },
+    {
+      "timestamp": "2026-04-10T05:22:59Z",
+      "score": 4.55
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-10T22:34:32Z",
-  "global_score": 4.5,
-  "articles_scored": 82,
-  "words_matched": 259,
+  "generated": "2026-04-10T23:32:30Z",
+  "global_score": 4.61,
+  "articles_scored": 98,
+  "words_matched": 265,
   "top_negative": [
     {
-      "word": "culo",
-      "score": -4
+      "word": "negro",
+      "score": -5
     },
     {
-      "word": "mierda",
+      "word": "culo",
       "score": -4
     },
     {
@@ -43,11 +43,11 @@
       "score": 4
     },
     {
-      "word": "maravilloso",
-      "score": 4
+      "word": "amor",
+      "score": 3
     },
     {
-      "word": "leal",
+      "word": "celebra",
       "score": 3
     },
     {
@@ -63,27 +63,39 @@
       "score": 3
     },
     {
-      "word": "alabanzas",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.77,
-    "elDiario.es": 4.52,
-    "El Mundo": 4.81,
+    "El País": 4.62,
+    "elDiario.es": 4.56,
+    "El Mundo": 5.17,
+    "ABC": 5.35,
     "El Confidencial": 4.3,
-    "BBC Mundo": 4.36,
-    "France 24 ES": 4.23,
-    "La Nación AR": 5.35,
+    "BBC Mundo": 4.34,
+    "France 24 ES": 4.24,
+    "La Nación AR": 5.22,
     "La Jornada MX": 4.12,
     "Desinformémonos": 4.69,
-    "Resumen Latinoam.": 4.37
+    "Resumen Latinoam.": 4.03
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "crítico",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Los cuatro de la Artemis 2: la aventura lunar de unos astronautas que han emocio",
@@ -261,33 +273,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El IBEX cierra la semana con una subida del 3,7% y el petróleo por debajo de 100",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "ganancias",
-          "score": 2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por l",
       "score": 4.13,
       "words": [
@@ -369,64 +354,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump estalla contra los referentes MAGA que le llamaron \"lunático genocida\" por",
-      "score": 4.19,
+      "title": "En directo: los cuatro astronautas de la misión Artemisa II comienzan las maniob",
+      "score": 4.42,
       "words": [
         {
-          "word": "lunático",
-          "score": -3
-        },
-        {
-          "word": "amenazas",
+          "word": "crítica",
           "score": -2
         },
         {
-          "word": "lunático",
-          "score": -3
+          "word": "rico",
+          "score": 2
         },
         {
-          "word": "amenazas",
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "negro",
+          "score": -5
+        },
+        {
+          "word": "solo",
           "score": -2
-        },
-        {
-          "word": "lunático",
-          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump acusa a Irán de incumplir el acuerdo sobre Ormuz antes de la negociación e",
-      "score": 4.84,
+      "title": "Todo listo para el retorno de la misión Artemisa II: los cuatro astronautas regr",
+      "score": 5.07,
       "words": [
         {
-          "word": "acusa",
+          "word": "listo",
           "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acusa",
+          "word": "listo",
           "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "crítica",
+          "score": -2
         },
         {
-          "word": "amenazas",
-          "score": -2
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "dedicado",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-31T23:32:14Z",
-      "score": 4.38
-    },
     {
       "timestamp": "2026-04-01T02:23:50Z",
       "score": 4.32
@@ -1094,6 +1075,10 @@
     {
       "timestamp": "2026-04-10T22:34:32Z",
       "score": 4.5
+    },
+    {
+      "timestamp": "2026-04-10T23:32:30Z",
+      "score": 4.61
     }
   ]
 }

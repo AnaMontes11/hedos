@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-10T07:23:55Z",
-  "global_score": 4.69,
-  "articles_scored": 97,
-  "words_matched": 304,
+  "generated": "2026-04-10T09:06:18Z",
+  "global_score": 4.65,
+  "articles_scored": 93,
+  "words_matched": 301,
   "top_negative": [
     {
       "word": "mierda",
@@ -39,22 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "bendición",
-      "score": 4
-    },
-    {
-      "word": "alegría",
-      "score": 4
-    },
-    {
       "word": "celestial",
       "score": 4
     },
@@ -69,20 +53,36 @@
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "impresionante",
+      "score": 3
+    },
+    {
+      "word": "leal",
+      "score": 3
+    },
+    {
+      "word": "impresiona",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.17,
+    "El País": 5.04,
     "elDiario.es": 4.81,
-    "El Mundo": 4.23,
-    "ABC": 5.34,
-    "El Confidencial": 5.33,
+    "El Mundo": 4.05,
+    "ABC": 4.65,
+    "El Confidencial": 5.17,
     "BBC Mundo": 3.96,
     "France 24 ES": 4.62,
-    "La Nación AR": 5.55,
+    "La Nación AR": 5.13,
     "La Jornada MX": 4.65,
     "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 3.78
+    "Resumen Latinoam.": 4.8
   },
   "articles": [
     {
@@ -143,6 +143,29 @@
         {
           "word": "asegura",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Detenido el presunto homicida del menor de edad apuñalado en Villanueva de la Ca",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "agresor",
+          "score": -1
+        },
+        {
+          "word": "fuga",
+          "score": -1
         }
       ]
     },
@@ -386,40 +409,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Rufián y Montero contrapesan sus diferencias para apelar a un frente antifascist",
-      "score": 5.03,
-      "words": [
-        {
-          "word": "inspirar",
-          "score": 2
-        },
-        {
-          "word": "compartir",
-          "score": 1
-        },
-        {
-          "word": "excusa",
-          "score": -1
-        },
-        {
-          "word": "unirse",
-          "score": 1
-        },
-        {
-          "word": "exigente",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-31T07:10:24Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-03-31T08:56:11Z",
       "score": 4.76
@@ -1087,6 +1079,10 @@
     {
       "timestamp": "2026-04-10T07:23:55Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-04-10T09:06:18Z",
+      "score": 4.65
     }
   ]
 }

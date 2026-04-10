@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-10T17:45:09Z",
-  "global_score": 4.56,
+  "generated": "2026-04-10T18:48:48Z",
+  "global_score": 4.63,
   "articles_scored": 99,
   "words_matched": 293,
   "top_negative": [
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "violencia",
+      "score": -3
+    },
+    {
+      "word": "víctimas",
       "score": -3
     },
     {
       "word": "cargado",
-      "score": -3
-    },
-    {
-      "word": "perdedor",
       "score": -3
     }
   ],
@@ -51,15 +51,7 @@
       "score": 4
     },
     {
-      "word": "impresionante",
-      "score": 3
-    },
-    {
-      "word": "alabado",
-      "score": 3
-    },
-    {
-      "word": "premios",
+      "word": "leal",
       "score": 3
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "galardonado",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.71,
+    "El País": 4.26,
     "elDiario.es": 4.52,
     "El Mundo": 4.53,
-    "ABC": 5.1,
+    "ABC": 5.38,
     "El Confidencial": 4.92,
     "BBC Mundo": 4.56,
-    "France 24 ES": 4.11,
-    "La Nación AR": 4.58,
+    "France 24 ES": 4.49,
+    "La Nación AR": 5.23,
     "La Jornada MX": 4.12,
-    "Desinformémonos": 4.99,
-    "Resumen Latinoam.": 4.15
+    "Desinformémonos": 4.69,
+    "Resumen Latinoam.": 4.23
   },
   "articles": [
     {
@@ -114,16 +114,28 @@
     },
     {
       "source": "El País",
-      "title": "Los mundos opuestos de Pedro Sánchez y Feijóo en política internacional",
-      "score": 6.6,
+      "title": "Los últimos ataques israelíes en Líbano y el bloqueo iraní del estrecho de Ormuz",
+      "score": 4.36,
       "words": [
         {
-          "word": "permitir",
-          "score": 1
+          "word": "ataques",
+          "score": -1
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
@@ -216,24 +228,28 @@
     },
     {
       "source": "El País",
-      "title": "Berberina: beneficios y mitos del mal llamado “Ozempic natural”",
-      "score": 5.4,
+      "title": "Acelerar bruscamente con el coche o abandonar en medio de una montaña, otro tipo",
+      "score": 4.07,
       "words": [
         {
-          "word": "beneficios",
+          "word": "abandonar",
+          "score": -2
+        },
+        {
+          "word": "tipo",
           "score": 2
         },
         {
-          "word": "mal",
+          "word": "violencia",
           "score": -3
         },
         {
-          "word": "natural",
+          "word": "querer",
           "score": 1
         },
         {
-          "word": "beneficios",
-          "score": 2
+          "word": "degradar",
+          "score": -2
         }
       ]
     },
@@ -428,10 +444,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-31T18:58:51Z",
-      "score": 4.38
-    },
     {
       "timestamp": "2026-03-31T19:57:28Z",
       "score": 4.43
@@ -1099,6 +1111,10 @@
     {
       "timestamp": "2026-04-10T17:45:09Z",
       "score": 4.56
+    },
+    {
+      "timestamp": "2026-04-10T18:48:48Z",
+      "score": 4.63
     }
   ]
 }

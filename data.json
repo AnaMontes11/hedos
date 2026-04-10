@@ -1,15 +1,19 @@
 {
-  "generated": "2026-04-10T15:51:05Z",
-  "global_score": 4.73,
-  "articles_scored": 101,
-  "words_matched": 305,
+  "generated": "2026-04-10T16:47:58Z",
+  "global_score": 4.51,
+  "articles_scored": 100,
+  "words_matched": 298,
   "top_negative": [
     {
-      "word": "mierda",
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "infierno",
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "mierda",
       "score": -4
     },
     {
@@ -25,15 +29,11 @@
       "score": -3
     },
     {
+      "word": "abusos",
+      "score": -3
+    },
+    {
       "word": "perdió",
-      "score": -3
-    },
-    {
-      "word": "angustioso",
-      "score": -3
-    },
-    {
-      "word": "mal",
       "score": -3
     }
   ],
@@ -43,23 +43,15 @@
       "score": 4
     },
     {
-      "word": "maravilloso",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
+      "word": "maravilloso",
+      "score": 4
+    },
+    {
       "word": "impresionante",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "bondad",
       "score": 3
     },
     {
@@ -69,17 +61,25 @@
     {
       "word": "celebrado",
       "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "alabanzas",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.38,
-    "elDiario.es": 4.6,
-    "El Mundo": 4.51,
-    "ABC": 5.68,
-    "El Confidencial": 5.04,
+    "El País": 4.22,
+    "elDiario.es": 4.57,
+    "El Mundo": 4.53,
+    "ABC": 4.72,
+    "El Confidencial": 4.92,
     "BBC Mundo": 4.58,
-    "France 24 ES": 4.25,
-    "La Nación AR": 5.67,
+    "France 24 ES": 4.52,
+    "La Nación AR": 4.06,
     "La Jornada MX": 4.12,
     "Desinformémonos": 4.9,
     "Resumen Latinoam.": 4.54
@@ -87,13 +87,9 @@
   "articles": [
     {
       "source": "El País",
-      "title": "El Vaticano archiva la denuncia de pederastia contra el obispo emérito de Cádiz ",
-      "score": 3.88,
+      "title": "El Vaticano se agarra a un tecnicismo jurídico para archivar el caso del obispo ",
+      "score": 4.0,
       "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
         {
           "word": "víctima",
           "score": -3
@@ -109,6 +105,17 @@
         {
           "word": "decepción",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El secretario general de la Conferencia Episcopal de Perú se aparta del cargo tr",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "abusos",
+          "score": -3
         }
       ]
     },
@@ -141,6 +148,21 @@
     },
     {
       "source": "El País",
+      "title": "Los mundos opuestos de Pedro Sánchez y Feijóo en politica internacional",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Es",
       "score": 3.8,
       "words": [
@@ -164,36 +186,6 @@
     },
     {
       "source": "El País",
-      "title": "La inflación en Estados Unidos escaló hasta el 3,3% en marzo, el mayor nivel en ",
-      "score": 6.07,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "ERC vuelve a dar portazo al plan de Rufián para unir a los partidos a la izquier",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "peligro",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El presunto homicida de David, el niño de Villanueva de la Cañada asesinado, tie",
       "score": 3.93,
       "words": [
@@ -204,6 +196,25 @@
         {
           "word": "ataque",
           "score": -1
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Tartas a la cara como castigo, jornadas infinitas y ningún derecho laboral: así ",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "infierno",
+          "score": -4
         },
         {
           "word": "detenido",
@@ -261,29 +272,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Berberina: beneficios y mitos del mal llamado “Ozempic natural”",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "beneficios",
-          "score": 2
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "beneficios",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Sánchez pide que Europa frene a Netanyahu y suspenda el acuerdo de asociación co",
       "score": 4.84,
@@ -312,28 +300,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump acusa a Irán de incumplir el acuerdo sobre Ormuz antes de la negociación e",
-      "score": 4.84,
+      "title": "El IBEX cierra la semana con una subida del 3,7% y el petróleo por debajo de 100",
+      "score": 5.1,
       "words": [
         {
-          "word": "acusa",
+          "word": "conflicto",
           "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "ganancias",
+          "score": 2
         },
         {
-          "word": "acusa",
-          "score": -2
+          "word": "dudas",
+          "score": -1
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "pasado",
+          "score": -1
         },
         {
-          "word": "amenazas",
-          "score": -2
+          "word": "ataques",
+          "score": -1
         }
       ]
     },
@@ -420,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-31T16:10:39Z",
-      "score": 4.46
-    },
     {
       "timestamp": "2026-03-31T17:54:59Z",
       "score": 4.5
@@ -1091,6 +1075,10 @@
     {
       "timestamp": "2026-04-10T15:51:05Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-04-10T16:47:58Z",
+      "score": 4.51
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-10T13:04:24Z",
-  "global_score": 4.61,
+  "generated": "2026-04-10T14:45:03Z",
+  "global_score": 4.58,
   "articles_scored": 99,
-  "words_matched": 325,
+  "words_matched": 296,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
+      "word": "mierda",
+      "score": -4
     },
     {
-      "word": "mierda",
+      "word": "culo",
       "score": -4
     },
     {
@@ -51,38 +51,38 @@
       "score": 4
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "impresionante",
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "alabanzas",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.59,
-    "elDiario.es": 4.43,
-    "El Mundo": 3.99,
-    "ABC": 5.29,
-    "El Confidencial": 4.66,
-    "BBC Mundo": 4.47,
-    "France 24 ES": 4.53,
-    "La Nación AR": 5.15,
+    "El País": 4.47,
+    "elDiario.es": 4.6,
+    "El Mundo": 4.42,
+    "ABC": 4.88,
+    "El Confidencial": 5.11,
+    "BBC Mundo": 4.58,
+    "France 24 ES": 4.34,
+    "La Nación AR": 4.98,
     "La Jornada MX": 4.12,
     "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 4.94
+    "Resumen Latinoam.": 4.62
   },
   "articles": [
     {
@@ -110,8 +110,8 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.2,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Es",
+      "score": 3.67,
       "words": [
         {
           "word": "guerra",
@@ -122,30 +122,18 @@
           "score": -1
         },
         {
-          "word": "advierte",
+          "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "¿Quién manda en Irán? El líder supremo sigue en paradero desconocido pero el rég",
-      "score": 4.4,
+      "title": "Netanyahu acusa a España de librar una “guerra diplomática” contra Israel y advi",
+      "score": 3.93,
       "words": [
         {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "ausencia",
+          "word": "acusa",
           "score": -2
         },
         {
@@ -153,8 +141,16 @@
           "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "expulsa",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
@@ -320,33 +316,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump estalla contra los referentes MAGA que le llamaron \"lunático genocida\" por",
-      "score": 4.19,
-      "words": [
-        {
-          "word": "lunático",
-          "score": -3
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "lunático",
-          "score": -3
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "lunático",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "En una guerra sin vencedores, Netanyahu parece el gran perdedor",
       "score": 4.13,
       "words": [
@@ -368,33 +337,6 @@
         },
         {
           "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "“Hezbolá no está aquí\": así vivieron los vecinos de Beirut la matanza de Israel ",
-      "score": 4.18,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "tard",
-          "score": -2
-        },
-        {
-          "word": "solo",
           "score": -2
         }
       ]
@@ -425,13 +367,63 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo condena la \"deriva belicista\" en el mundo sin citar a Trump ni a Israel: ",
+      "score": 4.69,
+      "words": [
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "desaparece",
+          "score": -1
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "fiel",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump estalla contra los referentes MAGA que le llamaron \"lunático genocida\" por",
+      "score": 4.19,
+      "words": [
+        {
+          "word": "lunático",
+          "score": -3
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "lunático",
+          "score": -3
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "lunático",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-03-31T13:13:07Z",
-      "score": 4.42
-    },
     {
       "timestamp": "2026-03-31T14:59:13Z",
       "score": 4.49
@@ -1099,6 +1091,10 @@
     {
       "timestamp": "2026-04-10T13:04:24Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-10T14:45:03Z",
+      "score": 4.58
     }
   ]
 }

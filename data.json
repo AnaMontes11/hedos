@@ -1,6 +1,6 @@
 {
-  "generated": "2026-04-11T12:53:03Z",
-  "global_score": 4.96,
+  "generated": "2026-04-11T13:54:19Z",
+  "global_score": 5.02,
   "articles_scored": 99,
   "words_matched": 294,
   "top_negative": [
@@ -51,38 +51,38 @@
       "score": 3
     },
     {
+      "word": "fascinante",
+      "score": 3
+    },
+    {
+      "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "brillar",
+      "score": 3
+    },
+    {
+      "word": "impresionante",
+      "score": 3
+    },
+    {
       "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "galardonado",
-      "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "afecto",
-      "score": 3
-    },
-    {
-      "word": "amor",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.29,
     "elDiario.es": 4.83,
-    "El Mundo": 5.19,
-    "ABC": 4.91,
-    "El Confidencial": 4.56,
-    "BBC Mundo": 5.17,
-    "France 24 ES": 4.89,
-    "La Nación AR": 4.67,
+    "El Mundo": 5.59,
+    "ABC": 4.84,
+    "El Confidencial": 4.83,
+    "BBC Mundo": 5.23,
+    "France 24 ES": 4.79,
+    "La Nación AR": 5.1,
     "La Jornada MX": 5.77,
     "Desinformémonos": 4.69,
-    "Resumen Latinoam.": 4.66
+    "Resumen Latinoam.": 4.34
   },
   "articles": [
     {
@@ -420,10 +420,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-01T17:47:52Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-04-01T18:58:16Z",
       "score": 4.75
@@ -1091,6 +1087,10 @@
     {
       "timestamp": "2026-04-11T12:53:03Z",
       "score": 4.96
+    },
+    {
+      "timestamp": "2026-04-11T13:54:19Z",
+      "score": 5.02
     }
   ]
 }

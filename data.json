@@ -1,11 +1,23 @@
 {
-  "generated": "2026-04-11T02:01:53Z",
-  "global_score": 4.71,
-  "articles_scored": 99,
-  "words_matched": 270,
+  "generated": "2026-04-11T04:52:23Z",
+  "global_score": 4.63,
+  "articles_scored": 100,
+  "words_matched": 288,
   "top_negative": [
     {
+      "word": "puto",
+      "score": -5
+    },
+    {
+      "word": "bastardos",
+      "score": -5
+    },
+    {
       "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "perra",
       "score": -5
     },
     {
@@ -23,18 +35,6 @@
     {
       "word": "violación",
       "score": -4
-    },
-    {
-      "word": "perdió",
-      "score": -3
-    },
-    {
-      "word": "cargado",
-      "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,43 +43,43 @@
       "score": 4
     },
     {
+      "word": "encanto",
+      "score": 3
+    },
+    {
+      "word": "brillar",
+      "score": 3
+    },
+    {
+      "word": "impresionante",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
       "word": "amor",
       "score": 3
     },
     {
       "word": "excelente",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "genial",
-      "score": 3
-    },
-    {
-      "word": "exitoso",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.98,
-    "elDiario.es": 4.63,
+    "El País": 4.16,
+    "elDiario.es": 4.78,
     "El Mundo": 4.06,
-    "ABC": 5.16,
-    "El Confidencial": 4.3,
+    "ABC": 4.46,
+    "El Confidencial": 4.98,
     "BBC Mundo": 4.54,
-    "France 24 ES": 4.71,
-    "La Nación AR": 5.75,
+    "France 24 ES": 4.89,
+    "La Nación AR": 5.22,
     "La Jornada MX": 4.12,
     "Desinformémonos": 4.69,
     "Resumen Latinoam.": 4.92
@@ -102,8 +102,8 @@
     },
     {
       "source": "El País",
-      "title": "Última hora del regreso de Artemis 2, en directo | La nave Orion supera el pelig",
-      "score": 4.68,
+      "title": "Última hora del regreso de Artemis 2, en directo | Trump felicita a la misión po",
+      "score": 4.47,
       "words": [
         {
           "word": "peligro",
@@ -114,14 +114,6 @@
           "score": 2
         },
         {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        },
-        {
           "word": "fuego",
           "score": -2
         }
@@ -129,85 +121,28 @@
     },
     {
       "source": "El País",
-      "title": "Los cuatro de la Artemis 2: la aventura lunar de unos astronautas que han emocio",
-      "score": 7.4,
+      "title": "La Luna no es lo que era",
+      "score": 3.0,
       "words": [
         {
-          "word": "emocionado",
-          "score": 3
+          "word": "distrae",
+          "score": -2
+        },
+        {
+          "word": "traumático",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Philip Baldwin, responsable de comunicaciones de la NASA: “La estación espacial ",
-      "score": 6.6,
+      "title": "Estados Unidos e Irán afrontan en Islamabad una negociación incierta marcada por",
+      "score": 4.2,
       "words": [
         {
-          "word": "responsable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Netanyahu acusa a España de librar una “guerra diplomática” contra Israel y advi",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
+          "word": "desconfianza",
+          "score": -3
         },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "expulsa",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los últimos ataques israelíes en Líbano y el bloqueo iraní del estrecho de Ormuz",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 4.73,
-      "words": [
         {
           "word": "guerra",
           "score": -2
@@ -215,25 +150,44 @@
         {
           "word": "paz",
           "score": 2
-        },
-        {
-          "word": "ataques",
-          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El presunto homicida de David, el niño de Villanueva de la Cañada asesinado, tie",
-      "score": 3.93,
+      "title": "‘Defensa mosaico’, la estrategia con la que Irán resiste la embestida de Estados",
+      "score": 3.4,
       "words": [
         {
-          "word": "trastorno",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "ataque",
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El detenido por matar a un niño de 11 años dejaba mensajes en papel: “No quiero ",
+      "score": 3.56,
+      "words": [
+        {
+          "word": "detenido",
           "score": -1
+        },
+        {
+          "word": "matar",
+          "score": -3
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "daño",
+          "score": -2
         },
         {
           "word": "detenido",
@@ -243,51 +197,136 @@
     },
     {
       "source": "El País",
-      "title": "La muerte lenta de Jesús, el mexicano que se negó a ir a un hospital por temor a",
-      "score": 3.8,
+      "title": "Eduardo Mendoza: “España está menos crispada que en las tertulias televisivas y ",
+      "score": 5.11,
       "words": [
         {
-          "word": "muerte",
+          "word": "autor",
           "score": -2
         },
         {
-          "word": "jesús",
-          "score": 1
+          "word": "humor",
+          "score": 2
         },
         {
-          "word": "perdió",
-          "score": -3
+          "word": "tensión",
+          "score": -1
         },
         {
-          "word": "miedo",
+          "word": "novela",
+          "score": 2
+        },
+        {
+          "word": "funeral",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump busca a la desesperada una salida de Irán tras sembrar el caos y sin rastr",
+      "score": 4.04,
+      "words": [
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "frustración",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez pide que Europa frene a Netanyahu y suspenda el acuerdo de asociación co",
-      "score": 4.84,
+      "title": "EEUU e Irán llegan a las negociaciones en Pakistán entre acusaciones de violar e",
+      "score": 4.55,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "acusaciones",
+          "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "acusa",
+          "word": "violar",
           "score": -2
         },
         {
           "word": "acuerdo",
           "score": 1
+        },
+        {
+          "word": "demandas",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Marineros al límite y reacios a navegar: la vida en un petrolero atrapado en el ",
+      "score": 4.57,
+      "words": [
+        {
+          "word": "atrapado",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "atrapado",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El alto el fuego alivia la presión sobre las bolsas pero la inestabilidad perman",
+      "score": 4.59,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
         }
       ]
     },
@@ -320,118 +359,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Ministros cargan contra Ester Muñoz por comparar la detención de un militar con ",
-      "score": 4.08,
+      "title": "El PP se impacienta ante la falta de acuerdo con Vox dos semanas después de cump",
+      "score": 4.59,
       "words": [
         {
-          "word": "detención",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "vergüenza",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "detención",
-          "score": -2
+          "word": "negociar",
+          "score": 2
         },
         {
-          "word": "vergüenza",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "vergüenza",
+          "word": "fracaso",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo condena la \"deriva belicista\" en el mundo sin citar a Trump ni a Israel: ",
-      "score": 4.69,
+      "title": "Podemos corteja a Rufián para una alianza para las generales pero él evita por a",
+      "score": 5.82,
       "words": [
         {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "desaparece",
+          "word": "evita",
           "score": -1
         },
         {
-          "word": "condena",
-          "score": -2
+          "word": "evita",
+          "score": -1
         },
         {
-          "word": "fiel",
-          "score": 3
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "disputas",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Los astronautas de la misión Artemisa II vuelven a la Tierra y completan con éxi",
-      "score": 5.17,
+      "title": "ERC responde a Rufián que el partido no puede \"resolver las disputas de la izqui",
+      "score": 5.04,
       "words": [
         {
-          "word": "éxito",
-          "score": 2
+          "word": "resolver",
+          "score": 1
         },
         {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "puesto",
+          "word": "disputas",
           "score": -2
         },
         {
-          "word": "persigue",
+          "word": "resolver",
+          "score": 1
+        },
+        {
+          "word": "disputas",
           "score": -2
         },
         {
-          "word": "rico",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Todo listo para el retorno de la misión Artemisa II: los cuatro astronautas regr",
-      "score": 5.07,
-      "words": [
-        {
-          "word": "listo",
+          "word": "agresivo",
           "score": -2
-        },
-        {
-          "word": "listo",
-          "score": -2
-        },
-        {
-          "word": "crítica",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "dedicado",
-          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-01T05:22:12Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-04-01T07:17:16Z",
       "score": 4.51
@@ -1099,6 +1107,10 @@
     {
       "timestamp": "2026-04-11T02:01:53Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-04-11T04:52:23Z",
+      "score": 4.63
     }
   ]
 }

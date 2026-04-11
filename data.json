@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-11T16:34:27Z",
-  "global_score": 4.92,
-  "articles_scored": 95,
-  "words_matched": 280,
+  "generated": "2026-04-11T17:29:08Z",
+  "global_score": 4.95,
+  "articles_scored": 97,
+  "words_matched": 271,
   "top_negative": [
     {
       "word": "puto",
@@ -25,15 +25,15 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
       "word": "desconfianza",
       "score": -3
     },
     {
       "word": "perdiendo",
+      "score": -3
+    },
+    {
+      "word": "muerto",
       "score": -3
     }
   ],
@@ -51,6 +51,10 @@
       "score": 3
     },
     {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "fascinante",
       "score": 3
     },
@@ -59,36 +63,32 @@
       "score": 3
     },
     {
-      "word": "impresionante",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "afecto",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "celebrando",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.39,
+    "El País": 5.36,
     "elDiario.es": 4.7,
-    "El Mundo": 5.57,
-    "ABC": 4.62,
-    "El Confidencial": 4.45,
-    "BBC Mundo": 5.23,
+    "El Mundo": 5.05,
+    "ABC": 4.86,
+    "El Confidencial": 4.66,
+    "BBC Mundo": 5.32,
     "France 24 ES": 5.03,
-    "La Nación AR": 4.31,
+    "La Nación AR": 4.64,
     "La Jornada MX": 5.77,
     "Desinformémonos": 4.82,
-    "Resumen Latinoam.": 3.97
+    "Resumen Latinoam.": 4.19
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
-      "score": 5.0,
+      "score": 4.68,
       "words": [
         {
           "word": "guerra",
@@ -103,12 +103,12 @@
           "score": 2
         },
         {
-          "word": "advierte",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "ataques",
+          "score": -1
         }
       ]
     },
@@ -408,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-01T21:39:48Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-04-01T22:34:53Z",
       "score": 4.69
@@ -1079,6 +1075,10 @@
     {
       "timestamp": "2026-04-11T16:34:27Z",
       "score": 4.92
+    },
+    {
+      "timestamp": "2026-04-11T17:29:08Z",
+      "score": 4.95
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-11T05:58:59Z",
-  "global_score": 4.71,
-  "articles_scored": 100,
-  "words_matched": 291,
+  "generated": "2026-04-11T07:11:52Z",
+  "global_score": 4.7,
+  "articles_scored": 99,
+  "words_matched": 295,
   "top_negative": [
     {
       "word": "puto",
@@ -51,11 +51,7 @@
       "score": 3
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "premio",
       "score": 3
     },
     {
@@ -63,23 +59,27 @@
       "score": 3
     },
     {
-      "word": "genial",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "exitoso",
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "caro",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.5,
-    "elDiario.es": 4.78,
+    "elDiario.es": 4.87,
     "El Mundo": 4.44,
-    "ABC": 4.68,
-    "El Confidencial": 4.98,
+    "ABC": 5.13,
+    "El Confidencial": 4.81,
     "BBC Mundo": 4.54,
     "France 24 ES": 4.89,
-    "La Nación AR": 5.3,
+    "La Nación AR": 4.72,
     "La Jornada MX": 4.12,
     "Desinformémonos": 4.69,
     "Resumen Latinoam.": 4.92
@@ -297,60 +297,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Marineros al límite y reacios a navegar: la vida en un petrolero atrapado en el ",
-      "score": 4.57,
-      "words": [
-        {
-          "word": "atrapado",
-          "score": -2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "atrapado",
-          "score": -2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El alto el fuego alivia la presión sobre las bolsas pero la inestabilidad perman",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por l",
       "score": 4.13,
       "words": [
@@ -373,6 +319,33 @@
         {
           "word": "mayor",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los astronautas de la misión Artemisa II vuelven a la Tierra y completan con éxi",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "persigue",
+          "score": -2
+        },
+        {
+          "word": "rico",
+          "score": 2
         }
       ]
     },
@@ -429,13 +402,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La protesta de la jueza de la dana obliga al Gobierno de Pérez Llorca a garantiz",
+      "score": 5.32,
+      "words": [
+        {
+          "word": "protesta",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "protesta",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-01T09:01:10Z",
-      "score": 4.52
-    },
     {
       "timestamp": "2026-04-01T10:52:31Z",
       "score": 4.56
@@ -1103,6 +1099,10 @@
     {
       "timestamp": "2026-04-11T05:58:59Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-04-11T07:11:52Z",
+      "score": 4.7
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-11T17:29:08Z",
-  "global_score": 4.95,
+  "generated": "2026-04-11T18:40:31Z",
+  "global_score": 4.82,
   "articles_scored": 97,
-  "words_matched": 271,
+  "words_matched": 263,
   "top_negative": [
     {
       "word": "puto",
@@ -29,25 +29,25 @@
       "score": -3
     },
     {
-      "word": "perdiendo",
+      "word": "muerto",
       "score": -3
     },
     {
-      "word": "muerto",
+      "word": "pierde",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganar",
-      "score": 4
-    },
     {
       "word": "exuberante",
       "score": 4
     },
     {
       "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "medalla",
       "score": 3
     },
     {
@@ -72,39 +72,54 @@
     }
   ],
   "per_source": {
-    "El País": 5.36,
-    "elDiario.es": 4.7,
+    "El País": 4.85,
+    "elDiario.es": 4.56,
     "El Mundo": 5.05,
-    "ABC": 4.86,
-    "El Confidencial": 4.66,
+    "ABC": 4.95,
+    "El Confidencial": 4.9,
     "BBC Mundo": 5.32,
-    "France 24 ES": 5.03,
-    "La Nación AR": 4.64,
+    "France 24 ES": 4.42,
+    "La Nación AR": 4.76,
     "La Jornada MX": 5.77,
-    "Desinformémonos": 4.82,
-    "Resumen Latinoam.": 4.19
+    "Desinformémonos": 4.71,
+    "Resumen Latinoam.": 3.83
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
-      "score": 4.68,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 3.4,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "guerra",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Netanyahu obstaculiza con su ofensiva en Líbano un alto el fuego en el que no cr",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "acepta",
+          "score": 1
+        },
+        {
+          "word": "forzado",
+          "score": -1
         },
         {
           "word": "ataques",
@@ -139,40 +154,6 @@
         {
           "word": "incierto",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El regreso a la Tierra de los astronautas de Artemis 2, en imágenes",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La NASA celebra el éxito de Artemis 2: “Hace 53 años la humanidad dejó la Luna, ",
-      "score": 6.87,
-      "words": [
-        {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "ambicioso",
-          "score": 2
         }
       ]
     },
@@ -245,12 +226,23 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "EEUU e Irán arrancan las conversaciones de paz en Islamabad mientras Israel bomb",
-      "score": 4.79,
+      "source": "El País",
+      "title": "Adiós al ladrillo rojo en Madrid: cómo los ‘bloques cebra’ y los sistemas de ais",
+      "score": 4.2,
       "words": [
         {
-          "word": "paz",
+          "word": "bloques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Irán y Estados Unidos concluyen con “optimismo” la primera ronda de negociacione",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "optimismo",
           "score": 2
         },
         {
@@ -266,8 +258,8 @@
           "score": -2
         },
         {
-          "word": "paz",
-          "score": 2
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -294,33 +286,6 @@
         },
         {
           "word": "frustración",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Entra en vigor la tregua entre Rusia y Ucrania durante la Pascua ortodoxa",
-      "score": 4.17,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "enemigo",
           "score": -2
         }
       ]
@@ -354,6 +319,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Israel acusa de antisemitismo a España por la elección de Netanyahu en El Burgo ",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "retirada",
+          "score": -3
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por l",
       "score": 4.13,
       "words": [
@@ -381,37 +373,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los astronautas de la misión Artemisa II vuelven a la Tierra y completan con éxi",
-      "score": 5.15,
+      "title": "Entra en vigor la tregua entre Rusia y Ucrania durante la Pascua ortodoxa",
+      "score": 4.17,
       "words": [
         {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "puesto",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "persigue",
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "conflicto",
           "score": -2
         },
         {
-          "word": "rico",
-          "score": 2
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "enemigo",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-01T22:34:53Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-04-01T23:33:53Z",
       "score": 4.89
@@ -1079,6 +1067,10 @@
     {
       "timestamp": "2026-04-11T17:29:08Z",
       "score": 4.95
+    },
+    {
+      "timestamp": "2026-04-11T18:40:31Z",
+      "score": 4.82
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-10T23:32:30Z",
-  "global_score": 4.61,
-  "articles_scored": 98,
-  "words_matched": 265,
+  "generated": "2026-04-11T02:01:53Z",
+  "global_score": 4.71,
+  "articles_scored": 99,
+  "words_matched": 270,
   "top_negative": [
     {
       "word": "negro",
@@ -21,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "perdió",
       "score": -3
     },
@@ -30,10 +34,6 @@
     },
     {
       "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
       "score": -3
     }
   ],
@@ -47,7 +47,7 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "excelente",
       "score": 3
     },
     {
@@ -63,35 +63,66 @@
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "genial",
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "exitoso",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.62,
-    "elDiario.es": 4.56,
-    "El Mundo": 5.17,
-    "ABC": 5.35,
+    "El País": 4.98,
+    "elDiario.es": 4.63,
+    "El Mundo": 4.06,
+    "ABC": 5.16,
     "El Confidencial": 4.3,
-    "BBC Mundo": 4.34,
-    "France 24 ES": 4.24,
-    "La Nación AR": 5.22,
+    "BBC Mundo": 4.54,
+    "France 24 ES": 4.71,
+    "La Nación AR": 5.75,
     "La Jornada MX": 4.12,
     "Desinformémonos": 4.69,
-    "Resumen Latinoam.": 4.03
+    "Resumen Latinoam.": 4.92
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos ",
-      "score": 3.4,
+      "title": "Los astronautas de Artemis 2 aterrizan y concluyen una misión histórica que ha l",
+      "score": 5.4,
       "words": [
         {
-          "word": "crítico",
+          "word": "pacífico",
+          "score": 2
+        },
+        {
+          "word": "incierto",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del regreso de Artemis 2, en directo | La nave Orion supera el pelig",
+      "score": 4.68,
+      "words": [
+        {
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "logra",
+          "score": 2
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        },
+        {
+          "word": "fuego",
           "score": -2
         }
       ]
@@ -234,17 +265,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "‘Kill Bill: The Whole Bloody Affair’: Quentin Tarantino estrena su versión sangr",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "venganza",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Sánchez pide que Europa frene a Netanyahu y suspenda el acuerdo de asociación co",
       "score": 4.84,
@@ -354,28 +374,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "En directo: los cuatro astronautas de la misión Artemisa II comienzan las maniob",
-      "score": 4.42,
+      "title": "Los astronautas de la misión Artemisa II vuelven a la Tierra y completan con éxi",
+      "score": 5.17,
       "words": [
         {
-          "word": "crítica",
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "persigue",
           "score": -2
         },
         {
           "word": "rico",
           "score": 2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "solo",
-          "score": -2
         }
       ]
     },
@@ -408,10 +428,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-01T02:23:50Z",
-      "score": 4.32
-    },
     {
       "timestamp": "2026-04-01T05:22:12Z",
       "score": 4.54
@@ -1079,6 +1095,10 @@
     {
       "timestamp": "2026-04-10T23:32:30Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-11T02:01:53Z",
+      "score": 4.71
     }
   ]
 }

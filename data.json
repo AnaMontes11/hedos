@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-11T15:31:18Z",
-  "global_score": 5.08,
-  "articles_scored": 98,
-  "words_matched": 282,
+  "generated": "2026-04-11T16:34:27Z",
+  "global_score": 4.92,
+  "articles_scored": 95,
+  "words_matched": 280,
   "top_negative": [
     {
       "word": "puto",
@@ -51,10 +51,6 @@
       "score": 3
     },
     {
-      "word": "devoto",
-      "score": 3
-    },
-    {
       "word": "fascinante",
       "score": 3
     },
@@ -63,26 +59,30 @@
       "score": 3
     },
     {
-      "word": "bonito",
+      "word": "impresionante",
       "score": 3
     },
     {
       "word": "afecto",
       "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.39,
-    "elDiario.es": 4.77,
-    "El Mundo": 5.61,
-    "ABC": 5.2,
-    "El Confidencial": 4.4,
+    "elDiario.es": 4.7,
+    "El Mundo": 5.57,
+    "ABC": 4.62,
+    "El Confidencial": 4.45,
     "BBC Mundo": 5.23,
-    "France 24 ES": 5.0,
-    "La Nación AR": 5.62,
+    "France 24 ES": 5.03,
+    "La Nación AR": 4.31,
     "La Jornada MX": 5.77,
-    "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 4.17
+    "Desinformémonos": 4.82,
+    "Resumen Latinoam.": 3.97
   },
   "articles": [
     {
@@ -327,6 +327,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Macron aboga por respetar la tregua entre EEUU e Irán y pide que se amplíe \"sin ",
+      "score": 4.77,
+      "words": [
+        {
+          "word": "rápidamente",
+          "score": 2
+        },
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El partido Iustitia Europa denuncia a Netanyahu ante la Audiencia Nacional por l",
       "score": 4.13,
       "words": [
@@ -378,40 +405,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ábalos y Fernández Díaz: busca las diferencias",
-      "score": 4.26,
-      "words": [
-        {
-          "word": "golpe",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "esperado",
-          "score": -1
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-01T20:55:34Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-04-01T21:39:48Z",
       "score": 4.67
@@ -1079,6 +1075,10 @@
     {
       "timestamp": "2026-04-11T15:31:18Z",
       "score": 5.08
+    },
+    {
+      "timestamp": "2026-04-11T16:34:27Z",
+      "score": 4.92
     }
   ]
 }

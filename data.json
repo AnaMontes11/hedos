@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-11T19:33:03Z",
-  "global_score": 4.81,
-  "articles_scored": 98,
-  "words_matched": 278,
+  "generated": "2026-04-11T20:29:39Z",
+  "global_score": 4.9,
+  "articles_scored": 95,
+  "words_matched": 279,
   "top_negative": [
     {
       "word": "puto",
@@ -17,16 +17,8 @@
       "score": -5
     },
     {
-      "word": "perra",
-      "score": -5
-    },
-    {
       "word": "culo",
       "score": -4
-    },
-    {
-      "word": "desconfianza",
-      "score": -3
     },
     {
       "word": "muerto",
@@ -35,13 +27,17 @@
     {
       "word": "pierde",
       "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "destruido",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "triunfo",
-      "score": 4
-    },
     {
       "word": "exuberante",
       "score": 4
@@ -63,23 +59,27 @@
       "score": 3
     },
     {
-      "word": "delicias",
+      "word": "leal",
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "impresiona",
+      "score": 3
+    },
+    {
+      "word": "delicias",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.85,
-    "elDiario.es": 4.4,
-    "El Mundo": 4.98,
-    "ABC": 4.82,
-    "El Confidencial": 4.8,
+    "El País": 5.48,
+    "elDiario.es": 4.41,
+    "El Mundo": 4.84,
+    "ABC": 4.96,
+    "El Confidencial": 5.17,
     "BBC Mundo": 5.32,
-    "France 24 ES": 4.63,
-    "La Nación AR": 4.77,
+    "France 24 ES": 4.92,
+    "La Nación AR": 4.39,
     "La Jornada MX": 5.77,
     "Desinformémonos": 4.71,
     "Resumen Latinoam.": 3.95
@@ -87,20 +87,12 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 3.4,
+      "title": "Estados Unidos e Irán avanzan con pies de plomo en una negociación histórica en ",
+      "score": 6.6,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -200,6 +192,21 @@
     },
     {
       "source": "El País",
+      "title": "Ferran golea con el prodigioso Lamine al Espanyol",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ventaja",
+          "score": 2
+        },
+        {
+          "word": "ánimo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Luis García Montero: “Estoy orgulloso de ser el viudo de Almudena Grandes”",
       "score": 5.48,
       "words": [
@@ -226,23 +233,16 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Adiós al ladrillo rojo en Madrid: cómo los ‘bloques cebra’ y los sistemas de ais",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "bloques",
-          "score": -1
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Irán y Estados Unidos concluyen con “optimismo” la primera ronda de negociacione",
-      "score": 4.6,
+      "title": "Ormuz, fuente de discordia entre Estados Unidos e Irán en las primeras conversac",
+      "score": 4.67,
       "words": [
         {
-          "word": "optimismo",
+          "word": "discordia",
+          "score": -2
+        },
+        {
+          "word": "paz",
           "score": 2
         },
         {
@@ -251,10 +251,6 @@
         },
         {
           "word": "caos",
-          "score": -2
-        },
-        {
-          "word": "guerra",
           "score": -2
         },
         {
@@ -400,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-02T02:03:26Z",
-      "score": 4.87
-    },
     {
       "timestamp": "2026-04-02T05:00:20Z",
       "score": 4.79
@@ -1071,6 +1063,10 @@
     {
       "timestamp": "2026-04-11T19:33:03Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-04-11T20:29:39Z",
+      "score": 4.9
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-12T14:50:49Z",
-  "global_score": 4.72,
-  "articles_scored": 89,
-  "words_matched": 334,
+  "generated": "2026-04-12T15:33:51Z",
+  "global_score": 4.83,
+  "articles_scored": 90,
+  "words_matched": 330,
   "top_negative": [
     {
       "word": "negro",
@@ -43,23 +43,11 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "alegría",
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
       "score": 3
     },
     {
@@ -69,17 +57,29 @@
     {
       "word": "amor",
       "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "vitalidad",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.23,
-    "elDiario.es": 4.76,
-    "El Mundo": 4.21,
-    "ABC": 5.88,
+    "El País": 4.73,
+    "elDiario.es": 4.75,
+    "El Mundo": 4.28,
+    "ABC": 6.15,
     "El Confidencial": 4.08,
     "BBC Mundo": 5.17,
-    "France 24 ES": 4.71,
-    "La Nación AR": 4.82,
+    "France 24 ES": 4.85,
+    "La Nación AR": 5.03,
     "La Jornada MX": 4.25,
     "Desinformémonos": 4.71,
     "Resumen Latinoam.": 4.83
@@ -216,20 +216,12 @@
     },
     {
       "source": "El País",
-      "title": "El dato que alarma a las librerías de España: la mitad de los títulos que tienen",
-      "score": 3.4,
+      "title": "Es el turno del ‘Karolchella’: Karol G reina en Coachella como mujer, latina y e",
+      "score": 7.4,
       "words": [
         {
-          "word": "alarma",
-          "score": -2
-        },
-        {
-          "word": "riesgos",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
+          "word": "celebrado",
+          "score": 3
         }
       ]
     },
@@ -289,33 +281,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta fin",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "abandona",
-          "score": -2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "oferta",
-          "score": 2
-        },
-        {
-          "word": "abandona",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Rusia evidencia la pinza junto a Estados Unidos contra la Unión Europea",
       "score": 4.83,
       "words": [
@@ -337,6 +302,33 @@
         },
         {
           "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta fin",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "abandona",
+          "score": -2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "abandona",
           "score": -2
         }
       ]
@@ -398,19 +390,11 @@
     {
       "source": "elDiario.es",
       "title": "El plan fallido de Trump en Irán: 'Momento Suez 1956' en el estrecho de Ormuz 20",
-      "score": 4.63,
+      "score": 4.58,
       "words": [
         {
-          "word": "bueno",
-          "score": 3
-        },
-        {
-          "word": "perdido",
+          "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "capacidad",
-          "score": 2
         },
         {
           "word": "caos",
@@ -419,15 +403,19 @@
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "fuerza",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-02T22:29:03Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-04-02T23:33:10Z",
       "score": 4.8
@@ -1095,6 +1083,10 @@
     {
       "timestamp": "2026-04-12T14:50:49Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-04-12T15:33:51Z",
+      "score": 4.83
     }
   ]
 }

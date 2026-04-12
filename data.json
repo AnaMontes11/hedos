@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-12T07:10:23Z",
-  "global_score": 4.98,
-  "articles_scored": 95,
-  "words_matched": 356,
+  "generated": "2026-04-12T08:43:57Z",
+  "global_score": 4.83,
+  "articles_scored": 94,
+  "words_matched": 368,
   "top_negative": [
     {
       "word": "negro",
@@ -25,19 +25,23 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
       "word": "víctimas",
       "score": -3
     },
     {
       "word": "peor",
       "score": -3
+    },
+    {
+      "word": "muerto",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -51,38 +55,34 @@
       "score": 4
     },
     {
-      "word": "lealtad",
-      "score": 3
-    },
-    {
-      "word": "alegre",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
       "word": "fascinante",
       "score": 3
     },
     {
       "word": "riqueza",
       "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "vibrante",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.66,
-    "elDiario.es": 4.76,
+    "El País": 4.81,
+    "elDiario.es": 4.71,
     "El Mundo": 4.48,
-    "ABC": 5.26,
+    "ABC": 4.87,
     "El Confidencial": 4.35,
-    "BBC Mundo": 5.38,
+    "BBC Mundo": 5.01,
     "France 24 ES": 5.44,
-    "La Nación AR": 4.8,
+    "La Nación AR": 4.43,
     "La Jornada MX": 5.77,
     "Desinformémonos": 4.71,
-    "Resumen Latinoam.": 4.85
+    "Resumen Latinoam.": 4.22
   },
   "articles": [
     {
@@ -110,23 +110,8 @@
     },
     {
       "source": "El País",
-      "title": "La OTAN es un zombi, Europa debe asumirlo",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
       "score": 4.6,
-      "words": [
-        {
-          "word": "garantía",
-          "score": 1
-        },
-        {
-          "word": "riesgos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Te",
-      "score": 3.4,
       "words": [
         {
           "word": "guerra",
@@ -135,6 +120,14 @@
         {
           "word": "acusa",
           "score": -2
+        },
+        {
+          "word": "acepta",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -216,12 +209,20 @@
     },
     {
       "source": "El País",
-      "title": "Crónica fotográfica desde el interior de la dependencia",
-      "score": 4.2,
+      "title": "El dato que alarma a las librerías de España: la mitad de los títulos que tienen",
+      "score": 3.4,
       "words": [
         {
-          "word": "espera",
-          "score": -1
+          "word": "alarma",
+          "score": -2
+        },
+        {
+          "word": "riesgos",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -232,6 +233,25 @@
       "words": [
         {
           "word": "celebrado",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La promesa incumplida de Juan Carlos I a Felipe VI",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "promesa",
+          "score": 1
+        },
+        {
+          "word": "incumplida",
+          "score": -2
+        },
+        {
+          "word": "lealtad",
           "score": 3
         }
       ]
@@ -400,10 +420,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-02T14:53:09Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-04-02T15:58:32Z",
       "score": 4.68
@@ -1071,6 +1087,10 @@
     {
       "timestamp": "2026-04-12T07:10:23Z",
       "score": 4.98
+    },
+    {
+      "timestamp": "2026-04-12T08:43:57Z",
+      "score": 4.83
     }
   ]
 }

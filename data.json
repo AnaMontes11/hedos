@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-12T09:42:30Z",
-  "global_score": 4.95,
-  "articles_scored": 91,
-  "words_matched": 373,
+  "generated": "2026-04-12T10:36:03Z",
+  "global_score": 4.75,
+  "articles_scored": 93,
+  "words_matched": 380,
   "top_negative": [
     {
       "word": "negro",
@@ -21,23 +21,27 @@
       "score": -4
     },
     {
+      "word": "infierno",
+      "score": -4
+    },
+    {
       "word": "maldición",
+      "score": -4
+    },
+    {
+      "word": "violación",
       "score": -4
     },
     {
       "word": "víctimas",
       "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "muerto",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -59,10 +63,6 @@
       "score": 3
     },
     {
-      "word": "paraíso",
-      "score": 3
-    },
-    {
       "word": "felicidad",
       "score": 3
     },
@@ -72,15 +72,15 @@
     }
   ],
   "per_source": {
-    "El País": 4.85,
+    "El País": 4.72,
     "elDiario.es": 4.71,
     "El Mundo": 4.51,
-    "ABC": 4.83,
+    "ABC": 5.2,
     "El Confidencial": 4.26,
     "BBC Mundo": 5.21,
     "France 24 ES": 5.44,
-    "La Nación AR": 5.25,
-    "La Jornada MX": 5.77,
+    "La Nación AR": 4.31,
+    "La Jornada MX": 4.25,
     "Desinformémonos": 4.71,
     "Resumen Latinoam.": 4.73
   },
@@ -105,29 +105,6 @@
         {
           "word": "oferta",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acepta",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
         }
       ]
     },
@@ -257,9 +234,36 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Guillaume Diop, estrella de la danza, estrella de la moda: “Quiero seguir bailan",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "moda",
+          "score": -2
+        },
+        {
+          "word": "negro",
+          "score": -5
+        },
+        {
+          "word": "negro",
+          "score": -5
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
+        },
+        {
+          "word": "espíritu",
+          "score": 1
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta fin",
-      "score": 5.03,
+      "score": 5.0,
       "words": [
         {
           "word": "abandona",
@@ -420,10 +424,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-02T17:02:48Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-02T18:53:50Z",
       "score": 4.62
@@ -1091,6 +1091,10 @@
     {
       "timestamp": "2026-04-12T09:42:30Z",
       "score": 4.95
+    },
+    {
+      "timestamp": "2026-04-12T10:36:03Z",
+      "score": 4.75
     }
   ]
 }

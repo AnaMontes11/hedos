@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-12T16:35:56Z",
-  "global_score": 4.84,
-  "articles_scored": 91,
-  "words_matched": 345,
+  "generated": "2026-04-12T17:32:13Z",
+  "global_score": 4.76,
+  "articles_scored": 87,
+  "words_matched": 341,
   "top_negative": [
     {
       "word": "negro",
@@ -51,11 +51,15 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "vitalidad",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     },
     {
@@ -63,23 +67,19 @@
       "score": 3
     },
     {
-      "word": "vitalidad",
-      "score": 3
-    },
-    {
-      "word": "sentido",
+      "word": "amor",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.79,
-    "elDiario.es": 4.76,
+    "elDiario.es": 4.82,
     "El Mundo": 4.73,
-    "ABC": 5.67,
-    "El Confidencial": 4.45,
+    "ABC": 5.22,
+    "El Confidencial": 4.48,
     "BBC Mundo": 5.42,
-    "France 24 ES": 4.85,
-    "La Nación AR": 5.52,
+    "France 24 ES": 4.63,
+    "La Nación AR": 5.49,
     "La Jornada MX": 4.25,
     "Desinformémonos": 4.71,
     "Resumen Latinoam.": 4.08
@@ -87,16 +87,35 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.36,
+      "title": "Trump anuncia su propio bloqueo naval del estrecho de Ormuz y las negociaciones ",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 4.33,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "interrupción",
+          "word": "amenaza",
           "score": -2
+        },
+        {
+          "word": "bloquear",
+          "score": -1
         },
         {
           "word": "acusa",
@@ -105,33 +124,6 @@
         {
           "word": "acepta",
           "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos e Irán interrumpen las negociaciones pero no dan por roto el diál",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "roto",
-          "score": -1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "aceptado",
-          "score": -1
-        },
-        {
-          "word": "oferta",
-          "score": 2
         }
       ]
     },
@@ -273,27 +265,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Ormuz, fuente de discordia entre Estados Unidos e Irán en las primeras conversac",
-      "score": 4.65,
+      "title": "EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta fin",
+      "score": 5.0,
       "words": [
         {
-          "word": "discordia",
+          "word": "abandona",
           "score": -2
         },
         {
-          "word": "paz",
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "oferta",
           "score": 2
         },
         {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "caos",
-          "score": -2
-        },
-        {
-          "word": "guerra",
+          "word": "abandona",
           "score": -2
         }
       ]
@@ -327,28 +319,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta fin",
-      "score": 5.0,
+      "title": "El primer ministro de Canadá da por terminada la era en la que el 70% de su gast",
+      "score": 5.39,
       "words": [
         {
-          "word": "abandona",
+          "word": "frase",
           "score": -2
         },
         {
-          "word": "llegar",
-          "score": 1
+          "word": "defecto",
+          "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "oferta",
+          "word": "fuerte",
           "score": 2
         },
         {
-          "word": "abandona",
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "solo",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "¿Hay alguien dispuesto a defender a Trump y Netanyahu en España?",
+      "score": 4.27,
+      "words": [
+        {
+          "word": "mal",
+          "score": -3
+        },
+        {
+          "word": "enfurecido",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "fuerza",
+          "score": 2
         }
       ]
     },
@@ -378,40 +397,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La frágil tregua en Irán prolonga el colapso energético y la espiral inflacionis",
-      "score": 4.46,
-      "words": [
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "energético",
-          "score": 2
-        },
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "energético",
-          "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-03T02:05:10Z",
-      "score": 4.86
-    },
     {
       "timestamp": "2026-04-03T05:02:30Z",
       "score": 4.89
@@ -1079,6 +1067,10 @@
     {
       "timestamp": "2026-04-12T16:35:56Z",
       "score": 4.84
+    },
+    {
+      "timestamp": "2026-04-12T17:32:13Z",
+      "score": 4.76
     }
   ]
 }

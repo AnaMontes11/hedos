@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-12T21:32:23Z",
-  "global_score": 4.73,
-  "articles_scored": 89,
-  "words_matched": 315,
+  "generated": "2026-04-12T22:31:34Z",
+  "global_score": 4.78,
+  "articles_scored": 91,
+  "words_matched": 312,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
       "word": "violación",
       "score": -4
     },
@@ -34,6 +30,10 @@
     },
     {
       "word": "pierde",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     }
   ],
@@ -47,6 +47,10 @@
       "score": 4
     },
     {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "riqueza",
       "score": 3
     },
@@ -55,31 +59,27 @@
       "score": 3
     },
     {
-      "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "calmar",
-      "score": 3
-    },
-    {
       "word": "amable",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.29,
-    "elDiario.es": 4.92,
+    "elDiario.es": 4.94,
     "El Mundo": 4.82,
     "ABC": 4.94,
     "El Confidencial": 4.35,
     "BBC Mundo": 5.38,
     "France 24 ES": 4.48,
-    "La Nación AR": 4.5,
+    "La Nación AR": 5.13,
     "La Jornada MX": 4.25,
     "Desinformémonos": 4.71,
     "Resumen Latinoam.": 4.41
@@ -127,20 +127,28 @@
         {
           "word": "asegura",
           "score": 2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Trump contra sus ‘influencers’: la guerra en Irán desata un cisma en el mundo MA",
+      "title": "Las amenazas de Trump impulsan el crudo un 7% y supera los 100 dólares",
       "score": 3.4,
       "words": [
         {
-          "word": "guerra",
+          "word": "amenazas",
           "score": -2
         },
         {
-          "word": "conflicto",
+          "word": "guerra",
           "score": -2
         }
       ]
@@ -243,7 +251,7 @@
     {
       "source": "elDiario.es",
       "title": "Orbán pierde las elecciones en Hungría y reconoce el fin de su reinado tras 16 a",
-      "score": 5.23,
+      "score": 5.29,
       "words": [
         {
           "word": "pierde",
@@ -350,33 +358,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El primer ministro de Canadá da por terminada la era en la que el 70% de su gast",
-      "score": 5.39,
-      "words": [
-        {
-          "word": "frase",
-          "score": -2
-        },
-        {
-          "word": "defecto",
-          "score": -2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Trump anuncia el bloqueo naval del estrecho de Ormuz tras el fracaso de las nego",
       "score": 4.85,
       "words": [
@@ -401,13 +382,36 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Ejército de EEUU asegura que bloqueará los barcos que crucen Ormuz y que teng",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "bloquear",
+          "score": -1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-03T10:40:44Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-04-03T11:35:49Z",
       "score": 4.83
@@ -1075,6 +1079,10 @@
     {
       "timestamp": "2026-04-12T21:32:23Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-04-12T22:31:34Z",
+      "score": 4.78
     }
   ]
 }

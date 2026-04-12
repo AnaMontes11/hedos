@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-12T05:21:23Z",
-  "global_score": 4.78,
-  "articles_scored": 93,
-  "words_matched": 359,
+  "generated": "2026-04-12T07:10:23Z",
+  "global_score": 4.98,
+  "articles_scored": 95,
+  "words_matched": 356,
   "top_negative": [
     {
       "word": "negro",
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "muerto",
+      "word": "peor",
       "score": -3
     }
   ],
@@ -55,6 +55,10 @@
       "score": 3
     },
     {
+      "word": "alegre",
+      "score": 3
+    },
+    {
       "word": "amor",
       "score": 3
     },
@@ -65,24 +69,20 @@
     {
       "word": "riqueza",
       "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.53,
-    "elDiario.es": 4.72,
-    "El Mundo": 4.63,
-    "ABC": 4.39,
+    "El País": 4.66,
+    "elDiario.es": 4.76,
+    "El Mundo": 4.48,
+    "ABC": 5.26,
     "El Confidencial": 4.35,
     "BBC Mundo": 5.38,
     "France 24 ES": 5.44,
-    "La Nación AR": 3.4,
+    "La Nación AR": 4.8,
     "La Jornada MX": 5.77,
     "Desinformémonos": 4.71,
-    "Resumen Latinoam.": 4.63
+    "Resumen Latinoam.": 4.85
   },
   "articles": [
     {
@@ -105,6 +105,21 @@
         {
           "word": "oferta",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La OTAN es un zombi, Europa debe asumirlo",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "garantía",
+          "score": 1
+        },
+        {
+          "word": "riesgos",
+          "score": -2
         }
       ]
     },
@@ -222,55 +237,28 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Guillaume Diop, estrella de la danza, estrella de la moda: “Quiero seguir bailan",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "moda",
-          "score": -2
-        },
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "alcanzado",
-          "score": 1
-        },
-        {
-          "word": "espíritu",
-          "score": 1
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Ormuz, fuente de discordia entre Estados Unidos e Irán en las primeras conversac",
-      "score": 4.65,
+      "title": "EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta fin",
+      "score": 5.03,
       "words": [
         {
-          "word": "discordia",
+          "word": "abandona",
           "score": -2
         },
         {
-          "word": "paz",
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "oferta",
           "score": 2
         },
         {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "caos",
-          "score": -2
-        },
-        {
-          "word": "guerra",
+          "word": "abandona",
           "score": -2
         }
       ]
@@ -412,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-02T13:07:45Z",
-      "score": 4.84
-    },
     {
       "timestamp": "2026-04-02T14:53:09Z",
       "score": 4.63
@@ -1083,6 +1067,10 @@
     {
       "timestamp": "2026-04-12T05:21:23Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-04-12T07:10:23Z",
+      "score": 4.98
     }
   ]
 }

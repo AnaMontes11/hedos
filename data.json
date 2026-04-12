@@ -1,19 +1,19 @@
 {
-  "generated": "2026-04-12T19:37:22Z",
-  "global_score": 4.82,
-  "articles_scored": 91,
-  "words_matched": 335,
+  "generated": "2026-04-12T20:32:48Z",
+  "global_score": 4.89,
+  "articles_scored": 92,
+  "words_matched": 300,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "mierda",
+      "word": "culo",
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "mierda",
       "score": -4
     },
     {
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "racistas",
+      "word": "advertencia",
       "score": -3
     }
   ],
@@ -51,15 +51,7 @@
       "score": 3
     },
     {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "brillar",
-      "score": 3
-    },
-    {
-      "word": "vitalidad",
+      "word": "riqueza",
       "score": 3
     },
     {
@@ -67,19 +59,27 @@
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "medalla",
+      "score": 3
+    },
+    {
+      "word": "calmar",
+      "score": 3
+    },
+    {
+      "word": "amable",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.88,
-    "elDiario.es": 4.78,
-    "El Mundo": 5.04,
-    "ABC": 4.98,
-    "El Confidencial": 4.42,
-    "BBC Mundo": 5.42,
-    "France 24 ES": 4.4,
-    "La Nación AR": 5.02,
+    "El País": 5.29,
+    "elDiario.es": 4.91,
+    "El Mundo": 4.98,
+    "ABC": 4.94,
+    "El Confidencial": 4.35,
+    "BBC Mundo": 5.38,
+    "France 24 ES": 4.48,
+    "La Nación AR": 5.67,
     "La Jornada MX": 4.25,
     "Desinformémonos": 4.71,
     "Resumen Latinoam.": 5.1
@@ -87,7 +87,7 @@
   "articles": [
     {
       "source": "El País",
-      "title": "El líder opositor Péter Magyar arrasa en las elecciones en Hungría y pone fin a ",
+      "title": "El líder opositor Péter Magyar arrasa en las elecciones de Hungría y pone fin a ",
       "score": 5.4,
       "words": [
         {
@@ -96,6 +96,21 @@
         },
         {
           "word": "logra",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La UE celebra la derrota de Orbán, alfil de Putin y Trump: “Hungría ha elegido E",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "felicitaciones",
           "score": 2
         }
       ]
@@ -112,48 +127,6 @@
         {
           "word": "asegura",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.33,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "bloquear",
-          "score": -1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acepta",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cuatro días en busca de cadáveres y desaparecidos tras el brutal ataque israelí ",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
         }
       ]
     },
@@ -270,7 +243,7 @@
     {
       "source": "elDiario.es",
       "title": "Orbán pierde las elecciones en Hungría y reconoce el fin de su reinado tras 16 a",
-      "score": 4.85,
+      "score": 5.0,
       "words": [
         {
           "word": "pierde",
@@ -323,6 +296,87 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Quién es Péter Magyar, el antiguo socio de Orbán que cambió de bando y será el p",
+      "score": 4.58,
+      "words": [
+        {
+          "word": "rompió",
+          "score": -1
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La UE acoge con entusiasmo la derrota de Orbán: \"Hungría ha elegido a Europa\"",
+      "score": 5.47,
+      "words": [
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "esperanzas",
+          "score": 2
+        },
+        {
+          "word": "fortalecimiento",
+          "score": 2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "fortalece",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El primer ministro de Canadá da por terminada la era en la que el 70% de su gast",
+      "score": 5.39,
+      "words": [
+        {
+          "word": "frase",
+          "score": -2
+        },
+        {
+          "word": "defecto",
+          "score": -2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump anuncia el bloqueo naval del estrecho de Ormuz tras el fracaso de las nego",
       "score": 4.85,
       "words": [
@@ -347,67 +401,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta fin",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "abandona",
-          "score": -2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "oferta",
-          "score": 2
-        },
-        {
-          "word": "abandona",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Rusia evidencia la pinza junto a Estados Unidos contra la Unión Europea",
-      "score": 4.83,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "querer",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-03T08:50:47Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-04-03T09:51:19Z",
       "score": 4.81
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-12T19:37:22Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-04-12T20:32:48Z",
+      "score": 4.89
     }
   ]
 }

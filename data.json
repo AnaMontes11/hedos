@@ -1,27 +1,19 @@
 {
-  "generated": "2026-04-13T02:28:25Z",
-  "global_score": 4.74,
-  "articles_scored": 91,
-  "words_matched": 309,
+  "generated": "2026-04-13T05:39:07Z",
+  "global_score": 4.72,
+  "articles_scored": 90,
+  "words_matched": 303,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "mierda",
+      "word": "tortura",
       "score": -4
     },
     {
-      "word": "infierno",
-      "score": -4
-    },
-    {
-      "word": "fraude",
+      "word": "puta",
       "score": -4
     },
     {
@@ -29,7 +21,15 @@
       "score": -4
     },
     {
-      "word": "víctimas",
+      "word": "destrucción",
+      "score": -3
+    },
+    {
+      "word": "criminal",
+      "score": -3
+    },
+    {
+      "word": "preocupación",
       "score": -3
     },
     {
@@ -39,23 +39,19 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "excelente",
-      "score": 3
     },
     {
       "word": "celebrando",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "alabado",
+      "score": 3
+    },
+    {
+      "word": "emoción",
       "score": 3
     },
     {
@@ -63,7 +59,11 @@
       "score": 3
     },
     {
-      "word": "amable",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     },
     {
@@ -72,14 +72,14 @@
     }
   ],
   "per_source": {
-    "El País": 5.38,
-    "elDiario.es": 4.94,
+    "El País": 4.51,
+    "elDiario.es": 4.69,
     "El Mundo": 5.11,
-    "ABC": 4.77,
-    "El Confidencial": 4.3,
-    "BBC Mundo": 5.19,
-    "France 24 ES": 4.12,
-    "La Nación AR": 5.01,
+    "ABC": 5.24,
+    "El Confidencial": 4.39,
+    "BBC Mundo": 5.09,
+    "France 24 ES": 4.75,
+    "La Nación AR": 4.97,
     "La Jornada MX": 4.25,
     "Desinformémonos": 4.71,
     "Resumen Latinoam.": 4.46
@@ -140,12 +140,72 @@
     },
     {
       "source": "El País",
-      "title": "El nuevo bloqueo de Ormuz dispara el petróleo un 7% y supera los 100 dólares",
-      "score": 3.8,
+      "title": "Europa y Asia temen que el bloqueo de Trump en Ormuz agrave la carestía de petró",
+      "score": 4.2,
       "words": [
         {
           "word": "bloqueo",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El declive de Bagdad dos décadas después de la guerra, espejo para Teherán",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "destrucción",
+          "score": -3
+        },
+        {
+          "word": "estancamiento",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La carrera criminal entre dos conductores por la autopista M-30 que acabó con la",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "prisión",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los golpes de Estado que puede intentar Trump",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "preocupación",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sin libertad de navegación no hay globalización",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "libertad",
+          "score": 2
         },
         {
           "word": "guerra",
@@ -155,84 +215,16 @@
     },
     {
       "source": "El País",
-      "title": "Trump ataca al Papa y dice que “debería dejar de complacer a la izquierda radica",
-      "score": 3.8,
+      "title": "Los sondeos a boca de urna indican que Keiko Fujimori pasará a la segunda vuelta",
+      "score": 3.4,
       "words": [
         {
-          "word": "dejar",
-          "score": -1
-        },
-        {
-          "word": "débil",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las cartas de perdón de los presos de ETA: “El sufrimiento que creé es irreparab",
-      "score": 4.31,
-      "words": [
-        {
-          "word": "perdón",
-          "score": 2
-        },
-        {
-          "word": "sufrimiento",
+          "word": "problemas",
           "score": -2
         },
         {
-          "word": "daño",
+          "word": "puesto",
           "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "autores",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Amanda Ungaro: de compartir veladas con los Trump a ser deportada por el ICE",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "compartir",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Es el turno del ‘Karolchella’: Karol G reina en Coachella como mujer, latina y e",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "celebrado",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La promesa incumplida de Juan Carlos I a Felipe VI",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "promesa",
-          "score": 1
-        },
-        {
-          "word": "incumplida",
-          "score": -2
-        },
-        {
-          "word": "lealtad",
-          "score": 3
         }
       ]
     },
@@ -259,33 +251,6 @@
         },
         {
           "word": "linda",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "En busca de un votante de la oposición en los pueblos rurales de Hungría en los ",
-      "score": 4.41,
-      "words": [
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "sol",
           "score": 2
         }
       ]
@@ -346,64 +311,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump anuncia el bloqueo naval del estrecho de Ormuz tras el fracaso de las nego",
-      "score": 4.85,
+      "title": "El juicio de Kitchen ofrece la primera postal de cuatro años de guerra sucia del",
+      "score": 4.03,
       "words": [
         {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "fracaso",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "fracaso",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "bloqueo",
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "rechaza",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El Ejército de EEUU asegura que bloqueará los barcos que crucen Ormuz y que teng",
-      "score": 5.17,
+      "title": "Un bróker vinculado a exdirigentes del PP, investigado por una presunta estafa d",
+      "score": 5.0,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
+          "word": "estafa",
+          "score": -3
         },
         {
-          "word": "libertad",
-          "score": 2
+          "word": "estafa",
+          "score": -3
         },
         {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "fracaso",
+          "word": "tiempo",
           "score": -2
         },
         {
-          "word": "bloquear",
-          "score": -1
+          "word": "estafa",
+          "score": -3
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Senado regula el uso de la IA para parlamentarios y trabajadores",
+      "score": 4.77,
+      "words": [
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "riesgos",
+          "score": -2
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "moda",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-03T14:04:03Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-04-03T15:37:26Z",
       "score": 4.53
@@ -1071,6 +1059,10 @@
     {
       "timestamp": "2026-04-13T02:28:25Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-04-13T05:39:07Z",
+      "score": 4.72
     }
   ]
 }

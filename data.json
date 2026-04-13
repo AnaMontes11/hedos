@@ -1,16 +1,12 @@
 {
-  "generated": "2026-04-13T14:45:26Z",
-  "global_score": 4.79,
-  "articles_scored": 81,
-  "words_matched": 246,
+  "generated": "2026-04-13T16:09:43Z",
+  "global_score": 4.77,
+  "articles_scored": 90,
+  "words_matched": 254,
   "top_negative": [
     {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "infierno",
-      "score": -4
+      "word": "negro",
+      "score": -5
     },
     {
       "word": "puta",
@@ -18,6 +14,14 @@
     },
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "infierno",
+      "score": -4
+    },
+    {
+      "word": "culo",
       "score": -4
     },
     {
@@ -30,10 +34,6 @@
     },
     {
       "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "pierde",
       "score": -3
     }
   ],
@@ -51,7 +51,11 @@
       "score": 4
     },
     {
-      "word": "premio",
+      "word": "cortés",
+      "score": 3
+    },
+    {
+      "word": "amor",
       "score": 3
     },
     {
@@ -59,11 +63,7 @@
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "mejor",
+      "word": "premio",
       "score": 3
     },
     {
@@ -72,26 +72,31 @@
     }
   ],
   "per_source": {
-    "El País": 5.19,
-    "elDiario.es": 5.03,
-    "El Mundo": 4.63,
-    "El Confidencial": 4.76,
-    "BBC Mundo": 4.76,
-    "France 24 ES": 4.2,
-    "La Nación AR": 5.12,
+    "El País": 4.89,
+    "elDiario.es": 4.98,
+    "El Mundo": 4.86,
+    "ABC": 5.0,
+    "El Confidencial": 4.83,
+    "BBC Mundo": 4.8,
+    "France 24 ES": 4.26,
+    "La Nación AR": 4.59,
     "La Jornada MX": 4.3,
-    "Desinformémonos": 4.71,
-    "Resumen Latinoam.": 4.93
+    "Desinformémonos": 4.59,
+    "Resumen Latinoam.": 5.21
   },
   "articles": [
     {
       "source": "El País",
       "title": "El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversació",
-      "score": 2.87,
+      "score": 3.0,
       "words": [
         {
           "word": "delitos",
           "score": -3
+        },
+        {
+          "word": "polémica",
+          "score": -2
         },
         {
           "word": "delito",
@@ -105,19 +110,19 @@
     },
     {
       "source": "El País",
-      "title": "Juicio contra Ábalos, Koldo y Aldama, en directo | La expareja de Koldo asegura ",
-      "score": 6.6,
+      "title": "Peinado se cuela en el banquete de Xi Jinping",
+      "score": 5.8,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
+          "word": "llegar",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 3.67,
+      "score": 3.6,
       "words": [
         {
           "word": "guerra",
@@ -132,35 +137,8 @@
           "score": -1
         },
         {
-          "word": "amenaza",
+          "word": "denuncia",
           "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump anuncia su propio bloqueo naval del estrecho de Ormuz y las negociaciones ",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "asegura",
-          "score": 2
         }
       ]
     },
@@ -175,6 +153,21 @@
         },
         {
           "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Choque en la Iglesia por la visita del Papa: “¿Qué es eso de la Puerta de Alcalá",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "crítico",
           "score": -2
         }
       ]
@@ -245,135 +238,81 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Orbán pierde las elecciones en Hungría y reconoce el fin de su reinado tras 16 a",
-      "score": 5.29,
+      "title": "El juez Peinado propone llevar a juicio a Begoña Gómez por cuatro delitos",
+      "score": 5.02,
       "words": [
         {
-          "word": "pierde",
+          "word": "delitos",
           "score": -3
         },
         {
-          "word": "pierde",
+          "word": "delitos",
           "score": -3
         },
         {
-          "word": "perdido",
+          "word": "acusación",
           "score": -2
         },
         {
-          "word": "llorar",
+          "word": "acusación",
           "score": -2
         },
         {
-          "word": "linda",
+          "word": "justicia",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La derrota histórica de Orbán desata una gran fiesta en Budapest: \"Es más import",
-      "score": 5.08,
+      "title": "La expareja de Koldo García no se reconoce en los wasaps sobre las ‘chistorras’ ",
+      "score": 5.34,
       "words": [
         {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "celebrando",
+          "word": "celebra",
           "score": 3
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "rompió",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cuando el PP español y Orbán eran \"buenos amigos\"",
-      "score": 5.49,
-      "words": [
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "frase",
-          "score": -2
-        },
-        {
-          "word": "abrazo",
-          "score": 2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Primer efecto tras la derrota de Orbán: la UE quiere eliminar el veto a las deci",
-      "score": 5.42,
-      "words": [
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "imponer",
-          "score": -1
         },
         {
           "word": "mayor",
           "score": 3
         },
         {
-          "word": "importante",
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "fuerte",
           "score": 2
         },
         {
-          "word": "evitar",
-          "score": -1
+          "word": "sol",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Quién es Péter Magyar, el antiguo socio de Orbán que cambió de bando y será el p",
-      "score": 4.54,
+      "title": "El ex fiscal general, al Constitucional: “El Supremo hizo una valoración irracio",
+      "score": 4.0,
       "words": [
         {
-          "word": "rompió",
+          "word": "irracional",
           "score": -1
         },
         {
-          "word": "pierde",
-          "score": -3
+          "word": "irracional",
+          "score": -1
         },
         {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "peligro",
+          "word": "sentencia",
           "score": -2
         },
         {
-          "word": "miedo",
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "acusa",
           "score": -2
         }
       ]
@@ -404,13 +343,63 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez pide a China que exija el cese de la guerra de Irán",
+      "score": 5.13,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "compromiso",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Papa León XIV responde a los ataques de Trump: “Seguiré hablando alto y claro",
+      "score": 4.43,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "claro",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-03T19:36:27Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-04-03T20:33:18Z",
       "score": 4.75
@@ -1078,6 +1067,10 @@
     {
       "timestamp": "2026-04-13T14:45:26Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-04-13T16:09:43Z",
+      "score": 4.77
     }
   ]
 }

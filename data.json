@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-13T05:39:07Z",
-  "global_score": 4.72,
-  "articles_scored": 90,
-  "words_matched": 303,
+  "generated": "2026-04-13T07:59:15Z",
+  "global_score": 4.58,
+  "articles_scored": 88,
+  "words_matched": 289,
   "top_negative": [
     {
       "word": "culo",
@@ -39,27 +39,23 @@
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "celebrando",
-      "score": 3
+      "word": "ganador",
+      "score": 4
     },
     {
-      "word": "alabado",
-      "score": 3
-    },
-    {
-      "word": "emoción",
+      "word": "celebrado",
       "score": 3
     },
     {
       "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "bueno",
       "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.51,
-    "elDiario.es": 4.69,
-    "El Mundo": 5.11,
-    "ABC": 5.24,
-    "El Confidencial": 4.39,
+    "El País": 4.57,
+    "elDiario.es": 4.76,
+    "El Mundo": 4.87,
+    "ABC": 4.33,
+    "El Confidencial": 4.57,
     "BBC Mundo": 5.09,
-    "France 24 ES": 4.75,
-    "La Nación AR": 4.97,
+    "France 24 ES": 4.69,
+    "La Nación AR": 4.43,
     "La Jornada MX": 4.25,
     "Desinformémonos": 4.71,
-    "Resumen Latinoam.": 4.46
+    "Resumen Latinoam.": 4.36
   },
   "articles": [
     {
@@ -171,7 +171,7 @@
     {
       "source": "El País",
       "title": "La carrera criminal entre dos conductores por la autopista M-30 que acabó con la",
-      "score": 4.47,
+      "score": 5.0,
       "words": [
         {
           "word": "criminal",
@@ -180,6 +180,10 @@
         {
           "word": "popular",
           "score": 3
+        },
+        {
+          "word": "cumplir",
+          "score": 2
         },
         {
           "word": "prisión",
@@ -215,15 +219,15 @@
     },
     {
       "source": "El País",
-      "title": "Los sondeos a boca de urna indican que Keiko Fujimori pasará a la segunda vuelta",
+      "title": "Choque en la Iglesia por la visita del Papa: “¿Qué es eso de la Puerta de Alcalá",
       "score": 3.4,
       "words": [
         {
-          "word": "problemas",
+          "word": "choque",
           "score": -2
         },
         {
-          "word": "puesto",
+          "word": "crítico",
           "score": -2
         }
       ]
@@ -311,91 +315,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juicio de Kitchen ofrece la primera postal de cuatro años de guerra sucia del",
-      "score": 4.03,
+      "title": "El Ejército de EEUU asegura que bloqueará los barcos que crucen Ormuz y que teng",
+      "score": 5.17,
       "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un bróker vinculado a exdirigentes del PP, investigado por una presunta estafa d",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "estafa",
-          "score": -3
-        },
-        {
-          "word": "estafa",
-          "score": -3
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "estafa",
-          "score": -3
-        },
         {
           "word": "asegura",
           "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "bloquear",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El Senado regula el uso de la IA para parlamentarios y trabajadores",
-      "score": 4.77,
+      "title": "Escala la violencia en Cisjordania: la cifra de palestinos asesinados por colono",
+      "score": 4.0,
       "words": [
         {
-          "word": "aprueba",
-          "score": 2
+          "word": "violencia",
+          "score": -3
         },
         {
-          "word": "advierte",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "riesgos",
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "miedo",
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Obligados a enterrar dos veces a sus muertos: los ataques de Israel trastocan el",
+      "score": 4.15,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "moda",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "permitir",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-03T15:37:26Z",
-      "score": 4.53
-    },
     {
       "timestamp": "2026-04-03T16:36:49Z",
       "score": 4.72
@@ -1063,6 +1063,10 @@
     {
       "timestamp": "2026-04-13T05:39:07Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-04-13T07:59:15Z",
+      "score": 4.58
     }
   ]
 }

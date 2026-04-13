@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-13T12:00:36Z",
-  "global_score": 4.62,
-  "articles_scored": 90,
-  "words_matched": 282,
+  "generated": "2026-04-13T14:45:26Z",
+  "global_score": 4.79,
+  "articles_scored": 81,
+  "words_matched": 246,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -17,8 +13,16 @@
       "score": -4
     },
     {
+      "word": "puta",
+      "score": -4
+    },
+    {
       "word": "fraude",
       "score": -4
+    },
+    {
+      "word": "delitos",
+      "score": -3
     },
     {
       "word": "delito",
@@ -31,23 +35,11 @@
     {
       "word": "pierde",
       "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
       "word": "alegría",
-      "score": 4
-    },
-    {
-      "word": "brillante",
       "score": 4
     },
     {
@@ -59,6 +51,10 @@
       "score": 4
     },
     {
+      "word": "premio",
+      "score": 3
+    },
+    {
       "word": "excelente",
       "score": 3
     },
@@ -67,27 +63,60 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.87,
-    "elDiario.es": 4.99,
-    "El Mundo": 4.54,
-    "ABC": 5.02,
-    "El Confidencial": 4.67,
-    "BBC Mundo": 4.8,
-    "France 24 ES": 4.69,
-    "La Nación AR": 4.18,
+    "El País": 5.19,
+    "elDiario.es": 5.03,
+    "El Mundo": 4.63,
+    "El Confidencial": 4.76,
+    "BBC Mundo": 4.76,
+    "France 24 ES": 4.2,
+    "La Nación AR": 5.12,
     "La Jornada MX": 4.3,
     "Desinformémonos": 4.71,
-    "Resumen Latinoam.": 3.87
+    "Resumen Latinoam.": 4.93
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "title": "El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversació",
+      "score": 2.87,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "indignación",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Juicio contra Ábalos, Koldo y Aldama, en directo | La expareja de Koldo asegura ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
       "score": 3.67,
       "words": [
         {
@@ -99,8 +128,16 @@
           "score": -2
         },
         {
-          "word": "ataques",
+          "word": "bloqueo",
           "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
@@ -129,26 +166,15 @@
     },
     {
       "source": "El País",
-      "title": "Iberia suspenderá en junio sus vuelos a Cuba por la falta de combustible en el p",
-      "score": 4.2,
+      "title": "El papa León XIV responde al presidente de EE UU: “No tengo miedo a Trump. Segui",
+      "score": 3.4,
       "words": [
         {
-          "word": "demanda",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez Peinado procesa a Begoña Gómez por malversación, tráfico de influencias,",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
+          "word": "miedo",
+          "score": -2
         },
         {
-          "word": "indignación",
+          "word": "guerra",
           "score": -2
         }
       ]
@@ -178,15 +204,22 @@
     },
     {
       "source": "El País",
-      "title": "El líder opositor Péter Magyar arrasa en las elecciones de Hungría y pone fin a ",
-      "score": 5.4,
+      "title": "La Hungría de Péter Magyar: europeísmo, Estado de derecho y respeto a voces crít",
+      "score": 5.8,
       "words": [
         {
-          "word": "admite",
-          "score": -1
-        },
+          "word": "derecho",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La caída de Orbán, en datos: ciudades, movilización y voto joven",
+      "score": 6.6,
+      "words": [
         {
-          "word": "logra",
+          "word": "ganado",
           "score": 2
         }
       ]
@@ -233,33 +266,6 @@
         },
         {
           "word": "linda",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La UE acoge con entusiasmo la derrota de Orbán: \"Hungría ha elegido a Europa\"",
-      "score": 5.32,
-      "words": [
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "esperanzas",
-          "score": 2
-        },
-        {
-          "word": "fortalecimiento",
-          "score": 2
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "fortalece",
           "score": 2
         }
       ]
@@ -320,6 +326,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Primer efecto tras la derrota de Orbán: la UE quiere eliminar el veto a las deci",
+      "score": 5.42,
+      "words": [
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "imponer",
+          "score": -1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Quién es Péter Magyar, el antiguo socio de Orbán que cambió de bando y será el p",
       "score": 4.54,
       "words": [
@@ -342,33 +375,6 @@
         {
           "word": "miedo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Ejército de EEUU asegura que bloqueará los barcos que crucen Ormuz y que teng",
-      "score": 5.17,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "fracaso",
-          "score": -2
-        },
-        {
-          "word": "bloquear",
-          "score": -1
         }
       ]
     },
@@ -398,40 +404,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Papa León XIV responde a los ataques de Trump: “Seguiré hablando alto y claro",
-      "score": 4.43,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-03T18:42:20Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-03T19:36:27Z",
       "score": 4.75
@@ -1099,6 +1074,10 @@
     {
       "timestamp": "2026-04-13T12:00:36Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-04-13T14:45:26Z",
+      "score": 4.79
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-13T22:40:19Z",
-  "global_score": 4.49,
-  "articles_scored": 97,
-  "words_matched": 260,
+  "generated": "2026-04-13T23:39:41Z",
+  "global_score": 4.56,
+  "articles_scored": 96,
+  "words_matched": 261,
   "top_negative": [
     {
       "word": "negro",
@@ -78,11 +78,11 @@
     "ABC": 5.09,
     "El Confidencial": 4.81,
     "BBC Mundo": 4.25,
-    "France 24 ES": 4.66,
-    "La Nación AR": 4.44,
+    "France 24 ES": 4.64,
+    "La Nación AR": 5.19,
     "La Jornada MX": 4.3,
     "Desinformémonos": 4.41,
-    "Resumen Latinoam.": 3.86
+    "Resumen Latinoam.": 4.18
   },
   "articles": [
     {
@@ -392,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T04:21:15Z",
-      "score": 4.53
-    },
     {
       "timestamp": "2026-04-04T05:55:37Z",
       "score": 4.62
@@ -1063,6 +1059,10 @@
     {
       "timestamp": "2026-04-13T22:40:19Z",
       "score": 4.49
+    },
+    {
+      "timestamp": "2026-04-13T23:39:41Z",
+      "score": 4.56
     }
   ]
 }

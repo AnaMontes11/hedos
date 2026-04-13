@@ -1,9 +1,13 @@
 {
-  "generated": "2026-04-13T10:03:39Z",
-  "global_score": 4.64,
-  "articles_scored": 88,
-  "words_matched": 275,
+  "generated": "2026-04-13T12:00:36Z",
+  "global_score": 4.62,
+  "articles_scored": 90,
+  "words_matched": 282,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -13,19 +17,15 @@
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "destrucción",
+      "word": "delito",
       "score": -3
     },
     {
       "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "preocupación",
       "score": -3
     },
     {
@@ -39,7 +39,15 @@
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "brillante",
       "score": 4
     },
     {
@@ -47,19 +55,11 @@
       "score": 4
     },
     {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "devoto",
-      "score": 3
+      "word": "triunfo",
+      "score": 4
     },
     {
       "word": "excelente",
-      "score": 3
-    },
-    {
-      "word": "premio",
       "score": 3
     },
     {
@@ -67,51 +67,40 @@
       "score": 3
     },
     {
-      "word": "alabanzas",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.48,
-    "elDiario.es": 4.88,
-    "El Mundo": 4.98,
-    "ABC": 4.59,
-    "El Confidencial": 4.88,
-    "BBC Mundo": 5.02,
+    "El País": 4.87,
+    "elDiario.es": 4.99,
+    "El Mundo": 4.54,
+    "ABC": 5.02,
+    "El Confidencial": 4.67,
+    "BBC Mundo": 4.8,
     "France 24 ES": 4.69,
-    "La Nación AR": 4.68,
-    "La Jornada MX": 4.25,
+    "La Nación AR": 4.18,
+    "La Jornada MX": 4.3,
     "Desinformémonos": 4.71,
-    "Resumen Latinoam.": 4.07
+    "Resumen Latinoam.": 3.87
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El líder opositor Péter Magyar arrasa en las elecciones de Hungría y pone fin a ",
-      "score": 5.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 3.67,
       "words": [
         {
-          "word": "admite",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "ataques",
           "score": -1
-        },
-        {
-          "word": "logra",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Euforia en la UE por la derrota de Orbán, alfil de Putin y Trump: “Hungría ha el",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "euforia",
-          "score": 3
-        },
-        {
-          "word": "felicitaciones",
-          "score": 2
         }
       ]
     },
@@ -140,19 +129,26 @@
     },
     {
       "source": "El País",
-      "title": "El declive de Bagdad dos décadas después de la guerra, espejo para Teherán",
-      "score": 3.13,
+      "title": "Iberia suspenderá en junio sus vuelos a Cuba por la falta de combustible en el p",
+      "score": 4.2,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
+          "word": "demanda",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El juez Peinado procesa a Begoña Gómez por malversación, tráfico de influencias,",
+      "score": 3.0,
+      "words": [
         {
-          "word": "destrucción",
+          "word": "delito",
           "score": -3
         },
         {
-          "word": "estancamiento",
+          "word": "indignación",
           "score": -2
         }
       ]
@@ -182,57 +178,35 @@
     },
     {
       "source": "El País",
-      "title": "Los golpes de Estado que puede intentar Trump",
-      "score": 2.6,
+      "title": "El líder opositor Péter Magyar arrasa en las elecciones de Hungría y pone fin a ",
+      "score": 5.4,
       "words": [
         {
-          "word": "preocupación",
-          "score": -3
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "logra",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Sin libertad de navegación no hay globalización",
-      "score": 5.0,
+      "title": "La derrota de Orbán en las elecciones en Hungría priva a Netanyahu de su mayor a",
+      "score": 7.4,
       "words": [
         {
-          "word": "libertad",
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "apoyo",
           "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Choque en la Iglesia por la visita del Papa: “¿Qué es eso de la Puerta de Alcalá",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "crítico",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El papa León XIV responde al presidente de EE UU: “No tengo miedo a Trump. Segui",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "triunfo",
+          "score": 4
         }
       ]
     },
@@ -319,33 +293,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Quién es Péter Magyar, el antiguo socio de Orbán que cambió de bando y será el p",
-      "score": 4.54,
-      "words": [
-        {
-          "word": "rompió",
-          "score": -1
-        },
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        },
-        {
-          "word": "miedo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Cuando el PP español y Orbán eran \"buenos amigos\"",
       "score": 5.49,
       "words": [
@@ -367,6 +314,33 @@
         },
         {
           "word": "peligro",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Quién es Péter Magyar, el antiguo socio de Orbán que cambió de bando y será el p",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "rompió",
+          "score": -1
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "miedo",
           "score": -2
         }
       ]
@@ -397,13 +371,63 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "¿Por qué EEUU amenaza con bloquear los puertos iraníes y cómo podría funcionar?",
+      "score": 4.59,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "bloquear",
+          "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "bloquear",
+          "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Papa León XIV responde a los ataques de Trump: “Seguiré hablando alto y claro",
+      "score": 4.43,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "claro",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-03T17:31:59Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-04-03T18:42:20Z",
       "score": 4.71
@@ -1071,6 +1095,10 @@
     {
       "timestamp": "2026-04-13T10:03:39Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-04-13T12:00:36Z",
+      "score": 4.62
     }
   ]
 }

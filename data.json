@@ -1,19 +1,15 @@
 {
-  "generated": "2026-04-13T07:59:15Z",
-  "global_score": 4.58,
+  "generated": "2026-04-13T10:03:39Z",
+  "global_score": 4.64,
   "articles_scored": 88,
-  "words_matched": 289,
+  "words_matched": 275,
   "top_negative": [
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "tortura",
-      "score": -4
-    },
-    {
-      "word": "puta",
+      "word": "infierno",
       "score": -4
     },
     {
@@ -35,13 +31,13 @@
     {
       "word": "pierde",
       "score": -3
+    },
+    {
+      "word": "delitos",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "excepcional",
-      "score": 5
-    },
     {
       "word": "ganar",
       "score": 4
@@ -51,7 +47,19 @@
       "score": 4
     },
     {
-      "word": "celebrado",
+      "word": "caro",
+      "score": 3
+    },
+    {
+      "word": "devoto",
+      "score": 3
+    },
+    {
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     },
     {
@@ -59,30 +67,22 @@
       "score": 3
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "celebra",
+      "word": "alabanzas",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.57,
-    "elDiario.es": 4.76,
-    "El Mundo": 4.87,
-    "ABC": 4.33,
-    "El Confidencial": 4.57,
-    "BBC Mundo": 5.09,
+    "El País": 4.48,
+    "elDiario.es": 4.88,
+    "El Mundo": 4.98,
+    "ABC": 4.59,
+    "El Confidencial": 4.88,
+    "BBC Mundo": 5.02,
     "France 24 ES": 4.69,
-    "La Nación AR": 4.43,
+    "La Nación AR": 4.68,
     "La Jornada MX": 4.25,
     "Desinformémonos": 4.71,
-    "Resumen Latinoam.": 4.36
+    "Resumen Latinoam.": 4.07
   },
   "articles": [
     {
@@ -135,17 +135,6 @@
         {
           "word": "asegura",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Europa y Asia temen que el bloqueo de Trump en Ormuz agrave la carestía de petró",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
         }
       ]
     },
@@ -233,6 +222,21 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "El papa León XIV responde al presidente de EE UU: “No tengo miedo a Trump. Segui",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Orbán pierde las elecciones en Hungría y reconoce el fin de su reinado tras 16 a",
       "score": 5.29,
@@ -256,33 +260,6 @@
         {
           "word": "linda",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Quién es Péter Magyar, el antiguo socio de Orbán que cambió de bando y será el p",
-      "score": 4.54,
-      "words": [
-        {
-          "word": "rompió",
-          "score": -1
-        },
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        },
-        {
-          "word": "miedo",
-          "score": -2
         }
       ]
     },
@@ -315,6 +292,87 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La derrota histórica de Orbán desata una gran fiesta en Budapest: \"Es más import",
+      "score": 5.08,
+      "words": [
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "celebrando",
+          "score": 3
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "rompió",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Quién es Péter Magyar, el antiguo socio de Orbán que cambió de bando y será el p",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "rompió",
+          "score": -1
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Cuando el PP español y Orbán eran \"buenos amigos\"",
+      "score": 5.49,
+      "words": [
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "frase",
+          "score": -2
+        },
+        {
+          "word": "abrazo",
+          "score": 2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El Ejército de EEUU asegura que bloqueará los barcos que crucen Ormuz y que teng",
       "score": 5.17,
       "words": [
@@ -339,67 +397,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Escala la violencia en Cisjordania: la cifra de palestinos asesinados por colono",
-      "score": 4.0,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Obligados a enterrar dos veces a sus muertos: los ataques de Israel trastocan el",
-      "score": 4.15,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "permitir",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-03T16:36:49Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-04-03T17:31:59Z",
       "score": 4.81
@@ -1067,6 +1067,10 @@
     {
       "timestamp": "2026-04-13T07:59:15Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-04-13T10:03:39Z",
+      "score": 4.64
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-14T07:27:26Z",
-  "global_score": 4.6,
+  "generated": "2026-04-14T09:15:23Z",
+  "global_score": 4.61,
   "articles_scored": 91,
-  "words_matched": 291,
+  "words_matched": 261,
   "top_negative": [
     {
       "word": "negro",
@@ -21,15 +21,15 @@
       "score": -4
     },
     {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "delitos",
       "score": -3
     },
     {
       "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "cargado",
       "score": -3
     },
     {
@@ -39,6 +39,10 @@
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "alegría",
       "score": 4
     },
@@ -47,11 +51,7 @@
       "score": 3
     },
     {
-      "word": "emocionado",
-      "score": 3
-    },
-    {
-      "word": "emoción",
+      "word": "celebra",
       "score": 3
     },
     {
@@ -59,7 +59,7 @@
       "score": 3
     },
     {
-      "word": "bonito",
+      "word": "sentido",
       "score": 3
     },
     {
@@ -73,51 +73,32 @@
   ],
   "per_source": {
     "El País": 4.99,
-    "elDiario.es": 4.72,
-    "El Mundo": 4.55,
-    "ABC": 5.35,
-    "El Confidencial": 4.88,
+    "elDiario.es": 4.99,
+    "El Mundo": 4.9,
+    "ABC": 5.18,
+    "El Confidencial": 4.78,
     "BBC Mundo": 4.24,
-    "France 24 ES": 4.24,
-    "La Nación AR": 4.64,
+    "France 24 ES": 4.3,
+    "La Nación AR": 4.49,
     "La Jornada MX": 4.3,
     "Desinformémonos": 4.36,
-    "Resumen Latinoam.": 4.37
+    "Resumen Latinoam.": 4.19
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La carrera contra reloj de los migrantes ante la regularización: “No quiero perd",
-      "score": 5.0,
+      "title": "Sánchez defiende la regularización de inmigrantes en una carta a la ciudadanía",
+      "score": 6.6,
       "words": [
         {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "oportunidad",
+          "word": "justicia",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La valentía y el sentido de ir a contracorriente",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "espíritu",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Pedro Sánchez, sobre el procesamiento de Begoña Gómez: “Lo que le pido a la just",
+      "title": "Sánchez, sobre el procesamiento de Begoña Gómez: “Lo que le pido a la justicia e",
       "score": 5.53,
       "words": [
         {
@@ -136,7 +117,7 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Do",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
       "score": 3.6,
       "words": [
         {
@@ -243,33 +224,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez evita cargar contra el juez Peinado tras procesar a su mujer: \"Espero qu",
-      "score": 5.38,
-      "words": [
-        {
-          "word": "evita",
-          "score": -1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "evita",
-          "score": -1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El caso Begoña Gómez: el robo de la nada, el negocio sin lucro, la corrupción si",
       "score": 4.06,
       "words": [
@@ -292,6 +246,33 @@
         {
           "word": "solo",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez evita cargar contra el juez Peinado tras procesar a su mujer: \"Espero qu",
+      "score": 5.38,
+      "words": [
+        {
+          "word": "evita",
+          "score": -1
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "evita",
+          "score": -1
+        },
+        {
+          "word": "justicia",
+          "score": 2
         }
       ]
     },
@@ -351,91 +332,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump aumenta la tensión en el estrecho de Ormuz y pone en riesgo el frágil alto",
-      "score": 4.54,
+      "title": "El Gobierno ayudará a los migrantes a probar que no tienen antecedentes penales ",
+      "score": 5.05,
       "words": [
         {
-          "word": "aumenta",
-          "score": 1
+          "word": "facilitar",
+          "score": 2
         },
         {
-          "word": "tensión",
-          "score": -1
+          "word": "facilitar",
+          "score": 2
         },
         {
-          "word": "riesgo",
+          "word": "problemas",
           "score": -2
         },
         {
-          "word": "fuego",
-          "score": -2
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "expulsado",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump confirma que el bloqueo de EEUU del estrecho de Ormuz ha comenzado",
-      "score": 4.66,
+      "title": "El PP rechaza la regularización de migrantes pese a no saber los detalles: \"No c",
+      "score": 4.77,
       "words": [
         {
-          "word": "bloqueo",
+          "word": "rechaza",
           "score": -1
         },
         {
-          "word": "bloqueo",
+          "word": "rechaza",
           "score": -1
         },
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "malo",
+          "score": -3
         },
         {
           "word": "asegurado",
           "score": 2
-        },
-        {
-          "word": "bloquear",
-          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump amenaza con estrangular la economía global con el cierre del estrecho de O",
-      "score": 4.19,
+      "title": "Sánchez defiende la regularización en una carta a la ciudadanía: \"Es un acto de ",
+      "score": 5.99,
       "words": [
         {
-          "word": "amenaza",
+          "word": "vulnerabilidad",
           "score": -2
         },
         {
-          "word": "amenaza",
+          "word": "vulnerabilidad",
           "score": -2
         },
         {
-          "word": "cortar",
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Claves de la regularización: cómo pedirla, cuáles son los requisitos definitivos",
+      "score": 5.16,
+      "words": [
+        {
+          "word": "establecido",
+          "score": 1
+        },
+        {
+          "word": "vulnerabilidad",
+          "score": -2
+        },
+        {
+          "word": "conceder",
+          "score": 1
+        },
+        {
+          "word": "suspender",
           "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
+          "word": "aprobado",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T08:38:04Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-04-04T09:35:03Z",
       "score": 4.65
@@ -1103,6 +1107,10 @@
     {
       "timestamp": "2026-04-14T07:27:26Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-04-14T09:15:23Z",
+      "score": 4.61
     }
   ]
 }

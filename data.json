@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-14T09:15:23Z",
-  "global_score": 4.61,
-  "articles_scored": 91,
-  "words_matched": 261,
+  "generated": "2026-04-14T11:00:17Z",
+  "global_score": 4.57,
+  "articles_scored": 88,
+  "words_matched": 264,
   "top_negative": [
     {
       "word": "negro",
@@ -21,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "catastrófico",
+      "score": -4
+    },
+    {
       "word": "violación",
       "score": -4
     },
@@ -30,10 +34,6 @@
     },
     {
       "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "asesinato",
       "score": -3
     }
   ],
@@ -47,15 +47,11 @@
       "score": 4
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
       "word": "celebra",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "bueno",
       "score": 3
     },
     {
@@ -69,56 +65,41 @@
     {
       "word": "perfectamente",
       "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.99,
+    "El País": 5.44,
     "elDiario.es": 4.99,
-    "El Mundo": 4.9,
-    "ABC": 5.18,
-    "El Confidencial": 4.78,
-    "BBC Mundo": 4.24,
+    "El Mundo": 4.62,
+    "ABC": 4.81,
+    "El Confidencial": 4.82,
+    "BBC Mundo": 4.08,
     "France 24 ES": 4.3,
-    "La Nación AR": 4.49,
-    "La Jornada MX": 4.3,
+    "La Nación AR": 4.86,
+    "La Jornada MX": 4.53,
     "Desinformémonos": 4.36,
-    "Resumen Latinoam.": 4.19
+    "Resumen Latinoam.": 3.81
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Sánchez defiende la regularización de inmigrantes en una carta a la ciudadanía",
+      "title": "El Gobierno aprueba la regularización extraordinaria de inmigrantes: “Es uno de ",
       "score": 6.6,
       "words": [
         {
-          "word": "justicia",
+          "word": "aprueba",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sánchez, sobre el procesamiento de Begoña Gómez: “Lo que le pido a la justicia e",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "indignación",
-          "score": -2
         }
       ]
     },
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 3.6,
+      "score": 3.56,
       "words": [
         {
           "word": "guerra",
@@ -129,42 +110,38 @@
           "score": -1
         },
         {
-          "word": "niega",
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "fracaso",
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "solo",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Irán se aferra a enriquecer uranio con las promesas rotas de Occidente en la mem",
-      "score": 5.8,
+      "title": "La Iglesia mantiene activa una “congregación” en Madrid denunciada por conductas",
+      "score": 7.4,
       "words": [
         {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "derecho",
-          "score": 1
+          "word": "amor",
+          "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El INE eleva la inflación de marzo al 3,4% por la subida de los combustibles",
-      "score": 3.4,
+      "title": "‘Caso Begoña Gómez’: puro humo",
+      "score": 4.2,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "dejar",
+          "score": -1
         }
       ]
     },
@@ -252,7 +229,7 @@
     {
       "source": "elDiario.es",
       "title": "Sánchez evita cargar contra el juez Peinado tras procesar a su mujer: \"Espero qu",
-      "score": 5.38,
+      "score": 5.42,
       "words": [
         {
           "word": "evita",
@@ -437,13 +414,32 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "Sánchez vuelve a insinuar que Peinado hace política con la investigación a su mu",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "convencido",
+          "score": -1
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T09:35:03Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-04T10:30:45Z",
       "score": 4.66
@@ -1111,6 +1107,10 @@
     {
       "timestamp": "2026-04-14T09:15:23Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-14T11:00:17Z",
+      "score": 4.57
     }
   ]
 }

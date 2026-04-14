@@ -1,19 +1,19 @@
 {
-  "generated": "2026-04-14T13:20:15Z",
-  "global_score": 4.68,
-  "articles_scored": 87,
-  "words_matched": 239,
+  "generated": "2026-04-14T15:11:05Z",
+  "global_score": 4.55,
+  "articles_scored": 88,
+  "words_matched": 245,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
@@ -21,19 +21,19 @@
       "score": -4
     },
     {
+      "word": "defraudador",
+      "score": -4
+    },
+    {
       "word": "soborno",
       "score": -3
     },
     {
+      "word": "criminal",
+      "score": -3
+    },
+    {
       "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "asesinato",
       "score": -3
     }
   ],
@@ -55,34 +55,34 @@
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "sentido",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.12,
-    "elDiario.es": 4.95,
-    "El Mundo": 4.67,
-    "ABC": 5.54,
+    "El País": 5.16,
+    "elDiario.es": 4.84,
+    "El Mundo": 3.79,
+    "ABC": 4.74,
     "El Confidencial": 4.72,
-    "BBC Mundo": 3.88,
-    "France 24 ES": 4.22,
-    "La Nación AR": 4.5,
+    "BBC Mundo": 3.79,
+    "France 24 ES": 4.77,
+    "La Nación AR": 5.07,
     "La Jornada MX": 4.53,
-    "Desinformémonos": 4.36,
-    "Resumen Latinoam.": 4.88
+    "Desinformémonos": 4.2,
+    "Resumen Latinoam.": 4.73
   },
   "articles": [
     {
@@ -93,6 +93,25 @@
         {
           "word": "aprueba",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump ataca a Meloni, su mejor aliada en la UE: “Pensaba que tenía valor, pero m",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "insultos",
+          "score": -2
         }
       ]
     },
@@ -125,50 +144,11 @@
     },
     {
       "source": "El País",
-      "title": "El FMI advierte de la amenaza de recesión mundial si la guerra se prolonga y el ",
-      "score": 3.93,
+      "title": "Israel y Líbano negocian a alto nivel por primera vez en décadas con el desarme ",
+      "score": 3.4,
       "words": [
         {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "recesión",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "España encadenará cinco años como líder del crecimiento en Europa pese a la guer",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "conflicto",
+          "word": "tiempo",
           "score": -2
         }
       ]
@@ -198,7 +178,7 @@
     {
       "source": "elDiario.es",
       "title": "La Audiencia de Madrid rechaza el intento de la pareja de Ayuso de archivar la p",
-      "score": 3.7,
+      "score": 3.67,
       "words": [
         {
           "word": "rechaza",
@@ -217,8 +197,8 @@
           "score": -3
         },
         {
-          "word": "superior",
-          "score": 2
+          "word": "advierte",
+          "score": -2
         }
       ]
     },
@@ -332,6 +312,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Claves de la regularización: cómo pedirla, cuáles son los requisitos definitivos",
+      "score": 5.15,
+      "words": [
+        {
+          "word": "establecido",
+          "score": 1
+        },
+        {
+          "word": "vulnerabilidad",
+          "score": -2
+        },
+        {
+          "word": "conceder",
+          "score": 1
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "aprobado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El Gobierno aprueba la norma que permitirá regularizar a medio millón de migrant",
       "score": 5.08,
       "words": [
@@ -359,91 +366,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP rechaza la regularización de migrantes pese a no saber los detalles: \"No c",
-      "score": 4.77,
+      "title": "El Congreso votará la prórroga de alquileres el 28 de abril, fecha límite para e",
+      "score": 5.27,
       "words": [
         {
-          "word": "rechaza",
+          "word": "esperar",
           "score": -1
         },
         {
-          "word": "rechaza",
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "malo",
-          "score": -3
-        },
-        {
-          "word": "asegurado",
-          "score": 2
+          "word": "dudas",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez defiende la regularización en una carta a la ciudadanía: \"Es un acto de ",
-      "score": 5.99,
+      "title": "Vox encuentra en neonazis y gimnasios de artes marciales una nueva cantera juven",
+      "score": 5.49,
       "words": [
         {
-          "word": "vulnerabilidad",
-          "score": -2
-        },
-        {
-          "word": "vulnerabilidad",
-          "score": -2
-        },
-        {
-          "word": "aprueba",
+          "word": "juvenil",
           "score": 2
         },
         {
-          "word": "asegura",
+          "word": "juvenil",
           "score": 2
         },
         {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Claves de la regularización: cómo pedirla, cuáles son los requisitos definitivos",
-      "score": 5.15,
-      "words": [
-        {
-          "word": "establecido",
-          "score": 1
-        },
-        {
-          "word": "vulnerabilidad",
-          "score": -2
-        },
-        {
-          "word": "conceder",
-          "score": 1
-        },
-        {
-          "word": "suspender",
+          "word": "sospecha",
           "score": -1
         },
         {
-          "word": "aprobado",
+          "word": "solidaridad",
+          "score": 2
+        },
+        {
+          "word": "juvenil",
           "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T11:27:09Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-04-04T12:50:33Z",
       "score": 4.71
@@ -1111,6 +1087,10 @@
     {
       "timestamp": "2026-04-14T13:20:15Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-04-14T15:11:05Z",
+      "score": 4.55
     }
   ]
 }

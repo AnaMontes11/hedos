@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-14T19:10:41Z",
-  "global_score": 4.28,
-  "articles_scored": 82,
-  "words_matched": 251,
+  "generated": "2026-04-14T20:50:46Z",
+  "global_score": 4.39,
+  "articles_scored": 91,
+  "words_matched": 269,
   "top_negative": [
     {
       "word": "negro",
@@ -72,13 +72,14 @@
     }
   ],
   "per_source": {
-    "El País": 5.1,
+    "El País": 4.84,
     "elDiario.es": 4.66,
-    "El Mundo": 3.97,
+    "El Mundo": 4.08,
+    "ABC": 5.66,
     "El Confidencial": 3.8,
     "BBC Mundo": 3.83,
-    "France 24 ES": 4.04,
-    "La Nación AR": 5.45,
+    "France 24 ES": 3.98,
+    "La Nación AR": 5.06,
     "La Jornada MX": 4.53,
     "Desinformémonos": 4.48,
     "Resumen Latinoam.": 3.82
@@ -156,21 +157,6 @@
         {
           "word": "tiempo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Atlético de Madrid - Barcelona en directo | Lamine Yamal adelanta al Barça en el",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "bueno",
-          "score": 3
-        },
-        {
-          "word": "obligado",
-          "score": 1
         }
       ]
     },
@@ -400,13 +386,36 @@
           "score": 4
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La caída de Orbán deja a Abascal sin referente político ni protector en la UE",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "perdido",
+          "score": -2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "protegido",
+          "score": 1
+        },
+        {
+          "word": "disparates",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T14:31:27Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-04-04T15:28:38Z",
       "score": 4.8
@@ -1074,6 +1083,10 @@
     {
       "timestamp": "2026-04-14T19:10:41Z",
       "score": 4.28
+    },
+    {
+      "timestamp": "2026-04-14T20:50:46Z",
+      "score": 4.39
     }
   ]
 }

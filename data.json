@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-14T22:42:22Z",
-  "global_score": 4.63,
-  "articles_scored": 91,
-  "words_matched": 272,
+  "generated": "2026-04-14T23:39:50Z",
+  "global_score": 4.54,
+  "articles_scored": 85,
+  "words_matched": 259,
   "top_negative": [
-    {
-      "word": "perra",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
@@ -34,6 +30,10 @@
     },
     {
       "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "asesinato",
       "score": -3
     }
   ],
@@ -72,17 +72,16 @@
     }
   ],
   "per_source": {
-    "El País": 5.52,
+    "El País": 5.63,
     "elDiario.es": 4.66,
     "El Mundo": 4.57,
-    "ABC": 5.66,
     "El Confidencial": 3.8,
     "BBC Mundo": 4.08,
-    "France 24 ES": 4.12,
-    "La Nación AR": 4.03,
+    "France 24 ES": 4.17,
+    "La Nación AR": 3.72,
     "La Jornada MX": 4.53,
     "Desinformémonos": 4.38,
-    "Resumen Latinoam.": 5.36
+    "Resumen Latinoam.": 5.48
   },
   "articles": [
     {
@@ -199,6 +198,21 @@
         {
           "word": "fatalidad",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Simeone, tras la clasificación a las semifinales de Champions: “Llevo 14 años en",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "importante",
+          "score": 2
         }
       ]
     },
@@ -358,40 +372,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump amenaza con estrangular la economía global con el cierre del estrecho de O",
-      "score": 4.19,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "cortar",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T17:27:18Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-04-04T18:38:05Z",
       "score": 4.58
@@ -1059,6 +1042,10 @@
     {
       "timestamp": "2026-04-14T22:42:22Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-04-14T23:39:50Z",
+      "score": 4.54
     }
   ]
 }

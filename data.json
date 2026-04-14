@@ -1,9 +1,13 @@
 {
-  "generated": "2026-04-14T21:49:57Z",
-  "global_score": 4.5,
-  "articles_scored": 88,
-  "words_matched": 273,
+  "generated": "2026-04-14T22:42:22Z",
+  "global_score": 4.63,
+  "articles_scored": 91,
+  "words_matched": 272,
   "top_negative": [
+    {
+      "word": "perra",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -17,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "fatalidad",
+      "score": -3
+    },
+    {
       "word": "soborno",
       "score": -3
     },
@@ -27,21 +35,9 @@
     {
       "word": "delitos",
       "score": -3
-    },
-    {
-      "word": "asesinato",
-      "score": -3
-    },
-    {
-      "word": "muerto",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "alegría",
-      "score": 4
-    },
     {
       "word": "fantástico",
       "score": 4
@@ -55,11 +51,7 @@
       "score": 4
     },
     {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "emocionante",
       "score": 3
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "celebrar",
       "score": 3
+    },
+    {
+      "word": "alabado",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.25,
+    "El País": 5.52,
     "elDiario.es": 4.66,
     "El Mundo": 4.57,
     "ABC": 5.66,
     "El Confidencial": 3.8,
-    "BBC Mundo": 3.83,
-    "France 24 ES": 4.23,
-    "La Nación AR": 5.45,
+    "BBC Mundo": 4.08,
+    "France 24 ES": 4.12,
+    "La Nación AR": 4.03,
     "La Jornada MX": 4.53,
     "Desinformémonos": 4.38,
-    "Resumen Latinoam.": 3.83
+    "Resumen Latinoam.": 5.36
   },
   "articles": [
     {
@@ -165,6 +165,51 @@
         {
           "word": "fuego",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Atlético sobrevive al arte de Lamine y se mete en las semifinales de la Champ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "intenso",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Encantador Barça, eficaz Atlético",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "encantador",
+          "score": 3
+        },
+        {
+          "word": "eficaz",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "fatalidad",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Hansi Flick, tras la eliminación en la Champions: “Hay que aceptarlo, no tuvimos",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "suerte",
+          "score": 3
         }
       ]
     },
@@ -340,94 +385,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un Parlamento exclusivamente de derechas (y extrema derecha) y otras claves de l",
-      "score": 5.15,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        },
-        {
-          "word": "querido",
-          "score": 2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo, sobre Sánchez: \"Vamos a liberar a Europa y España del 'Orbán del sur\"",
-      "score": 5.18,
-      "words": [
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "triunfo",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La caída de Orbán deja a Abascal sin referente político ni protector en la UE",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "perdido",
-          "score": -2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "protegido",
-          "score": 1
-        },
-        {
-          "word": "disparates",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T16:32:31Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-04-04T17:27:18Z",
       "score": 4.78
@@ -1095,6 +1055,10 @@
     {
       "timestamp": "2026-04-14T21:49:57Z",
       "score": 4.5
+    },
+    {
+      "timestamp": "2026-04-14T22:42:22Z",
+      "score": 4.63
     }
   ]
 }

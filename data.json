@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-14T15:11:05Z",
-  "global_score": 4.55,
-  "articles_scored": 88,
-  "words_matched": 245,
+  "generated": "2026-04-14T17:03:25Z",
+  "global_score": 4.53,
+  "articles_scored": 91,
+  "words_matched": 276,
   "top_negative": [
     {
       "word": "negro",
@@ -17,14 +17,6 @@
       "score": -4
     },
     {
-      "word": "torturado",
-      "score": -4
-    },
-    {
-      "word": "defraudador",
-      "score": -4
-    },
-    {
       "word": "soborno",
       "score": -3
     },
@@ -35,23 +27,39 @@
     {
       "word": "delitos",
       "score": -3
+    },
+    {
+      "word": "asesinato",
+      "score": -3
+    },
+    {
+      "word": "muerto",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
+      "word": "maravilloso",
+      "score": 4
     },
     {
       "word": "alegría",
       "score": 4
     },
     {
-      "word": "fiel",
-      "score": 3
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "premios",
       "score": 3
     },
     {
@@ -59,30 +67,22 @@
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
       "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "lealtad",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.16,
-    "elDiario.es": 4.84,
-    "El Mundo": 3.79,
-    "ABC": 4.74,
-    "El Confidencial": 4.72,
-    "BBC Mundo": 3.79,
-    "France 24 ES": 4.77,
-    "La Nación AR": 5.07,
+    "El País": 5.51,
+    "elDiario.es": 4.61,
+    "El Mundo": 3.83,
+    "ABC": 5.06,
+    "El Confidencial": 4.11,
+    "BBC Mundo": 3.78,
+    "France 24 ES": 4.2,
+    "La Nación AR": 5.75,
     "La Jornada MX": 4.53,
-    "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.73
+    "Desinformémonos": 4.48,
+    "Resumen Latinoam.": 4.27
   },
   "articles": [
     {
@@ -93,6 +93,25 @@
         {
           "word": "aprueba",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno valida 65.000 títulos universitarios extranjeros en un año, 30.000 d",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "valida",
+          "score": 1
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "legal",
+          "score": 1
         }
       ]
     },
@@ -117,8 +136,8 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ma",
-      "score": 3.56,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 3.8,
       "words": [
         {
           "word": "guerra",
@@ -127,29 +146,6 @@
         {
           "word": "bloqueo",
           "score": -1
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel y Líbano negocian a alto nivel por primera vez en décadas con el desarme ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
         }
       ]
     },
@@ -199,33 +195,6 @@
         {
           "word": "advierte",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Peinado acusa a Begoña Gómez de quedarse con dinero de los patrocinios sin halla",
-      "score": 5.16,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "favores",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
         }
       ]
     },
@@ -312,118 +281,141 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Claves de la regularización: cómo pedirla, cuáles son los requisitos definitivos",
-      "score": 5.15,
+      "title": "Trump amenaza con estrangular la economía global con el cierre del estrecho de O",
+      "score": 4.19,
       "words": [
         {
-          "word": "establecido",
-          "score": 1
-        },
-        {
-          "word": "vulnerabilidad",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "conceder",
-          "score": 1
+          "word": "amenaza",
+          "score": -2
         },
         {
-          "word": "suspender",
+          "word": "cortar",
           "score": -1
-        },
-        {
-          "word": "aprobado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno aprueba la norma que permitirá regularizar a medio millón de migrant",
-      "score": 5.08,
-      "words": [
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "expulsado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Congreso votará la prórroga de alquileres el 28 de abril, fecha límite para e",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "esperar",
-          "score": -1
-        },
-        {
-          "word": "proteger",
-          "score": 1
         },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Vox encuentra en neonazis y gimnasios de artes marciales una nueva cantera juven",
-      "score": 5.49,
+      "title": "Un Parlamento exclusivamente de derechas (y extrema derecha) y otras claves de l",
+      "score": 5.15,
       "words": [
         {
-          "word": "juvenil",
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "querido",
           "score": 2
         },
         {
-          "word": "juvenil",
+          "word": "gracias",
           "score": 2
         },
         {
-          "word": "sospecha",
+          "word": "importante",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo, sobre Sánchez: \"Vamos a liberar a Europa y España del 'Orbán del sur\"",
+      "score": 5.18,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "triunfo",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La caída de Orbán deja a Abascal sin referente político ni protector en la UE",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "perdido",
+          "score": -2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "protegido",
+          "score": 1
+        },
+        {
+          "word": "disparates",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El FMI recorta las previsiones y advierte de que la guerra en Oriente Medio podr",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "provocar",
           "score": -1
         },
         {
-          "word": "solidaridad",
-          "score": 2
+          "word": "recesión",
+          "score": -2
         },
         {
-          "word": "juvenil",
-          "score": 2
+          "word": "advierte",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T12:50:33Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-04T13:51:35Z",
       "score": 4.85
@@ -1091,6 +1083,10 @@
     {
       "timestamp": "2026-04-14T15:11:05Z",
       "score": 4.55
+    },
+    {
+      "timestamp": "2026-04-14T17:03:25Z",
+      "score": 4.53
     }
   ]
 }

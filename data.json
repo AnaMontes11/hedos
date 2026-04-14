@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-14T11:00:17Z",
-  "global_score": 4.57,
-  "articles_scored": 88,
-  "words_matched": 264,
+  "generated": "2026-04-14T13:20:15Z",
+  "global_score": 4.68,
+  "articles_scored": 87,
+  "words_matched": 239,
   "top_negative": [
     {
       "word": "negro",
@@ -17,16 +17,12 @@
       "score": -4
     },
     {
-      "word": "defraudador",
+      "word": "torturado",
       "score": -4
     },
     {
-      "word": "catastrófico",
-      "score": -4
-    },
-    {
-      "word": "violación",
-      "score": -4
+      "word": "soborno",
+      "score": -3
     },
     {
       "word": "delitos",
@@ -34,6 +30,10 @@
     },
     {
       "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "asesinato",
       "score": -3
     }
   ],
@@ -47,11 +47,19 @@
       "score": 4
     },
     {
+      "word": "fiel",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "celebra",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -59,30 +67,22 @@
       "score": 3
     },
     {
-      "word": "lealtad",
-      "score": 3
-    },
-    {
-      "word": "perfectamente",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "riqueza",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.44,
-    "elDiario.es": 4.99,
-    "El Mundo": 4.62,
-    "ABC": 4.81,
-    "El Confidencial": 4.82,
-    "BBC Mundo": 4.08,
-    "France 24 ES": 4.3,
-    "La Nación AR": 4.86,
+    "El País": 5.12,
+    "elDiario.es": 4.95,
+    "El Mundo": 4.67,
+    "ABC": 5.54,
+    "El Confidencial": 4.72,
+    "BBC Mundo": 3.88,
+    "France 24 ES": 4.22,
+    "La Nación AR": 4.5,
     "La Jornada MX": 4.53,
     "Desinformémonos": 4.36,
-    "Resumen Latinoam.": 3.81
+    "Resumen Latinoam.": 4.88
   },
   "articles": [
     {
@@ -98,7 +98,7 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ma",
       "score": 3.56,
       "words": [
         {
@@ -125,11 +125,61 @@
     },
     {
       "source": "El País",
-      "title": "La Iglesia mantiene activa una “congregación” en Madrid denunciada por conductas",
+      "title": "El FMI advierte de la amenaza de recesión mundial si la guerra se prolonga y el ",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "recesión",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España encadenará cinco años como líder del crecimiento en Europa pese a la guer",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Amancio Ortega se convierte en el mayor magnate inmobiliario del mundo",
       "score": 7.4,
       "words": [
         {
-          "word": "amor",
+          "word": "mayor",
           "score": 3
         }
       ]
@@ -142,6 +192,33 @@
         {
           "word": "dejar",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Audiencia de Madrid rechaza el intento de la pareja de Ayuso de archivar la p",
+      "score": 3.7,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "superior",
+          "score": 2
         }
       ]
     },
@@ -174,33 +251,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Peinado propone llevar a juicio a Begoña Gómez por cuatro delitos",
-      "score": 5.02,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El caso Begoña Gómez: el robo de la nada, el negocio sin lucro, la corrupción si",
       "score": 4.06,
       "words": [
@@ -223,6 +273,33 @@
         {
           "word": "solo",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno carga contra el juez Peinado y se pregunta si pretende \"violentar\" a",
+      "score": 4.7,
+      "words": [
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -255,69 +332,15 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez innombrable",
-      "score": 4.85,
+      "title": "El Gobierno aprueba la norma que permitirá regularizar a medio millón de migrant",
+      "score": 5.08,
       "words": [
         {
-          "word": "justicia",
+          "word": "aprueba",
           "score": 2
         },
         {
-          "word": "engaño",
-          "score": -3
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "condenado",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Constitucional examina el desprecio del Supremo a la palabra de seis periodis",
-      "score": 4.41,
-      "words": [
-        {
-          "word": "desprecio",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "desprecio",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno ayudará a los migrantes a probar que no tienen antecedentes penales ",
-      "score": 5.05,
-      "words": [
-        {
-          "word": "facilitar",
-          "score": 2
-        },
-        {
-          "word": "facilitar",
+          "word": "aprueba",
           "score": 2
         },
         {
@@ -391,7 +414,7 @@
     {
       "source": "elDiario.es",
       "title": "Claves de la regularización: cómo pedirla, cuáles son los requisitos definitivos",
-      "score": 5.16,
+      "score": 5.15,
       "words": [
         {
           "word": "establecido",
@@ -414,36 +437,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "El Mundo",
-      "title": "Sánchez vuelve a insinuar que Peinado hace política con la investigación a su mu",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "convencido",
-          "score": -1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T10:30:45Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-04-04T11:27:09Z",
       "score": 4.81
@@ -1111,6 +1107,10 @@
     {
       "timestamp": "2026-04-14T11:00:17Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-04-14T13:20:15Z",
+      "score": 4.68
     }
   ]
 }

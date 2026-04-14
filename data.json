@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-14T20:50:46Z",
-  "global_score": 4.39,
-  "articles_scored": 91,
-  "words_matched": 269,
+  "generated": "2026-04-14T21:49:57Z",
+  "global_score": 4.5,
+  "articles_scored": 88,
+  "words_matched": 273,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
@@ -35,9 +31,21 @@
     {
       "word": "asesinato",
       "score": -3
+    },
+    {
+      "word": "muerto",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "fantástico",
+      "score": 4
+    },
     {
       "word": "triunfo",
       "score": 4
@@ -45,6 +53,10 @@
     {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "caro",
+      "score": 3
     },
     {
       "word": "amor",
@@ -57,32 +69,20 @@
     {
       "word": "celebrar",
       "score": 3
-    },
-    {
-      "word": "alabado",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "celebrando",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.84,
+    "El País": 5.25,
     "elDiario.es": 4.66,
-    "El Mundo": 4.08,
+    "El Mundo": 4.57,
     "ABC": 5.66,
     "El Confidencial": 3.8,
     "BBC Mundo": 3.83,
-    "France 24 ES": 3.98,
-    "La Nación AR": 5.06,
+    "France 24 ES": 4.23,
+    "La Nación AR": 5.45,
     "La Jornada MX": 4.53,
-    "Desinformémonos": 4.48,
-    "Resumen Latinoam.": 3.82
+    "Desinformémonos": 4.38,
+    "Resumen Latinoam.": 3.83
   },
   "articles": [
     {
@@ -151,11 +151,19 @@
     },
     {
       "source": "El País",
-      "title": "Israel y Líbano negocian a alto nivel por primera vez en décadas con el desarme ",
-      "score": 3.4,
+      "title": "Rubio aplaude la primera reunión diplomática directa en décadas entre Israel y L",
+      "score": 5.8,
       "words": [
         {
-          "word": "tiempo",
+          "word": "aplaude",
+          "score": 2
+        },
+        {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "fuego",
           "score": -2
         }
       ]
@@ -416,10 +424,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T15:28:38Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-04-04T16:32:31Z",
       "score": 4.7
@@ -1087,6 +1091,10 @@
     {
       "timestamp": "2026-04-14T20:50:46Z",
       "score": 4.39
+    },
+    {
+      "timestamp": "2026-04-14T21:49:57Z",
+      "score": 4.5
     }
   ]
 }

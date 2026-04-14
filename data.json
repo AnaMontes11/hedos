@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-14T02:22:47Z",
-  "global_score": 4.6,
-  "articles_scored": 97,
-  "words_matched": 260,
+  "generated": "2026-04-14T05:21:02Z",
+  "global_score": 4.64,
+  "articles_scored": 91,
+  "words_matched": 281,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "puta",
+      "word": "culo",
       "score": -4
     },
     {
@@ -17,7 +17,11 @@
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "defraudador",
+      "score": -4
+    },
+    {
+      "word": "torturado",
       "score": -4
     },
     {
@@ -29,11 +33,7 @@
       "score": -3
     },
     {
-      "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "criminales",
+      "word": "asesinato",
       "score": -3
     }
   ],
@@ -43,43 +43,43 @@
       "score": 4
     },
     {
-      "word": "victorioso",
+      "word": "ganador",
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "excelencia",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "excelente",
+      "word": "celebra",
       "score": 3
     },
     {
       "word": "bonito",
       "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.24,
-    "elDiario.es": 4.62,
-    "El Mundo": 4.45,
-    "ABC": 5.09,
-    "El Confidencial": 4.81,
-    "BBC Mundo": 4.25,
-    "France 24 ES": 4.94,
-    "La Nación AR": 5.52,
+    "El País": 5.72,
+    "elDiario.es": 4.73,
+    "El Mundo": 4.76,
+    "ABC": 5.01,
+    "El Confidencial": 4.73,
+    "BBC Mundo": 4.24,
+    "France 24 ES": 4.68,
+    "La Nación AR": 5.08,
     "La Jornada MX": 4.3,
     "Desinformémonos": 4.36,
     "Resumen Latinoam.": 3.95
@@ -87,34 +87,30 @@
   "articles": [
     {
       "source": "El País",
-      "title": "El juez Peinado propone juzgar a Begoña Gómez por cuatro delitos, incluidos malv",
-      "score": 3.0,
+      "title": "La carrera contra reloj de los migrantes ante la regularización: “No quiero perd",
+      "score": 5.0,
       "words": [
         {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "polémica",
+          "word": "perder",
           "score": -2
         },
         {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "indignación",
-          "score": -2
+          "word": "oportunidad",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Peinado se cuela en el banquete de Xi Jinping con Begoña Gómez",
-      "score": 5.8,
+      "title": "La valentía y el sentido de ir a contracorriente",
+      "score": 6.6,
       "words": [
         {
-          "word": "llegar",
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "espíritu",
           "score": 1
         }
       ]
@@ -136,95 +132,58 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.2,
+      "title": "Irán se aferra a enriquecer uranio con las promesas rotas de Occidente en la mem",
+      "score": 5.8,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "promesas",
+          "score": 1
         },
         {
           "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El papa León XIV responde al presidente de EE UU: “No tengo miedo a Trump. Segui",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump elimina la imagen que publicó en la red social Truth en la que aparece com",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Choque en la Iglesia por la visita del Papa: “¿Qué es eso de la Puerta de Alcalá",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "crítico",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Hungría de Péter Magyar: europeísmo, Estado de derecho y lucha contra la corr",
-      "score": 4.6,
-      "words": [
-        {
           "word": "derecho",
           "score": 1
-        },
-        {
-          "word": "lucha",
-          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La caída de Orbán, en datos: ciudades, movilización y voto joven",
-      "score": 6.6,
+      "title": "La Iglesia mantiene activa una “congregación” en Madrid denunciada por conductas",
+      "score": 7.4,
       "words": [
         {
-          "word": "ganado",
+          "word": "amor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Peinado acusa a Begoña Gómez de quedarse con dinero de los patrocinios sin halla",
+      "score": 5.16,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "favores",
           "score": 2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "delitos",
+          "score": -3
         }
       ]
     },
@@ -257,82 +216,109 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La expareja de Koldo García no se reconoce en los wasaps sobre las ‘chistorras’ ",
-      "score": 5.34,
+      "title": "El caso Begoña Gómez: el robo de la nada, el negocio sin lucro, la corrupción si",
+      "score": 4.06,
       "words": [
         {
-          "word": "celebra",
-          "score": 3
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "culo",
+          "score": -4
         },
         {
           "word": "derecho",
           "score": 1
         },
         {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "sol",
-          "score": 2
+          "word": "solo",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El ex fiscal general, al Constitucional: “El Supremo hizo una valoración irracio",
-      "score": 4.0,
+      "title": "El juez innombrable",
+      "score": 4.85,
       "words": [
         {
-          "word": "irracional",
-          "score": -1
+          "word": "justicia",
+          "score": 2
         },
         {
-          "word": "irracional",
-          "score": -1
+          "word": "engaño",
+          "score": -3
         },
         {
           "word": "sentencia",
           "score": -2
         },
         {
+          "word": "condenado",
+          "score": -2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Constitucional examina el desprecio del Supremo a la palabra de seis periodis",
+      "score": 4.41,
+      "words": [
+        {
+          "word": "desprecio",
+          "score": -2
+        },
+        {
           "word": "condena",
           "score": -2
         },
         {
-          "word": "acusa",
+          "word": "desprecio",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "sentencia",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Miguel Ángel Rodríguez cuestiona al Constitucional y descalifica a los votantes ",
-      "score": 3.51,
+      "title": "Trump aumenta la tensión en el estrecho de Ormuz y pone en riesgo el frágil alto",
+      "score": 4.54,
       "words": [
         {
-          "word": "condena",
+          "word": "aumenta",
+          "score": 1
+        },
+        {
+          "word": "tensión",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "absolver",
-          "score": 2
-        },
-        {
-          "word": "condenado",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "frase",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
+          "word": "bloqueo",
+          "score": -1
         }
       ]
     },
@@ -365,37 +351,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "¿Por qué EEUU amenaza con bloquear los puertos iraníes y cómo podría funcionar?",
-      "score": 4.59,
+      "title": "Trump amenaza con estrangular la economía global con el cierre del estrecho de O",
+      "score": 4.19,
       "words": [
         {
           "word": "amenaza",
           "score": -2
         },
         {
-          "word": "bloquear",
-          "score": -1
-        },
-        {
           "word": "amenaza",
           "score": -2
         },
         {
-          "word": "bloquear",
+          "word": "cortar",
           "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "amenaza",
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La UE propone subvenciones al precio del combustible, ayudas a empresas y financ",
+      "score": 4.89,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "energético",
+          "score": 2
+        },
+        {
+          "word": "provocado",
+          "score": -1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vox encuentra en neonazis y gimnasios de artes marciales una nueva cantera juven",
+      "score": 5.49,
+      "words": [
+        {
+          "word": "juvenil",
+          "score": 2
+        },
+        {
+          "word": "juvenil",
+          "score": 2
+        },
+        {
+          "word": "sospecha",
+          "score": -1
+        },
+        {
+          "word": "solidaridad",
+          "score": 2
+        },
+        {
+          "word": "juvenil",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T06:59:14Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-04-04T07:52:52Z",
       "score": 4.61
@@ -1063,6 +1099,10 @@
     {
       "timestamp": "2026-04-14T02:22:47Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-04-14T05:21:02Z",
+      "score": 4.64
     }
   ]
 }

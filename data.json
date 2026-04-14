@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-14T17:03:25Z",
-  "global_score": 4.53,
-  "articles_scored": 91,
-  "words_matched": 276,
+  "generated": "2026-04-14T19:10:41Z",
+  "global_score": 4.28,
+  "articles_scored": 82,
+  "words_matched": 251,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "fraudes",
       "score": -4
     },
     {
@@ -31,21 +35,9 @@
     {
       "word": "asesinato",
       "score": -3
-    },
-    {
-      "word": "muerto",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "maravilloso",
-      "score": 4
-    },
-    {
-      "word": "alegría",
-      "score": 4
-    },
     {
       "word": "triunfo",
       "score": 4
@@ -59,30 +51,37 @@
       "score": 3
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
       "word": "sentido",
       "score": 3
     },
     {
       "word": "celebrar",
       "score": 3
+    },
+    {
+      "word": "alabado",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.51,
-    "elDiario.es": 4.61,
-    "El Mundo": 3.83,
-    "ABC": 5.06,
-    "El Confidencial": 4.11,
-    "BBC Mundo": 3.78,
-    "France 24 ES": 4.2,
-    "La Nación AR": 5.75,
+    "El País": 5.1,
+    "elDiario.es": 4.66,
+    "El Mundo": 3.97,
+    "El Confidencial": 3.8,
+    "BBC Mundo": 3.83,
+    "France 24 ES": 4.04,
+    "La Nación AR": 5.45,
     "La Jornada MX": 4.53,
     "Desinformémonos": 4.48,
-    "Resumen Latinoam.": 4.27
+    "Resumen Latinoam.": 3.82
   },
   "articles": [
     {
@@ -136,11 +135,11 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "title": "Estados Unidos e Irán negocian para volver a reunirse tras una semana de alto el",
       "score": 3.8,
       "words": [
         {
-          "word": "guerra",
+          "word": "fuego",
           "score": -2
         },
         {
@@ -151,12 +150,27 @@
     },
     {
       "source": "El País",
-      "title": "Amancio Ortega se convierte en el mayor magnate inmobiliario del mundo",
-      "score": 7.4,
+      "title": "Israel y Líbano negocian a alto nivel por primera vez en décadas con el desarme ",
+      "score": 3.4,
       "words": [
         {
-          "word": "mayor",
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Atlético de Madrid - Barcelona en directo | Lamine Yamal adelanta al Barça en el",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "bueno",
           "score": 3
+        },
+        {
+          "word": "obligado",
+          "score": 1
         }
       ]
     },
@@ -281,6 +295,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Los audios del concejal de Catalá ofreciendo las plazas a dedo que investiga Ant",
+      "score": 5.09,
+      "words": [
+        {
+          "word": "interesado",
+          "score": 2
+        },
+        {
+          "word": "interesado",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "resolver",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump amenaza con estrangular la economía global con el cierre del estrecho de O",
       "score": 4.19,
       "words": [
@@ -359,67 +400,9 @@
           "score": 4
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La caída de Orbán deja a Abascal sin referente político ni protector en la UE",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "perdido",
-          "score": -2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "protegido",
-          "score": 1
-        },
-        {
-          "word": "disparates",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El FMI recorta las previsiones y advierte de que la guerra en Oriente Medio podr",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "provocar",
-          "score": -1
-        },
-        {
-          "word": "recesión",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T13:51:35Z",
-      "score": 4.85
-    },
     {
       "timestamp": "2026-04-04T14:31:27Z",
       "score": 4.78
@@ -1087,6 +1070,10 @@
     {
       "timestamp": "2026-04-14T17:03:25Z",
       "score": 4.53
+    },
+    {
+      "timestamp": "2026-04-14T19:10:41Z",
+      "score": 4.28
     }
   ]
 }

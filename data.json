@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-15T20:43:23Z",
-  "global_score": 4.44,
-  "articles_scored": 88,
-  "words_matched": 248,
+  "generated": "2026-04-15T21:50:11Z",
+  "global_score": 4.49,
+  "articles_scored": 87,
+  "words_matched": 249,
   "top_negative": [
     {
       "word": "puto",
@@ -47,15 +47,11 @@
       "score": 4
     },
     {
+      "word": "vibrante",
+      "score": 3
+    },
+    {
       "word": "impresionante",
-      "score": 3
-    },
-    {
-      "word": "cautivado",
-      "score": 3
-    },
-    {
-      "word": "placer",
       "score": 3
     },
     {
@@ -63,25 +59,29 @@
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "emoción",
+      "score": 3
+    },
+    {
+      "word": "premios",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.74,
+    "El País": 4.88,
     "elDiario.es": 4.82,
-    "El Mundo": 4.15,
-    "ABC": 4.57,
+    "El Mundo": 4.29,
+    "ABC": 4.76,
     "El Confidencial": 4.72,
-    "BBC Mundo": 4.09,
+    "BBC Mundo": 4.27,
     "France 24 ES": 4.41,
-    "La Nación AR": 4.87,
+    "La Nación AR": 4.57,
     "La Jornada MX": 4.62,
-    "Desinformémonos": 3.51,
+    "Desinformémonos": 3.47,
     "Resumen Latinoam.": 4.05
   },
   "articles": [
@@ -188,6 +188,28 @@
         {
           "word": "perfecto",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El mejor Madrid asoma en la despedida de la Champions",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Bayern Múnich - Real Madrid en directo | Arbeloa, sobre la roja a Camavinga: “No",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "expulsar",
+          "score": -2
         }
       ]
     },
@@ -367,67 +389,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Trump se mete en un Estrecho sin salida",
-      "score": 5.29,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "convence",
-          "score": 1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Nuevos audios revelan que el concejal de Catalá denunciado en Anticorrupción ofr",
-      "score": 4.69,
-      "words": [
-        {
-          "word": "interesado",
-          "score": 2
-        },
-        {
-          "word": "vencido",
-          "score": -2
-        },
-        {
-          "word": "interesado",
-          "score": 2
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "ampliar",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T10:30:50Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-05T11:27:20Z",
       "score": 4.79
@@ -1095,6 +1059,10 @@
     {
       "timestamp": "2026-04-15T20:43:23Z",
       "score": 4.44
+    },
+    {
+      "timestamp": "2026-04-15T21:50:11Z",
+      "score": 4.49
     }
   ]
 }

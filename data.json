@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-15T13:43:28Z",
-  "global_score": 4.64,
-  "articles_scored": 92,
-  "words_matched": 270,
+  "generated": "2026-04-15T15:03:51Z",
+  "global_score": 4.44,
+  "articles_scored": 96,
+  "words_matched": 273,
   "top_negative": [
     {
       "word": "negro",
@@ -21,6 +21,10 @@
       "score": -3
     },
     {
+      "word": "matar",
+      "score": -3
+    },
+    {
       "word": "delito",
       "score": -3
     },
@@ -31,10 +35,6 @@
     {
       "word": "ilegal",
       "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,15 +43,15 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "victorias",
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "perfecto",
+      "score": 3
+    },
+    {
+      "word": "caro",
       "score": 3
     },
     {
@@ -59,39 +59,43 @@
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "felicidad",
+      "word": "maravillas",
       "score": 3
     },
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "medalla",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.37,
-    "elDiario.es": 4.84,
-    "El Mundo": 4.6,
-    "ABC": 6.07,
-    "El Confidencial": 3.97,
+    "El País": 4.2,
+    "elDiario.es": 4.82,
+    "El Mundo": 4.47,
+    "ABC": 4.45,
+    "El Confidencial": 4.32,
     "BBC Mundo": 4.1,
-    "France 24 ES": 5.34,
-    "La Nación AR": 4.91,
+    "France 24 ES": 4.69,
+    "La Nación AR": 4.63,
     "La Jornada MX": 4.62,
     "Desinformémonos": 4.09,
-    "Resumen Latinoam.": 3.96
+    "Resumen Latinoam.": 4.47
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.77,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
+      "score": 4.47,
       "words": [
         {
           "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fuego",
           "score": -2
         },
         {
@@ -105,10 +109,6 @@
         {
           "word": "asegura",
           "score": 2
-        },
-        {
-          "word": "prometido",
-          "score": 1
         }
       ]
     },
@@ -133,22 +133,19 @@
     },
     {
       "source": "El País",
-      "title": "Trump critica de nuevo al Papa: “¿Le pueden decir que Irán ha matado a 42.000 in",
+      "title": "Trump amenaza con despedir a Jerome Powell si en mayo no abandona su puesto como",
       "score": 3.4,
       "words": [
         {
-          "word": "critica",
+          "word": "amenaza",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El emperador contra el Papa",
-      "score": 3.4,
-      "words": [
+        },
         {
-          "word": "desprecio",
+          "word": "abandona",
+          "score": -2
+        },
+        {
+          "word": "puesto",
           "score": -2
         }
       ]
@@ -188,6 +185,21 @@
     },
     {
       "source": "El País",
+      "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Cosidó niega que conociese la operación Kitchen y se desvincula de Villarejo en ",
       "score": 4.2,
       "words": [
@@ -201,6 +213,25 @@
         },
         {
           "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El celador de Olot, condenado por matar a 11 ancianos, inicia su transición a mu",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "condenado",
+          "score": -2
+        },
+        {
+          "word": "matar",
+          "score": -3
+        },
+        {
+          "word": "prisión",
           "score": -2
         }
       ]
@@ -315,6 +346,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La expresidenta de Adif afirma que transmitió a Ábalos que Jésica Rodríguez no p",
+      "score": 5.09,
+      "words": [
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Caso Alcalá: el 'número dos' de Ayuso declara ante el juez por la difusión de un",
       "score": 4.15,
       "words": [
@@ -339,67 +397,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno desoye los reproches de la derecha judicial y sale en tromba contra ",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cosidó declara que supo de Kitchen por la prensa pese a nombrar y condecorar a s",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "autores",
-          "score": -2
-        },
-        {
-          "word": "autores",
-          "score": -2
-        },
-        {
-          "word": "recompensas",
-          "score": 2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T05:09:54Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-04-05T07:02:48Z",
       "score": 4.56
@@ -1067,6 +1067,10 @@
     {
       "timestamp": "2026-04-15T13:43:28Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-04-15T15:03:51Z",
+      "score": 4.44
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-04-15T17:00:42Z",
-  "global_score": 4.41,
-  "articles_scored": 92,
-  "words_matched": 261,
+  "generated": "2026-04-15T19:13:02Z",
+  "global_score": 4.53,
+  "articles_scored": 91,
+  "words_matched": 254,
   "top_negative": [
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -13,11 +13,11 @@
       "score": -3
     },
     {
-      "word": "traicionado",
+      "word": "enemigos",
       "score": -3
     },
     {
-      "word": "violencia",
+      "word": "muerto",
       "score": -3
     },
     {
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
-      "word": "odio",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "racismo",
+      "word": "cubrir",
       "score": -3
     },
     {
-      "word": "retirada",
+      "word": "violencia",
       "score": -3
     }
   ],
@@ -47,6 +47,10 @@
       "score": 4
     },
     {
+      "word": "impresionante",
+      "score": 3
+    },
+    {
       "word": "emoción",
       "score": 3
     },
@@ -55,67 +59,63 @@
       "score": 3
     },
     {
-      "word": "alabanzas",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "lealtad",
+      "word": "cautivado",
       "score": 3
     },
     {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "celebra",
+      "word": "placer",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.86,
-    "elDiario.es": 4.8,
-    "El Mundo": 4.19,
-    "ABC": 5.35,
-    "El Confidencial": 4.32,
-    "BBC Mundo": 4.35,
-    "France 24 ES": 4.06,
-    "La Nación AR": 4.08,
+    "El País": 4.41,
+    "elDiario.es": 4.82,
+    "El Mundo": 4.15,
+    "ABC": 4.92,
+    "El Confidencial": 4.72,
+    "BBC Mundo": 4.53,
+    "France 24 ES": 4.16,
+    "La Nación AR": 5.53,
     "La Jornada MX": 4.62,
     "Desinformémonos": 3.51,
-    "Resumen Latinoam.": 4.05
+    "Resumen Latinoam.": 4.45
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
-      "score": 4.47,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
+      "score": 4.2,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
+          "word": "ampliar",
+          "score": 1
+        },
+        {
           "word": "fuego",
           "score": -2
         },
         {
-          "word": "amenaza",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "asegura",
-          "score": 2
+          "word": "acepta",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Irán amenaza con impedir el comercio marítimo en la región si EE UU sigue bloque",
-      "score": 4.0,
+      "title": "Irán amenaza con impedir el comercio marítimo en la región si Estados Unidos sig",
+      "score": 3.88,
       "words": [
         {
           "word": "amenaza",
@@ -131,6 +131,10 @@
         },
         {
           "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "niega",
           "score": -2
         }
       ]
@@ -201,12 +205,12 @@
     },
     {
       "source": "El País",
-      "title": "Uno de los conductores acusados del pique mortal en los túneles de la M-30 no co",
-      "score": 6.6,
+      "title": "Bayern Múnich - Real Madrid en directo | Pavlovic empata el partido",
+      "score": 3.4,
       "words": [
         {
-          "word": "libertad",
-          "score": 2
+          "word": "error",
+          "score": -2
         }
       ]
     },
@@ -228,18 +232,10 @@
     {
       "source": "elDiario.es",
       "title": "EEUU e Irán estudian mantener otra ronda de conversaciones",
-      "score": 4.3,
+      "score": 4.63,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
+          "word": "preparado",
           "score": 1
         },
         {
@@ -247,30 +243,65 @@
           "score": -2
         },
         {
-          "word": "pasado",
+          "word": "falla",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Senado de EEUU rechaza de nuevo bloquear los poderes de guerra de Trump en Ir",
+      "score": 4.66,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "bloquear",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "bloquear",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Enrique VIII contra el Brexit: el Gobierno británico se acerca al mercado único ",
-      "score": 5.43,
+      "title": "Los ministros de Finanzas de España, Reino Unido y otros nueve países piden la \"",
+      "score": 5.04,
       "words": [
         {
-          "word": "daño",
-          "score": -2
+          "word": "unido",
+          "score": 1
         },
         {
           "word": "unido",
           "score": 1
         },
         {
-          "word": "caos",
-          "score": -2
+          "word": "alerta",
+          "score": -1
         },
         {
-          "word": "insultos",
+          "word": "guerra",
           "score": -2
         },
         {
@@ -308,27 +339,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "¡Somos ricos!",
-      "score": 4.9,
+      "title": "Bruselas propone un día de teletrabajo obligatorio y subvencionar el transporte ",
+      "score": 4.74,
       "words": [
         {
-          "word": "escasez",
+          "word": "obligatorio",
+          "score": -1
+        },
+        {
+          "word": "obligatorio",
+          "score": -1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "conflicto",
           "score": -2
         },
         {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "intenso",
-          "score": 1
-        },
-        {
-          "word": "choque",
+          "word": "guerra",
           "score": -2
         }
       ]
@@ -386,40 +417,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La delirante carta de Carmen Franco a la Xunta tras la ocupación simbólica de Me",
-      "score": 4.91,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "seguro",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T08:40:03Z",
-      "score": 4.53
-    },
     {
       "timestamp": "2026-04-05T09:36:33Z",
       "score": 4.59
@@ -1087,6 +1087,10 @@
     {
       "timestamp": "2026-04-15T17:00:42Z",
       "score": 4.41
+    },
+    {
+      "timestamp": "2026-04-15T19:13:02Z",
+      "score": 4.53
     }
   ]
 }

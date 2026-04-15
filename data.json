@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-14T23:39:50Z",
-  "global_score": 4.54,
-  "articles_scored": 85,
-  "words_matched": 259,
+  "generated": "2026-04-15T02:11:53Z",
+  "global_score": 4.75,
+  "articles_scored": 88,
+  "words_matched": 274,
   "top_negative": [
     {
       "word": "fraude",
@@ -39,7 +39,7 @@
   ],
   "top_positive": [
     {
-      "word": "fantástico",
+      "word": "ganador",
       "score": 4
     },
     {
@@ -74,14 +74,15 @@
   "per_source": {
     "El País": 5.63,
     "elDiario.es": 4.66,
-    "El Mundo": 4.57,
+    "El Mundo": 4.48,
+    "ABC": 5.32,
     "El Confidencial": 3.8,
-    "BBC Mundo": 4.08,
-    "France 24 ES": 4.17,
-    "La Nación AR": 3.72,
+    "BBC Mundo": 4.48,
+    "France 24 ES": 4.84,
+    "La Nación AR": 5.72,
     "La Jornada MX": 4.53,
-    "Desinformémonos": 4.38,
-    "Resumen Latinoam.": 5.48
+    "Desinformémonos": 4.5,
+    "Resumen Latinoam.": 4.3
   },
   "articles": [
     {
@@ -375,10 +376,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T18:38:05Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-04-04T19:29:21Z",
       "score": 4.68
@@ -1046,6 +1043,10 @@
     {
       "timestamp": "2026-04-14T23:39:50Z",
       "score": 4.54
+    },
+    {
+      "timestamp": "2026-04-15T02:11:53Z",
+      "score": 4.75
     }
   ]
 }

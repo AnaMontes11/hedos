@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-15T07:27:48Z",
-  "global_score": 4.51,
-  "articles_scored": 92,
-  "words_matched": 288,
+  "generated": "2026-04-15T09:16:49Z",
+  "global_score": 4.54,
+  "articles_scored": 86,
+  "words_matched": 268,
   "top_negative": [
     {
       "word": "negro",
@@ -21,33 +21,29 @@
       "score": -3
     },
     {
-      "word": "violencia",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "pierde",
       "score": -3
     },
     {
-      "word": "enemigos",
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "destruido",
+      "word": "cubrir",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "ganador",
       "score": 4
     },
     {
-      "word": "triunfo",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -63,81 +59,32 @@
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "perfectamente",
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 3.62,
-    "elDiario.es": 4.83,
-    "El Mundo": 4.48,
-    "ABC": 4.61,
-    "El Confidencial": 4.32,
-    "BBC Mundo": 4.48,
+    "elDiario.es": 4.78,
+    "El Mundo": 4.9,
+    "ABC": 5.0,
+    "El Confidencial": 4.38,
+    "BBC Mundo": 4.42,
     "France 24 ES": 5.22,
-    "La Nación AR": 5.09,
+    "La Nación AR": 5.3,
     "La Jornada MX": 4.53,
-    "Desinformémonos": 4.5,
-    "Resumen Latinoam.": 3.87
+    "Desinformémonos": 4.2,
+    "Resumen Latinoam.": 3.97
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "La regularización extraordinaria pone a prueba a la Administración: dudas y flec",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "dudas",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "España se blinda frente a la escasez de carburante con refinerías versátiles y d",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "escasez",
-          "score": -2
-        },
-        {
-          "word": "expuesto",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "sufre",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Qué busca Trump con el doble bloqueo de Ormuz? Un órdago con muchas limitacione",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "fácil",
-          "score": 1
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
@@ -170,16 +117,54 @@
     },
     {
       "source": "El País",
-      "title": "Artemis 3 y más allá: para pisar la Luna, la NASA necesita a Elon Musk y Jeff Be",
-      "score": 3.8,
+      "title": "El emperador contra el Papa",
+      "score": 3.4,
       "words": [
         {
-          "word": "solo",
+          "word": "desprecio",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Qué busca Trump con el doble bloqueo de Ormuz? Un órdago con muchas limitacione",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "fácil",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España se blinda frente a la escasez de carburante con refinerías versátiles y d",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "escasez",
           "score": -2
         },
         {
-          "word": "retraso",
+          "word": "expuesto",
           "score": -1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "sufre",
+          "score": -2
         }
       ]
     },
@@ -196,119 +181,26 @@
     },
     {
       "source": "El País",
-      "title": "El emperador contra el Papa",
-      "score": 3.4,
+      "title": "Artemis 3 y más allá: para pisar la Luna, la NASA necesita a Elon Musk y Jeff Be",
+      "score": 3.8,
       "words": [
         {
-          "word": "desprecio",
+          "word": "solo",
           "score": -2
+        },
+        {
+          "word": "retraso",
+          "score": -1
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "EEUU pone el foco en Líbano mientras Pakistán busca una segunda ronda de negocia",
-      "score": 4.79,
+      "source": "El País",
+      "title": "La regularización extraordinaria pone a prueba a la Administración: dudas y flec",
+      "score": 4.2,
       "words": [
         {
-          "word": "calmar",
-          "score": 3
-        },
-        {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "obligado",
-          "score": 1
-        },
-        {
-          "word": "detener",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La imagen de Israel se hunde al punto más bajo de su historia",
-      "score": 4.5,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "caos",
-          "score": -2
-        },
-        {
-          "word": "provocar",
-          "score": -1
-        },
-        {
-          "word": "recesión",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "¡Somos ricos!",
-      "score": 4.9,
-      "words": [
-        {
-          "word": "escasez",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "intenso",
-          "score": 1
-        },
-        {
-          "word": "choque",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Trump se mete en un Estrecho sin salida",
-      "score": 5.29,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "convence",
-          "score": 1
-        },
-        {
-          "word": "ataque",
+          "word": "dudas",
           "score": -1
         }
       ]
@@ -369,6 +261,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Gobierno exige una \"sanción contundente\" por parte de la Mesa para el diputad",
+      "score": 4.75,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "exigido",
+          "score": -1
+        },
+        {
+          "word": "expulsado",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Caso Alcalá: el 'número dos' de Ayuso declara ante el juez por la difusión de un",
       "score": 4.15,
       "words": [
@@ -393,13 +312,90 @@
           "score": 3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno desoye los reproches de la derecha judicial y sale en tromba contra ",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las coartadas de la cloaca del PP afloran en el juicio a Kitchen: \"Asuntos Inter",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "jesús",
+          "score": 1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La imagen de Israel se hunde al punto más bajo de su historia",
+      "score": 4.5,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "provocar",
+          "score": -1
+        },
+        {
+          "word": "recesión",
+          "score": -2
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-04T21:29:06Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-04-04T22:27:17Z",
       "score": 4.62
@@ -1067,6 +1063,10 @@
     {
       "timestamp": "2026-04-15T07:27:48Z",
       "score": 4.51
+    },
+    {
+      "timestamp": "2026-04-15T09:16:49Z",
+      "score": 4.54
     }
   ]
 }

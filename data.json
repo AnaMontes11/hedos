@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-15T11:57:10Z",
-  "global_score": 4.49,
-  "articles_scored": 94,
-  "words_matched": 280,
+  "generated": "2026-04-15T13:43:28Z",
+  "global_score": 4.64,
+  "articles_scored": 92,
+  "words_matched": 270,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -3
     },
     {
-      "word": "matar",
-      "score": -3
-    },
-    {
       "word": "delito",
       "score": -3
     },
@@ -35,13 +31,13 @@
     {
       "word": "ilegal",
       "score": -3
+    },
+    {
+      "word": "delitos",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "alegría",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -55,7 +51,7 @@
       "score": 4
     },
     {
-      "word": "celebra",
+      "word": "amor",
       "score": 3
     },
     {
@@ -63,32 +59,36 @@
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "alabando",
+      "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.92,
-    "elDiario.es": 4.88,
-    "El Mundo": 4.89,
-    "ABC": 5.18,
-    "El Confidencial": 4.38,
+    "El País": 4.37,
+    "elDiario.es": 4.84,
+    "El Mundo": 4.6,
+    "ABC": 6.07,
+    "El Confidencial": 3.97,
     "BBC Mundo": 4.1,
-    "France 24 ES": 5.22,
-    "La Nación AR": 4.02,
+    "France 24 ES": 5.34,
+    "La Nación AR": 4.91,
     "La Jornada MX": 4.62,
     "Desinformémonos": 4.09,
-    "Resumen Latinoam.": 3.97
+    "Resumen Latinoam.": 3.96
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.6,
+      "score": 4.77,
       "words": [
         {
           "word": "guerra",
@@ -103,26 +103,22 @@
           "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
           "word": "asegura",
           "score": 2
+        },
+        {
+          "word": "prometido",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "España se blinda frente a la escasez de carburante con refinerías versátiles y d",
+      "title": "Bruselas plantea un día de teletrabajo obligatorio y abaratar el transporte públ",
       "score": 3.4,
       "words": [
         {
-          "word": "escasez",
-          "score": -2
-        },
-        {
-          "word": "expuesto",
+          "word": "obligatorio",
           "score": -1
         },
         {
@@ -130,7 +126,7 @@
           "score": -3
         },
         {
-          "word": "sufre",
+          "word": "conflicto",
           "score": -2
         }
       ]
@@ -181,6 +177,17 @@
     },
     {
       "source": "El País",
+      "title": "Uno de los conductores acusados del pique mortal en los túneles de la M-30 no co",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "libertad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Cosidó niega que conociese la operación Kitchen y se desvincula de Villarejo en ",
       "score": 4.2,
       "words": [
@@ -194,25 +201,6 @@
         },
         {
           "word": "cargos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El celador de Olot, condenado por matar a 11 ancianos, inicia su transición a mu",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "condenado",
-          "score": -2
-        },
-        {
-          "word": "matar",
-          "score": -3
-        },
-        {
-          "word": "prisión",
           "score": -2
         }
       ]
@@ -300,6 +288,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El vicepresidente del Congreso, sobre el diputado de Vox que se encaró con él: \"",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "expulsado",
+          "score": -2
+        },
+        {
+          "word": "capaz",
+          "score": 1
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Caso Alcalá: el 'número dos' de Ayuso declara ante el juez por la difusión de un",
       "score": 4.15,
       "words": [
@@ -378,40 +393,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las coartadas de la cloaca del PP afloran en el juicio a Kitchen: \"Asuntos Inter",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "jesús",
-          "score": 1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T02:10:47Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-04-05T05:09:54Z",
       "score": 4.72
@@ -1079,6 +1063,10 @@
     {
       "timestamp": "2026-04-15T11:57:10Z",
       "score": 4.49
+    },
+    {
+      "timestamp": "2026-04-15T13:43:28Z",
+      "score": 4.64
     }
   ]
 }

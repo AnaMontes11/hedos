@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-15T22:38:44Z",
-  "global_score": 4.46,
-  "articles_scored": 88,
+  "generated": "2026-04-15T23:39:19Z",
+  "global_score": 4.55,
+  "articles_scored": 89,
   "words_matched": 255,
   "top_negative": [
     {
@@ -39,7 +39,7 @@
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "estupendo",
       "score": 4
     },
     {
@@ -75,14 +75,14 @@
     "El País": 4.75,
     "elDiario.es": 4.82,
     "El Mundo": 4.29,
-    "ABC": 4.76,
+    "ABC": 5.06,
     "El Confidencial": 4.72,
-    "BBC Mundo": 4.27,
+    "BBC Mundo": 4.33,
     "France 24 ES": 4.57,
-    "La Nación AR": 4.3,
+    "La Nación AR": 4.79,
     "La Jornada MX": 4.62,
     "Desinformémonos": 3.51,
-    "Resumen Latinoam.": 3.87
+    "Resumen Latinoam.": 4.24
   },
   "articles": [
     {
@@ -215,7 +215,7 @@
     },
     {
       "source": "El País",
-      "title": "Arbeloa culpa al árbitro tras la eliminación con el Bayern: “Es inexplicable la ",
+      "title": "Arbeloa culpa al árbitro tras la eliminación del Bayern: “Es inexplicable la exp",
       "score": 3.4,
       "words": [
         {
@@ -392,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T12:52:49Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-04-05T13:53:19Z",
       "score": 4.73
@@ -1063,6 +1059,10 @@
     {
       "timestamp": "2026-04-15T22:38:44Z",
       "score": 4.46
+    },
+    {
+      "timestamp": "2026-04-15T23:39:19Z",
+      "score": 4.55
     }
   ]
 }

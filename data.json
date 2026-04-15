@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-15T15:03:51Z",
-  "global_score": 4.44,
-  "articles_scored": 96,
-  "words_matched": 273,
+  "generated": "2026-04-15T17:00:42Z",
+  "global_score": 4.41,
+  "articles_scored": 92,
+  "words_matched": 261,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -17,29 +13,33 @@
       "score": -3
     },
     {
-      "word": "locos",
+      "word": "traicionado",
       "score": -3
     },
     {
-      "word": "matar",
+      "word": "violencia",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "destruido",
       "score": -3
     },
     {
-      "word": "pierde",
+      "word": "odio",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "racismo",
+      "score": -3
+    },
+    {
+      "word": "retirada",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -47,11 +47,7 @@
       "score": 4
     },
     {
-      "word": "perfecto",
-      "score": 3
-    },
-    {
-      "word": "caro",
+      "word": "emoción",
       "score": 3
     },
     {
@@ -59,30 +55,34 @@
       "score": 3
     },
     {
-      "word": "maravillas",
+      "word": "alabanzas",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "lealtad",
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.2,
-    "elDiario.es": 4.82,
-    "El Mundo": 4.47,
-    "ABC": 4.45,
+    "El País": 4.86,
+    "elDiario.es": 4.8,
+    "El Mundo": 4.19,
+    "ABC": 5.35,
     "El Confidencial": 4.32,
-    "BBC Mundo": 4.1,
-    "France 24 ES": 4.69,
-    "La Nación AR": 4.63,
+    "BBC Mundo": 4.35,
+    "France 24 ES": 4.06,
+    "La Nación AR": 4.08,
     "La Jornada MX": 4.62,
-    "Desinformémonos": 4.09,
-    "Resumen Latinoam.": 4.47
+    "Desinformémonos": 3.51,
+    "Resumen Latinoam.": 4.05
   },
   "articles": [
     {
@@ -114,6 +114,29 @@
     },
     {
       "source": "El País",
+      "title": "Irán amenaza con impedir el comercio marítimo en la región si EE UU sigue bloque",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Bruselas plantea un día de teletrabajo obligatorio y abaratar el transporte públ",
       "score": 3.4,
       "words": [
@@ -126,7 +149,7 @@
           "score": -3
         },
         {
-          "word": "conflicto",
+          "word": "guerra",
           "score": -2
         }
       ]
@@ -152,23 +175,27 @@
     },
     {
       "source": "El País",
-      "title": "Siete restaurantes que demuestran que en los pueblos hay futuro: “Cuando abrimos",
-      "score": 2.6,
+      "title": "El liderazgo natural de Marcos Llorente, el futbolista que sigue los ciclos circ",
+      "score": 6.2,
       "words": [
         {
-          "word": "locos",
-          "score": -3
+          "word": "natural",
+          "score": 1
+        },
+        {
+          "word": "sol",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "‘Jaque al rey’, el documental del campeón del mundo de ajedrez que difamó y no p",
-      "score": 6.6,
+      "title": "Cómo freír un huevo y que quede perfecto: los trucos de algunos cocineros",
+      "score": 7.4,
       "words": [
         {
-          "word": "perdón",
-          "score": 2
+          "word": "perfecto",
+          "score": 3
         }
       ]
     },
@@ -199,211 +226,196 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Cosidó niega que conociese la operación Kitchen y se desvincula de Villarejo en ",
-      "score": 4.2,
+      "source": "elDiario.es",
+      "title": "EEUU e Irán estudian mantener otra ronda de conversaciones",
+      "score": 4.3,
       "words": [
         {
-          "word": "niega",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "confianza",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "cargos",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Enrique VIII contra el Brexit: el Gobierno británico se acerca al mercado único ",
+      "score": 5.43,
+      "words": [
+        {
+          "word": "daño",
+          "score": -2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "insultos",
+          "score": -2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un manifestante interrumpe a J.D. Vance en un evento lleno de estudiantes conser",
+      "score": 4.89,
+      "words": [
+        {
+          "word": "culpando",
+          "score": -2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "interrumpido",
+          "score": -2
+        },
+        {
+          "word": "conflictos",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "¡Somos ricos!",
+      "score": 4.9,
+      "words": [
+        {
+          "word": "escasez",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "intenso",
+          "score": 1
+        },
+        {
+          "word": "choque",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "El celador de Olot, condenado por matar a 11 ancianos, inicia su transición a mu",
-      "score": 3.13,
+      "source": "elDiario.es",
+      "title": "La imagen de Israel se hunde al punto más bajo de su historia",
+      "score": 4.5,
       "words": [
         {
-          "word": "condenado",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "matar",
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "provocar",
+          "score": -1
+        },
+        {
+          "word": "recesión",
+          "score": -2
+        },
+        {
+          "word": "violencia",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Trump se mete en un Estrecho sin salida",
+      "score": 5.29,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
         },
         {
-          "word": "prisión",
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "perder",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los audios del concejal de Catalá ofreciendo las plazas a dedo que investiga Ant",
-      "score": 5.09,
-      "words": [
-        {
-          "word": "interesado",
-          "score": 2
         },
         {
-          "word": "interesado",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Catalá, sobre los audios de las plazas a dedo que investiga Anticorrupción: \"La ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "legal",
+          "word": "convence",
           "score": 1
         },
         {
-          "word": "interesado",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "pasado",
+          "word": "ataque",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno exige una \"sanción contundente\" por parte de la Mesa para el diputad",
-      "score": 4.75,
+      "title": "La delirante carta de Carmen Franco a la Xunta tras la ocupación simbólica de Me",
+      "score": 4.91,
       "words": [
         {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "exigido",
-          "score": -1
-        },
-        {
-          "word": "expulsado",
+          "word": "sentencia",
           "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El vicepresidente del Congreso, sobre el diputado de Vox que se encaró con él: \"",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "alerta",
-          "score": -1
         },
         {
           "word": "riesgo",
           "score": -2
         },
         {
-          "word": "expulsado",
-          "score": -2
+          "word": "responsable",
+          "score": 2
         },
         {
-          "word": "capaz",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "llegar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La expresidenta de Adif afirma que transmitió a Ábalos que Jésica Rodríguez no p",
-      "score": 5.09,
-      "words": [
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "claro",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Caso Alcalá: el 'número dos' de Ayuso declara ante el juez por la difusión de un",
-      "score": 4.15,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "agresiones",
-          "score": -2
-        },
-        {
-          "word": "agresiones",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
+          "word": "seguro",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T07:02:48Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-04-05T08:40:03Z",
       "score": 4.53
@@ -1071,6 +1083,10 @@
     {
       "timestamp": "2026-04-15T15:03:51Z",
       "score": 4.44
+    },
+    {
+      "timestamp": "2026-04-15T17:00:42Z",
+      "score": 4.41
     }
   ]
 }

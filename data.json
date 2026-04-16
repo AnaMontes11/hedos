@@ -1,12 +1,16 @@
 {
-  "generated": "2026-04-16T16:21:05Z",
-  "global_score": 4.51,
+  "generated": "2026-04-16T18:06:48Z",
+  "global_score": 4.54,
   "articles_scored": 92,
-  "words_matched": 246,
+  "words_matched": 241,
   "top_negative": [
     {
-      "word": "destruye",
-      "score": -3
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "torturas",
+      "score": -4
     },
     {
       "word": "víctimas",
@@ -21,41 +25,33 @@
       "score": -3
     },
     {
+      "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "abuso",
+      "score": -3
+    },
+    {
       "word": "preocupado",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "peor",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "milagro",
       "score": 4
-    },
-    {
-      "word": "excelencia",
-      "score": 3
     },
     {
       "word": "celebrar",
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "medalla",
       "score": 3
     },
     {
@@ -67,48 +63,36 @@
       "score": 3
     },
     {
+      "word": "celebra",
+      "score": 3
+    },
+    {
       "word": "vibrante",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.18,
-    "elDiario.es": 4.56,
-    "El Mundo": 3.84,
-    "ABC": 4.95,
-    "El Confidencial": 4.42,
+    "El País": 4.07,
+    "elDiario.es": 4.58,
+    "El Mundo": 3.68,
+    "ABC": 5.76,
+    "El Confidencial": 4.11,
     "BBC Mundo": 4.21,
-    "France 24 ES": 4.31,
-    "La Nación AR": 5.35,
+    "France 24 ES": 4.53,
+    "La Nación AR": 4.98,
     "La Jornada MX": 5.17,
-    "Desinformémonos": 4.18,
-    "Resumen Latinoam.": 4.5
+    "Desinformémonos": 4.67,
+    "Resumen Latinoam.": 4.06
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 3.74,
+      "title": "Trump anuncia un alto el fuego de 10 días entre Israel y Líbano a partir de esta",
+      "score": 3.4,
       "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
         {
           "word": "fuego",
           "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acepta",
-          "score": 1
         }
       ]
     },
@@ -171,9 +155,13 @@
     },
     {
       "source": "El País",
-      "title": "Kuwait detiene a un destacado periodista que publicó imágenes del derribo de caz",
-      "score": 5.8,
+      "title": "Kuwait mantiene detenido desde hace mes y medio a un periodista que publicó imág",
+      "score": 5.0,
       "words": [
+        {
+          "word": "detenido",
+          "score": -1
+        },
         {
           "word": "creciente",
           "score": 1
@@ -338,6 +326,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Sánchez mantendrá un \"breve encuentro\" con Sheinbaum en Barcelona tras años de t",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "disculpa",
+          "score": -1
+        },
+        {
+          "word": "parada",
+          "score": -1
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Las duras críticas de Trump a Giorgia Meloni resquebrajan la alianza con su prin",
       "score": 4.75,
       "words": [
@@ -362,40 +377,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso utilizó a su jefe de despacho en Presidencia para negociar la compra de un",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T21:29:16Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-05T22:28:29Z",
       "score": 4.73
@@ -1063,6 +1047,10 @@
     {
       "timestamp": "2026-04-16T16:21:05Z",
       "score": 4.51
+    },
+    {
+      "timestamp": "2026-04-16T18:06:48Z",
+      "score": 4.54
     }
   ]
 }

@@ -1,9 +1,13 @@
 {
-  "generated": "2026-04-16T05:28:32Z",
-  "global_score": 4.53,
+  "generated": "2026-04-16T07:28:03Z",
+  "global_score": 4.33,
   "articles_scored": 90,
-  "words_matched": 238,
+  "words_matched": 226,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -13,19 +17,7 @@
       "score": -4
     },
     {
-      "word": "morir",
-      "score": -3
-    },
-    {
-      "word": "culpa",
-      "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "peor",
+      "word": "crisis",
       "score": -3
     },
     {
@@ -34,6 +26,14 @@
     },
     {
       "word": "muerto",
+      "score": -3
+    },
+    {
+      "word": "destruido",
+      "score": -3
+    },
+    {
+      "word": "destruir",
       "score": -3
     }
   ],
@@ -51,11 +51,7 @@
       "score": 3
     },
     {
-      "word": "perfectamente",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "amor",
       "score": 3
     },
     {
@@ -69,17 +65,21 @@
     {
       "word": "lealtad",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.82,
-    "elDiario.es": 4.49,
+    "El País": 3.84,
+    "elDiario.es": 4.53,
     "El Mundo": 5.16,
-    "ABC": 5.02,
-    "El Confidencial": 4.29,
+    "ABC": 4.67,
+    "El Confidencial": 3.95,
     "BBC Mundo": 4.37,
-    "France 24 ES": 4.55,
-    "La Nación AR": 4.3,
+    "France 24 ES": 4.05,
+    "La Nación AR": 4.27,
     "La Jornada MX": 4.62,
     "Desinformémonos": 3.38,
     "Resumen Latinoam.": 4.56
@@ -102,6 +102,21 @@
     },
     {
       "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Sectores católicos se revuelven contra Trump, que insiste en asociarse con Jesuc",
       "score": 4.2,
       "words": [
@@ -113,83 +128,53 @@
     },
     {
       "source": "El País",
-      "title": "El mejor Madrid asoma en la despedida de la Champions",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Nadar para morir en una tarjeta roja",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "morir",
-          "score": -3
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Arbeloa culpa al árbitro tras la eliminación del Bayern: “Es inexplicable la exp",
+      "title": "Medio centenar de países se unen para salir de los combustibles fósiles en pleno",
       "score": 3.4,
       "words": [
         {
-          "word": "culpa",
-          "score": -3
-        },
-        {
-          "word": "evita",
-          "score": -1
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La regularización de migrantes recrudece la batalla política entre el Gobierno y",
-      "score": 4.2,
+      "title": "Rusia envía a España el mayor cargamento de gas de la historia en el primer mes ",
+      "score": 4.47,
       "words": [
         {
-          "word": "batalla",
-          "score": -1
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Así es conseguir papeles en España: “Me ha cambiado la vida”",
-      "score": 6.6,
+      "title": "Hay que decir más que no",
+      "score": 3.4,
       "words": [
         {
-          "word": "digno",
-          "score": 2
+          "word": "problema",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El bloqueo de Ormuz va de mal (Irán) en peor (Estados Unidos)",
-      "score": 3.13,
+      "title": "La caída de Orbán desnuda a Vox",
+      "score": 3.4,
       "words": [
         {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "peor",
-          "score": -3
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
@@ -357,37 +342,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Nuevos audios revelan que el concejal de Catalá denunciado en Anticorrupción ofr",
-      "score": 4.69,
+      "title": "El 'número dos' de Ayuso dice a la jueza que un desconocido le envió la nota de ",
+      "score": 4.87,
       "words": [
         {
-          "word": "interesado",
-          "score": 2
-        },
-        {
-          "word": "vencido",
+          "word": "agresión",
           "score": -2
         },
         {
-          "word": "interesado",
+          "word": "agresiones",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
           "score": 2
         },
         {
-          "word": "confianza",
-          "score": 1
+          "word": "asegurado",
+          "score": 2
         },
         {
-          "word": "ampliar",
-          "score": 1
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Begoña Gómez y el juez empecinado, con Ignacio Escolar",
+      "score": 4.09,
+      "words": [
+        {
+          "word": "recortes",
+          "score": -1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T15:29:47Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-05T16:34:09Z",
       "score": 4.54
@@ -1055,6 +1063,10 @@
     {
       "timestamp": "2026-04-16T05:28:32Z",
       "score": 4.53
+    },
+    {
+      "timestamp": "2026-04-16T07:28:03Z",
+      "score": 4.33
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-16T21:41:08Z",
-  "global_score": 4.53,
-  "articles_scored": 82,
-  "words_matched": 213,
+  "generated": "2026-04-16T22:37:24Z",
+  "global_score": 4.72,
+  "articles_scored": 92,
+  "words_matched": 219,
   "top_negative": [
     {
       "word": "negro",
@@ -25,19 +25,27 @@
       "score": -4
     },
     {
+      "word": "torturas",
+      "score": -4
+    },
+    {
       "word": "ilegal",
       "score": -3
     },
     {
       "word": "delito",
       "score": -3
-    },
-    {
-      "word": "falso",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "bendición",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -47,41 +55,34 @@
       "score": 3
     },
     {
-      "word": "lealtad",
-      "score": 3
-    },
-    {
       "word": "vibrante",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "alegre",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "mayor",
+      "word": "lealtad",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.08,
+    "El País": 4.3,
     "elDiario.es": 4.8,
     "El Mundo": 4.53,
+    "ABC": 5.92,
     "El Confidencial": 3.78,
-    "BBC Mundo": 4.32,
+    "BBC Mundo": 4.08,
     "France 24 ES": 4.63,
-    "La Nación AR": 4.68,
+    "La Nación AR": 4.43,
     "La Jornada MX": 5.17,
-    "Desinformémonos": 4.84,
-    "Resumen Latinoam.": 4.3
+    "Desinformémonos": 5.37,
+    "Resumen Latinoam.": 4.48
   },
   "articles": [
     {
@@ -130,21 +131,6 @@
         {
           "word": "derecho",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ne",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
         }
       ]
     },
@@ -223,6 +209,29 @@
         {
           "word": "denunciar",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El fundador y presidente de Netflix, Reed Hastings, anuncia su salida de la empr",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "beneficios",
+          "score": 2
+        },
+        {
+          "word": "ruptura",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -363,10 +372,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-06T05:21:21Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-04-06T07:26:21Z",
       "score": 4.73
@@ -1034,6 +1039,10 @@
     {
       "timestamp": "2026-04-16T21:41:08Z",
       "score": 4.53
+    },
+    {
+      "timestamp": "2026-04-16T22:37:24Z",
+      "score": 4.72
     }
   ]
 }

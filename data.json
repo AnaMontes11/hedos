@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-16T09:16:03Z",
-  "global_score": 4.52,
+  "generated": "2026-04-16T10:59:58Z",
+  "global_score": 4.34,
   "articles_scored": 94,
-  "words_matched": 256,
+  "words_matched": 242,
   "top_negative": [
     {
       "word": "negro",
@@ -29,17 +29,25 @@
       "score": -3
     },
     {
-      "word": "destruir",
+      "word": "perdiendo",
       "score": -3
     },
     {
-      "word": "preocupado",
+      "word": "destruir",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "vitalidad",
+      "score": 3
+    },
+    {
+      "word": "amor",
       "score": 3
     },
     {
@@ -47,39 +55,31 @@
       "score": 3
     },
     {
-      "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "encanto",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "delicias",
       "score": 3
     },
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.07,
-    "elDiario.es": 4.68,
-    "El Mundo": 5.02,
-    "ABC": 4.83,
-    "El Confidencial": 4.2,
-    "BBC Mundo": 4.37,
-    "France 24 ES": 4.28,
-    "La Nación AR": 5.44,
+    "El País": 3.8,
+    "elDiario.es": 4.67,
+    "El Mundo": 4.12,
+    "ABC": 4.71,
+    "El Confidencial": 4.05,
+    "BBC Mundo": 4.45,
+    "France 24 ES": 4.12,
+    "La Nación AR": 4.97,
     "La Jornada MX": 4.62,
     "Desinformémonos": 3.38,
     "Resumen Latinoam.": 4.56
@@ -195,28 +195,20 @@
     },
     {
       "source": "El País",
-      "title": "Repsol firma un acuerdo con Venezuela para recuperar el control de sus operacion",
-      "score": 6.12,
+      "title": "El alineamiento incondicional con Trump y Netanyahu provoca tensiones crecientes",
+      "score": 3.67,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "provoca",
+          "score": -1
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "críticos",
+          "score": -2
         },
         {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "incrementar",
-          "score": 1
-        },
-        {
-          "word": "activo",
-          "score": 2
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -271,6 +263,33 @@
         {
           "word": "dejar",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Victoria viral: Irán está ganando la guerra al país de los magnates tecnológicos",
+      "score": 4.58,
+      "words": [
+        {
+          "word": "ganando",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ganando",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "humor",
+          "score": 2
         }
       ]
     },
@@ -354,40 +373,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso calla sobre el uso de su jefe de despacho para negociar la compra de un pi",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T17:28:14Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-04-05T18:40:05Z",
       "score": 4.66
@@ -1055,6 +1043,10 @@
     {
       "timestamp": "2026-04-16T09:16:03Z",
       "score": 4.52
+    },
+    {
+      "timestamp": "2026-04-16T10:59:58Z",
+      "score": 4.34
     }
   ]
 }

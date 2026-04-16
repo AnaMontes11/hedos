@@ -1,27 +1,15 @@
 {
-  "generated": "2026-04-16T12:05:18Z",
-  "global_score": 4.32,
-  "articles_scored": 93,
-  "words_matched": 237,
+  "generated": "2026-04-16T14:53:30Z",
+  "global_score": 4.38,
+  "articles_scored": 83,
+  "words_matched": 238,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "escoria",
-      "score": -4
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "destruye",
-      "score": -3
-    },
-    {
-      "word": "crisis",
+      "word": "destruido",
       "score": -3
     },
     {
@@ -33,13 +21,25 @@
       "score": -3
     },
     {
-      "word": "destruido",
+      "word": "perdiendo",
+      "score": -3
+    },
+    {
+      "word": "destruir",
+      "score": -3
+    },
+    {
+      "word": "preocupado",
+      "score": -3
+    },
+    {
+      "word": "ilegal",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "vitalidad",
+      "word": "celebrar",
       "score": 3
     },
     {
@@ -51,7 +51,11 @@
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     },
     {
@@ -65,157 +69,44 @@
     {
       "word": "lealtad",
       "score": 3
-    },
-    {
-      "word": "vibrante",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.78,
-    "elDiario.es": 4.67,
-    "El Mundo": 3.97,
-    "ABC": 5.04,
-    "El Confidencial": 4.31,
-    "BBC Mundo": 4.3,
-    "France 24 ES": 3.83,
-    "La Nación AR": 4.93,
-    "La Jornada MX": 4.62,
+    "elDiario.es": 4.61,
+    "El Mundo": 3.84,
+    "ABC": 5.26,
+    "El Confidencial": 4.33,
+    "BBC Mundo": 4.47,
+    "France 24 ES": 4.05,
+    "La Nación AR": 4.18,
+    "La Jornada MX": 5.17,
     "Desinformémonos": 3.38,
-    "Resumen Latinoam.": 4.36
+    "Resumen Latinoam.": 4.01
   },
   "articles": [
     {
-      "source": "El País",
-      "title": "Lula: “Trump no tiene derecho a levantarse por la mañana y amenazar a un país”",
-      "score": 4.6,
+      "source": "elDiario.es",
+      "title": "Israel intensifica los ataques en el sur de Líbano mientras Trump pide \"un respi",
+      "score": 4.32,
       "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "amenazar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 4.04,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
         {
           "word": "ataques",
           "score": -1
         },
         {
-          "word": "destruye",
-          "score": -3
+          "word": "ataques",
+          "score": -1
         },
         {
           "word": "niega",
           "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sectores católicos se revuelven contra Trump, que insiste en asociarse con Jesuc",
-      "score": 4.2,
-      "words": [
-        {
           "word": "ataques",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Bruselas exige a las empresas que eviten los vuelos por motivos laborales y pide",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Medio centenar de países se unen para salir de los combustibles fósiles en pleno",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Rusia envía a España el mayor cargamento de gas de la historia en el primer mes ",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
         },
         {
           "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Hay que decir más que no",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "problema",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Dragon Khan social de Carlos Peguer",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "denunciar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Ayuso a Vox, tras anunciar que recurrirá la regularización masiva: “Están tratan",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "escoria",
-          "score": -4
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "solo",
           "score": -2
         }
       ]
@@ -358,7 +249,7 @@
     {
       "source": "elDiario.es",
       "title": "Ayuso utilizó a su jefe de despacho en Presidencia para negociar la compra de un",
-      "score": 4.82,
+      "score": 4.8,
       "words": [
         {
           "word": "negociar",
@@ -381,13 +272,149 @@
           "score": 3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ayuso calla sobre el uso de su jefe de despacho para negociar la compra de un pi",
+      "score": 5.11,
+      "words": [
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los jueces de instrucción de Madrid salen en defensa de Peinado ante los “ataque",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Begoña Gómez y el juez empecinado, con Ignacio Escolar",
+      "score": 4.09,
+      "words": [
+        {
+          "word": "recortes",
+          "score": -1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "Los jueces de Instrucción de Madrid salen en defensa de Peinado ante los \"ataque",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "El Supremo rechaza la suspensión cautelarísima del decreto de regularización de ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "La reconstrucción que llega en el Madrid: nombres para sustituir a Arbeloa, juga",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "Puigdemont da por rota su relación con Yolanda Díaz tras acusar a Junts de \"raci",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "acusar",
+          "score": -2
+        },
+        {
+          "word": "racista",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "El independentismo acosa a Eduardo Mendoza y Javier Mariscal por sus comentarios",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T19:31:47Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-05T20:29:52Z",
       "score": 4.72
@@ -1055,6 +1082,10 @@
     {
       "timestamp": "2026-04-16T12:05:18Z",
       "score": 4.32
+    },
+    {
+      "timestamp": "2026-04-16T14:53:30Z",
+      "score": 4.38
     }
   ]
 }

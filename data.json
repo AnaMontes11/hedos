@@ -1,16 +1,16 @@
 {
-  "generated": "2026-04-16T02:27:31Z",
-  "global_score": 4.66,
-  "articles_scored": 89,
-  "words_matched": 254,
+  "generated": "2026-04-16T05:28:32Z",
+  "global_score": 4.53,
+  "articles_scored": 90,
+  "words_matched": 238,
   "top_negative": [
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "crisis",
-      "score": -3
+      "word": "culo",
+      "score": -4
     },
     {
       "word": "morir",
@@ -21,37 +21,25 @@
       "score": -3
     },
     {
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
+    },
+    {
       "word": "enemigos",
       "score": -3
     },
     {
       "word": "muerto",
       "score": -3
-    },
-    {
-      "word": "destruido",
-      "score": -3
-    },
-    {
-      "word": "destruir",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "victorias",
-      "score": 4
-    },
-    {
       "word": "vitalidad",
-      "score": 3
-    },
-    {
-      "word": "amor",
       "score": 3
     },
     {
@@ -59,135 +47,67 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "perfectamente",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.76,
-    "elDiario.es": 4.82,
-    "El Mundo": 5.42,
-    "ABC": 5.26,
-    "El Confidencial": 4.72,
-    "BBC Mundo": 4.33,
-    "France 24 ES": 4.67,
-    "La Nación AR": 4.47,
+    "El País": 4.82,
+    "elDiario.es": 4.49,
+    "El Mundo": 5.16,
+    "ABC": 5.02,
+    "El Confidencial": 4.29,
+    "BBC Mundo": 4.37,
+    "France 24 ES": 4.55,
+    "La Nación AR": 4.3,
     "La Jornada MX": 4.62,
     "Desinformémonos": 3.38,
-    "Resumen Latinoam.": 4.42
+    "Resumen Latinoam.": 4.56
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Irán y EE UU buscan retomar el diálogo en medio de amenazas sobre Ormuz",
-      "score": 5.4,
+      "title": "Lula: “Trump no tiene derecho a levantarse por la mañana y amenazar a un país”",
+      "score": 4.6,
       "words": [
         {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "celebrar",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Bruselas plantea un día de teletrabajo obligatorio y abaratar el transporte públ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "obligatorio",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump amenaza con despedir a Jerome Powell si en mayo no abandona su puesto como",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "abandona",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El liderazgo natural de Marcos Llorente, el futbolista que sigue los ciclos circ",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "natural",
+          "word": "derecho",
           "score": 1
         },
         {
-          "word": "sol",
-          "score": 2
+          "word": "amenazar",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Cómo freír un huevo y que quede perfecto: los trucos de algunos cocineros",
-      "score": 7.4,
+      "title": "Sectores católicos se revuelven contra Trump, que insiste en asociarse con Jesuc",
+      "score": 4.2,
       "words": [
         {
-          "word": "perfecto",
-          "score": 3
+          "word": "ataques",
+          "score": -1
         }
       ]
     },
@@ -205,11 +125,15 @@
     {
       "source": "El País",
       "title": "Nadar para morir en una tarjeta roja",
-      "score": 2.6,
+      "score": 5.0,
       "words": [
         {
           "word": "morir",
           "score": -3
+        },
+        {
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
@@ -225,6 +149,47 @@
         {
           "word": "evita",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La regularización de migrantes recrudece la batalla política entre el Gobierno y",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "batalla",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Así es conseguir papeles en España: “Me ha cambiado la vida”",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "digno",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El bloqueo de Ormuz va de mal (Irán) en peor (Estados Unidos)",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "mal",
+          "score": -3
+        },
+        {
+          "word": "peor",
+          "score": -3
         }
       ]
     },
@@ -257,6 +222,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Sánchez busca erigirse como referente progresista en Barcelona ante un mundo pol",
+      "score": 4.26,
+      "words": [
+        {
+          "word": "error",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "claridad",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El Senado de EEUU rechaza de nuevo bloquear los poderes de guerra de Trump en Ir",
       "score": 4.63,
       "words": [
@@ -284,118 +276,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los ministros de Finanzas de España, Reino Unido y otros nueve países piden la \"",
-      "score": 5.04,
+      "title": "Las duras críticas de Trump a Giorgia Meloni resquebrajan la alianza con su prin",
+      "score": 4.75,
       "words": [
         {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "alerta",
-          "score": -1
+          "word": "guerra",
+          "score": -2
         },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "unido",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un manifestante interrumpe a J.D. Vance en un evento lleno de estudiantes conser",
-      "score": 4.89,
-      "words": [
-        {
-          "word": "culpando",
-          "score": -2
-        },
-        {
-          "word": "ayuda",
+          "word": "valiente",
           "score": 2
         },
         {
-          "word": "interrumpido",
+          "word": "firme",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ayuso utilizó a su jefe de despacho en Presidencia para negociar la compra de un",
+      "score": 4.82,
+      "words": [
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "conflictos",
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Audiencia de Madrid rechaza el intento de la pareja de Ayuso de archivar la p",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Nuevos audios revelan que el concejal de Catalá denunciado en Anticorrupción ofr",
+      "score": 4.69,
+      "words": [
+        {
+          "word": "interesado",
+          "score": 2
+        },
+        {
+          "word": "vencido",
           "score": -2
         },
         {
-          "word": "acuerdo",
+          "word": "interesado",
+          "score": 2
+        },
+        {
+          "word": "confianza",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Bruselas propone un día de teletrabajo obligatorio y subvencionar el transporte ",
-      "score": 4.74,
-      "words": [
-        {
-          "word": "obligatorio",
-          "score": -1
         },
         {
-          "word": "obligatorio",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La imagen de Israel se hunde al punto más bajo de su historia",
-      "score": 4.5,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "caos",
-          "score": -2
-        },
-        {
-          "word": "provocar",
-          "score": -1
-        },
-        {
-          "word": "recesión",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
+          "word": "ampliar",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T14:33:15Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-04-05T15:29:47Z",
       "score": 4.65
@@ -1063,6 +1051,10 @@
     {
       "timestamp": "2026-04-16T02:27:31Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-04-16T05:28:32Z",
+      "score": 4.53
     }
   ]
 }

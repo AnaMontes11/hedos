@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-16T20:55:34Z",
-  "global_score": 4.71,
-  "articles_scored": 91,
-  "words_matched": 225,
+  "generated": "2026-04-16T21:41:08Z",
+  "global_score": 4.53,
+  "articles_scored": 82,
+  "words_matched": 213,
   "top_negative": [
     {
       "word": "negro",
@@ -47,11 +47,7 @@
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "lealtad",
       "score": 3
     },
     {
@@ -59,30 +55,33 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "medalla",
+      "score": 3
+    },
+    {
+      "word": "mayor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.16,
+    "El País": 4.08,
     "elDiario.es": 4.8,
     "El Mundo": 4.53,
-    "ABC": 5.97,
     "El Confidencial": 3.78,
-    "BBC Mundo": 4.21,
-    "France 24 ES": 4.78,
-    "La Nación AR": 4.63,
+    "BBC Mundo": 4.32,
+    "France 24 ES": 4.63,
+    "La Nación AR": 4.68,
     "La Jornada MX": 5.17,
-    "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.55
+    "Desinformémonos": 4.84,
+    "Resumen Latinoam.": 4.3
   },
   "articles": [
     {
@@ -121,17 +120,9 @@
     },
     {
       "source": "El País",
-      "title": "Trump fuerza a Israel a aceptar un alto el fuego de 10 días en Líbano",
-      "score": 5.4,
+      "title": "Israel y Líbano inician un alto el fuego de 10 días",
+      "score": 4.6,
       "words": [
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "aceptar",
-          "score": 1
-        },
         {
           "word": "fuego",
           "score": -2
@@ -372,10 +363,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-06T02:11:51Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-04-06T05:21:21Z",
       "score": 4.69
@@ -1043,6 +1030,10 @@
     {
       "timestamp": "2026-04-16T20:55:34Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-04-16T21:41:08Z",
+      "score": 4.53
     }
   ]
 }

@@ -1,45 +1,45 @@
 {
-  "generated": "2026-04-16T18:06:48Z",
-  "global_score": 4.54,
-  "articles_scored": 92,
-  "words_matched": 241,
+  "generated": "2026-04-16T19:58:21Z",
+  "global_score": 4.57,
+  "articles_scored": 89,
+  "words_matched": 226,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "torturas",
+      "word": "puto",
+      "score": -5
+    },
+    {
+      "word": "fraudulento",
       "score": -4
     },
     {
-      "word": "víctimas",
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "falso",
       "score": -3
     },
     {
-      "word": "destruido",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "perdiendo",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "abuso",
-      "score": -3
-    },
-    {
-      "word": "preocupado",
+      "word": "ilegal",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "milagro",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -47,19 +47,19 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "alegre",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "mayor",
       "score": 3
     },
     {
@@ -67,29 +67,63 @@
       "score": 3
     },
     {
-      "word": "vibrante",
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.07,
-    "elDiario.es": 4.58,
-    "El Mundo": 3.68,
-    "ABC": 5.76,
-    "El Confidencial": 4.11,
+    "El País": 3.98,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.33,
+    "ABC": 5.73,
+    "El Confidencial": 3.78,
     "BBC Mundo": 4.21,
-    "France 24 ES": 4.53,
-    "La Nación AR": 4.98,
+    "France 24 ES": 4.57,
+    "La Nación AR": 4.1,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.06
+    "Resumen Latinoam.": 4.01
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Trump anuncia un alto el fuego de 10 días entre Israel y Líbano a partir de esta",
+      "title": "Vox entra en el Gobierno de Extremadura con una vicepresidencia y las carteras d",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "aprobación",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump anuncia un alto el fuego de 10 días en Líbano a partir de esta noche",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ne",
       "score": 3.4,
       "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
         {
           "word": "fuego",
           "score": -2
@@ -98,9 +132,28 @@
     },
     {
       "source": "El País",
-      "title": "Hegseth amenaza con reanudar la guerra si Irán no acepta el pacto con Estados Un",
-      "score": 5.27,
+      "title": "Seis semanas de ofensiva sobre Líbano: más de 2.000 muertos, 1,2 millones de des",
+      "score": 3.8,
       "words": [
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "provocado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump dice que la relación con Irán es “muy buena” y ve posible una negociación ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
         {
           "word": "amenaza",
           "score": -2
@@ -108,37 +161,6 @@
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "acepta",
-          "score": 1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "exitoso",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Claves sobre las negociaciones para el fin de la guerra en Oriente Próximo: ¿Se ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
         }
       ]
     },
@@ -149,63 +171,6 @@
       "words": [
         {
           "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Kuwait mantiene detenido desde hace mes y medio a un periodista que publicó imág",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "detenido",
-          "score": -1
-        },
-        {
-          "word": "creciente",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Lula: “Trump no tiene derecho a levantarse por la mañana y amenazar a un país”",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "amenazar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Papa, desde el corazón del conflicto de Camerún: “El mundo está siendo devast",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "devastado",
-          "score": -2
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "sufre",
-          "score": -2
-        },
-        {
-          "word": "conflicto",
           "score": -2
         }
       ]
@@ -245,145 +210,168 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Israel intensifica los ataques en el sur de Líbano mientras Trump pide \"un respi",
-      "score": 4.32,
+      "title": "PP y Vox pactan un Gobierno en Extremadura tras cuatro meses de parálisis",
+      "score": 5.68,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "niega",
+          "word": "debilidad",
           "score": -2
         },
         {
-          "word": "ataques",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "bloqueo",
           "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "bueno",
+          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Victoria viral: Irán está ganando la guerra al país de los magnates tecnológicos",
+      "title": "Un exrecluso declara en el juicio de Kitchen que Bárcenas le encargó esconder ma",
+      "score": 4.49,
+      "words": [
+        {
+          "word": "esconder",
+          "score": -1
+        },
+        {
+          "word": "esconder",
+          "score": -1
+        },
+        {
+          "word": "realizar",
+          "score": 2
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Cosidó declara que supo de Kitchen por la prensa pese a nombrar y condecorar a s",
+      "score": 5.13,
+      "words": [
+        {
+          "word": "autores",
+          "score": -2
+        },
+        {
+          "word": "autores",
+          "score": -2
+        },
+        {
+          "word": "recompensas",
+          "score": 2
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Otro audio revela que el concejal de Catalá denunciado en Anticorrupción buscó p",
       "score": 4.58,
       "words": [
         {
-          "word": "ganando",
-          "score": 2
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "guerra",
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "ganando",
+          "word": "interesado",
           "score": 2
         },
         {
-          "word": "guerra",
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "perder",
           "score": -2
-        },
-        {
-          "word": "humor",
-          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez busca erigirse como referente progresista en Barcelona ante un mundo pol",
-      "score": 4.26,
+      "title": "Nuevos audios revelan que el concejal de Catalá denunciado en Anticorrupción ofr",
+      "score": 4.69,
       "words": [
         {
-          "word": "error",
+          "word": "interesado",
+          "score": 2
+        },
+        {
+          "word": "vencido",
           "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "claridad",
+          "word": "interesado",
           "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "confianza",
+          "score": 1
         },
         {
-          "word": "dejar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez mantendrá un \"breve encuentro\" con Sheinbaum en Barcelona tras años de t",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "disculpa",
-          "score": -1
-        },
-        {
-          "word": "parada",
-          "score": -1
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "claro",
+          "word": "ampliar",
           "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Las duras críticas de Trump a Giorgia Meloni resquebrajan la alianza con su prin",
-      "score": 4.75,
+      "title": "Ayuso utilizó a su jefe de despacho en Presidencia para negociar la compra de un",
+      "score": 4.8,
       "words": [
         {
-          "word": "guerra",
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "valiente",
+          "word": "sol",
           "score": 2
         },
         {
-          "word": "firme",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
+          "word": "popular",
+          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-05T22:28:29Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-04-05T23:30:58Z",
       "score": 4.76
@@ -1051,6 +1039,10 @@
     {
       "timestamp": "2026-04-16T18:06:48Z",
       "score": 4.54
+    },
+    {
+      "timestamp": "2026-04-16T19:58:21Z",
+      "score": 4.57
     }
   ]
 }

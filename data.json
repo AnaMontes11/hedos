@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-16T23:38:02Z",
-  "global_score": 4.82,
-  "articles_scored": 94,
-  "words_matched": 226,
+  "generated": "2026-04-17T02:23:35Z",
+  "global_score": 4.74,
+  "articles_scored": 88,
+  "words_matched": 231,
   "top_negative": [
     {
       "word": "negro",
@@ -43,11 +43,19 @@
       "score": 4
     },
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
       "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "galante",
       "score": 3
     },
     {
@@ -59,14 +67,6 @@
       "score": 3
     },
     {
-      "word": "alegre",
-      "score": 3
-    },
-    {
-      "word": "premios",
-      "score": 3
-    },
-    {
       "word": "lealtad",
       "score": 3
     }
@@ -74,15 +74,15 @@
   "per_source": {
     "El País": 4.3,
     "elDiario.es": 4.81,
-    "El Mundo": 4.53,
-    "ABC": 5.81,
+    "El Mundo": 4.85,
+    "ABC": 5.52,
     "El Confidencial": 3.78,
     "BBC Mundo": 4.18,
-    "France 24 ES": 4.63,
-    "La Nación AR": 4.81,
+    "France 24 ES": 4.72,
+    "La Nación AR": 4.45,
     "La Jornada MX": 5.17,
-    "Desinformémonos": 5.37,
-    "Resumen Latinoam.": 5.18
+    "Desinformémonos": 4.91,
+    "Resumen Latinoam.": 4.92
   },
   "articles": [
     {
@@ -372,10 +372,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-06T09:05:50Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-04-06T10:53:58Z",
       "score": 4.62
@@ -1043,6 +1039,10 @@
     {
       "timestamp": "2026-04-16T23:38:02Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-04-17T02:23:35Z",
+      "score": 4.74
     }
   ]
 }

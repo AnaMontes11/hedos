@@ -1,9 +1,13 @@
 {
-  "generated": "2026-04-17T09:14:44Z",
-  "global_score": 4.58,
+  "generated": "2026-04-17T10:53:07Z",
+  "global_score": 4.78,
   "articles_scored": 88,
-  "words_matched": 292,
+  "words_matched": 273,
   "top_negative": [
+    {
+      "word": "fraudulento",
+      "score": -4
+    },
     {
       "word": "fraudes",
       "score": -4
@@ -21,19 +25,15 @@
       "score": -3
     },
     {
+      "word": "terror",
+      "score": -3
+    },
+    {
+      "word": "traición",
+      "score": -3
+    },
+    {
       "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "enfado",
-      "score": -3
-    },
-    {
-      "word": "destruido",
-      "score": -3
-    },
-    {
-      "word": "retirada",
       "score": -3
     }
   ],
@@ -47,19 +47,11 @@
       "score": 3
     },
     {
-      "word": "delicias",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "encanto",
-      "score": 3
-    },
-    {
-      "word": "encantado",
+      "word": "premio",
       "score": 3
     },
     {
@@ -69,17 +61,25 @@
     {
       "word": "mayor",
       "score": 3
+    },
+    {
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.47,
-    "elDiario.es": 4.55,
-    "El Mundo": 4.82,
-    "ABC": 4.72,
-    "El Confidencial": 4.51,
-    "BBC Mundo": 4.26,
+    "El País": 4.71,
+    "elDiario.es": 4.66,
+    "El Mundo": 5.4,
+    "ABC": 5.27,
+    "El Confidencial": 3.98,
+    "BBC Mundo": 5.4,
     "France 24 ES": 4.31,
-    "La Nación AR": 4.73,
+    "La Nación AR": 4.97,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.91,
     "Resumen Latinoam.": 4.0
@@ -129,7 +129,7 @@
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Mi",
-      "score": 4.31,
+      "score": 3.4,
       "words": [
         {
           "word": "guerra",
@@ -155,23 +155,11 @@
     },
     {
       "source": "El País",
-      "title": "Vali Nasr, antiguo asesor para Irán de la Administración de Obama: “Teherán tien",
-      "score": 4.2,
+      "title": "El PP recibe a María Corina Machado con todos los honores en la sede de Génova: ",
+      "score": 6.6,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "fuerza",
+          "word": "valiente",
           "score": 2
         }
       ]
@@ -231,6 +219,33 @@
     },
     {
       "source": "El País",
+      "title": "Barbie Ferreira, la aspirante a reina del terror que se alejó de ‘Euphoria’ y de",
+      "score": 4.36,
+      "words": [
+        {
+          "word": "terror",
+          "score": -3
+        },
+        {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "ausencia",
+          "score": -2
+        },
+        {
+          "word": "comedia",
+          "score": 1
+        },
+        {
+          "word": "traición",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Willem Dafoe: “Vivo cerca de Roma, en una granja de alpacas, es el mejor sitio p",
       "score": 6.6,
       "words": [
@@ -245,13 +260,29 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "David Fernández, autor de una biografía no autorizada de Ayuso: “Ha aprendido co",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "Reformar la ley de extranjería para dar \"prioridad nacional\": el pacto de PP y V",
+      "score": 4.94,
       "words": [
         {
-          "word": "autor",
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "prohibición",
           "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "imponer",
+          "score": -1
         }
       ]
     },
@@ -311,54 +342,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump impone un alto el fuego en Líbano entre dudas de que Israel lo cumpla",
-      "score": 4.57,
+      "title": "Ahora, con más extrema derecha: el pacto PP-Vox en Extremadura supera al de 2023",
+      "score": 5.41,
       "words": [
         {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Todo lo que Trump necesita conseguir para que su acuerdo con Irán sea mejor que ",
-      "score": 5.45,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "mejor",
+          "word": "popular",
           "score": 3
         },
         {
-          "word": "acuerdo",
+          "word": "desaparece",
+          "score": -1
+        },
+        {
+          "word": "prohibición",
+          "score": -2
+        },
+        {
+          "word": "alcanzado",
           "score": 1
         },
         {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "pena",
+          "word": "guerra",
           "score": -2
         }
       ]
@@ -392,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-06T14:43:52Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-04-06T15:43:07Z",
       "score": 4.69
@@ -1063,6 +1063,10 @@
     {
       "timestamp": "2026-04-17T09:14:44Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-04-17T10:53:07Z",
+      "score": 4.78
     }
   ]
 }

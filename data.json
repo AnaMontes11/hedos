@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-17T11:50:23Z",
-  "global_score": 4.74,
-  "articles_scored": 86,
-  "words_matched": 280,
+  "generated": "2026-04-17T13:13:41Z",
+  "global_score": 4.79,
+  "articles_scored": 84,
+  "words_matched": 274,
   "top_negative": [
     {
       "word": "fraudulento",
@@ -21,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "violencia",
       "score": -3
     },
@@ -31,35 +35,15 @@
     {
       "word": "traición",
       "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "maravilloso",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "excelencia",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "exitoso",
       "score": 3
     },
     {
@@ -67,35 +51,47 @@
       "score": 3
     },
     {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
       "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
+    },
+    {
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.51,
-    "elDiario.es": 4.87,
-    "El Mundo": 5.4,
-    "ABC": 4.97,
-    "El Confidencial": 4.27,
-    "BBC Mundo": 5.16,
-    "France 24 ES": 4.31,
-    "La Nación AR": 4.92,
-    "La Jornada MX": 5.17,
+    "El País": 4.7,
+    "elDiario.es": 5.04,
+    "El Mundo": 5.2,
+    "ABC": 5.29,
+    "El Confidencial": 4.42,
+    "BBC Mundo": 6.0,
+    "France 24 ES": 4.57,
+    "La Nación AR": 3.45,
+    "La Jornada MX": 4.46,
     "Desinformémonos": 4.91,
-    "Resumen Latinoam.": 4.0
+    "Resumen Latinoam.": 4.39
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
       "score": 3.4,
       "words": [
         {
           "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "advierte",
           "score": -2
         },
         {
@@ -109,6 +105,37 @@
         {
           "word": "violar",
           "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Lula da Silva respalda a Pedro Sánchez en su “no a la guerra”",
+      "score": 5.64,
+      "words": [
+        {
+          "word": "respalda",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "visión",
+          "score": 1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
         }
       ]
     },
@@ -155,21 +182,6 @@
     },
     {
       "source": "El País",
-      "title": "Las 50 recomendaciones de ‘Babelia’ para el Día del Libro de 2026",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "críticos",
-          "score": -2
-        },
-        {
-          "word": "gustos",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "La desconocida historia de supervivencia de Jaime Urrutia, ex Gabinete Caligari:",
       "score": 4.1,
       "words": [
@@ -191,6 +203,21 @@
         },
         {
           "word": "activo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las 50 recomendaciones de ‘Babelia’ para el Día del Libro de 2026",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "gustos",
           "score": 2
         }
       ]
@@ -244,33 +271,6 @@
       "words": [
         {
           "word": "autor",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Pablo Echenique, absuelto del delito de odio por un mensaje sobre la pederastia ",
-      "score": 3.74,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "condena",
           "score": -2
         }
       ]
@@ -358,33 +358,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Ahora, con más extrema derecha: el pacto PP-Vox en Extremadura supera al de 2023",
-      "score": 5.43,
-      "words": [
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "desaparece",
-          "score": -1
-        },
-        {
-          "word": "prohibición",
-          "score": -2
-        },
-        {
-          "word": "alcanzado",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Ayuso se opone a la \"prioridad nacional\" en los servicios públicos del pacto PP-",
       "score": 5.24,
       "words": [
@@ -409,13 +382,36 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ahora, con más extrema derecha: el pacto PP-Vox en Extremadura supera al de 2023",
+      "score": 5.43,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "desaparece",
+          "score": -1
+        },
+        {
+          "word": "prohibición",
+          "score": -2
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-06T16:42:58Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-04-06T17:41:51Z",
       "score": 4.78
@@ -1083,6 +1079,10 @@
     {
       "timestamp": "2026-04-17T11:50:23Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-04-17T13:13:41Z",
+      "score": 4.79
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "generated": "2026-04-17T15:58:10Z",
-  "global_score": 4.46,
-  "articles_scored": 96,
-  "words_matched": 295,
+  "generated": "2026-04-17T16:58:43Z",
+  "global_score": 4.62,
+  "articles_scored": 92,
+  "words_matched": 286,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
       "word": "fraudulento",
-      "score": -4
-    },
-    {
-      "word": "fraudes",
       "score": -4
     },
     {
@@ -51,15 +51,7 @@
       "score": 3
     },
     {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
       "word": "euforia",
-      "score": 3
-    },
-    {
-      "word": "popular",
       "score": 3
     },
     {
@@ -69,46 +61,46 @@
     {
       "word": "bueno",
       "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.88,
-    "elDiario.es": 4.79,
-    "El Mundo": 4.13,
-    "ABC": 4.34,
-    "El Confidencial": 4.82,
-    "BBC Mundo": 4.79,
-    "France 24 ES": 4.52,
-    "La Nación AR": 3.89,
+    "El País": 4.82,
+    "elDiario.es": 4.8,
+    "El Mundo": 4.35,
+    "ABC": 5.26,
+    "El Confidencial": 4.6,
+    "BBC Mundo": 4.59,
+    "France 24 ES": 4.62,
+    "La Nación AR": 4.72,
     "La Jornada MX": 4.46,
-    "Desinformémonos": 4.46,
+    "Desinformémonos": 4.51,
     "Resumen Latinoam.": 4.03
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Irán anuncia la reapertura del estrecho de Ormuz hasta el fin del alto el fuego ",
-      "score": 5.32,
+      "title": "Irán anuncia la reapertura del estrecho de Ormuz aunque Trump insiste en mantene",
+      "score": 4.73,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
+          "word": "bloqueo",
+          "score": -1
         },
         {
           "word": "asegura",
           "score": 2
         },
         {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
@@ -347,6 +339,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Petro dona a Barcelona el último retrato artístico en vida de García Márquez",
+      "score": 4.95,
+      "words": [
+        {
+          "word": "regalo",
+          "score": 2
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "fortalece",
+          "score": 2
+        },
+        {
+          "word": "agradecido",
+          "score": 2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Sistemas críticos de España y otros 22 países europeos tienen un \"botón de apaga",
       "score": 4.13,
       "words": [
@@ -398,40 +417,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Todo lo que Trump necesita conseguir para que su acuerdo con Irán sea mejor que ",
-      "score": 5.45,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "pena",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-06T19:51:58Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-06T20:35:20Z",
       "score": 4.82
@@ -1099,6 +1087,10 @@
     {
       "timestamp": "2026-04-17T15:58:10Z",
       "score": 4.46
+    },
+    {
+      "timestamp": "2026-04-17T16:58:43Z",
+      "score": 4.62
     }
   ]
 }

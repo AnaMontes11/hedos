@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-17T19:58:54Z",
-  "global_score": 4.71,
-  "articles_scored": 91,
-  "words_matched": 293,
+  "generated": "2026-04-17T20:55:53Z",
+  "global_score": 4.6,
+  "articles_scored": 86,
+  "words_matched": 285,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "fraudulento",
+      "score": -4
+    },
+    {
+      "word": "fraudes",
       "score": -4
     },
     {
@@ -31,17 +35,9 @@
     {
       "word": "traición",
       "score": -3
-    },
-    {
-      "word": "enfado",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "maravilloso",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -55,7 +51,11 @@
       "score": 3
     },
     {
-      "word": "delicias",
+      "word": "emoción",
+      "score": 3
+    },
+    {
+      "word": "euforia",
       "score": 3
     },
     {
@@ -73,16 +73,15 @@
   ],
   "per_source": {
     "El País": 4.79,
-    "elDiario.es": 4.71,
+    "elDiario.es": 4.87,
     "El Mundo": 4.55,
-    "ABC": 5.69,
     "El Confidencial": 4.76,
     "BBC Mundo": 4.36,
-    "France 24 ES": 4.02,
-    "La Nación AR": 5.37,
+    "France 24 ES": 4.52,
+    "La Nación AR": 4.44,
     "La Jornada MX": 4.46,
     "Desinformémonos": 4.35,
-    "Resumen Latinoam.": 4.98
+    "Resumen Latinoam.": 4.72
   },
   "articles": [
     {
@@ -416,10 +415,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-06T23:32:57Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-04-07T02:07:54Z",
       "score": 4.57
@@ -1087,6 +1082,10 @@
     {
       "timestamp": "2026-04-17T19:58:54Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-04-17T20:55:53Z",
+      "score": 4.6
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-17T10:53:07Z",
-  "global_score": 4.78,
-  "articles_scored": 88,
-  "words_matched": 273,
+  "generated": "2026-04-17T11:50:23Z",
+  "global_score": 4.74,
+  "articles_scored": 86,
+  "words_matched": 280,
   "top_negative": [
     {
       "word": "fraudulento",
@@ -33,17 +33,29 @@
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "delito",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "maravilloso",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "celebrar",
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "excelencia",
       "score": 3
     },
     {
@@ -51,40 +63,66 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "celebrar",
       "score": 3
     },
     {
       "word": "sentido",
       "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
-    },
-    {
-      "word": "euforia",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.71,
-    "elDiario.es": 4.66,
+    "El País": 4.51,
+    "elDiario.es": 4.87,
     "El Mundo": 5.4,
-    "ABC": 5.27,
-    "El Confidencial": 3.98,
-    "BBC Mundo": 5.4,
+    "ABC": 4.97,
+    "El Confidencial": 4.27,
+    "BBC Mundo": 5.16,
     "France 24 ES": 4.31,
-    "La Nación AR": 4.97,
+    "La Nación AR": 4.92,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.91,
     "Resumen Latinoam.": 4.0
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "violar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El PP recibe a María Corina Machado con todos los honores en la sede de Génova: ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "valiente",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "La querella de la exedil de Móstoles contra el alcalde: “Tras mi negativa a mant",
@@ -112,66 +150,6 @@
         {
           "word": "acuerdo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los buques desafían los bloqueos en Ormuz con identidades falsas, transpondedore",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "obligado",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Mi",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "violar",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PP recibe a María Corina Machado con todos los honores en la sede de Génova: ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "valiente",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las fuerzas progresistas buscan nuevo impulso global en Barcelona",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
         }
       ]
     },
@@ -260,6 +238,44 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "David Fernández, autor de una biografía no autorizada de Ayuso: “Ha aprendido co",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "autor",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Pablo Echenique, absuelto del delito de odio por un mensaje sobre la pederastia ",
+      "score": 3.74,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "condena",
+          "score": -2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Reformar la ley de extranjería para dar \"prioridad nacional\": el pacto de PP y V",
       "score": 4.94,
@@ -343,7 +359,7 @@
     {
       "source": "elDiario.es",
       "title": "Ahora, con más extrema derecha: el pacto PP-Vox en Extremadura supera al de 2023",
-      "score": 5.41,
+      "score": 5.43,
       "words": [
         {
           "word": "popular",
@@ -369,37 +385,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sistemas críticos de España y otros 22 países europeos tienen un \"botón de apaga",
-      "score": 4.13,
+      "title": "Ayuso se opone a la \"prioridad nacional\" en los servicios públicos del pacto PP-",
+      "score": 5.24,
       "words": [
         {
-          "word": "críticos",
-          "score": -2
-        },
-        {
-          "word": "críticos",
-          "score": -2
-        },
-        {
-          "word": "alerta",
+          "word": "dejar",
           "score": -1
         },
         {
-          "word": "problema",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "critica",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "imponer",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-06T15:43:07Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-04-06T16:42:58Z",
       "score": 4.67
@@ -1067,6 +1079,10 @@
     {
       "timestamp": "2026-04-17T10:53:07Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-04-17T11:50:23Z",
+      "score": 4.74
     }
   ]
 }

@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-17T02:23:35Z",
-  "global_score": 4.74,
-  "articles_scored": 88,
-  "words_matched": 231,
+  "generated": "2026-04-17T05:25:47Z",
+  "global_score": 4.64,
+  "articles_scored": 92,
+  "words_matched": 301,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "puto",
-      "score": -5
-    },
     {
       "word": "fraudes",
       "score": -4
@@ -21,29 +13,41 @@
       "score": -4
     },
     {
-      "word": "fraudulento",
+      "word": "culo",
       "score": -4
+    },
+    {
+      "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "violencia",
+      "score": -3
     },
     {
       "word": "ilegal",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "enfado",
       "score": -3
     },
     {
-      "word": "falso",
+      "word": "destruido",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "bendición",
-      "score": 4
+      "word": "excepcional",
+      "score": 5
     },
     {
       "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -51,35 +55,31 @@
       "score": 4
     },
     {
+      "word": "celebra",
+      "score": 3
+    },
+    {
       "word": "celebrar",
       "score": 3
     },
     {
-      "word": "galante",
+      "word": "delicias",
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "vibrante",
-      "score": 3
-    },
-    {
-      "word": "lealtad",
+      "word": "premios",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.3,
-    "elDiario.es": 4.81,
+    "El País": 4.51,
+    "elDiario.es": 4.57,
     "El Mundo": 4.85,
-    "ABC": 5.52,
-    "El Confidencial": 3.78,
-    "BBC Mundo": 4.18,
-    "France 24 ES": 4.72,
-    "La Nación AR": 4.45,
+    "ABC": 4.47,
+    "El Confidencial": 4.65,
+    "BBC Mundo": 4.26,
+    "France 24 ES": 4.42,
+    "La Nación AR": 4.26,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.91,
     "Resumen Latinoam.": 4.92
@@ -87,16 +87,12 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Vox entra en el Gobierno de Extremadura con una vicepresidencia y las carteras d",
-      "score": 6.2,
+      "title": "La querella de la exedil de Móstoles contra el alcalde: “Tras mi negativa a mant",
+      "score": 2.6,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "aprobación",
-          "score": 2
+          "word": "violencia",
+          "score": -3
         }
       ]
     },
@@ -121,6 +117,17 @@
     },
     {
       "source": "El País",
+      "title": "Los buques desafían los bloqueos en Ormuz con identidades falsas, transpondedore",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "obligado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Israel y Líbano inician un alto el fuego de 10 días",
       "score": 4.6,
       "words": [
@@ -136,102 +143,76 @@
     },
     {
       "source": "El País",
-      "title": "Seis semanas de ofensiva sobre Líbano: más de 2.000 muertos, 1,2 millones de des",
-      "score": 3.8,
+      "title": "Vali Nasr, antiguo asesor para Irán de la Administración de Obama: “Teherán tien",
+      "score": 4.2,
       "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
         {
           "word": "conflicto",
           "score": -2
         },
         {
-          "word": "provocado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump dice que la relación con Irán es “muy buena” y ve posible una negociación ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "amenaza",
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La IA se cuela en el relato de la guerra: memes, juegos de palabras e imágenes f",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Comisión de Fiestas de Villamanín anuncia que hay una “denuncia penal” por pa",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Hay que decir más que no",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "problema",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Dragon Khan social de Carlos Peguer",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "denunciar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El fundador y presidente de Netflix, Reed Hastings, anuncia su salida de la empr",
-      "score": 5.6,
-      "words": [
-        {
-          "word": "crecimiento",
+          "word": "fuerza",
           "score": 2
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las fuerzas progresistas buscan nuevo impulso global en Barcelona",
+      "score": 3.4,
+      "words": [
         {
-          "word": "beneficios",
-          "score": 2
-        },
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las 50 recomendaciones de ‘Babelia’ para el Día del Libro de 2026",
+      "score": 5.0,
+      "words": [
         {
-          "word": "ruptura",
+          "word": "críticos",
           "score": -2
         },
         {
-          "word": "acuerdo",
+          "word": "gustos",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Willem Dafoe: “Vivo cerca de Roma, en una granja de alpacas, es el mejor sitio p",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "visión",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "David Fernández, autor de una biografía no autorizada de Ayuso: “Ha aprendido co",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "autor",
+          "score": -2
         }
       ]
     },
@@ -291,6 +272,87 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Trump impone un alto el fuego en Líbano entre dudas de que Israel lo cumpla",
+      "score": 4.58,
+      "words": [
+        {
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Todo lo que Trump necesita conseguir para que su acuerdo con Irán sea mejor que ",
+      "score": 5.45,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "pena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sistemas críticos de España y otros 22 países europeos tienen un \"botón de apaga",
+      "score": 4.13,
+      "words": [
+        {
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "problema",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La jueza que investiga a Miguel Ángel Rodríguez cita a los dos policías que iden",
       "score": 3.72,
       "words": [
@@ -315,67 +377,9 @@
           "score": -4
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un exrecluso declara en el juicio de Kitchen que Bárcenas le encargó esconder ma",
-      "score": 4.49,
-      "words": [
-        {
-          "word": "esconder",
-          "score": -1
-        },
-        {
-          "word": "esconder",
-          "score": -1
-        },
-        {
-          "word": "realizar",
-          "score": 2
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cosidó declara que supo de Kitchen por la prensa pese a nombrar y condecorar a s",
-      "score": 5.13,
-      "words": [
-        {
-          "word": "autores",
-          "score": -2
-        },
-        {
-          "word": "autores",
-          "score": -2
-        },
-        {
-          "word": "recompensas",
-          "score": 2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-06T10:53:58Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-04-06T11:46:15Z",
       "score": 4.62
@@ -1043,6 +1047,10 @@
     {
       "timestamp": "2026-04-17T02:23:35Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-04-17T05:25:47Z",
+      "score": 4.64
     }
   ]
 }

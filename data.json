@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-18T09:44:27Z",
-  "global_score": 4.81,
-  "articles_scored": 97,
-  "words_matched": 344,
+  "generated": "2026-04-18T10:37:32Z",
+  "global_score": 4.77,
+  "articles_scored": 95,
+  "words_matched": 272,
   "top_negative": [
     {
       "word": "negro",
@@ -25,29 +25,29 @@
       "score": -3
     },
     {
-      "word": "destruir",
+      "word": "pierde",
       "score": -3
     },
     {
-      "word": "enemigos",
+      "word": "odio",
       "score": -3
     },
     {
-      "word": "retirada",
+      "word": "abuso",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganador",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
     },
     {
       "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganador",
       "score": 4
     },
     {
@@ -59,52 +59,51 @@
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "encanto",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "genial",
       "score": 3
     },
     {
-      "word": "penetración",
+      "word": "feliz",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.72,
-    "elDiario.es": 4.8,
-    "El Mundo": 4.59,
-    "ABC": 5.05,
+    "El País": 4.98,
+    "elDiario.es": 4.9,
+    "El Mundo": 4.52,
+    "ABC": 5.17,
     "El Confidencial": 4.9,
     "BBC Mundo": 4.47,
     "France 24 ES": 5.25,
-    "La Nación AR": 5.82,
+    "La Nación AR": 4.3,
     "La Jornada MX": 4.46,
     "Desinformémonos": 4.55,
-    "Resumen Latinoam.": 4.28
+    "Resumen Latinoam.": 4.58
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Reunión de líderes progresistas en Barcelona, en directo | Sheinbaum niega que h",
-      "score": 3.4,
+      "title": "Sánchez reivindica la unidad progresista frente a Trump: “No hay que dar la demo",
+      "score": 6.6,
       "words": [
         {
-          "word": "niega",
-          "score": -2
-        },
+          "word": "reivindica",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sheinbaum rebaja las tensiones a su llegada a España: “No hay crisis diplomática",
+      "score": 2.6,
+      "words": [
         {
           "word": "crisis",
           "score": -3
-        },
-        {
-          "word": "sufrimiento",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
         }
       ]
     },
@@ -129,43 +128,16 @@
     },
     {
       "source": "El País",
-      "title": "La cumbre progresista busca recetas contra el populismo: poner coto al negocio c",
-      "score": 3.8,
+      "title": "Irán cierra de nuevo el estrecho de Ormuz hasta que Trump levante su propio bloq",
+      "score": 5.4,
       "words": [
-        {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "grave",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
         {
           "word": "bloqueo",
           "score": -1
         },
         {
-          "word": "asegura",
+          "word": "importante",
           "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
         }
       ]
     },
@@ -197,6 +169,17 @@
     },
     {
       "source": "El País",
+      "title": "Sabrina Carpenter sube a Madonna por sorpresa al escenario de Coachella: “Vamos ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "La novela española del siglo XXI: los últimos grandes narradores antes de la int",
       "score": 3.93,
       "words": [
@@ -216,31 +199,66 @@
     },
     {
       "source": "El País",
-      "title": "Gabriel Weston: “Los cirujanos somos egocéntricos. Hay que tener un alto concept",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "cortar",
-          "score": -1
-        },
-        {
-          "word": "novela",
-          "score": 2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Banana negra, frutilesbiana o cuál es el chiste de las frutinovelas",
       "score": 6.6,
       "words": [
         {
           "word": "éxito",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez defiende reforzar la democracia junto a líderes mundiales: \"El extremism",
+      "score": 4.7,
+      "words": [
+        {
+          "word": "lucha",
+          "score": -2
+        },
+        {
+          "word": "progreso",
+          "score": 2
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Claudia Sheinbaum oficializa el deshielo entre México y España: “Nunca ha habido",
+      "score": 5.24,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "impulsado",
+          "score": 1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "celebra",
+          "score": 3
         }
       ]
     },
@@ -273,62 +291,35 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Irán recupera las restricciones en el estrecho de Ormuz por el bloqueo de EEUU a",
+      "title": "El racismo de la “prioridad nacional”",
       "score": 4.39,
       "words": [
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "racismo",
+          "score": -3
         },
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "racismo",
+          "score": -3
         },
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "popular",
+          "score": 3
         },
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "llegar",
+          "score": 1
         },
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "solo",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El anuncio de la reapertura de Ormuz y la tregua en Líbano sirven de palanca a u",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "detenido",
-          "score": -1
-        },
-        {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El impuesto a los megarricos marca la agenda económica de las izquierdas en la c",
-      "score": 5.24,
+      "title": "Cuerpo y la economista Mariana Mazzucato impulsan un Consejo Global para una Eco",
+      "score": 5.69,
       "words": [
         {
           "word": "impuesto",
@@ -337,81 +328,50 @@
         {
           "word": "impuesto",
           "score": -1
+        },
+        {
+          "word": "impulsado",
+          "score": 1
         },
         {
           "word": "celebra",
           "score": 3
         },
         {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "mejorar",
+          "word": "crecimiento",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "León XIV contra Trump: el Papa que dijo ‘no’ tres veces al presidente de EEUU",
-      "score": 4.55,
+      "title": "Juan Carlos I carga contra Sánchez en 'Le Figaro': \"Con el Gobierno actual las c",
+      "score": 5.65,
       "words": [
         {
-          "word": "alcanzado",
-          "score": 1
-        },
-        {
-          "word": "guerra",
+          "word": "carga",
           "score": -2
         },
         {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Jeff Sharlet, escritor: \"Donald Trump ha conseguido instalar una erotización de ",
-      "score": 4.44,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "autor",
+          "word": "carga",
           "score": -2
         },
         {
-          "word": "amenazas",
-          "score": -2
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "premio",
+          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-07T16:55:26Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-04-07T17:57:28Z",
       "score": 4.85
@@ -1079,6 +1039,10 @@
     {
       "timestamp": "2026-04-18T09:44:27Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-04-18T10:37:32Z",
+      "score": 4.77
     }
   ]
 }

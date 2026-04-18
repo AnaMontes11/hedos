@@ -1,23 +1,23 @@
 {
-  "generated": "2026-04-18T17:34:13Z",
-  "global_score": 4.81,
-  "articles_scored": 89,
-  "words_matched": 217,
+  "generated": "2026-04-18T18:44:32Z",
+  "global_score": 4.79,
+  "articles_scored": 93,
+  "words_matched": 227,
   "top_negative": [
-    {
-      "word": "puto",
-      "score": -5
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
     {
       "word": "tortura",
       "score": -4
     },
     {
       "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "trauma",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     },
     {
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "odio",
       "score": -3
     },
     {
-      "word": "odio",
+      "word": "destruir",
       "score": -3
     }
   ],
@@ -55,31 +55,31 @@
       "score": 4
     },
     {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "felicidad",
-      "score": 3
-    },
-    {
       "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "premios",
       "score": 3
     },
     {
       "word": "feliz",
       "score": 3
+    },
+    {
+      "word": "caro",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.09,
-    "elDiario.es": 4.97,
+    "El País": 4.31,
+    "elDiario.es": 5.21,
     "El Mundo": 4.33,
-    "ABC": 6.08,
-    "El Confidencial": 5.0,
-    "BBC Mundo": 4.36,
-    "France 24 ES": 4.0,
-    "La Nación AR": 4.47,
+    "ABC": 6.26,
+    "El Confidencial": 4.48,
+    "BBC Mundo": 4.17,
+    "France 24 ES": 4.06,
+    "La Nación AR": 4.32,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.3,
     "Resumen Latinoam.": 4.91
@@ -87,31 +87,20 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Sánchez reivindica la unidad progresista frente a Trump: “No hay que dar la demo",
-      "score": 6.6,
+      "title": "La izquierda internacional consagra a Sánchez: “Ha hecho algo extraordinario”",
+      "score": 5.53,
       "words": [
         {
-          "word": "reivindica",
+          "word": "optimismo",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Gustavo Petro: “Habrá rebelión si Estados Unidos no replantea su política con La",
-      "score": 3.13,
-      "words": [
+        },
         {
-          "word": "rebelión",
+          "word": "tiempo",
           "score": -2
         },
         {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "fraude",
-          "score": -4
+          "word": "orgullo",
+          "score": 2
         }
       ]
     },
@@ -143,33 +132,6 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Lo",
-      "score": 4.04,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Macron anuncia la muerte de un soldado francés de la ONU en Líbano y apunta a He",
       "score": 3.6,
       "words": [
@@ -188,6 +150,66 @@
         {
           "word": "puesto",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Penélope Cruz: “Yo nunca permitiría a nadie que me quitara la voz a la hora de d",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "denunciar",
+          "score": -2
+        },
+        {
+          "word": "útil",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sabrina Carpenter sube a Madonna por sorpresa al escenario de Coachella: “Vamos ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Juan Carlos I: “Con el Gobierno actual, las cosas no deben ser fáciles para mi h",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "criticar",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La novela española del siglo XXI: los últimos grandes narradores antes de la int",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "novela",
+          "score": 2
+        },
+        {
+          "word": "trauma",
+          "score": -3
+        },
+        {
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
@@ -301,6 +323,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Ayuso impone la Medalla de Oro a María Corina Machado y esta asegura que \"muy pr",
+      "score": 6.03,
+      "words": [
+        {
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "medalla",
+          "score": 3
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "medalla",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "María Corina Machado justifica su rechazo a reunirse con Sánchez por la cumbre p",
       "score": 6.67,
       "words": [
@@ -352,94 +401,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cuerpo y la economista Mariana Mazzucato impulsan un Consejo Global para una Eco",
-      "score": 5.69,
-      "words": [
-        {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "impulsado",
-          "score": 1
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Juan Carlos I carga contra Sánchez en 'Le Figaro': \"Con el Gobierno actual las c",
-      "score": 5.65,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "premio",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Irán recupera las restricciones en el estrecho de Ormuz por el bloqueo de EEUU a",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "firme",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-08T02:08:41Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-04-08T05:08:59Z",
       "score": 4.78
@@ -1107,6 +1071,10 @@
     {
       "timestamp": "2026-04-18T17:34:13Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-04-18T18:44:32Z",
+      "score": 4.79
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-18T05:04:25Z",
-  "global_score": 4.78,
-  "articles_scored": 93,
-  "words_matched": 325,
+  "generated": "2026-04-18T07:03:51Z",
+  "global_score": 4.91,
+  "articles_scored": 94,
+  "words_matched": 332,
   "top_negative": [
     {
       "word": "negro",
@@ -51,7 +51,7 @@
       "score": 3
     },
     {
-      "word": "fascinante",
+      "word": "emoción",
       "score": 3
     },
     {
@@ -59,27 +59,27 @@
       "score": 3
     },
     {
+      "word": "perfectamente",
+      "score": 3
+    },
+    {
+      "word": "fascinante",
+      "score": 3
+    },
+    {
       "word": "penetración",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "agradable",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.77,
+    "El País": 4.83,
     "elDiario.es": 4.75,
     "El Mundo": 5.15,
-    "ABC": 4.38,
+    "ABC": 5.37,
     "El Confidencial": 5.53,
     "BBC Mundo": 4.42,
-    "France 24 ES": 5.23,
-    "La Nación AR": 5.1,
+    "France 24 ES": 5.25,
+    "La Nación AR": 5.32,
     "La Jornada MX": 4.46,
     "Desinformémonos": 4.55,
     "Resumen Latinoam.": 4.26
@@ -126,11 +126,23 @@
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 3.4,
+      "score": 3.93,
       "words": [
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         },
         {
           "word": "advierte",
@@ -408,10 +420,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-07T11:52:15Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-04-07T13:17:27Z",
       "score": 4.68
@@ -1079,6 +1087,10 @@
     {
       "timestamp": "2026-04-18T05:04:25Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-04-18T07:03:51Z",
+      "score": 4.91
     }
   ]
 }

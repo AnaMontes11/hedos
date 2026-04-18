@@ -1,9 +1,13 @@
 {
-  "generated": "2026-04-18T16:36:46Z",
-  "global_score": 4.78,
+  "generated": "2026-04-18T17:34:13Z",
+  "global_score": 4.81,
   "articles_scored": 89,
-  "words_matched": 196,
+  "words_matched": 217,
   "top_negative": [
+    {
+      "word": "puto",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -13,33 +17,29 @@
       "score": -4
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
       "word": "mal",
       "score": -3
     },
     {
-      "word": "pierde",
+      "word": "violencia",
+      "score": -3
+    },
+    {
+      "word": "cruel",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     },
     {
       "word": "odio",
       "score": -3
-    },
-    {
-      "word": "abuso",
-      "score": -3
-    },
-    {
-      "word": "racismo",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "milagro",
       "score": 4
     },
     {
@@ -47,15 +47,11 @@
       "score": 4
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "brillante",
-      "score": 4
-    },
-    {
       "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "ganar",
       "score": 4
     },
     {
@@ -63,23 +59,27 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "felicidad",
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "feliz",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.88,
-    "elDiario.es": 4.9,
-    "El Mundo": 4.62,
-    "ABC": 5.75,
-    "El Confidencial": 4.54,
+    "El País": 4.09,
+    "elDiario.es": 4.97,
+    "El Mundo": 4.33,
+    "ABC": 6.08,
+    "El Confidencial": 5.0,
     "BBC Mundo": 4.36,
-    "France 24 ES": 4.18,
-    "La Nación AR": 4.82,
+    "France 24 ES": 4.0,
+    "La Nación AR": 4.47,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.3,
     "Resumen Latinoam.": 4.91
@@ -93,17 +93,6 @@
         {
           "word": "reivindica",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sheinbaum rebaja las tensiones a su llegada a España: “No hay crisis diplomática",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
         }
       ]
     },
@@ -204,6 +193,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Sánchez: \"El tiempo de la internacional ultraderechista y la derecha lacaya ha l",
+      "score": 4.46,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "vergüenza",
+          "score": -2
+        },
+        {
+          "word": "injusticia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Sánchez defiende reforzar la democracia junto a líderes mundiales: \"El extremism",
       "score": 4.7,
       "words": [
@@ -231,6 +247,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Los líderes mundiales progresistas reactivan en Barcelona su alianza contra la g",
+      "score": 4.77,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Claudia Sheinbaum oficializa el deshielo entre México y España: “Nunca ha habido",
       "score": 5.29,
       "words": [
@@ -253,33 +296,6 @@
         {
           "word": "celebra",
           "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Última hora sobre la cumbre progresista de Barcelona, en directo",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "lucha",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "negado",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "importante",
-          "score": 2
         }
       ]
     },
@@ -420,10 +436,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-07T23:34:58Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-04-08T02:08:41Z",
       "score": 4.78
@@ -1091,6 +1103,10 @@
     {
       "timestamp": "2026-04-18T16:36:46Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-04-18T17:34:13Z",
+      "score": 4.81
     }
   ]
 }

@@ -1,19 +1,11 @@
 {
-  "generated": "2026-04-18T10:37:32Z",
-  "global_score": 4.77,
-  "articles_scored": 95,
-  "words_matched": 272,
+  "generated": "2026-04-18T11:32:18Z",
+  "global_score": 5.01,
+  "articles_scored": 99,
+  "words_matched": 248,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -35,6 +27,14 @@
     {
       "word": "abuso",
       "score": -3
+    },
+    {
+      "word": "racismo",
+      "score": -3
+    },
+    {
+      "word": "violencia",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -43,15 +43,15 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganador",
       "score": 4
     },
     {
-      "word": "exitoso",
+      "word": "fascinante",
+      "score": 3
+    },
+    {
+      "word": "asombra",
       "score": 3
     },
     {
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "genial",
+      "word": "penetración",
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "caro",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.98,
-    "elDiario.es": 4.9,
-    "El Mundo": 4.52,
-    "ABC": 5.17,
-    "El Confidencial": 4.9,
-    "BBC Mundo": 4.47,
+    "El País": 4.81,
+    "elDiario.es": 5.09,
+    "El Mundo": 5.0,
+    "ABC": 5.48,
+    "El Confidencial": 4.7,
+    "BBC Mundo": 4.29,
     "France 24 ES": 5.25,
-    "La Nación AR": 4.3,
-    "La Jornada MX": 4.46,
+    "La Nación AR": 5.33,
+    "La Jornada MX": 5.7,
     "Desinformémonos": 4.55,
-    "Resumen Latinoam.": 4.58
+    "Resumen Latinoam.": 4.52
   },
   "articles": [
     {
@@ -180,6 +180,21 @@
     },
     {
       "source": "El País",
+      "title": "Juan Carlos I: “Con el Gobierno actual, las cosas no deben ser fáciles para mi h",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "criticar",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "La novela española del siglo XXI: los últimos grandes narradores antes de la int",
       "score": 3.93,
       "words": [
@@ -194,17 +209,6 @@
         {
           "word": "crisis",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Banana negra, frutilesbiana o cuál es el chiste de las frutinovelas",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
         }
       ]
     },
@@ -265,8 +269,12 @@
     {
       "source": "elDiario.es",
       "title": "Última hora sobre la cumbre progresista de Barcelona, en directo",
-      "score": 5.13,
+      "score": 4.77,
       "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
         {
           "word": "negado",
           "score": -2
@@ -282,10 +290,33 @@
         {
           "word": "fuerza",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "María Corina Machado justifica su rechazo a reunirse con Sánchez por la cumbre p",
+      "score": 6.67,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "mayor",
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "premio",
           "score": 3
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "rechazado",
+          "score": -1
         }
       ]
     },
@@ -342,40 +373,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Juan Carlos I carga contra Sánchez en 'Le Figaro': \"Con el Gobierno actual las c",
-      "score": 5.65,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "premio",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-07T17:57:28Z",
-      "score": 4.85
-    },
     {
       "timestamp": "2026-04-07T19:09:50Z",
       "score": 4.76
@@ -1043,6 +1043,10 @@
     {
       "timestamp": "2026-04-18T10:37:32Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-04-18T11:32:18Z",
+      "score": 5.01
     }
   ]
 }

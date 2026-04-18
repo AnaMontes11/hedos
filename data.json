@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-18T19:39:25Z",
-  "global_score": 4.7,
-  "articles_scored": 95,
-  "words_matched": 238,
+  "generated": "2026-04-18T20:34:00Z",
+  "global_score": 4.65,
+  "articles_scored": 93,
+  "words_matched": 232,
   "top_negative": [
-    {
-      "word": "fraudes",
-      "score": -4
-    },
     {
       "word": "tortura",
       "score": -4
@@ -15,6 +11,10 @@
     {
       "word": "violación",
       "score": -4
+    },
+    {
+      "word": "crisis",
+      "score": -3
     },
     {
       "word": "mal",
@@ -29,21 +29,21 @@
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "odio",
       "score": -3
     },
     {
-      "word": "odio",
+      "word": "destruir",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "fantástico",
+      "word": "milagro",
       "score": 4
     },
     {
-      "word": "milagro",
+      "word": "brillante",
       "score": 4
     },
     {
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "caro",
       "score": 3
     },
     {
-      "word": "caro",
+      "word": "alegre",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.58,
-    "elDiario.es": 5.21,
-    "El Mundo": 4.33,
-    "ABC": 6.12,
+    "elDiario.es": 5.3,
+    "El Mundo": 4.52,
+    "ABC": 6.11,
     "El Confidencial": 4.48,
     "BBC Mundo": 4.17,
-    "France 24 ES": 4.09,
-    "La Nación AR": 4.27,
+    "France 24 ES": 4.24,
+    "La Nación AR": 3.35,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.04
+    "Resumen Latinoam.": 3.53
   },
   "articles": [
     {
@@ -101,6 +101,21 @@
         {
           "word": "orgullo",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sheinbaum y Sánchez sellan la paz e inauguran una nueva etapa entre México y Esp",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
@@ -296,6 +311,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "España, Brasil y México emiten un comunicado conjunto en defensa de Cuba y el De",
+      "score": 5.35,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Claudia Sheinbaum oficializa el deshielo entre México y España: “Nunca ha habido",
       "score": 5.29,
       "words": [
@@ -347,67 +389,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "María Corina Machado justifica su rechazo a reunirse con Sánchez por la cumbre p",
-      "score": 6.67,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "rechazado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El racismo de la “prioridad nacional”",
-      "score": 4.39,
-      "words": [
-        {
-          "word": "racismo",
-          "score": -3
-        },
-        {
-          "word": "racismo",
-          "score": -3
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-08T07:14:53Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-04-08T08:58:29Z",
       "score": 4.72
@@ -1075,6 +1059,10 @@
     {
       "timestamp": "2026-04-18T19:39:25Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-04-18T20:34:00Z",
+      "score": 4.65
     }
   ]
 }

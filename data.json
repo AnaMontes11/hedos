@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-18T22:31:44Z",
-  "global_score": 4.79,
-  "articles_scored": 91,
-  "words_matched": 237,
+  "generated": "2026-04-18T23:32:09Z",
+  "global_score": 4.94,
+  "articles_scored": 93,
+  "words_matched": 242,
   "top_negative": [
-    {
-      "word": "fraude",
-      "score": -4
-    },
     {
       "word": "tortura",
       "score": -4
@@ -26,6 +22,10 @@
     },
     {
       "word": "violencia",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     },
     {
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "galardonado",
+      "word": "lealtad",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "suerte",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.58,
+    "El País": 4.78,
     "elDiario.es": 5.28,
-    "El Mundo": 4.61,
+    "El Mundo": 4.56,
     "ABC": 5.49,
     "El Confidencial": 4.48,
     "BBC Mundo": 4.17,
-    "France 24 ES": 4.57,
-    "La Nación AR": 4.44,
+    "France 24 ES": 4.94,
+    "La Nación AR": 5.5,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.64
+    "Resumen Latinoam.": 4.75
   },
   "articles": [
     {
@@ -166,24 +166,62 @@
     },
     {
       "source": "El País",
-      "title": "Macron anuncia la muerte de un soldado francés de la ONU en Líbano y apunta a He",
-      "score": 3.6,
+      "title": "Un juzgado de violencia sobre la mujer admite la querella por acoso de la exedil",
+      "score": 3.24,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
+          "word": "violencia",
+          "score": -3
         },
         {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "ataque",
+          "word": "admite",
           "score": -1
         },
         {
-          "word": "puesto",
+          "word": "acoso",
           "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Simeone asume el dolor de la derrota: “Me duele lo de hoy mucho. Necesitábamos g",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "dolor",
+          "score": -2
+        },
+        {
+          "word": "duele",
+          "score": -2
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Unai Marrero, otro héroe vestido de azul como Arconada",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "héroe",
+          "score": 2
         }
       ]
     },
@@ -198,32 +236,6 @@
         },
         {
           "word": "útil",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sabrina Carpenter sube a Madonna por sorpresa al escenario de Coachella: “Vamos ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "evitar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Juan Carlos I: “Con el Gobierno actual, las cosas no deben ser fáciles para mi h",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "criticar",
-          "score": -2
-        },
-        {
-          "word": "asegura",
           "score": 2
         }
       ]
@@ -392,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-08T11:53:14Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-08T13:15:43Z",
       "score": 4.74
@@ -1063,6 +1071,10 @@
     {
       "timestamp": "2026-04-18T22:31:44Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-04-18T23:32:09Z",
+      "score": 4.94
     }
   ]
 }

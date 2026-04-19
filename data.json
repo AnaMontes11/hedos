@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-19T09:44:17Z",
-  "global_score": 4.54,
+  "generated": "2026-04-19T10:36:29Z",
+  "global_score": 4.57,
   "articles_scored": 92,
-  "words_matched": 314,
+  "words_matched": 326,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "tortura",
       "score": -4
@@ -35,6 +31,10 @@
     {
       "word": "odiado",
       "score": -3
+    },
+    {
+      "word": "cruel",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -59,15 +59,15 @@
       "score": 3
     },
     {
-      "word": "perfecto",
-      "score": 3
-    },
-    {
       "word": "alegre",
       "score": 3
     },
     {
       "word": "bonito",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     }
   ],
@@ -75,11 +75,11 @@
     "El País": 4.45,
     "elDiario.es": 4.67,
     "El Mundo": 3.89,
-    "ABC": 5.49,
+    "ABC": 5.08,
     "El Confidencial": 3.72,
-    "BBC Mundo": 4.14,
+    "BBC Mundo": 4.22,
     "France 24 ES": 4.14,
-    "La Nación AR": 4.24,
+    "La Nación AR": 5.51,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.2,
     "Resumen Latinoam.": 4.71
@@ -428,10 +428,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-08T20:50:46Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-04-08T21:38:59Z",
       "score": 4.65
@@ -1099,6 +1095,10 @@
     {
       "timestamp": "2026-04-19T09:44:17Z",
       "score": 4.54
+    },
+    {
+      "timestamp": "2026-04-19T10:36:29Z",
+      "score": 4.57
     }
   ]
 }

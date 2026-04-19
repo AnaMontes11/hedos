@@ -1,9 +1,17 @@
 {
-  "generated": "2026-04-18T23:32:09Z",
-  "global_score": 4.94,
+  "generated": "2026-04-19T02:28:04Z",
+  "global_score": 4.76,
   "articles_scored": 93,
-  "words_matched": 242,
+  "words_matched": 240,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "maldición",
+      "score": -4
+    },
     {
       "word": "tortura",
       "score": -4
@@ -27,29 +35,9 @@
     {
       "word": "delitos",
       "score": -3
-    },
-    {
-      "word": "cruel",
-      "score": -3
-    },
-    {
-      "word": "odio",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "brillante",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
     {
       "word": "ganador",
       "score": 4
@@ -67,19 +55,31 @@
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "admira",
+      "score": 3
+    },
+    {
+      "word": "alabando",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.78,
+    "El País": 4.87,
     "elDiario.es": 5.28,
-    "El Mundo": 4.56,
-    "ABC": 5.49,
+    "El Mundo": 3.93,
+    "ABC": 4.85,
     "El Confidencial": 4.48,
     "BBC Mundo": 4.17,
-    "France 24 ES": 4.94,
-    "La Nación AR": 5.5,
+    "France 24 ES": 4.77,
+    "La Nación AR": 5.05,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.2,
     "Resumen Latinoam.": 4.75
@@ -216,12 +216,12 @@
     },
     {
       "source": "El País",
-      "title": "Unai Marrero, otro héroe vestido de azul como Arconada",
-      "score": 6.6,
+      "title": "Pellegrino Matarazzo hace historia con la Real y se emociona: “Es el mejor día d",
+      "score": 7.4,
       "words": [
         {
-          "word": "héroe",
-          "score": 2
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
@@ -404,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-08T13:15:43Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-04-08T15:07:22Z",
       "score": 4.6
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-18T23:32:09Z",
       "score": 4.94
+    },
+    {
+      "timestamp": "2026-04-19T02:28:04Z",
+      "score": 4.76
     }
   ]
 }

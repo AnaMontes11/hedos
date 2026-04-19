@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-19T14:51:52Z",
-  "global_score": 4.59,
-  "articles_scored": 92,
+  "generated": "2026-04-19T15:35:31Z",
+  "global_score": 4.62,
+  "articles_scored": 94,
   "words_matched": 323,
   "top_negative": [
     {
@@ -43,10 +43,6 @@
       "score": 5
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganador",
       "score": 4
     },
@@ -55,11 +51,15 @@
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "emocionado",
       "score": 3
     },
     {
       "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.54,
+    "El País": 4.53,
     "elDiario.es": 4.59,
-    "El Mundo": 4.3,
-    "ABC": 5.22,
+    "El Mundo": 4.49,
+    "ABC": 5.23,
     "El Confidencial": 4.49,
     "BBC Mundo": 4.36,
-    "France 24 ES": 4.61,
-    "La Nación AR": 5.04,
+    "France 24 ES": 4.59,
+    "La Nación AR": 4.86,
     "La Jornada MX": 5.01,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 3.97
+    "Resumen Latinoam.": 4.28
   },
   "articles": [
     {
@@ -227,6 +227,25 @@
         {
           "word": "crisis",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El PP reniega del pacto con Vox nada más firmarlo y pone Extremadura como ejempl",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "critica",
+          "score": -2
         }
       ]
     },
@@ -418,40 +437,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez no está solo y su adversario ya no es Feijóo",
-      "score": 4.71,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-09T05:07:09Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-04-09T07:17:59Z",
       "score": 4.81
@@ -1119,6 +1107,10 @@
     {
       "timestamp": "2026-04-19T14:51:52Z",
       "score": 4.59
+    },
+    {
+      "timestamp": "2026-04-19T15:35:31Z",
+      "score": 4.62
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-19T11:33:21Z",
-  "global_score": 4.62,
-  "articles_scored": 95,
-  "words_matched": 333,
+  "generated": "2026-04-19T12:56:37Z",
+  "global_score": 4.63,
+  "articles_scored": 92,
+  "words_matched": 327,
   "top_negative": [
     {
       "word": "tortura",
@@ -17,6 +17,14 @@
       "score": -3
     },
     {
+      "word": "destruir",
+      "score": -3
+    },
+    {
+      "word": "catástrofe",
+      "score": -3
+    },
+    {
       "word": "harto",
       "score": -3
     },
@@ -27,14 +35,6 @@
     {
       "word": "vil",
       "score": -3
-    },
-    {
-      "word": "odio",
-      "score": -3
-    },
-    {
-      "word": "violencia",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,15 +43,19 @@
       "score": 5
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "caro",
+      "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "bonito",
+      "score": 3
+    },
+    {
+      "word": "emocionado",
       "score": 3
     },
     {
@@ -59,82 +63,44 @@
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "impresiona",
-      "score": 3
-    },
-    {
-      "word": "bonito",
+      "word": "amor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.55,
-    "elDiario.es": 4.69,
-    "El Mundo": 4.2,
-    "ABC": 4.98,
-    "El Confidencial": 5.17,
-    "BBC Mundo": 4.22,
-    "France 24 ES": 4.14,
-    "La Nación AR": 4.17,
-    "La Jornada MX": 5.7,
+    "El País": 4.37,
+    "elDiario.es": 4.77,
+    "El Mundo": 4.3,
+    "ABC": 5.19,
+    "El Confidencial": 4.26,
+    "BBC Mundo": 4.36,
+    "France 24 ES": 3.98,
+    "La Nación AR": 5.49,
+    "La Jornada MX": 5.01,
     "Desinformémonos": 4.2,
     "Resumen Latinoam.": 4.71
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Trump se convierte en un activo tóxico para la extrema derecha en Europa",
-      "score": 5.53,
+      "title": "España, Brasil y México afianzan su alianza y se comprometen a enviar ayuda a Cu",
+      "score": 5.0,
       "words": [
         {
-          "word": "activo",
+          "word": "ayuda",
           "score": 2
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "aliviar",
+          "score": 1
         },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los excesos de la ultraderecha abren una oportunidad para la izquierda global",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "indignación",
-          "score": -2
-        },
-        {
-          "word": "miedo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Qué deben hacer las derechas moderadas ante el ímpetu ultra?",
-      "score": 3.4,
-      "words": [
         {
           "word": "crisis",
           "score": -3
-        },
-        {
-          "word": "dilema",
-          "score": -1
         }
       ]
     },
@@ -159,6 +125,33 @@
     },
     {
       "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.5,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "acepta",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Cerca de 20.000 marineros atrapados por el cierre del estrecho de Ormuz: “Por fa",
       "score": 5.4,
       "words": [
@@ -169,33 +162,6 @@
         {
           "word": "bloqueo",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "querer",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     },
@@ -215,9 +181,70 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Irán se impone en la batalla de la propaganda frente a Trump",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "propaganda",
+          "score": -2
+        },
+        {
+          "word": "humor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“Aquí vive gente”: ni la catástrofe nuclear ni la invasión rusa han conseguido a",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "catástrofe",
+          "score": -3
+        },
+        {
+          "word": "accidente",
+          "score": -2
+        },
+        {
+          "word": "negándose",
+          "score": -2
+        },
+        {
+          "word": "abandonar",
+          "score": -2
+        },
+        {
+          "word": "exclusión",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Son seguras las presas españolas? Así afecta a estas construcciones un clima má",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "riesgos",
+          "score": -2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Miles de personas recorren el centro de Madrid al grito de “Salvemos la educació",
-      "score": 4.68,
+      "score": 4.53,
       "words": [
         {
           "word": "grito",
@@ -270,38 +297,15 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez no está solo y su adversario ya no es Feijóo",
-      "score": 4.71,
+      "title": "Los partidos de Sumar marcan distancias con el PSOE para blindarse ante el inten",
+      "score": 4.79,
       "words": [
         {
-          "word": "solo",
+          "word": "tembloroso",
           "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
         },
         {
           "word": "tiempo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los líderes mundiales progresistas reactivan en Barcelona su alianza contra la g",
-      "score": 4.77,
-      "words": [
-        {
-          "word": "guerra",
           "score": -2
         },
         {
@@ -309,11 +313,7 @@
           "score": -2
         },
         {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
+          "word": "amenazado",
           "score": -2
         },
         {
@@ -324,27 +324,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez: \"El tiempo de la internacional ultraderechista y la derecha lacaya ha l",
-      "score": 4.46,
+      "title": "Sánchez anuncia que propondrá romper el Acuerdo de Asociación con Israel de la U",
+      "score": 4.8,
       "words": [
         {
-          "word": "tiempo",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "conflictos",
           "score": -2
         },
         {
           "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "vergüenza",
-          "score": -2
-        },
-        {
-          "word": "injusticia",
           "score": -2
         }
       ]
@@ -378,33 +378,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Elma Saiz: \"No voy a permitir el boicot del PP a la regularización ni que nadie ",
-      "score": 5.48,
-      "words": [
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "euforia",
-          "score": 3
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El racismo de la “prioridad nacional”",
       "score": 4.39,
       "words": [
@@ -429,13 +402,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Elma Saiz: \"No voy a permitir el boicot del PP a la regularización ni que nadie ",
+      "score": 5.48,
+      "words": [
+        {
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "euforia",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-08T22:36:21Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-04-08T23:35:31Z",
       "score": 4.67
@@ -1103,6 +1099,10 @@
     {
       "timestamp": "2026-04-19T11:33:21Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-04-19T12:56:37Z",
+      "score": 4.63
     }
   ]
 }

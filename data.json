@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-20T10:45:35Z",
-  "global_score": 4.54,
+  "generated": "2026-04-20T12:01:56Z",
+  "global_score": 4.57,
   "articles_scored": 94,
-  "words_matched": 276,
+  "words_matched": 253,
   "top_negative": [
     {
       "word": "negro",
@@ -25,7 +25,7 @@
       "score": -3
     },
     {
-      "word": "violencia",
+      "word": "delitos",
       "score": -3
     },
     {
@@ -39,16 +39,24 @@
   ],
   "top_positive": [
     {
+      "word": "magnífico",
+      "score": 5
+    },
+    {
       "word": "milagro",
       "score": 4
     },
     {
-      "word": "triunfo",
+      "word": "ganador",
       "score": 4
     },
     {
       "word": "brillante",
       "score": 4
+    },
+    {
+      "word": "amor",
+      "score": 3
     },
     {
       "word": "celebrar",
@@ -59,30 +67,22 @@
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "caro",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.88,
-    "elDiario.es": 4.72,
-    "El Mundo": 4.45,
-    "ABC": 5.2,
-    "El Confidencial": 4.3,
+    "El País": 4.29,
+    "elDiario.es": 4.57,
+    "El Mundo": 4.69,
+    "ABC": 5.03,
+    "El Confidencial": 4.75,
     "BBC Mundo": 4.3,
     "France 24 ES": 5.14,
-    "La Nación AR": 5.38,
+    "La Nación AR": 4.02,
     "La Jornada MX": 4.54,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 3.84
+    "Resumen Latinoam.": 4.7
   },
   "articles": [
     {
@@ -102,28 +102,62 @@
     },
     {
       "source": "El País",
-      "title": "La guerra en el Golfo eleva los riesgos de escasez y racionamiento de combustibl",
-      "score": 3.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
+      "score": 4.4,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "riesgos",
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "escasez",
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La imagen de un soldado israelí que derriba un Jesucristo crucificado en Líbano ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "provoca",
+          "score": -1
+        },
+        {
+          "word": "hacha",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La acusación popular pide 24 años de prisión para Begoña Gómez por cuatro delito",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "acusación",
           "score": -2
         },
         {
-          "word": "conflicto",
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "prisión",
           "score": -2
         },
         {
-          "word": "problemas",
-          "score": -2
+          "word": "delitos",
+          "score": -3
         }
       ]
     },
@@ -151,25 +185,6 @@
         {
           "word": "solo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El genocida nazi Maks, ‘El Carnicero’, se queda sin escudo en Valencia",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "fascista",
-          "score": -2
-        },
-        {
-          "word": "tumba",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
         }
       ]
     },
@@ -219,35 +234,9 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La exedil de Móstoles en su querella contra el alcalde: “Mis interlocutoras en e",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Infiltrados en el Gaming | El peligro de la radicalización ultra entre los jóven",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "peligro",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Bárcenas declara en el juicio de Kitchen que encargó desde prisión \"destruir los",
-      "score": 4.16,
+      "score": 4.2,
       "words": [
         {
           "word": "prisión",
@@ -381,37 +370,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Críticos y excargos de Vox se reunirán el 20 de junio para \"construir una altern",
-      "score": 4.9,
+      "title": "Los obispos acusan al Gobierno de \"intervenir\" la vida civil, no respetar la div",
+      "score": 4.76,
       "words": [
         {
-          "word": "críticos",
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "críticos",
-          "score": -2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "intereses",
+          "word": "alcanzar",
           "score": 1
         },
         {
-          "word": "críticos",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "duro",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Begoña Gómez pide anular el auto de Peinado para llevarla a juicio y ve \"inacept",
+      "score": 3.27,
+      "words": [
+        {
+          "word": "inaceptable",
+          "score": -2
+        },
+        {
+          "word": "inaceptable",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T02:13:29Z",
-      "score": 4.48
-    },
     {
       "timestamp": "2026-04-10T05:22:59Z",
       "score": 4.55
@@ -1079,6 +1091,10 @@
     {
       "timestamp": "2026-04-20T10:45:35Z",
       "score": 4.54
+    },
+    {
+      "timestamp": "2026-04-20T12:01:56Z",
+      "score": 4.57
     }
   ]
 }

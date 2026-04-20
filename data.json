@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-20T17:55:43Z",
-  "global_score": 4.73,
-  "articles_scored": 94,
-  "words_matched": 233,
+  "generated": "2026-04-20T19:06:26Z",
+  "global_score": 4.63,
+  "articles_scored": 96,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "negro",
@@ -17,7 +17,15 @@
       "score": -4
     },
     {
+      "word": "fraude",
+      "score": -4
+    },
+    {
       "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "peor",
       "score": -3
     },
     {
@@ -27,23 +35,11 @@
     {
       "word": "víctimas",
       "score": -3
-    },
-    {
-      "word": "destruir",
-      "score": -3
-    },
-    {
-      "word": "destruye",
-      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "ganar",
       "score": 4
     },
     {
@@ -59,32 +55,70 @@
       "score": 3
     },
     {
-      "word": "calmar",
+      "word": "medalla",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "celebrado",
       "score": 3
     },
     {
       "word": "suerte",
       "score": 3
+    },
+    {
+      "word": "emoción",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.67,
+    "El País": 4.5,
     "elDiario.es": 4.66,
-    "El Mundo": 4.99,
-    "ABC": 4.86,
-    "El Confidencial": 4.92,
+    "El Mundo": 4.85,
+    "ABC": 4.71,
+    "El Confidencial": 5.03,
     "BBC Mundo": 4.23,
-    "France 24 ES": 4.24,
-    "La Nación AR": 5.31,
+    "France 24 ES": 4.82,
+    "La Nación AR": 4.72,
     "La Jornada MX": 4.54,
     "Desinformémonos": 4.55,
-    "Resumen Latinoam.": 5.11
+    "Resumen Latinoam.": 4.43
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Luis Bárcenas apunta contra el PP de Rajoy en el juicio de Kitchen: “Esta operac",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La acusación popular pide 24 años de prisión para Begoña Gómez por cuatro delito",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Estados Unidos e Irán aproximan posturas para una nueva ronda de conversaciones,",
@@ -136,6 +170,25 @@
     },
     {
       "source": "El País",
+      "title": "La popularidad de Trump cae a su peor nivel por la economía y la guerra en Irán",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Kallas sondeará la voluntad de los Veintisiete de “presionar” a Israel como pide",
       "score": 4.6,
       "words": [
@@ -146,40 +199,6 @@
         {
           "word": "acuerdo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Luis Bárcenas apunta contra el PP de Rajoy en el juicio de Kitchen: “Esta operac",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La acusación popular pide 24 años de prisión para Begoña Gómez por cuatro delito",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
         }
       ]
     },
@@ -386,40 +405,9 @@
           "score": 4
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo, sobre los gritos de \"¡fuera la mona!\" contra Delcy Rodríguez en el acto ",
-      "score": 4.72,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "insultos",
-          "score": -2
-        },
-        {
-          "word": "racistas",
-          "score": -3
-        },
-        {
-          "word": "racistas",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T10:51:44Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-04-10T11:45:19Z",
       "score": 4.62
@@ -1087,6 +1075,10 @@
     {
       "timestamp": "2026-04-20T17:55:43Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-04-20T19:06:26Z",
+      "score": 4.63
     }
   ]
 }

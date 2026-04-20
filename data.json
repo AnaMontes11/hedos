@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-20T14:47:46Z",
-  "global_score": 4.67,
-  "articles_scored": 96,
-  "words_matched": 248,
+  "generated": "2026-04-20T16:06:09Z",
+  "global_score": 4.63,
+  "articles_scored": 94,
+  "words_matched": 243,
   "top_negative": [
     {
       "word": "negro",
@@ -17,11 +17,11 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
+      "word": "delitos",
+      "score": -3
     },
     {
-      "word": "delitos",
+      "word": "racistas",
       "score": -3
     },
     {
@@ -43,6 +43,10 @@
       "score": 4
     },
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "divertido",
       "score": 4
     },
@@ -51,38 +55,34 @@
       "score": 4
     },
     {
-      "word": "celebrar",
+      "word": "mayor",
       "score": 3
     },
     {
-      "word": "impresiona",
+      "word": "calmar",
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "medalla",
       "score": 3
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "sentido",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.77,
-    "elDiario.es": 4.7,
+    "El País": 4.9,
+    "elDiario.es": 4.66,
     "El Mundo": 4.59,
-    "ABC": 5.17,
-    "El Confidencial": 5.17,
-    "BBC Mundo": 4.42,
-    "France 24 ES": 4.66,
-    "La Nación AR": 4.39,
+    "ABC": 5.19,
+    "El Confidencial": 4.92,
+    "BBC Mundo": 4.13,
+    "France 24 ES": 4.46,
+    "La Nación AR": 4.25,
     "La Jornada MX": 4.54,
-    "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.75
+    "Desinformémonos": 4.35,
+    "Resumen Latinoam.": 4.83
   },
   "articles": [
     {
@@ -178,12 +178,28 @@
     },
     {
       "source": "El País",
-      "title": "Infiltrados en el Gaming | El peligro de la radicalización ultra entre los jóven",
-      "score": 3.4,
+      "title": "Carlos Baute se disculpa por los insultos racistas a Delcy Rodríguez durante el ",
+      "score": 4.43,
       "words": [
         {
-          "word": "peligro",
+          "word": "disculpa",
+          "score": -1
+        },
+        {
+          "word": "insultos",
           "score": -2
+        },
+        {
+          "word": "racistas",
+          "score": -3
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "asegurado",
+          "score": 2
         }
       ]
     },
@@ -216,7 +232,7 @@
     {
       "source": "elDiario.es",
       "title": "Bárcenas declara en el juicio de Kitchen que encargó desde prisión \"destruir los",
-      "score": 4.09,
+      "score": 4.04,
       "words": [
         {
           "word": "prisión",
@@ -235,35 +251,8 @@
           "score": -3
         },
         {
-          "word": "prisión",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Turno para Bárcenas en el juicio de Kitchen: ¿existe la grabación de Rajoy habla",
-      "score": 4.72,
-      "words": [
-        {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "perjudicial",
-          "score": -2
-        },
-        {
-          "word": "esconder",
-          "score": -1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "destruye",
+          "score": -3
         }
       ]
     },
@@ -296,28 +285,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo, sobre los gritos de \"¡fuera la mona!\" contra Delcy Rodríguez en el acto ",
-      "score": 4.72,
+      "title": "'Las tres guerras sucias del PP': el documental de elDiario.es sobre las operaci",
+      "score": 4.35,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "insultos",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "racistas",
-          "score": -3
+          "word": "celebrando",
+          "score": 3
         },
         {
-          "word": "racistas",
-          "score": -3
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -350,7 +339,7 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La acusación popular piden 24 años de cárcel para Begoña Gómez por cuatro delito",
+      "title": "La acusación popular pide 24 años de cárcel para Begoña Gómez por cuatro delitos",
       "score": 5.24,
       "words": [
         {
@@ -401,13 +390,36 @@
           "score": 4
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo, sobre los gritos de \"¡fuera la mona!\" contra Delcy Rodríguez en el acto ",
+      "score": 4.72,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "insultos",
+          "score": -2
+        },
+        {
+          "word": "racistas",
+          "score": -3
+        },
+        {
+          "word": "racistas",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T07:23:55Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-04-10T09:06:18Z",
       "score": 4.65
@@ -1075,6 +1087,10 @@
     {
       "timestamp": "2026-04-20T14:47:46Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-04-20T16:06:09Z",
+      "score": 4.63
     }
   ]
 }

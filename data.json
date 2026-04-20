@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-20T22:40:17Z",
-  "global_score": 4.5,
-  "articles_scored": 94,
-  "words_matched": 233,
+  "generated": "2026-04-20T23:40:15Z",
+  "global_score": 4.48,
+  "articles_scored": 95,
+  "words_matched": 238,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "destruye",
       "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -51,10 +51,6 @@
       "score": 4
     },
     {
-      "word": "bueno",
-      "score": 3
-    },
-    {
       "word": "premios",
       "score": 3
     },
@@ -69,20 +65,24 @@
     {
       "word": "mejor",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.29,
+    "El País": 4.52,
     "elDiario.es": 4.66,
     "El Mundo": 4.66,
     "ABC": 5.13,
     "El Confidencial": 5.03,
     "BBC Mundo": 3.89,
-    "France 24 ES": 4.71,
-    "La Nación AR": 4.33,
+    "France 24 ES": 4.63,
+    "La Nación AR": 3.87,
     "La Jornada MX": 4.54,
-    "Desinformémonos": 4.15,
-    "Resumen Latinoam.": 3.97
+    "Desinformémonos": 3.97,
+    "Resumen Latinoam.": 4.09
   },
   "articles": [
     {
@@ -155,21 +155,6 @@
     },
     {
       "source": "El País",
-      "title": "La imagen de un soldado israelí que derriba un Jesucristo crucificado en Líbano ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "provoca",
-          "score": -1
-        },
-        {
-          "word": "hacha",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Kallas sondeará la voluntad de los Veintisiete de “presionar” a Israel como pide",
       "score": 4.6,
       "words": [
@@ -180,6 +165,21 @@
         {
           "word": "acuerdo",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La imagen de un soldado israelí que derriba un Jesucristo crucificado en Líbano ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "provoca",
+          "score": -1
+        },
+        {
+          "word": "hacha",
+          "score": -1
         }
       ]
     },
@@ -199,6 +199,17 @@
         {
           "word": "conflicto",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las renovables superan por primera vez en cien años al carbón en la producción g",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
         }
       ]
     },
@@ -358,40 +369,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El CIS aumenta la ventaja del PSOE sobre el PP a casi trece puntos mientras Vox ",
-      "score": 5.58,
-      "words": [
-        {
-          "word": "aumenta",
-          "score": 1
-        },
-        {
-          "word": "ventaja",
-          "score": 2
-        },
-        {
-          "word": "aumenta",
-          "score": 1
-        },
-        {
-          "word": "ventaja",
-          "score": 2
-        },
-        {
-          "word": "ganador",
-          "score": 4
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T15:51:05Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-04-10T16:47:58Z",
       "score": 4.51
@@ -1059,6 +1039,10 @@
     {
       "timestamp": "2026-04-20T22:40:17Z",
       "score": 4.5
+    },
+    {
+      "timestamp": "2026-04-20T23:40:15Z",
+      "score": 4.48
     }
   ]
 }

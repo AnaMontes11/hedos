@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-20T08:02:36Z",
-  "global_score": 4.48,
-  "articles_scored": 92,
-  "words_matched": 367,
+  "generated": "2026-04-20T10:45:35Z",
+  "global_score": 4.54,
+  "articles_scored": 94,
+  "words_matched": 276,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
       "word": "víctimas",
       "score": -3
     },
@@ -35,19 +31,15 @@
     {
       "word": "preocupación",
       "score": -3
+    },
+    {
+      "word": "destruir",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "maravilloso",
-      "score": 4
-    },
-    {
-      "word": "victorias",
+      "word": "milagro",
       "score": 4
     },
     {
@@ -55,12 +47,8 @@
       "score": 4
     },
     {
-      "word": "euforia",
-      "score": 3
-    },
-    {
-      "word": "bonito",
-      "score": 3
+      "word": "brillante",
+      "score": 4
     },
     {
       "word": "celebrar",
@@ -69,20 +57,32 @@
     {
       "word": "premios",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "caro",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.0,
-    "elDiario.es": 4.73,
-    "El Mundo": 4.64,
-    "ABC": 5.25,
-    "El Confidencial": 5.17,
-    "BBC Mundo": 4.12,
+    "El País": 3.88,
+    "elDiario.es": 4.72,
+    "El Mundo": 4.45,
+    "ABC": 5.2,
+    "El Confidencial": 4.3,
+    "BBC Mundo": 4.3,
     "France 24 ES": 5.14,
-    "La Nación AR": 3.28,
-    "La Jornada MX": 5.01,
+    "La Nación AR": 5.38,
+    "La Jornada MX": 4.54,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 3.46
+    "Resumen Latinoam.": 3.84
   },
   "articles": [
     {
@@ -97,25 +97,6 @@
         {
           "word": "defensor",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Te",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
         }
       ]
     },
@@ -142,29 +123,6 @@
         },
         {
           "word": "problemas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La guerra fractura la sociedad iraní entre quienes temen más ataques y quienes s",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "concesión",
-          "score": 1
-        },
-        {
-          "word": "denuncia",
           "score": -2
         }
       ]
@@ -261,29 +219,55 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Villarejo, en un audio de 2015: \"¡El chófer es mío! Si Bárcenas escapa, le ponem",
-      "score": 3.81,
+      "source": "El País",
+      "title": "La exedil de Móstoles en su querella contra el alcalde: “Mis interlocutoras en e",
+      "score": 3.4,
       "words": [
         {
-          "word": "escapa",
-          "score": -1
+          "word": "denuncia",
+          "score": -2
         },
         {
-          "word": "escapa",
-          "score": -1
+          "word": "acoso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Infiltrados en el Gaming | El peligro de la radicalización ultra entre los jóven",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "peligro",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Bárcenas declara en el juicio de Kitchen que encargó desde prisión \"destruir los",
+      "score": 4.16,
+      "words": [
+        {
+          "word": "prisión",
+          "score": -2
         },
         {
-          "word": "ilegal",
+          "word": "destruir",
           "score": -3
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "prisión",
+          "score": -2
         },
         {
-          "word": "rechaza",
-          "score": -1
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "prisión",
+          "score": -2
         }
       ]
     },
@@ -316,28 +300,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Un exrecluso declara en el juicio de Kitchen que Bárcenas le encargó esconder ma",
-      "score": 4.49,
+      "title": "Villarejo, en un audio de 2015: \"¡El chófer es mío! Si Bárcenas escapa, le ponem",
+      "score": 3.81,
       "words": [
         {
-          "word": "esconder",
+          "word": "escapa",
           "score": -1
         },
         {
-          "word": "esconder",
+          "word": "escapa",
           "score": -1
         },
         {
-          "word": "realizar",
-          "score": 2
-        },
-        {
-          "word": "falso",
+          "word": "ilegal",
           "score": -3
         },
         {
           "word": "popular",
           "score": 3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
         }
       ]
     },
@@ -370,64 +354,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "\"¡Fuera la mona!\": cánticos racistas contra Delcy Rodríguez durante el evento de",
-      "score": 4.65,
+      "title": "Saldos Feijóo",
+      "score": 5.17,
       "words": [
         {
-          "word": "racistas",
-          "score": -3
-        },
-        {
-          "word": "racistas",
-          "score": -3
-        },
-        {
-          "word": "impone",
+          "word": "esperar",
           "score": -1
         },
         {
-          "word": "medalla",
-          "score": 3
+          "word": "regalo",
+          "score": 2
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "brillante",
+          "score": 4
+        },
+        {
+          "word": "celebrando",
+          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Una década de subidas sin tregua del alquiler: el mapa de cómo se han disparado ",
-      "score": 4.95,
+      "title": "Críticos y excargos de Vox se reunirán el 20 de junio para \"construir una altern",
+      "score": 4.9,
       "words": [
         {
-          "word": "caro",
-          "score": 3
-        },
-        {
-          "word": "aumentado",
-          "score": 1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "choque",
+          "word": "críticos",
           "score": -2
         },
         {
-          "word": "paga",
-          "score": -1
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "intereses",
+          "score": 1
+        },
+        {
+          "word": "críticos",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-09T23:35:48Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-04-10T02:13:29Z",
       "score": 4.48
@@ -1095,6 +1075,10 @@
     {
       "timestamp": "2026-04-20T08:02:36Z",
       "score": 4.48
+    },
+    {
+      "timestamp": "2026-04-20T10:45:35Z",
+      "score": 4.54
     }
   ]
 }

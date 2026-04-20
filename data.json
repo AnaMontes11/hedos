@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-20T20:42:23Z",
-  "global_score": 4.44,
-  "articles_scored": 85,
-  "words_matched": 223,
+  "generated": "2026-04-20T21:43:18Z",
+  "global_score": 4.57,
+  "articles_scored": 92,
+  "words_matched": 236,
   "top_negative": [
     {
       "word": "negro",
@@ -51,7 +51,7 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "mayor",
       "score": 3
     },
     {
@@ -63,11 +63,11 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "emoción",
       "score": 3
     }
   ],
@@ -75,13 +75,14 @@
     "El País": 4.29,
     "elDiario.es": 4.66,
     "El Mundo": 4.66,
+    "ABC": 5.13,
     "El Confidencial": 5.03,
     "BBC Mundo": 3.89,
-    "France 24 ES": 4.71,
-    "La Nación AR": 3.73,
+    "France 24 ES": 4.92,
+    "La Nación AR": 5.24,
     "La Jornada MX": 4.54,
-    "Desinformémonos": 4.55,
-    "Resumen Latinoam.": 4.37
+    "Desinformémonos": 4.15,
+    "Resumen Latinoam.": 3.87
   },
   "articles": [
     {
@@ -387,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T13:04:24Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-04-10T14:45:03Z",
       "score": 4.58
@@ -1058,6 +1055,10 @@
     {
       "timestamp": "2026-04-20T20:42:23Z",
       "score": 4.44
+    },
+    {
+      "timestamp": "2026-04-20T21:43:18Z",
+      "score": 4.57
     }
   ]
 }

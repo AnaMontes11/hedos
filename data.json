@@ -1,9 +1,13 @@
 {
-  "generated": "2026-04-19T23:33:37Z",
-  "global_score": 4.72,
-  "articles_scored": 94,
-  "words_matched": 346,
+  "generated": "2026-04-20T02:28:37Z",
+  "global_score": 4.76,
+  "articles_scored": 93,
+  "words_matched": 342,
   "top_negative": [
+    {
+      "word": "violación",
+      "score": -4
+    },
     {
       "word": "tortura",
       "score": -4
@@ -31,24 +35,12 @@
     {
       "word": "vil",
       "score": -3
-    },
-    {
-      "word": "terrible",
-      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "excepcional",
       "score": 5
-    },
-    {
-      "word": "fabuloso",
-      "score": 4
-    },
-    {
-      "word": "victorias",
-      "score": 4
     },
     {
       "word": "ganador",
@@ -69,30 +61,46 @@
     {
       "word": "premios",
       "score": 3
+    },
+    {
+      "word": "delicias",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.38,
+    "El País": 4.4,
     "elDiario.es": 4.83,
-    "El Mundo": 4.61,
-    "ABC": 5.3,
-    "El Confidencial": 4.77,
-    "BBC Mundo": 4.24,
-    "France 24 ES": 5.83,
-    "La Nación AR": 4.97,
+    "El Mundo": 5.14,
+    "ABC": 5.31,
+    "El Confidencial": 4.89,
+    "BBC Mundo": 4.28,
+    "France 24 ES": 5.32,
+    "La Nación AR": 5.16,
     "La Jornada MX": 5.01,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 3.71
+    "Resumen Latinoam.": 3.76
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 3.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Te",
+      "score": 3.56,
       "words": [
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
         },
         {
           "word": "acusa",
@@ -197,7 +205,7 @@
     },
     {
       "source": "El País",
-      "title": "Un hombre mata a tiros a ocho niños, algunos de su familia, en Luisiana",
+      "title": "Un hombre mata a tiros a ocho niños, siete eran hijos suyos, en Luisiana",
       "score": 3.4,
       "words": [
         {
@@ -428,10 +436,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-09T20:46:37Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-04-09T21:42:31Z",
       "score": 4.59
@@ -1099,6 +1103,10 @@
     {
       "timestamp": "2026-04-19T23:33:37Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-04-20T02:28:37Z",
+      "score": 4.76
     }
   ]
 }

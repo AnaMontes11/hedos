@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-21T13:20:38Z",
-  "global_score": 4.61,
-  "articles_scored": 95,
-  "words_matched": 247,
+  "generated": "2026-04-21T15:10:07Z",
+  "global_score": 4.64,
+  "articles_scored": 92,
+  "words_matched": 231,
   "top_negative": [
     {
       "word": "negro",
@@ -13,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "víctimas",
+      "word": "racistas",
       "score": -3
     },
     {
@@ -39,14 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "triunfo",
       "score": 4
     },
@@ -59,32 +51,78 @@
       "score": 3
     },
     {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
+    },
+    {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "perfectamente",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.74,
-    "elDiario.es": 4.74,
-    "El Mundo": 4.13,
-    "ABC": 5.35,
-    "El Confidencial": 4.89,
-    "BBC Mundo": 4.67,
-    "France 24 ES": 5.15,
-    "La Nación AR": 4.35,
+    "El País": 5.16,
+    "elDiario.es": 4.83,
+    "El Mundo": 4.44,
+    "ABC": 5.54,
+    "El Confidencial": 4.9,
+    "BBC Mundo": 4.48,
+    "France 24 ES": 5.02,
+    "La Nación AR": 3.97,
     "La Jornada MX": 4.2,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.04
+    "Resumen Latinoam.": 3.97
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Vox fuerza al PP a votar en el Congreso la “prioridad nacional” en las ayudas fr",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno denuncia que ayuntamientos del PP están boicoteando la regularizació",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "boicoteando",
+          "score": -2
+        },
+        {
+          "word": "racistas",
+          "score": -3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El Gobierno aprueba el nuevo plan estatal que blinda las viviendas protegidas",
@@ -102,61 +140,39 @@
     },
     {
       "source": "El País",
-      "title": "El Gobierno de Ayuso critica el Plan de Vivienda de Sánchez por considerarlo int",
-      "score": 5.0,
+      "title": "Ayudas de 300 euros para alquilar y de 30.000 para reformar casas vacías: las cl",
+      "score": 5.8,
       "words": [
         {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
+          "word": "ampliar",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La investigación que nació muerta por el poder de Los Pancetas en el PP de Ayuso",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El ex jefe de gabinete de Reyes Maroto niega gestiones a favor de una licencia p",
+      "title": "Italia y Alemania frenan la posibilidad de suspender el Acuerdo de Asociación de",
       "score": 5.0,
       "words": [
         {
-          "word": "niega",
-          "score": -2
+          "word": "suspender",
+          "score": -1
         },
         {
-          "word": "favor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La incierta negociación entre Estados Unidos e Irán: ¿cuándo acaba la tregua? ¿H",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "aclara",
+          "word": "fuerte",
           "score": 2
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "parcial",
+          "score": -2
         }
       ]
     },
@@ -195,21 +211,6 @@
         {
           "word": "establecido",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "200 fotos de palizas y ajustes de cuentas en una casa de la Costa del Sol: así o",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
         }
       ]
     },
@@ -291,6 +292,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El PP y Vox llevan al Congreso la \"prioridad nacional\" y apuntan a limitar los \"",
+      "score": 5.24,
+      "words": [
+        {
+          "word": "excluir",
+          "score": -1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La Fiscalía archiva la denuncia contra Revuelta por quedarse donativos de la dan",
       "score": 4.67,
       "words": [
@@ -313,6 +341,33 @@
         {
           "word": "cargos",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El exCEO de Air Europa niega pagos a Ábalos a cambio de empujar a favor del resc",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "favor",
+          "score": 2
         }
       ]
     },
@@ -342,40 +397,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Bárcenas señala a Rajoy en el juicio de Kitchen como el primer interesado en sab",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "interesado",
-          "score": 2
-        },
-        {
-          "word": "interesado",
-          "score": 2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "robar",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T22:34:32Z",
-      "score": 4.5
-    },
     {
       "timestamp": "2026-04-10T23:32:30Z",
       "score": 4.61
@@ -1043,6 +1067,10 @@
     {
       "timestamp": "2026-04-21T13:20:38Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-21T15:10:07Z",
+      "score": 4.64
     }
   ]
 }

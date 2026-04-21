@@ -1,28 +1,16 @@
 {
-  "generated": "2026-04-21T11:04:12Z",
-  "global_score": 4.66,
-  "articles_scored": 98,
-  "words_matched": 268,
+  "generated": "2026-04-21T13:20:38Z",
+  "global_score": 4.61,
+  "articles_scored": 95,
+  "words_matched": 247,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraudulento",
+      "word": "fraudes",
       "score": -4
-    },
-    {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "traición",
-      "score": -3
     },
     {
       "word": "víctimas",
@@ -30,6 +18,18 @@
     },
     {
       "word": "violencia",
+      "score": -3
+    },
+    {
+      "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "estafa",
+      "score": -3
+    },
+    {
+      "word": "destruido",
       "score": -3
     },
     {
@@ -43,19 +43,15 @@
       "score": 5
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "milagro",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "premios",
+      "word": "exitoso",
       "score": 3
     },
     {
@@ -63,81 +59,58 @@
       "score": 3
     },
     {
-      "word": "caro",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "paraíso",
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.49,
-    "elDiario.es": 4.7,
-    "El Mundo": 4.8,
-    "ABC": 4.7,
-    "El Confidencial": 5.3,
-    "BBC Mundo": 4.34,
-    "France 24 ES": 5.53,
-    "La Nación AR": 5.05,
+    "El País": 4.74,
+    "elDiario.es": 4.74,
+    "El Mundo": 4.13,
+    "ABC": 5.35,
+    "El Confidencial": 4.89,
+    "BBC Mundo": 4.67,
+    "France 24 ES": 5.15,
+    "La Nación AR": 4.35,
     "La Jornada MX": 4.2,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.06
+    "Resumen Latinoam.": 4.04
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Or",
-      "score": 4.0,
+      "title": "El Gobierno aprueba el nuevo plan estatal que blinda las viviendas protegidas",
+      "score": 6.2,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Mapas | Cómo funciona el bloqueo de Ormuz y por qué algunos buques pasan y otros",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "establecido",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La traición del chófer de los Bárcenas: “Era como si fuera uno más de la familia",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "traición",
-          "score": -3
-        },
-        {
-          "word": "capacidad",
+          "word": "aprueba",
           "score": 2
         },
         {
-          "word": "confidente",
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno de Ayuso critica el Plan de Vivienda de Sánchez por considerarlo int",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "asegura",
           "score": 2
         }
       ]
@@ -159,24 +132,69 @@
     },
     {
       "source": "El País",
-      "title": "El CEU de Valencia ha utilizado cadáveres con enfermedades infecciosas con sus a",
-      "score": 3.4,
+      "title": "El ex jefe de gabinete de Reyes Maroto niega gestiones a favor de una licencia p",
+      "score": 5.0,
       "words": [
         {
-          "word": "enfermedades",
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "riesgo",
+          "word": "favor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La incierta negociación entre Estados Unidos e Irán: ¿cuándo acaba la tregua? ¿H",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "error",
+          "word": "aclara",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "gripe",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "advierte",
           "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Mapas | Cómo funciona el bloqueo de Ormuz y por qué algunos buques pasan y otros",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "establecido",
+          "score": 1
         }
       ]
     },
@@ -218,86 +236,83 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Julio César N: el tirador de Teotihuacán que celebraba la matanza de Columbine y",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "Claves del Plan Estatal de Vivienda aprobado por el Gobierno que pretende blinda",
+      "score": 5.3,
       "words": [
         {
-          "word": "fascista",
-          "score": -2
+          "word": "aprobado",
+          "score": 2
         },
         {
-          "word": "agresor",
+          "word": "aprobado",
+          "score": 2
+        },
+        {
+          "word": "evitar",
           "score": -1
         },
         {
-          "word": "víctimas",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
-      "score": 6.6,
-      "words": [
+          "word": "impuesto",
+          "score": -1
+        },
         {
-          "word": "asegura",
+          "word": "aprobado",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Bárcenas señala a Rajoy en el juicio de Kitchen como el primer interesado en sab",
-      "score": 4.2,
+      "title": "El Gobierno de Ayuso se opone al Plan Estatal de Vivienda: \"Invade competencias\"",
+      "score": 5.51,
       "words": [
         {
-          "word": "interesado",
+          "word": "aprueba",
           "score": 2
         },
         {
-          "word": "interesado",
+          "word": "compartir",
+          "score": 1
+        },
+        {
+          "word": "aprobado",
           "score": 2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "robar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "A Juanma Moreno le explota la cabeza",
-      "score": 4.12,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "destruir",
-          "score": -3
         },
         {
           "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "racista",
-          "score": -3
+          "word": "acepta",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Fiscalía archiva la denuncia contra Revuelta por quedarse donativos de la dan",
+      "score": 4.67,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "juvenil",
+          "score": 2
+        },
+        {
+          "word": "cargos",
+          "score": -2
         }
       ]
     },
@@ -330,64 +345,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno de Ayuso rechaza los 660 millones del Plan Estatal de Vivienda: \"Inv",
-      "score": 5.32,
+      "title": "Bárcenas señala a Rajoy en el juicio de Kitchen como el primer interesado en sab",
+      "score": 4.2,
       "words": [
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "aprueba",
+          "word": "interesado",
           "score": 2
         },
         {
-          "word": "compartir",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Una sentencia abre la puerta a que el alquiler de habitaciones pueda acogerse a ",
-      "score": 4.9,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "justicia",
+          "word": "interesado",
           "score": 2
         },
         {
-          "word": "asegurar",
-          "score": 1
+          "word": "prisión",
+          "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "robar",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T21:34:51Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-04-10T22:34:32Z",
       "score": 4.5
@@ -1055,6 +1039,10 @@
     {
       "timestamp": "2026-04-21T11:04:12Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-04-21T13:20:38Z",
+      "score": 4.61
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-20T23:40:15Z",
-  "global_score": 4.48,
-  "articles_scored": 95,
-  "words_matched": 238,
+  "generated": "2026-04-21T02:24:37Z",
+  "global_score": 4.52,
+  "articles_scored": 86,
+  "words_matched": 220,
   "top_negative": [
     {
       "word": "negro",
@@ -13,11 +13,11 @@
       "score": -4
     },
     {
-      "word": "tortura",
+      "word": "infierno",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "tortura",
       "score": -4
     },
     {
@@ -51,11 +51,11 @@
       "score": 4
     },
     {
-      "word": "premios",
+      "word": "súper",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "mayor",
       "score": 3
     },
     {
@@ -74,15 +74,14 @@
   "per_source": {
     "El País": 4.52,
     "elDiario.es": 4.66,
-    "El Mundo": 4.66,
-    "ABC": 5.13,
+    "El Mundo": 4.95,
+    "ABC": 4.48,
     "El Confidencial": 5.03,
     "BBC Mundo": 3.89,
-    "France 24 ES": 4.63,
-    "La Nación AR": 3.87,
+    "France 24 ES": 5.14,
+    "La Nación AR": 3.66,
     "La Jornada MX": 4.54,
-    "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.09
+    "Desinformémonos": 4.2
   },
   "articles": [
     {
@@ -372,10 +371,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T16:47:58Z",
-      "score": 4.51
-    },
     {
       "timestamp": "2026-04-10T17:45:09Z",
       "score": 4.56
@@ -1043,6 +1038,10 @@
     {
       "timestamp": "2026-04-20T23:40:15Z",
       "score": 4.48
+    },
+    {
+      "timestamp": "2026-04-21T02:24:37Z",
+      "score": 4.52
     }
   ]
 }

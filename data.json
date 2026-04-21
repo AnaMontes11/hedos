@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-21T09:23:10Z",
-  "global_score": 4.51,
-  "articles_scored": 94,
-  "words_matched": 273,
+  "generated": "2026-04-21T11:04:12Z",
+  "global_score": 4.66,
+  "articles_scored": 98,
+  "words_matched": 268,
   "top_negative": [
     {
       "word": "negro",
@@ -17,7 +17,7 @@
       "score": -4
     },
     {
-      "word": "tortura",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -39,8 +39,8 @@
   ],
   "top_positive": [
     {
-      "word": "milagro",
-      "score": 4
+      "word": "excepcional",
+      "score": 5
     },
     {
       "word": "triunfo",
@@ -51,40 +51,97 @@
       "score": 4
     },
     {
+      "word": "milagro",
+      "score": 4
+    },
+    {
       "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "caro",
       "score": 3
     },
     {
       "word": "paraíso",
       "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.31,
-    "elDiario.es": 4.74,
-    "El Mundo": 4.7,
-    "ABC": 4.53,
-    "El Confidencial": 4.93,
-    "BBC Mundo": 3.74,
-    "France 24 ES": 5.47,
-    "La Nación AR": 3.89,
-    "La Jornada MX": 4.54,
+    "El País": 4.49,
+    "elDiario.es": 4.7,
+    "El Mundo": 4.8,
+    "ABC": 4.7,
+    "El Confidencial": 5.3,
+    "BBC Mundo": 4.34,
+    "France 24 ES": 5.53,
+    "La Nación AR": 5.05,
+    "La Jornada MX": 4.2,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.5
+    "Resumen Latinoam.": 4.06
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Or",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Mapas | Cómo funciona el bloqueo de Ormuz y por qué algunos buques pasan y otros",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "establecido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La traición del chófer de los Bárcenas: “Era como si fuera uno más de la familia",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "traición",
+          "score": -3
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "confidente",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "La investigación que nació muerta por el poder de Los Pancetas en el PP de Ayuso",
@@ -119,67 +176,6 @@
         },
         {
           "word": "gripe",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La traición del chófer de los Bárcenas: “Era como si fuera uno más de la familia",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "traición",
-          "score": -3
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "confidente",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Mapas | Cómo funciona el bloqueo de Ormuz y por qué algunos buques pasan y otros",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "establecido",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "preparado",
-          "score": 1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "fuego",
           "score": -2
         }
       ]
@@ -241,6 +237,17 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Bárcenas señala a Rajoy en el juicio de Kitchen como el primer interesado en sab",
       "score": 4.2,
@@ -264,33 +271,6 @@
         {
           "word": "robar",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Bárcenas recuerda a todos quién es el auténtico Mariano Rajoy",
-      "score": 4.48,
-      "words": [
-        {
-          "word": "escapa",
-          "score": -1
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        },
-        {
-          "word": "arrogante",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
         }
       ]
     },
@@ -323,91 +303,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Podemos sopesa primarias conjuntas para recuperar peso en la izquierda tras abri",
-      "score": 5.71,
+      "title": "Bárcenas recuerda a todos quién es el auténtico Mariano Rajoy",
+      "score": 4.48,
       "words": [
         {
-          "word": "rechazar",
+          "word": "escapa",
           "score": -1
         },
         {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "evita",
-          "score": -1
-        },
-        {
-          "word": "solo",
+          "word": "perdido",
           "score": -2
         },
         {
-          "word": "celebrar",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La generación eléctrica con renovables supera al carbón por primera vez en la hi",
-      "score": 5.22,
-      "words": [
-        {
-          "word": "cubrir",
-          "score": -3
-        },
-        {
-          "word": "demanda",
-          "score": -1
+          "word": "arrogante",
+          "score": -2
         },
         {
           "word": "pasado",
           "score": -1
         },
         {
-          "word": "pasado",
+          "word": "dudas",
           "score": -1
-        },
-        {
-          "word": "sol",
-          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "53 países unen fuerzas para abandonar los combustibles fósiles en plena crisis p",
-      "score": 4.81,
+      "title": "El Gobierno de Ayuso rechaza los 660 millones del Plan Estatal de Vivienda: \"Inv",
+      "score": 5.32,
       "words": [
         {
-          "word": "abandonar",
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "compartir",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Una sentencia abre la puerta a que el alquiler de habitaciones pueda acogerse a ",
+      "score": 4.9,
+      "words": [
+        {
+          "word": "sentencia",
           "score": -2
         },
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "guerra",
+          "word": "sentencia",
           "score": -2
         },
         {
-          "word": "abandonar",
-          "score": -2
+          "word": "justicia",
+          "score": 2
         },
         {
-          "word": "crisis",
-          "score": -3
+          "word": "asegurar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T20:33:32Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-04-10T21:34:51Z",
       "score": 4.7
@@ -1075,6 +1051,10 @@
     {
       "timestamp": "2026-04-21T09:23:10Z",
       "score": 4.51
+    },
+    {
+      "timestamp": "2026-04-21T11:04:12Z",
+      "score": 4.66
     }
   ]
 }

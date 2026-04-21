@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-21T07:45:40Z",
-  "global_score": 4.59,
-  "articles_scored": 97,
-  "words_matched": 312,
+  "generated": "2026-04-21T09:23:10Z",
+  "global_score": 4.51,
+  "articles_scored": 94,
+  "words_matched": 273,
   "top_negative": [
     {
       "word": "negro",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
       "word": "milagro",
       "score": 4
     },
@@ -51,38 +47,42 @@
       "score": 4
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "suerte",
-      "score": 3
     },
     {
       "word": "premios",
       "score": 3
     },
     {
-      "word": "maravilla",
+      "word": "paraíso",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.22,
-    "elDiario.es": 4.8,
-    "El Mundo": 4.76,
-    "ABC": 5.02,
-    "El Confidencial": 4.23,
+    "El País": 4.31,
+    "elDiario.es": 4.74,
+    "El Mundo": 4.7,
+    "ABC": 4.53,
+    "El Confidencial": 4.93,
     "BBC Mundo": 3.74,
-    "France 24 ES": 5.45,
-    "La Nación AR": 4.65,
+    "France 24 ES": 5.47,
+    "La Nación AR": 3.89,
     "La Jornada MX": 4.54,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.57
+    "Resumen Latinoam.": 4.5
   },
   "articles": [
     {
@@ -241,21 +241,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "El ‘caso Begoña Gómez’ y el despilfarro procesal",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Bárcenas señala a Rajoy en el juicio de Kitchen como el primer interesado en sab",
       "score": 4.2,
@@ -365,23 +350,50 @@
     },
     {
       "source": "elDiario.es",
-      "title": "En los almacenes ‘secretos’ del CNIO: la trama ocultaba un arsenal de material d",
-      "score": 4.87,
+      "title": "La generación eléctrica con renovables supera al carbón por primera vez en la hi",
+      "score": 5.22,
       "words": [
         {
-          "word": "enorme",
-          "score": 1
+          "word": "cubrir",
+          "score": -3
+        },
+        {
+          "word": "demanda",
+          "score": -1
         },
         {
           "word": "pasado",
           "score": -1
         },
         {
-          "word": "cortar",
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "prohibido",
+          "word": "sol",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "53 países unen fuerzas para abandonar los combustibles fósiles en plena crisis p",
+      "score": 4.81,
+      "words": [
+        {
+          "word": "abandonar",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "abandonar",
           "score": -2
         },
         {
@@ -392,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-10T19:41:40Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-04-10T20:33:32Z",
       "score": 4.58
@@ -1063,6 +1071,10 @@
     {
       "timestamp": "2026-04-21T07:45:40Z",
       "score": 4.59
+    },
+    {
+      "timestamp": "2026-04-21T09:23:10Z",
+      "score": 4.51
     }
   ]
 }

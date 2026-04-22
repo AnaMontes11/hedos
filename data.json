@@ -1,9 +1,13 @@
 {
-  "generated": "2026-04-22T18:00:17Z",
-  "global_score": 4.58,
-  "articles_scored": 97,
-  "words_matched": 245,
+  "generated": "2026-04-22T20:02:57Z",
+  "global_score": 4.79,
+  "articles_scored": 96,
+  "words_matched": 242,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -13,23 +17,19 @@
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "desconfianza",
+      "word": "matar",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "racismo",
-      "score": -3
-    },
-    {
-      "word": "advertencias",
+      "word": "vil",
       "score": -3
     },
     {
@@ -38,6 +38,10 @@
     }
   ],
   "top_positive": [
+    {
+      "word": "magnífico",
+      "score": 5
+    },
     {
       "word": "ganar",
       "score": 4
@@ -59,30 +63,26 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "emoción",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.59,
-    "elDiario.es": 4.83,
-    "El Mundo": 4.67,
-    "ABC": 5.29,
+    "El País": 5.26,
+    "elDiario.es": 4.9,
+    "El Mundo": 5.06,
+    "ABC": 5.48,
     "El Confidencial": 4.65,
     "BBC Mundo": 3.95,
-    "France 24 ES": 3.59,
-    "La Nación AR": 4.47,
+    "France 24 ES": 4.33,
+    "La Nación AR": 4.92,
     "La Jornada MX": 4.69,
     "Desinformémonos": 4.54,
-    "Resumen Latinoam.": 4.16
+    "Resumen Latinoam.": 4.85
   },
   "articles": [
     {
@@ -166,6 +166,33 @@
     },
     {
       "source": "El País",
+      "title": "Israel dispara a rescatistas mientras buscan a una periodista bajo los escombros",
+      "score": 4.36,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "matar",
+          "score": -3
+        },
+        {
+          "word": "herir",
+          "score": -2
+        },
+        {
+          "word": "asegurar",
+          "score": 1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Un robot entrenado con IA derrota a una jugadora de élite de ping‑pong",
       "score": 5.0,
       "words": [
@@ -191,17 +218,110 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Está todo pagado",
-      "score": 7.0,
+      "source": "elDiario.es",
+      "title": "El efecto de García Castellón en Kitchen, cinco años después: Rajoy y Cospedal p",
+      "score": 4.45,
       "words": [
         {
-          "word": "pagado",
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Fiscalía pide el archivo de la causa contra Begoña Gómez: “No hay delito. La ",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "inaceptable",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Hacienda concluye que Aldama defraudó 2,4 millones con las mascarillas y le atri",
+      "score": 4.89,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "impuesto",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El exgerente del PSOE niega que desde el partido se abonaran gastos a Ábalos con",
+      "score": 4.82,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "favor",
           "score": 2
         },
         {
-          "word": "mejor",
-          "score": 3
+          "word": "rescate",
+          "score": 2
         }
       ]
     },
@@ -261,145 +381,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP rechaza en el Congreso la moción de Vox sobre \"prioridad nacional\" por ir ",
-      "score": 4.69,
+      "title": "DOCUMENTO | Consulta el pacto íntegro entre PP y Vox en Aragón",
+      "score": 5.53,
       "words": [
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "urgente",
-          "score": -1
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP intenta acotar la “prioridad nacional” de su pacto con Vox para no contagi",
-      "score": 5.05,
-      "words": [
-        {
-          "word": "viva",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "legalmente",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Primero los españoles, claro que sí\": Vox saca pecho de la 'prioridad nacional'",
-      "score": 5.19,
-      "words": [
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "favor",
+          "word": "apoyo",
           "score": 2
         },
         {
-          "word": "claro",
+          "word": "permitir",
           "score": 1
         },
         {
-          "word": "oportunidades",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Fiscalía pide el archivo de la causa contra Begoña Gómez: “No hay delito. La ",
-      "score": 3.98,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "inaceptable",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Hacienda concluye que Aldama defraudó 2,4 millones con las mascarillas y le atri",
-      "score": 4.89,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "impuesto",
+          "word": "imponer",
           "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-11T18:40:31Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-04-11T19:33:03Z",
       "score": 4.81
@@ -1067,6 +1075,10 @@
     {
       "timestamp": "2026-04-22T18:00:17Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-04-22T20:02:57Z",
+      "score": 4.79
     }
   ]
 }

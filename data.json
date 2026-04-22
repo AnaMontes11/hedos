@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-22T09:17:46Z",
-  "global_score": 4.6,
-  "articles_scored": 91,
-  "words_matched": 301,
+  "generated": "2026-04-22T11:02:31Z",
+  "global_score": 4.55,
+  "articles_scored": 95,
+  "words_matched": 291,
   "top_negative": [
     {
       "word": "negro",
@@ -33,14 +33,14 @@
       "score": -4
     },
     {
-      "word": "advertencia",
+      "word": "crisis",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
+      "word": "victorias",
+      "score": 4
     },
     {
       "word": "ganador",
@@ -55,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "leal",
       "score": 3
     },
     {
@@ -63,100 +63,28 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "bonito",
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "visionario",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.62,
-    "elDiario.es": 4.94,
-    "El Mundo": 4.69,
-    "ABC": 5.71,
-    "El Confidencial": 4.39,
-    "BBC Mundo": 4.18,
+    "El País": 4.89,
+    "elDiario.es": 4.98,
+    "El Mundo": 4.38,
+    "ABC": 5.33,
+    "El Confidencial": 4.58,
+    "BBC Mundo": 4.08,
     "France 24 ES": 3.97,
-    "La Nación AR": 4.98,
+    "La Nación AR": 4.51,
     "La Jornada MX": 4.2,
     "Desinformémonos": 4.54,
     "Resumen Latinoam.": 4.34
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Do",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump prorroga el alto el fuego hasta que Irán presente una propuesta y concluya",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Repsol, Moeve y BP solo garantizan el  combustible de aviación hasta antes del v",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        },
-        {
-          "word": "suficiente",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los precios bajo cero de la electricidad y la guerra ponen contra las cuerdas a ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "Última hora de la actualidad política, en directo | Vox, en la investidura de Gu",
@@ -173,6 +101,66 @@
         {
           "word": "legal",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Junts reclama a Sánchez elecciones tras aprobar la regularización de inmigrantes",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "incompetencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
+      "score": 4.56,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "atacado",
+          "score": -1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los precios bajo cero de la electricidad y la guerra ponen contra las cuerdas a ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -234,8 +222,31 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Bruselas renuncia a recomendar el teletrabajo obligatorio en su lista de medidas",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "renuncia",
+          "score": -1
+        },
+        {
+          "word": "recomendar",
+          "score": 2
+        },
+        {
+          "word": "obligatorio",
+          "score": -1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
-      "title": "Junts da un paso más en su choque con el Gobierno y le pide a Sánchez que convoq",
+      "title": "Junts da un paso más en su choque con el Gobierno y pide a Sánchez que convoque ",
       "score": 4.61,
       "words": [
         {
@@ -316,6 +327,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Bustinduy manda una carta a Feijóo para que apoye la prórroga de los alquileres:",
+      "score": 6.0,
+      "words": [
+        {
+          "word": "querido",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "viva",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Felipe González y el hartazgo",
       "score": 4.11,
       "words": [
@@ -367,67 +405,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Primero los españoles, claro que sí\": Vox saca pecho de la 'prioridad nacional'",
-      "score": 5.47,
-      "words": [
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "oportunidades",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Guardiola contra Guardiola: de la tibieza de 2023 a la derechización de 2026, en",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "rechazando",
-          "score": -1
-        },
-        {
-          "word": "batallas",
-          "score": -1
-        },
-        {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "criticado",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-11T13:54:19Z",
-      "score": 5.02
-    },
     {
       "timestamp": "2026-04-11T14:34:36Z",
       "score": 4.96
@@ -1095,6 +1075,10 @@
     {
       "timestamp": "2026-04-22T09:17:46Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-04-22T11:02:31Z",
+      "score": 4.55
     }
   ]
 }

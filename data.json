@@ -1,19 +1,15 @@
 {
-  "generated": "2026-04-22T15:10:44Z",
-  "global_score": 4.84,
-  "articles_scored": 93,
-  "words_matched": 278,
+  "generated": "2026-04-22T16:56:17Z",
+  "global_score": 4.81,
+  "articles_scored": 97,
+  "words_matched": 266,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "advertencias",
       "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -45,6 +45,14 @@
     {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "premio",
+      "score": 3
     },
     {
       "word": "leal",
@@ -61,30 +69,49 @@
     {
       "word": "celebra",
       "score": 3
-    },
-    {
-      "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "premios",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.07,
-    "elDiario.es": 5.01,
+    "El País": 5.28,
+    "elDiario.es": 4.95,
     "El Mundo": 4.87,
-    "ABC": 5.52,
+    "ABC": 5.75,
     "El Confidencial": 4.96,
-    "BBC Mundo": 4.28,
-    "France 24 ES": 4.13,
-    "La Nación AR": 5.34,
+    "BBC Mundo": 4.15,
+    "France 24 ES": 4.08,
+    "La Nación AR": 4.5,
     "La Jornada MX": 4.69,
     "Desinformémonos": 4.54,
-    "Resumen Latinoam.": 5.0
+    "Resumen Latinoam.": 4.98
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | El PP da a Vox tres consejer",
+      "score": 5.96,
+      "words": [
+        {
+          "word": "alegría",
+          "score": 4
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "perdido",
+          "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El PP tumba en el Congreso la moción de Vox sobre la “prioridad nacional” en el ",
@@ -93,21 +120,6 @@
         {
           "word": "tumba",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PP y Vox alcanzan un pacto de gobierno en Aragón para investir al popular Jor",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
         }
       ]
     },
@@ -177,36 +189,39 @@
     },
     {
       "source": "El País",
-      "title": "Por qué el rechazo de Zohran Mamdani a acudir a la Gala Met es un desprecio hist",
-      "score": 4.52,
+      "title": "Un robot entrenado con IA derrota a una jugadora de élite de ping‑pong",
+      "score": 5.0,
       "words": [
         {
-          "word": "desprecio",
-          "score": -2
-        },
-        {
-          "word": "invitación",
-          "score": 1
-        },
-        {
-          "word": "moda",
-          "score": -2
+          "word": "realizar",
+          "score": 2
         },
         {
           "word": "tiempo",
           "score": -2
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El exgerente del PSOE descarta que Ábalos y su asesor recibieran del partido din",
+      "score": 6.6,
+      "words": [
         {
-          "word": "honor",
+          "word": "rescate",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "‘Cara al show’: Marc Giró, los prefachas y un poco lo de siempre",
-      "score": 7.4,
+      "title": "Está todo pagado",
+      "score": 7.0,
       "words": [
+        {
+          "word": "pagado",
+          "score": 2
+        },
         {
           "word": "mejor",
           "score": 3
@@ -214,36 +229,17 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "El debate | ¿Ha dañado Trump definitivamente la autoridad de Estados Unidos?",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "exageraciones",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "La extrema derecha volverá a gobernar en Aragón: PP y Vox anuncian un acuerdo qu",
-      "score": 5.76,
+      "title": "El PP y Vox sellan su pacto en Aragón: la extrema derecha volverá al Gobierno e ",
+      "score": 5.53,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "impone",
+          "score": -1
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "impone",
+          "score": -1
         },
         {
           "word": "cargos",
@@ -261,7 +257,7 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP rechaza en el Congreso la moción de Vox sobre \"prioridad nacional\" tras pa",
+      "title": "El PP rechaza en el Congreso la moción de Vox sobre \"prioridad nacional\" por ir ",
       "score": 4.69,
       "words": [
         {
@@ -342,28 +338,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Fiscalía pide el archivo de la causa contra Begoña Gómez tras la propuesta de",
-      "score": 4.32,
+      "title": "La Fiscalía pide el archivo de la causa contra Begoña Gómez: “No hay delito. La ",
+      "score": 3.98,
       "words": [
         {
-          "word": "infracción",
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "critica",
           "score": -2
+        },
+        {
+          "word": "criminal",
+          "score": -3
         },
         {
           "word": "inaceptable",
           "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "superior",
-          "score": 2
         }
       ]
     },
@@ -396,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-11T16:34:27Z",
-      "score": 4.92
-    },
     {
       "timestamp": "2026-04-11T17:29:08Z",
       "score": 4.95
@@ -1067,6 +1059,10 @@
     {
       "timestamp": "2026-04-22T15:10:44Z",
       "score": 4.84
+    },
+    {
+      "timestamp": "2026-04-22T16:56:17Z",
+      "score": 4.81
     }
   ]
 }

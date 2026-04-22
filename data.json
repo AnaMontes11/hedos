@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-22T05:23:21Z",
-  "global_score": 4.56,
-  "articles_scored": 90,
-  "words_matched": 290,
+  "generated": "2026-04-22T07:28:56Z",
+  "global_score": 4.6,
+  "articles_scored": 94,
+  "words_matched": 309,
   "top_negative": [
     {
       "word": "negro",
@@ -21,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "fraudulento",
+      "score": -4
+    },
+    {
       "word": "tortura",
       "score": -4
     },
@@ -31,10 +35,6 @@
     {
       "word": "terror",
       "score": -3
-    },
-    {
-      "word": "racismo",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,7 +43,7 @@
       "score": 5
     },
     {
-      "word": "milagro",
+      "word": "victorias",
       "score": 4
     },
     {
@@ -59,27 +59,27 @@
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "alabanzas",
       "score": 3
     },
     {
       "word": "leal",
       "score": 3
-    },
-    {
-      "word": "agradable",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.21,
-    "elDiario.es": 4.87,
+    "El País": 4.7,
+    "elDiario.es": 4.93,
     "El Mundo": 5.13,
-    "ABC": 5.21,
-    "El Confidencial": 4.72,
+    "ABC": 5.19,
+    "El Confidencial": 4.71,
     "BBC Mundo": 4.18,
     "France 24 ES": 3.97,
-    "La Nación AR": 4.67,
+    "La Nación AR": 4.49,
     "La Jornada MX": 4.2,
     "Desinformémonos": 4.54,
     "Resumen Latinoam.": 4.34
@@ -87,26 +87,15 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Trump prorroga el alto el fuego hasta que Irán presente una propuesta y se negoc",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El",
-      "score": 4.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 4.47,
       "words": [
         {
           "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "carga",
           "score": -2
         },
         {
@@ -125,7 +114,22 @@
     },
     {
       "source": "El País",
-      "title": "Repsol, Moeve y BP garantizan el suministro de combustible de aviación solo hast",
+      "title": "Trump prorroga el alto el fuego hasta que Irán presente una propuesta y concluya",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Repsol, Moeve y BP solo garantizan el  combustible de aviación hasta antes del v",
       "score": 3.4,
       "words": [
         {
@@ -167,6 +171,32 @@
     },
     {
       "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Feijóo reprocha la falta de ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los precios bajo cero de la electricidad y la guerra ponen contra las cuerdas a ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El antiguo CEO de Air Europa niega pagos a Ábalos y rechaza que sus gestiones fa",
       "score": 4.84,
       "words": [
@@ -194,46 +224,31 @@
     },
     {
       "source": "El País",
-      "title": "Donald Trump es... ¿rapero? Los códigos de hip hop que explican al hombre más po",
-      "score": 6.2,
+      "title": "¿Conoce usted a los acusados? ¿Le apetece conocerlos?",
+      "score": 5.0,
       "words": [
         {
-          "word": "poderoso",
-          "score": 2
+          "word": "nervioso",
+          "score": -2
         },
         {
-          "word": "comparte",
+          "word": "saludado",
+          "score": 1
+        },
+        {
+          "word": "saludo",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "PP y Vox, abusones contra los inmigrantes",
-      "score": 2.6,
+      "title": "‘Cara al show’: Marc Giró, los prefachas y un poco lo de siempre",
+      "score": 7.4,
       "words": [
         {
-          "word": "racismo",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El debate | ¿Ha dañado Trump definitivamente la autoridad de Estados Unidos?",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "exageraciones",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
@@ -374,64 +389,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump anuncia que amplía el alto el fuego a petición de Pakistán y \"hasta que Ir",
-      "score": 4.69,
+      "title": "El PP intenta acotar la “prioridad nacional” de su pacto con Vox para no contagi",
+      "score": 5.05,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "unificada",
+          "word": "viva",
           "score": 1
         },
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "unificada",
+          "word": "legalmente",
           "score": 1
         },
         {
-          "word": "ataque",
+          "word": "evitar",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "De qué habla Netanyahu cuando se refiere al ‘Gran Israel’ y por qué es mucho más",
-      "score": 4.2,
-      "words": [
+        },
         {
-          "word": "guerra",
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-11T11:28:14Z",
-      "score": 5.02
-    },
     {
       "timestamp": "2026-04-11T12:53:03Z",
       "score": 4.96
@@ -1099,6 +1083,10 @@
     {
       "timestamp": "2026-04-22T05:23:21Z",
       "score": 4.56
+    },
+    {
+      "timestamp": "2026-04-22T07:28:56Z",
+      "score": 4.6
     }
   ]
 }

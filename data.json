@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-22T07:28:56Z",
+  "generated": "2026-04-22T09:17:46Z",
   "global_score": 4.6,
-  "articles_scored": 94,
-  "words_matched": 309,
+  "articles_scored": 91,
+  "words_matched": 301,
   "top_negative": [
     {
       "word": "negro",
@@ -33,7 +33,7 @@
       "score": -4
     },
     {
-      "word": "terror",
+      "word": "advertencia",
       "score": -3
     }
   ],
@@ -41,10 +41,6 @@
     {
       "word": "excepcional",
       "score": 5
-    },
-    {
-      "word": "victorias",
-      "score": 4
     },
     {
       "word": "ganador",
@@ -63,7 +59,11 @@
       "score": 3
     },
     {
-      "word": "alabanzas",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "emoción",
       "score": 3
     },
     {
@@ -72,14 +72,14 @@
     }
   ],
   "per_source": {
-    "El País": 4.7,
-    "elDiario.es": 4.93,
-    "El Mundo": 5.13,
-    "ABC": 5.19,
-    "El Confidencial": 4.71,
+    "El País": 4.62,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.69,
+    "ABC": 5.71,
+    "El Confidencial": 4.39,
     "BBC Mundo": 4.18,
     "France 24 ES": 3.97,
-    "La Nación AR": 4.49,
+    "La Nación AR": 4.98,
     "La Jornada MX": 4.2,
     "Desinformémonos": 4.54,
     "Resumen Latinoam.": 4.34
@@ -87,20 +87,20 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.47,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Do",
+      "score": 4.73,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "carga",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "fuego",
-          "score": -2
+          "word": "autoridad",
+          "score": 1
         },
         {
           "word": "asegura",
@@ -148,44 +148,6 @@
     },
     {
       "source": "El País",
-      "title": "La ciudad de Tiro desconfía de la tregua con Israel: “Quieren llenarnos el coraz",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "terror",
-          "score": -3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Feijóo reprocha la falta de ",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "alcanzado",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Los precios bajo cero de la electricidad y la guerra ponen contra las cuerdas a ",
       "score": 3.4,
       "words": [
@@ -197,47 +159,47 @@
     },
     {
       "source": "El País",
-      "title": "El antiguo CEO de Air Europa niega pagos a Ábalos y rechaza que sus gestiones fa",
-      "score": 4.84,
+      "title": "Última hora de la actualidad política, en directo | Vox, en la investidura de Gu",
+      "score": 5.53,
       "words": [
         {
-          "word": "niega",
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
+          "word": "legal",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "¿Conoce usted a los acusados? ¿Le apetece conocerlos?",
-      "score": 5.0,
+      "title": "Por qué el rechazo de Zohran Mamdani a acudir a la Gala Met es un desprecio hist",
+      "score": 4.52,
       "words": [
         {
-          "word": "nervioso",
+          "word": "desprecio",
           "score": -2
         },
         {
-          "word": "saludado",
+          "word": "invitación",
           "score": 1
         },
         {
-          "word": "saludo",
-          "score": 1
+          "word": "moda",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "honor",
+          "score": 2
         }
       ]
     },
@@ -249,6 +211,52 @@
         {
           "word": "mejor",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El debate | ¿Ha dañado Trump definitivamente la autoridad de Estados Unidos?",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "autoridad",
+          "score": 1
+        },
+        {
+          "word": "exageraciones",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Junts da un paso más en su choque con el Gobierno y le pide a Sánchez que convoq",
+      "score": 4.61,
+      "words": [
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "boicotear",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
         }
       ]
     },
@@ -272,33 +280,6 @@
         {
           "word": "aprobado",
           "score": 2
-        },
-        {
-          "word": "aprobado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Claves del Plan Estatal de Vivienda aprobado por el Gobierno que pretende blinda",
-      "score": 5.3,
-      "words": [
-        {
-          "word": "aprobado",
-          "score": 2
-        },
-        {
-          "word": "aprobado",
-          "score": 2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "impuesto",
-          "score": -1
         },
         {
           "word": "aprobado",
@@ -389,37 +370,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP intenta acotar la “prioridad nacional” de su pacto con Vox para no contagi",
-      "score": 5.05,
+      "title": "\"Primero los españoles, claro que sí\": Vox saca pecho de la 'prioridad nacional'",
+      "score": 5.47,
       "words": [
         {
-          "word": "viva",
+          "word": "claro",
           "score": 1
         },
         {
-          "word": "legalmente",
+          "word": "claro",
           "score": 1
         },
         {
-          "word": "evitar",
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "oportunidades",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Guardiola contra Guardiola: de la tibieza de 2023 a la derechización de 2026, en",
+      "score": 4.62,
+      "words": [
+        {
+          "word": "rechazando",
           "score": -1
         },
         {
-          "word": "puesto",
-          "score": -2
+          "word": "batallas",
+          "score": -1
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "sospecha",
+          "score": -1
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "criticado",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-11T12:53:03Z",
-      "score": 4.96
-    },
     {
       "timestamp": "2026-04-11T13:54:19Z",
       "score": 5.02
@@ -1086,6 +1090,10 @@
     },
     {
       "timestamp": "2026-04-22T07:28:56Z",
+      "score": 4.6
+    },
+    {
+      "timestamp": "2026-04-22T09:17:46Z",
       "score": 4.6
     }
   ]

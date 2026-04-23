@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-23T09:25:07Z",
-  "global_score": 4.41,
-  "articles_scored": 92,
-  "words_matched": 299,
+  "generated": "2026-04-23T11:05:27Z",
+  "global_score": 4.47,
+  "articles_scored": 91,
+  "words_matched": 249,
   "top_negative": [
     {
       "word": "negro",
@@ -21,12 +21,12 @@
       "score": -4
     },
     {
-      "word": "tortura",
-      "score": -4
+      "word": "destruido",
+      "score": -3
     },
     {
-      "word": "torturas",
-      "score": -4
+      "word": "falso",
+      "score": -3
     },
     {
       "word": "crisis",
@@ -38,10 +38,6 @@
     }
   ],
   "top_positive": [
-    {
-      "word": "ganador",
-      "score": 4
-    },
     {
       "word": "divertido",
       "score": 4
@@ -59,27 +55,31 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "asombra",
+      "word": "excelencia",
       "score": 3
     },
     {
       "word": "bueno",
       "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.22,
-    "elDiario.es": 4.69,
-    "El Mundo": 3.65,
-    "ABC": 4.82,
-    "El Confidencial": 4.85,
-    "BBC Mundo": 3.93,
-    "France 24 ES": 4.21,
-    "La Nación AR": 4.81,
+    "El País": 4.07,
+    "elDiario.es": 4.76,
+    "El Mundo": 3.64,
+    "ABC": 4.45,
+    "El Confidencial": 4.59,
+    "BBC Mundo": 4.28,
+    "France 24 ES": 3.81,
+    "La Nación AR": 6.25,
     "La Jornada MX": 4.69,
     "Desinformémonos": 4.67,
     "Resumen Latinoam.": 3.97
@@ -87,20 +87,43 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Juicio de Kitchen, en directo | Rajoy niega la contabilidad B del partido y habe",
-      "score": 5.53,
+      "title": "Rajoy apoya a su cúpula de Interior en el juicio de Kitchen: “Estoy convencido d",
+      "score": 3.4,
       "words": [
+        {
+          "word": "convencido",
+          "score": -1
+        },
         {
           "word": "niega",
           "score": -2
         },
         {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "destruido",
+          "score": -3
+        },
+        {
+          "word": "falso",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Juicio de Kitchen, en directo | Cospedal asegura que recurrió a Villarejo para c",
+      "score": 5.0,
+      "words": [
+        {
           "word": "asegura",
           "score": 2
         },
         {
-          "word": "ayuda",
-          "score": 2
+          "word": "niega",
+          "score": -2
         }
       ]
     },
@@ -155,11 +178,11 @@
     },
     {
       "source": "El País",
-      "title": "Así quiere el PSOE desbancar a Ayuso: más Sánchez y la defensa de la clase media",
+      "title": "Ayuso ataca el nuevo decreto para los inmigrantes: “Cualquier delincuente de med",
       "score": 3.4,
       "words": [
         {
-          "word": "difícil",
+          "word": "delincuente",
           "score": -2
         }
       ]
@@ -215,6 +238,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Rajoy niega que destruyera pruebas de la caja B del PP y asegura ante el tribuna",
+      "score": 4.85,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "negado",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El efecto de García Castellón en Kitchen, cinco años después: Rajoy y Cospedal p",
       "score": 4.45,
       "words": [
@@ -237,6 +287,60 @@
         {
           "word": "acusaciones",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Cospedal declara ante el tribunal de Kitchen que no recuerda la conversación en ",
+      "score": 5.47,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "“Yo me llamo Mariano Rajoy y luego cada uno me llama como quiere”: la declaració",
+      "score": 3.63,
+      "words": [
+        {
+          "word": "negado",
+          "score": -2
+        },
+        {
+          "word": "destruido",
+          "score": -3
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "frases",
+          "score": -2
+        },
+        {
+          "word": "falso",
+          "score": -3
         }
       ]
     },
@@ -293,121 +397,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las claves del acuerdo en Aragón entre PP y Vox: no a los menores migrantes, el ",
-      "score": 4.98,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "duro",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "obligado",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Azcón dice que en caso de urgencia se atenderá a los migrantes pese a la \"priori",
-      "score": 4.58,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "aprobado",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "irresponsable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La 'prioridad nacional', la obsesión de Jean-Marie Le Pen que ahora quieren apli",
-      "score": 5.17,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "aumentar",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "animar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Vivienda: derecho o negocio",
-      "score": 5.01,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "aversión",
-          "score": -3
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "olvidado",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T07:10:23Z",
-      "score": 4.98
-    },
     {
       "timestamp": "2026-04-12T08:43:57Z",
       "score": 4.83
@@ -1075,6 +1067,10 @@
     {
       "timestamp": "2026-04-23T09:25:07Z",
       "score": 4.41
+    },
+    {
+      "timestamp": "2026-04-23T11:05:27Z",
+      "score": 4.47
     }
   ]
 }

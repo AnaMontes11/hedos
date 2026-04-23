@@ -1,12 +1,20 @@
 {
-  "generated": "2026-04-23T02:26:12Z",
-  "global_score": 4.72,
+  "generated": "2026-04-23T05:27:49Z",
+  "global_score": 4.46,
   "articles_scored": 92,
-  "words_matched": 248,
+  "words_matched": 305,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "fraudulento",
+      "score": -4
+    },
+    {
+      "word": "fraude",
+      "score": -4
     },
     {
       "word": "culo",
@@ -17,15 +25,7 @@
       "score": -4
     },
     {
-      "word": "matar",
-      "score": -3
-    },
-    {
-      "word": "destruir",
-      "score": -3
-    },
-    {
-      "word": "vil",
+      "word": "peor",
       "score": -3
     },
     {
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -43,16 +43,8 @@
       "score": 4
     },
     {
-      "word": "ganar",
+      "word": "divertido",
       "score": 4
-    },
-    {
-      "word": "alegría",
-      "score": 4
-    },
-    {
-      "word": "premio",
-      "score": 3
     },
     {
       "word": "leal",
@@ -63,23 +55,31 @@
       "score": 3
     },
     {
-      "word": "exitoso",
+      "word": "cortés",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "fiel",
+      "score": 3
+    },
+    {
+      "word": "bonito",
+      "score": 3
+    },
+    {
+      "word": "diversión",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.55,
-    "elDiario.es": 4.9,
+    "El País": 4.37,
+    "elDiario.es": 4.81,
     "El Mundo": 3.83,
-    "ABC": 5.33,
-    "El Confidencial": 4.65,
-    "BBC Mundo": 4.03,
-    "France 24 ES": 4.92,
-    "La Nación AR": 5.03,
+    "ABC": 4.92,
+    "El Confidencial": 4.38,
+    "BBC Mundo": 4.01,
+    "France 24 ES": 4.47,
+    "La Nación AR": 4.4,
     "La Jornada MX": 4.69,
     "Desinformémonos": 4.67,
     "Resumen Latinoam.": 4.31
@@ -87,105 +87,229 @@
   "articles": [
     {
       "source": "El País",
-      "title": "El PP tumba en el Congreso la moción de Vox sobre la “prioridad nacional” en el ",
+      "title": "Cataluña desplegará ‘mossos’ de paisano en los institutos para reducir la confli",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "realizar",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Rajoy se enfrenta en el juicio de Kitchen a las acusaciones de su extesorero Bár",
       "score": 3.4,
       "words": [
         {
-          "word": "tumba",
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "negar",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Guardiola, investida presidenta de Extremadura: “No voy a pedir perdón por gober",
-      "score": 6.6,
+      "title": "Así quiere el PSOE desbancar a Ayuso: más Sánchez y la defensa de la clase media",
+      "score": 3.4,
       "words": [
         {
-          "word": "perdón",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
+          "word": "difícil",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "“Yo llamo a las cosas por su nombre: prioridad nacional”, proclama satisfecho el",
-      "score": 6.6,
+      "title": "Han Kang: “¿Seré yo la rara al no sentir vértigo después del Nobel?”",
+      "score": 5.4,
       "words": [
         {
-          "word": "satisfecho",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La destitución del secretario de la Marina de EE UU por diferencias con Hegseth ",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mayor",
+          "word": "amor",
           "score": 3
+        },
+        {
+          "word": "colisiones",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Irán captura dos barcos que intentaban cruzar el estrecho de Ormuz",
-      "score": 4.2,
+      "title": "Un país lleno de libros",
+      "score": 3.4,
       "words": [
         {
-          "word": "tensión",
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las 50 recomendaciones de ‘Babelia’ para el Día del Libro de 2026",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "gustos",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Juicio exprés por la muerte de Iliass Tahiri, el joven de 18 años asfixiado hace",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "polémico",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El alcance de la \"prioridad nacional\" pactada por PP y Vox en Extremadura y Arag",
+      "score": 5.13,
+      "words": [
+        {
+          "word": "logra",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "adecuado",
+          "score": 1
+        },
+        {
+          "word": "imponer",
+          "score": -1
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las claves del acuerdo en Aragón entre PP y Vox: no a los menores migrantes, el ",
+      "score": 4.98,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "obligado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "DOCUMENTO | Consulta el pacto íntegro entre PP y Vox en Aragón",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "imponer",
           "score": -1
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Hallada muerta bajo los escombros una periodista alcanzada por los bombardeos de",
-      "score": 4.6,
+      "source": "elDiario.es",
+      "title": "La 'prioridad nacional', la obsesión de Jean-Marie Le Pen que ahora quieren apli",
+      "score": 5.17,
       "words": [
         {
-          "word": "salvar",
-          "score": 2
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "matar",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un robot entrenado con IA derrota a una jugadora de élite de ping‑pong",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "realizar",
-          "score": 2
+          "word": "mejor",
+          "score": 3
         },
         {
-          "word": "tiempo",
+          "word": "aumentar",
+          "score": 1
+        },
+        {
+          "word": "solo",
           "score": -2
+        },
+        {
+          "word": "animar",
+          "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "El exgerente del PSOE descarta que Ábalos y su asesor recibieran del partido din",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "La \"prioridad nacional\" de Vox: ser más racista",
+      "score": 4.44,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
+          "word": "racista",
+          "score": -3
+        },
+        {
+          "word": "racista",
+          "score": -3
+        },
+        {
+          "word": "solución",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
         }
       ]
     },
@@ -218,172 +342,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Fiscalía pide el archivo de la causa contra Begoña Gómez: “No hay delito. La ",
-      "score": 3.93,
+      "title": "🎙 PODCAST | M. Rajoy según Luis Bárcenas",
+      "score": 4.73,
       "words": [
         {
-          "word": "delito",
-          "score": -3
+          "word": "negro",
+          "score": -5
         },
         {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "critica",
+          "word": "sentencia",
           "score": -2
         },
         {
-          "word": "criminal",
+          "word": "robar",
+          "score": -2
+        },
+        {
+          "word": "destruir",
           "score": -3
         },
         {
-          "word": "inaceptable",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Hacienda concluye que Aldama defraudó 2,4 millones con las mascarillas y le atri",
-      "score": 4.89,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "impuesto",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El exgerente del PSOE niega que desde el partido se abonaran gastos a Ábalos con",
-      "score": 4.82,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "rescate",
+          "word": "importante",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El PP y Vox sellan su pacto en Aragón: la extrema derecha volverá al Gobierno e ",
-      "score": 5.53,
+      "title": "Carlos Cuerpo, el hombre tranquilo que pone nervioso al PP",
+      "score": 4.23,
       "words": [
         {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Alegría, a Azcón: \"Convocó elecciones anticipadas para ganar autonomía y estabil",
-      "score": 5.03,
-      "words": [
-        {
-          "word": "alegría",
-          "score": 4
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        },
-        {
-          "word": "alegría",
-          "score": 4
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "DOCUMENTO | Consulta el pacto íntegro entre PP y Vox en Aragón",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "apoyo",
+          "word": "tranquilo",
           "score": 2
         },
         {
-          "word": "permitir",
-          "score": 1
+          "word": "nervioso",
+          "score": -2
         },
         {
-          "word": "imponer",
+          "word": "tranquilo",
+          "score": 2
+        },
+        {
+          "word": "nervioso",
+          "score": -2
+        },
+        {
+          "word": "trampa",
           "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-11T23:31:12Z",
-      "score": 5.01
-    },
     {
       "timestamp": "2026-04-12T02:23:11Z",
       "score": 5.0
@@ -1051,6 +1063,10 @@
     {
       "timestamp": "2026-04-23T02:26:12Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-04-23T05:27:49Z",
+      "score": 4.46
     }
   ]
 }

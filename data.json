@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-23T05:27:49Z",
-  "global_score": 4.46,
-  "articles_scored": 92,
-  "words_matched": 305,
+  "generated": "2026-04-23T07:47:40Z",
+  "global_score": 4.37,
+  "articles_scored": 91,
+  "words_matched": 295,
   "top_negative": [
     {
       "word": "negro",
@@ -21,8 +21,8 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
+      "word": "crisis",
+      "score": -3
     },
     {
       "word": "peor",
@@ -33,13 +33,13 @@
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "racista",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "ganador",
       "score": 4
     },
     {
@@ -55,44 +55,67 @@
       "score": 3
     },
     {
-      "word": "cortés",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "fiel",
+      "word": "asombra",
       "score": 3
     },
     {
-      "word": "bonito",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "diversión",
+      "word": "suerte",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.37,
-    "elDiario.es": 4.81,
+    "El País": 4.46,
+    "elDiario.es": 4.85,
     "El Mundo": 3.83,
-    "ABC": 4.92,
-    "El Confidencial": 4.38,
+    "ABC": 4.6,
+    "El Confidencial": 4.94,
     "BBC Mundo": 4.01,
-    "France 24 ES": 4.47,
-    "La Nación AR": 4.4,
+    "France 24 ES": 3.99,
+    "La Nación AR": 4.27,
     "La Jornada MX": 4.69,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.31
+    "Resumen Latinoam.": 3.85
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Cataluña desplegará ‘mossos’ de paisano en los institutos para reducir la confli",
-      "score": 6.6,
+      "title": "La destitución del secretario de la Armada de EE UU por diferencias con Hegseth ",
+      "score": 7.4,
       "words": [
         {
-          "word": "realizar",
-          "score": 2
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La última amenaza incumplida de Trump en Irán ahonda su crisis interna en Estado",
+      "score": 3.2,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "incumplida",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "conflicto",
+          "score": -2
         }
       ]
     },
@@ -160,21 +183,6 @@
         {
           "word": "gustos",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Juicio exprés por la muerte de Iliass Tahiri, el joven de 18 años asfixiado hace",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "polémico",
-          "score": -2
         }
       ]
     },
@@ -261,6 +269,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La \"prioridad nacional\" de Vox: ser más racista",
+      "score": 4.44,
+      "words": [
+        {
+          "word": "racista",
+          "score": -3
+        },
+        {
+          "word": "racista",
+          "score": -3
+        },
+        {
+          "word": "solución",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La 'prioridad nacional', la obsesión de Jean-Marie Le Pen que ahora quieren apli",
       "score": 5.17,
       "words": [
@@ -288,28 +323,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La \"prioridad nacional\" de Vox: ser más racista",
-      "score": 4.44,
+      "title": "Vivienda: derecho o negocio",
+      "score": 5.01,
       "words": [
         {
-          "word": "racista",
-          "score": -3
-        },
-        {
-          "word": "racista",
-          "score": -3
-        },
-        {
-          "word": "solución",
+          "word": "derecho",
           "score": 1
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "derecho",
+          "score": 1
         },
         {
-          "word": "fracaso",
-          "score": -2
+          "word": "aversión",
+          "score": -3
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "olvidado",
+          "score": -1
         }
       ]
     },
@@ -366,40 +401,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Carlos Cuerpo, el hombre tranquilo que pone nervioso al PP",
-      "score": 4.23,
-      "words": [
-        {
-          "word": "tranquilo",
-          "score": 2
-        },
-        {
-          "word": "nervioso",
-          "score": -2
-        },
-        {
-          "word": "tranquilo",
-          "score": 2
-        },
-        {
-          "word": "nervioso",
-          "score": -2
-        },
-        {
-          "word": "trampa",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T02:23:11Z",
-      "score": 5.0
-    },
     {
       "timestamp": "2026-04-12T05:21:23Z",
       "score": 4.78
@@ -1067,6 +1071,10 @@
     {
       "timestamp": "2026-04-23T05:27:49Z",
       "score": 4.46
+    },
+    {
+      "timestamp": "2026-04-23T07:47:40Z",
+      "score": 4.37
     }
   ]
 }

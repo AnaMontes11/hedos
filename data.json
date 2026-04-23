@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-23T13:23:02Z",
-  "global_score": 4.42,
-  "articles_scored": 96,
-  "words_matched": 263,
+  "generated": "2026-04-23T15:50:23Z",
+  "global_score": 4.49,
+  "articles_scored": 95,
+  "words_matched": 257,
   "top_negative": [
     {
       "word": "negro",
@@ -29,29 +29,33 @@
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "racismo",
       "score": -3
     },
     {
-      "word": "racismo",
+      "word": "muerto",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "milagro",
+      "score": 4
+    },
+    {
       "word": "divertido",
       "score": 4
     },
     {
-      "word": "leal",
+      "word": "perfectamente",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "placer",
       "score": 3
     },
     {
-      "word": "vibrante",
+      "word": "súper",
       "score": 3
     },
     {
@@ -65,24 +69,20 @@
     {
       "word": "premio",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.4,
-    "elDiario.es": 4.76,
-    "El Mundo": 4.49,
-    "ABC": 5.19,
-    "El Confidencial": 4.56,
-    "BBC Mundo": 4.01,
-    "France 24 ES": 3.93,
-    "La Nación AR": 4.95,
+    "El País": 3.65,
+    "elDiario.es": 4.92,
+    "El Mundo": 4.79,
+    "ABC": 5.8,
+    "El Confidencial": 4.67,
+    "BBC Mundo": 4.16,
+    "France 24 ES": 3.92,
+    "La Nación AR": 4.28,
     "La Jornada MX": 3.85,
-    "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.57
+    "Desinformémonos": 4.29,
+    "Resumen Latinoam.": 4.76
   },
   "articles": [
     {
@@ -114,12 +114,31 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "title": "Cospedal alega que solo se reunía con Villarejo como “secretaria general del PP”",
       "score": 3.4,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.36,
       "words": [
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         },
         {
           "word": "acusado",
@@ -143,40 +162,6 @@
         {
           "word": "bloqueo",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La última amenaza incumplida de Trump en Irán ahonda su crisis interna en Estado",
-      "score": 3.2,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "incumplida",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Ayuso ataca el nuevo decreto para los inmigrantes: “Cualquier delincuente de med",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "delincuente",
-          "score": -2
         }
       ]
     },
@@ -234,6 +219,17 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Gibraltar recibió una avalancha de solicitudes de residencia tras acordarse la d",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "suspender",
+          "score": -1
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Rajoy niega que destruyera pruebas de la caja B del PP y asegura ante el tribuna",
       "score": 4.85,
@@ -257,60 +253,6 @@
         {
           "word": "ilegal",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El efecto de García Castellón en Kitchen, cinco años después: Rajoy y Cospedal p",
-      "score": 4.45,
-      "words": [
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cospedal declara ante el tribunal de Kitchen que no recuerda la conversación en ",
-      "score": 5.47,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
         }
       ]
     },
@@ -370,6 +312,60 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Cospedal declara ante el tribunal de Kitchen que no recuerda la conversación en ",
+      "score": 5.47,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El efecto de García Castellón en Kitchen, cinco años después: Rajoy y Cospedal p",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El alcance de la \"prioridad nacional\" pactada por PP y Vox en Extremadura y Arag",
       "score": 5.13,
       "words": [
@@ -424,10 +420,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T09:42:30Z",
-      "score": 4.95
-    },
     {
       "timestamp": "2026-04-12T10:36:03Z",
       "score": 4.75
@@ -1095,6 +1087,10 @@
     {
       "timestamp": "2026-04-23T13:23:02Z",
       "score": 4.42
+    },
+    {
+      "timestamp": "2026-04-23T15:50:23Z",
+      "score": 4.49
     }
   ]
 }

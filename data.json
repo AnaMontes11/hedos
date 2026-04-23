@@ -1,12 +1,16 @@
 {
-  "generated": "2026-04-23T07:47:40Z",
-  "global_score": 4.37,
-  "articles_scored": 91,
-  "words_matched": 295,
+  "generated": "2026-04-23T09:25:07Z",
+  "global_score": 4.41,
+  "articles_scored": 92,
+  "words_matched": 299,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "culo",
+      "score": -4
     },
     {
       "word": "fraudulento",
@@ -17,7 +21,11 @@
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "torturas",
       "score": -4
     },
     {
@@ -25,15 +33,7 @@
       "score": -3
     },
     {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "racista",
+      "word": "racismo",
       "score": -3
     }
   ],
@@ -55,7 +55,11 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -63,36 +67,66 @@
       "score": 3
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.46,
-    "elDiario.es": 4.85,
-    "El Mundo": 3.83,
-    "ABC": 4.6,
-    "El Confidencial": 4.94,
-    "BBC Mundo": 4.01,
-    "France 24 ES": 3.99,
-    "La Nación AR": 4.27,
+    "El País": 4.22,
+    "elDiario.es": 4.69,
+    "El Mundo": 3.65,
+    "ABC": 4.82,
+    "El Confidencial": 4.85,
+    "BBC Mundo": 3.93,
+    "France 24 ES": 4.21,
+    "La Nación AR": 4.81,
     "La Jornada MX": 4.69,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 3.85
+    "Resumen Latinoam.": 3.97
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La destitución del secretario de la Armada de EE UU por diferencias con Hegseth ",
+      "title": "Juicio de Kitchen, en directo | Rajoy niega la contabilidad B del partido y habe",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La destitución del secretario de la Armada de Estados Unidos por diferencias con",
       "score": 7.4,
       "words": [
         {
           "word": "mayor",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La ‘flota mosquito’ de Irán lleva al estrecho de Ormuz la guerra de guerrillas",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
         }
       ]
     },
@@ -121,21 +155,6 @@
     },
     {
       "source": "El País",
-      "title": "Rajoy se enfrenta en el juicio de Kitchen a las acusaciones de su extesorero Bár",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "negar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Así quiere el PSOE desbancar a Ayuso: más Sánchez y la defensa de la clase media",
       "score": 3.4,
       "words": [
@@ -147,41 +166,103 @@
     },
     {
       "source": "El País",
-      "title": "Han Kang: “¿Seré yo la rara al no sentir vértigo después del Nobel?”",
-      "score": 5.4,
+      "title": "El Barça, en alerta por Lamine Yamal: tiene una lesión en el isquiotibial de la ",
+      "score": 3.8,
       "words": [
         {
-          "word": "amor",
-          "score": 3
+          "word": "alerta",
+          "score": -1
         },
         {
-          "word": "colisiones",
+          "word": "lesión",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Un país lleno de libros",
-      "score": 3.4,
+      "title": "Carlos Baute, María Corina Machado y el racismo venezolano",
+      "score": 2.6,
       "words": [
         {
-          "word": "solo",
-          "score": -2
+          "word": "racismo",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las 50 recomendaciones de ‘Babelia’ para el Día del Libro de 2026",
-      "score": 5.0,
+      "title": "Morante: de tripas, corazón",
+      "score": 4.0,
       "words": [
         {
-          "word": "críticos",
+          "word": "muerte",
           "score": -2
         },
         {
-          "word": "gustos",
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "gloria",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El efecto de García Castellón en Kitchen, cinco años después: Rajoy y Cospedal p",
+      "score": 4.45,
+      "words": [
+        {
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | M. Rajoy según Luis Bárcenas",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "negro",
+          "score": -5
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "robar",
+          "score": -2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "importante",
           "score": 2
         }
       ]
@@ -242,55 +323,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "DOCUMENTO | Consulta el pacto íntegro entre PP y Vox en Aragón",
-      "score": 5.53,
+      "title": "Azcón dice que en caso de urgencia se atenderá a los migrantes pese a la \"priori",
+      "score": 4.58,
       "words": [
         {
           "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "apoyo",
+          "word": "aprobado",
           "score": 2
-        },
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "imponer",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La \"prioridad nacional\" de Vox: ser más racista",
-      "score": 4.44,
-      "words": [
-        {
-          "word": "racista",
-          "score": -3
-        },
-        {
-          "word": "racista",
-          "score": -3
-        },
-        {
-          "word": "solución",
-          "score": 1
         },
         {
           "word": "solo",
           "score": -2
         },
         {
-          "word": "fracaso",
+          "word": "solo",
           "score": -2
+        },
+        {
+          "word": "irresponsable",
+          "score": 2
         }
       ]
     },
@@ -347,67 +401,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El efecto de García Castellón en Kitchen, cinco años después: Rajoy y Cospedal p",
-      "score": 4.45,
-      "words": [
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | M. Rajoy según Luis Bárcenas",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "robar",
-          "score": -2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "importante",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T05:21:23Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-04-12T07:10:23Z",
       "score": 4.98
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-23T07:47:40Z",
       "score": 4.37
+    },
+    {
+      "timestamp": "2026-04-23T09:25:07Z",
+      "score": 4.41
     }
   ]
 }

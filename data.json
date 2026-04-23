@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-23T21:42:45Z",
-  "global_score": 4.76,
-  "articles_scored": 93,
-  "words_matched": 219,
+  "generated": "2026-04-23T22:40:58Z",
+  "global_score": 4.66,
+  "articles_scored": 96,
+  "words_matched": 221,
   "top_negative": [
     {
       "word": "negro",
@@ -10,10 +10,6 @@
     },
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraudulento",
       "score": -4
     },
     {
@@ -35,12 +31,20 @@
     {
       "word": "racismo",
       "score": -3
+    },
+    {
+      "word": "muerto",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "divertido",
+      "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "premio",
+      "score": 3
     },
     {
       "word": "celebrar",
@@ -59,30 +63,26 @@
       "score": 3
     },
     {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
-    },
-    {
       "word": "perfectamente",
+      "score": 3
+    },
+    {
+      "word": "medalla",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.29,
-    "elDiario.es": 4.81,
+    "elDiario.es": 4.71,
     "El Mundo": 5.4,
-    "ABC": 5.82,
+    "ABC": 5.58,
     "El Confidencial": 4.18,
     "BBC Mundo": 4.88,
-    "France 24 ES": 4.27,
-    "La Nación AR": 4.57,
+    "France 24 ES": 4.37,
+    "La Nación AR": 4.66,
     "La Jornada MX": 3.85,
-    "Desinformémonos": 4.62,
-    "Resumen Latinoam.": 5.35
+    "Desinformémonos": 4.12,
+    "Resumen Latinoam.": 4.96
   },
   "articles": [
     {
@@ -212,6 +212,114 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Trump anuncia que Israel y Líbano han acordado extender el alto el fuego tres se",
+      "score": 4.31,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump dice que el Gobierno de Irán está \"gravemente dividido\", pero la realidad ",
+      "score": 4.64,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "perjudicado",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump amenaza con \"disparar y hundir\" las embarcaciones iraníes que estén ponien",
+      "score": 4.48,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "disparar",
+          "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "disparar",
+          "score": -1
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Nueva purga en el Pentágono: despedido el secretario de la Marina tras meses de ",
+      "score": 4.61,
+      "words": [
+        {
+          "word": "despedido",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "despedido",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "abandona",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Rajoy niega que destruyera pruebas de la caja B del PP y asegura ante el tribuna",
       "score": 4.85,
       "words": [
@@ -293,60 +401,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "🎙 PODCAST | M. Rajoy según Luis Bárcenas",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "robar",
-          "score": -2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "importante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cospedal declara ante el tribunal de Kitchen que no recuerda la conversación en ",
-      "score": 5.47,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Mariano Rajoy pasaba por aquí",
       "score": 5.07,
       "words": [
@@ -371,67 +425,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La llamada con Villarejo que Cospedal no recuerda en su declaración por Kitchen:",
-      "score": 5.57,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El alcance de la \"prioridad nacional\" pactada por PP y Vox en Extremadura y Arag",
-      "score": 5.13,
-      "words": [
-        {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "adecuado",
-          "score": 1
-        },
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "alcanzado",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T14:50:49Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-04-12T15:33:51Z",
       "score": 4.83
@@ -1099,6 +1095,10 @@
     {
       "timestamp": "2026-04-23T21:42:45Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-04-23T22:40:58Z",
+      "score": 4.66
     }
   ]
 }

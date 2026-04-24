@@ -1,7 +1,7 @@
 {
-  "generated": "2026-04-24T13:18:22Z",
-  "global_score": 4.77,
-  "articles_scored": 87,
+  "generated": "2026-04-24T15:05:52Z",
+  "global_score": 4.56,
+  "articles_scored": 90,
   "words_matched": 239,
   "top_negative": [
     {
@@ -9,8 +9,16 @@
       "score": -4
     },
     {
-      "word": "burro",
+      "word": "fraude",
       "score": -4
+    },
+    {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "maricón",
+      "score": -3
     },
     {
       "word": "retirada",
@@ -21,19 +29,11 @@
       "score": -3
     },
     {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
       "word": "cargado",
       "score": -3
     },
     {
       "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "matar",
       "score": -3
     }
   ],
@@ -41,6 +41,10 @@
     {
       "word": "excepcional",
       "score": 5
+    },
+    {
+      "word": "alegría",
+      "score": 4
     },
     {
       "word": "ganar",
@@ -51,44 +55,40 @@
       "score": 4
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "glamour",
+      "word": "perfectamente",
       "score": 3
     },
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.93,
+    "El País": 4.57,
     "elDiario.es": 4.81,
-    "El Mundo": 3.91,
-    "ABC": 5.35,
+    "El Mundo": 4.04,
+    "ABC": 5.29,
     "El Confidencial": 5.16,
-    "BBC Mundo": 4.43,
-    "France 24 ES": 4.67,
-    "La Nación AR": 5.45,
+    "BBC Mundo": 4.73,
+    "France 24 ES": 4.35,
+    "La Nación AR": 4.4,
     "La Jornada MX": 4.85,
-    "Desinformémonos": 3.77,
-    "Resumen Latinoam.": 5.45
+    "Desinformémonos": 3.76,
+    "Resumen Latinoam.": 4.18
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | He",
-      "score": 4.54,
+      "score": 4.6,
       "words": [
         {
           "word": "guerra",
@@ -133,6 +133,36 @@
     },
     {
       "source": "El País",
+      "title": "Valdebebas, el barrio que nació hace dos décadas como emblema del nuevo urbanism",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "huye",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los obispos rechazan la “prioridad nacional” del PP y Vox y critican que el fin ",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusar",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Sánchez, sobre la “prioridad nacional” de los acuerdos del PP y Vox: “Hablan de ",
       "score": 5.0,
       "words": [
@@ -148,11 +178,19 @@
     },
     {
       "source": "El País",
-      "title": "Valdebebas, el barrio que nació hace dos décadas como emblema del nuevo urbanism",
-      "score": 4.2,
+      "title": "Seis partidos de sanción a Prestianni tras la denuncia de Vinicius, que le acusó",
+      "score": 3.4,
       "words": [
         {
-          "word": "huye",
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "maricón",
+          "score": -3
+        },
+        {
+          "word": "impuesto",
           "score": -1
         }
       ]
@@ -173,29 +211,6 @@
         {
           "word": "excepcional",
           "score": 5
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "“El duende no visita a cualquiera; si no, ¿donde estaría la magia?“: auge, caída",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "dios",
-          "score": 1
-        },
-        {
-          "word": "accidente",
-          "score": -2
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "sueños",
-          "score": 1
         }
       ]
     },
@@ -402,40 +417,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Shlomo Ben Ami, historiador y exministro de Exteriores de Israel: \"EEUU ha sido ",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "derrotado",
-          "score": -2
-        },
-        {
-          "word": "derrotado",
-          "score": -2
-        },
-        {
-          "word": "caos",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T22:31:34Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-04-12T23:31:52Z",
       "score": 4.76
@@ -1103,6 +1087,10 @@
     {
       "timestamp": "2026-04-24T13:18:22Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-04-24T15:05:52Z",
+      "score": 4.56
     }
   ]
 }

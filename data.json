@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-24T02:26:37Z",
-  "global_score": 4.59,
+  "generated": "2026-04-24T05:32:35Z",
+  "global_score": 4.69,
   "articles_scored": 92,
-  "words_matched": 223,
+  "words_matched": 256,
   "top_negative": [
     {
       "word": "negro",
@@ -13,53 +13,53 @@
       "score": -4
     },
     {
-      "word": "infierno",
-      "score": -4
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "destruido",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "falso",
+      "word": "matar",
       "score": -3
     },
     {
-      "word": "racismo",
+      "word": "peor",
       "score": -3
     },
     {
       "word": "muerto",
       "score": -3
+    },
+    {
+      "word": "destruir",
+      "score": -3
+    },
+    {
+      "word": "perdiendo",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "ganador",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
+      "word": "victorias",
+      "score": 4
     },
     {
       "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "perfectamente",
-      "score": 3
-    },
-    {
-      "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "mejor",
       "score": 3
     },
     {
@@ -67,19 +67,19 @@
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.34,
-    "elDiario.es": 4.72,
+    "El País": 5.2,
+    "elDiario.es": 4.57,
     "El Mundo": 4.88,
-    "ABC": 5.12,
-    "El Confidencial": 4.18,
-    "BBC Mundo": 5.3,
-    "France 24 ES": 4.78,
-    "La Nación AR": 4.5,
+    "ABC": 5.18,
+    "El Confidencial": 4.96,
+    "BBC Mundo": 5.41,
+    "France 24 ES": 4.52,
+    "La Nación AR": 4.25,
     "La Jornada MX": 3.85,
     "Desinformémonos": 3.77,
     "Resumen Latinoam.": 4.87
@@ -87,117 +87,86 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Trump anuncia una prórroga de tres semanas del alto el fuego entre Israel y Líba",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Rajoy apoya a su cúpula de Interior en el juicio de Kitchen: “Estoy convencido d",
+      "title": "El cuello de botella de la regularización: el certificado de vulnerabilidad bloq",
       "score": 3.4,
       "words": [
         {
-          "word": "convencido",
-          "score": -1
-        },
-        {
-          "word": "niega",
+          "word": "vulnerabilidad",
           "score": -2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "destruido",
-          "score": -3
-        },
-        {
-          "word": "falso",
-          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Zapatero tilda de “inconstitucional” y “discriminatoria” la prioridad nacional p",
+      "title": "Así harán PP y Vox que funcione su “prioridad nacional”",
       "score": 5.8,
       "words": [
         {
-          "word": "jesús",
+          "word": "obligado",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Murtra destituye al CEO de Movistar Plus un año después de nombrarlo",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "responsable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Roca Rey sufre una cogida “muy grave” en La Maestranza",
+      "title": "Valdebebas, el barrio que nació hace dos décadas como emblema del nuevo urbanism",
       "score": 4.2,
       "words": [
         {
-          "word": "sufre",
-          "score": -2
-        },
+          "word": "huye",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“El duende no visita a cualquiera; si no, ¿donde estaría la magia?“: auge, caída",
+      "score": 4.6,
+      "words": [
         {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "derecho",
+          "word": "dios",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Carlos Baute, María Corina Machado y el racismo venezolano",
-      "score": 2.6,
-      "words": [
+        },
         {
-          "word": "racismo",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Morante: de tripas, corazón",
-      "score": 4.0,
-      "words": [
+          "word": "accidente",
+          "score": -2
+        },
         {
           "word": "muerte",
           "score": -2
         },
         {
-          "word": "muerto",
-          "score": -3
-        },
+          "word": "sueños",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "‘Michael’, solo la cara amable de aquel músico excepcional",
+      "score": 6.6,
+      "words": [
         {
-          "word": "pena",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "gloria",
+          "word": "amable",
+          "score": 3
+        },
+        {
+          "word": "excepcional",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La era de la ‘manocultura’: qué leen y miran los jóvenes misóginos resentidos co",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "cierto",
           "score": 2
         }
       ]
@@ -231,11 +200,42 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump dice que el Gobierno de Irán está \"gravemente dividido\", pero la realidad ",
-      "score": 4.64,
+      "title": "La economía española aguanta el primer golpe de la guerra en Oriente Medio",
+      "score": 4.75,
       "words": [
         {
-          "word": "fuego",
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El doble bloqueo del estrecho de Ormuz atasca a Trump en la búsqueda de una sali",
+      "score": 4.41,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
@@ -243,53 +243,49 @@
           "score": -1
         },
         {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "perjudicado",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "fuego",
+          "word": "acusaciones",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump amenaza con \"disparar y hundir\" las embarcaciones iraníes que estén ponien",
-      "score": 4.48,
+      "title": "Shlomo Ben Ami, historiador y exministro de Exteriores de Israel: \"EEUU ha sido ",
+      "score": 4.59,
       "words": [
         {
-          "word": "amenaza",
+          "word": "derrotado",
           "score": -2
         },
         {
-          "word": "disparar",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
+          "word": "derrotado",
           "score": -2
         },
         {
-          "word": "disparar",
-          "score": -1
+          "word": "caos",
+          "score": -2
         },
         {
-          "word": "asegurado",
+          "word": "paz",
           "score": 2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Nueva purga en el Pentágono: despedido el secretario de la Marina tras meses de ",
-      "score": 4.61,
+      "title": "Rajoy niega la guerra sucia de su Gobierno con una afirmación sin pruebas y nume",
+      "score": 4.25,
       "words": [
         {
-          "word": "despedido",
+          "word": "niega",
           "score": -2
         },
         {
@@ -297,7 +293,7 @@
           "score": -2
         },
         {
-          "word": "despedido",
+          "word": "niega",
           "score": -2
         },
         {
@@ -305,16 +301,24 @@
           "score": -2
         },
         {
-          "word": "abandona",
+          "word": "niega",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Rajoy niega que destruyera pruebas de la caja B del PP y asegura ante el tribuna",
-      "score": 4.85,
+      "title": "🎙 PODCAST | “Me llamo Mariano Rajoy”: negación y olvido en la Kitchen",
+      "score": 5.13,
       "words": [
+        {
+          "word": "jura",
+          "score": -2
+        },
+        {
+          "word": "interrogatorio",
+          "score": -1
+        },
         {
           "word": "niega",
           "score": -2
@@ -324,24 +328,24 @@
           "score": 2
         },
         {
-          "word": "negado",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "ilegal",
-          "score": -3
+          "word": "interrogatorio",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El efecto de García Castellón en Kitchen, cinco años después: Rajoy y Cospedal p",
-      "score": 4.47,
+      "title": "Rajoy se fuma un puro henchido de impunidad",
+      "score": 4.87,
       "words": [
+        {
+          "word": "gracia",
+          "score": 1
+        },
+        {
+          "word": "negar",
+          "score": -2
+        },
         {
           "word": "niega",
           "score": -2
@@ -351,79 +355,67 @@
           "score": 2
         },
         {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "guerra",
+          "word": "tiempo",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "“Yo me llamo Mariano Rajoy y luego cada uno me llama como quiere”: la declaració",
-      "score": 3.63,
+      "title": "“Ventajas” por denunciar y “lavado de coco” a los hijos: las expertas desmontan ",
+      "score": 4.28,
       "words": [
         {
-          "word": "negado",
-          "score": -2
-        },
-        {
-          "word": "destruido",
-          "score": -3
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "frases",
-          "score": -2
-        },
-        {
-          "word": "falso",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Mariano Rajoy pasaba por aquí",
-      "score": 5.07,
-      "words": [
-        {
-          "word": "inspiración",
+          "word": "ventajas",
           "score": 2
         },
         {
-          "word": "solo",
+          "word": "denunciar",
           "score": -2
         },
         {
-          "word": "accidental",
+          "word": "ventajas",
+          "score": 2
+        },
+        {
+          "word": "denunciar",
           "score": -2
         },
         {
-          "word": "cargos",
+          "word": "promueve",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Igualdad pide al Poder Judicial que expediente al juez del exDAO por señalar \"ve",
+      "score": 4.34,
+      "words": [
+        {
+          "word": "ventajas",
+          "score": 2
+        },
+        {
+          "word": "denunciar",
           "score": -2
         },
         {
-          "word": "perfectamente",
-          "score": 3
+          "word": "ventajas",
+          "score": 2
+        },
+        {
+          "word": "denunciar",
+          "score": -2
+        },
+        {
+          "word": "violencia",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T17:32:13Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-04-12T18:42:55Z",
       "score": 4.8
@@ -1091,6 +1083,10 @@
     {
       "timestamp": "2026-04-24T02:26:37Z",
       "score": 4.59
+    },
+    {
+      "timestamp": "2026-04-24T05:32:35Z",
+      "score": 4.69
     }
   ]
 }

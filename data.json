@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-23T23:42:13Z",
-  "global_score": 4.45,
-  "articles_scored": 86,
-  "words_matched": 205,
+  "generated": "2026-04-24T02:26:37Z",
+  "global_score": 4.59,
+  "articles_scored": 92,
+  "words_matched": 223,
   "top_negative": [
     {
       "word": "negro",
@@ -13,11 +13,11 @@
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "infierno",
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -74,13 +74,14 @@
   "per_source": {
     "El País": 4.34,
     "elDiario.es": 4.72,
-    "El Mundo": 5.31,
+    "El Mundo": 4.88,
+    "ABC": 5.12,
     "El Confidencial": 4.18,
-    "BBC Mundo": 4.98,
-    "France 24 ES": 4.1,
-    "La Nación AR": 4.03,
+    "BBC Mundo": 5.3,
+    "France 24 ES": 4.78,
+    "La Nación AR": 4.5,
     "La Jornada MX": 3.85,
-    "Desinformémonos": 4.12,
+    "Desinformémonos": 3.77,
     "Resumen Latinoam.": 4.87
   },
   "articles": [
@@ -419,10 +420,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T16:35:56Z",
-      "score": 4.84
-    },
     {
       "timestamp": "2026-04-12T17:32:13Z",
       "score": 4.76
@@ -1090,6 +1087,10 @@
     {
       "timestamp": "2026-04-23T23:42:13Z",
       "score": 4.45
+    },
+    {
+      "timestamp": "2026-04-24T02:26:37Z",
+      "score": 4.59
     }
   ]
 }

@@ -1,12 +1,16 @@
 {
-  "generated": "2026-04-24T09:50:57Z",
-  "global_score": 4.92,
-  "articles_scored": 94,
-  "words_matched": 271,
+  "generated": "2026-04-24T11:04:13Z",
+  "global_score": 4.85,
+  "articles_scored": 92,
+  "words_matched": 236,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "culo",
+      "score": -4
     },
     {
       "word": "retirada",
@@ -31,10 +35,6 @@
     {
       "word": "muerto",
       "score": -3
-    },
-    {
-      "word": "destruir",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -55,31 +55,31 @@
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "admirar",
       "score": 3
     },
     {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "encanto",
       "score": 3
     },
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.2,
-    "elDiario.es": 4.65,
-    "El Mundo": 4.55,
-    "ABC": 4.44,
-    "El Confidencial": 5.75,
-    "BBC Mundo": 4.91,
+    "El País": 4.98,
+    "elDiario.es": 4.61,
+    "El Mundo": 4.58,
+    "ABC": 5.19,
+    "El Confidencial": 5.35,
+    "BBC Mundo": 4.71,
     "France 24 ES": 4.52,
-    "La Nación AR": 5.63,
+    "La Nación AR": 4.65,
     "La Jornada MX": 4.85,
     "Desinformémonos": 3.77,
     "Resumen Latinoam.": 5.97
@@ -106,12 +106,20 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 4.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | He",
+      "score": 4.87,
       "words": [
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "ataques",
+          "score": -1
         },
         {
           "word": "ataques",
@@ -120,10 +128,6 @@
         {
           "word": "fuego",
           "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
         }
       ]
     },
@@ -178,6 +182,21 @@
     },
     {
       "source": "El País",
+      "title": "El grito identitario canario de Quevedo funciona, y a veces hasta emociona, en s",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "grito",
+          "score": -2
+        },
+        {
+          "word": "fama",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "‘Michael’, solo la cara amable de aquel músico excepcional",
       "score": 6.6,
       "words": [
@@ -192,17 +211,6 @@
         {
           "word": "excepcional",
           "score": 5
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La era de la ‘manocultura’: qué leen y miran los jóvenes misóginos resentidos co",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "cierto",
-          "score": 2
         }
       ]
     },
@@ -256,6 +264,33 @@
         },
         {
           "word": "castigar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los estatutos de la OTAN impiden a EEUU suspender a España de la Alianza Atlánti",
+      "score": 3.92,
+      "words": [
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "expulsar",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
           "score": -2
         }
       ]
@@ -394,40 +429,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | “Me llamo Mariano Rajoy”: negación y olvido en la Kitchen",
-      "score": 5.13,
-      "words": [
-        {
-          "word": "jura",
-          "score": -2
-        },
-        {
-          "word": "interrogatorio",
-          "score": -1
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "interrogatorio",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T20:32:48Z",
-      "score": 4.89
-    },
     {
       "timestamp": "2026-04-12T21:32:23Z",
       "score": 4.73
@@ -1095,6 +1099,10 @@
     {
       "timestamp": "2026-04-24T09:50:57Z",
       "score": 4.92
+    },
+    {
+      "timestamp": "2026-04-24T11:04:13Z",
+      "score": 4.85
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-24T07:58:57Z",
-  "global_score": 4.76,
-  "articles_scored": 93,
-  "words_matched": 263,
+  "generated": "2026-04-24T09:50:57Z",
+  "global_score": 4.92,
+  "articles_scored": 94,
+  "words_matched": 271,
   "top_negative": [
     {
       "word": "negro",
@@ -55,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "felicidad",
       "score": 3
     },
     {
@@ -63,7 +63,7 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -72,38 +72,31 @@
     }
   ],
   "per_source": {
-    "El País": 4.24,
+    "El País": 5.2,
     "elDiario.es": 4.65,
-    "El Mundo": 4.84,
-    "ABC": 4.91,
-    "El Confidencial": 5.56,
-    "BBC Mundo": 5.41,
+    "El Mundo": 4.55,
+    "ABC": 4.44,
+    "El Confidencial": 5.75,
+    "BBC Mundo": 4.91,
     "France 24 ES": 4.52,
-    "La Nación AR": 4.27,
-    "La Jornada MX": 3.85,
+    "La Nación AR": 5.63,
+    "La Jornada MX": 4.85,
     "Desinformémonos": 3.77,
-    "Resumen Latinoam.": 6.07
+    "Resumen Latinoam.": 5.97
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El cuello de botella de la regularización: el certificado de vulnerabilidad bloq",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "vulnerabilidad",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Un correo del Pentágono plantea suspender a España de la OTAN por los desacuerdo",
-      "score": 3.8,
+      "score": 5.0,
       "words": [
         {
           "word": "suspender",
           "score": -1
+        },
+        {
+          "word": "leal",
+          "score": 3
         },
         {
           "word": "solo",
@@ -114,7 +107,7 @@
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 3.67,
+      "score": 4.4,
       "words": [
         {
           "word": "guerra",
@@ -127,21 +120,25 @@
         {
           "word": "fuego",
           "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El cerco marítimo estadounidense agrava la frágil situación económica de Irán",
-      "score": 3.4,
+      "title": "Sánchez, sobre la “prioridad nacional” de los acuerdos del PP y Vox: “Hablan de ",
+      "score": 5.0,
       "words": [
         {
-          "word": "agrava",
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "crítico",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -199,9 +196,20 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "La era de la ‘manocultura’: qué leen y miran los jóvenes misóginos resentidos co",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "cierto",
+          "score": 2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Un correo interno del Pentágono sugiere la suspensión de España de la OTAN, segú",
-      "score": 4.98,
+      "score": 4.93,
       "words": [
         {
           "word": "unido",
@@ -416,10 +424,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T19:37:22Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-04-12T20:32:48Z",
       "score": 4.89
@@ -1087,6 +1091,10 @@
     {
       "timestamp": "2026-04-24T07:58:57Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-04-24T09:50:57Z",
+      "score": 4.92
     }
   ]
 }

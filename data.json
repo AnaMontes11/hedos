@@ -1,11 +1,15 @@
 {
-  "generated": "2026-04-24T16:53:05Z",
-  "global_score": 4.62,
-  "articles_scored": 89,
-  "words_matched": 240,
+  "generated": "2026-04-24T17:48:14Z",
+  "global_score": 4.56,
+  "articles_scored": 90,
+  "words_matched": 255,
   "top_negative": [
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "violación",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "crisis",
       "score": -3
-    },
-    {
-      "word": "matar",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,23 +43,23 @@
       "score": 4
     },
     {
+      "word": "alegría",
+      "score": 4
+    },
+    {
       "word": "victorias",
       "score": 4
     },
     {
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "alegre",
+      "score": 3
+    },
+    {
       "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "mayor",
       "score": 3
     },
     {
@@ -72,23 +72,23 @@
     }
   ],
   "per_source": {
-    "El País": 4.17,
-    "elDiario.es": 4.75,
-    "El Mundo": 4.28,
-    "ABC": 5.83,
-    "El Confidencial": 4.84,
-    "BBC Mundo": 4.18,
-    "France 24 ES": 4.75,
-    "La Nación AR": 5.88,
+    "El País": 4.34,
+    "elDiario.es": 4.59,
+    "El Mundo": 4.54,
+    "ABC": 5.65,
+    "El Confidencial": 4.88,
+    "BBC Mundo": 4.23,
+    "France 24 ES": 4.19,
+    "La Nación AR": 5.0,
     "La Jornada MX": 4.85,
-    "Desinformémonos": 3.67,
+    "Desinformémonos": 3.71,
     "Resumen Latinoam.": 4.11
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
-      "score": 4.6,
+      "score": 4.2,
       "words": [
         {
           "word": "guerra",
@@ -115,7 +115,7 @@
     {
       "source": "El País",
       "title": "El Pentágono plantea en un correo electrónico suspender a España de la OTAN por ",
-      "score": 5.0,
+      "score": 4.36,
       "words": [
         {
           "word": "suspender",
@@ -127,6 +127,14 @@
         },
         {
           "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
           "score": -2
         }
       ]
@@ -178,12 +186,12 @@
     },
     {
       "source": "El País",
-      "title": "Alcaraz descarta jugar en Roland Garros: “Es un momento complicado para mí”",
-      "score": 3.4,
+      "title": "Alcaraz descarta Roland Garros por la muñeca: “Es un momento complicado para mí”",
+      "score": 5.8,
       "words": [
         {
-          "word": "lesión",
-          "score": -2
+          "word": "exploración",
+          "score": 1
         }
       ]
     },
@@ -216,7 +224,7 @@
     {
       "source": "elDiario.es",
       "title": "Un correo interno del Pentágono sugiere la suspensión de España de la OTAN, segú",
-      "score": 5.02,
+      "score": 5.0,
       "words": [
         {
           "word": "unido",
@@ -323,6 +331,60 @@
     },
     {
       "source": "elDiario.es",
+      "title": "EEUU e Irán anuncian el regreso a las negociaciones en Pakistán",
+      "score": 4.25,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "conceder",
+          "score": 1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El doble bloqueo del estrecho de Ormuz atasca a Trump en la búsqueda de una sali",
+      "score": 4.41,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La UE hace oídos sordos a la petición de los países de medidas \"más ambiciosas\" ",
       "score": 4.68,
       "words": [
@@ -347,67 +409,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La economía española aguanta el primer golpe de la guerra en Oriente Medio",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "golpe",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "golpe",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump anuncia que Israel y Líbano han acordado extender el alto el fuego tres se",
-      "score": 4.37,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-13T02:28:25Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-04-13T05:39:07Z",
       "score": 4.72
@@ -1075,6 +1079,10 @@
     {
       "timestamp": "2026-04-24T16:53:05Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-04-24T17:48:14Z",
+      "score": 4.56
     }
   ]
 }

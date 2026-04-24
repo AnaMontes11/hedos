@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-24T11:04:13Z",
-  "global_score": 4.85,
-  "articles_scored": 92,
-  "words_matched": 236,
+  "generated": "2026-04-24T13:18:22Z",
+  "global_score": 4.77,
+  "articles_scored": 87,
+  "words_matched": 239,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
+      "word": "culo",
+      "score": -4
     },
     {
-      "word": "culo",
+      "word": "burro",
       "score": -4
     },
     {
@@ -21,19 +21,19 @@
       "score": -3
     },
     {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "cargado",
+      "score": -3
+    },
+    {
       "word": "crisis",
       "score": -3
     },
     {
       "word": "matar",
-      "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "muerto",
       "score": -3
     }
   ],
@@ -51,43 +51,70 @@
       "score": 4
     },
     {
-      "word": "lealtad",
-      "score": 3
-    },
-    {
-      "word": "admirar",
-      "score": 3
-    },
-    {
-      "word": "encanto",
-      "score": 3
-    },
-    {
-      "word": "popular",
+      "word": "premios",
       "score": 3
     },
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "glamour",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.98,
-    "elDiario.es": 4.61,
-    "El Mundo": 4.58,
-    "ABC": 5.19,
-    "El Confidencial": 5.35,
-    "BBC Mundo": 4.71,
-    "France 24 ES": 4.52,
-    "La Nación AR": 4.65,
+    "El País": 4.93,
+    "elDiario.es": 4.81,
+    "El Mundo": 3.91,
+    "ABC": 5.35,
+    "El Confidencial": 5.16,
+    "BBC Mundo": 4.43,
+    "France 24 ES": 4.67,
+    "La Nación AR": 5.45,
     "La Jornada MX": 4.85,
     "Desinformémonos": 3.77,
-    "Resumen Latinoam.": 5.97
+    "Resumen Latinoam.": 5.45
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Un correo del Pentágono plantea suspender a España de la OTAN por los desacuerdo",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | He",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Pentágono plantea en un correo electrónico suspender a España de la OTAN por ",
       "score": 5.0,
       "words": [
         {
@@ -100,33 +127,6 @@
         },
         {
           "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | He",
-      "score": 4.87,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "fuego",
           "score": -2
         }
       ]
@@ -154,6 +154,25 @@
         {
           "word": "huye",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "‘Michael’, solo la cara amable de aquel músico excepcional",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "amable",
+          "score": 3
+        },
+        {
+          "word": "excepcional",
+          "score": 5
         }
       ]
     },
@@ -196,28 +215,9 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "‘Michael’, solo la cara amable de aquel músico excepcional",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "amable",
-          "score": 3
-        },
-        {
-          "word": "excepcional",
-          "score": 5
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Un correo interno del Pentágono sugiere la suspensión de España de la OTAN, segú",
-      "score": 4.93,
+      "score": 5.02,
       "words": [
         {
           "word": "unido",
@@ -226,33 +226,6 @@
         {
           "word": "apoyo",
           "score": 2
-        },
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "leal",
-          "score": 3
-        },
-        {
-          "word": "castigar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Pedro Sánchez responde al plan del Pentágono para suspender a España de la OTAN:",
-      "score": 4.88,
-      "words": [
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "leal",
-          "score": 3
         },
         {
           "word": "suspender",
@@ -297,28 +270,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump anuncia que Israel y Líbano han acordado extender el alto el fuego tres se",
-      "score": 4.37,
+      "title": "Pedro Sánchez responde al plan del Pentágono para suspender a España de la OTAN:",
+      "score": 4.88,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "bloqueo",
+          "word": "suspender",
           "score": -1
         },
         {
-          "word": "guerra",
+          "word": "leal",
+          "score": 3
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "leal",
+          "score": 3
+        },
+        {
+          "word": "castigar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El jefe del Pentágono insulta a Europa por la falta de apoyo en Irán: \"Tienen re",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "carga",
           "score": -2
         },
         {
-          "word": "fuego",
+          "word": "burlón",
           "score": -2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
         }
       ]
     },
@@ -346,6 +346,33 @@
         {
           "word": "crecimiento",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump anuncia que Israel y Líbano han acordado extender el alto el fuego tres se",
+      "score": 4.37,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
@@ -402,40 +429,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Rajoy niega la guerra sucia de su Gobierno con una afirmación sin pruebas y nume",
-      "score": 4.25,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-12T21:32:23Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-04-12T22:31:34Z",
       "score": 4.78
@@ -1103,6 +1099,10 @@
     {
       "timestamp": "2026-04-24T11:04:13Z",
       "score": 4.85
+    },
+    {
+      "timestamp": "2026-04-24T13:18:22Z",
+      "score": 4.77
     }
   ]
 }

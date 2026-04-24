@@ -1,15 +1,11 @@
 {
-  "generated": "2026-04-24T18:46:03Z",
-  "global_score": 4.51,
-  "articles_scored": 94,
-  "words_matched": 261,
+  "generated": "2026-04-24T19:50:33Z",
+  "global_score": 4.66,
+  "articles_scored": 93,
+  "words_matched": 247,
   "top_negative": [
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -18,6 +14,14 @@
     },
     {
       "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "asesinato",
+      "score": -3
+    },
+    {
+      "word": "pérdida",
       "score": -3
     },
     {
@@ -31,27 +35,23 @@
     {
       "word": "cargado",
       "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganar",
-      "score": 4
-    },
     {
       "word": "victorias",
       "score": 4
     },
     {
-      "word": "alegre",
+      "word": "premios",
       "score": 3
     },
     {
       "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     },
     {
@@ -72,43 +72,92 @@
     }
   ],
   "per_source": {
-    "El País": 4.34,
-    "elDiario.es": 4.59,
+    "El País": 4.49,
+    "elDiario.es": 4.6,
     "El Mundo": 4.93,
-    "ABC": 5.44,
+    "ABC": 5.33,
     "El Confidencial": 4.88,
-    "BBC Mundo": 4.23,
-    "France 24 ES": 4.24,
-    "La Nación AR": 4.29,
+    "BBC Mundo": 4.44,
+    "France 24 ES": 4.61,
+    "La Nación AR": 5.55,
     "La Jornada MX": 4.85,
     "Desinformémonos": 3.71,
-    "Resumen Latinoam.": 4.11
+    "Resumen Latinoam.": 3.89
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
-      "score": 4.2,
+      "title": "Los obispos rechazan la “prioridad nacional” del PP y Vox y critican que el fin ",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusar",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Page denuncia que hubo un intento de “pucherazo” en el Comité Federal de octubre",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "mancha",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump reintroduce el pelotón de fusilamiento en las ejecuciones federales",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "ejecuciones",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "ampliar",
+          "score": 1
+        },
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "aceptar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump envía a Pakistán a sus dos principales negociadores para retomar el diálog",
+      "score": 3.4,
       "words": [
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "sentido",
-          "score": 3
         }
       ]
     },
@@ -141,46 +190,12 @@
     },
     {
       "source": "El País",
-      "title": "Valdebebas, el barrio que nació hace dos décadas como emblema del nuevo urbanism",
-      "score": 4.2,
+      "title": "Xavier Lozano y la historia detrás de la ‘flauta silla’ de Amaia: “Vinieron a ve",
+      "score": 3.4,
       "words": [
         {
-          "word": "huye",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los obispos rechazan la “prioridad nacional” del PP y Vox y critican que el fin ",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "acusa",
+          "word": "curioso",
           "score": -2
-        },
-        {
-          "word": "acusar",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sánchez, sobre la “prioridad nacional” de los acuerdos del PP y Vox: “Hablan de ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
         }
       ]
     },
@@ -197,34 +212,35 @@
     },
     {
       "source": "El País",
-      "title": "El grito identitario canario de Quevedo funciona, y a veces hasta emociona, en s",
-      "score": 4.6,
+      "title": "El hijo mayor de los Reiner escribe por primera vez del asesinato de sus padres:",
+      "score": 5.32,
       "words": [
         {
-          "word": "grito",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "fama",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Xavier Lozano y la historia detrás de la ‘flauta silla’ de Amaia: “Vinieron a ve",
-      "score": 3.4,
-      "words": [
+          "word": "asesinato",
+          "score": -3
+        },
         {
-          "word": "curioso",
-          "score": -2
+          "word": "celebrar",
+          "score": 3
+        },
+        {
+          "word": "pérdida",
+          "score": -3
+        },
+        {
+          "word": "homenaje",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "Un correo interno del Pentágono sugiere la suspensión de España de la OTAN, segú",
-      "score": 5.0,
+      "score": 4.98,
       "words": [
         {
           "word": "unido",
@@ -332,7 +348,7 @@
     {
       "source": "elDiario.es",
       "title": "EEUU e Irán anuncian el regreso a las negociaciones en Pakistán",
-      "score": 4.25,
+      "score": 4.42,
       "words": [
         {
           "word": "tiempo",
@@ -343,15 +359,15 @@
           "score": 2
         },
         {
-          "word": "conceder",
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "asuntos",
           "score": 1
         },
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
+          "word": "riesgos",
           "score": -2
         }
       ]
@@ -412,10 +428,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-13T07:59:15Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-04-13T10:03:39Z",
       "score": 4.64
@@ -1083,6 +1095,10 @@
     {
       "timestamp": "2026-04-24T18:46:03Z",
       "score": 4.51
+    },
+    {
+      "timestamp": "2026-04-24T19:50:33Z",
+      "score": 4.66
     }
   ]
 }

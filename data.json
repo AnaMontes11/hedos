@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-24T23:37:21Z",
-  "global_score": 4.82,
-  "articles_scored": 93,
-  "words_matched": 256,
+  "generated": "2026-04-25T02:08:22Z",
+  "global_score": 4.57,
+  "articles_scored": 97,
+  "words_matched": 255,
   "top_negative": [
     {
       "word": "culo",
@@ -39,6 +39,10 @@
   ],
   "top_positive": [
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "victorias",
       "score": 4
     },
@@ -51,23 +55,19 @@
       "score": 3
     },
     {
-      "word": "placer",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
       "word": "feliz",
       "score": 3
     },
     {
       "word": "caro",
+      "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     }
   ],
@@ -75,11 +75,11 @@
     "El País": 4.67,
     "elDiario.es": 4.6,
     "El Mundo": 4.98,
-    "ABC": 5.54,
-    "El Confidencial": 5.11,
+    "ABC": 4.12,
+    "El Confidencial": 5.33,
     "BBC Mundo": 4.87,
-    "France 24 ES": 4.11,
-    "La Nación AR": 6.01,
+    "France 24 ES": 4.2,
+    "La Nación AR": 4.11,
     "La Jornada MX": 4.85,
     "Desinformémonos": 3.71,
     "Resumen Latinoam.": 4.88
@@ -420,10 +420,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-13T17:58:18Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-04-13T19:20:59Z",
       "score": 4.68
@@ -1091,6 +1087,10 @@
     {
       "timestamp": "2026-04-24T23:37:21Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-04-25T02:08:22Z",
+      "score": 4.57
     }
   ]
 }

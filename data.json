@@ -1,12 +1,20 @@
 {
-  "generated": "2026-04-25T08:49:22Z",
-  "global_score": 4.56,
-  "articles_scored": 96,
-  "words_matched": 292,
+  "generated": "2026-04-25T09:50:15Z",
+  "global_score": 4.55,
+  "articles_scored": 95,
+  "words_matched": 289,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "mierda",
+      "score": -4
+    },
+    {
+      "word": "infierno",
+      "score": -4
     },
     {
       "word": "fraude",
@@ -21,19 +29,11 @@
       "score": -4
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "abusos",
-      "score": -3
-    },
-    {
-      "word": "delicado",
-      "score": -3
-    },
-    {
       "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "peor",
       "score": -3
     }
   ],
@@ -59,11 +59,11 @@
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "paraíso",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "suerte",
       "score": 3
     },
     {
@@ -72,15 +72,15 @@
     }
   ],
   "per_source": {
-    "El País": 4.72,
+    "El País": 4.48,
     "elDiario.es": 4.75,
     "El Mundo": 4.98,
-    "ABC": 4.17,
-    "El Confidencial": 5.5,
-    "BBC Mundo": 4.92,
+    "ABC": 4.6,
+    "El Confidencial": 5.25,
+    "BBC Mundo": 5.08,
     "France 24 ES": 3.98,
-    "La Nación AR": 4.59,
-    "La Jornada MX": 4.85,
+    "La Nación AR": 4.65,
+    "La Jornada MX": 4.47,
     "Desinformémonos": 3.71,
     "Resumen Latinoam.": 4.26
   },
@@ -93,6 +93,17 @@
         {
           "word": "acepta",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Abascal vuelve a cargar contra los obispos y dice que “su prioridad es el negoci",
+      "score": 1.8,
+      "words": [
+        {
+          "word": "mierda",
+          "score": -4
         }
       ]
     },
@@ -113,17 +124,9 @@
     },
     {
       "source": "El País",
-      "title": "Madrid combate la crisis de la vivienda con un plan de crecimiento equivalente a",
-      "score": 4.47,
+      "title": "El megaplan de vivienda de Madrid: un crecimiento equivalente a meter Zaragoza o",
+      "score": 6.6,
       "words": [
-        {
-          "word": "combate",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
         {
           "word": "crecimiento",
           "score": 2
@@ -132,39 +135,16 @@
     },
     {
       "source": "El País",
-      "title": "Mapas | Puentes destruidos y ciudades arrasadas: lo que revelan los datos de la ",
+      "title": "Golpeadas dentro, perseguidas fuera: el infierno de tres mujeres que rompieron c",
       "score": 4.2,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
+          "word": "infierno",
+          "score": -4
         },
         {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Volatilidad y sospechas de información privilegiada en Polymarket: los que se en",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "maduro",
+          "word": "ayuda",
           "score": 2
-        },
-        {
-          "word": "manipulación",
-          "score": -1
-        },
-        {
-          "word": "abusos",
-          "score": -3
         }
       ]
     },
@@ -176,40 +156,6 @@
         {
           "word": "fraude",
           "score": -4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Guillermo Francella, actor: “Aquí siguen mucho las reglas. El argentino es más f",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Kings League busca soluciones ante la fátiga de su fútbol-espectáculo: “Volve",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "soluciones",
-          "score": 1
-        },
-        {
-          "word": "delicado",
-          "score": -3
-        },
-        {
-          "word": "estancamiento",
-          "score": -2
         }
       ]
     },
@@ -238,12 +184,28 @@
     },
     {
       "source": "El País",
-      "title": "No publicar",
-      "score": 7.4,
+      "title": "¿Qué hacer con 30.000 ojos? David Toscana toma la historia del castigo de Basili",
+      "score": 4.87,
       "words": [
         {
-          "word": "lealtad",
+          "word": "autor",
+          "score": -2
+        },
+        {
+          "word": "ganado",
+          "score": 2
+        },
+        {
+          "word": "premio",
           "score": 3
+        },
+        {
+          "word": "ciego",
+          "score": -1
+        },
+        {
+          "word": "humor",
+          "score": 2
         }
       ]
     },
@@ -381,13 +343,63 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Fiscalía archiva la denuncia contra Revuelta por quedarse donativos de la dan",
+      "score": 4.67,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "juvenil",
+          "score": 2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los misterios de la Gürtel y la Kitchen que la Justicia nunca aclaró",
+      "score": 4.89,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "humor",
+          "score": 2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "compromiso",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-13T22:40:19Z",
-      "score": 4.49
-    },
     {
       "timestamp": "2026-04-13T23:39:41Z",
       "score": 4.56
@@ -1055,6 +1067,10 @@
     {
       "timestamp": "2026-04-25T08:49:22Z",
       "score": 4.56
+    },
+    {
+      "timestamp": "2026-04-25T09:50:15Z",
+      "score": 4.55
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-25T16:38:05Z",
-  "global_score": 4.48,
-  "articles_scored": 89,
-  "words_matched": 303,
+  "generated": "2026-04-25T17:35:29Z",
+  "global_score": 4.61,
+  "articles_scored": 91,
+  "words_matched": 304,
   "top_negative": [
     {
       "word": "negro",
@@ -21,8 +21,12 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
+      "word": "culpa",
+      "score": -3
+    },
+    {
+      "word": "pierde",
+      "score": -3
     },
     {
       "word": "mal",
@@ -31,19 +35,23 @@
     {
       "word": "peor",
       "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
     {
       "word": "ganar",
       "score": 4
     },
     {
       "word": "paraíso",
+      "score": 3
+    },
+    {
+      "word": "impresiona",
       "score": 3
     },
     {
@@ -61,25 +69,17 @@
     {
       "word": "perfectamente",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.3,
+    "El País": 4.36,
     "elDiario.es": 4.93,
-    "El Mundo": 4.63,
-    "ABC": 5.26,
-    "El Confidencial": 3.77,
-    "BBC Mundo": 4.14,
-    "France 24 ES": 3.84,
-    "La Nación AR": 5.32,
+    "El Mundo": 4.51,
+    "ABC": 5.3,
+    "El Confidencial": 5.35,
+    "BBC Mundo": 3.8,
+    "France 24 ES": 4.79,
+    "La Nación AR": 4.98,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
     "Resumen Latinoam.": 4.41
@@ -87,24 +87,24 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
-      "score": 3.6,
+      "title": "Trump cancela el viaje de sus enviados a Pakistán después de que el negociador i",
+      "score": 4.2,
       "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
         {
           "word": "cancela",
           "score": -1
         },
         {
-          "word": "abandonado",
+          "word": "culpa",
+          "score": -3
+        },
+        {
+          "word": "fracaso",
           "score": -2
         },
         {
-          "word": "demandas",
-          "score": -2
+          "word": "paz",
+          "score": 2
         }
       ]
     },
@@ -239,7 +239,7 @@
     {
       "source": "elDiario.es",
       "title": "Trump cancela el viaje de sus negociadores a Islamabad después de la marcha del ",
-      "score": 4.6,
+      "score": 4.38,
       "words": [
         {
           "word": "cancela",
@@ -258,8 +258,8 @@
           "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "decisivo",
+          "score": 1
         }
       ]
     },
@@ -400,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-14T13:20:15Z",
-      "score": 4.68
-    },
     {
       "timestamp": "2026-04-14T15:11:05Z",
       "score": 4.55
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-04-25T16:38:05Z",
       "score": 4.48
+    },
+    {
+      "timestamp": "2026-04-25T17:35:29Z",
+      "score": 4.61
     }
   ]
 }

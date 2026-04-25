@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-25T17:35:29Z",
-  "global_score": 4.61,
-  "articles_scored": 91,
-  "words_matched": 304,
+  "generated": "2026-04-25T18:48:02Z",
+  "global_score": 4.56,
+  "articles_scored": 86,
+  "words_matched": 288,
   "top_negative": [
     {
       "word": "negro",
@@ -43,6 +43,10 @@
       "score": 5
     },
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
@@ -51,38 +55,34 @@
       "score": 3
     },
     {
-      "word": "impresiona",
-      "score": 3
-    },
-    {
-      "word": "diversión",
-      "score": 3
-    },
-    {
-      "word": "alegre",
-      "score": 3
-    },
-    {
-      "word": "celebrando",
-      "score": 3
-    },
-    {
       "word": "perfectamente",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "vibrante",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.36,
     "elDiario.es": 4.93,
-    "El Mundo": 4.51,
-    "ABC": 5.3,
-    "El Confidencial": 5.35,
+    "El Mundo": 4.57,
+    "ABC": 5.55,
+    "El Confidencial": 3.77,
     "BBC Mundo": 3.8,
-    "France 24 ES": 4.79,
-    "La Nación AR": 4.98,
+    "France 24 ES": 5.64,
+    "La Nación AR": 4.64,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 4.41
+    "Resumen Latinoam.": 4.23
   },
   "articles": [
     {
@@ -400,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-14T15:11:05Z",
-      "score": 4.55
-    },
     {
       "timestamp": "2026-04-14T17:03:25Z",
       "score": 4.53
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-04-25T17:35:29Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-25T18:48:02Z",
+      "score": 4.56
     }
   ]
 }

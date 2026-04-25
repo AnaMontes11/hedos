@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-25T15:37:14Z",
-  "global_score": 4.53,
-  "articles_scored": 93,
-  "words_matched": 290,
+  "generated": "2026-04-25T16:38:05Z",
+  "global_score": 4.48,
+  "articles_scored": 89,
+  "words_matched": 303,
   "top_negative": [
     {
       "word": "negro",
@@ -21,27 +21,23 @@
       "score": -4
     },
     {
-      "word": "destruir",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
+      "word": "violación",
+      "score": -4
     },
     {
       "word": "mal",
       "score": -3
     },
     {
-      "word": "estafa",
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "ilegal",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "alegría",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -51,51 +47,59 @@
       "score": 3
     },
     {
+      "word": "diversión",
+      "score": 3
+    },
+    {
       "word": "alegre",
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "celebrando",
       "score": 3
     },
     {
-      "word": "vibrante",
+      "word": "perfectamente",
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.27,
-    "elDiario.es": 4.84,
-    "El Mundo": 4.84,
-    "ABC": 5.75,
+    "El País": 4.3,
+    "elDiario.es": 4.93,
+    "El Mundo": 4.63,
+    "ABC": 5.26,
     "El Confidencial": 3.77,
     "BBC Mundo": 4.14,
-    "France 24 ES": 3.65,
-    "La Nación AR": 5.13,
+    "France 24 ES": 3.84,
+    "La Nación AR": 5.32,
     "La Jornada MX": 4.47,
-    "Desinformémonos": 3.96,
+    "Desinformémonos": 3.9,
     "Resumen Latinoam.": 4.41
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El",
-      "score": 3.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
+      "score": 3.6,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "abandona",
+          "word": "cancela",
+          "score": -1
+        },
+        {
+          "word": "abandonado",
           "score": -2
         },
         {
@@ -234,38 +238,42 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Mónica García anuncia que quiere ser candidata de Más Madrid para disputarle la ",
-      "score": 5.62,
+      "title": "Trump cancela el viaje de sus negociadores a Islamabad después de la marcha del ",
+      "score": 4.6,
       "words": [
         {
-          "word": "fuerza",
-          "score": 2
+          "word": "cancela",
+          "score": -1
         },
         {
-          "word": "fuerza",
-          "score": 2
+          "word": "cancela",
+          "score": -1
         },
         {
-          "word": "querer",
-          "score": 1
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "impulsado",
-          "score": 1
+          "word": "bloqueo",
+          "score": -1
         },
         {
-          "word": "pena",
+          "word": "guerra",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Rajoy reconoció en el juicio de Gürtel en 2017 los mensajes que ahora no recuerd",
-      "score": 5.15,
+      "title": "Trump ensaya una nueva narrativa con Irán y recurre ahora a la guerra de Vietnam",
+      "score": 4.74,
       "words": [
         {
-          "word": "negado",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
@@ -273,16 +281,93 @@
           "score": -1
         },
         {
-          "word": "significado",
-          "score": 1
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "niega",
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El jefe del Pentágono insulta a Europa por la falta de apoyo en Irán: \"Tienen re",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "burlón",
+          "score": -2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La guerra de Irán aleja a las monarquías del Golfo de su labrada imagen de refug",
+      "score": 4.7,
+      "words": [
+        {
+          "word": "guerra",
           "score": -2
         },
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "destruido",
+          "score": -3
+        },
+        {
+          "word": "riesgos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Irán tiene la comunidad judía más numerosa de Oriente Medio fuera de Israel y Ne",
+      "score": 4.35,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "cuidadosamente",
+          "score": 2
+        },
+        {
+          "word": "solemne",
+          "score": -1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "celebrar",
+          "score": 3
         }
       ]
     },
@@ -312,94 +397,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Revuelta se escinde de Vox y sigue captando donaciones entre acusaciones mutuas ",
-      "score": 4.46,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "juvenil",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Abascal carga contra el \"fanatismo climático\" mientras acusa a Moreno de tener u",
-      "score": 4.41,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El nuevo pulso de Junts a Moncloa, otro choque de cara a la galería a días de un",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "incómodo",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "incómodo",
-          "score": -2
-        },
-        {
-          "word": "presión",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-14T11:00:17Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-04-14T13:20:15Z",
       "score": 4.68
@@ -1067,6 +1067,10 @@
     {
       "timestamp": "2026-04-25T15:37:14Z",
       "score": 4.53
+    },
+    {
+      "timestamp": "2026-04-25T16:38:05Z",
+      "score": 4.48
     }
   ]
 }

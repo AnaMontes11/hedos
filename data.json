@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-25T14:05:00Z",
-  "global_score": 4.49,
-  "articles_scored": 94,
-  "words_matched": 305,
+  "generated": "2026-04-25T15:37:14Z",
+  "global_score": 4.53,
+  "articles_scored": 93,
+  "words_matched": 290,
   "top_negative": [
     {
       "word": "negro",
@@ -14,10 +14,6 @@
     },
     {
       "word": "infierno",
-      "score": -4
-    },
-    {
-      "word": "fraude",
       "score": -4
     },
     {
@@ -35,15 +31,15 @@
     {
       "word": "mal",
       "score": -3
+    },
+    {
+      "word": "estafa",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "ganador",
+      "word": "alegría",
       "score": 4
     },
     {
@@ -59,32 +55,70 @@
       "score": 3
     },
     {
+      "word": "feliz",
+      "score": 3
+    },
+    {
       "word": "vibrante",
+      "score": 3
+    },
+    {
+      "word": "leal",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
-    },
-    {
-      "word": "perfectamente",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.1,
-    "elDiario.es": 4.9,
-    "El Mundo": 4.86,
-    "ABC": 5.55,
-    "El Confidencial": 3.69,
-    "BBC Mundo": 4.37,
-    "France 24 ES": 3.94,
-    "La Nación AR": 5.02,
+    "El País": 4.27,
+    "elDiario.es": 4.84,
+    "El Mundo": 4.84,
+    "ABC": 5.75,
+    "El Confidencial": 3.77,
+    "BBC Mundo": 4.14,
+    "France 24 ES": 3.65,
+    "La Nación AR": 5.13,
     "La Jornada MX": 4.47,
-    "Desinformémonos": 3.91,
-    "Resumen Latinoam.": 4.28
+    "Desinformémonos": 3.96,
+    "Resumen Latinoam.": 4.41
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "abandona",
+          "score": -2
+        },
+        {
+          "word": "demandas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las petromonarquías mandan un SOS a Trump ante el cataclismo económico",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "recesión",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Vox ordena a sus grupos municipales retar al PP con la “prioridad nacional” en l",
@@ -135,21 +169,6 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "demandas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Golpeadas dentro, perseguidas fuera: el infierno de tres mujeres que rompieron c",
       "score": 4.2,
       "words": [
@@ -160,40 +179,6 @@
         {
           "word": "ayuda",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Divorcio con ‘velázquez’: un juez ordena que el Prado custodie un valioso lienzo",
-      "score": 1.8,
-      "words": [
-        {
-          "word": "fraude",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "‘Veneno’, el lince que caza gatos callejeros en un pueblo toledano",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "veneno",
-          "score": -2
-        },
-        {
-          "word": "alarma",
-          "score": -2
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "evitar",
-          "score": -1
         }
       ]
     },
@@ -221,6 +206,29 @@
         {
           "word": "humor",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "‘Veneno’, el lince que caza gatos callejeros en un pueblo toledano",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "veneno",
+          "score": -2
+        },
+        {
+          "word": "alarma",
+          "score": -2
+        },
+        {
+          "word": "natural",
+          "score": 1
+        },
+        {
+          "word": "evitar",
+          "score": -1
         }
       ]
     },
@@ -334,27 +342,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Bolaños contesta a la asociación de jueces que cuestionó sus críticas a Peinado:",
-      "score": 5.8,
+      "title": "Abascal carga contra el \"fanatismo climático\" mientras acusa a Moreno de tener u",
+      "score": 4.41,
       "words": [
         {
-          "word": "delito",
-          "score": -3
+          "word": "carga",
+          "score": -2
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "acusa",
+          "score": -2
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "carga",
+          "score": -2
         },
         {
-          "word": "confianza",
-          "score": 1
+          "word": "acusa",
+          "score": -2
         },
         {
-          "word": "superior",
+          "word": "asegura",
           "score": 2
         }
       ]
@@ -388,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-14T09:15:23Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-04-14T11:00:17Z",
       "score": 4.57
@@ -1059,6 +1063,10 @@
     {
       "timestamp": "2026-04-25T14:05:00Z",
       "score": 4.49
+    },
+    {
+      "timestamp": "2026-04-25T15:37:14Z",
+      "score": 4.53
     }
   ]
 }

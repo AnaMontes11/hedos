@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-25T11:36:23Z",
-  "global_score": 4.62,
-  "articles_scored": 96,
-  "words_matched": 303,
+  "generated": "2026-04-25T12:58:56Z",
+  "global_score": 4.57,
+  "articles_scored": 91,
+  "words_matched": 306,
   "top_negative": [
     {
       "word": "negro",
@@ -25,15 +25,15 @@
       "score": -4
     },
     {
-      "word": "abusos",
-      "score": -3
-    },
-    {
       "word": "estafa",
       "score": -3
     },
     {
       "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "preocupado",
       "score": -3
     }
   ],
@@ -41,6 +41,10 @@
     {
       "word": "excepcional",
       "score": 5
+    },
+    {
+      "word": "triunfo",
+      "score": 4
     },
     {
       "word": "ganador",
@@ -59,27 +63,23 @@
       "score": 3
     },
     {
-      "word": "feliz",
-      "score": 3
-    },
-    {
       "word": "paraíso",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "caro",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.45,
-    "elDiario.es": 4.87,
-    "El Mundo": 4.97,
-    "ABC": 5.33,
-    "El Confidencial": 4.47,
-    "BBC Mundo": 4.97,
-    "France 24 ES": 3.98,
-    "La Nación AR": 5.21,
+    "El País": 4.1,
+    "elDiario.es": 4.85,
+    "El Mundo": 4.88,
+    "ABC": 5.52,
+    "El Confidencial": 4.17,
+    "BBC Mundo": 4.77,
+    "France 24 ES": 3.93,
+    "La Nación AR": 5.7,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.71,
     "Resumen Latinoam.": 4.26
@@ -109,21 +109,6 @@
     },
     {
       "source": "El País",
-      "title": "Ignacio Rivera: “Estoy a favor de la inmigración regulada. España necesita mano ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El megaplan de vivienda de Madrid: un crecimiento equivalente a meter Zaragoza o",
       "score": 6.6,
       "words": [
@@ -135,24 +120,31 @@
     },
     {
       "source": "El País",
-      "title": "Del soldado con secretos al termómetro trucado: las trampas millonarias en Polym",
+      "title": "Fuerzas rebeldes desafían a la junta de Malí con un ataque coordinado en varios ",
       "score": 4.2,
       "words": [
         {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "maduro",
-          "score": 2
-        },
-        {
-          "word": "manipulación",
+          "word": "ataque",
           "score": -1
         },
         {
-          "word": "abusos",
-          "score": -3
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "demandas",
+          "score": -2
         }
       ]
     },
@@ -235,7 +227,7 @@
     {
       "source": "elDiario.es",
       "title": "Mónica García anuncia que quiere ser candidata de Más Madrid para disputarle la ",
-      "score": 5.87,
+      "score": 5.62,
       "words": [
         {
           "word": "fuerza",
@@ -250,12 +242,12 @@
           "score": 1
         },
         {
-          "word": "asegurado",
-          "score": 2
+          "word": "impulsado",
+          "score": 1
         },
         {
-          "word": "agradecido",
-          "score": 2
+          "word": "pena",
+          "score": -2
         }
       ]
     },
@@ -396,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-14T05:21:02Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-04-14T07:27:26Z",
       "score": 4.6
@@ -1067,6 +1055,10 @@
     {
       "timestamp": "2026-04-25T11:36:23Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-04-25T12:58:56Z",
+      "score": 4.57
     }
   ]
 }

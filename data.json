@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-25T12:58:56Z",
-  "global_score": 4.57,
-  "articles_scored": 91,
-  "words_matched": 306,
+  "generated": "2026-04-25T14:05:00Z",
+  "global_score": 4.49,
+  "articles_scored": 94,
+  "words_matched": 305,
   "top_negative": [
     {
       "word": "negro",
@@ -25,15 +25,15 @@
       "score": -4
     },
     {
-      "word": "estafa",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "preocupado",
+      "word": "mal",
       "score": -3
     }
   ],
@@ -43,15 +43,7 @@
       "score": 5
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "alegría",
       "score": 4
     },
     {
@@ -59,30 +51,38 @@
       "score": 4
     },
     {
-      "word": "excelente",
-      "score": 3
-    },
-    {
       "word": "paraíso",
       "score": 3
     },
     {
-      "word": "caro",
+      "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "vibrante",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.1,
-    "elDiario.es": 4.85,
-    "El Mundo": 4.88,
-    "ABC": 5.52,
-    "El Confidencial": 4.17,
-    "BBC Mundo": 4.77,
-    "France 24 ES": 3.93,
-    "La Nación AR": 5.7,
+    "elDiario.es": 4.9,
+    "El Mundo": 4.86,
+    "ABC": 5.55,
+    "El Confidencial": 3.69,
+    "BBC Mundo": 4.37,
+    "France 24 ES": 3.94,
+    "La Nación AR": 5.02,
     "La Jornada MX": 4.47,
-    "Desinformémonos": 3.71,
-    "Resumen Latinoam.": 4.26
+    "Desinformémonos": 3.91,
+    "Resumen Latinoam.": 4.28
   },
   "articles": [
     {
@@ -253,27 +253,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Revuelta se escinde de Vox y sigue captando donaciones entre acusaciones mutuas ",
-      "score": 4.46,
+      "title": "Rajoy reconoció en el juicio de Gürtel en 2017 los mensajes que ahora no recuerd",
+      "score": 5.15,
       "words": [
         {
-          "word": "acusaciones",
+          "word": "negado",
           "score": -2
         },
         {
-          "word": "acusaciones",
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "significado",
+          "score": 1
+        },
+        {
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "juvenil",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
+          "word": "guerra",
           "score": -2
         }
       ]
@@ -307,27 +307,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Rajoy reconoció en el juicio de Gürtel en 2017 los mensajes que ahora no recuerd",
-      "score": 5.15,
+      "title": "Revuelta se escinde de Vox y sigue captando donaciones entre acusaciones mutuas ",
+      "score": 4.46,
       "words": [
         {
-          "word": "negado",
+          "word": "acusaciones",
           "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "significado",
-          "score": 1
-        },
-        {
-          "word": "niega",
+          "word": "acusaciones",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "juvenil",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
           "score": -2
         }
       ]
@@ -361,37 +361,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump ensaya una nueva narrativa con Irán y recurre ahora a la guerra de Vietnam",
-      "score": 4.74,
+      "title": "El nuevo pulso de Junts a Moncloa, otro choque de cara a la galería a días de un",
+      "score": 4.84,
       "words": [
         {
-          "word": "guerra",
+          "word": "choque",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "incómodo",
           "score": -2
         },
         {
-          "word": "pasado",
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "incómodo",
+          "score": -2
+        },
+        {
+          "word": "presión",
           "score": -1
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-14T07:27:26Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-04-14T09:15:23Z",
       "score": 4.61
@@ -1059,6 +1055,10 @@
     {
       "timestamp": "2026-04-25T12:58:56Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-04-25T14:05:00Z",
+      "score": 4.49
     }
   ]
 }

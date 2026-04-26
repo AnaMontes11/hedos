@@ -1,12 +1,20 @@
 {
-  "generated": "2026-04-26T15:39:13Z",
-  "global_score": 4.67,
-  "articles_scored": 86,
-  "words_matched": 342,
+  "generated": "2026-04-26T16:39:13Z",
+  "global_score": 4.41,
+  "articles_scored": 91,
+  "words_matched": 329,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "violador",
+      "score": -4
+    },
+    {
+      "word": "mierda",
+      "score": -4
     },
     {
       "word": "culo",
@@ -27,31 +35,11 @@
     {
       "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "violencia",
-      "score": -3
-    },
-    {
-      "word": "asesinato",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "bendición",
-      "score": 4
-    },
-    {
-      "word": "alegría",
-      "score": 4
-    },
-    {
       "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "divertido",
       "score": 4
     },
     {
@@ -63,28 +51,59 @@
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "delicias",
       "score": 3
     },
     {
-      "word": "impresiona",
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.22,
-    "elDiario.es": 4.52,
-    "El Mundo": 4.12,
-    "ABC": 5.66,
-    "El Confidencial": 5.35,
-    "BBC Mundo": 4.71,
-    "France 24 ES": 4.13,
-    "La Nación AR": 6.6,
+    "El País": 3.99,
+    "elDiario.es": 4.4,
+    "El Mundo": 3.95,
+    "ABC": 5.09,
+    "El Confidencial": 5.48,
+    "BBC Mundo": 4.83,
+    "France 24 ES": 4.0,
+    "La Nación AR": 4.69,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 4.91
+    "Resumen Latinoam.": 4.02
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora del intento de atentado contra Trump, en directo | Trump afirma que ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "autor",
+          "score": -2
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Trump, evacuado ileso de la cena de corresponsales de la Casa Blanca tras un tir",
@@ -98,28 +117,6 @@
           "word": "vestíbulo",
           "score": -2
         },
-        {
-          "word": "detenido",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El momento de la evacuación del vicepresidente de EE UU, J.D. Vance, de la cena ",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del intento de atentado contra Trump, en directo | Los investigadore",
-      "score": 4.2,
-      "words": [
         {
           "word": "detenido",
           "score": -1
@@ -181,12 +178,23 @@
     },
     {
       "source": "El País",
-      "title": "El keniano Sabastian Sawe es el primer hombre de la historia en bajar de las dos",
-      "score": 3.4,
+      "title": "Cronología visual del atentado contra Trump en la cena de corresponsales de la C",
+      "score": 2.6,
       "words": [
         {
-          "word": "tiempo",
-          "score": -2
+          "word": "pánico",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El momento de la evacuación del vicepresidente de EE UU, J.D. Vance, de la cena ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
         }
       ]
     },
@@ -267,6 +275,33 @@
         },
         {
           "word": "detenido",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump afirma que el atacante de la cena de corresponsales \"expresaba odio\" y era",
+      "score": 3.84,
+      "words": [
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "anti",
           "score": -1
         }
       ]
@@ -378,40 +413,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Abascal insiste en vincular inmigración con delincuencia aunque ahora defiende a",
-      "score": 5.18,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "violación",
-          "score": -4
-        },
-        {
-          "word": "criticado",
-          "score": -2
-        },
-        {
-          "word": "asegurando",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-15T19:13:02Z",
-      "score": 4.53
-    },
     {
       "timestamp": "2026-04-15T20:43:23Z",
       "score": 4.44
@@ -1079,6 +1083,10 @@
     {
       "timestamp": "2026-04-26T15:39:13Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-04-26T16:39:13Z",
+      "score": 4.41
     }
   ]
 }

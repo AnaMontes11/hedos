@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T17:36:05Z",
-  "global_score": 4.39,
-  "articles_scored": 93,
-  "words_matched": 330,
+  "generated": "2026-04-26T18:50:57Z",
+  "global_score": 4.36,
+  "articles_scored": 92,
+  "words_matched": 327,
   "top_negative": [
     {
       "word": "negro",
@@ -25,11 +25,11 @@
       "score": -4
     },
     {
-      "word": "fraudulento",
+      "word": "infierno",
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "fraudulento",
       "score": -4
     },
     {
@@ -39,23 +39,15 @@
   ],
   "top_positive": [
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "ganador",
       "score": 4
     },
     {
       "word": "exitoso",
-      "score": 3
-    },
-    {
-      "word": "delicias",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "lealtad",
       "score": 3
     },
     {
@@ -67,22 +59,30 @@
       "score": 3
     },
     {
+      "word": "bueno",
+      "score": 3
+    },
+    {
       "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 3.65,
     "elDiario.es": 4.4,
-    "El Mundo": 3.95,
-    "ABC": 4.93,
+    "El Mundo": 3.83,
+    "ABC": 4.47,
     "El Confidencial": 5.13,
     "BBC Mundo": 4.83,
-    "France 24 ES": 4.57,
-    "La Nación AR": 4.76,
+    "France 24 ES": 4.58,
+    "La Nación AR": 4.54,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 3.83
+    "Resumen Latinoam.": 4.38
   },
   "articles": [
     {
@@ -208,6 +208,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Trump afirma que el atacante de la cena de corresponsales \"expresaba odio\" y era",
+      "score": 3.84,
+      "words": [
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "anti",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump, evacuado de la cena de corresponsales de la Casa Blanca tras un tiroteo e",
       "score": 4.16,
       "words": [
@@ -283,33 +310,6 @@
         },
         {
           "word": "detenido",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump afirma que el atacante de la cena de corresponsales \"expresaba odio\" y era",
-      "score": 3.84,
-      "words": [
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "anti",
           "score": -1
         }
       ]
@@ -397,37 +397,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez aguanta el pulso frente a Trump mientras Feijóo sucumbe al marco ultra d",
-      "score": 4.52,
+      "title": "Arcadi España: “No vivimos en un infierno fiscal, ese eslogan del PP es peligros",
+      "score": 5.04,
       "words": [
         {
-          "word": "enemigo",
+          "word": "infierno",
+          "score": -4
+        },
+        {
+          "word": "infierno",
+          "score": -4
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "mejor",
-          "score": 3
+          "word": "cumple",
+          "score": 2
         },
         {
-          "word": "critica",
+          "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "racista",
-          "score": -3
-        },
-        {
-          "word": "intereses",
-          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-15T21:50:11Z",
-      "score": 4.49
-    },
     {
       "timestamp": "2026-04-15T22:38:44Z",
       "score": 4.46
@@ -1095,6 +1091,10 @@
     {
       "timestamp": "2026-04-26T17:36:05Z",
       "score": 4.39
+    },
+    {
+      "timestamp": "2026-04-26T18:50:57Z",
+      "score": 4.36
     }
   ]
 }

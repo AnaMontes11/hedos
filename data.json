@@ -1,27 +1,23 @@
 {
-  "generated": "2026-04-26T11:37:32Z",
-  "global_score": 4.61,
-  "articles_scored": 92,
-  "words_matched": 331,
+  "generated": "2026-04-26T13:01:21Z",
+  "global_score": 4.55,
+  "articles_scored": 86,
+  "words_matched": 316,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "violación",
       "score": -4
     },
     {
-      "word": "fraudes",
+      "word": "infierno",
       "score": -4
     },
     {
@@ -33,21 +29,21 @@
       "score": -3
     },
     {
-      "word": "morir",
+      "word": "asesinato",
+      "score": -3
+    },
+    {
+      "word": "asesino",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "alegría",
       "score": 4
     },
     {
-      "word": "divertido",
-      "score": 4
-    },
-    {
-      "word": "triunfante",
+      "word": "ganador",
       "score": 4
     },
     {
@@ -55,11 +51,11 @@
       "score": 3
     },
     {
-      "word": "diversión",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "emoción",
       "score": 3
     },
     {
@@ -67,19 +63,23 @@
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.29,
-    "elDiario.es": 4.56,
-    "El Mundo": 3.95,
-    "ABC": 5.35,
+    "El País": 3.92,
+    "elDiario.es": 4.47,
+    "El Mundo": 4.1,
+    "ABC": 5.24,
     "El Confidencial": 5.22,
-    "BBC Mundo": 4.56,
-    "France 24 ES": 4.42,
-    "La Nación AR": 4.88,
+    "BBC Mundo": 4.71,
+    "France 24 ES": 4.58,
+    "La Nación AR": 4.53,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
     "Resumen Latinoam.": 4.86
@@ -117,6 +117,21 @@
     },
     {
       "source": "El País",
+      "title": "Última hora del intento de atentado contra Trump, en directo | Los investigadore",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Quién es Cole Allen, el maestro californiano detenido por disparar en la cena de",
       "score": 4.2,
       "words": [
@@ -136,39 +151,20 @@
     },
     {
       "source": "El País",
-      "title": "Video | Así fue el momento de la detención del sospechoso del intento de atentad",
-      "score": 3.4,
+      "title": "El peligro de la violencia política",
+      "score": 2.87,
       "words": [
         {
-          "word": "detención",
+          "word": "peligro",
           "score": -2
         },
         {
-          "word": "vestíbulo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump comparece tras el tiroteo de la cena de corresponsales: “La de presidente ",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "celebra",
-          "score": 3
+          "word": "violencia",
+          "score": -3
         },
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "vestíbulo",
-          "score": -2
-        },
-        {
-          "word": "solitario",
-          "score": -2
+          "word": "asesinato",
+          "score": -3
         }
       ]
     },
@@ -189,50 +185,46 @@
     },
     {
       "source": "El País",
-      "title": "De Kennedy a Reagan y, por tercera vez, Trump: una historia de la violencia polí",
-      "score": 2.6,
+      "title": "Video | Así fue el momento de la detención del sospechoso del intento de atentad",
+      "score": 3.4,
       "words": [
         {
-          "word": "violencia",
-          "score": -3
+          "word": "detención",
+          "score": -2
         },
         {
-          "word": "morir",
-          "score": -3
+          "word": "vestíbulo",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Venezuela, un país provisional",
-      "score": 6.49,
+      "title": "Condena internacional al ataque perpetrado en la cena de Trump con corresponsale",
+      "score": 3.4,
       "words": [
         {
-          "word": "oportunidad",
-          "score": 2
+          "word": "condena",
+          "score": -2
         },
         {
-          "word": "mejor",
-          "score": 3
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "grande",
-          "score": 1
+          "word": "violencia",
+          "score": -3
         },
         {
-          "word": "éxtasis",
-          "score": 2
-        },
-        {
-          "word": "mejora",
-          "score": 2
+          "word": "inaceptable",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "Trump, evacuado de la cena de corresponsales de la Casa Blanca tras un tiroteo e",
-      "score": 4.18,
+      "score": 4.16,
       "words": [
         {
           "word": "detenido",
@@ -312,27 +304,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump impone un nuevo alto el fuego en Líbano que permite a Israel seguir matand",
-      "score": 4.37,
+      "title": "Llevo una década cubriendo a Trump. En la cena de los corresponsales de la Casa ",
+      "score": 4.46,
       "words": [
         {
-          "word": "impone",
+          "word": "oscuridad",
           "score": -1
         },
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "impone",
+          "word": "oscuridad",
           "score": -1
         },
         {
-          "word": "fuego",
+          "word": "solitario",
           "score": -2
         },
         {
-          "word": "ataques",
+          "word": "violento",
+          "score": -3
+        },
+        {
+          "word": "oscuridad",
           "score": -1
         }
       ]
@@ -366,6 +358,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Trump impone un nuevo alto el fuego en Líbano que permite a Israel seguir matand",
+      "score": 4.37,
+      "words": [
+        {
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El nuevo fracaso de las negociaciones con Irán aleja a Trump de una salida inmed",
       "score": 4.66,
       "words": [
@@ -390,40 +409,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Rajoy con Bárcenas y Cospedal con Villarejo: reconstrucción de dos relaciones ol",
-      "score": 5.01,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-15T13:43:28Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-04-15T15:03:51Z",
       "score": 4.44
@@ -1091,6 +1079,10 @@
     {
       "timestamp": "2026-04-26T11:37:32Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-26T13:01:21Z",
+      "score": 4.55
     }
   ]
 }

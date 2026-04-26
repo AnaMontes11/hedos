@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T16:39:13Z",
-  "global_score": 4.41,
-  "articles_scored": 91,
-  "words_matched": 329,
+  "generated": "2026-04-26T17:36:05Z",
+  "global_score": 4.39,
+  "articles_scored": 93,
+  "words_matched": 330,
   "top_negative": [
     {
       "word": "negro",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganador",
       "score": 4
     },
@@ -69,20 +65,24 @@
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.99,
+    "El País": 3.65,
     "elDiario.es": 4.4,
     "El Mundo": 3.95,
-    "ABC": 5.09,
-    "El Confidencial": 5.48,
+    "ABC": 4.93,
+    "El Confidencial": 5.13,
     "BBC Mundo": 4.83,
-    "France 24 ES": 4.0,
-    "La Nación AR": 4.69,
+    "France 24 ES": 4.57,
+    "La Nación AR": 4.76,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 4.02
+    "Resumen Latinoam.": 3.83
   },
   "articles": [
     {
@@ -101,6 +101,25 @@
         {
           "word": "detenido",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El autor del ataque escribió un manifiesto contra Trump",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "autor",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "odio",
+          "score": -3
         }
       ]
     },
@@ -184,17 +203,6 @@
         {
           "word": "pánico",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El momento de la evacuación del vicepresidente de EE UU, J.D. Vance, de la cena ",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
         }
       ]
     },
@@ -336,7 +344,7 @@
     {
       "source": "elDiario.es",
       "title": "El SOS lanzado desde La Haya por juristas y la relatora de la ONU mientras la UE",
-      "score": 4.74,
+      "score": 4.73,
       "words": [
         {
           "word": "lanzado",
@@ -416,10 +424,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-15T20:43:23Z",
-      "score": 4.44
-    },
     {
       "timestamp": "2026-04-15T21:50:11Z",
       "score": 4.49
@@ -1087,6 +1091,10 @@
     {
       "timestamp": "2026-04-26T16:39:13Z",
       "score": 4.41
+    },
+    {
+      "timestamp": "2026-04-26T17:36:05Z",
+      "score": 4.39
     }
   ]
 }

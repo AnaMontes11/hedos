@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T21:35:11Z",
-  "global_score": 4.44,
-  "articles_scored": 93,
-  "words_matched": 322,
+  "generated": "2026-04-26T22:35:20Z",
+  "global_score": 4.51,
+  "articles_scored": 90,
+  "words_matched": 304,
   "top_negative": [
     {
       "word": "negro",
@@ -47,10 +47,6 @@
       "score": 4
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "contento",
       "score": 3
     },
@@ -67,22 +63,26 @@
       "score": 3
     },
     {
+      "word": "sentido",
+      "score": 3
+    },
+    {
       "word": "fiel",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 3.69,
-    "elDiario.es": 4.55,
+    "elDiario.es": 4.64,
     "El Mundo": 3.77,
     "ABC": 4.95,
     "El Confidencial": 5.13,
-    "BBC Mundo": 4.83,
+    "BBC Mundo": 5.09,
     "France 24 ES": 4.45,
-    "La Nación AR": 3.46,
+    "La Nación AR": 3.97,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 5.53
+    "Resumen Latinoam.": 5.27
   },
   "articles": [
     {
@@ -238,6 +238,33 @@
         {
           "word": "disparo",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El gasto militar español crece un 50% hasta los 40.200 millones de dólares, la m",
+      "score": 5.36,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "promesas",
+          "score": 1
+        },
+        {
+          "word": "impulsar",
+          "score": 1
         }
       ]
     },
@@ -402,40 +429,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Arcadi España: “No vivimos en un infierno fiscal, ese eslogan del PP es peligros",
-      "score": 5.04,
-      "words": [
-        {
-          "word": "infierno",
-          "score": -4
-        },
-        {
-          "word": "infierno",
-          "score": -4
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "cumple",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T05:28:32Z",
-      "score": 4.53
-    },
     {
       "timestamp": "2026-04-16T07:28:03Z",
       "score": 4.33
@@ -1103,6 +1099,10 @@
     {
       "timestamp": "2026-04-26T21:35:11Z",
       "score": 4.44
+    },
+    {
+      "timestamp": "2026-04-26T22:35:20Z",
+      "score": 4.51
     }
   ]
 }

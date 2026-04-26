@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T07:25:10Z",
-  "global_score": 4.55,
-  "articles_scored": 92,
-  "words_matched": 339,
+  "generated": "2026-04-26T08:57:38Z",
+  "global_score": 4.65,
+  "articles_scored": 91,
+  "words_matched": 314,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "infierno",
       "score": -4
     },
     {
@@ -31,23 +35,11 @@
     {
       "word": "asesino",
       "score": -3
-    },
-    {
-      "word": "matar",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "magnífico",
-      "score": 5
-    },
-    {
       "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganador",
       "score": 4
     },
     {
@@ -67,22 +59,30 @@
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "felicidad",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.5,
-    "elDiario.es": 4.65,
+    "El País": 4.29,
+    "elDiario.es": 4.56,
     "El Mundo": 4.2,
-    "ABC": 5.24,
-    "El Confidencial": 4.97,
-    "BBC Mundo": 3.87,
+    "ABC": 5.45,
+    "El Confidencial": 5.47,
+    "BBC Mundo": 4.37,
     "France 24 ES": 4.42,
-    "La Nación AR": 4.32,
+    "La Nación AR": 4.46,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 5.13
+    "Resumen Latinoam.": 5.2
   },
   "articles": [
     {
@@ -106,7 +106,37 @@
     },
     {
       "source": "El País",
-      "title": "Video | Así fue el momento de la detención del sospechoso del intendo de atentad",
+      "title": "El momento de la evacuación del vicepresidente de EE UU, J.D. Vance, de la cena ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Quién es Cole Allen, el maestro californiano detenido por disparar en la cena de",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "disparar",
+          "score": -1
+        },
+        {
+          "word": "pistola",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Video | Así fue el momento de la detención del sospechoso del intento de atentad",
       "score": 3.4,
       "words": [
         {
@@ -200,36 +230,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La oposición venezolana: mismo fin, caminos distintos",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "esperanza",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Purgas internas y tutela externa: el chavismo reconstruye su fe sobre las ruinas",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "maduro",
-          "score": 2
-        },
-        {
-          "word": "preparado",
-          "score": 1
-        },
-        {
-          "word": "morir",
-          "score": -3
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Trump, evacuado de la cena de corresponsales de la Casa Blanca tras un tiroteo e",
       "score": 4.18,
@@ -247,12 +247,66 @@
           "score": -3
         },
         {
-          "word": "cancela",
+          "word": "detenido",
           "score": -1
         },
         {
           "word": "disparo",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Última hora sobre el ataque a Trump y la guerra en Irán, en directo",
+      "score": 3.63,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "¿Quién es el atacante? ¿Hay heridos? Todo lo que sabemos del intento de atentado",
+      "score": 4.17,
+      "words": [
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
@@ -363,67 +417,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Rajoy con Bárcenas y Cospedal con Villarejo: reconstrucción de dos relaciones ol",
-      "score": 5.01,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los misterios de la Gürtel y la Kitchen que la Justicia nunca aclaró",
-      "score": 4.89,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "humor",
-          "score": 2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "compromiso",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-15T07:27:48Z",
-      "score": 4.51
-    },
     {
       "timestamp": "2026-04-15T09:16:49Z",
       "score": 4.54
@@ -1091,6 +1087,10 @@
     {
       "timestamp": "2026-04-26T07:25:10Z",
       "score": 4.55
+    },
+    {
+      "timestamp": "2026-04-26T08:57:38Z",
+      "score": 4.65
     }
   ]
 }

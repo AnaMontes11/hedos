@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T08:57:38Z",
-  "global_score": 4.65,
-  "articles_scored": 91,
-  "words_matched": 314,
+  "generated": "2026-04-26T09:56:43Z",
+  "global_score": 4.55,
+  "articles_scored": 81,
+  "words_matched": 303,
   "top_negative": [
     {
       "word": "negro",
@@ -21,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "fraude",
+      "score": -4
+    },
+    {
       "word": "violencia",
       "score": -3
     },
@@ -30,10 +34,6 @@
     },
     {
       "word": "asesinato",
-      "score": -3
-    },
-    {
-      "word": "asesino",
       "score": -3
     }
   ],
@@ -51,35 +51,34 @@
       "score": 4
     },
     {
-      "word": "vibrante",
-      "score": 3
-    },
-    {
       "word": "paraíso",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "lealtad",
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "celebrando",
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "suerte",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.29,
     "elDiario.es": 4.56,
-    "El Mundo": 4.2,
-    "ABC": 5.45,
+    "El Mundo": 4.03,
     "El Confidencial": 5.47,
-    "BBC Mundo": 4.37,
+    "BBC Mundo": 4.52,
     "France 24 ES": 4.42,
-    "La Nación AR": 4.46,
+    "La Nación AR": 4.45,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
     "Resumen Latinoam.": 5.2
@@ -259,7 +258,7 @@
     {
       "source": "elDiario.es",
       "title": "Última hora sobre el ataque a Trump y la guerra en Irán, en directo",
-      "score": 3.63,
+      "score": 3.65,
       "words": [
         {
           "word": "ataque",
@@ -286,7 +285,7 @@
     {
       "source": "elDiario.es",
       "title": "¿Quién es el atacante? ¿Hay heridos? Todo lo que sabemos del intento de atentado",
-      "score": 4.17,
+      "score": 4.08,
       "words": [
         {
           "word": "detenido",
@@ -334,33 +333,6 @@
         {
           "word": "ataques",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump ensaya una nueva narrativa con Irán y recurre ahora a la guerra de Vietnam",
-      "score": 4.74,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     },
@@ -417,13 +389,36 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Rajoy con Bárcenas y Cospedal con Villarejo: reconstrucción de dos relaciones ol",
+      "score": 5.01,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-15T09:16:49Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-04-15T10:57:15Z",
       "score": 4.58
@@ -1091,6 +1086,10 @@
     {
       "timestamp": "2026-04-26T08:57:38Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-04-26T09:56:43Z",
+      "score": 4.55
     }
   ]
 }

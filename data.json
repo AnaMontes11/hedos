@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T14:40:12Z",
-  "global_score": 4.58,
-  "articles_scored": 90,
-  "words_matched": 321,
+  "generated": "2026-04-26T15:39:13Z",
+  "global_score": 4.67,
+  "articles_scored": 86,
+  "words_matched": 342,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "fraudulento",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "asesinato",
       "score": -3
-    },
-    {
-      "word": "asesino",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -51,6 +51,10 @@
       "score": 4
     },
     {
+      "word": "divertido",
+      "score": 4
+    },
+    {
       "word": "ganador",
       "score": 4
     },
@@ -59,30 +63,26 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "leal",
       "score": 3
     },
     {
-      "word": "excelente",
-      "score": 3
-    },
-    {
-      "word": "perfectamente",
+      "word": "impresiona",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.92,
-    "elDiario.es": 4.47,
+    "El País": 4.22,
+    "elDiario.es": 4.52,
     "El Mundo": 4.12,
-    "ABC": 5.62,
-    "El Confidencial": 5.48,
+    "ABC": 5.66,
+    "El Confidencial": 5.35,
     "BBC Mundo": 4.71,
-    "France 24 ES": 4.54,
-    "La Nación AR": 4.19,
+    "France 24 ES": 4.13,
+    "La Nación AR": 6.6,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 4.86
+    "Resumen Latinoam.": 4.91
   },
   "articles": [
     {
@@ -128,7 +128,7 @@
     },
     {
       "source": "El País",
-      "title": "Quién es Cole Allen, el maestro californiano detenido por disparar en la cena de",
+      "title": "Quién es Cole Allen, el profesor californiano detenido por disparar en la cena d",
       "score": 4.2,
       "words": [
         {
@@ -166,53 +166,26 @@
     },
     {
       "source": "El País",
-      "title": "El atentado contra Trump en la Cena de Corresponsales de la Casa Blanca, el terc",
-      "score": 3.8,
+      "title": "El Servicio Secreto de Trump, de nuevo en el punto de mira tras el tiroteo en la",
+      "score": 5.4,
       "words": [
         {
-          "word": "ataque",
-          "score": -1
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "disparo",
+          "word": "error",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Video | Así fue el momento de la detención del sospechoso del intento de atentad",
+      "title": "El keniano Sabastian Sawe es el primer hombre de la historia en bajar de las dos",
       "score": 3.4,
       "words": [
         {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "vestíbulo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Condena internacional al ataque perpetrado en la cena de Trump con corresponsale",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "inaceptable",
+          "word": "tiempo",
           "score": -2
         }
       ]
@@ -381,37 +354,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El nuevo fracaso de las negociaciones con Irán aleja a Trump de una salida inmed",
-      "score": 4.66,
+      "title": "Sánchez aguanta el pulso frente a Trump mientras Feijóo sucumbe al marco ultra d",
+      "score": 4.52,
       "words": [
         {
-          "word": "fracaso",
+          "word": "enemigo",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "critica",
           "score": -2
         },
         {
-          "word": "fracaso",
-          "score": -2
+          "word": "racista",
+          "score": -3
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "intereses",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Abascal insiste en vincular inmigración con delincuencia aunque ahora defiende a",
+      "score": 5.18,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "cancela",
+          "word": "recortes",
           "score": -1
+        },
+        {
+          "word": "violación",
+          "score": -4
+        },
+        {
+          "word": "criticado",
+          "score": -2
+        },
+        {
+          "word": "asegurando",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-15T17:00:42Z",
-      "score": 4.41
-    },
     {
       "timestamp": "2026-04-15T19:13:02Z",
       "score": 4.53
@@ -1079,6 +1075,10 @@
     {
       "timestamp": "2026-04-26T14:40:12Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-04-26T15:39:13Z",
+      "score": 4.67
     }
   ]
 }

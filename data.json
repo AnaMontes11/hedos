@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T22:35:20Z",
-  "global_score": 4.51,
-  "articles_scored": 90,
-  "words_matched": 304,
+  "generated": "2026-04-26T23:36:17Z",
+  "global_score": 4.44,
+  "articles_scored": 92,
+  "words_matched": 308,
   "top_negative": [
     {
       "word": "negro",
@@ -39,23 +39,11 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "milagro",
       "score": 4
     },
     {
-      "word": "contento",
-      "score": 3
-    },
-    {
       "word": "exitoso",
-      "score": 3
-    },
-    {
-      "word": "premios",
       "score": 3
     },
     {
@@ -69,22 +57,53 @@
     {
       "word": "fiel",
       "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.69,
+    "El País": 3.65,
     "elDiario.es": 4.64,
     "El Mundo": 3.77,
-    "ABC": 4.95,
+    "ABC": 5.46,
     "El Confidencial": 5.13,
     "BBC Mundo": 5.09,
-    "France 24 ES": 4.45,
-    "La Nación AR": 3.97,
+    "France 24 ES": 4.41,
+    "La Nación AR": 3.8,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 5.27
+    "Resumen Latinoam.": 4.7
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora del intento de atentado contra Trump, en directo | Trump afirma que ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "autor",
+          "score": -2
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El autor del ataque escribió un manifiesto contra Trump",
@@ -402,40 +421,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump impone un nuevo alto el fuego en Líbano que permite a Israel seguir matand",
-      "score": 4.37,
-      "words": [
-        {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T07:28:03Z",
-      "score": 4.33
-    },
     {
       "timestamp": "2026-04-16T09:16:03Z",
       "score": 4.52
@@ -1103,6 +1091,10 @@
     {
       "timestamp": "2026-04-26T22:35:20Z",
       "score": 4.51
+    },
+    {
+      "timestamp": "2026-04-26T23:36:17Z",
+      "score": 4.44
     }
   ]
 }

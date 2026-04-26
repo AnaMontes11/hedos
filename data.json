@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T10:47:15Z",
-  "global_score": 4.58,
-  "articles_scored": 90,
-  "words_matched": 334,
+  "generated": "2026-04-26T11:37:32Z",
+  "global_score": 4.61,
+  "articles_scored": 92,
+  "words_matched": 331,
   "top_negative": [
     {
       "word": "negro",
@@ -51,15 +51,15 @@
       "score": 4
     },
     {
-      "word": "paraíso",
-      "score": 3
-    },
-    {
-      "word": "premio",
+      "word": "exitoso",
       "score": 3
     },
     {
       "word": "diversión",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -73,16 +73,16 @@
   ],
   "per_source": {
     "El País": 4.29,
-    "elDiario.es": 4.57,
-    "El Mundo": 4.03,
-    "ABC": 4.7,
+    "elDiario.es": 4.56,
+    "El Mundo": 3.95,
+    "ABC": 5.35,
     "El Confidencial": 5.22,
-    "BBC Mundo": 4.52,
+    "BBC Mundo": 4.56,
     "France 24 ES": 4.42,
-    "La Nación AR": 4.85,
+    "La Nación AR": 4.88,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 5.2
+    "Resumen Latinoam.": 4.86
   },
   "articles": [
     {
@@ -259,7 +259,7 @@
     {
       "source": "elDiario.es",
       "title": "Todo lo que sabemos del intento de atentado a Donald Trump",
-      "score": 4.08,
+      "score": 4.03,
       "words": [
         {
           "word": "detenido",
@@ -420,10 +420,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-15T11:57:10Z",
-      "score": 4.49
-    },
     {
       "timestamp": "2026-04-15T13:43:28Z",
       "score": 4.64
@@ -1091,6 +1087,10 @@
     {
       "timestamp": "2026-04-26T10:47:15Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-04-26T11:37:32Z",
+      "score": 4.61
     }
   ]
 }

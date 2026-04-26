@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-26T13:01:21Z",
-  "global_score": 4.55,
-  "articles_scored": 86,
-  "words_matched": 316,
+  "generated": "2026-04-26T14:40:12Z",
+  "global_score": 4.58,
+  "articles_scored": 90,
+  "words_matched": 321,
   "top_negative": [
     {
       "word": "negro",
@@ -39,7 +39,15 @@
   ],
   "top_positive": [
     {
+      "word": "bendición",
+      "score": 4
+    },
+    {
       "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -51,35 +59,27 @@
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "emoción",
       "score": 3
     },
     {
-      "word": "lealtad",
+      "word": "excelente",
       "score": 3
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "mejor",
+      "word": "perfectamente",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 3.92,
     "elDiario.es": 4.47,
-    "El Mundo": 4.1,
-    "ABC": 5.24,
-    "El Confidencial": 5.22,
+    "El Mundo": 4.12,
+    "ABC": 5.62,
+    "El Confidencial": 5.48,
     "BBC Mundo": 4.71,
-    "France 24 ES": 4.58,
-    "La Nación AR": 4.53,
+    "France 24 ES": 4.54,
+    "La Nación AR": 4.19,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
     "Resumen Latinoam.": 4.86
@@ -122,10 +122,6 @@
       "words": [
         {
           "word": "detenido",
-          "score": -1
-        },
-        {
-          "word": "ataque",
           "score": -1
         }
       ]
@@ -251,7 +247,7 @@
     {
       "source": "elDiario.es",
       "title": "Todo lo que sabemos del intento de atentado a Donald Trump",
-      "score": 4.03,
+      "score": 4.02,
       "words": [
         {
           "word": "detenido",
@@ -412,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-15T15:03:51Z",
-      "score": 4.44
-    },
     {
       "timestamp": "2026-04-15T17:00:42Z",
       "score": 4.41
@@ -1083,6 +1075,10 @@
     {
       "timestamp": "2026-04-26T13:01:21Z",
       "score": 4.55
+    },
+    {
+      "timestamp": "2026-04-26T14:40:12Z",
+      "score": 4.58
     }
   ]
 }

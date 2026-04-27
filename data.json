@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-27T02:33:11Z",
-  "global_score": 4.43,
-  "articles_scored": 86,
-  "words_matched": 299,
+  "generated": "2026-04-27T05:51:20Z",
+  "global_score": 4.44,
+  "articles_scored": 88,
+  "words_matched": 300,
   "top_negative": [
     {
       "word": "negro",
@@ -13,73 +13,73 @@
       "score": -4
     },
     {
-      "word": "mierda",
-      "score": -4
-    },
-    {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "infierno",
-      "score": -4
-    },
-    {
       "word": "fraude",
       "score": -4
     },
     {
       "word": "torturas",
       "score": -4
+    },
+    {
+      "word": "odio",
+      "score": -3
+    },
+    {
+      "word": "violencia",
+      "score": -3
+    },
+    {
+      "word": "asesinato",
+      "score": -3
+    },
+    {
+      "word": "pánico",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "victorioso",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "premios",
+      "score": 3
+    },
     {
       "word": "exitoso",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "lealtad",
-      "score": 3
-    },
-    {
-      "word": "cautivado",
-      "score": 3
-    },
-    {
-      "word": "celebrando",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "premio",
+      "word": "placer",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 3.65,
-    "elDiario.es": 4.64,
+    "elDiario.es": 4.84,
     "El Mundo": 3.76,
-    "ABC": 4.6,
-    "El Confidencial": 5.13,
-    "BBC Mundo": 5.09,
-    "France 24 ES": 3.91,
-    "La Nación AR": 4.94,
+    "ABC": 4.62,
+    "El Confidencial": 4.87,
+    "BBC Mundo": 4.39,
+    "France 24 ES": 4.83,
+    "La Nación AR": 4.28,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
     "Resumen Latinoam.": 4.79
@@ -120,25 +120,6 @@
         {
           "word": "odio",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump, evacuado ileso de la cena de corresponsales de la Casa Blanca tras un tir",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "vestíbulo",
-          "score": -2
-        },
-        {
-          "word": "detenido",
-          "score": -1
         }
       ]
     },
@@ -208,54 +189,54 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump afirma que el atacante de la cena de corresponsales \"expresaba odio\" y era",
-      "score": 3.84,
+      "title": "Trump usa el ataque de la cena de corresponsales para reivindicar su agenda en p",
+      "score": 4.3,
       "words": [
         {
-          "word": "odio",
-          "score": -3
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "odio",
-          "score": -3
+          "word": "bloqueo",
+          "score": -1
         },
         {
-          "word": "tiempo",
-          "score": -2
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "odio",
-          "score": -3
+          "word": "bloqueo",
+          "score": -1
         },
         {
-          "word": "anti",
+          "word": "ataque",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump, evacuado de la cena de corresponsales de la Casa Blanca tras un tiroteo e",
-      "score": 4.16,
+      "title": "Trump estalla al ser preguntado por el manifiesto del atacante: \"No soy un viola",
+      "score": 3.47,
       "words": [
         {
-          "word": "detenido",
-          "score": -1
+          "word": "violador",
+          "score": -4
         },
         {
-          "word": "detenido",
-          "score": -1
+          "word": "vergüenza",
+          "score": -2
         },
         {
-          "word": "asesinato",
-          "score": -3
+          "word": "violador",
+          "score": -4
         },
         {
-          "word": "detenido",
-          "score": -1
+          "word": "vergüenza",
+          "score": -2
         },
         {
-          "word": "disparo",
+          "word": "carga",
           "score": -2
         }
       ]
@@ -289,145 +270,168 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Todo lo que sabemos del intento de atentado a Donald Trump",
-      "score": 4.02,
+      "title": "El bloqueo naval de Trump en Ormuz es un reconocimiento del peligro de la ofensi",
+      "score": 4.48,
       "words": [
         {
-          "word": "detenido",
+          "word": "bloqueo",
           "score": -1
         },
         {
-          "word": "detenido",
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
           "score": -1
         },
         {
-          "word": "detenido",
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El corte de Internet en Irán es el más largo que sufre un país desde la Primaver",
+      "score": 4.18,
+      "words": [
+        {
+          "word": "corte",
           "score": -1
         },
         {
-          "word": "ataque",
+          "word": "sufre",
+          "score": -2
+        },
+        {
+          "word": "corte",
           "score": -1
+        },
+        {
+          "word": "sufre",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo sucumbe al discurso ultra de Vox",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "concesión",
+          "score": 1
+        },
+        {
+          "word": "aprobado",
+          "score": 2
+        },
+        {
+          "word": "contaminado",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Del cordón sanitario a la prioridad nacional",
+      "score": 6.07,
+      "words": [
+        {
+          "word": "significado",
+          "score": 1
+        },
+        {
+          "word": "promesa",
+          "score": 1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "importante",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Del hermano de Ayuso al 'caso Ábalos': la avaricia no es delito; el cohecho, sí",
+      "score": 4.36,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "alarma",
+          "score": -2
+        },
+        {
+          "word": "competitivo",
+          "score": 2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juicio del 'caso mascarillas' llega a su ecuador en el Supremo sin abordar la",
+      "score": 5.22,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "celebra",
+          "score": 3
         },
         {
           "word": "pasado",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Última hora sobre el ataque a Trump y la guerra en Irán, en directo",
-      "score": 3.68,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "detenido",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Muere el cineasta argentino Adolfo Aristarain, director de 'Martín (Hache)', a l",
-      "score": 6.71,
-      "words": [
-        {
-          "word": "responsable",
+          "word": "cierto",
           "score": 2
         },
         {
-          "word": "duda",
-          "score": -1
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "medalla",
-          "score": 3
-        },
-        {
-          "word": "premio",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Llevo una década cubriendo a Trump. En la cena de los corresponsales de la Casa ",
-      "score": 4.46,
-      "words": [
-        {
-          "word": "oscuridad",
-          "score": -1
-        },
-        {
-          "word": "oscuridad",
-          "score": -1
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        },
-        {
-          "word": "violento",
-          "score": -3
-        },
-        {
-          "word": "oscuridad",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El SOS lanzado desde La Haya por juristas y la relatora de la ONU mientras la UE",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "lanzado",
-          "score": 1
-        },
-        {
-          "word": "protege",
-          "score": 1
-        },
-        {
-          "word": "lanzado",
-          "score": 1
-        },
-        {
-          "word": "protege",
-          "score": 1
-        },
-        {
-          "word": "derecho",
+          "word": "soluciones",
           "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T10:59:58Z",
-      "score": 4.34
-    },
     {
       "timestamp": "2026-04-16T12:05:18Z",
       "score": 4.32
@@ -1095,6 +1099,10 @@
     {
       "timestamp": "2026-04-27T02:33:11Z",
       "score": 4.43
+    },
+    {
+      "timestamp": "2026-04-27T05:51:20Z",
+      "score": 4.44
     }
   ]
 }

@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-27T15:45:36Z",
-  "global_score": 4.54,
-  "articles_scored": 100,
-  "words_matched": 264,
+  "generated": "2026-04-27T17:19:58Z",
+  "global_score": 4.74,
+  "articles_scored": 98,
+  "words_matched": 262,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "infierno",
       "score": -4
@@ -25,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "crisis",
+      "score": -3
+    },
+    {
       "word": "humillado",
       "score": -3
     },
@@ -39,16 +39,8 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "premio",
-      "score": 3
     },
     {
       "word": "amor",
@@ -59,39 +51,55 @@
       "score": 3
     },
     {
-      "word": "ventilador",
-      "score": 3
-    },
-    {
-      "word": "placer",
-      "score": 3
-    },
-    {
       "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "alabando",
+      "score": 3
+    },
+    {
+      "word": "fiel",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.86,
-    "elDiario.es": 4.48,
-    "El Mundo": 4.52,
-    "ABC": 4.63,
-    "El Confidencial": 4.39,
-    "BBC Mundo": 4.49,
-    "France 24 ES": 5.08,
-    "La Nación AR": 4.68,
+    "El País": 4.68,
+    "elDiario.es": 4.54,
+    "El Mundo": 5.02,
+    "ABC": 5.37,
+    "El Confidencial": 4.71,
+    "BBC Mundo": 4.46,
+    "France 24 ES": 4.8,
+    "La Nación AR": 5.13,
     "La Jornada MX": 4.81,
-    "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 4.21
+    "Desinformémonos": 3.8,
+    "Resumen Latinoam.": 4.99
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El jefe de la UCO declara en el Supremo que Ábalos era el jefe “instrumental” de",
-      "score": 4.2,
+      "title": "Crisis en Más Madrid | Emilio Delgado: “No me parece bien que lo anuncies”; Móni",
+      "score": 3.4,
       "words": [
         {
-          "word": "paga",
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "disputa",
+          "score": -2
+        },
+        {
+          "word": "pasado",
           "score": -1
         }
       ]
@@ -136,6 +144,17 @@
     },
     {
       "source": "El País",
+      "title": "Trump fulmina de golpe a todos los miembros del Consejo Nacional de Ciencia",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "golpe",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Críticas a la seguridad, disparos y un sospechoso con muchos objetivos: reconstr",
       "score": 3.4,
       "words": [
@@ -151,12 +170,12 @@
     },
     {
       "source": "El País",
-      "title": "Trump fulmina de golpe a todos los miembros del Consejo Nacional de Ciencia",
-      "score": 3.4,
+      "title": "El jefe de la UCO declara en el Supremo que Ábalos era el jefe “instrumental” de",
+      "score": 4.2,
       "words": [
         {
-          "word": "golpe",
-          "score": -2
+          "word": "paga",
+          "score": -1
         }
       ]
     },
@@ -254,8 +273,35 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La defensa de Begoña Gómez cita la boda de la hija de Aznar entre las tareas \"pr",
+      "score": 5.73,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "cumple",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La Fiscalía acusa a Peinado de basarse en “hipótesis” y “alambicadas teorías” pa",
-      "score": 4.07,
+      "score": 4.12,
       "words": [
         {
           "word": "acusa",
@@ -266,22 +312,22 @@
           "score": -2
         },
         {
-          "word": "delito",
-          "score": -3
-        },
-        {
           "word": "delitos",
           "score": -3
         },
         {
           "word": "expone",
           "score": -1
+        },
+        {
+          "word": "absueltos",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El teniente Balas dice que aunque Aldama era el jefe de la trama, Ábalos fue \"fu",
+      "title": "El teniente coronel Balas dice que aunque Aldama era el jefe de la trama, Ábalos",
       "score": 4.73,
       "words": [
         {
@@ -359,67 +405,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Poder Judicial investiga al juez del caso de la presunta violación del exDAO ",
-      "score": 4.21,
-      "words": [
-        {
-          "word": "violación",
-          "score": -4
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "violación",
-          "score": -4
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "“Ventajas” por denunciar y “lavado de coco” a los hijos: las expertas desmontan ",
-      "score": 4.28,
-      "words": [
-        {
-          "word": "ventajas",
-          "score": 2
-        },
-        {
-          "word": "denunciar",
-          "score": -2
-        },
-        {
-          "word": "ventajas",
-          "score": 2
-        },
-        {
-          "word": "denunciar",
-          "score": -2
-        },
-        {
-          "word": "promueve",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T19:58:21Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-04-16T20:55:34Z",
       "score": 4.71
@@ -1087,6 +1075,10 @@
     {
       "timestamp": "2026-04-27T15:45:36Z",
       "score": 4.54
+    },
+    {
+      "timestamp": "2026-04-27T17:19:58Z",
+      "score": 4.74
     }
   ]
 }

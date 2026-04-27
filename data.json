@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-27T08:19:44Z",
-  "global_score": 4.56,
-  "articles_scored": 89,
-  "words_matched": 295,
+  "generated": "2026-04-27T11:01:28Z",
+  "global_score": 4.68,
+  "articles_scored": 88,
+  "words_matched": 287,
   "top_negative": [
     {
       "word": "negro",
@@ -17,15 +17,15 @@
       "score": -4
     },
     {
-      "word": "torturas",
-      "score": -4
-    },
-    {
       "word": "matar",
       "score": -3
     },
     {
       "word": "violencia",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     },
     {
@@ -39,15 +39,11 @@
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
       "word": "victorioso",
       "score": 4
     },
     {
-      "word": "triunfo",
+      "word": "victorias",
       "score": 4
     },
     {
@@ -59,32 +55,51 @@
       "score": 3
     },
     {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
+    },
+    {
       "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "placer",
-      "score": 3
-    },
-    {
-      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.79,
-    "elDiario.es": 4.84,
-    "El Mundo": 3.82,
-    "ABC": 5.08,
-    "El Confidencial": 4.84,
-    "BBC Mundo": 4.39,
+    "El País": 4.65,
+    "elDiario.es": 4.57,
+    "El Mundo": 4.07,
+    "ABC": 6.01,
+    "El Confidencial": 4.2,
+    "BBC Mundo": 4.43,
     "France 24 ES": 4.83,
-    "La Nación AR": 4.43,
-    "La Jornada MX": 4.47,
+    "La Nación AR": 4.79,
+    "La Jornada MX": 4.81,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 4.61
+    "Resumen Latinoam.": 4.87
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "La Audiencia Nacional exonera a Jordi Pujol del juicio por la fortuna oculta deb",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "exonera",
+          "score": 2
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Críticas a la seguridad, disparos y un sospechoso con muchos objetivos: reconstr",
@@ -158,25 +173,6 @@
     },
     {
       "source": "El País",
-      "title": "El hijo de Ábalos: “Mi padre está preparado para cualquier escenario”",
-      "score": 6.33,
-      "words": [
-        {
-          "word": "preparado",
-          "score": 1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Britney Spears o la crónica de un hundimiento en directo que nadie ha sabido (ni",
       "score": 6.33,
       "words": [
@@ -196,27 +192,39 @@
     },
     {
       "source": "El País",
-      "title": "La lógica de Palantir",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "matar",
-          "score": -3
-        },
-        {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Los humanos primero",
       "score": 3.4,
       "words": [
         {
           "word": "problemas",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El gasto militar español crece un 50% hasta los 40.200 millones de dólares, la m",
+      "score": 5.41,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "promesas",
+          "score": 1
+        },
+        {
+          "word": "impulsar",
+          "score": 1
         }
       ]
     },
@@ -276,33 +284,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El gasto militar español crece un 50% hasta los 40.200 millones de dólares, la m",
-      "score": 5.36,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "impulsar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El bloqueo naval de Trump en Ormuz es un reconocimiento del peligro de la ofensi",
       "score": 4.48,
       "words": [
@@ -357,37 +338,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo sucumbe al discurso ultra de Vox",
-      "score": 5.17,
+      "title": "El hijo de Bárcenas declara que su padre le confesó en 2013 que existía una grab",
+      "score": 3.69,
       "words": [
         {
-          "word": "concesión",
-          "score": 1
+          "word": "duda",
+          "score": -1
         },
         {
-          "word": "aprobado",
-          "score": 2
+          "word": "falso",
+          "score": -3
         },
         {
-          "word": "contaminado",
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "evitar",
-          "score": -1
+          "word": "asegurado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sáenz de Santamaría asegura desconocer que el CNI participara en Kitchen ni que ",
+      "score": 4.84,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "responsable",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T14:53:30Z",
-      "score": 4.38
-    },
     {
       "timestamp": "2026-04-16T16:21:05Z",
       "score": 4.51
@@ -1055,6 +1059,10 @@
     {
       "timestamp": "2026-04-27T08:19:44Z",
       "score": 4.56
+    },
+    {
+      "timestamp": "2026-04-27T11:01:28Z",
+      "score": 4.68
     }
   ]
 }

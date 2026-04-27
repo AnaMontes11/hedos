@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-27T05:51:20Z",
-  "global_score": 4.44,
-  "articles_scored": 88,
-  "words_matched": 300,
+  "generated": "2026-04-27T08:19:44Z",
+  "global_score": 4.56,
+  "articles_scored": 89,
+  "words_matched": 295,
   "top_negative": [
     {
       "word": "negro",
@@ -21,7 +21,7 @@
       "score": -4
     },
     {
-      "word": "odio",
+      "word": "matar",
       "score": -3
     },
     {
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "asesinato",
+      "word": "odio",
       "score": -3
     },
     {
-      "word": "pánico",
+      "word": "asesinato",
       "score": -3
     }
   ],
@@ -55,10 +55,6 @@
       "score": 4
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
       "word": "exitoso",
       "score": 3
     },
@@ -69,121 +65,158 @@
     {
       "word": "placer",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.65,
+    "El País": 4.79,
     "elDiario.es": 4.84,
-    "El Mundo": 3.76,
-    "ABC": 4.62,
-    "El Confidencial": 4.87,
+    "El Mundo": 3.82,
+    "ABC": 5.08,
+    "El Confidencial": 4.84,
     "BBC Mundo": 4.39,
     "France 24 ES": 4.83,
-    "La Nación AR": 4.28,
+    "La Nación AR": 4.43,
     "La Jornada MX": 4.47,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 4.79
+    "Resumen Latinoam.": 4.61
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del intento de atentado contra Trump, en directo | Trump afirma que ",
+      "title": "Críticas a la seguridad, disparos y un sospechoso con muchos objetivos: reconstr",
       "score": 3.4,
       "words": [
-        {
-          "word": "autor",
-          "score": -2
-        },
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "detenido",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El autor del ataque escribió un manifiesto contra Trump",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "autor",
-          "score": -2
-        },
         {
           "word": "ataque",
           "score": -1
         },
         {
-          "word": "odio",
+          "word": "matar",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Quién es Cole Allen, el profesor californiano detenido por disparar en la cena d",
+      "title": "Trump dice que tardó en ser evacuado durante el ataque de la cena de corresponsa",
       "score": 4.2,
       "words": [
         {
-          "word": "detenido",
-          "score": -1
-        },
-        {
-          "word": "disparar",
-          "score": -1
-        },
-        {
-          "word": "pistola",
+          "word": "ataque",
           "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El peligro de la violencia política",
-      "score": 2.87,
+      "title": "Última hora y reacciones tras el intento de atentado contra Donald Trump, en dir",
+      "score": 4.47,
       "words": [
         {
-          "word": "peligro",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         },
         {
           "word": "violencia",
           "score": -3
         },
         {
-          "word": "asesinato",
-          "score": -3
+          "word": "detenido",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El Servicio Secreto de Trump, de nuevo en el punto de mira tras el tiroteo en la",
-      "score": 5.4,
+      "title": "Mythos, el nuevo modelo de IA de Anthropic, desata la alarma mundial",
+      "score": 4.6,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "alarma",
+          "score": -2
         },
         {
-          "word": "error",
-          "score": -2
+          "word": "capaz",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Cronología visual del atentado contra Trump en la cena de corresponsales de la C",
-      "score": 2.6,
+      "title": "El inquietante manifiesto de Palantir recibe un aluvión de críticas: entre el te",
+      "score": 5.8,
       "words": [
         {
-          "word": "pánico",
+          "word": "visión",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El hijo de Ábalos: “Mi padre está preparado para cualquier escenario”",
+      "score": 6.33,
+      "words": [
+        {
+          "word": "preparado",
+          "score": 1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Britney Spears o la crónica de un hundimiento en directo que nadie ha sabido (ni",
+      "score": 6.33,
+      "words": [
+        {
+          "word": "querido",
+          "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "legal",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La lógica de Palantir",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "matar",
           "score": -3
+        },
+        {
+          "word": "paz",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los humanos primero",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "problemas",
+          "score": -2
         }
       ]
     },
@@ -348,94 +381,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Del cordón sanitario a la prioridad nacional",
-      "score": 6.07,
-      "words": [
-        {
-          "word": "significado",
-          "score": 1
-        },
-        {
-          "word": "promesa",
-          "score": 1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Del hermano de Ayuso al 'caso Ábalos': la avaricia no es delito; el cohecho, sí",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "alarma",
-          "score": -2
-        },
-        {
-          "word": "competitivo",
-          "score": 2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juicio del 'caso mascarillas' llega a su ecuador en el Supremo sin abordar la",
-      "score": 5.22,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "cierto",
-          "score": 2
-        },
-        {
-          "word": "soluciones",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T12:05:18Z",
-      "score": 4.32
-    },
     {
       "timestamp": "2026-04-16T14:53:30Z",
       "score": 4.38
@@ -1103,6 +1051,10 @@
     {
       "timestamp": "2026-04-27T05:51:20Z",
       "score": 4.44
+    },
+    {
+      "timestamp": "2026-04-27T08:19:44Z",
+      "score": 4.56
     }
   ]
 }

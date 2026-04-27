@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-27T20:59:03Z",
-  "global_score": 4.54,
-  "articles_scored": 98,
-  "words_matched": 241,
+  "generated": "2026-04-27T22:00:04Z",
+  "global_score": 4.6,
+  "articles_scored": 100,
+  "words_matched": 240,
   "top_negative": [
     {
       "word": "violador",
@@ -14,6 +14,10 @@
     },
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "maldición",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "odio",
       "score": -3
-    },
-    {
-      "word": "asesinato",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,19 +43,7 @@
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
       "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
       "score": 3
     },
     {
@@ -69,20 +57,32 @@
     {
       "word": "lealtad",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.16,
+    "El País": 4.43,
     "elDiario.es": 4.49,
-    "El Mundo": 5.06,
-    "ABC": 5.57,
+    "El Mundo": 5.24,
+    "ABC": 5.19,
     "El Confidencial": 4.79,
-    "BBC Mundo": 4.47,
-    "France 24 ES": 3.91,
-    "La Nación AR": 4.71,
+    "BBC Mundo": 4.66,
+    "France 24 ES": 3.98,
+    "La Nación AR": 4.84,
     "La Jornada MX": 4.81,
-    "Desinformémonos": 3.8,
-    "Resumen Latinoam.": 4.2
+    "Desinformémonos": 3.88,
+    "Resumen Latinoam.": 4.43
   },
   "articles": [
     {
@@ -204,6 +204,17 @@
         {
           "word": "paga",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las defensas agotan al tribunal con sus explicaciones alternativas: “Voy a ser m",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "reivindica",
+          "score": 2
         }
       ]
     },
@@ -406,40 +417,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El TSJ valenciano confirma su decisión de no investigar a Mazón por la dana",
-      "score": 4.97,
-      "words": [
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "infierno",
-          "score": -4
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T22:37:24Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-04-16T23:38:02Z",
       "score": 4.82
@@ -1107,6 +1087,10 @@
     {
       "timestamp": "2026-04-27T20:59:03Z",
       "score": 4.54
+    },
+    {
+      "timestamp": "2026-04-27T22:00:04Z",
+      "score": 4.6
     }
   ]
 }

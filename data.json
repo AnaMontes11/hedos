@@ -1,12 +1,16 @@
 {
-  "generated": "2026-04-27T13:47:04Z",
-  "global_score": 4.75,
-  "articles_scored": 92,
-  "words_matched": 265,
+  "generated": "2026-04-27T15:45:36Z",
+  "global_score": 4.54,
+  "articles_scored": 100,
+  "words_matched": 264,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "infierno",
+      "score": -4
     },
     {
       "word": "culo",
@@ -21,25 +25,21 @@
       "score": -4
     },
     {
-      "word": "infierno",
-      "score": -4
+      "word": "humillado",
+      "score": -3
     },
     {
       "word": "matar",
       "score": -3
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "delito",
+      "word": "asesinato",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "victorioso",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -47,7 +47,11 @@
       "score": 4
     },
     {
-      "word": "impresionante",
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "amor",
       "score": 3
     },
     {
@@ -55,11 +59,7 @@
       "score": 3
     },
     {
-      "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "ventilador",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.71,
-    "elDiario.es": 4.57,
-    "El Mundo": 4.27,
-    "ABC": 5.4,
-    "El Confidencial": 4.37,
-    "BBC Mundo": 4.7,
-    "France 24 ES": 5.22,
-    "La Nación AR": 5.13,
+    "El País": 4.86,
+    "elDiario.es": 4.48,
+    "El Mundo": 4.52,
+    "ABC": 4.63,
+    "El Confidencial": 4.39,
+    "BBC Mundo": 4.49,
+    "France 24 ES": 5.08,
+    "La Nación AR": 4.68,
     "La Jornada MX": 4.81,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 5.23
+    "Resumen Latinoam.": 4.21
   },
   "articles": [
     {
@@ -98,16 +98,39 @@
     },
     {
       "source": "El País",
-      "title": "La Audiencia Nacional exonera a Jordi Pujol del juicio por la fortuna oculta deb",
-      "score": 5.0,
+      "title": "El canciller alemán afirma que Estados Unidos está siendo “humillado” por Irán e",
+      "score": 3.24,
       "words": [
         {
-          "word": "exonera",
-          "score": 2
+          "word": "humillado",
+          "score": -3
         },
         {
-          "word": "sentencia",
+          "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "ausencia",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "desastre",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Irán propone un plan para la paz en tres etapas que deja para el final la cuesti",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
         }
       ]
     },
@@ -128,76 +151,104 @@
     },
     {
       "source": "El País",
-      "title": "Mythos, el nuevo modelo de IA de Anthropic, desata la alarma mundial",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "alarma",
-          "score": -2
-        },
-        {
-          "word": "capaz",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El inquietante manifiesto de Palantir recibe un aluvión de críticas: entre el te",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "visión",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los humanos primero",
+      "title": "Trump fulmina de golpe a todos los miembros del Consejo Nacional de Ciencia",
       "score": 3.4,
       "words": [
         {
-          "word": "problemas",
+          "word": "golpe",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Cuerpo anuncia una revisión de las previsiones económicas para actualizar a Brus",
-      "score": 6.6,
+      "title": "Dolores Vázquez, al recibir una medalla por la Igualdad del Gobierno: “He perdon",
+      "score": 5.8,
       "words": [
         {
-          "word": "aprueba",
+          "word": "medalla",
+          "score": 3
+        },
+        {
+          "word": "perdonado",
           "score": 2
+        },
+        {
+          "word": "querer",
+          "score": 1
+        },
+        {
+          "word": "homenaje",
+          "score": 2
+        },
+        {
+          "word": "asesinato",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Junts confirma su rechazo en el Congreso al decreto que prorroga los alquileres",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El gasto militar español crece un 50% hasta los 40.200 millones de dólares, la m",
-      "score": 5.41,
+      "title": "El TSJ valenciano confirma su decisión de no investigar a Mazón por la dana",
+      "score": 4.97,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "infierno",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El chófer de Mazón confirma que el expresidente y su equipo mintieron durante me",
+      "score": 4.45,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "rechazado",
+          "score": -1
         },
         {
           "word": "mayor",
           "score": 3
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "nervioso",
+          "score": -2
         },
         {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "impulsar",
-          "score": 1
+          "word": "rechazado",
+          "score": -1
         }
       ]
     },
@@ -231,7 +282,7 @@
     {
       "source": "elDiario.es",
       "title": "El teniente Balas dice que aunque Aldama era el jefe de la trama, Ábalos fue \"fu",
-      "score": 4.72,
+      "score": 4.73,
       "words": [
         {
           "word": "grande",
@@ -312,7 +363,7 @@
     {
       "source": "elDiario.es",
       "title": "El Poder Judicial investiga al juez del caso de la presunta violación del exDAO ",
-      "score": 4.18,
+      "score": 4.21,
       "words": [
         {
           "word": "violación",
@@ -362,40 +413,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Del hermano de Ayuso al 'caso Ábalos': la avaricia no es delito; el cohecho, sí",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "alarma",
-          "score": -2
-        },
-        {
-          "word": "competitivo",
-          "score": 2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T18:06:48Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-04-16T19:58:21Z",
       "score": 4.57
@@ -1063,6 +1083,10 @@
     {
       "timestamp": "2026-04-27T13:47:04Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-04-27T15:45:36Z",
+      "score": 4.54
     }
   ]
 }

@@ -1,15 +1,19 @@
 {
-  "generated": "2026-04-27T11:01:28Z",
-  "global_score": 4.68,
-  "articles_scored": 88,
-  "words_matched": 287,
+  "generated": "2026-04-27T13:47:04Z",
+  "global_score": 4.75,
+  "articles_scored": 92,
+  "words_matched": 265,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "violador",
+      "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "violación",
       "score": -4
     },
     {
@@ -17,11 +21,11 @@
       "score": -4
     },
     {
-      "word": "matar",
-      "score": -3
+      "word": "infierno",
+      "score": -4
     },
     {
-      "word": "violencia",
+      "word": "matar",
       "score": -3
     },
     {
@@ -29,11 +33,7 @@
       "score": -3
     },
     {
-      "word": "odio",
-      "score": -3
-    },
-    {
-      "word": "asesinato",
+      "word": "delito",
       "score": -3
     }
   ],
@@ -43,19 +43,19 @@
       "score": 4
     },
     {
-      "word": "victorias",
+      "word": "ganar",
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
+      "word": "impresionante",
+      "score": 3
     },
     {
       "word": "exitoso",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "medalla",
       "score": 3
     },
     {
@@ -63,28 +63,39 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "placer",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.65,
+    "El País": 4.71,
     "elDiario.es": 4.57,
-    "El Mundo": 4.07,
-    "ABC": 6.01,
-    "El Confidencial": 4.2,
-    "BBC Mundo": 4.43,
-    "France 24 ES": 4.83,
-    "La Nación AR": 4.79,
+    "El Mundo": 4.27,
+    "ABC": 5.4,
+    "El Confidencial": 4.37,
+    "BBC Mundo": 4.7,
+    "France 24 ES": 5.22,
+    "La Nación AR": 5.13,
     "La Jornada MX": 4.81,
     "Desinformémonos": 3.9,
-    "Resumen Latinoam.": 4.87
+    "Resumen Latinoam.": 5.23
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El jefe de la UCO declara en el Supremo que Ábalos era el jefe “instrumental” de",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "paga",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "La Audiencia Nacional exonera a Jordi Pujol del juicio por la fortuna oculta deb",
@@ -117,36 +128,6 @@
     },
     {
       "source": "El País",
-      "title": "Trump dice que tardó en ser evacuado durante el ataque de la cena de corresponsa",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora y reacciones tras el intento de atentado contra Donald Trump, en dir",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "detenido",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Mythos, el nuevo modelo de IA de Anthropic, desata la alarma mundial",
       "score": 4.6,
       "words": [
@@ -173,31 +154,23 @@
     },
     {
       "source": "El País",
-      "title": "Britney Spears o la crónica de un hundimiento en directo que nadie ha sabido (ni",
-      "score": 6.33,
-      "words": [
-        {
-          "word": "querido",
-          "score": 2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Los humanos primero",
       "score": 3.4,
       "words": [
         {
           "word": "problemas",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cuerpo anuncia una revisión de las previsiones económicas para actualizar a Brus",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "aprueba",
+          "score": 2
         }
       ]
     },
@@ -230,109 +203,82 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump usa el ataque de la cena de corresponsales para reivindicar su agenda en p",
-      "score": 4.3,
+      "title": "La Fiscalía acusa a Peinado de basarse en “hipótesis” y “alambicadas teorías” pa",
+      "score": 4.07,
       "words": [
         {
-          "word": "ataque",
-          "score": -1
+          "word": "acusa",
+          "score": -2
         },
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "acusa",
+          "score": -2
         },
         {
-          "word": "ataque",
-          "score": -1
+          "word": "delito",
+          "score": -3
         },
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "ataque",
+          "word": "expone",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump estalla al ser preguntado por el manifiesto del atacante: \"No soy un viola",
-      "score": 3.47,
+      "title": "El teniente Balas dice que aunque Aldama era el jefe de la trama, Ábalos fue \"fu",
+      "score": 4.72,
       "words": [
         {
-          "word": "violador",
-          "score": -4
+          "word": "grande",
+          "score": 1
         },
         {
-          "word": "vergüenza",
-          "score": -2
+          "word": "grande",
+          "score": 1
         },
         {
-          "word": "violador",
-          "score": -4
+          "word": "criminal",
+          "score": -3
         },
         {
-          "word": "vergüenza",
-          "score": -2
+          "word": "paga",
+          "score": -1
         },
         {
-          "word": "carga",
-          "score": -2
+          "word": "sentido",
+          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El bloqueo naval de Trump en Ormuz es un reconocimiento del peligro de la ofensi",
-      "score": 4.48,
+      "title": "Sáenz de Santamaría asegura desconocer que el CNI participara en Kitchen ni que ",
+      "score": 4.84,
       "words": [
         {
-          "word": "bloqueo",
-          "score": -1
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "peligro",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El corte de Internet en Irán es el más largo que sufre un país desde la Primaver",
-      "score": 4.18,
-      "words": [
-        {
-          "word": "corte",
-          "score": -1
-        },
-        {
-          "word": "sufre",
-          "score": -2
-        },
-        {
-          "word": "corte",
-          "score": -1
-        },
-        {
-          "word": "sufre",
-          "score": -2
+          "word": "falso",
+          "score": -3
         },
         {
           "word": "solo",
           "score": -2
+        },
+        {
+          "word": "responsable",
+          "score": 2
         }
       ]
     },
@@ -365,37 +311,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sáenz de Santamaría asegura desconocer que el CNI participara en Kitchen ni que ",
-      "score": 4.84,
+      "title": "El Poder Judicial investiga al juez del caso de la presunta violación del exDAO ",
+      "score": 4.18,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
+          "word": "violación",
+          "score": -4
         },
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "falso",
+          "word": "víctimas",
           "score": -3
         },
         {
-          "word": "solo",
+          "word": "violación",
+          "score": -4
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "“Ventajas” por denunciar y “lavado de coco” a los hijos: las expertas desmontan ",
+      "score": 4.28,
+      "words": [
+        {
+          "word": "ventajas",
+          "score": 2
+        },
+        {
+          "word": "denunciar",
           "score": -2
         },
         {
-          "word": "responsable",
+          "word": "ventajas",
           "score": 2
+        },
+        {
+          "word": "denunciar",
+          "score": -2
+        },
+        {
+          "word": "promueve",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Del hermano de Ayuso al 'caso Ábalos': la avaricia no es delito; el cohecho, sí",
+      "score": 4.36,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "alarma",
+          "score": -2
+        },
+        {
+          "word": "competitivo",
+          "score": 2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T16:21:05Z",
-      "score": 4.51
-    },
     {
       "timestamp": "2026-04-16T18:06:48Z",
       "score": 4.54
@@ -1063,6 +1059,10 @@
     {
       "timestamp": "2026-04-27T11:01:28Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-04-27T13:47:04Z",
+      "score": 4.75
     }
   ]
 }

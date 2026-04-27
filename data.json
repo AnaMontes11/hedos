@@ -1,19 +1,19 @@
 {
-  "generated": "2026-04-27T17:19:58Z",
-  "global_score": 4.74,
-  "articles_scored": 98,
-  "words_matched": 262,
+  "generated": "2026-04-27T19:16:14Z",
+  "global_score": 4.61,
+  "articles_scored": 101,
+  "words_matched": 252,
   "top_negative": [
+    {
+      "word": "violador",
+      "score": -4
+    },
     {
       "word": "infierno",
       "score": -4
     },
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "matar",
+      "word": "culpa",
       "score": -3
     },
     {
-      "word": "asesinato",
+      "word": "odio",
       "score": -3
     }
   ],
@@ -43,11 +43,15 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "fiel",
       "score": 3
     },
     {
-      "word": "exitoso",
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "amor",
       "score": 3
     },
     {
@@ -55,34 +59,30 @@
       "score": 3
     },
     {
-      "word": "alabando",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "fiel",
+      "word": "lealtad",
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "premio",
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.68,
-    "elDiario.es": 4.54,
-    "El Mundo": 5.02,
-    "ABC": 5.37,
-    "El Confidencial": 4.71,
-    "BBC Mundo": 4.46,
-    "France 24 ES": 4.8,
-    "La Nación AR": 5.13,
+    "El País": 4.22,
+    "elDiario.es": 4.49,
+    "El Mundo": 4.84,
+    "ABC": 5.18,
+    "El Confidencial": 4.94,
+    "BBC Mundo": 4.56,
+    "France 24 ES": 4.15,
+    "La Nación AR": 5.28,
     "La Jornada MX": 4.81,
     "Desinformémonos": 3.8,
-    "Resumen Latinoam.": 4.99
+    "Resumen Latinoam.": 4.45
   },
   "articles": [
     {
@@ -144,26 +144,54 @@
     },
     {
       "source": "El País",
-      "title": "Trump fulmina de golpe a todos los miembros del Consejo Nacional de Ciencia",
-      "score": 3.4,
+      "title": "La Casa Blanca culpa al “culto de odio de la izquierda” del ataque contra Trump ",
+      "score": 3.58,
       "words": [
         {
-          "word": "golpe",
+          "word": "culpa",
+          "score": -3
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "acusa",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Críticas a la seguridad, disparos y un sospechoso con muchos objetivos: reconstr",
-      "score": 3.4,
+      "title": "Última hora y reacciones tras el intento de atentado contra Donald Trump, en dir",
+      "score": 3.51,
       "words": [
         {
-          "word": "ataque",
-          "score": -1
+          "word": "acusado",
+          "score": -2
         },
         {
-          "word": "matar",
+          "word": "asesinato",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "fascista",
+          "score": -2
+        },
+        {
+          "word": "violencia",
           "score": -3
         }
       ]
@@ -176,6 +204,17 @@
         {
           "word": "paga",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump fulmina de golpe a todos los miembros del Consejo Nacional de Ciencia",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "golpe",
+          "score": -2
         }
       ]
     },
@@ -207,148 +246,110 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Junts confirma su rechazo en el Congreso al decreto que prorroga los alquileres",
-      "score": 7.4,
+      "source": "elDiario.es",
+      "title": "La Casa Blanca responsabiliza a los medios y a la izquierda del intento de atent",
+      "score": 3.87,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "culpa",
+          "score": -3
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "provocado",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El TSJ valenciano confirma su decisión de no investigar a Mazón por la dana",
-      "score": 4.97,
+      "title": "El atacante de la cena de corresponsales es acusado de \"intento de asesinato del",
+      "score": 3.54,
       "words": [
         {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "acusaciones",
+          "word": "acusado",
           "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "asesinato",
+          "score": -3
         },
         {
-          "word": "infierno",
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "asesinato",
+          "score": -3
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump estalla al ser preguntado por el manifiesto del atacante: \"No soy un viola",
+      "score": 3.47,
+      "words": [
+        {
+          "word": "violador",
           "score": -4
+        },
+        {
+          "word": "vergüenza",
+          "score": -2
+        },
+        {
+          "word": "violador",
+          "score": -4
+        },
+        {
+          "word": "vergüenza",
+          "score": -2
+        },
+        {
+          "word": "carga",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El chófer de Mazón confirma que el expresidente y su equipo mintieron durante me",
-      "score": 4.45,
+      "title": "El gasto militar español crece un 50% hasta los 40.200 millones de dólares, la m",
+      "score": 5.41,
       "words": [
         {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "rechazado",
-          "score": -1
+          "word": "mayor",
+          "score": 3
         },
         {
           "word": "mayor",
           "score": 3
         },
         {
-          "word": "nervioso",
-          "score": -2
-        },
-        {
-          "word": "rechazado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La defensa de Begoña Gómez cita la boda de la hija de Aznar entre las tareas \"pr",
-      "score": 5.73,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "cumple",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Fiscalía acusa a Peinado de basarse en “hipótesis” y “alambicadas teorías” pa",
-      "score": 4.12,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "expone",
-          "score": -1
-        },
-        {
-          "word": "absueltos",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El teniente coronel Balas dice que aunque Aldama era el jefe de la trama, Ábalos",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "paga",
-          "score": -1
-        },
-        {
-          "word": "sentido",
+          "word": "mayor",
           "score": 3
+        },
+        {
+          "word": "promesas",
+          "score": 1
+        },
+        {
+          "word": "impulsar",
+          "score": 1
         }
       ]
     },
@@ -405,13 +406,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El TSJ valenciano confirma su decisión de no investigar a Mazón por la dana",
+      "score": 4.97,
+      "words": [
+        {
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "infierno",
+          "score": -4
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T20:55:34Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-16T21:41:08Z",
       "score": 4.53
@@ -1079,6 +1103,10 @@
     {
       "timestamp": "2026-04-27T17:19:58Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-04-27T19:16:14Z",
+      "score": 4.61
     }
   ]
 }

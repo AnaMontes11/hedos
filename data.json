@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-27T19:16:14Z",
-  "global_score": 4.61,
-  "articles_scored": 101,
-  "words_matched": 252,
+  "generated": "2026-04-27T20:59:03Z",
+  "global_score": 4.54,
+  "articles_scored": 98,
+  "words_matched": 241,
   "top_negative": [
     {
       "word": "violador",
@@ -14,10 +14,6 @@
     },
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraude",
       "score": -4
     },
     {
@@ -35,16 +31,16 @@
     {
       "word": "odio",
       "score": -3
+    },
+    {
+      "word": "asesinato",
+      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "fiel",
-      "score": 3
     },
     {
       "word": "premio",
@@ -59,30 +55,34 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     },
     {
       "word": "lealtad",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.22,
+    "El País": 4.16,
     "elDiario.es": 4.49,
-    "El Mundo": 4.84,
-    "ABC": 5.18,
-    "El Confidencial": 4.94,
-    "BBC Mundo": 4.56,
-    "France 24 ES": 4.15,
-    "La Nación AR": 5.28,
+    "El Mundo": 5.06,
+    "ABC": 5.57,
+    "El Confidencial": 4.79,
+    "BBC Mundo": 4.47,
+    "France 24 ES": 3.91,
+    "La Nación AR": 4.71,
     "La Jornada MX": 4.81,
     "Desinformémonos": 3.8,
-    "Resumen Latinoam.": 4.45
+    "Resumen Latinoam.": 4.2
   },
   "articles": [
     {
@@ -172,7 +172,7 @@
     {
       "source": "El País",
       "title": "Última hora y reacciones tras el intento de atentado contra Donald Trump, en dir",
-      "score": 3.51,
+      "score": 3.08,
       "words": [
         {
           "word": "acusado",
@@ -436,10 +436,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-16T21:41:08Z",
-      "score": 4.53
-    },
     {
       "timestamp": "2026-04-16T22:37:24Z",
       "score": 4.72
@@ -1107,6 +1103,10 @@
     {
       "timestamp": "2026-04-27T19:16:14Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-27T20:59:03Z",
+      "score": 4.54
     }
   ]
 }

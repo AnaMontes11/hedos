@@ -1,57 +1,49 @@
 {
-  "generated": "2026-04-28T13:59:06Z",
+  "generated": "2026-04-28T16:10:36Z",
   "global_score": 4.67,
-  "articles_scored": 86,
-  "words_matched": 150,
+  "articles_scored": 93,
+  "words_matched": 227,
   "top_negative": [
     {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
-      "word": "terror",
-      "score": -3
-    },
-    {
-      "word": "culpa",
-      "score": -3
-    },
-    {
-      "word": "retirada",
-      "score": -3
+      "word": "fraude",
+      "score": -4
     },
     {
       "word": "crisis",
       "score": -3
     },
     {
-      "word": "desconfianza",
+      "word": "preocupación",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "víctima",
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "pierde",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "ganar",
       "score": 4
     },
     {
-      "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "mayor",
+      "word": "popular",
       "score": 3
     },
     {
@@ -63,27 +55,47 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "bonito",
       "score": 3
     },
     {
-      "word": "regalo",
-      "score": 2
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.24,
-    "El Mundo": 4.13,
-    "ABC": 4.96,
-    "El Confidencial": 5.33,
-    "BBC Mundo": 5.28,
-    "France 24 ES": 4.18,
-    "La Nación AR": 5.04,
+    "El País": 4.33,
+    "elDiario.es": 4.8,
+    "El Mundo": 4.45,
+    "ABC": 5.59,
+    "El Confidencial": 5.23,
+    "BBC Mundo": 5.16,
+    "France 24 ES": 4.24,
+    "La Nación AR": 4.25,
     "La Jornada MX": 4.72,
     "Desinformémonos": 4.16,
-    "Resumen Latinoam.": 4.87
+    "Resumen Latinoam.": 4.05
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Un tuit del PSE con una imagen de IA de Aitor Esteban abre una crisis entre el P",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Las primeras imágenes del interior del Iryo refuerzan la hipótesis de una rotura",
@@ -95,6 +107,40 @@
         },
         {
           "word": "accidentes",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Bustinduy, sobre el decreto ",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "suerte",
+          "score": 3
+        },
+        {
+          "word": "tumba",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "‘Emilistas’ y ‘moniquistas’ rompen su silencio en Más Madrid: “El tiempo de Móni",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "cargos",
           "score": -2
         }
       ]
@@ -120,217 +166,244 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Díaz llama a la “movilizació",
+      "title": "Emiratos Árabes Unidos sale de la OPEP en plena crisis por el cierre de Ormuz",
       "score": 5.0,
       "words": [
         {
-          "word": "tumba",
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "guerra",
           "score": -2
         },
         {
           "word": "asegura",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "‘Emilistas’ y ‘moniquistas’ rompen su silencio en Más Madrid: “El tiempo de Móni",
-      "score": 3.4,
-      "words": [
+        },
         {
-          "word": "tiempo",
+          "word": "colapso",
           "score": -2
         },
         {
-          "word": "cargos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Yomif Kejelcha, el atleta que hizo historia y al que nadie recordará",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "rompió",
-          "score": -1
-        },
-        {
-          "word": "barrera",
+          "word": "descontento",
           "score": -2
         },
         {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "ganador",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El terror de ir solos a comer, al cine o a un viaje: por qué nos cuesta entrenar",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "terror",
-          "score": -3
-        },
-        {
-          "word": "ausencia",
-          "score": -2
-        },
-        {
-          "word": "cobarde",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Mariana Mazzucato: “Los años de hegemonía de Estados Unidos han terminado, estam",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "positivo",
+          "word": "paz",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Trágica lección en la playa de As Catedrais: “La muerte de nuestra hija Irene no",
-      "score": 4.0,
+      "title": "Por qué nadie puede permitirse que Ormuz llegue cerrado al verano",
+      "score": 3.2,
       "words": [
         {
-          "word": "muerte",
+          "word": "riesgo",
           "score": -2
-        },
-        {
-          "word": "accidente",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "culpa",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Eurocámara levanta la inmunidad de Alvise Pérez por presunto acoso a una fisc",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "acoso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El Mundo",
-      "title": "Los socios clave de Sánchez, incluido ahora el PNV, ya decretan el fin de la leg",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "golpe",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El Mundo",
-      "title": "Emiratos Árabes Unidos anuncia su retirada de la OPEP el 1 de mayo por la crisis",
-      "score": 2.87,
-      "words": [
-        {
-          "word": "retirada",
-          "score": -3
         },
         {
           "word": "crisis",
           "score": -3
         },
         {
-          "word": "tiempo",
+          "word": "escasez",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El Mundo",
-      "title": "Trump y Teherán pierden la llave del candado de Ormuz",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "presión",
-          "score": -1
         },
         {
-          "word": "bloqueo",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El Mundo",
-      "title": "Primeras imágenes del interior de los trenes de Adamuz en un informe concluyente",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "accidente",
+          "word": "sufre",
           "score": -2
         }
       ]
     },
     {
-      "source": "El Mundo",
-      "title": "El Gobierno ya deja abierta la puerta a no tener Presupuestos tampoco en 2026",
-      "score": 5.0,
+      "source": "El País",
+      "title": "El Gobierno contempla un impacto de hasta cuatro décimas en el crecimiento econó",
+      "score": 5.53,
       "words": [
         {
-          "word": "importante",
+          "word": "crecimiento",
           "score": 2
         },
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
         }
       ]
     },
     {
-      "source": "El Mundo",
-      "title": "La Academia de Ciencias de EEUU retira el estudio de Barbacid sobre una terapia ",
-      "score": 3.93,
+      "source": "El País",
+      "title": "Un multimillonario indio ofrece llevarse 80 de los hipopótamos de Pablo Escobar ",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Academia de Ciencias de EEUU retira el estudio de Barbacid sobre el cáncer de",
+      "score": 5.16,
       "words": [
         {
           "word": "cáncer",
           "score": -1
         },
         {
-          "word": "conflictos",
+          "word": "conflicto",
           "score": -2
+        },
+        {
+          "word": "intereses",
+          "score": 1
         },
         {
           "word": "cáncer",
           "score": -1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Pérez de los Cobos ofrece una explicación técnica de los fondos reservados que d",
+      "score": 5.33,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La UCO pone las cosas muy difíciles a Ábalos y Koldo",
+      "score": 4.82,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "suficiente",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "¿Qué dice el estatuto de Más Madrid sobre las primarias? Preguntas y respuestas ",
+      "score": 5.02,
+      "words": [
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Parlamento europeo retira la inmunidad a Alvise para que sea juzgado por acos",
+      "score": 3.46,
+      "words": [
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-17T11:50:23Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-04-17T13:13:41Z",
       "score": 4.79
@@ -997,6 +1070,10 @@
     },
     {
       "timestamp": "2026-04-28T13:59:06Z",
+      "score": 4.67
+    },
+    {
+      "timestamp": "2026-04-28T16:10:36Z",
       "score": 4.67
     }
   ]

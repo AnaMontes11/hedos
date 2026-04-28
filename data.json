@@ -1,61 +1,61 @@
 {
-  "generated": "2026-04-28T11:03:01Z",
-  "global_score": 4.74,
-  "articles_scored": 94,
-  "words_matched": 245,
+  "generated": "2026-04-28T13:59:06Z",
+  "global_score": 4.67,
+  "articles_scored": 86,
+  "words_matched": 150,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "perras",
-      "score": -5
-    },
-    {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
+    },
+    {
+      "word": "terror",
+      "score": -3
     },
     {
       "word": "culpa",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "retirada",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "falso",
+      "word": "desconfianza",
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "víctima",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "victorias",
+      "score": 4
+    },
+    {
       "word": "ganador",
       "score": 4
     },
     {
+      "word": "mayor",
+      "score": 3
+    },
+    {
       "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "fascinante",
-      "score": 3
-    },
-    {
-      "word": "celebra",
       "score": 3
     },
     {
@@ -63,26 +63,25 @@
       "score": 3
     },
     {
-      "word": "caro",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "perfectamente",
-      "score": 3
+      "word": "regalo",
+      "score": 2
     }
   ],
   "per_source": {
-    "El País": 4.85,
-    "elDiario.es": 4.8,
-    "El Mundo": 5.0,
-    "ABC": 5.2,
-    "El Confidencial": 4.68,
-    "BBC Mundo": 5.27,
-    "France 24 ES": 4.13,
-    "La Nación AR": 5.1,
+    "El País": 4.24,
+    "El Mundo": 4.13,
+    "ABC": 4.96,
+    "El Confidencial": 5.33,
+    "BBC Mundo": 5.28,
+    "France 24 ES": 4.18,
+    "La Nación AR": 5.04,
     "La Jornada MX": 4.72,
-    "Desinformémonos": 3.88,
-    "Resumen Latinoam.": 4.5
+    "Desinformémonos": 4.16,
+    "Resumen Latinoam.": 4.87
   },
   "articles": [
     {
@@ -102,42 +101,50 @@
     },
     {
       "source": "El País",
-      "title": "Azcón niega en su investidura que la “prioridad nacional” del PP discrimine por ",
-      "score": 5.27,
+      "title": "La Academia de Ciencias de EE UU tumba el estudio de Barbacid sobre la ‘curación",
+      "score": 4.47,
       "words": [
         {
-          "word": "niega",
+          "word": "tumba",
+          "score": -2
+        },
+        {
+          "word": "cáncer",
+          "score": -1
+        },
+        {
+          "word": "intereses",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Díaz llama a la “movilizació",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "tumba",
           "score": -2
         },
         {
           "word": "asegura",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "‘Emilistas’ y ‘moniquistas’ rompen su silencio en Más Madrid: “El tiempo de Móni",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
         },
         {
-          "word": "legal",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Vox asegura que no permitirá",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "PP, Vox y Junts se preparan para tumbar la prórroga de alquileres pese al último",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "acepta",
-          "score": 1
+          "word": "cargos",
+          "score": -2
         }
       ]
     },
@@ -166,16 +173,20 @@
     },
     {
       "source": "El País",
-      "title": "‘El año del hambre en Madrid’: recorra el cuadro que encumbró a Aparicio por enc",
-      "score": 3.8,
+      "title": "El terror de ir solos a comer, al cine o a un viaje: por qué nos cuesta entrenar",
+      "score": 3.13,
       "words": [
         {
-          "word": "hambre",
+          "word": "terror",
+          "score": -3
+        },
+        {
+          "word": "ausencia",
           "score": -2
         },
         {
-          "word": "exposición",
-          "score": -1
+          "word": "cobarde",
+          "score": -2
         }
       ]
     },
@@ -225,173 +236,97 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Pérez de los Cobos ofrece una explicación técnica de los fondos reservados que d",
-      "score": 5.1,
+      "source": "El Mundo",
+      "title": "Los socios clave de Sánchez, incluido ahora el PNV, ya decretan el fin de la leg",
+      "score": 3.4,
       "words": [
         {
-          "word": "guerra",
+          "word": "golpe",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "Emiratos Árabes Unidos anuncia su retirada de la OPEP el 1 de mayo por la crisis",
+      "score": 2.87,
+      "words": [
+        {
+          "word": "retirada",
+          "score": -3
         },
         {
-          "word": "puesto",
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "tiempo",
           "score": -2
-        },
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "Trump y Teherán pierden la llave del candado de Ormuz",
+      "score": 4.2,
+      "words": [
         {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "pasado",
+          "word": "presión",
           "score": -1
         },
         {
-          "word": "asegurado",
-          "score": 2
+          "word": "bloqueo",
+          "score": -1
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "El Gobierno de Rajoy y el PP de la época compiten en desmemoria sobre su guerra ",
-      "score": 4.33,
+      "source": "El Mundo",
+      "title": "Primeras imágenes del interior de los trenes de Adamuz en un informe concluyente",
+      "score": 3.4,
       "words": [
+        {
+          "word": "accidente",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "El Gobierno ya deja abierta la puerta a no tener Presupuestos tampoco en 2026",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "importante",
+          "score": 2
+        },
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "popular",
-          "score": 3
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "La UCO pone las cosas muy difíciles a Ábalos y Koldo",
-      "score": 4.82,
+      "source": "El Mundo",
+      "title": "La Academia de Ciencias de EEUU retira el estudio de Barbacid sobre una terapia ",
+      "score": 3.93,
       "words": [
         {
-          "word": "delitos",
-          "score": -3
+          "word": "cáncer",
+          "score": -1
         },
         {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "acusaciones",
+          "word": "conflictos",
           "score": -2
         },
         {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "suficiente",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Azcón asume la \"prioridad nacional\" pero aclara que no tendrá en cuenta la \"proc",
-      "score": 5.48,
-      "words": [
-        {
-          "word": "aclara",
-          "score": 2
-        },
-        {
-          "word": "aclara",
-          "score": 2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Parlamento europeo retira la inmunidad a Alvise para que sea juzgado por acos",
-      "score": 3.46,
-      "words": [
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La jueza ofrece a Mazón la posibilidad de que aporte \"voluntariamente\" sus llama",
-      "score": 3.56,
-      "words": [
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "resuelto",
-          "score": 1
+          "word": "cáncer",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-17T10:53:07Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-04-17T11:50:23Z",
       "score": 4.74
@@ -1059,6 +994,10 @@
     {
       "timestamp": "2026-04-28T11:03:01Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-04-28T13:59:06Z",
+      "score": 4.67
     }
   ]
 }

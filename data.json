@@ -1,15 +1,19 @@
 {
-  "generated": "2026-04-28T16:10:36Z",
-  "global_score": 4.67,
-  "articles_scored": 93,
-  "words_matched": 227,
+  "generated": "2026-04-28T18:15:30Z",
+  "global_score": 4.56,
+  "articles_scored": 100,
+  "words_matched": 256,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "violación",
       "score": -4
     },
     {
@@ -17,34 +21,30 @@
       "score": -3
     },
     {
-      "word": "preocupación",
+      "word": "abusivo",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "culpable",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "destruye",
       "score": -3
     },
     {
-      "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "pierde",
+      "word": "muerto",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
+      "word": "magnífico",
+      "score": 5
     },
     {
-      "word": "popular",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "amor",
@@ -55,36 +55,55 @@
       "score": 3
     },
     {
-      "word": "bonito",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "perfecto",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.33,
-    "elDiario.es": 4.8,
-    "El Mundo": 4.45,
-    "ABC": 5.59,
-    "El Confidencial": 5.23,
-    "BBC Mundo": 5.16,
-    "France 24 ES": 4.24,
-    "La Nación AR": 4.25,
+    "El País": 4.35,
+    "elDiario.es": 4.77,
+    "El Mundo": 4.54,
+    "ABC": 5.1,
+    "El Confidencial": 5.12,
+    "BBC Mundo": 5.04,
+    "France 24 ES": 4.06,
+    "La Nación AR": 4.27,
     "La Jornada MX": 4.72,
-    "Desinformémonos": 4.16,
-    "Resumen Latinoam.": 4.05
+    "Desinformémonos": 4.44,
+    "Resumen Latinoam.": 3.84
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | El Congreso tumba la prórrog",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "tumba",
+          "score": -2
+        },
+        {
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "suerte",
+          "score": 3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Un tuit del PSE con una imagen de IA de Aitor Esteban abre una crisis entre el P",
@@ -93,40 +112,6 @@
         {
           "word": "crisis",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las primeras imágenes del interior del Iryo refuerzan la hipótesis de una rotura",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "accidente",
-          "score": -2
-        },
-        {
-          "word": "accidentes",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Bustinduy, sobre el decreto ",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "suerte",
-          "score": 3
-        },
-        {
-          "word": "tumba",
-          "score": -2
         }
       ]
     },
@@ -141,6 +126,21 @@
         },
         {
           "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las primeras imágenes del interior del Iryo refuerzan la hipótesis de una rotura",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "accidente",
+          "score": -2
+        },
+        {
+          "word": "accidentes",
           "score": -2
         }
       ]
@@ -181,8 +181,8 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.6,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 4.84,
       "words": [
         {
           "word": "guerra",
@@ -193,16 +193,16 @@
           "score": 2
         },
         {
-          "word": "colapso",
-          "score": -2
+          "word": "paz",
+          "score": 2
         },
         {
           "word": "descontento",
           "score": -2
         },
         {
-          "word": "paz",
-          "score": 2
+          "word": "desalojo",
+          "score": -1
         }
       ]
     },
@@ -269,28 +269,82 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Academia de Ciencias de EEUU retira el estudio de Barbacid sobre el cáncer de",
-      "score": 5.16,
+      "title": "El Congreso rechaza la prórroga de los alquileres con el voto en contra de PP, V",
+      "score": 4.8,
       "words": [
         {
-          "word": "cáncer",
+          "word": "rechaza",
           "score": -1
         },
         {
-          "word": "conflicto",
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "propaganda",
           "score": -2
         },
         {
-          "word": "intereses",
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "favor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez, sobre la crisis de la vivienda: \"El dilema es intervenir el mercado o m",
+      "score": 4.09,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "dilema",
+          "score": -1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "dilema",
+          "score": -1
+        },
+        {
+          "word": "impulsado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "¿Qué pasa ahora si has pedido la prórroga del alquiler? La mayoría de juristas l",
+      "score": 5.26,
+      "words": [
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "derecho",
           "score": 1
         },
         {
-          "word": "cáncer",
-          "score": -1
+          "word": "derecho",
+          "score": 1
         },
         {
-          "word": "conflicto",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -323,91 +377,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La UCO pone las cosas muy difíciles a Ábalos y Koldo",
-      "score": 4.82,
+      "title": "El Gobierno de Rajoy y el PP de la época compiten en desmemoria sobre su guerra ",
+      "score": 4.33,
       "words": [
         {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "acusaciones",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "responsable",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "suficiente",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "¿Qué dice el estatuto de Más Madrid sobre las primarias? Preguntas y respuestas ",
-      "score": 5.02,
-      "words": [
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Parlamento europeo retira la inmunidad a Alvise para que sea juzgado por acos",
-      "score": 3.46,
-      "words": [
-        {
-          "word": "pierde",
+          "word": "falso",
           "score": -3
         },
         {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
+          "word": "popular",
+          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-17T13:13:41Z",
-      "score": 4.79
-    },
     {
       "timestamp": "2026-04-17T14:53:36Z",
       "score": 4.61
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-28T16:10:36Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-04-28T18:15:30Z",
+      "score": 4.56
     }
   ]
 }

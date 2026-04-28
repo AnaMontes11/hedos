@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-28T21:55:04Z",
-  "global_score": 4.63,
-  "articles_scored": 95,
-  "words_matched": 257,
+  "generated": "2026-04-28T22:55:02Z",
+  "global_score": 4.65,
+  "articles_scored": 96,
+  "words_matched": 256,
   "top_negative": [
     {
       "word": "coño",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
@@ -69,20 +65,24 @@
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.71,
+    "El País": 4.11,
     "elDiario.es": 4.82,
     "El Mundo": 4.58,
-    "ABC": 5.13,
+    "ABC": 5.21,
     "El Confidencial": 5.12,
     "BBC Mundo": 5.1,
-    "France 24 ES": 4.41,
-    "La Nación AR": 4.67,
+    "France 24 ES": 4.61,
+    "La Nación AR": 4.4,
     "La Jornada MX": 4.72,
-    "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.19
+    "Desinformémonos": 4.31,
+    "Resumen Latinoam.": 4.18
   },
   "articles": [
     {
@@ -139,16 +139,12 @@
     },
     {
       "source": "El País",
-      "title": "Las primeras imágenes del interior del Iryo refuerzan la hipótesis de una rotura",
-      "score": 3.4,
+      "title": "Elon Musk, testigo y protagonista de la primera jornada del juicio contra OpenAI",
+      "score": 6.6,
       "words": [
         {
-          "word": "accidente",
-          "score": -2
-        },
-        {
-          "word": "accidentes",
-          "score": -2
+          "word": "ánimo",
+          "score": 2
         }
       ]
     },
@@ -404,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-17T16:58:43Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-04-17T17:54:16Z",
       "score": 4.69
@@ -1075,6 +1067,10 @@
     {
       "timestamp": "2026-04-28T21:55:04Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-04-28T22:55:02Z",
+      "score": 4.65
     }
   ]
 }

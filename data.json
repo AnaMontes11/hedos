@@ -1,12 +1,20 @@
 {
-  "generated": "2026-04-28T18:15:30Z",
-  "global_score": 4.56,
-  "articles_scored": 100,
+  "generated": "2026-04-28T20:13:23Z",
+  "global_score": 4.59,
+  "articles_scored": 97,
   "words_matched": 256,
   "top_negative": [
     {
+      "word": "coño",
+      "score": -5
+    },
+    {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "fraude",
+      "score": -4
     },
     {
       "word": "culo",
@@ -27,20 +35,12 @@
     {
       "word": "culpable",
       "score": -3
-    },
-    {
-      "word": "destruye",
-      "score": -3
-    },
-    {
-      "word": "muerto",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "magnífico",
-      "score": 5
+      "word": "brillante",
+      "score": 4
     },
     {
       "word": "ganar",
@@ -72,35 +72,31 @@
     }
   ],
   "per_source": {
-    "El País": 4.35,
-    "elDiario.es": 4.77,
-    "El Mundo": 4.54,
-    "ABC": 5.1,
+    "El País": 3.71,
+    "elDiario.es": 4.82,
+    "El Mundo": 4.48,
+    "ABC": 5.05,
     "El Confidencial": 5.12,
-    "BBC Mundo": 5.04,
-    "France 24 ES": 4.06,
-    "La Nación AR": 4.27,
+    "BBC Mundo": 5.13,
+    "France 24 ES": 4.25,
+    "La Nación AR": 4.92,
     "La Jornada MX": 4.72,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 3.84
+    "Resumen Latinoam.": 3.87
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | El Congreso tumba la prórrog",
-      "score": 5.53,
+      "title": "“¡Haced algo ya, coño!”: una mujer grita desde la grada del Congreso durante la ",
+      "score": 2.6,
       "words": [
         {
-          "word": "tumba",
-          "score": -2
+          "word": "coño",
+          "score": -5
         },
         {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "suerte",
-          "score": 3
+          "word": "desalojo",
+          "score": -1
         }
       ]
     },
@@ -132,6 +128,17 @@
     },
     {
       "source": "El País",
+      "title": "España invitará a Delcy Rodríguez a la Cumbre Iberoamericana de noviembre en Mad",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "restricción",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Las primeras imágenes del interior del Iryo refuerzan la hipótesis de una rotura",
       "score": 3.4,
       "words": [
@@ -142,25 +149,6 @@
         {
           "word": "accidentes",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Academia de Ciencias de EE UU tumba el estudio de Barbacid sobre la ‘curación",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "tumba",
-          "score": -2
-        },
-        {
-          "word": "cáncer",
-          "score": -1
-        },
-        {
-          "word": "intereses",
-          "score": 1
         }
       ]
     },
@@ -208,88 +196,46 @@
     },
     {
       "source": "El País",
-      "title": "Por qué nadie puede permitirse que Ormuz llegue cerrado al verano",
-      "score": 3.2,
+      "title": "La Academia de Ciencias de EE UU tumba el estudio de Barbacid sobre la ‘curación",
+      "score": 4.47,
       "words": [
         {
-          "word": "riesgo",
+          "word": "tumba",
           "score": -2
         },
         {
-          "word": "crisis",
-          "score": -3
+          "word": "cáncer",
+          "score": -1
         },
         {
-          "word": "escasez",
-          "score": -2
-        },
-        {
-          "word": "sufre",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Gobierno contempla un impacto de hasta cuatro décimas en el crecimiento econó",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un multimillonario indio ofrece llevarse 80 de los hipopótamos de Pablo Escobar ",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
+          "word": "intereses",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El Congreso rechaza la prórroga de los alquileres con el voto en contra de PP, V",
-      "score": 4.8,
+      "title": "Sumar presiona al PSOE para recuperar el decreto de los alquileres tras ser ente",
+      "score": 4.83,
       "words": [
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "propaganda",
-          "score": -2
+          "word": "impulsar",
+          "score": 1
         },
         {
           "word": "crisis",
           "score": -3
         },
         {
+          "word": "negociar",
+          "score": 2
+        },
+        {
           "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "notable",
           "score": 2
         }
       ]
@@ -318,6 +264,33 @@
         {
           "word": "impulsado",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Sindicato de Inquilinas de Catalunya pide una huelga general por la vivienda ",
+      "score": 5.35,
+      "words": [
+        {
+          "word": "huelga",
+          "score": -1
+        },
+        {
+          "word": "huelga",
+          "score": -1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "huelga",
+          "score": -1
         }
       ]
     },
@@ -401,13 +374,36 @@
           "score": 3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El cura amigo de Fernández Díaz olvida su influencia sobre el ministro durante l",
+      "score": 4.14,
+      "words": [
+        {
+          "word": "advertencias",
+          "score": -3
+        },
+        {
+          "word": "importancia",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "incapaz",
+          "score": -2
+        },
+        {
+          "word": "grave",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-17T14:53:36Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-04-17T15:58:10Z",
       "score": 4.46
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-28T18:15:30Z",
       "score": 4.56
+    },
+    {
+      "timestamp": "2026-04-28T20:13:23Z",
+      "score": 4.59
     }
   ]
 }

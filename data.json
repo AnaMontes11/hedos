@@ -1,15 +1,19 @@
 {
-  "generated": "2026-04-28T02:40:54Z",
-  "global_score": 4.7,
-  "articles_scored": 98,
-  "words_matched": 247,
+  "generated": "2026-04-28T05:56:54Z",
+  "global_score": 4.65,
+  "articles_scored": 96,
+  "words_matched": 300,
   "top_negative": [
     {
-      "word": "violador",
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "violador",
       "score": -4
     },
     {
@@ -17,15 +21,11 @@
       "score": -4
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "humillado",
-      "score": -3
-    },
-    {
       "word": "culpa",
+      "score": -3
+    },
+    {
+      "word": "racista",
       "score": -3
     },
     {
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "asesinato",
+      "word": "falso",
       "score": -3
     }
   ],
@@ -47,7 +47,11 @@
       "score": 4
     },
     {
-      "word": "suerte",
+      "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "medalla",
       "score": 3
     },
     {
@@ -55,31 +59,27 @@
       "score": 3
     },
     {
-      "word": "lealtad",
+      "word": "prestigio",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "perfectamente",
       "score": 3
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "popular",
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.34,
-    "elDiario.es": 4.49,
-    "El Mundo": 4.96,
-    "ABC": 4.74,
-    "El Confidencial": 4.79,
-    "BBC Mundo": 5.14,
-    "France 24 ES": 4.75,
-    "La Nación AR": 5.72,
+    "El País": 4.93,
+    "elDiario.es": 4.74,
+    "El Mundo": 5.05,
+    "ABC": 4.92,
+    "El Confidencial": 4.62,
+    "BBC Mundo": 5.21,
+    "France 24 ES": 4.13,
+    "La Nación AR": 4.25,
     "La Jornada MX": 4.81,
     "Desinformémonos": 3.88,
     "Resumen Latinoam.": 4.5
@@ -87,182 +87,286 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Crisis en Más Madrid | Emilio Delgado: “No me parece bien que lo anuncies”; Móni",
-      "score": 3.4,
+      "title": "Las grandes empresas darán la batalla judicial para reclamar daños por el apagón",
+      "score": 3.8,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "disputa",
-          "score": -2
-        },
-        {
-          "word": "pasado",
+          "word": "batalla",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El canciller alemán afirma que Estados Unidos está siendo “humillado” por Irán e",
-      "score": 3.24,
-      "words": [
-        {
-          "word": "humillado",
-          "score": -3
         },
         {
-          "word": "guerra",
+          "word": "daños",
           "score": -2
         },
         {
-          "word": "ausencia",
-          "score": -2
+          "word": "dudas",
+          "score": -1
         },
         {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "desastre",
+          "word": "interrumpir",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Irán propone un plan para la paz en tres etapas que deja para el final la cuesti",
-      "score": 6.6,
+      "title": "Un año del apagón: qué podemos hacer para que no vuelva a repetirse",
+      "score": 5.8,
       "words": [
         {
-          "word": "paz",
+          "word": "posibilidades",
+          "score": 2
+        },
+        {
+          "word": "corte",
+          "score": -1
+        },
+        {
+          "word": "oportunidades",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La Casa Blanca culpa al “culto de odio de la izquierda” del ataque contra Trump ",
-      "score": 3.58,
+      "title": "PP, Vox y Junts se preparan para tumbar la prórroga de alquileres pese al último",
+      "score": 5.8,
       "words": [
         {
-          "word": "culpa",
-          "score": -3
-        },
+          "word": "acepta",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Yomif Kejelcha, el atleta que hizo historia y al que nadie recordará",
+      "score": 4.8,
+      "words": [
         {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "ataque",
+          "word": "rompió",
           "score": -1
+        },
+        {
+          "word": "barrera",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "ganador",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "‘El año del hambre en Madrid’: recorra el cuadro que encumbró a Aparicio por enc",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "hambre",
+          "score": -2
+        },
+        {
+          "word": "exposición",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Mariana Mazzucato: “Los años de hegemonía de Estados Unidos han terminado, estam",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "positivo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cómo un veinteañero cuestionó la seguridad de todos los rascacielos del planeta ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trágica lección en la playa de As Catedrais: “La muerte de nuestra hija Irene no",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "accidente",
+          "score": -2
         },
         {
           "word": "justicia",
           "score": 2
         },
         {
-          "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Casa Blanca revisará los protocolos de seguridad de Trump en la semana de la ",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "frustrado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Una trama con dos jefes: la UCO sitúa a Ábalos y Aldama en la cúspide de una “or",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "criminal",
+          "word": "culpa",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las defensas agotan al tribunal con sus explicaciones alternativas: “Voy a ser m",
-      "score": 6.6,
+      "title": "Prioridad nacional",
+      "score": 3.13,
       "words": [
         {
-          "word": "reivindica",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump fulmina de golpe a todos los miembros del Consejo Nacional de Ciencia",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "golpe",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Dolores Vázquez, al recibir una medalla por la Igualdad del Gobierno: “He perdon",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "medalla",
-          "score": 3
+          "word": "urgente",
+          "score": -1
         },
         {
-          "word": "perdonado",
-          "score": 2
+          "word": "racista",
+          "score": -3
         },
         {
-          "word": "querer",
-          "score": 1
-        },
-        {
-          "word": "homenaje",
-          "score": 2
-        },
-        {
-          "word": "asesinato",
+          "word": "odio",
           "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La Casa Blanca responsabiliza a los medios y a la izquierda del intento de atent",
-      "score": 3.87,
+      "title": "El Gobierno afronta la derrota del decreto de alquileres pero Junts le señala la",
+      "score": 5.62,
       "words": [
         {
-          "word": "culpa",
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "aprobado",
+          "score": 2
+        },
+        {
+          "word": "aceptar",
+          "score": 1
+        },
+        {
+          "word": "favor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno de Rajoy y el PP de la época compiten en desmemoria sobre su guerra ",
+      "score": 4.33,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "falso",
           "score": -3
         },
         {
-          "word": "violencia",
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La UCO pone las cosas muy difíciles a Ábalos y Koldo",
+      "score": 4.82,
+      "words": [
+        {
+          "word": "delitos",
           "score": -3
         },
         {
-          "word": "odio",
+          "word": "delitos",
           "score": -3
         },
         {
-          "word": "provocado",
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "suficiente",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "¿Tenía cuenta en Andorra? ¿Qué sabía de los pelotazos de su hijo? Todo lo que Jo",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "interrogatorio",
+          "score": -1
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El ataque de la cena de corresponsales pone en la diana las políticas de segurid",
+      "score": 4.13,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "pasado",
           "score": -1
         },
         {
@@ -297,121 +401,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump estalla al ser preguntado por el manifiesto del atacante: \"No soy un viola",
-      "score": 3.47,
-      "words": [
-        {
-          "word": "violador",
-          "score": -4
-        },
-        {
-          "word": "vergüenza",
-          "score": -2
-        },
-        {
-          "word": "violador",
-          "score": -4
-        },
-        {
-          "word": "vergüenza",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El gasto militar español crece un 50% hasta los 40.200 millones de dólares, la m",
-      "score": 5.41,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "impulsar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sáenz de Santamaría asegura desconocer que el CNI participara en Kitchen ni que ",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El hijo de Bárcenas declara que su padre le confesó en 2013 que existía una grab",
-      "score": 3.69,
-      "words": [
-        {
-          "word": "duda",
-          "score": -1
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-17T05:25:47Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-04-17T07:28:34Z",
       "score": 4.62
@@ -1079,6 +1071,10 @@
     {
       "timestamp": "2026-04-28T02:40:54Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-04-28T05:56:54Z",
+      "score": 4.65
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-29T08:12:06Z",
-  "global_score": 4.77,
-  "articles_scored": 96,
-  "words_matched": 277,
+  "generated": "2026-04-29T10:53:09Z",
+  "global_score": 4.84,
+  "articles_scored": 100,
+  "words_matched": 282,
   "top_negative": [
     {
       "word": "fraude",
@@ -13,27 +13,27 @@
       "score": -4
     },
     {
+      "word": "maldición",
+      "score": -4
+    },
+    {
       "word": "crimen",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "ilegal",
       "score": -3
     },
     {
-      "word": "enfado",
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "delicado",
+      "word": "advertencias",
       "score": -3
     },
     {
-      "word": "culpa",
-      "score": -3
-    },
-    {
-      "word": "muerto",
+      "word": "perdiendo",
       "score": -3
     }
   ],
@@ -43,15 +43,11 @@
       "score": 4
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
       "word": "celebra",
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "amor",
       "score": 3
     },
     {
@@ -59,27 +55,31 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "celebrando",
       "score": 3
     },
     {
-      "word": "ventilador",
+      "word": "medalla",
+      "score": 3
+    },
+    {
+      "word": "calmar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.48,
-    "elDiario.es": 4.82,
-    "El Mundo": 4.5,
-    "ABC": 5.42,
-    "El Confidencial": 5.38,
-    "BBC Mundo": 5.15,
+    "El País": 5.65,
+    "elDiario.es": 4.97,
+    "El Mundo": 5.17,
+    "ABC": 5.04,
+    "El Confidencial": 5.13,
+    "BBC Mundo": 5.04,
     "France 24 ES": 4.65,
-    "La Nación AR": 4.1,
+    "La Nación AR": 4.73,
     "La Jornada MX": 4.72,
     "Desinformémonos": 4.02,
     "Resumen Latinoam.": 4.38
@@ -87,15 +87,30 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Juicio de Kitchen por la trama de corrupción policial vinculada al PP, en direct",
-      "score": 6.6,
+      "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
+      "score": 6.33,
       "words": [
         {
           "word": "asegura",
           "score": 2
         },
         {
-          "word": "responsable",
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Juicio de Kitchen por la trama de corrupción policial vinculada al PP, en direct",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegura",
           "score": 2
         }
       ]
@@ -166,6 +181,25 @@
     },
     {
       "source": "El País",
+      "title": "La cantante y poeta Patti Smith, premio Princesa de Asturias de las Artes 2026",
+      "score": 6.07,
+      "words": [
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "mito",
+          "score": -1
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Reencuentro de los pioneros de EL PAÍS: “Teníamos voluntad de servicio público”",
       "score": 5.8,
       "words": [
@@ -176,156 +210,29 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "El debate | ¿Se debe prohibir la compra de tabaco a mayores de edad?",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "aprobado",
-          "score": 2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "El PNV amenaza con retirar su apoyo a Sánchez “si no cuida las formas” y él agra",
-      "score": 4.45,
+      "title": "Aldama afirma en el Supremo que Koldo García le propuso intermediar en el amaño ",
+      "score": 5.56,
       "words": [
         {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
+          "word": "asegurado",
           "score": 2
         },
         {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La muerte de un decreto, el fracaso de una sociedad",
-      "score": 4.79,
-      "words": [
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "fracaso",
-          "score": -2
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "fracaso",
-          "score": -2
-        },
-        {
-          "word": "dejar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "¿Qué pasa ahora si has pedido la prórroga del alquiler? La mayoría de juristas l",
-      "score": 5.26,
-      "words": [
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "mayor",
+          "word": "suerte",
           "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un país de proletarios donde ganan los propietarios",
-      "score": 5.17,
-      "words": [
+        },
         {
-          "word": "estable",
+          "word": "ayuda",
           "score": 2
         },
         {
-          "word": "dudas",
-          "score": -1
+          "word": "ayuda",
+          "score": 2
         },
         {
-          "word": "intereses",
-          "score": 1
-        },
-        {
-          "word": "racista",
+          "word": "ilegal",
           "score": -3
-        },
-        {
-          "word": "racista",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sumar presiona al PSOE para recuperar el decreto de los alquileres tras ser ente",
-      "score": 4.83,
-      "words": [
-        {
-          "word": "impulsar",
-          "score": 1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "notable",
-          "score": 2
         }
       ]
     },
@@ -358,64 +265,141 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El teniente coronel Balas dice que aunque Aldama era el jefe de la trama, Ábalos",
-      "score": 4.95,
+      "title": "El policía de la caja B del PP declara en el juicio de Kitchen que el espionaje ",
+      "score": 4.64,
       "words": [
         {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "beneficiado",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "duro",
+          "word": "venganza",
           "score": -2
         },
         {
-          "word": "golpe",
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "tard",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Vox corta la estrategia de Feijóo y arrastra al PP al debate de la “prioridad na",
-      "score": 5.12,
+      "title": "Un informe encargado por Begoña Gómez afirma que la Complutense no sufrió \"perju",
+      "score": 5.93,
       "words": [
         {
-          "word": "arrastra",
-          "score": -1
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "arrastra",
-          "score": -1
+          "word": "favor",
+          "score": 2
         },
         {
-          "word": "excluir",
-          "score": -1
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PNV amenaza con retirar su apoyo a Sánchez “si no cuida las formas” y él agra",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
         },
         {
           "word": "apoyo",
           "score": 2
         },
         {
-          "word": "problemas",
+          "word": "amenaza",
           "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP da por \"acabado\" al Gobierno tras su bronca con el PNV pese a la \"humillac",
+      "score": 4.49,
+      "words": [
+        {
+          "word": "humillación",
+          "score": -3
+        },
+        {
+          "word": "humillación",
+          "score": -3
+        },
+        {
+          "word": "disputas",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La muerte de un decreto, el fracaso de una sociedad",
+      "score": 4.79,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "dejar",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-17T21:40:48Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-17T22:36:04Z",
       "score": 4.8
@@ -1083,6 +1067,10 @@
     {
       "timestamp": "2026-04-29T08:12:06Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-04-29T10:53:09Z",
+      "score": 4.84
     }
   ]
 }

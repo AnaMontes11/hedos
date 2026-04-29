@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-28T23:53:39Z",
-  "global_score": 4.61,
-  "articles_scored": 97,
-  "words_matched": 254,
+  "generated": "2026-04-29T02:40:53Z",
+  "global_score": 4.52,
+  "articles_scored": 96,
+  "words_matched": 255,
   "top_negative": [
     {
       "word": "coño",
@@ -10,6 +10,10 @@
     },
     {
       "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "perras",
       "score": -5
     },
     {
@@ -31,16 +35,16 @@
     {
       "word": "culpable",
       "score": -3
-    },
-    {
-      "word": "destruye",
-      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "emoción",
+      "score": 3
     },
     {
       "word": "amor",
@@ -51,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "prestigio",
       "score": 3
     },
     {
@@ -65,23 +69,19 @@
     {
       "word": "popular",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 4.11,
     "elDiario.es": 4.82,
-    "El Mundo": 4.58,
-    "ABC": 5.21,
+    "El Mundo": 4.62,
+    "ABC": 4.1,
     "El Confidencial": 5.12,
     "BBC Mundo": 5.1,
-    "France 24 ES": 4.23,
-    "La Nación AR": 4.53,
+    "France 24 ES": 4.68,
+    "La Nación AR": 4.19,
     "La Jornada MX": 4.72,
-    "Desinformémonos": 4.12,
+    "Desinformémonos": 4.02,
     "Resumen Latinoam.": 4.18
   },
   "articles": [
@@ -400,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-17T18:57:03Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-04-17T19:58:54Z",
       "score": 4.71
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-04-28T23:53:39Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-04-29T02:40:53Z",
+      "score": 4.52
     }
   ]
 }

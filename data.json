@@ -1,19 +1,15 @@
 {
-  "generated": "2026-04-29T10:53:09Z",
-  "global_score": 4.84,
-  "articles_scored": 100,
-  "words_matched": 282,
+  "generated": "2026-04-29T12:16:05Z",
+  "global_score": 4.88,
+  "articles_scored": 96,
+  "words_matched": 257,
   "top_negative": [
     {
+      "word": "negro",
+      "score": -5
+    },
+    {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "maldición",
       "score": -4
     },
     {
@@ -22,6 +18,10 @@
     },
     {
       "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "destruir",
       "score": -3
     },
     {
@@ -39,27 +39,27 @@
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
+      "word": "excepcional",
+      "score": 5
     },
     {
-      "word": "celebra",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "amor",
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "leal",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "impresiona",
       "score": 3
     },
     {
@@ -72,14 +72,14 @@
     }
   ],
   "per_source": {
-    "El País": 5.65,
-    "elDiario.es": 4.97,
-    "El Mundo": 5.17,
-    "ABC": 5.04,
-    "El Confidencial": 5.13,
-    "BBC Mundo": 5.04,
+    "El País": 5.55,
+    "elDiario.es": 4.86,
+    "El Mundo": 5.05,
+    "ABC": 5.18,
+    "El Confidencial": 5.35,
+    "BBC Mundo": 4.82,
     "France 24 ES": 4.65,
-    "La Nación AR": 4.73,
+    "La Nación AR": 5.44,
     "La Jornada MX": 4.72,
     "Desinformémonos": 4.02,
     "Resumen Latinoam.": 4.38
@@ -88,25 +88,6 @@
     {
       "source": "El País",
       "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
-      "score": 6.33,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "claro",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Juicio de Kitchen por la trama de corrupción policial vinculada al PP, en direct",
       "score": 6.6,
       "words": [
         {
@@ -193,7 +174,7 @@
           "score": -1
         },
         {
-          "word": "gracias",
+          "word": "reivindicando",
           "score": 2
         }
       ]
@@ -211,9 +192,40 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Aldama afirma en el Supremo que Koldo García le propuso intermediar en el amaño ",
-      "score": 5.56,
+      "title": "El policía de la caja B del PP denuncia \"presiones\" de los mandos para no inclui",
+      "score": 4.11,
       "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "negro",
+          "score": -5
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "negro",
+          "score": -5
+        },
+        {
+          "word": "venganza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Aldama afirma en el Supremo que Koldo García le propuso intermediar en el amaño ",
+      "score": 5.49,
+      "words": [
+        {
+          "word": "asegurado",
+          "score": 2
+        },
         {
           "word": "asegurado",
           "score": 2
@@ -223,16 +235,12 @@
           "score": 3
         },
         {
-          "word": "ayuda",
-          "score": 2
+          "word": "acusaciones",
+          "score": -2
         },
         {
-          "word": "ayuda",
+          "word": "favores",
           "score": 2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
         }
       ]
     },
@@ -265,28 +273,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El policía de la caja B del PP declara en el juicio de Kitchen que el espionaje ",
-      "score": 4.64,
+      "title": "El PSOE pedirá amparo al Supremo por las \"injurias\" de Aldama: \"No permitiremos ",
+      "score": 3.88,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
+          "word": "ilegal",
+          "score": -3
         },
         {
-          "word": "venganza",
+          "word": "acusaciones",
           "score": -2
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "delito",
+          "score": -3
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "derecho",
+          "score": 1
         },
         {
-          "word": "tard",
-          "score": -2
+          "word": "engaño",
+          "score": -3
         }
       ]
     },
@@ -400,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-17T22:36:04Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-04-17T23:36:54Z",
       "score": 4.67
@@ -1071,6 +1075,10 @@
     {
       "timestamp": "2026-04-29T10:53:09Z",
       "score": 4.84
+    },
+    {
+      "timestamp": "2026-04-29T12:16:05Z",
+      "score": 4.88
     }
   ]
 }

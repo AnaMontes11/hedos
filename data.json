@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-29T15:10:34Z",
-  "global_score": 4.52,
-  "articles_scored": 97,
-  "words_matched": 266,
+  "generated": "2026-04-29T17:25:41Z",
+  "global_score": 4.56,
+  "articles_scored": 92,
+  "words_matched": 220,
   "top_negative": [
     {
       "word": "negro",
@@ -11,10 +11,6 @@
     {
       "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "crimen",
-      "score": -3
     },
     {
       "word": "ilegal",
@@ -35,33 +31,13 @@
     {
       "word": "delito",
       "score": -3
+    },
+    {
+      "word": "engaño",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "brillante",
-      "score": 4
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "encanto",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "delicias",
-      "score": 3
-    },
     {
       "word": "bueno",
       "score": 3
@@ -69,20 +45,44 @@
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "ventilador",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.0,
-    "elDiario.es": 4.77,
-    "El Mundo": 5.09,
-    "ABC": 4.66,
-    "El Confidencial": 4.87,
-    "BBC Mundo": 4.64,
-    "France 24 ES": 4.35,
-    "La Nación AR": 4.91,
+    "El País": 5.1,
+    "elDiario.es": 4.82,
+    "El Mundo": 5.22,
+    "ABC": 5.0,
+    "El Confidencial": 4.46,
+    "BBC Mundo": 4.4,
+    "France 24 ES": 4.83,
+    "La Nación AR": 4.41,
     "La Jornada MX": 3.45,
-    "Desinformémonos": 4.15,
-    "Resumen Latinoam.": 3.94
+    "Desinformémonos": 3.86,
+    "Resumen Latinoam.": 4.55
   },
   "articles": [
     {
@@ -113,7 +113,7 @@
     },
     {
       "source": "El País",
-      "title": "Begoña Gómez denunciará a Vito Quiles por una agresión en una cafetería",
+      "title": "Begoña Gómez denunciará a Vito Quiles por una agresión en un restaurante de Madr",
       "score": 3.4,
       "words": [
         {
@@ -143,35 +143,27 @@
     },
     {
       "source": "El País",
-      "title": "Llega el gran simulacro del eclipse en España: es el momento de elegir desde dón",
-      "score": 5.4,
+      "title": "Barbacid siguió recaudando fondos de donantes durante mes y medio aunque sabía q",
+      "score": 4.2,
       "words": [
         {
-          "word": "ocultación",
+          "word": "cáncer",
           "score": -1
-        },
-        {
-          "word": "sol",
-          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Hallado el cuerpo de Jesús Tavira, testigo del caso de la viuda de la CAM, en ca",
-      "score": 3.93,
+      "title": "Hoy por hoy, demasiado Sinner para Jódar",
+      "score": 5.8,
       "words": [
         {
-          "word": "jesús",
-          "score": 1
+          "word": "impone",
+          "score": -1
         },
         {
-          "word": "desaparecido",
-          "score": -2
-        },
-        {
-          "word": "crimen",
-          "score": -3
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -296,28 +288,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Un informe encargado por Begoña Gómez afirma que la Complutense no sufrió \"perju",
-      "score": 5.93,
+      "title": "El agente Morocho revela que uno de los acusados en Kitchen filtró a Cospedal do",
+      "score": 5.31,
       "words": [
         {
-          "word": "asegura",
+          "word": "importante",
           "score": 2
         },
         {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "cumplir",
-          "score": 2
+          "word": "popular",
+          "score": 3
         },
         {
           "word": "derecho",
           "score": 1
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "sabotaje",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
         }
       ]
     },
@@ -404,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-18T02:06:33Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-04-18T05:04:25Z",
       "score": 4.78
@@ -1075,6 +1063,10 @@
     {
       "timestamp": "2026-04-29T15:10:34Z",
       "score": 4.52
+    },
+    {
+      "timestamp": "2026-04-29T17:25:41Z",
+      "score": 4.56
     }
   ]
 }

@@ -1,17 +1,9 @@
 {
-  "generated": "2026-04-30T19:16:36Z",
-  "global_score": 4.65,
-  "articles_scored": 95,
-  "words_matched": 279,
+  "generated": "2026-04-30T20:57:44Z",
+  "global_score": 4.56,
+  "articles_scored": 77,
+  "words_matched": 253,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "molesto",
-      "score": -4
-    },
     {
       "word": "culo",
       "score": -4
@@ -21,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "molesto",
       "score": -4
     },
     {
@@ -29,11 +21,19 @@
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "horrible",
       "score": -3
     },
     {
-      "word": "estafas",
+      "word": "destruido",
+      "score": -3
+    },
+    {
+      "word": "delicado",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -43,46 +43,45 @@
       "score": 4
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "excelencia",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "amor",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "lealtad",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "celebrando",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.83,
-    "elDiario.es": 4.62,
-    "El Mundo": 5.37,
-    "ABC": 5.04,
+    "El País": 5.26,
+    "elDiario.es": 4.64,
+    "El Mundo": 5.04,
     "El Confidencial": 3.44,
     "BBC Mundo": 4.28,
-    "France 24 ES": 4.23,
-    "La Nación AR": 4.93,
+    "France 24 ES": 4.53,
+    "La Nación AR": 4.9,
     "La Jornada MX": 4.92,
-    "Desinformémonos": 4.12,
-    "Resumen Latinoam.": 4.98
+    "Desinformémonos": 4.14,
+    "Resumen Latinoam.": 4.3
   },
   "articles": [
     {
@@ -132,21 +131,6 @@
     },
     {
       "source": "El País",
-      "title": "Koldo García estalla contra el fiscal por interrumpirle: “Es que con esa sonrisa",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "molesto",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Ayuso viaja a México a un acto en homenaje a Hernán Cortés en medio de su contro",
       "score": 7.0,
       "words": [
@@ -162,7 +146,34 @@
     },
     {
       "source": "El País",
-      "title": "Montero insiste en defender lo público para lanzar al PSOE en campaña: “La sanid",
+      "title": "Moreno carga contra la financiación singular de Cataluña en el arranque de la ca",
+      "score": 5.64,
+      "words": [
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "útil",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "ganado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Montero remarca la defensa de lo público como eje de su campaña: “La sanidad tie",
       "score": 5.27,
       "words": [
         {
@@ -175,29 +186,6 @@
         },
         {
           "word": "embaucar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Moreno y Feijóo entran en la batalla sanitaria por la huelga médicos pese a que ",
-      "score": 4.0,
-      "words": [
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "huelga",
-          "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "colapso",
           "score": -2
         }
       ]
@@ -220,6 +208,168 @@
       "words": [
         {
           "word": "esperanza",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump vuelve a amenazar a España tras anunciar que retirará soldados de Alemania",
+      "score": 4.26,
+      "words": [
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "horrible",
+          "score": -3
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "horrible",
+          "score": -3
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De los turbantes a los uniformes militares: quién manda en Irán y por qué Trump ",
+      "score": 4.72,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump vuelve a pedir ayuda para reabrir el estrecho de Ormuz con el petróleo des",
+      "score": 4.41,
+      "words": [
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegurar",
+          "score": 1
+        },
+        {
+          "word": "airado",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Bolsa sube un 0,78% tras superar una incidencia técnica y con el crudo a la b",
+      "score": 5.13,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "perdido",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump dice que está sopesando retirar tropas de Alemania por las críticas de Mer",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "problema",
+          "score": -2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "conflictos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno de Merz anuncia un 28% de aumento del gasto militar de Alemania para",
+      "score": 4.9,
+      "words": [
+        {
+          "word": "enemigo",
+          "score": -2
+        },
+        {
+          "word": "aumentar",
+          "score": 1
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "valor",
           "score": 2
         }
       ]
@@ -250,148 +400,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Aldama busca escalar la trama corrupta de Ábalos hacia el PSOE y Sánchez con acu",
-      "score": 4.93,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Aldama, un show por todo lo alto",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "negar",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "cierto",
-          "score": 2
-        },
-        {
-          "word": "suficiente",
-          "score": -2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Aldama, desencadenado: claves de su declaración judicial",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "pobre",
-          "score": -2
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Morocho asegura que la cúpula policial del PP “desmanteló” su grupo de investiga",
-      "score": 5.12,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Perder la centralidad",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "ignora",
-          "score": -1
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-18T19:39:25Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-04-18T20:34:00Z",
       "score": 4.65
@@ -1059,6 +1070,10 @@
     {
       "timestamp": "2026-04-30T19:16:36Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-04-30T20:57:44Z",
+      "score": 4.56
     }
   ]
 }

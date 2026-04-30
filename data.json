@@ -1,12 +1,16 @@
 {
-  "generated": "2026-04-30T08:22:25Z",
-  "global_score": 4.38,
-  "articles_scored": 91,
-  "words_matched": 242,
+  "generated": "2026-04-30T10:52:45Z",
+  "global_score": 4.2,
+  "articles_scored": 89,
+  "words_matched": 283,
   "top_negative": [
     {
-      "word": "molesto",
-      "score": -4
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "puto",
+      "score": -5
     },
     {
       "word": "culo",
@@ -17,45 +21,33 @@
       "score": -4
     },
     {
+      "word": "molesto",
+      "score": -4
+    },
+    {
       "word": "infierno",
       "score": -4
     },
     {
-      "word": "ilegal",
-      "score": -3
+      "word": "puta",
+      "score": -4
     },
     {
-      "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "idiota",
-      "score": -3
-    },
-    {
-      "word": "violencia",
-      "score": -3
+      "word": "mierda",
+      "score": -4
     }
   ],
   "top_positive": [
+    {
+      "word": "brillante",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "feliz",
-      "score": 3
-    },
-    {
       "word": "penetración",
-      "score": 3
-    },
-    {
-      "word": "fascinante",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
       "score": 3
     },
     {
@@ -63,40 +55,52 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "fascinante",
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "felicidad",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.89,
-    "elDiario.es": 4.83,
-    "El Mundo": 3.91,
+    "El País": 3.9,
+    "elDiario.es": 4.67,
+    "El Mundo": 3.66,
     "ABC": 5.05,
-    "El Confidencial": 4.99,
-    "BBC Mundo": 4.02,
-    "France 24 ES": 4.75,
-    "La Nación AR": 4.92,
+    "El Confidencial": 3.9,
+    "BBC Mundo": 4.25,
+    "France 24 ES": 4.64,
+    "La Nación AR": 4.77,
     "La Jornada MX": 3.45,
     "Desinformémonos": 4.34,
-    "Resumen Latinoam.": 3.6
+    "Resumen Latinoam.": 3.46
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Juicio por la trama de las mascarillas, en directo | Koldo y Ábalos declaran en ",
-      "score": 3.0,
+      "title": "Juicio por la trama de las mascarillas, en directo |Koldo García niega haber rec",
+      "score": 4.47,
       "words": [
         {
-          "word": "acusaciones",
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "ilegal",
-          "score": -3
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "niega",
+          "score": -2
         }
       ]
     },
@@ -113,6 +117,21 @@
     },
     {
       "source": "El País",
+      "title": "El juicio de Kitchen, en directo: El inspector jefe Morocho denuncia que le hici",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "sabotaje",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El Consejo Nacional de Ciencia fulminado por Trump ultimaba un informe sobre la ",
       "score": 5.8,
       "words": [
@@ -124,16 +143,12 @@
     },
     {
       "source": "El País",
-      "title": "Elon Musk se debate entre la ingenuidad y la ira en su segundo día de juicio de ",
-      "score": 5.53,
+      "title": "Elon Musk, en su segundo día de juicio de OpenAI: “Fui un idiota por financiarle",
+      "score": 4.6,
       "words": [
         {
           "word": "idiota",
           "score": -3
-        },
-        {
-          "word": "bueno",
-          "score": 3
         },
         {
           "word": "salvar",
@@ -177,28 +192,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Aldama busca escalar la trama corrupta de Ábalos hacia el PSOE y Sánchez con acu",
-      "score": 4.93,
+      "title": "Morocho asegura que la cúpula policial del PP “desmanteló” su grupo de investiga",
+      "score": 5.12,
       "words": [
         {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "justicia",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "acusaciones",
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "denuncia",
           "score": -2
+        },
+        {
+          "word": "negro",
+          "score": -5
+        },
+        {
+          "word": "asegurado",
+          "score": 2
         }
       ]
     },
@@ -231,33 +246,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PSOE pedirá amparo al Supremo por las \"injurias\" de Aldama: \"No permitiremos ",
-      "score": 3.88,
-      "words": [
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "engaño",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "🎙 PODCAST | Aldama, desencadenado: claves de su declaración judicial",
       "score": 4.94,
       "words": [
@@ -285,54 +273,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El agente Morocho revela que uno de los acusados en Kitchen filtró a Cospedal do",
-      "score": 5.31,
+      "title": "Aldama busca escalar la trama corrupta de Ábalos hacia el PSOE y Sánchez con acu",
+      "score": 4.93,
       "words": [
         {
-          "word": "importante",
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "justicia",
           "score": 2
         },
         {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "sabotaje",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Perder la centralidad",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "ignora",
-          "score": -1
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        },
-        {
-          "word": "solo",
+          "word": "acusaciones",
           "score": -2
         }
       ]
@@ -393,37 +354,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Catalunya abre 529 expedientes de sanción por la regulación de los alquileres: e",
-      "score": 6.12,
+      "title": "Ester Muñoz, sobre la agresión de Vito Quiles denunciada por Begoña Gómez: “Cond",
+      "score": 3.51,
       "words": [
         {
-          "word": "aprueba",
-          "score": 2
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El euskera (y no el meme de la piscina) abre la mayor brecha en el matrimonio de",
+      "score": 5.31,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
         },
         {
           "word": "mayor",
           "score": 3
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "expone",
+          "score": -1
         },
         {
-          "word": "negociar",
+          "word": "consumado",
           "score": 2
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "mayor",
+          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-18T14:01:52Z",
-      "score": 4.79
-    },
     {
       "timestamp": "2026-04-18T15:35:14Z",
       "score": 4.73
@@ -1091,6 +1075,10 @@
     {
       "timestamp": "2026-04-30T08:22:25Z",
       "score": 4.38
+    },
+    {
+      "timestamp": "2026-04-30T10:52:45Z",
+      "score": 4.2
     }
   ]
 }

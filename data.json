@@ -1,15 +1,11 @@
 {
-  "generated": "2026-04-30T12:13:23Z",
-  "global_score": 4.49,
-  "articles_scored": 96,
-  "words_matched": 295,
+  "generated": "2026-04-30T15:07:23Z",
+  "global_score": 4.62,
+  "articles_scored": 98,
+  "words_matched": 277,
   "top_negative": [
     {
       "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "puto",
       "score": -5
     },
     {
@@ -29,25 +25,33 @@
       "score": -4
     },
     {
-      "word": "puta",
-      "score": -4
+      "word": "crisis",
+      "score": -3
     },
     {
-      "word": "mierda",
-      "score": -4
+      "word": "estafas",
+      "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "brillante",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
     },
     {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
       "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
       "score": 3
     },
     {
@@ -55,41 +59,75 @@
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "vigilante",
-      "score": 3
-    },
-    {
       "word": "bueno",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "lealtad",
+      "score": 3
+    },
+    {
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.13,
-    "elDiario.es": 4.72,
-    "El Mundo": 3.98,
-    "ABC": 5.57,
-    "El Confidencial": 3.9,
-    "BBC Mundo": 4.12,
-    "France 24 ES": 4.51,
-    "La Nación AR": 5.38,
+    "El País": 4.86,
+    "elDiario.es": 4.71,
+    "El Mundo": 5.31,
+    "ABC": 5.63,
+    "El Confidencial": 3.48,
+    "BBC Mundo": 4.0,
+    "France 24 ES": 4.31,
+    "La Nación AR": 4.8,
     "La Jornada MX": 4.92,
-    "Desinformémonos": 4.34,
-    "Resumen Latinoam.": 3.46
+    "Desinformémonos": 4.22,
+    "Resumen Latinoam.": 3.96
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Juicio por la trama de las mascarillas, en directo | Koldo García niega haber re",
-      "score": 4.47,
+      "title": "Peramato releva a la fiscal Superior de Madrid, que señaló a García Ortiz en el ",
+      "score": 6.6,
       "words": [
+        {
+          "word": "superior",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Todos los patronos privados abandonan el CNIO para desmarcarse de la crisis de r",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "cáncer",
+          "score": -1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "cáncer",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Juicio por la trama de las mascarillas, en directo | Koldo niega haber hablado c",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
         {
           "word": "niega",
           "score": -2
@@ -121,7 +159,22 @@
     },
     {
       "source": "El País",
-      "title": "El inspector jefe Morocho denuncia que le hicieron “vigilancias” mientras invest",
+      "title": "Ayuso viaja a México a un acto en homenaje a Hernán Cortés en medio de su contro",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "homenaje",
+          "score": 2
+        },
+        {
+          "word": "cortés",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El PP sale en defensa de Vito Quiles tras la denuncia de agresión de Begoña Góme",
       "score": 3.4,
       "words": [
         {
@@ -129,49 +182,23 @@
           "score": -2
         },
         {
-          "word": "sabotaje",
+          "word": "agresión",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El Consejo Nacional de Ciencia fulminado por Trump ultimaba un informe sobre la ",
-      "score": 5.8,
+      "title": "La NASA confirma desde el espacio el acelerado hundimiento de Ciudad de México: ",
+      "score": 5.0,
       "words": [
+        {
+          "word": "desigual",
+          "score": -1
+        },
         {
           "word": "creciente",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Elon Musk, en su segundo día de juicio de OpenAI: “Fui un idiota por financiarle",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "idiota",
-          "score": -3
-        },
-        {
-          "word": "salvar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Una madre que ha denunciado violencia sexual contra su hija en el colegio Waldor",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "agresiones",
-          "score": -2
         }
       ]
     },
@@ -218,29 +245,83 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Morocho asegura que la cúpula policial del PP “desmanteló” su grupo de investiga",
-      "score": 5.12,
+      "source": "El País",
+      "title": "¿Y si lo mejor está por venir?",
+      "score": 5.96,
       "words": [
         {
-          "word": "asegura",
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "honor",
           "score": 2
         },
         {
-          "word": "asegura",
+          "word": "espíritu",
+          "score": 1
+        },
+        {
+          "word": "optimista",
           "score": 2
         },
         {
-          "word": "denuncia",
+          "word": "pesimismo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Koldo García rechaza haber recibido 10.000 euros mensuales de Aldama",
+      "score": 4.63,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "negado",
           "score": -2
         },
         {
-          "word": "negro",
-          "score": -5
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "asegurado",
+          "word": "acusado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Aldama busca escalar la trama corrupta de Ábalos hacia el PSOE y Sánchez con acu",
+      "score": 4.93,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "justicia",
           "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
         }
       ]
     },
@@ -300,118 +381,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Aldama busca escalar la trama corrupta de Ábalos hacia el PSOE y Sánchez con acu",
-      "score": 4.93,
+      "title": "Morocho asegura que la cúpula policial del PP “desmanteló” su grupo de investiga",
+      "score": 5.12,
       "words": [
         {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "justicia",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ester Muñoz, sobre la agresión de Vito Quiles denunciada por Begoña Gómez: “Cond",
-      "score": 3.51,
-      "words": [
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Junts es el partido catalán que más propietarios de vivienda tiene entre su elec",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El euskera (y no el meme de la piscina) abre la mayor brecha en el matrimonio de",
-      "score": 5.31,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "expone",
-          "score": -1
-        },
-        {
-          "word": "consumado",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "negro",
+          "score": -5
+        },
+        {
+          "word": "asegurado",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-18T16:36:46Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-04-18T17:34:13Z",
       "score": 4.81
@@ -1079,6 +1075,10 @@
     {
       "timestamp": "2026-04-30T12:13:23Z",
       "score": 4.49
+    },
+    {
+      "timestamp": "2026-04-30T15:07:23Z",
+      "score": 4.62
     }
   ]
 }

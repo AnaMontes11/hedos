@@ -1,15 +1,15 @@
 {
-  "generated": "2026-04-30T02:41:43Z",
-  "global_score": 4.46,
-  "articles_scored": 90,
-  "words_matched": 227,
+  "generated": "2026-04-30T05:56:25Z",
+  "global_score": 4.58,
+  "articles_scored": 93,
+  "words_matched": 277,
   "top_negative": [
     {
-      "word": "negro",
+      "word": "puto",
       "score": -5
     },
     {
-      "word": "fraude",
+      "word": "molesto",
       "score": -4
     },
     {
@@ -17,37 +17,41 @@
       "score": -4
     },
     {
-      "word": "criminal",
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "puta",
+      "score": -4
+    },
+    {
+      "word": "mierda",
+      "score": -4
+    },
+    {
+      "word": "violencia",
       "score": -3
     },
     {
       "word": "ilegal",
       "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "advertencias",
-      "score": -3
-    },
-    {
-      "word": "perdiendo",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
+      "word": "gracioso",
       "score": 4
     },
     {
-      "word": "amor",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
-      "word": "mejor",
+      "word": "brillante",
+      "score": 4
+    },
+    {
+      "word": "penetración",
       "score": 3
     },
     {
@@ -55,31 +59,27 @@
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "ventilador",
+      "word": "alegre",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.45,
-    "elDiario.es": 4.71,
+    "El País": 5.06,
+    "elDiario.es": 4.75,
     "El Mundo": 3.87,
-    "ABC": 5.35,
-    "El Confidencial": 4.5,
-    "BBC Mundo": 4.12,
-    "France 24 ES": 3.96,
-    "La Nación AR": 5.48,
+    "ABC": 5.22,
+    "El Confidencial": 5.24,
+    "BBC Mundo": 4.02,
+    "France 24 ES": 4.59,
+    "La Nación AR": 4.89,
     "La Jornada MX": 3.45,
     "Desinformémonos": 4.34,
     "Resumen Latinoam.": 4.74
@@ -87,42 +87,12 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Aldama carga sin pruebas contra Sánchez: “Si hay una jerarquía, está en el escal",
-      "score": 5.0,
+      "title": "El Consejo Nacional de Ciencia fulminado por Trump ultimaba un informe sobre la ",
+      "score": 5.8,
       "words": [
         {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Toda la munición de Victor de Aldama",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "criminal",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Begoña Gómez denuncia a Vito Quiles por una agresión en un restaurante de Madrid",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "agresión",
-          "score": -2
+          "word": "creciente",
+          "score": 1
         }
       ]
     },
@@ -147,107 +117,176 @@
     },
     {
       "source": "El País",
-      "title": "Barbacid siguió recaudando fondos de donantes durante mes y medio aunque sabía q",
-      "score": 4.2,
+      "title": "El baúl de los recuerdos: 30 objetos que explican la historia de EL PAÍS",
+      "score": 3.4,
       "words": [
-        {
-          "word": "cáncer",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Atlético deja vivo al Arsenal en el Metropolitano",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "ventaja",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Reencuentro de los pioneros de EL PAÍS: “Teníamos voluntad de servicio público”",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "impulsar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos se prepara para un bloqueo largo de Ormuz",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
         {
           "word": "guerra",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Aldama trata de implicar a Pedro Sánchez en la trama corrupta de Ábalos y Koldo ",
-      "score": 5.59,
-      "words": [
-        {
-          "word": "celebra",
-          "score": 3
         },
         {
-          "word": "interrogatorio",
-          "score": -1
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "intereses",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El caso mascarillas llega a su final: Ábalos y Koldo, obligados a persuadir fren",
-      "score": 5.15,
-      "words": [
-        {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "sentencia",
+          "word": "crítico",
           "score": -2
         },
         {
-          "word": "convencer",
+          "word": "disturbios",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Coronar al barón del sur o sumar otro rehén de Vox: el PP se la juega en el fort",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Una madre que ha denunciado violencia sexual contra su hija en el colegio Waldor",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "agresiones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Peridis y El Roto, la voluntad de pintar lo que ocurre",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "roto",
+          "score": -1
+        },
+        {
+          "word": "humor",
+          "score": 2
+        },
+        {
+          "word": "denunciar",
+          "score": -2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Y si lo mejor está por venir?",
+      "score": 5.96,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "honor",
+          "score": 2
+        },
+        {
+          "word": "espíritu",
           "score": 1
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "optimista",
+          "score": 2
         },
         {
-          "word": "ventilador",
-          "score": 3
+          "word": "pesimismo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Jesús de Polanco, el editor que hizo el universo más habitable",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "jesús",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "‘Cómo contar un país’ | Episodio 1: El ‘excel’ de Charo y Mercedes",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "lucha",
+          "score": -2
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Aldama busca escalar la trama corrupta de Ábalos hacia el PSOE y Sánchez con acu",
+      "score": 4.93,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Aldama, un show por todo lo alto",
+      "score": 4.36,
+      "words": [
+        {
+          "word": "negar",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "cierto",
+          "score": 2
+        },
+        {
+          "word": "suficiente",
+          "score": -2
+        },
+        {
+          "word": "culo",
+          "score": -4
         }
       ]
     },
@@ -280,27 +319,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El policía de la caja B del PP denuncia \"presiones\" de los mandos para no inclui",
-      "score": 4.43,
+      "title": "🎙 PODCAST | Aldama, desencadenado: claves de su declaración judicial",
+      "score": 4.94,
       "words": [
         {
-          "word": "denuncia",
+          "word": "acusado",
           "score": -2
         },
         {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "denuncia",
+          "word": "acusaciones",
           "score": -2
         },
         {
-          "word": "negro",
-          "score": -5
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "venganza",
+          "word": "pobre",
+          "score": -2
+        },
+        {
+          "word": "acusado",
           "score": -2
         }
       ]
@@ -334,64 +373,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PNV amenaza con retirar su apoyo a Sánchez “si no cuida las formas” y él agra",
+      "title": "Junts es el partido catalán que más propietarios de vivienda tiene entre su elec",
       "score": 4.73,
       "words": [
         {
-          "word": "amenaza",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "amenaza",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP da por \"acabado\" al Gobierno tras su bronca con el PNV pese a la \"humillac",
-      "score": 4.49,
-      "words": [
-        {
-          "word": "humillación",
-          "score": -3
-        },
-        {
-          "word": "humillación",
-          "score": -3
-        },
-        {
-          "word": "disputas",
+          "word": "problema",
           "score": -2
         },
         {
-          "word": "amenaza",
+          "word": "problema",
           "score": -2
         },
         {
-          "word": "apoyo",
+          "word": "tipo",
           "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-18T11:32:18Z",
-      "score": 5.01
-    },
     {
       "timestamp": "2026-04-18T12:57:24Z",
       "score": 4.91
@@ -1059,6 +1067,10 @@
     {
       "timestamp": "2026-04-30T02:41:43Z",
       "score": 4.46
+    },
+    {
+      "timestamp": "2026-04-30T05:56:25Z",
+      "score": 4.58
     }
   ]
 }

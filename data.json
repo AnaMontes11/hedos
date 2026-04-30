@@ -1,13 +1,9 @@
 {
-  "generated": "2026-04-30T05:56:25Z",
-  "global_score": 4.58,
-  "articles_scored": 93,
-  "words_matched": 277,
+  "generated": "2026-04-30T08:22:25Z",
+  "global_score": 4.38,
+  "articles_scored": 91,
+  "words_matched": 242,
   "top_negative": [
-    {
-      "word": "puto",
-      "score": -5
-    },
     {
       "word": "molesto",
       "score": -4
@@ -21,34 +17,34 @@
       "score": -4
     },
     {
-      "word": "puta",
+      "word": "infierno",
       "score": -4
-    },
-    {
-      "word": "mierda",
-      "score": -4
-    },
-    {
-      "word": "violencia",
-      "score": -3
     },
     {
       "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "criminal",
+      "score": -3
+    },
+    {
+      "word": "idiota",
+      "score": -3
+    },
+    {
+      "word": "violencia",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "gracioso",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "brillante",
-      "score": 4
+      "word": "feliz",
+      "score": 3
     },
     {
       "word": "penetración",
@@ -67,24 +63,54 @@
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "mayor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.06,
-    "elDiario.es": 4.75,
-    "El Mundo": 3.87,
-    "ABC": 5.22,
-    "El Confidencial": 5.24,
+    "El País": 3.89,
+    "elDiario.es": 4.83,
+    "El Mundo": 3.91,
+    "ABC": 5.05,
+    "El Confidencial": 4.99,
     "BBC Mundo": 4.02,
-    "France 24 ES": 4.59,
-    "La Nación AR": 4.89,
+    "France 24 ES": 4.75,
+    "La Nación AR": 4.92,
     "La Jornada MX": 3.45,
     "Desinformémonos": 4.34,
-    "Resumen Latinoam.": 4.74
+    "Resumen Latinoam.": 3.6
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Juicio por la trama de las mascarillas, en directo | Koldo y Ábalos declaran en ",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Toda la munición de Victor de Aldama",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "criminal",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El Consejo Nacional de Ciencia fulminado por Trump ultimaba un informe sobre la ",
@@ -98,12 +124,12 @@
     },
     {
       "source": "El País",
-      "title": "Elon Musk se debate entre la candidez y la ira en su segundo día de juicio: “¡Si",
-      "score": 5.8,
+      "title": "Elon Musk se debate entre la ingenuidad y la ira en su segundo día de juicio de ",
+      "score": 5.53,
       "words": [
         {
-          "word": "candidez",
-          "score": -2
+          "word": "idiota",
+          "score": -3
         },
         {
           "word": "bueno",
@@ -112,36 +138,6 @@
         {
           "word": "salvar",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El baúl de los recuerdos: 30 objetos que explican la historia de EL PAÍS",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crítico",
-          "score": -2
-        },
-        {
-          "word": "disturbios",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Coronar al barón del sur o sumar otro rehén de Vox: el PP se la juega en el fort",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "popular",
-          "score": 3
         }
       ]
     },
@@ -162,77 +158,20 @@
     },
     {
       "source": "El País",
-      "title": "Peridis y El Roto, la voluntad de pintar lo que ocurre",
-      "score": 5.4,
+      "title": "El baúl de los recuerdos: 30 objetos que explican la historia de EL PAÍS",
+      "score": 3.4,
       "words": [
         {
-          "word": "roto",
-          "score": -1
-        },
-        {
-          "word": "humor",
-          "score": 2
-        },
-        {
-          "word": "denunciar",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Y si lo mejor está por venir?",
-      "score": 5.96,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "honor",
-          "score": 2
-        },
-        {
-          "word": "espíritu",
-          "score": 1
-        },
-        {
-          "word": "optimista",
-          "score": 2
-        },
-        {
-          "word": "pesimismo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Jesús de Polanco, el editor que hizo el universo más habitable",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "jesús",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "‘Cómo contar un país’ | Episodio 1: El ‘excel’ de Charo y Mercedes",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "lucha",
+          "word": "crítico",
           "score": -2
         },
         {
-          "word": "violencia",
-          "score": -3
+          "word": "disturbios",
+          "score": -2
         }
       ]
     },
@@ -373,6 +312,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Perder la centralidad",
+      "score": 4.62,
+      "words": [
+        {
+          "word": "perder",
+          "score": -2
+        },
+        {
+          "word": "perder",
+          "score": -2
+        },
+        {
+          "word": "ignora",
+          "score": -1
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Junts es el partido catalán que más propietarios de vivienda tiene entre su elec",
       "score": 4.73,
       "words": [
@@ -397,13 +363,63 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Junts denuncia que una de sus diputadas ha sufrido acoso en la calle y culpa al ",
+      "score": 4.15,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "culpa",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Catalunya abre 529 expedientes de sanción por la regulación de los alquileres: e",
+      "score": 6.12,
+      "words": [
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-18T12:57:24Z",
-      "score": 4.91
-    },
     {
       "timestamp": "2026-04-18T14:01:52Z",
       "score": 4.79
@@ -1071,6 +1087,10 @@
     {
       "timestamp": "2026-04-30T05:56:25Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-04-30T08:22:25Z",
+      "score": 4.38
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-01T20:49:58Z",
-  "global_score": 4.86,
+  "generated": "2026-05-01T21:51:12Z",
+  "global_score": 4.94,
   "articles_scored": 94,
-  "words_matched": 273,
+  "words_matched": 277,
   "top_negative": [
     {
       "word": "culo",
@@ -51,10 +51,6 @@
       "score": 4
     },
     {
-      "word": "feliz",
-      "score": 3
-    },
-    {
       "word": "cautivado",
       "score": 3
     },
@@ -63,26 +59,30 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "adora",
       "score": 3
     },
     {
-      "word": "adora",
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.1,
+    "El País": 5.71,
     "elDiario.es": 4.83,
-    "El Mundo": 4.49,
-    "ABC": 5.78,
+    "El Mundo": 4.57,
+    "ABC": 5.92,
     "El Confidencial": 5.99,
     "BBC Mundo": 4.13,
-    "France 24 ES": 4.37,
-    "La Nación AR": 4.57,
+    "France 24 ES": 4.1,
+    "La Nación AR": 5.59,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.45,
-    "Resumen Latinoam.": 4.55
+    "Resumen Latinoam.": 4.22
   },
   "articles": [
     {
@@ -212,12 +212,27 @@
     },
     {
       "source": "El País",
-      "title": "De Bad Bunny a la guerra contra el narco: contar Latinoamérica más allá de los p",
-      "score": 3.4,
+      "title": "EL PAÍS salta de las páginas a la calle",
+      "score": 7.4,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "celebra",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Una reivindicación del poder de la palabra frente a los autoritarismos",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "jesús",
+          "score": 1
         }
       ]
     },
@@ -382,40 +397,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Moreno aprovecha el 1 de mayo para prometer una consejería de Inteligencia Artif",
-      "score": 5.47,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T16:37:04Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-04-19T17:33:58Z",
       "score": 4.64
@@ -1083,6 +1067,10 @@
     {
       "timestamp": "2026-05-01T20:49:58Z",
       "score": 4.86
+    },
+    {
+      "timestamp": "2026-05-01T21:51:12Z",
+      "score": 4.94
     }
   ]
 }

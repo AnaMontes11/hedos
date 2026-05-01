@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-01T19:17:15Z",
-  "global_score": 4.87,
-  "articles_scored": 95,
-  "words_matched": 266,
+  "generated": "2026-05-01T20:49:58Z",
+  "global_score": 4.86,
+  "articles_scored": 94,
+  "words_matched": 273,
   "top_negative": [
     {
       "word": "culo",
@@ -17,14 +17,6 @@
       "score": -3
     },
     {
-      "word": "horrible",
-      "score": -3
-    },
-    {
-      "word": "destruido",
-      "score": -3
-    },
-    {
       "word": "falso",
       "score": -3
     },
@@ -35,15 +27,23 @@
     {
       "word": "terrible",
       "score": -3
+    },
+    {
+      "word": "horrible",
+      "score": -3
+    },
+    {
+      "word": "destruido",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "triunfo",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -59,30 +59,30 @@
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
       "word": "próspero",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "adora",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.11,
-    "elDiario.es": 4.82,
-    "El Mundo": 4.44,
-    "ABC": 4.97,
+    "El País": 5.1,
+    "elDiario.es": 4.83,
+    "El Mundo": 4.49,
+    "ABC": 5.78,
     "El Confidencial": 5.99,
-    "BBC Mundo": 4.22,
-    "France 24 ES": 4.64,
-    "La Nación AR": 5.5,
+    "BBC Mundo": 4.13,
+    "France 24 ES": 4.37,
+    "La Nación AR": 4.57,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.45,
-    "Resumen Latinoam.": 4.48
+    "Resumen Latinoam.": 4.55
   },
   "articles": [
     {
@@ -111,7 +111,7 @@
     {
       "source": "El País",
       "title": "60 días de conflicto: la guerra de Trump en Irán ya es tan impopular como la de ",
-      "score": 4.4,
+      "score": 4.36,
       "words": [
         {
           "word": "conflicto",
@@ -128,6 +128,10 @@
         {
           "word": "paz",
           "score": 2
+        },
+        {
+          "word": "evitar",
+          "score": -1
         }
       ]
     },
@@ -219,6 +223,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Trump comunica al Congreso que la guerra con Irán \"ha terminado\" para sortear la",
+      "score": 4.56,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump acusa sin pruebas a la UE de incumplir el acuerdo comercial y anuncia aran",
       "score": 4.8,
       "words": [
@@ -240,60 +271,6 @@
         },
         {
           "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump vuelve a amenazar a España tras anunciar que retirará soldados de Alemania",
-      "score": 4.26,
-      "words": [
-        {
-          "word": "amenazar",
-          "score": -2
-        },
-        {
-          "word": "horrible",
-          "score": -3
-        },
-        {
-          "word": "amenazar",
-          "score": -2
-        },
-        {
-          "word": "horrible",
-          "score": -3
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump acusa en falso a España e Italia: \"Creen que está bien que Irán tenga un a",
-      "score": 4.12,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "guerra",
           "score": -2
         }
       ]
@@ -327,28 +304,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump se salta el límite legal para continuar la guerra de Irán sin autorización",
-      "score": 4.35,
+      "title": "Trump acusa en falso a España e Italia: \"Creen que está bien que Irán tenga un a",
+      "score": 4.12,
       "words": [
         {
-          "word": "legal",
-          "score": 1
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "falso",
+          "score": -3
         },
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "aprobación",
-          "score": 2
         }
       ]
     },
@@ -405,13 +382,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Moreno aprovecha el 1 de mayo para prometer una consejería de Inteligencia Artif",
+      "score": 5.47,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T15:35:31Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-04-19T16:37:04Z",
       "score": 4.7
@@ -1079,6 +1079,10 @@
     {
       "timestamp": "2026-05-01T19:17:15Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-05-01T20:49:58Z",
+      "score": 4.86
     }
   ]
 }

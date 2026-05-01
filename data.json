@@ -1,8 +1,8 @@
 {
-  "generated": "2026-04-30T23:58:10Z",
-  "global_score": 4.63,
-  "articles_scored": 93,
-  "words_matched": 275,
+  "generated": "2026-05-01T03:54:04Z",
+  "global_score": 4.67,
+  "articles_scored": 92,
+  "words_matched": 269,
   "top_negative": [
     {
       "word": "culo",
@@ -43,7 +43,7 @@
       "score": 4
     },
     {
-      "word": "alegría",
+      "word": "divertido",
       "score": 4
     },
     {
@@ -51,11 +51,11 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "fascinante",
       "score": 3
     },
     {
-      "word": "visionario",
+      "word": "fiel",
       "score": 3
     },
     {
@@ -74,15 +74,15 @@
   "per_source": {
     "El País": 5.26,
     "elDiario.es": 4.64,
-    "El Mundo": 4.84,
-    "ABC": 5.78,
-    "El Confidencial": 3.44,
+    "El Mundo": 4.77,
+    "ABC": 4.66,
+    "El Confidencial": 4.9,
     "BBC Mundo": 4.28,
-    "France 24 ES": 4.19,
-    "La Nación AR": 4.49,
+    "France 24 ES": 4.76,
+    "La Nación AR": 4.8,
     "La Jornada MX": 4.92,
-    "Desinformémonos": 4.26,
-    "Resumen Latinoam.": 4.35
+    "Desinformémonos": 4.16,
+    "Resumen Latinoam.": 4.24
   },
   "articles": [
     {
@@ -404,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-18T23:32:09Z",
-      "score": 4.94
-    },
     {
       "timestamp": "2026-04-19T02:28:04Z",
       "score": 4.76
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-04-30T23:58:10Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-05-01T03:54:04Z",
+      "score": 4.67
     }
   ]
 }

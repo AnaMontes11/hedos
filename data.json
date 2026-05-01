@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-01T21:51:12Z",
-  "global_score": 4.94,
-  "articles_scored": 94,
-  "words_matched": 277,
+  "generated": "2026-05-01T22:47:03Z",
+  "global_score": 5.03,
+  "articles_scored": 96,
+  "words_matched": 281,
   "top_negative": [
     {
       "word": "culo",
@@ -10,6 +10,10 @@
     },
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "catastrófico",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "horrible",
       "score": -3
-    },
-    {
-      "word": "destruido",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -55,6 +55,10 @@
       "score": 3
     },
     {
+      "word": "caro",
+      "score": 3
+    },
+    {
       "word": "próspero",
       "score": 3
     },
@@ -65,46 +69,46 @@
     {
       "word": "euforia",
       "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.71,
+    "El País": 5.56,
     "elDiario.es": 4.83,
-    "El Mundo": 4.57,
+    "El Mundo": 4.49,
     "ABC": 5.92,
     "El Confidencial": 5.99,
-    "BBC Mundo": 4.13,
-    "France 24 ES": 4.1,
-    "La Nación AR": 5.59,
+    "BBC Mundo": 4.17,
+    "France 24 ES": 4.59,
+    "La Nación AR": 5.2,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.45,
-    "Resumen Latinoam.": 4.22
+    "Resumen Latinoam.": 4.81
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Trump anuncia aranceles del 25% a la importación de coches europeos",
-      "score": 5.6,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Es",
+      "score": 4.2,
       "words": [
         {
-          "word": "cumplido",
-          "score": 2
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "protesta",
+          "score": -2
         },
         {
-          "word": "alcanzado",
-          "score": 1
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "contento",
+          "score": 3
+        },
+        {
+          "word": "acusa",
+          "score": -2
         }
       ]
     },
@@ -131,6 +135,29 @@
         },
         {
           "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump anuncia aranceles del 25% a la importación de coches europeos",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "cumplido",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
+        },
+        {
+          "word": "pasado",
           "score": -1
         }
       ]
@@ -370,40 +397,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Miles de trabajadores se manifiestan en Barcelona con el reclamo: “Paz, vivienda",
-      "score": 4.53,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "conflictos",
-          "score": -2
-        },
-        {
-          "word": "protesta",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T17:33:58Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-04-19T18:44:17Z",
       "score": 4.6
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-05-01T21:51:12Z",
       "score": 4.94
+    },
+    {
+      "timestamp": "2026-05-01T22:47:03Z",
+      "score": 5.03
     }
   ]
 }

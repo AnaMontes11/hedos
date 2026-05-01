@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-01T08:58:36Z",
-  "global_score": 4.71,
-  "articles_scored": 88,
-  "words_matched": 318,
+  "generated": "2026-05-01T10:26:28Z",
+  "global_score": 4.79,
+  "articles_scored": 85,
+  "words_matched": 316,
   "top_negative": [
     {
       "word": "negro",
@@ -25,23 +25,19 @@
       "score": -3
     },
     {
-      "word": "airado",
+      "word": "estafas",
       "score": -3
     },
     {
-      "word": "cargado",
+      "word": "vil",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "desconfiado",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "fantástico",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -55,6 +51,10 @@
       "score": 4
     },
     {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
       "word": "próspero",
       "score": 3
     },
@@ -63,23 +63,23 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "alegre",
       "score": 3
     },
     {
-      "word": "glamour",
+      "word": "popular",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.28,
-    "elDiario.es": 4.72,
+    "elDiario.es": 4.71,
     "El Mundo": 4.49,
-    "ABC": 4.85,
-    "El Confidencial": 5.05,
-    "BBC Mundo": 4.53,
+    "ABC": 5.08,
+    "El Confidencial": 5.04,
+    "BBC Mundo": 4.77,
     "France 24 ES": 4.76,
-    "La Nación AR": 5.26,
+    "La Nación AR": 6.27,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.16,
     "Resumen Latinoam.": 4.11
@@ -97,6 +97,25 @@
         {
           "word": "exposición",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los sindicatos se manifiestan por el Día del Trabajo contra el precio de la vivi",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "protesta",
+          "score": -2
+        },
+        {
+          "word": "celebra",
+          "score": 3
         }
       ]
     },
@@ -142,25 +161,6 @@
         {
           "word": "pérdida",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los sindicatos se manifiestan por el Día del Trabajo contra el precio de la vivi",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "protesta",
-          "score": -2
-        },
-        {
-          "word": "celebra",
-          "score": 3
         }
       ]
     },
@@ -220,28 +220,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump vuelve a pedir ayuda para reabrir el estrecho de Ormuz con el petróleo des",
-      "score": 4.41,
+      "title": "Trump salva el presupuesto de Seguridad Nacional, sin partidas para el ICE, tras",
+      "score": 4.34,
       "words": [
         {
-          "word": "ayuda",
-          "score": 2
+          "word": "evitar",
+          "score": -1
         },
         {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "guerra",
+          "word": "amenazar",
           "score": -2
         },
         {
-          "word": "asegurar",
-          "score": 1
+          "word": "horrible",
+          "score": -3
         },
         {
-          "word": "airado",
-          "score": -3
+          "word": "separado",
+          "score": -1
+        },
+        {
+          "word": "estancado",
+          "score": -2
         }
       ]
     },
@@ -356,7 +356,7 @@
     {
       "source": "elDiario.es",
       "title": "Los juicios a la corrupción de PP y PSOE marcan el inicio de la campaña andaluza",
-      "score": 5.37,
+      "score": 5.24,
       "words": [
         {
           "word": "curioso",
@@ -436,10 +436,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T07:15:38Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-04-19T08:51:12Z",
       "score": 4.64
@@ -1107,6 +1103,10 @@
     {
       "timestamp": "2026-05-01T08:58:36Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-05-01T10:26:28Z",
+      "score": 4.79
     }
   ]
 }

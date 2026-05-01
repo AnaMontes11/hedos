@@ -1,23 +1,15 @@
 {
-  "generated": "2026-05-01T03:54:04Z",
-  "global_score": 4.67,
-  "articles_scored": 92,
-  "words_matched": 269,
+  "generated": "2026-05-01T06:34:28Z",
+  "global_score": 4.72,
+  "articles_scored": 87,
+  "words_matched": 307,
   "top_negative": [
     {
-      "word": "culo",
-      "score": -4
+      "word": "pérdida",
+      "score": -3
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "molesto",
-      "score": -4
-    },
-    {
-      "word": "víctima",
+      "word": "ilegal",
       "score": -3
     },
     {
@@ -29,11 +21,19 @@
       "score": -3
     },
     {
-      "word": "delicado",
+      "word": "airado",
+      "score": -3
+    },
+    {
+      "word": "cargado",
       "score": -3
     },
     {
       "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "estafas",
       "score": -3
     }
   ],
@@ -43,11 +43,15 @@
       "score": 4
     },
     {
-      "word": "divertido",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "estupendo",
+      "score": 4
+    },
+    {
+      "word": "próspero",
       "score": 3
     },
     {
@@ -59,27 +63,23 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "alegre",
       "score": 3
     },
     {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "celebrando",
+      "word": "popular",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.26,
-    "elDiario.es": 4.64,
+    "El País": 5.08,
+    "elDiario.es": 4.71,
     "El Mundo": 4.77,
-    "ABC": 4.66,
-    "El Confidencial": 4.9,
-    "BBC Mundo": 4.28,
+    "ABC": 4.7,
+    "El Confidencial": 5.03,
+    "BBC Mundo": 4.53,
     "France 24 ES": 4.76,
-    "La Nación AR": 4.8,
+    "La Nación AR": 5.22,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.16,
     "Resumen Latinoam.": 4.24
@@ -87,128 +87,110 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Peramato releva a la fiscal Superior de Madrid, que señaló a García Ortiz en el ",
-      "score": 6.6,
+      "title": "Grande-Marlaska y Rosa Montero, 20 años después de su entrevista en el EPS: “¿Po",
+      "score": 5.0,
       "words": [
         {
-          "word": "superior",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El inspector jefe Morocho denuncia que le hicieron “vigilancias” mientras invest",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Koldo García se presenta como un subordinado leal de Ábalos y víctima de Aldama",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "leal",
-          "score": 3
-        },
-        {
-          "word": "víctima",
-          "score": -3
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Ayuso viaja a México a un acto en homenaje a Hernán Cortés en medio de su contro",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "homenaje",
-          "score": 2
-        },
-        {
-          "word": "cortés",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Moreno carga contra la financiación singular de Cataluña en el arranque de la ca",
-      "score": 5.64,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "útil",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "ganado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Montero remarca la defensa de lo público como eje de su campaña: “La sanidad tie",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "solución",
+          "word": "grande",
           "score": 1
         },
         {
-          "word": "esperanza",
+          "word": "exposición",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Álvaro Pombo: “Me agobia la malicia. Estas polémicas, las de Uclés y otros, pare",
+      "score": 8.2,
+      "words": [
+        {
+          "word": "estupendo",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Quevedo: “Me encanta ser rico, pero a la vez es una condena”",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "rico",
           "score": 2
         },
         {
-          "word": "embaucar",
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "fama",
+          "score": 1
+        },
+        {
+          "word": "solo",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Vox invoca la “prioridad nacional” pactada con el PP en otras comunidades para s",
-      "score": 3.4,
+      "title": "Machitos resentidos",
+      "score": 2.6,
       "words": [
         {
-          "word": "socavar",
-          "score": -2
+          "word": "pérdida",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Maíllo llama a la movilización de la izquierda para blindar la sanidad y la educ",
-      "score": 6.6,
+      "title": "Trump usa la sentencia del Supremo que cercena los derechos de las minorías para",
+      "score": 4.8,
       "words": [
         {
-          "word": "esperanza",
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "mejorar",
+          "score": 2
+        },
+        {
+          "word": "perspectivas",
+          "score": 1
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump se salta el límite legal para continuar la guerra de Irán sin autorización",
+      "score": 4.36,
+      "words": [
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "aprobación",
           "score": 2
         }
       ]
@@ -242,33 +224,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "De los turbantes a los uniformes militares: quién manda en Irán y por qué Trump ",
-      "score": 4.72,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Trump vuelve a pedir ayuda para reabrir el estrecho de Ormuz con el petróleo des",
       "score": 4.41,
       "words": [
@@ -291,87 +246,6 @@
         {
           "word": "airado",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Bolsa sube un 0,78% tras superar una incidencia técnica y con el crudo a la b",
-      "score": 5.13,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump dice que está sopesando retirar tropas de Alemania por las críticas de Mer",
-      "score": 4.0,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "conflictos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno de Merz anuncia un 28% de aumento del gasto militar de Alemania para",
-      "score": 4.9,
-      "words": [
-        {
-          "word": "enemigo",
-          "score": -2
-        },
-        {
-          "word": "aumentar",
-          "score": 1
-        },
-        {
-          "word": "alcanzar",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "valor",
-          "score": 2
         }
       ]
     },
@@ -401,13 +275,171 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Koldo García lo niega todo menos la amistad con Ábalos",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "favorito",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "ignorancia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Caso mascarillas: receta para un proceso podrido",
+      "score": 4.44,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "perspectiva",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los juicios a la corrupción de PP y PSOE marcan el inicio de la campaña andaluza",
+      "score": 5.37,
+      "words": [
+        {
+          "word": "curioso",
+          "score": -2
+        },
+        {
+          "word": "promesas",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Por Andalucía centrará su campaña en movilizar a los abstencionistas de izquierd",
+      "score": 5.36,
+      "words": [
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "útil",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "compartir",
+          "score": 1
+        },
+        {
+          "word": "borra",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Andalucía cambia el paso del ciclo electoral: el feudo de Juanma Moreno frente a",
+      "score": 5.12,
+      "words": [
+        {
+          "word": "favorito",
+          "score": 2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "paradas",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muc",
+      "score": 4.81,
+      "words": [
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "destrucción",
+          "score": -3
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "recortes",
+          "score": -1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T02:28:04Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-04-19T05:26:49Z",
       "score": 4.56
@@ -1075,6 +1107,10 @@
     {
       "timestamp": "2026-05-01T03:54:04Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-05-01T06:34:28Z",
+      "score": 4.72
     }
   ]
 }

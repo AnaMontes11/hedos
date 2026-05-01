@@ -1,19 +1,15 @@
 {
-  "generated": "2026-05-01T11:57:17Z",
-  "global_score": 4.86,
-  "articles_scored": 90,
-  "words_matched": 317,
+  "generated": "2026-05-01T13:24:47Z",
+  "global_score": 4.8,
+  "articles_scored": 94,
+  "words_matched": 292,
   "top_negative": [
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "pérdida",
+      "word": "crisis",
       "score": -3
     },
     {
@@ -29,11 +25,15 @@
       "score": -3
     },
     {
-      "word": "estafas",
+      "word": "cargado",
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "odios",
+      "score": -3
+    },
+    {
+      "word": "destruir",
       "score": -3
     }
   ],
@@ -59,27 +59,27 @@
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "fiel",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "amor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.23,
-    "elDiario.es": 4.66,
-    "El Mundo": 4.7,
-    "ABC": 5.63,
-    "El Confidencial": 4.8,
-    "BBC Mundo": 4.68,
-    "France 24 ES": 4.76,
-    "La Nación AR": 5.17,
+    "El País": 4.9,
+    "elDiario.es": 4.88,
+    "El Mundo": 4.52,
+    "ABC": 4.69,
+    "El Confidencial": 5.52,
+    "BBC Mundo": 4.47,
+    "France 24 ES": 4.65,
+    "La Nación AR": 5.3,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.16,
     "Resumen Latinoam.": 4.72
@@ -87,13 +87,9 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Miles de trabajadores se manifiestan el Día del Trabajo contra el precio de la v",
-      "score": 5.8,
+      "title": "Miles de trabajadores se manifiestan el Primero de Mayo contra el precio de la v",
+      "score": 4.47,
       "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
         {
           "word": "protesta",
           "score": -2
@@ -101,6 +97,10 @@
         {
           "word": "celebrado",
           "score": 3
+        },
+        {
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
@@ -116,25 +116,33 @@
         {
           "word": "incompetencia",
           "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Grande-Marlaska y Rosa Montero, 20 años después de su entrevista en el EPS: “¿Po",
-      "score": 5.0,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 4.2,
       "words": [
         {
-          "word": "grande",
-          "score": 1
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "exposición",
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "ataques",
           "score": -1
+        },
+        {
+          "word": "advierte",
+          "score": -2
         }
       ]
     },
@@ -174,35 +182,54 @@
     },
     {
       "source": "El País",
-      "title": "Machitos resentidos",
-      "score": 2.6,
+      "title": "¿Qué hay detrás del cambio en las pescaderías de Mercadona?",
+      "score": 4.2,
       "words": [
         {
-          "word": "pérdida",
-          "score": -3
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Lula felicita a EL PAÍS: “Que no pierda nunca de vista la importancia que tiene ",
-      "score": 6.8,
+      "title": "Grande-Marlaska y Rosa Montero, 20 años después de su entrevista en el EPS: “¿Po",
+      "score": 5.0,
       "words": [
         {
-          "word": "importancia",
+          "word": "grande",
+          "score": 1
+        },
+        {
+          "word": "exposición",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Irán envía una nueva propuesta de negociaciones de paz a EEUU",
+      "score": 5.51,
+      "words": [
+        {
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "valor",
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "libertad",
+          "word": "paz",
           "score": 2
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -262,116 +289,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump salva el presupuesto de Seguridad Nacional, sin partidas para el ICE, tras",
-      "score": 4.34,
-      "words": [
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "amenazar",
-          "score": -2
-        },
-        {
-          "word": "horrible",
-          "score": -3
-        },
-        {
-          "word": "separado",
-          "score": -1
-        },
-        {
-          "word": "estancado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Koldo García niega en el Supremo las acusaciones de Aldama sobre la financiación",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Koldo García lo niega todo menos la amistad con Ábalos",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "favorito",
-          "score": 2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "ignorancia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Caso mascarillas: receta para un proceso podrido",
-      "score": 4.44,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "perspectiva",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Miles de personas salen a la calle en un 1 de Mayo con eco electoral en Andalucí",
-      "score": 5.1,
+      "score": 5.06,
       "words": [
         {
           "word": "jesús",
@@ -392,6 +311,87 @@
         {
           "word": "puesto",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Miles de personas se manifiestan en València por el 1 de Mayo: \"Hay motivos de s",
+      "score": 4.77,
+      "words": [
+        {
+          "word": "festivo",
+          "score": 2
+        },
+        {
+          "word": "cielo",
+          "score": 2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Moreno aprovecha el 1 de mayo para prometer una consejería de Inteligencia Artif",
+      "score": 5.47,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Andalucía cambia el paso del ciclo electoral: el feudo de Juanma Moreno frente a",
+      "score": 5.12,
+      "words": [
+        {
+          "word": "favorito",
+          "score": 2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "paradas",
+          "score": -1
         }
       ]
     },
@@ -424,10 +424,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T09:44:17Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-04-19T10:36:29Z",
       "score": 4.57
@@ -1095,6 +1091,10 @@
     {
       "timestamp": "2026-05-01T11:57:17Z",
       "score": 4.86
+    },
+    {
+      "timestamp": "2026-05-01T13:24:47Z",
+      "score": 4.8
     }
   ]
 }

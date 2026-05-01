@@ -1,12 +1,16 @@
 {
-  "generated": "2026-05-01T10:26:28Z",
-  "global_score": 4.79,
-  "articles_scored": 85,
-  "words_matched": 316,
+  "generated": "2026-05-01T11:57:17Z",
+  "global_score": 4.86,
+  "articles_scored": 90,
+  "words_matched": 317,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
+      "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "fraude",
+      "score": -4
     },
     {
       "word": "pérdida",
@@ -30,10 +34,6 @@
     },
     {
       "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "desconfiado",
       "score": -3
     }
   ],
@@ -59,11 +59,11 @@
       "score": 3
     },
     {
-      "word": "fascinante",
+      "word": "alegre",
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "fiel",
       "score": 3
     },
     {
@@ -72,19 +72,57 @@
     }
   ],
   "per_source": {
-    "El País": 5.28,
-    "elDiario.es": 4.71,
-    "El Mundo": 4.49,
-    "ABC": 5.08,
-    "El Confidencial": 5.04,
-    "BBC Mundo": 4.77,
+    "El País": 5.23,
+    "elDiario.es": 4.66,
+    "El Mundo": 4.7,
+    "ABC": 5.63,
+    "El Confidencial": 4.8,
+    "BBC Mundo": 4.68,
     "France 24 ES": 4.76,
-    "La Nación AR": 6.27,
+    "La Nación AR": 5.17,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.16,
-    "Resumen Latinoam.": 4.11
+    "Resumen Latinoam.": 4.72
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Miles de trabajadores se manifiestan el Día del Trabajo contra el precio de la v",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "protesta",
+          "score": -2
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El PSOE y Por Andalucía cargan juntos contra la derecha en un Primero de Mayo en",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "incompetencia",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Grande-Marlaska y Rosa Montero, 20 años después de su entrevista en el EPS: “¿Po",
@@ -97,25 +135,6 @@
         {
           "word": "exposición",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los sindicatos se manifiestan por el Día del Trabajo contra el precio de la vivi",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "protesta",
-          "score": -2
-        },
-        {
-          "word": "celebra",
-          "score": 3
         }
       ]
     },
@@ -161,6 +180,29 @@
         {
           "word": "pérdida",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Lula felicita a EL PAÍS: “Que no pierda nunca de vista la importancia que tiene ",
+      "score": 6.8,
+      "words": [
+        {
+          "word": "importancia",
+          "score": 2
+        },
+        {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
         }
       ]
     },
@@ -328,6 +370,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Miles de personas salen a la calle en un 1 de Mayo con eco electoral en Andalucí",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "jesús",
+          "score": 1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        },
+        {
+          "word": "compartido",
+          "score": 1
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muc",
       "score": 4.81,
       "words": [
@@ -352,94 +421,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los juicios a la corrupción de PP y PSOE marcan el inicio de la campaña andaluza",
-      "score": 5.24,
-      "words": [
-        {
-          "word": "curioso",
-          "score": -2
-        },
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Andalucía cambia el paso del ciclo electoral: el feudo de Juanma Moreno frente a",
-      "score": 5.12,
-      "words": [
-        {
-          "word": "favorito",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "paradas",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El acuerdo comercial entre la UE y Mercosur entra en vigor con numerosos escollo",
-      "score": 5.52,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T08:51:12Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-04-19T09:44:17Z",
       "score": 4.54
@@ -1107,6 +1091,10 @@
     {
       "timestamp": "2026-05-01T10:26:28Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-05-01T11:57:17Z",
+      "score": 4.86
     }
   ]
 }

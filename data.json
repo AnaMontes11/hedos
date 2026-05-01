@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-01T13:24:47Z",
-  "global_score": 4.8,
-  "articles_scored": 94,
-  "words_matched": 292,
+  "generated": "2026-05-01T14:52:47Z",
+  "global_score": 4.9,
+  "articles_scored": 97,
+  "words_matched": 296,
   "top_negative": [
     {
       "word": "culo",
@@ -39,6 +39,10 @@
   ],
   "top_positive": [
     {
+      "word": "fantástico",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
@@ -51,7 +55,11 @@
       "score": 4
     },
     {
-      "word": "celebrar",
+      "word": "heroico",
+      "score": 3
+    },
+    {
+      "word": "súper",
       "score": 3
     },
     {
@@ -59,35 +67,27 @@
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "excelencia",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.9,
+    "El País": 5.23,
     "elDiario.es": 4.88,
     "El Mundo": 4.52,
-    "ABC": 4.69,
-    "El Confidencial": 5.52,
-    "BBC Mundo": 4.47,
-    "France 24 ES": 4.65,
-    "La Nación AR": 5.3,
+    "ABC": 4.97,
+    "El Confidencial": 5.68,
+    "BBC Mundo": 4.26,
+    "France 24 ES": 4.71,
+    "La Nación AR": 5.93,
     "La Jornada MX": 4.92,
-    "Desinformémonos": 4.16,
-    "Resumen Latinoam.": 4.72
+    "Desinformémonos": 4.07,
+    "Resumen Latinoam.": 4.47
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Miles de trabajadores se manifiestan el Primero de Mayo contra el precio de la v",
+      "title": "Miles de trabajadores se manifiestan por la vivienda el Primero de Mayo: “Es ins",
       "score": 4.47,
       "words": [
         {
@@ -107,15 +107,11 @@
     {
       "source": "El País",
       "title": "El PSOE y Por Andalucía cargan juntos contra la derecha en un Primero de Mayo en",
-      "score": 3.4,
+      "score": 5.8,
       "words": [
         {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "incompetencia",
-          "score": -2
+          "word": "jesús",
+          "score": 1
         }
       ]
     },
@@ -193,16 +189,35 @@
     },
     {
       "source": "El País",
-      "title": "Grande-Marlaska y Rosa Montero, 20 años después de su entrevista en el EPS: “¿Po",
-      "score": 5.0,
+      "title": "De Bad Bunny a la guerra contra el narco: contar Latinoamérica más allá de los p",
+      "score": 3.4,
       "words": [
         {
-          "word": "grande",
-          "score": 1
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Lula felicita a EL PAÍS: “Que no pierda nunca de vista la importancia que tiene ",
+      "score": 6.8,
+      "words": [
+        {
+          "word": "importancia",
+          "score": 2
         },
         {
-          "word": "exposición",
-          "score": -1
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
         }
       ]
     },
@@ -236,7 +251,7 @@
     {
       "source": "elDiario.es",
       "title": "Trump se salta el límite legal para continuar la guerra de Irán sin autorización",
-      "score": 4.36,
+      "score": 4.35,
       "words": [
         {
           "word": "legal",
@@ -394,40 +409,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muc",
-      "score": 4.81,
-      "words": [
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "destrucción",
-          "score": -3
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "recortes",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T10:36:29Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-04-19T11:33:21Z",
       "score": 4.62
@@ -1095,6 +1079,10 @@
     {
       "timestamp": "2026-05-01T13:24:47Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-05-01T14:52:47Z",
+      "score": 4.9
     }
   ]
 }

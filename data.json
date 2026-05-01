@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-01T16:55:37Z",
-  "global_score": 4.81,
-  "articles_scored": 94,
-  "words_matched": 278,
+  "generated": "2026-05-01T17:57:40Z",
+  "global_score": 4.94,
+  "articles_scored": 89,
+  "words_matched": 261,
   "top_negative": [
     {
       "word": "culo",
@@ -10,10 +10,6 @@
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "burro",
       "score": -4
     },
     {
@@ -29,11 +25,15 @@
       "score": -3
     },
     {
+      "word": "falso",
+      "score": -3
+    },
+    {
       "word": "ilegal",
       "score": -3
     },
     {
-      "word": "cargado",
+      "word": "terrible",
       "score": -3
     }
   ],
@@ -55,10 +55,6 @@
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "próspero",
       "score": 3
     },
@@ -67,22 +63,26 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "fiel",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.15,
-    "elDiario.es": 4.8,
-    "El Mundo": 4.06,
-    "ABC": 5.25,
-    "El Confidencial": 5.68,
+    "elDiario.es": 4.79,
+    "El Mundo": 4.28,
+    "ABC": 5.38,
+    "El Confidencial": 5.97,
     "BBC Mundo": 4.22,
-    "France 24 ES": 4.45,
-    "La Nación AR": 5.13,
+    "France 24 ES": 4.82,
+    "La Nación AR": 5.83,
     "La Jornada MX": 4.92,
-    "Desinformémonos": 4.55,
-    "Resumen Latinoam.": 4.42
+    "Desinformémonos": 4.45,
+    "Resumen Latinoam.": 4.55
   },
   "articles": [
     {
@@ -223,33 +223,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Irán envía una nueva propuesta de negociaciones de paz a EEUU",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Trump acusa sin pruebas a la UE de incumplir el acuerdo comercial y anuncia aran",
       "score": 4.8,
       "words": [
@@ -299,6 +272,60 @@
         {
           "word": "amenazas",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump acusa en falso a España e Italia: \"Creen que está bien que Irán tenga un a",
+      "score": 4.12,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Irán envía una nueva propuesta de negociaciones de paz a EEUU",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
         }
       ]
     },
@@ -382,40 +409,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Moreno aprovecha el 1 de mayo para prometer una consejería de Inteligencia Artif",
-      "score": 5.47,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T13:59:56Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-04-19T14:51:52Z",
       "score": 4.59
@@ -1083,6 +1079,10 @@
     {
       "timestamp": "2026-05-01T16:55:37Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-05-01T17:57:40Z",
+      "score": 4.94
     }
   ]
 }

@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-01T06:34:28Z",
-  "global_score": 4.72,
-  "articles_scored": 87,
-  "words_matched": 307,
+  "generated": "2026-05-01T08:58:36Z",
+  "global_score": 4.71,
+  "articles_scored": 88,
+  "words_matched": 318,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "pérdida",
       "score": -3
@@ -31,13 +35,13 @@
     {
       "word": "crisis",
       "score": -3
-    },
-    {
-      "word": "estafas",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "fantástico",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -59,30 +63,26 @@
       "score": 3
     },
     {
-      "word": "fiel",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "alegre",
-      "score": 3
-    },
-    {
-      "word": "popular",
+      "word": "glamour",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.08,
-    "elDiario.es": 4.71,
-    "El Mundo": 4.77,
-    "ABC": 4.7,
-    "El Confidencial": 5.03,
+    "El País": 5.28,
+    "elDiario.es": 4.72,
+    "El Mundo": 4.49,
+    "ABC": 4.85,
+    "El Confidencial": 5.05,
     "BBC Mundo": 4.53,
     "France 24 ES": 4.76,
-    "La Nación AR": 5.22,
+    "La Nación AR": 5.26,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.16,
-    "Resumen Latinoam.": 4.24
+    "Resumen Latinoam.": 4.11
   },
   "articles": [
     {
@@ -147,24 +147,20 @@
     },
     {
       "source": "El País",
-      "title": "Trump usa la sentencia del Supremo que cercena los derechos de las minorías para",
-      "score": 4.8,
+      "title": "Los sindicatos se manifiestan por el Día del Trabajo contra el precio de la vivi",
+      "score": 5.8,
       "words": [
         {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "mejorar",
+          "word": "crecimiento",
           "score": 2
         },
         {
-          "word": "perspectivas",
-          "score": 1
+          "word": "protesta",
+          "score": -2
         },
         {
-          "word": "tiempo",
-          "score": -2
+          "word": "celebra",
+          "score": 3
         }
       ]
     },
@@ -332,6 +328,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muc",
+      "score": 4.81,
+      "words": [
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "destrucción",
+          "score": -3
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "recortes",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Los juicios a la corrupción de PP y PSOE marcan el inicio de la campaña andaluza",
       "score": 5.37,
       "words": [
@@ -354,33 +377,6 @@
         {
           "word": "rechaza",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Por Andalucía centrará su campaña en movilizar a los abstencionistas de izquierd",
-      "score": 5.36,
-      "words": [
-        {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "útil",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "compartir",
-          "score": 1
-        },
-        {
-          "word": "borra",
-          "score": 1
         }
       ]
     },
@@ -413,37 +409,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muc",
-      "score": 4.81,
+      "title": "El acuerdo comercial entre la UE y Mercosur entra en vigor con numerosos escollo",
+      "score": 5.52,
       "words": [
         {
-          "word": "dudas",
-          "score": -1
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "dudas",
-          "score": -1
+          "word": "resolver",
+          "score": 1
         },
         {
-          "word": "destrucción",
-          "score": -3
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "fuerza",
-          "score": 2
+          "word": "resolver",
+          "score": 1
         },
         {
-          "word": "recortes",
-          "score": -1
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T05:26:49Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-04-19T07:15:38Z",
       "score": 4.58
@@ -1111,6 +1103,10 @@
     {
       "timestamp": "2026-05-01T06:34:28Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-05-01T08:58:36Z",
+      "score": 4.71
     }
   ]
 }

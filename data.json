@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-02T15:42:33Z",
-  "global_score": 4.65,
-  "articles_scored": 92,
-  "words_matched": 283,
+  "generated": "2026-05-02T16:42:36Z",
+  "global_score": 4.63,
+  "articles_scored": 93,
+  "words_matched": 284,
   "top_negative": [
     {
       "word": "negro",
@@ -72,16 +72,16 @@
     }
   ],
   "per_source": {
-    "El País": 4.36,
+    "El País": 3.96,
     "elDiario.es": 4.67,
-    "El Mundo": 4.08,
-    "ABC": 4.89,
-    "El Confidencial": 4.49,
+    "El Mundo": 4.18,
+    "ABC": 5.34,
+    "El Confidencial": 4.61,
     "BBC Mundo": 5.21,
-    "France 24 ES": 4.17,
-    "La Nación AR": 5.03,
+    "France 24 ES": 4.02,
+    "La Nación AR": 4.46,
     "La Jornada MX": 5.7,
-    "Desinformémonos": 4.49,
+    "Desinformémonos": 4.67,
     "Resumen Latinoam.": 4.53
   },
   "articles": [
@@ -238,12 +238,12 @@
     },
     {
       "source": "El País",
-      "title": "EL PAÍS salta de las páginas a la calle",
-      "score": 7.4,
+      "title": "Giuliano da Empoli y Juan Gabriel Vásquez: encuentro con luces largas para enten",
+      "score": 3.4,
       "words": [
         {
-          "word": "celebra",
-          "score": 3
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-20T12:01:56Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-04-20T14:47:46Z",
       "score": 4.67
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-05-02T15:42:33Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-05-02T16:42:36Z",
+      "score": 4.63
     }
   ]
 }

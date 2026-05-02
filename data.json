@@ -1,19 +1,19 @@
 {
-  "generated": "2026-05-02T02:30:11Z",
+  "generated": "2026-05-02T05:34:25Z",
   "global_score": 4.86,
   "articles_scored": 92,
-  "words_matched": 272,
+  "words_matched": 280,
   "top_negative": [
     {
       "word": "coño",
       "score": -5
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
@@ -21,7 +21,7 @@
       "score": -3
     },
     {
-      "word": "falso",
+      "word": "cubrir",
       "score": -3
     },
     {
@@ -29,25 +29,25 @@
       "score": -3
     },
     {
-      "word": "terrible",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "horrible",
+      "word": "odio",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "victorioso",
+      "score": 4
+    },
+    {
+      "word": "brillante",
       "score": 4
     },
     {
       "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "estupendo",
       "score": 4
     },
     {
@@ -59,27 +59,27 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "feliz",
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "emoción",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.48,
-    "elDiario.es": 4.83,
-    "El Mundo": 4.65,
-    "ABC": 4.79,
-    "El Confidencial": 5.99,
-    "BBC Mundo": 4.17,
-    "France 24 ES": 4.16,
-    "La Nación AR": 4.5,
+    "El País": 4.88,
+    "elDiario.es": 4.87,
+    "El Mundo": 4.77,
+    "ABC": 5.28,
+    "El Confidencial": 5.24,
+    "BBC Mundo": 4.28,
+    "France 24 ES": 4.29,
+    "La Nación AR": 5.05,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.45,
     "Resumen Latinoam.": 5.07
@@ -87,11 +87,19 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Trump agrava su cisma con la OTAN y retira 5.000 soldados de Alemania",
+      "title": "La vida bajo el frágil alto el fuego en Teherán: “La guerra fue aterradora, pero",
       "score": 3.4,
       "words": [
         {
-          "word": "agrava",
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
           "score": -2
         }
       ]
@@ -125,99 +133,53 @@
     },
     {
       "source": "El País",
-      "title": "Trump anuncia aranceles del 25% a la importación de coches europeos",
-      "score": 5.6,
+      "title": "Los países petroleros de fuera del Golfo hacen caja con la crisis de Ormuz",
+      "score": 2.87,
       "words": [
-        {
-          "word": "cumplido",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "alcanzado",
-          "score": 1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Miles de trabajadores se manifiestan por la vivienda el Primero de Mayo: “Es ins",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "protesta",
-          "score": -2
-        },
-        {
-          "word": "celebrado",
-          "score": 3
-        },
         {
           "word": "crisis",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PSOE y Por Andalucía cargan juntos contra la derecha en un Primero de Mayo en",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "jesús",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Álvaro Pombo: “Me agobia la malicia. Estas polémicas, las de Uclés y otros, pare",
-      "score": 8.2,
-      "words": [
-        {
-          "word": "estupendo",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Quevedo: “Me encanta ser rico, pero a la vez es una condena”",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "rico",
-          "score": 2
         },
         {
-          "word": "condena",
-          "score": -2
+          "word": "cubrir",
+          "score": -3
         },
         {
-          "word": "fama",
-          "score": 1
-        },
-        {
-          "word": "solo",
+          "word": "guerra",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "¿Qué hay detrás del cambio en las pescaderías de Mercadona?",
-      "score": 4.2,
+      "title": "Trump agrava su cisma con la OTAN y retira 5.000 soldados de Alemania",
+      "score": 3.4,
       "words": [
         {
-          "word": "pasado",
-          "score": -1
+          "word": "agrava",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump dice que Estados Unidos “tomará Cuba casi inmediatamente”",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "amenazas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Manuela Carmena, Antonio López, Andreu Buenafuente: protagonistas de las noticia",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "moda",
+          "score": -2
         }
       ]
     },
@@ -248,146 +210,168 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Trump comunica al Congreso que la guerra con Irán \"ha terminado\" para sortear la",
-      "score": 4.56,
+      "source": "El País",
+      "title": "Festival de EL PAÍS, día 1: 50 años de recuerdos con un mismo compromiso",
+      "score": 6.6,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "compromiso",
+          "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
+          "word": "cumple",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Pedro Almodóvar felicita a EL PAÍS: “Es el momento de la información periodístic",
+      "score": 7.4,
+      "words": [
         {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "celebra",
+          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump acusa sin pruebas a la UE de incumplir el acuerdo comercial y anuncia aran",
-      "score": 4.8,
+      "title": "Vox dinamita los puentes con la Iglesia antes de la visita del Papa",
+      "score": 4.37,
       "words": [
         {
           "word": "acusa",
           "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
         },
         {
           "word": "amenaza",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Irán envía una nueva propuesta de negociaciones de paz a EEUU",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
         },
         {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "guerra",
+          "word": "criticar",
           "score": -2
         },
         {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump acusa en falso a España e Italia: \"Creen que está bien que Irán tenga un a",
-      "score": 4.12,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "falso",
+          "word": "ilegal",
           "score": -3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Óscar López: \"Vito Quiles es basura fascista financiada por el PP\"",
+      "score": 4.93,
+      "words": [
+        {
+          "word": "fascista",
+          "score": -2
+        },
+        {
+          "word": "fascista",
+          "score": -2
+        },
+        {
+          "word": "carga",
+          "score": -2
         },
         {
           "word": "acusa",
           "score": -2
         },
         {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
+          "word": "ataques",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Miles de personas salen a la calle en un 1 de Mayo con eco electoral en Andalucí",
-      "score": 5.06,
+      "title": "Sumar confía en que la presión social para la prórroga de los alquileres tuerza ",
+      "score": 4.72,
       "words": [
         {
-          "word": "jesús",
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "derecho",
           "score": 1
         },
         {
-          "word": "crisis",
-          "score": -3
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "celebrado",
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Cuando se negocia desde Madrid: Castilla y León no tendrá pacto de gobierno hast",
+      "score": 5.57,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "popular",
           "score": 3
         },
         {
-          "word": "compartido",
-          "score": 1
+          "word": "culo",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez y Zapatero arropan a Montero para exhibir “orgullo” socialista y dar la ",
+      "score": 5.08,
+      "words": [
+        {
+          "word": "orgullo",
+          "score": 2
         },
         {
-          "word": "puesto",
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "acusa",
           "score": -2
+        },
+        {
+          "word": "esconder",
+          "score": -1
+        },
+        {
+          "word": "evitar",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T20:34:41Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-19T21:33:11Z",
       "score": 4.69
@@ -1054,6 +1038,10 @@
     },
     {
       "timestamp": "2026-05-02T02:30:11Z",
+      "score": 4.86
+    },
+    {
+      "timestamp": "2026-05-02T05:34:25Z",
       "score": 4.86
     }
   ]

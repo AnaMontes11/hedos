@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-02T11:42:07Z",
-  "global_score": 4.73,
-  "articles_scored": 94,
-  "words_matched": 273,
+  "generated": "2026-05-02T13:05:02Z",
+  "global_score": 4.82,
+  "articles_scored": 96,
+  "words_matched": 285,
   "top_negative": [
     {
       "word": "negro",
@@ -39,6 +39,10 @@
   ],
   "top_positive": [
     {
+      "word": "brillante",
+      "score": 4
+    },
+    {
       "word": "triunfo",
       "score": 4
     },
@@ -59,30 +63,26 @@
       "score": 3
     },
     {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "próspero",
-      "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "fascinante",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.88,
-    "elDiario.es": 4.63,
+    "elDiario.es": 4.68,
     "El Mundo": 4.02,
-    "ABC": 5.2,
-    "El Confidencial": 4.9,
+    "ABC": 5.41,
+    "El Confidencial": 4.69,
     "BBC Mundo": 5.21,
-    "France 24 ES": 4.29,
-    "La Nación AR": 4.42,
+    "France 24 ES": 4.21,
+    "La Nación AR": 5.3,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.45,
-    "Resumen Latinoam.": 4.32
+    "Resumen Latinoam.": 4.49
   },
   "articles": [
     {
@@ -330,6 +330,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "China da un golpe en el orden mundial frente a Trump con su músculo tecnológico",
+      "score": 4.96,
+      "words": [
+        {
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "colisión",
+          "score": -2
+        },
+        {
+          "word": "ganando",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump afirma que EEUU \"tomará el control\" de Cuba \"casi de inmediato\"",
       "score": 4.8,
       "words": [
@@ -354,40 +381,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La misión humanitaria Rumbo a Cuba saldrá de Barcelona en barco el 10 de mayo",
-      "score": 4.63,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "infantil",
-          "score": -2
-        },
-        {
-          "word": "honor",
-          "score": 2
-        },
-        {
-          "word": "sufre",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-20T05:38:22Z",
-      "score": 4.55
-    },
     {
       "timestamp": "2026-04-20T08:02:36Z",
       "score": 4.48
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-05-02T11:42:07Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-05-02T13:05:02Z",
+      "score": 4.82
     }
   ]
 }

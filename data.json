@@ -1,19 +1,19 @@
 {
-  "generated": "2026-05-01T23:50:12Z",
-  "global_score": 4.91,
-  "articles_scored": 95,
-  "words_matched": 278,
+  "generated": "2026-05-02T02:30:11Z",
+  "global_score": 4.86,
+  "articles_scored": 92,
+  "words_matched": 272,
   "top_negative": [
+    {
+      "word": "coño",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "catastrófico",
       "score": -4
     },
     {
@@ -59,30 +59,30 @@
       "score": 3
     },
     {
-      "word": "adora",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "alegre",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.48,
     "elDiario.es": 4.83,
-    "El Mundo": 4.3,
-    "ABC": 5.92,
+    "El Mundo": 4.65,
+    "ABC": 4.79,
     "El Confidencial": 5.99,
     "BBC Mundo": 4.17,
-    "France 24 ES": 4.22,
-    "La Nación AR": 4.43,
+    "France 24 ES": 4.16,
+    "La Nación AR": 4.5,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.45,
-    "Resumen Latinoam.": 4.81
+    "Resumen Latinoam.": 5.07
   },
   "articles": [
     {
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T19:39:42Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-04-19T20:34:41Z",
       "score": 4.71
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-05-01T23:50:12Z",
       "score": 4.91
+    },
+    {
+      "timestamp": "2026-05-02T02:30:11Z",
+      "score": 4.86
     }
   ]
 }

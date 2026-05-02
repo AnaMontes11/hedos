@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-02T13:05:02Z",
-  "global_score": 4.82,
+  "generated": "2026-05-02T14:43:20Z",
+  "global_score": 4.75,
   "articles_scored": 96,
-  "words_matched": 285,
+  "words_matched": 279,
   "top_negative": [
     {
       "word": "negro",
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "próspero",
       "score": 3
     },
     {
-      "word": "próspero",
+      "word": "fascinante",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.88,
-    "elDiario.es": 4.68,
+    "El País": 4.8,
+    "elDiario.es": 4.67,
     "El Mundo": 4.02,
-    "ABC": 5.41,
-    "El Confidencial": 4.69,
+    "ABC": 4.9,
+    "El Confidencial": 4.62,
     "BBC Mundo": 5.21,
-    "France 24 ES": 4.21,
-    "La Nación AR": 5.3,
+    "France 24 ES": 4.41,
+    "La Nación AR": 5.28,
     "La Jornada MX": 5.7,
-    "Desinformémonos": 4.45,
-    "Resumen Latinoam.": 4.49
+    "Desinformémonos": 4.6,
+    "Resumen Latinoam.": 4.42
   },
   "articles": [
     {
@@ -212,27 +212,23 @@
     },
     {
       "source": "El País",
+      "title": "Desvelos de articulistas: “Mi sueño es escribir una columna que acabe con el col",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "sueño",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "EL PAÍS salta de las páginas a la calle",
       "score": 7.4,
       "words": [
         {
           "word": "celebra",
           "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Festival de EL PAÍS, día 1: 50 años de recuerdos con un mismo compromiso",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "compromiso",
-          "score": 2
-        },
-        {
-          "word": "cumple",
-          "score": 2
         }
       ]
     },
@@ -358,7 +354,7 @@
     {
       "source": "elDiario.es",
       "title": "Trump afirma que EEUU \"tomará el control\" de Cuba \"casi de inmediato\"",
-      "score": 4.8,
+      "score": 4.75,
       "words": [
         {
           "word": "guerra",
@@ -384,10 +380,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-20T08:02:36Z",
-      "score": 4.48
-    },
     {
       "timestamp": "2026-04-20T10:45:35Z",
       "score": 4.54
@@ -1055,6 +1047,10 @@
     {
       "timestamp": "2026-05-02T13:05:02Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-05-02T14:43:20Z",
+      "score": 4.75
     }
   ]
 }

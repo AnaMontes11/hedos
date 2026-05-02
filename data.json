@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-02T09:03:08Z",
-  "global_score": 4.77,
-  "articles_scored": 84,
-  "words_matched": 254,
+  "generated": "2026-05-02T10:48:43Z",
+  "global_score": 4.78,
+  "articles_scored": 93,
+  "words_matched": 263,
   "top_negative": [
     {
       "word": "negro",
@@ -17,6 +17,14 @@
       "score": -4
     },
     {
+      "word": "mierda",
+      "score": -4
+    },
+    {
+      "word": "infierno",
+      "score": -4
+    },
+    {
       "word": "retirada",
       "score": -3
     },
@@ -27,23 +35,15 @@
     {
       "word": "mal",
       "score": -3
-    },
-    {
-      "word": "falso",
-      "score": -3
-    },
-    {
-      "word": "terrible",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "triunfo",
+      "word": "ganador",
       "score": 4
     },
     {
@@ -55,11 +55,11 @@
       "score": 3
     },
     {
-      "word": "excelencia",
+      "word": "próspero",
       "score": 3
     },
     {
-      "word": "próspero",
+      "word": "riqueza",
       "score": 3
     },
     {
@@ -67,18 +67,19 @@
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.88,
     "elDiario.es": 4.63,
-    "El Mundo": 4.14,
-    "ABC": 5.3,
-    "El Confidencial": 5.24,
-    "BBC Mundo": 4.28,
-    "La Nación AR": 5.4,
+    "El Mundo": 4.08,
+    "ABC": 5.68,
+    "El Confidencial": 5.36,
+    "BBC Mundo": 4.9,
+    "France 24 ES": 4.29,
+    "La Nación AR": 4.65,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.45,
     "Resumen Latinoam.": 4.32
@@ -98,7 +99,7 @@
     {
       "source": "El País",
       "title": "Alemania defiende la importancia estratégica de la presencia de soldados de EE U",
-      "score": 4.6,
+      "score": 5.0,
       "words": [
         {
           "word": "importancia",
@@ -107,6 +108,10 @@
         {
           "word": "retirada",
           "score": -3
+        },
+        {
+          "word": "ajuste",
+          "score": 1
         }
       ]
     },
@@ -126,6 +131,33 @@
         {
           "word": "conflicto",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 4.43,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "urgente",
+          "score": -1
+        },
+        {
+          "word": "valor",
+          "score": 2
         }
       ]
     },
@@ -218,7 +250,7 @@
     {
       "source": "elDiario.es",
       "title": "Trump ordena retirar 5.000 soldados de Alemania y redobla la tensión con Europa ",
-      "score": 3.74,
+      "score": 3.76,
       "words": [
         {
           "word": "tensión",
@@ -231,6 +263,33 @@
         {
           "word": "tensión",
           "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump comunica al Congreso que la guerra con Irán \"ha terminado\" para sortear la",
+      "score": 4.56,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "legal",
+          "score": 1
         },
         {
           "word": "guerra",
@@ -265,33 +324,6 @@
         },
         {
           "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump comunica al Congreso que la guerra con Irán \"ha terminado\" para sortear la",
-      "score": 4.56,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
           "score": -2
         }
       ]
@@ -349,40 +381,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La paradoja de EEUU: la mayor potencia militar del mundo no sabe ganar guerras n",
-      "score": 4.65,
-      "words": [
-        {
-          "word": "paradoja",
-          "score": -1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "paradoja",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-19T23:33:37Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-04-20T02:28:37Z",
       "score": 4.76
@@ -1050,6 +1051,10 @@
     {
       "timestamp": "2026-05-02T09:03:08Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-05-02T10:48:43Z",
+      "score": 4.78
     }
   ]
 }

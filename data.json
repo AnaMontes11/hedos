@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T19:53:49Z",
-  "global_score": 5.13,
-  "articles_scored": 93,
-  "words_matched": 271,
+  "generated": "2026-05-03T20:39:29Z",
+  "global_score": 5.08,
+  "articles_scored": 96,
+  "words_matched": 279,
   "top_negative": [
     {
       "word": "negro",
@@ -14,10 +14,6 @@
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "tortura",
       "score": -4
     },
     {
@@ -35,11 +31,15 @@
     {
       "word": "idiota",
       "score": -3
+    },
+    {
+      "word": "mal",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "victorias",
+      "word": "alegría",
       "score": 4
     },
     {
@@ -51,7 +51,7 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "fiel",
       "score": 3
     },
     {
@@ -59,30 +59,30 @@
       "score": 3
     },
     {
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "alegre",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.82,
+    "El País": 5.04,
     "elDiario.es": 5.05,
     "El Mundo": 5.14,
-    "ABC": 5.63,
+    "ABC": 5.33,
     "El Confidencial": 5.13,
     "BBC Mundo": 5.06,
     "France 24 ES": 4.67,
-    "La Nación AR": 5.11,
+    "La Nación AR": 5.06,
     "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 5.31
+    "Resumen Latinoam.": 4.89
   },
   "articles": [
     {
@@ -159,7 +159,7 @@
     },
     {
       "source": "El País",
-      "title": "El hijo de Maduro habla de su padre preso en Estados Unidos: lee la Biblia, inte",
+      "title": "El hijo de Maduro habla de su padre preso en Estados Unidos: “Él siente que su v",
       "score": 4.8,
       "words": [
         {
@@ -182,12 +182,16 @@
     },
     {
       "source": "El País",
-      "title": "Espanyol - Real Madrid en directo | Partido atascado sin apenas ocasiones claras",
-      "score": 3.4,
+      "title": "Espanyol - Real Madrid en directo | Un doblete de Vinicius da ventaja al Madrid",
+      "score": 5.4,
       "words": [
         {
-          "word": "atascado",
-          "score": -2
+          "word": "ventaja",
+          "score": 2
+        },
+        {
+          "word": "retrasar",
+          "score": -1
         }
       ]
     },
@@ -384,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-21T22:35:53Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-21T23:32:25Z",
       "score": 4.62
@@ -1055,6 +1055,10 @@
     {
       "timestamp": "2026-05-03T19:53:49Z",
       "score": 5.13
+    },
+    {
+      "timestamp": "2026-05-03T20:39:29Z",
+      "score": 5.08
     }
   ]
 }

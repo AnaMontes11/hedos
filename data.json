@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T14:45:43Z",
-  "global_score": 4.98,
-  "articles_scored": 94,
-  "words_matched": 359,
+  "generated": "2026-05-03T15:44:03Z",
+  "global_score": 4.91,
+  "articles_scored": 95,
+  "words_matched": 360,
   "top_negative": [
     {
       "word": "negro",
@@ -67,19 +67,19 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "premios",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.1,
     "elDiario.es": 4.97,
-    "El Mundo": 4.77,
-    "ABC": 5.21,
+    "El Mundo": 4.68,
+    "ABC": 4.74,
     "El Confidencial": 5.35,
     "BBC Mundo": 5.29,
     "France 24 ES": 4.5,
-    "La Nación AR": 4.88,
+    "La Nación AR": 4.7,
     "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
     "Resumen Latinoam.": 4.25
@@ -87,15 +87,27 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Regularización de migrantes: “Tener papeles nos salva la vida”",
-      "score": 4.6,
+      "title": "Alemania se lanza a un rearme con dudas por los fantasmas del pasado",
+      "score": 5.16,
       "words": [
         {
-          "word": "legalmente",
-          "score": 1
+          "word": "dudas",
+          "score": -1
         },
         {
-          "word": "cobrar",
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "recelo",
           "score": -2
         }
       ]
@@ -121,6 +133,36 @@
     },
     {
       "source": "El País",
+      "title": "Doce días a la deriva, sin motor, ni radio y con olas de cinco metros: así venci",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "sobrevivió",
+          "score": 2
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Regularización de migrantes: “Tener papeles nos salva la vida”",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "legalmente",
+          "score": 1
+        },
+        {
+          "word": "cobrar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El hijo de Maduro habla de su padre preso en Estados Unidos: lee la Biblia, inte",
       "score": 4.8,
       "words": [
@@ -135,21 +177,6 @@
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Doce días a la deriva, sin motor, ni radio y con olas de cinco metros: así venci",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "sobrevivió",
-          "score": 2
         },
         {
           "word": "muerto",
@@ -350,40 +377,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez digiere otro ataque a su familia y se sacude los dardos de Aldama para a",
-      "score": 4.49,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "jesús",
-          "score": 1
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-21T15:10:07Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-04-21T16:58:05Z",
       "score": 4.64
@@ -1051,6 +1047,10 @@
     {
       "timestamp": "2026-05-03T14:45:43Z",
       "score": 4.98
+    },
+    {
+      "timestamp": "2026-05-03T15:44:03Z",
+      "score": 4.91
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T16:45:28Z",
-  "global_score": 5.01,
-  "articles_scored": 94,
-  "words_matched": 345,
+  "generated": "2026-05-03T17:43:49Z",
+  "global_score": 5.1,
+  "articles_scored": 91,
+  "words_matched": 347,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -4
     },
     {
-      "word": "mierda",
-      "score": -4
-    },
-    {
       "word": "muerto",
       "score": -3
     },
@@ -33,7 +29,11 @@
       "score": -3
     },
     {
-      "word": "escándalo",
+      "word": "asesinato",
+      "score": -3
+    },
+    {
+      "word": "idiota",
       "score": -3
     }
   ],
@@ -63,32 +63,32 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.1,
+    "El País": 4.99,
     "elDiario.es": 4.97,
-    "El Mundo": 4.66,
-    "ABC": 5.22,
-    "El Confidencial": 5.44,
-    "BBC Mundo": 5.29,
-    "France 24 ES": 4.87,
-    "La Nación AR": 4.63,
+    "El Mundo": 4.57,
+    "ABC": 5.55,
+    "El Confidencial": 4.82,
+    "BBC Mundo": 5.06,
+    "France 24 ES": 4.96,
+    "La Nación AR": 5.7,
     "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.25
+    "Resumen Latinoam.": 4.96
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Alemania se lanza a un rearme con dudas por los fantasmas del pasado",
-      "score": 5.16,
+      "title": "Alemania se embarca en un rearme con dudas por los fantasmas del pasado",
+      "score": 4.6,
       "words": [
         {
           "word": "dudas",
@@ -101,10 +101,6 @@
         {
           "word": "apoyo",
           "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
         },
         {
           "word": "recelo",
@@ -222,36 +218,6 @@
         {
           "word": "acuerdo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "EL PAÍS fue el primer periódico en España en tener Defensor del Lector. Esto es ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "defensor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El germen de la investigación sobre el escándalo de la pederastia en la Iglesia:",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
         }
       ]
     },
@@ -377,13 +343,63 @@
           "score": -3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez digiere otro ataque a su familia y se sacude los dardos de Aldama para a",
+      "score": 4.49,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "jesús",
+          "score": 1
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Aldama, el corruptor impune",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "risas",
+          "score": 1
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "paga",
+          "score": -1
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-21T18:01:39Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-21T20:01:03Z",
       "score": 4.6
@@ -1051,6 +1067,10 @@
     {
       "timestamp": "2026-05-03T16:45:28Z",
       "score": 5.01
+    },
+    {
+      "timestamp": "2026-05-03T17:43:49Z",
+      "score": 5.1
     }
   ]
 }

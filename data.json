@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T21:38:40Z",
-  "global_score": 4.9,
-  "articles_scored": 94,
-  "words_matched": 261,
+  "generated": "2026-05-03T22:37:42Z",
+  "global_score": 4.98,
+  "articles_scored": 97,
+  "words_matched": 271,
   "top_negative": [
     {
       "word": "negro",
@@ -51,7 +51,15 @@
       "score": 3
     },
     {
+      "word": "euforia",
+      "score": 3
+    },
+    {
       "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "alegre",
       "score": 3
     },
     {
@@ -61,28 +69,20 @@
     {
       "word": "celebrado",
       "score": 3
-    },
-    {
-      "word": "amable",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.86,
+    "El País": 4.79,
     "elDiario.es": 5.01,
-    "El Mundo": 4.87,
-    "ABC": 5.33,
+    "El Mundo": 5.07,
+    "ABC": 5.23,
     "El Confidencial": 5.13,
     "BBC Mundo": 4.92,
-    "France 24 ES": 4.33,
-    "La Nación AR": 4.4,
+    "France 24 ES": 4.31,
+    "La Nación AR": 5.61,
     "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.46
+    "Resumen Latinoam.": 4.1
   },
   "articles": [
     {
@@ -159,24 +159,24 @@
     },
     {
       "source": "El País",
-      "title": "El hijo de Maduro habla de su padre preso en Estados Unidos: “Él siente que su v",
-      "score": 4.8,
+      "title": "Álvaro García Ortiz: “Con mi condena hemos perdido todos, también el Supremo”",
+      "score": 4.2,
       "words": [
         {
-          "word": "maduro",
-          "score": 2
-        },
-        {
-          "word": "maduro",
-          "score": 2
-        },
-        {
-          "word": "guerra",
+          "word": "condena",
           "score": -2
         },
         {
-          "word": "muerto",
-          "score": -3
+          "word": "perdido",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "carga",
+          "score": -2
         }
       ]
     },
@@ -388,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T02:22:35Z",
-      "score": 4.79
-    },
     {
       "timestamp": "2026-04-22T05:23:21Z",
       "score": 4.56
@@ -1059,6 +1055,10 @@
     {
       "timestamp": "2026-05-03T21:38:40Z",
       "score": 4.9
+    },
+    {
+      "timestamp": "2026-05-03T22:37:42Z",
+      "score": 4.98
     }
   ]
 }

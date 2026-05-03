@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T20:39:29Z",
-  "global_score": 5.08,
-  "articles_scored": 96,
-  "words_matched": 279,
+  "generated": "2026-05-03T21:38:40Z",
+  "global_score": 4.9,
+  "articles_scored": 94,
+  "words_matched": 261,
   "top_negative": [
     {
       "word": "negro",
@@ -25,23 +25,19 @@
       "score": -3
     },
     {
-      "word": "asesinato",
-      "score": -3
-    },
-    {
-      "word": "idiota",
+      "word": "malo",
       "score": -3
     },
     {
       "word": "mal",
       "score": -3
+    },
+    {
+      "word": "asesinato",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "alegría",
-      "score": 4
-    },
     {
       "word": "triunfo",
       "score": 4
@@ -51,38 +47,42 @@
       "score": 4
     },
     {
-      "word": "fiel",
-      "score": 3
-    },
-    {
       "word": "cautivado",
-      "score": 3
-    },
-    {
-      "word": "feliz",
-      "score": 3
-    },
-    {
-      "word": "amor",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "amable",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.04,
-    "elDiario.es": 5.05,
-    "El Mundo": 5.14,
+    "El País": 4.86,
+    "elDiario.es": 5.01,
+    "El Mundo": 4.87,
     "ABC": 5.33,
     "El Confidencial": 5.13,
-    "BBC Mundo": 5.06,
-    "France 24 ES": 4.67,
-    "La Nación AR": 5.06,
+    "BBC Mundo": 4.92,
+    "France 24 ES": 4.33,
+    "La Nación AR": 4.4,
     "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.89
+    "Resumen Latinoam.": 4.46
   },
   "articles": [
     {
@@ -182,15 +182,15 @@
     },
     {
       "source": "El País",
-      "title": "Espanyol - Real Madrid en directo | Un doblete de Vinicius da ventaja al Madrid",
-      "score": 5.4,
+      "title": "Vinicius alarga la Liga hasta el clásico",
+      "score": 3.8,
       "words": [
         {
-          "word": "ventaja",
-          "score": 2
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "retrasar",
+          "word": "evitar",
           "score": -1
         }
       ]
@@ -233,6 +233,33 @@
         {
           "word": "acuerdo",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump anuncia una operación para sacar \"de forma segura\" a \"barcos y tripulacion",
+      "score": 4.81,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "pagado",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
         }
       ]
     },
@@ -334,33 +361,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Aldama, el corruptor impune",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "risas",
-          "score": 1
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "paga",
-          "score": -1
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El policía Morocho presenció durante su destierro interno las otras guerras suci",
       "score": 4.61,
       "words": [
@@ -388,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-21T23:32:25Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-04-22T02:22:35Z",
       "score": 4.79
@@ -1059,6 +1055,10 @@
     {
       "timestamp": "2026-05-03T20:39:29Z",
       "score": 5.08
+    },
+    {
+      "timestamp": "2026-05-03T21:38:40Z",
+      "score": 4.9
     }
   ]
 }

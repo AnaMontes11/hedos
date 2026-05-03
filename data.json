@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T18:55:54Z",
-  "global_score": 5.04,
+  "generated": "2026-05-03T19:53:49Z",
+  "global_score": 5.13,
   "articles_scored": 93,
-  "words_matched": 356,
+  "words_matched": 271,
   "top_negative": [
     {
       "word": "negro",
@@ -39,7 +39,7 @@
   ],
   "top_positive": [
     {
-      "word": "milagro",
+      "word": "victorias",
       "score": 4
     },
     {
@@ -47,42 +47,42 @@
       "score": 4
     },
     {
-      "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "brillante",
-      "score": 4
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "amor",
+      "score": 3
     },
     {
       "word": "cautivado",
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.99,
-    "elDiario.es": 4.97,
-    "El Mundo": 4.54,
-    "ABC": 6.04,
+    "El País": 4.82,
+    "elDiario.es": 5.05,
+    "El Mundo": 5.14,
+    "ABC": 5.63,
     "El Confidencial": 5.13,
     "BBC Mundo": 5.06,
-    "France 24 ES": 4.6,
-    "La Nación AR": 4.5,
+    "France 24 ES": 4.67,
+    "La Nación AR": 5.11,
     "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 5.06
+    "Resumen Latinoam.": 5.31
   },
   "articles": [
     {
@@ -177,6 +177,17 @@
         {
           "word": "muerto",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Espanyol - Real Madrid en directo | Partido atascado sin apenas ocasiones claras",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "atascado",
+          "score": -2
         }
       ]
     },
@@ -319,60 +330,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El policía Morocho presenció durante su destierro interno las otras guerras suci",
-      "score": 4.61,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "enemigos",
-          "score": -3
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez digiere otro ataque a su familia y se sacude los dardos de Aldama para a",
-      "score": 4.49,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "jesús",
-          "score": 1
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Aldama, el corruptor impune",
       "score": 4.8,
       "words": [
@@ -397,13 +354,36 @@
           "score": 3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El policía Morocho presenció durante su destierro interno las otras guerras suci",
+      "score": 4.61,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "enemigos",
+          "score": -3
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-21T21:42:55Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-04-21T22:35:53Z",
       "score": 4.65
@@ -1071,6 +1051,10 @@
     {
       "timestamp": "2026-05-03T18:55:54Z",
       "score": 5.04
+    },
+    {
+      "timestamp": "2026-05-03T19:53:49Z",
+      "score": 5.13
     }
   ]
 }

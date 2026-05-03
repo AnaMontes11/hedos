@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T08:02:25Z",
-  "global_score": 4.99,
-  "articles_scored": 99,
-  "words_matched": 368,
+  "generated": "2026-05-03T10:01:27Z",
+  "global_score": 4.83,
+  "articles_scored": 98,
+  "words_matched": 361,
   "top_negative": [
     {
       "word": "negro",
@@ -72,14 +72,14 @@
     }
   ],
   "per_source": {
-    "El País": 5.9,
+    "El País": 5.41,
     "elDiario.es": 4.83,
-    "El Mundo": 4.36,
-    "ABC": 5.73,
-    "El Confidencial": 4.72,
+    "El Mundo": 4.45,
+    "ABC": 4.83,
+    "El Confidencial": 4.76,
     "BBC Mundo": 5.36,
     "France 24 ES": 4.36,
-    "La Nación AR": 5.47,
+    "La Nación AR": 5.11,
     "La Jornada MX": 5.7,
     "Desinformémonos": 4.67,
     "Resumen Latinoam.": 4.14
@@ -196,23 +196,12 @@
     },
     {
       "source": "El País",
-      "title": "Festival de EL PAÍS, día 2: de la inspiración de los columnistas a la reunión do",
-      "score": 6.6,
+      "title": "Hace medio siglo ya de aquello",
+      "score": 4.2,
       "words": [
         {
-          "word": "inspiración",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Leila Guerriero felicita a EL PAÍS: “Es un espacio de defensa del periodismo bie",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "celebra",
-          "score": 3
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
@@ -377,13 +366,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los Pujol Ferrusola se aferran a la tesis del legado y salvan al expresident: \"M",
+      "score": 5.58,
+      "words": [
+        {
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "cumplido",
+          "score": 2
+        },
+        {
+          "word": "exonerado",
+          "score": 2
+        },
+        {
+          "word": "querido",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-21T07:45:40Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-04-21T09:23:10Z",
       "score": 4.51
@@ -1051,6 +1063,10 @@
     {
       "timestamp": "2026-05-03T08:02:25Z",
       "score": 4.99
+    },
+    {
+      "timestamp": "2026-05-03T10:01:27Z",
+      "score": 4.83
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T11:39:48Z",
-  "global_score": 4.81,
-  "articles_scored": 93,
-  "words_matched": 352,
+  "generated": "2026-05-03T13:04:01Z",
+  "global_score": 5.0,
+  "articles_scored": 92,
+  "words_matched": 358,
   "top_negative": [
     {
       "word": "negro",
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
+      "word": "escándalo",
+      "score": -3
+    },
+    {
+      "word": "víctimas",
+      "score": -3
+    },
+    {
       "word": "enemigos",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "advertencias",
       "score": -3
     }
   ],
@@ -55,34 +55,34 @@
       "score": 4
     },
     {
+      "word": "cortés",
+      "score": 3
+    },
+    {
       "word": "cautivado",
       "score": 3
     },
     {
-      "word": "cortés",
+      "word": "suerte",
       "score": 3
     },
     {
       "word": "riqueza",
       "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.41,
+    "El País": 5.08,
     "elDiario.es": 4.83,
-    "El Mundo": 4.56,
-    "ABC": 4.62,
-    "El Confidencial": 5.16,
+    "El Mundo": 4.88,
+    "ABC": 5.04,
+    "El Confidencial": 5.35,
     "BBC Mundo": 5.38,
-    "France 24 ES": 4.36,
-    "La Nación AR": 4.62,
-    "La Jornada MX": 5.7,
+    "France 24 ES": 4.41,
+    "La Nación AR": 5.85,
+    "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.19
+    "Resumen Latinoam.": 4.28
   },
   "articles": [
     {
@@ -144,21 +144,6 @@
     },
     {
       "source": "El País",
-      "title": "Doce días a la deriva, sin motor, ni radio y con olas de cinco metros: así venci",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "sobrevivió",
-          "score": 2
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "EL PAÍS fue el primer periódico en España en tener Defensor del Lector. Esto es ",
       "score": 6.6,
       "words": [
@@ -170,16 +155,20 @@
     },
     {
       "source": "El País",
-      "title": "La trastienda de las buenas y las malas noticias que cuenta EL PAÍS en un día",
-      "score": 6.6,
+      "title": "El germen de la investigación sobre el escándalo de la pederastia en la Iglesia:",
+      "score": 3.93,
       "words": [
         {
-          "word": "celebra",
-          "score": 3
+          "word": "escándalo",
+          "score": -3
         },
         {
-          "word": "decisivo",
-          "score": 1
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
         }
       ]
     },
@@ -202,6 +191,21 @@
         {
           "word": "pasado",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Doce días a la deriva, sin motor, ni radio y con olas de cinco metros: así venci",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "sobrevivió",
+          "score": 2
+        },
+        {
+          "word": "muerto",
+          "score": -3
         }
       ]
     },
@@ -396,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-21T11:04:12Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-04-21T13:20:38Z",
       "score": 4.61
@@ -1067,6 +1067,10 @@
     {
       "timestamp": "2026-05-03T11:39:48Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-05-03T13:04:01Z",
+      "score": 5.0
     }
   ]
 }

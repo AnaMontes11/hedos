@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T22:37:42Z",
-  "global_score": 4.98,
-  "articles_scored": 97,
-  "words_matched": 271,
+  "generated": "2026-05-03T23:41:29Z",
+  "global_score": 4.86,
+  "articles_scored": 94,
+  "words_matched": 272,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "tortura",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "mal",
       "score": -3
-    },
-    {
-      "word": "asesinato",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -48,6 +48,10 @@
     },
     {
       "word": "cautivado",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
       "score": 3
     },
     {
@@ -65,24 +69,20 @@
     {
       "word": "celebrar",
       "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.79,
+    "El País": 4.73,
     "elDiario.es": 5.01,
     "El Mundo": 5.07,
     "ABC": 5.23,
     "El Confidencial": 5.13,
     "BBC Mundo": 4.92,
     "France 24 ES": 4.31,
-    "La Nación AR": 5.61,
+    "La Nación AR": 4.8,
     "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.1
+    "Resumen Latinoam.": 3.74
   },
   "articles": [
     {
@@ -110,20 +110,20 @@
     },
     {
       "source": "El País",
-      "title": "Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta",
-      "score": 4.47,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo |Tru",
+      "score": 3.93,
       "words": [
-        {
-          "word": "luchas",
-          "score": -2
-        },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "salvar",
-          "score": 2
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
         }
       ]
     },
@@ -388,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T05:23:21Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-04-22T07:28:56Z",
       "score": 4.6
@@ -1059,6 +1055,10 @@
     {
       "timestamp": "2026-05-03T22:37:42Z",
       "score": 4.98
+    },
+    {
+      "timestamp": "2026-05-03T23:41:29Z",
+      "score": 4.86
     }
   ]
 }

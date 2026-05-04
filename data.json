@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-04T16:00:02Z",
-  "global_score": 4.84,
-  "articles_scored": 92,
-  "words_matched": 239,
+  "generated": "2026-05-04T17:48:32Z",
+  "global_score": 4.79,
+  "articles_scored": 95,
+  "words_matched": 244,
   "top_negative": [
     {
       "word": "negro",
@@ -15,10 +15,6 @@
     {
       "word": "culo",
       "score": -4
-    },
-    {
-      "word": "muerto",
-      "score": -3
     },
     {
       "word": "cargado",
@@ -35,15 +31,19 @@
     {
       "word": "estafa",
       "score": -3
+    },
+    {
+      "word": "delitos",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "triunfo",
+      "word": "milagro",
       "score": 4
     },
     {
@@ -55,36 +55,55 @@
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "delicias",
       "score": 3
     },
     {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "feliz",
+      "word": "exitoso",
       "score": 3
     },
     {
       "word": "mejor",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.18,
-    "elDiario.es": 4.76,
-    "El Mundo": 3.96,
-    "ABC": 4.86,
+    "El País": 5.71,
+    "elDiario.es": 4.62,
+    "El Mundo": 4.0,
+    "ABC": 5.62,
     "El Confidencial": 5.01,
-    "BBC Mundo": 4.47,
-    "France 24 ES": 5.49,
-    "La Nación AR": 5.63,
+    "BBC Mundo": 4.42,
+    "France 24 ES": 4.65,
+    "La Nación AR": 4.97,
     "La Jornada MX": 5.07,
-    "Desinformémonos": 4.22,
-    "Resumen Latinoam.": 4.81
+    "Desinformémonos": 4.14,
+    "Resumen Latinoam.": 4.49
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Premios Ortega y Gasset de Periodismo 2026, en directo | Los Reyes presiden el a",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "premios",
+          "score": 3
+        },
+        {
+          "word": "celebrar",
+          "score": 3
+        },
+        {
+          "word": "premios",
+          "score": 3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Los Premios Ortega y Gasset celebran el periodismo de resistencia, el contraste ",
@@ -93,6 +112,52 @@
         {
           "word": "premios",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Manuel Vicent defiende que el éxito de un periodista “no está en ser leído sino ",
+      "score": 5.96,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "premios",
+          "score": 3
+        },
+        {
+          "word": "soluciones",
+          "score": 1
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Salvador Illa elogia los valores del buen periodismo: “Es más necesario que nunc",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "desinformación",
+          "score": -2
+        },
+        {
+          "word": "manipulación",
+          "score": -1
         }
       ]
     },
@@ -136,36 +201,28 @@
     },
     {
       "source": "El País",
-      "title": "Manuel Vicent defiende que el éxito de un periodista “no está en ser leído sino ",
-      "score": 5.96,
+      "title": "Los Premios Ortega y Gasset 2026, en imágenes",
+      "score": 7.0,
       "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "reivindica",
-          "score": 2
-        },
         {
           "word": "premios",
           "score": 3
         },
         {
-          "word": "soluciones",
-          "score": 1
-        },
-        {
-          "word": "problemas",
-          "score": -2
+          "word": "cumple",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Juicio por la trama de las mascarillas, en directo | Ábalos niega haber recibido",
+      "title": "Juicio por la trama de las mascarillas, en directo | La Fiscalía Anticorrupción ",
       "score": 3.4,
       "words": [
+        {
+          "word": "pena",
+          "score": -2
+        },
         {
           "word": "niega",
           "score": -2
@@ -189,73 +246,28 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Dr",
-      "score": 3.93,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Es",
+      "score": 3.8,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "bloqueo",
+          "word": "admite",
           "score": -1
         },
         {
           "word": "ataque",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "14 españoles viajan en el crucero en el que han muerto tres personas por un posi",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "muerto",
-          "score": -3
         },
         {
-          "word": "crítico",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La negligencia médica más cara de la historia de España: 13,3 millones por las g",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "negligencia",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "condena",
+          "word": "amenaza",
           "score": -2
-        },
-        {
-          "word": "daños",
-          "score": -2
-        },
-        {
-          "word": "errores",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Gracias a los lectores",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "confianza",
-          "score": 1
         }
       ]
     },
@@ -283,6 +295,33 @@
         {
           "word": "acusaciones",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De \"el caso está juzgado con condena clara\" a \"soy carne de meme\": la declaració",
+      "score": 4.03,
+      "words": [
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "frases",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "frases",
+          "score": -2
+        },
+        {
+          "word": "atacado",
+          "score": -1
         }
       ]
     },
@@ -366,40 +405,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Félix Sanz Roldán declara que el CNI no participó en la operación Kitchen y nieg",
-      "score": 4.33,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "negado",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T18:00:17Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-04-22T20:02:57Z",
       "score": 4.79
@@ -1067,6 +1075,10 @@
     {
       "timestamp": "2026-05-04T16:00:02Z",
       "score": 4.84
+    },
+    {
+      "timestamp": "2026-05-04T17:48:32Z",
+      "score": 4.79
     }
   ]
 }

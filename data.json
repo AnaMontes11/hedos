@@ -1,12 +1,12 @@
 {
-  "generated": "2026-05-04T09:16:00Z",
-  "global_score": 4.82,
-  "articles_scored": 91,
-  "words_matched": 300,
+  "generated": "2026-05-04T11:46:02Z",
+  "global_score": 4.85,
+  "articles_scored": 88,
+  "words_matched": 245,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
+      "word": "violación",
+      "score": -4
     },
     {
       "word": "fraude",
@@ -17,37 +17,41 @@
       "score": -4
     },
     {
-      "word": "tortura",
-      "score": -4
-    },
-    {
       "word": "pierde",
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "cargado",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "ilegal",
       "score": -3
     },
     {
-      "word": "desagradable",
+      "word": "soborno",
+      "score": -3
+    },
+    {
+      "word": "estafa",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "vibrante",
+      "word": "cautivado",
       "score": 3
     },
     {
-      "word": "cautivado",
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "galardonado",
       "score": 3
     },
     {
@@ -55,48 +59,40 @@
       "score": 3
     },
     {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
       "word": "celebrar",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "cortés",
       "score": 3
     },
     {
-      "word": "excelencia",
+      "word": "premios",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.45,
-    "elDiario.es": 4.81,
-    "El Mundo": 4.83,
-    "ABC": 4.93,
-    "El Confidencial": 4.92,
-    "BBC Mundo": 4.46,
+    "El País": 5.37,
+    "elDiario.es": 4.78,
+    "El Mundo": 4.69,
+    "ABC": 5.25,
+    "El Confidencial": 4.9,
+    "BBC Mundo": 4.47,
     "France 24 ES": 4.21,
-    "La Nación AR": 4.6,
-    "La Jornada MX": 5.73,
+    "La Nación AR": 5.26,
+    "La Jornada MX": 5.07,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.26
+    "Resumen Latinoam.": 4.78
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Juicio por la trama de las mascarillas, en directo | Ábalos dice que Koldo Garcí",
-      "score": 5.4,
+      "title": "Juicio por la trama de las mascarillas, en directo | Ábalos sugiere que Jésica R",
+      "score": 7.4,
       "words": [
         {
           "word": "lealtad",
           "score": 3
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
         }
       ]
     },
@@ -140,6 +136,33 @@
     },
     {
       "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Un",
+      "score": 3.97,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "La negligencia médica más cara de la historia de España: 13,3 millones por las g",
       "score": 3.4,
       "words": [
@@ -158,17 +181,6 @@
         {
           "word": "errores",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos movilizará a destructores, aviones y 15.000 soldados para guiar a",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "libertad",
-          "score": 2
         }
       ]
     },
@@ -210,6 +222,33 @@
         {
           "word": "oportunidad",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ábalos critica la “impostura permanente” de Aldama e insinúa que Jésica Rodrígue",
+      "score": 4.26,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
         }
       ]
     },
@@ -269,82 +308,82 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Aldama, el corruptor impune",
-      "score": 4.8,
+      "title": "Aldama, un show por todo lo alto",
+      "score": 4.36,
       "words": [
         {
-          "word": "risas",
-          "score": 1
+          "word": "negar",
+          "score": -2
         },
         {
-          "word": "mejor",
-          "score": 3
+          "word": "acusaciones",
+          "score": -2
         },
         {
-          "word": "criminal",
+          "word": "cierto",
+          "score": 2
+        },
+        {
+          "word": "suficiente",
+          "score": -2
+        },
+        {
+          "word": "culo",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Félix Sanz Roldán declara que el CNI no participó en la operación Kitchen y nieg",
+      "score": 4.33,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
           "score": -3
         },
         {
-          "word": "paga",
-          "score": -1
+          "word": "negado",
+          "score": -2
         },
         {
-          "word": "mejor",
-          "score": 3
+          "word": "ilegal",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La Audiencia de Madrid rebaja a 10.000 euros la condena contra Alvise Pérez por ",
-      "score": 4.87,
+      "title": "El policía Morocho presenció durante su destierro interno las otras guerras suci",
+      "score": 4.61,
       "words": [
         {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "honor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Segunda condena a Alvise por vulnerar el honor de Ábalos en Twitter: tendrá que ",
-      "score": 3.77,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "honor",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "honor",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "sentencia",
+          "word": "enemigos",
+          "score": -3
+        },
+        {
+          "word": "acoso",
           "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
         }
       ]
     },
@@ -374,40 +413,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump anuncia una operación para sacar \"de forma segura\" a \"barcos y tripulacion",
-      "score": 5.24,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "pagado",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T13:21:38Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-04-22T15:10:44Z",
       "score": 4.84
@@ -1075,6 +1083,10 @@
     {
       "timestamp": "2026-05-04T09:16:00Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-05-04T11:46:02Z",
+      "score": 4.85
     }
   ]
 }

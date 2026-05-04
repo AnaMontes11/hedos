@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-04T11:46:02Z",
-  "global_score": 4.85,
-  "articles_scored": 88,
-  "words_matched": 245,
+  "generated": "2026-05-04T13:52:50Z",
+  "global_score": 4.72,
+  "articles_scored": 89,
+  "words_matched": 257,
   "top_negative": [
     {
       "word": "violación",
@@ -15,6 +15,10 @@
     {
       "word": "culo",
       "score": -4
+    },
+    {
+      "word": "locura",
+      "score": -3
     },
     {
       "word": "pierde",
@@ -31,10 +35,6 @@
     {
       "word": "soborno",
       "score": -3
-    },
-    {
-      "word": "estafa",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -47,11 +47,15 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "cortés",
       "score": 3
     },
     {
-      "word": "galardonado",
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     },
     {
@@ -59,40 +63,101 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "mayor",
       "score": 3
     },
     {
-      "word": "cortés",
-      "score": 3
-    },
-    {
-      "word": "premios",
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.37,
+    "El País": 5.5,
     "elDiario.es": 4.78,
-    "El Mundo": 4.69,
-    "ABC": 5.25,
-    "El Confidencial": 4.9,
+    "El Mundo": 3.66,
+    "ABC": 5.14,
+    "El Confidencial": 4.77,
     "BBC Mundo": 4.47,
-    "France 24 ES": 4.21,
-    "La Nación AR": 5.26,
+    "France 24 ES": 4.31,
+    "La Nación AR": 4.84,
     "La Jornada MX": 5.07,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 4.78
+    "Resumen Latinoam.": 4.81
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Juicio por la trama de las mascarillas, en directo | Ábalos sugiere que Jésica R",
+      "title": "Premios Ortega y Gasset de Periodismo 2026, en directo | Alexievich: “Quizá no e",
+      "score": 5.93,
+      "words": [
+        {
+          "word": "premios",
+          "score": 3
+        },
+        {
+          "word": "locura",
+          "score": -3
+        },
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "compartido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Svetlana Alexiévich, Premio Ortega y Gasset de Periodismo 2026: “Europa está en ",
       "score": 7.4,
       "words": [
         {
-          "word": "lealtad",
+          "word": "premio",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sergio Ramírez, Premio Ortega y Gasset de Periodismo 2026: “Sin conflicto no hay",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Martin Baron, Premio Ortega y Gasset de Periodismo 2026: “Creo en la obligación ",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "reto",
+          "score": -1
         }
       ]
     },
@@ -200,35 +265,9 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La Redacción de EL PAÍS, desde dentro",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cómo empezó todo",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Ábalos critica la “impostura permanente” de Aldama e insinúa que Jésica Rodrígue",
-      "score": 4.26,
+      "score": 4.31,
       "words": [
         {
           "word": "critica",
@@ -249,33 +288,6 @@
         {
           "word": "acusaciones",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ábalos mantendrá ante el Supremo que la causa de las mascarillas nace de un mont",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "enjuiciamiento",
-          "score": -1
         }
       ]
     },
@@ -335,6 +347,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Una jueza absuelve a la agitadora ultra que llamó \"Begoño\" en televisión a la es",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "absuelve",
+          "score": 2
+        },
+        {
+          "word": "absuelve",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "humor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Félix Sanz Roldán declara que el CNI no participó en la operación Kitchen y nieg",
       "score": 4.33,
       "words": [
@@ -386,40 +425,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso transfirió al hospital estrella de Quirón 30 millones que estaban destinad",
-      "score": 6.19,
-      "words": [
-        {
-          "word": "cuidados",
-          "score": 2
-        },
-        {
-          "word": "cuidados",
-          "score": 2
-        },
-        {
-          "word": "cuidados",
-          "score": 2
-        },
-        {
-          "word": "aumentar",
-          "score": 1
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T15:10:44Z",
-      "score": 4.84
-    },
     {
       "timestamp": "2026-04-22T16:56:17Z",
       "score": 4.81
@@ -1087,6 +1095,10 @@
     {
       "timestamp": "2026-05-04T11:46:02Z",
       "score": 4.85
+    },
+    {
+      "timestamp": "2026-05-04T13:52:50Z",
+      "score": 4.72
     }
   ]
 }

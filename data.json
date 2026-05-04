@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-04T06:10:11Z",
-  "global_score": 4.79,
-  "articles_scored": 94,
-  "words_matched": 299,
+  "generated": "2026-05-04T09:16:00Z",
+  "global_score": 4.82,
+  "articles_scored": 91,
+  "words_matched": 300,
   "top_negative": [
     {
       "word": "negro",
@@ -43,6 +43,10 @@
       "score": 4
     },
     {
+      "word": "vibrante",
+      "score": 3
+    },
+    {
       "word": "cautivado",
       "score": 3
     },
@@ -51,15 +55,7 @@
       "score": 3
     },
     {
-      "word": "galardonado",
-      "score": 3
-    },
-    {
-      "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "premios",
+      "word": "riqueza",
       "score": 3
     },
     {
@@ -69,22 +65,41 @@
     {
       "word": "bueno",
       "score": 3
+    },
+    {
+      "word": "excelencia",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.3,
+    "El País": 5.45,
     "elDiario.es": 4.81,
-    "El Mundo": 4.38,
-    "ABC": 5.85,
-    "El Confidencial": 5.04,
+    "El Mundo": 4.83,
+    "ABC": 4.93,
+    "El Confidencial": 4.92,
     "BBC Mundo": 4.46,
     "France 24 ES": 4.21,
-    "La Nación AR": 4.48,
+    "La Nación AR": 4.6,
     "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 3.74
+    "Resumen Latinoam.": 4.26
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Juicio por la trama de las mascarillas, en directo | Ábalos dice que Koldo Garcí",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "lealtad",
+          "score": 3
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "La regularización de inmigrantes divide a los españoles: 38% a favor y 33% en co",
@@ -142,29 +157,6 @@
         },
         {
           "word": "errores",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Álvaro García Ortiz: “Con mi condena hemos perdido todos, también el Supremo”",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "carga",
           "score": -2
         }
       ]
@@ -386,7 +378,7 @@
     {
       "source": "elDiario.es",
       "title": "Trump anuncia una operación para sacar \"de forma segura\" a \"barcos y tripulacion",
-      "score": 5.29,
+      "score": 5.24,
       "words": [
         {
           "word": "asegura",
@@ -412,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T11:02:31Z",
-      "score": 4.55
-    },
     {
       "timestamp": "2026-04-22T13:21:38Z",
       "score": 4.64
@@ -1083,6 +1071,10 @@
     {
       "timestamp": "2026-05-04T06:10:11Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-05-04T09:16:00Z",
+      "score": 4.82
     }
   ]
 }

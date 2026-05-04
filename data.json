@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-04T22:55:40Z",
-  "global_score": 4.61,
-  "articles_scored": 98,
-  "words_matched": 247,
+  "generated": "2026-05-04T23:53:07Z",
+  "global_score": 4.67,
+  "articles_scored": 96,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "negro",
@@ -39,14 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "vitalidad",
-      "score": 3
-    },
-    {
       "word": "amor",
       "score": 3
     },
@@ -69,20 +61,28 @@
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.82,
     "elDiario.es": 4.56,
     "El Mundo": 4.13,
-    "ABC": 5.1,
+    "ABC": 5.06,
     "El Confidencial": 5.01,
     "BBC Mundo": 4.47,
-    "France 24 ES": 4.46,
-    "La Nación AR": 3.48,
+    "France 24 ES": 4.48,
+    "La Nación AR": 4.08,
     "La Jornada MX": 5.07,
     "Desinformémonos": 4.14,
-    "Resumen Latinoam.": 4.58
+    "Resumen Latinoam.": 4.57
   },
   "articles": [
     {
@@ -416,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T23:42:51Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-04-23T02:26:12Z",
       "score": 4.72
@@ -1087,6 +1083,10 @@
     {
       "timestamp": "2026-05-04T22:55:40Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-05-04T23:53:07Z",
+      "score": 4.67
     }
   ]
 }

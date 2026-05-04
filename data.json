@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-03T23:41:29Z",
-  "global_score": 4.86,
-  "articles_scored": 94,
-  "words_matched": 272,
+  "generated": "2026-05-04T02:37:32Z",
+  "global_score": 4.74,
+  "articles_scored": 95,
+  "words_matched": 268,
   "top_negative": [
     {
       "word": "negro",
@@ -51,35 +51,35 @@
       "score": 3
     },
     {
-      "word": "perfecto",
-      "score": 3
-    },
-    {
-      "word": "euforia",
-      "score": 3
-    },
-    {
       "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "alegre",
       "score": 3
     },
     {
       "word": "celebrar",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "amable",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.73,
+    "El País": 5.03,
     "elDiario.es": 5.01,
-    "El Mundo": 5.07,
-    "ABC": 5.23,
+    "El Mundo": 4.38,
+    "ABC": 5.16,
     "El Confidencial": 5.13,
     "BBC Mundo": 4.92,
-    "France 24 ES": 4.31,
-    "La Nación AR": 4.8,
+    "France 24 ES": 4.21,
+    "La Nación AR": 3.89,
     "La Jornada MX": 5.73,
     "Desinformémonos": 4.67,
     "Resumen Latinoam.": 3.74
@@ -110,20 +110,12 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo |Tru",
-      "score": 3.93,
+      "title": "Estados Unidos movilizará a destructores, aviones y 15.000 soldados para guiar a",
+      "score": 6.6,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
+          "word": "libertad",
+          "score": 2
         }
       ]
     },
@@ -388,10 +380,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T07:28:56Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-04-22T09:17:46Z",
       "score": 4.6
@@ -1059,6 +1047,10 @@
     {
       "timestamp": "2026-05-03T23:41:29Z",
       "score": 4.86
+    },
+    {
+      "timestamp": "2026-05-04T02:37:32Z",
+      "score": 4.74
     }
   ]
 }

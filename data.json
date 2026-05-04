@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-04T21:06:16Z",
-  "global_score": 4.67,
-  "articles_scored": 95,
-  "words_matched": 239,
+  "generated": "2026-05-04T22:55:40Z",
+  "global_score": 4.61,
+  "articles_scored": 98,
+  "words_matched": 247,
   "top_negative": [
     {
       "word": "negro",
@@ -15,10 +15,6 @@
     {
       "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "abusos",
-      "score": -3
     },
     {
       "word": "locura",
@@ -35,16 +31,20 @@
     {
       "word": "culpable",
       "score": -3
+    },
+    {
+      "word": "traicionado",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "ganador",
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
+      "word": "vitalidad",
+      "score": 3
     },
     {
       "word": "amor",
@@ -55,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "riqueza",
       "score": 3
     },
     {
@@ -72,42 +72,19 @@
     }
   ],
   "per_source": {
-    "El País": 5.78,
-    "elDiario.es": 4.66,
-    "El Mundo": 4.25,
-    "ABC": 5.08,
+    "El País": 5.82,
+    "elDiario.es": 4.56,
+    "El Mundo": 4.13,
+    "ABC": 5.1,
     "El Confidencial": 5.01,
-    "BBC Mundo": 4.27,
-    "France 24 ES": 4.32,
-    "La Nación AR": 5.5,
+    "BBC Mundo": 4.47,
+    "France 24 ES": 4.46,
+    "La Nación AR": 3.48,
     "La Jornada MX": 5.07,
     "Desinformémonos": 4.14,
-    "Resumen Latinoam.": 3.79
+    "Resumen Latinoam.": 4.58
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "Premios Ortega y Gasset y 50º aniversario de EL PAÍS, en directo | Felipe VI: “E",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "premios",
-          "score": 3
-        },
-        {
-          "word": "incierto",
-          "score": -1
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "premios",
-          "score": 3
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "Joseph Oughourlian: “EL PAÍS está más vivo y pujante que nunca”",
@@ -409,13 +386,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PSOE denuncia en el Congreso que Vito Quiles usó un despacho del PP para amen",
+      "score": 4.14,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T22:44:10Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-04-22T23:42:51Z",
       "score": 4.77
@@ -1083,6 +1083,10 @@
     {
       "timestamp": "2026-05-04T21:06:16Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-05-04T22:55:40Z",
+      "score": 4.61
     }
   ]
 }

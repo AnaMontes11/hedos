@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-04T19:25:42Z",
-  "global_score": 4.68,
+  "generated": "2026-05-04T21:06:16Z",
+  "global_score": 4.67,
   "articles_scored": 95,
-  "words_matched": 244,
+  "words_matched": 239,
   "top_negative": [
     {
       "word": "negro",
@@ -14,10 +14,6 @@
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "burro",
       "score": -4
     },
     {
@@ -35,15 +31,19 @@
     {
       "word": "delitos",
       "score": -3
+    },
+    {
+      "word": "culpable",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "ganar",
       "score": 4
     },
     {
-      "word": "victorias",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -55,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "feliz",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 5.67,
-    "elDiario.es": 4.56,
-    "El Mundo": 4.0,
-    "ABC": 5.37,
+    "El País": 5.78,
+    "elDiario.es": 4.66,
+    "El Mundo": 4.25,
+    "ABC": 5.08,
     "El Confidencial": 5.01,
-    "BBC Mundo": 4.42,
-    "France 24 ES": 4.62,
-    "La Nación AR": 4.17,
+    "BBC Mundo": 4.27,
+    "France 24 ES": 4.32,
+    "La Nación AR": 5.5,
     "La Jornada MX": 5.07,
     "Desinformémonos": 4.14,
-    "Resumen Latinoam.": 4.32
+    "Resumen Latinoam.": 3.79
   },
   "articles": [
     {
@@ -105,6 +105,32 @@
         {
           "word": "premios",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Joseph Oughourlian: “EL PAÍS está más vivo y pujante que nunca”",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El director de EL PAÍS subraya la esencia del diario: “Informar con rigor, infor",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -144,73 +170,47 @@
     },
     {
       "source": "El País",
-      "title": "Salvador Illa elogia los valores del buen periodismo: “Es más necesario que nunc",
-      "score": 3.67,
+      "title": "Martin Baron, al recibir el Premio Ortega y Gasset de Periodismo: “Debemos refle",
+      "score": 4.84,
       "words": [
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
         {
           "word": "advierte",
           "score": -2
         },
         {
-          "word": "desinformación",
+          "word": "peligro",
           "score": -2
-        },
-        {
-          "word": "manipulación",
-          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Jaume Collboni asegura que “Barcelona siempre defenderá el trabajo de los period",
-      "score": 5.27,
+      "title": "Sergio Ramírez, al recibir el Premio Ortega y Gasset de Periodismo: “El periodis",
+      "score": 5.8,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "desinformación",
-          "score": -2
-        },
-        {
-          "word": "proteger",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El director de EL PAÍS reivindica el compromiso del diario con la “calidad y la ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "compromiso",
-          "score": 2
-        },
-        {
-          "word": "compromiso",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los Premios Ortega y Gasset 2026, en imágenes",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "premios",
+          "word": "premio",
           "score": 3
         },
         {
-          "word": "cumple",
+          "word": "cumplir",
           "score": 2
+        },
+        {
+          "word": "crítico",
+          "score": -2
         }
       ]
     },
@@ -243,12 +243,20 @@
     },
     {
       "source": "El País",
-      "title": "Anticorrupción mantiene su petición de penas y no rebaja la de Aldama",
-      "score": 5.0,
+      "title": "Fiscalía decide no rebajar la pena de cárcel para Aldama",
+      "score": 4.4,
       "words": [
         {
-          "word": "apreciar",
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "logra",
           "score": 2
+        },
+        {
+          "word": "evitar",
+          "score": -1
         },
         {
           "word": "prisión",
@@ -269,7 +277,7 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP rebaja la petición de pena a Aldama de manera que evitaría la prisión",
+      "title": "El PP rebaja la petición de pena a Aldama para intentar que no entre en prisión",
       "score": 4.24,
       "words": [
         {
@@ -404,10 +412,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T21:48:34Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-04-22T22:44:10Z",
       "score": 4.75
@@ -1075,6 +1079,10 @@
     {
       "timestamp": "2026-05-04T19:25:42Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-05-04T21:06:16Z",
+      "score": 4.67
     }
   ]
 }

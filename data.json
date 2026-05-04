@@ -1,12 +1,12 @@
 {
-  "generated": "2026-05-04T13:52:50Z",
-  "global_score": 4.72,
-  "articles_scored": 89,
-  "words_matched": 257,
+  "generated": "2026-05-04T16:00:02Z",
+  "global_score": 4.84,
+  "articles_scored": 92,
+  "words_matched": 239,
   "top_negative": [
     {
-      "word": "violación",
-      "score": -4
+      "word": "negro",
+      "score": -5
     },
     {
       "word": "fraude",
@@ -17,11 +17,7 @@
       "score": -4
     },
     {
-      "word": "locura",
-      "score": -3
-    },
-    {
-      "word": "pierde",
+      "word": "muerto",
       "score": -3
     },
     {
@@ -35,12 +31,20 @@
     {
       "word": "soborno",
       "score": -3
+    },
+    {
+      "word": "estafa",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "cautivado",
-      "score": 3
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
+      "score": 4
     },
     {
       "word": "amor",
@@ -51,177 +55,168 @@
       "score": 3
     },
     {
+      "word": "euforia",
+      "score": 3
+    },
+    {
       "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "feliz",
       "score": 3
     },
     {
       "word": "mejor",
       "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.5,
-    "elDiario.es": 4.78,
-    "El Mundo": 3.66,
-    "ABC": 5.14,
-    "El Confidencial": 4.77,
+    "El País": 5.18,
+    "elDiario.es": 4.76,
+    "El Mundo": 3.96,
+    "ABC": 4.86,
+    "El Confidencial": 5.01,
     "BBC Mundo": 4.47,
-    "France 24 ES": 4.31,
-    "La Nación AR": 4.84,
+    "France 24 ES": 5.49,
+    "La Nación AR": 5.63,
     "La Jornada MX": 5.07,
-    "Desinformémonos": 4.67,
+    "Desinformémonos": 4.22,
     "Resumen Latinoam.": 4.81
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Premios Ortega y Gasset de Periodismo 2026, en directo | Alexievich: “Quizá no e",
-      "score": 5.93,
+      "title": "Los Premios Ortega y Gasset celebran el periodismo de resistencia, el contraste ",
+      "score": 7.4,
       "words": [
         {
           "word": "premios",
           "score": 3
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Jaume Collboni asegura que “Barcelona siempre defenderá el trabajo de los period",
+      "score": 5.27,
+      "words": [
         {
-          "word": "locura",
-          "score": -3
-        },
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "paz",
+          "word": "asegura",
           "score": 2
         },
         {
-          "word": "compartido",
+          "word": "desinformación",
+          "score": -2
+        },
+        {
+          "word": "proteger",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Svetlana Alexiévich, Premio Ortega y Gasset de Periodismo 2026: “Europa está en ",
-      "score": 7.4,
+      "title": "El director de EL PAÍS reivindica el compromiso del diario con la “calidad y la ",
+      "score": 6.6,
       "words": [
         {
-          "word": "premio",
-          "score": 3
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "compromiso",
+          "score": 2
+        },
+        {
+          "word": "compromiso",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Sergio Ramírez, Premio Ortega y Gasset de Periodismo 2026: “Sin conflicto no hay",
-      "score": 5.4,
+      "title": "Manuel Vicent defiende que el éxito de un periodista “no está en ser leído sino ",
+      "score": 5.96,
       "words": [
         {
-          "word": "premio",
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "premios",
           "score": 3
         },
         {
-          "word": "conflicto",
+          "word": "soluciones",
+          "score": 1
+        },
+        {
+          "word": "problemas",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Martin Baron, Premio Ortega y Gasset de Periodismo 2026: “Creo en la obligación ",
-      "score": 5.6,
+      "title": "Juicio por la trama de las mascarillas, en directo | Ábalos niega haber recibido",
+      "score": 3.4,
       "words": [
         {
-          "word": "premio",
-          "score": 3
+          "word": "niega",
+          "score": -2
         },
         {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "reto",
-          "score": -1
+          "word": "acusa",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La regularización de inmigrantes divide a los españoles: 38% a favor y 33% en co",
+      "title": "Ábalos y Koldo, una aproximación psicológica al origen de la perdición",
       "score": 6.6,
       "words": [
         {
-          "word": "favor",
+          "word": "novela",
           "score": 2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "concesión",
-          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Vox confirma su tendencia a la baja y pierde casi un punto de estimación de voto",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "ventaja",
-          "score": 2
-        },
-        {
-          "word": "alcanzar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Un",
-      "score": 3.97,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Dr",
+      "score": 3.93,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "bloqueo",
+          "score": -1
         },
         {
-          "word": "alcanzado",
-          "score": 1
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "14 españoles viajan en el crucero en el que han muerto tres personas por un posi",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "muerto",
+          "score": -3
         },
         {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "advierte",
+          "word": "crítico",
           "score": -2
         }
       ]
@@ -320,35 +315,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Aldama, un show por todo lo alto",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "negar",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "cierto",
-          "score": 2
-        },
-        {
-          "word": "suficiente",
-          "score": -2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Una jueza absuelve a la agitadora ultra que llamó \"Begoño\" en televisión a la es",
-      "score": 4.73,
+      "title": "Una jueza absuelve a la agitadora Pilar Baselga tras llamar “Begoño” a la esposa",
+      "score": 4.71,
       "words": [
         {
           "word": "absuelve",
@@ -369,6 +337,33 @@
         {
           "word": "humor",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PSOE denuncia en el Congreso que Vito Quiles usó un despacho del PP para amen",
+      "score": 4.14,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
         }
       ]
     },
@@ -398,40 +393,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El policía Morocho presenció durante su destierro interno las otras guerras suci",
-      "score": 4.61,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "enemigos",
-          "score": -3
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-22T16:56:17Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-04-22T18:00:17Z",
       "score": 4.58
@@ -1099,6 +1063,10 @@
     {
       "timestamp": "2026-05-04T13:52:50Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-05-04T16:00:02Z",
+      "score": 4.84
     }
   ]
 }

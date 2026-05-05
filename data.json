@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-05T16:22:16Z",
-  "global_score": 4.6,
-  "articles_scored": 96,
-  "words_matched": 287,
+  "generated": "2026-05-05T18:08:14Z",
+  "global_score": 4.69,
+  "articles_scored": 90,
+  "words_matched": 288,
   "top_negative": [
     {
       "word": "negro",
@@ -21,8 +21,8 @@
       "score": -4
     },
     {
-      "word": "torturas",
-      "score": -4
+      "word": "mal",
+      "score": -3
     },
     {
       "word": "ilegal",
@@ -33,11 +33,19 @@
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "culpa",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "celebra",
       "score": 3
@@ -47,41 +55,33 @@
       "score": 3
     },
     {
+      "word": "diversión",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
       "word": "fiel",
       "score": 3
     },
     {
       "word": "bueno",
       "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "lealtad",
-      "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.61,
-    "elDiario.es": 4.69,
-    "El Mundo": 4.43,
-    "ABC": 5.15,
-    "El Confidencial": 5.17,
-    "BBC Mundo": 4.6,
-    "France 24 ES": 4.41,
-    "La Nación AR": 3.92,
+    "El País": 5.41,
+    "elDiario.es": 4.66,
+    "El Mundo": 4.67,
+    "ABC": 5.2,
+    "El Confidencial": 5.33,
+    "BBC Mundo": 4.68,
+    "France 24 ES": 4.96,
+    "La Nación AR": 3.95,
     "La Jornada MX": 4.15,
-    "Desinformémonos": 4.58,
+    "Desinformémonos": 4.49,
     "Resumen Latinoam.": 3.79
   },
   "articles": [
@@ -147,6 +147,21 @@
     },
     {
       "source": "El País",
+      "title": "Sheinbaum responde a Díaz Ayuso: “Quienes reivindican a Hernán Cortés y sus atro",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "cortés",
+          "score": 3
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Carmen Romero: “La derecha utiliza a Felipe González y Alfonso Guerra”",
       "score": 4.47,
       "words": [
@@ -191,13 +206,56 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Los Premios Ortega y Gasset celebran el periodismo de resistencia, el contraste ",
-      "score": 7.4,
+      "source": "elDiario.es",
+      "title": "La OMS evacuará a los sospechosos de hantavirus a Países Bajos mientras España p",
+      "score": 4.56,
       "words": [
         {
-          "word": "premios",
+          "word": "sospechosos",
+          "score": -1
+        },
+        {
+          "word": "sospechosos",
+          "score": -1
+        },
+        {
+          "word": "sospechosos",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "realizar",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Qué es el hantavirus, la infección que ha matado a tres personas en un crucero",
+      "score": 4.97,
+      "words": [
+        {
+          "word": "enfermedades",
+          "score": -2
+        },
+        {
+          "word": "sospecha",
+          "score": -1
+        },
+        {
+          "word": "enfermedades",
+          "score": -2
+        },
+        {
+          "word": "mayor",
           "score": 3
+        },
+        {
+          "word": "riesgo",
+          "score": -2
         }
       ]
     },
@@ -224,6 +282,33 @@
         },
         {
           "word": "pena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Caso Aldama: 18 meses de una \"colaboración con la Justicia\" salpicada de bulos, ",
+      "score": 4.87,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusación",
           "score": -2
         }
       ]
@@ -284,33 +369,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP rebaja la petición de pena a Aldama para intentar que no entre en prisión",
-      "score": 4.3,
-      "words": [
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "critica",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El agitador ultra Bertrand Ndongo llama “idiota” a la diputada Aina Vidal (Comun",
       "score": 4.24,
       "words": [
@@ -335,67 +393,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Mestizaje\", \"evangelización\" y Hernán Cortés: Ayuso y Nacho Cano celebran un ac",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "cortés",
-          "score": 3
-        },
-        {
-          "word": "protestas",
-          "score": -2
-        },
-        {
-          "word": "cortés",
-          "score": 3
-        },
-        {
-          "word": "protestas",
-          "score": -2
-        },
-        {
-          "word": "protestas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cuando Borja Sémper volvió por segunda vez, Vox seguía ahí",
-      "score": 4.64,
-      "words": [
-        {
-          "word": "cáncer",
-          "score": -1
-        },
-        {
-          "word": "ignorar",
-          "score": -1
-        },
-        {
-          "word": "daño",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-23T15:50:23Z",
-      "score": 4.49
-    },
     {
       "timestamp": "2026-04-23T17:17:39Z",
       "score": 4.45
@@ -1063,6 +1063,10 @@
     {
       "timestamp": "2026-05-05T16:22:16Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-05-05T18:08:14Z",
+      "score": 4.69
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-05T21:58:58Z",
-  "global_score": 4.81,
-  "articles_scored": 95,
-  "words_matched": 264,
+  "generated": "2026-05-05T23:01:32Z",
+  "global_score": 4.72,
+  "articles_scored": 96,
+  "words_matched": 265,
   "top_negative": [
     {
       "word": "negro",
@@ -51,6 +51,14 @@
       "score": 3
     },
     {
+      "word": "impresionante",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
       "word": "celebrado",
       "score": 3
     },
@@ -61,30 +69,86 @@
     {
       "word": "celebrar",
       "score": 3
-    },
-    {
-      "word": "fiel",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.86,
+    "El País": 4.7,
     "elDiario.es": 4.73,
     "El Mundo": 4.48,
     "ABC": 5.52,
-    "El Confidencial": 5.42,
+    "El Confidencial": 5.58,
     "BBC Mundo": 5.28,
-    "France 24 ES": 4.24,
-    "La Nación AR": 4.46,
+    "France 24 ES": 4.4,
+    "La Nación AR": 4.61,
     "La Jornada MX": 4.15,
     "Desinformémonos": 4.41,
-    "Resumen Latinoam.": 4.76
+    "Resumen Latinoam.": 4.26
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "La mejor periodista",
+      "score": 6.87,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "beneficios",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sol, la ‘auctoritas’ del periodismo",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "rabia",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Políticos y juristas reconocen el compromiso con el periodismo de Soledad Galleg",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "compromiso",
+          "score": 2
+        },
+        {
+          "word": "compromiso",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La vida y carrera de Soledad Gallego-Díaz, en imágenes",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "España acepta recibir en Canarias el barco con el brote de hantavirus y al médic",
@@ -132,53 +196,23 @@
     },
     {
       "source": "El País",
-      "title": "Sheinbaum responde a Díaz Ayuso: “Quienes reivindican a Hernán Cortés y sus atro",
-      "score": 5.8,
+      "title": "La falta de pegada condena al Atlético ante el Arsenal y le deja a las puertas d",
+      "score": 3.4,
       "words": [
         {
-          "word": "cortés",
-          "score": 3
-        },
-        {
-          "word": "batalla",
-          "score": -1
+          "word": "condena",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Svetlana, Sergio y Martin o el periodismo de orfebrería",
-      "score": 7.4,
+      "title": "Moreno presenta el debate electoral como ejemplo del “lío”: “Candidatos mintiend",
+      "score": 3.4,
       "words": [
         {
-          "word": "premio",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Conversación entre Javier Cercas y Miquel Barceló sobre el instante decisivo que",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "decisivo",
-          "score": 1
-        },
-        {
-          "word": "exclusivo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los Premios Ortega y Gasset celebran el periodismo de resistencia, el contraste ",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "premios",
-          "score": 3
+          "word": "lío",
+          "score": -2
         }
       ]
     },
@@ -343,67 +377,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El agitador ultra Bertrand Ndongo llama “idiota” a la diputada Aina Vidal (Comun",
-      "score": 4.24,
-      "words": [
-        {
-          "word": "idiota",
-          "score": -3
-        },
-        {
-          "word": "idiota",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "amenazar",
-          "score": -2
-        },
-        {
-          "word": "idiota",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Mestizaje\", \"evangelización\" y Hernán Cortés: Ayuso y Nacho Cano celebran un ac",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "cortés",
-          "score": 3
-        },
-        {
-          "word": "protestas",
-          "score": -2
-        },
-        {
-          "word": "cortés",
-          "score": 3
-        },
-        {
-          "word": "protestas",
-          "score": -2
-        },
-        {
-          "word": "protestas",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-23T20:49:43Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-23T21:42:45Z",
       "score": 4.76
@@ -1071,6 +1047,10 @@
     {
       "timestamp": "2026-05-05T21:58:58Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-05-05T23:01:32Z",
+      "score": 4.72
     }
   ]
 }

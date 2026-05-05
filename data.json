@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-05T08:05:28Z",
-  "global_score": 4.63,
+  "generated": "2026-05-05T10:43:55Z",
+  "global_score": 4.71,
   "articles_scored": 97,
-  "words_matched": 291,
+  "words_matched": 283,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "mierda",
       "score": -4
     },
     {
@@ -31,24 +35,12 @@
     {
       "word": "culpable",
       "score": -3
-    },
-    {
-      "word": "traicionado",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "amor",
-      "score": 3
     },
     {
       "word": "paraíso",
@@ -59,32 +51,51 @@
       "score": 3
     },
     {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
+      "word": "fiel",
       "score": 3
     },
     {
       "word": "riqueza",
       "score": 3
+    },
+    {
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.39,
-    "elDiario.es": 4.74,
-    "El Mundo": 4.35,
-    "ABC": 5.13,
-    "El Confidencial": 4.33,
-    "BBC Mundo": 4.41,
-    "France 24 ES": 4.76,
-    "La Nación AR": 4.24,
-    "La Jornada MX": 5.07,
+    "El País": 5.51,
+    "elDiario.es": 4.73,
+    "El Mundo": 4.32,
+    "ABC": 4.71,
+    "El Confidencial": 4.79,
+    "BBC Mundo": 4.35,
+    "France 24 ES": 5.0,
+    "La Nación AR": 6.42,
+    "La Jornada MX": 4.15,
     "Desinformémonos": 4.14,
-    "Resumen Latinoam.": 4.19
+    "Resumen Latinoam.": 4.23
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "La OMS asegura que el barco con el brote de hantavirus irá a Canarias y Sanidad ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El español Miguel Barreno regresa tras pasar más de seis meses detenido por el I",
@@ -121,29 +132,6 @@
     },
     {
       "source": "El País",
-      "title": "Asim Munir, el mariscal de campo pakistaní que negocia la paz entre Estados Unid",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "favorito",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El homenaje de Isabel Díaz Ayuso a Hernán Cortés sacude la política de Ciudad de",
       "score": 6.0,
       "words": [
@@ -167,12 +155,20 @@
     },
     {
       "source": "El País",
-      "title": "Moreno recibe el ataque en bloque de la izquierda y no confronta con Vox",
-      "score": 4.2,
+      "title": "Carmen Romero: “La derecha utiliza a Felipe González y Alfonso Guerra”",
+      "score": 4.47,
       "words": [
         {
-          "word": "ataque",
-          "score": -1
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "difícil",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -231,7 +227,7 @@
     {
       "source": "elDiario.es",
       "title": "España supera por primera vez los 22 millones de trabajadores y el paro cae por ",
-      "score": 4.7,
+      "score": 4.73,
       "words": [
         {
           "word": "guerra",
@@ -392,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-23T09:25:07Z",
-      "score": 4.41
-    },
     {
       "timestamp": "2026-04-23T11:05:27Z",
       "score": 4.47
@@ -1063,6 +1055,10 @@
     {
       "timestamp": "2026-05-05T08:05:28Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-05-05T10:43:55Z",
+      "score": 4.71
     }
   ]
 }

@@ -1,39 +1,39 @@
 {
-  "generated": "2026-05-06T11:04:15Z",
-  "global_score": 4.76,
-  "articles_scored": 97,
-  "words_matched": 232,
+  "generated": "2026-05-06T14:02:58Z",
+  "global_score": 4.75,
+  "articles_scored": 89,
+  "words_matched": 231,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "violador",
-      "score": -4
-    },
-    {
-      "word": "cabron",
-      "score": -4
-    },
-    {
-      "word": "víctimas",
-      "score": -3
     },
     {
       "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "criminal",
+      "score": -3
+    },
+    {
+      "word": "terriblemente",
+      "score": -3
+    },
+    {
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "delito",
       "score": -3
     }
   ],
@@ -43,19 +43,23 @@
       "score": 5
     },
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "entusiasta",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "cortés",
+      "word": "premios",
       "score": 3
     },
     {
@@ -63,85 +67,43 @@
       "score": 3
     },
     {
-      "word": "contento",
-      "score": 3
-    },
-    {
-      "word": "alegre",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.13,
-    "elDiario.es": 4.64,
-    "El Mundo": 5.31,
-    "ABC": 5.0,
-    "El Confidencial": 5.14,
-    "BBC Mundo": 4.82,
-    "France 24 ES": 5.19,
-    "La Nación AR": 5.63,
-    "La Jornada MX": 4.15,
+    "El País": 4.68,
+    "elDiario.es": 4.79,
+    "El Mundo": 4.82,
+    "ABC": 5.37,
+    "El Confidencial": 5.1,
+    "BBC Mundo": 4.36,
+    "France 24 ES": 4.99,
+    "La Nación AR": 5.33,
+    "La Jornada MX": 4.8,
     "Desinformémonos": 4.41,
-    "Resumen Latinoam.": 4.23
+    "Resumen Latinoam.": 3.53
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Vaticano confirma oficialmente que el Papa dará un histórico discurso en el C",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Vídeo | Recorrido por los escenarios de la crisis del hantavirus",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "contagios",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del brote de Hantavirus, en directo | La OMS comunica un octavo caso",
+      "title": "Última hora del brote de hantavirus, en directo | Los 14 españoles que viajan en",
       "score": 4.2,
       "words": [
         {
           "word": "sospechosos",
           "score": -1
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un pasajero español en el ‘MV Hondius’: “Hay 23 personas que bajaron en la isla ",
+      "score": 5.8,
+      "words": [
         {
-          "word": "urgente",
-          "score": -1
+          "word": "llegar",
+          "score": 1
         }
       ]
     },
@@ -162,12 +124,35 @@
     },
     {
       "source": "El País",
-      "title": "Por qué el hantavirus no tiene nada que ver con la covid",
-      "score": 4.2,
+      "title": "El fiscal defiende ante el Supremo que es “posible” premiar aún más la confesión",
+      "score": 3.4,
       "words": [
         {
-          "word": "contagioso",
-          "score": -1
+          "word": "pena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
         }
       ]
     },
@@ -211,8 +196,170 @@
     },
     {
       "source": "elDiario.es",
+      "title": "España repatriará desde Canarias a los tripulantes del barco del hantavirus y at",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "grande",
+          "score": 1
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "urgente",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Clavijo advierte de que Canarias no cuenta con protocolos ni plazas para atender",
+      "score": 5.34,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "esperar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno afirma que está en contacto con Clavijo por el hantavirus y pide no ",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los expertos piden tranquilidad con el brote de hantavirus: \"No puede generar un",
+      "score": 4.46,
+      "words": [
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "problema",
+          "score": -2
+        },
+        {
+          "word": "enfermedad",
+          "score": -2
+        },
+        {
+          "word": "provocar",
+          "score": -1
+        },
+        {
+          "word": "enfermedades",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De Patagonia a Canarias: cronología del crucero afectado por el brote de hantavi",
+      "score": 4.36,
+      "words": [
+        {
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "paradas",
+          "score": -1
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Miguel Ángel Rodríguez asegura que la pareja de Ayuso le facilitó la foto de los",
+      "score": 4.88,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "molestado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El fiscal defiende que es “posible” rebajar aún más la pena a Aldama pero sin ex",
-      "score": 4.54,
+      "score": 5.07,
       "words": [
         {
           "word": "pena",
@@ -223,15 +370,15 @@
           "score": -2
         },
         {
+          "word": "respalda",
+          "score": 2
+        },
+        {
           "word": "prisión",
           "score": -2
         },
         {
           "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "prisión",
           "score": -2
         }
       ]
@@ -262,148 +409,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Miguel Ángel Rodríguez asegura que la pareja de Ayuso le facilitó la foto de los",
-      "score": 4.69,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "molestado",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Miguel Ángel Rodríguez declara como imputado por señalar a dos periodistas que i",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "autor",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno renuncia a la reducción de jornada en su plan de 2026 y prevé Presup",
-      "score": 4.64,
-      "words": [
-        {
-          "word": "renuncia",
-          "score": -1
-        },
-        {
-          "word": "renuncia",
-          "score": -1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "oferta",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sumar denuncia a Ndongo ante el Congreso por insultar y \"hostigar\" físicamente a",
-      "score": 3.83,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "infracción",
-          "score": -2
-        },
-        {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "retirada",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El crucero del hantavirus desembarcará en Canarias tras una solicitud formal de ",
-      "score": 5.08,
-      "words": [
-        {
-          "word": "urgente",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "urgente",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-24T02:26:37Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-04-24T05:32:35Z",
       "score": 4.69
@@ -1071,6 +1079,10 @@
     {
       "timestamp": "2026-05-06T11:04:15Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-05-06T14:02:58Z",
+      "score": 4.75
     }
   ]
 }

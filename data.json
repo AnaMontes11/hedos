@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-06T18:13:49Z",
-  "global_score": 4.77,
-  "articles_scored": 92,
-  "words_matched": 228,
+  "generated": "2026-05-06T20:19:50Z",
+  "global_score": 4.62,
+  "articles_scored": 95,
+  "words_matched": 241,
   "top_negative": [
     {
       "word": "culo",
@@ -17,6 +17,14 @@
       "score": -3
     },
     {
+      "word": "criminal",
+      "score": -3
+    },
+    {
+      "word": "víctima",
+      "score": -3
+    },
+    {
       "word": "crisis",
       "score": -3
     },
@@ -27,14 +35,6 @@
     {
       "word": "mal",
       "score": -3
-    },
-    {
-      "word": "cargado",
-      "score": -3
-    },
-    {
-      "word": "empeorar",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,11 +43,19 @@
       "score": 5
     },
     {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
+    },
+    {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "cortés",
       "score": 3
     },
     {
@@ -59,30 +67,22 @@
       "score": 3
     },
     {
-      "word": "excelente",
-      "score": 3
-    },
-    {
-      "word": "cortés",
-      "score": 3
-    },
-    {
-      "word": "medalla",
+      "word": "premios",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.41,
+    "El País": 4.32,
     "elDiario.es": 4.7,
-    "El Mundo": 5.05,
-    "ABC": 5.48,
+    "El Mundo": 4.83,
+    "ABC": 5.01,
     "El Confidencial": 4.89,
-    "BBC Mundo": 4.64,
-    "France 24 ES": 4.1,
-    "La Nación AR": 5.27,
+    "BBC Mundo": 4.65,
+    "France 24 ES": 4.01,
+    "La Nación AR": 4.45,
     "La Jornada MX": 4.8,
     "Desinformémonos": 4.96,
-    "Resumen Latinoam.": 4.26
+    "Resumen Latinoam.": 4.2
   },
   "articles": [
     {
@@ -98,11 +98,11 @@
     },
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | Un fallo técnico obliga a dete",
+      "title": "Última hora del brote de hantavirus, en directo | Interior informa de que la eva",
       "score": 4.2,
       "words": [
         {
-          "word": "detener",
+          "word": "afectado",
           "score": -1
         }
       ]
@@ -120,12 +120,39 @@
     },
     {
       "source": "El País",
-      "title": "El hantavirus desata una guerra política entre el Gobierno y Canarias mientras C",
-      "score": 3.4,
+      "title": "El capitán del crucero del hantavirus, tras la primera muerte: “No es infeccioso",
+      "score": 4.47,
       "words": [
         {
-          "word": "guerra",
+          "word": "muerte",
           "score": -2
+        },
+        {
+          "word": "seguro",
+          "score": 2
+        },
+        {
+          "word": "critica",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El juicio de las mascarillas, visto para sentencia: la Fiscalía da por probada u",
+      "score": 2.87,
+      "words": [
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "víctima",
+          "score": -3
         }
       ]
     },
@@ -136,33 +163,6 @@
       "words": [
         {
           "word": "pena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "duda",
-          "score": -1
-        },
-        {
-          "word": "acusación",
           "score": -2
         }
       ]
@@ -377,37 +377,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El abogado de Ábalos defiende la legalidad de los contratos de mascarillas y dic",
-      "score": 4.47,
+      "title": "Ábalos usa su alegato final para atacar la investigación de la UCO y al fiscal: ",
+      "score": 4.52,
       "words": [
+        {
+          "word": "víctima",
+          "score": -3
+        },
+        {
+          "word": "minado",
+          "score": -2
+        },
         {
           "word": "pena",
           "score": -2
         },
         {
-          "word": "denuncia",
-          "score": -2
+          "word": "derecho",
+          "score": 1
         },
         {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "suspendido",
-          "score": -1
-        },
-        {
-          "word": "criminal",
+          "word": "delitos",
           "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-24T09:50:57Z",
-      "score": 4.92
-    },
     {
       "timestamp": "2026-04-24T11:04:13Z",
       "score": 4.85
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-05-06T18:13:49Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-05-06T20:19:50Z",
+      "score": 4.62
     }
   ]
 }

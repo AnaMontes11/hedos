@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-06T05:55:04Z",
-  "global_score": 4.85,
-  "articles_scored": 96,
-  "words_matched": 287,
+  "generated": "2026-05-06T11:04:15Z",
+  "global_score": 4.76,
+  "articles_scored": 97,
+  "words_matched": 232,
   "top_negative": [
     {
       "word": "negro",
@@ -17,23 +17,23 @@
       "score": -4
     },
     {
-      "word": "tortura",
+      "word": "infierno",
       "score": -4
     },
     {
-      "word": "peor",
+      "word": "violador",
+      "score": -4
+    },
+    {
+      "word": "cabron",
+      "score": -4
+    },
+    {
+      "word": "víctimas",
       "score": -3
     },
     {
-      "word": "víctima",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "criminal",
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -43,23 +43,11 @@
       "score": 5
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "impresionante",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "entusiasta",
       "score": 3
     },
     {
@@ -67,24 +55,122 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "cortés",
+      "score": 3
+    },
+    {
+      "word": "afecto",
+      "score": 3
+    },
+    {
+      "word": "contento",
+      "score": 3
+    },
+    {
+      "word": "alegre",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.17,
-    "elDiario.es": 4.76,
-    "El Mundo": 5.04,
-    "ABC": 4.98,
-    "El Confidencial": 5.68,
-    "BBC Mundo": 5.2,
+    "El País": 4.13,
+    "elDiario.es": 4.64,
+    "El Mundo": 5.31,
+    "ABC": 5.0,
+    "El Confidencial": 5.14,
+    "BBC Mundo": 4.82,
     "France 24 ES": 5.19,
-    "La Nación AR": 4.66,
+    "La Nación AR": 5.63,
     "La Jornada MX": 4.15,
     "Desinformémonos": 4.41,
-    "Resumen Latinoam.": 4.41
+    "Resumen Latinoam.": 4.23
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Vaticano confirma oficialmente que el Papa dará un histórico discurso en el C",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Vídeo | Recorrido por los escenarios de la crisis del hantavirus",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "contagios",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del brote de Hantavirus, en directo | La OMS comunica un octavo caso",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "sospechosos",
+          "score": -1
+        },
+        {
+          "word": "urgente",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El hantavirus desata una guerra política entre el Gobierno y Canarias mientras C",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Por qué el hantavirus no tiene nada que ver con la covid",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "contagioso",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "La mejor periodista",
@@ -124,123 +210,21 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Políticos y juristas reconocen el compromiso con el periodismo de Soledad Galleg",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "compromiso",
-          "score": 2
-        },
-        {
-          "word": "compromiso",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Hermana y maestra",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "progreso",
-          "score": 2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La vida y carrera de Soledad Gallego-Díaz, en imágenes",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "cargos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Gobierno y PP usan a Aldama como arma política ante el final del primer juicio d",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "“Que esto no salga en los periódicos”: La Iglesia pide perdón a la víctima que d",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "perdón",
-          "score": 2
-        },
-        {
-          "word": "víctima",
-          "score": -3
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Anticorrupción defenderá en su informe una rebaja de la pena a Aldama mayor que ",
-      "score": 4.3,
+      "title": "El fiscal defiende que es “posible” rebajar aún más la pena a Aldama pero sin ex",
+      "score": 4.54,
       "words": [
         {
           "word": "pena",
           "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
           "word": "pena",
           "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "sentencia",
+          "word": "prisión",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Ábalos, Koldo y el ornitorrinco",
-      "score": 4.71,
-      "words": [
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "premio",
-          "score": 3
         },
         {
           "word": "pena",
@@ -281,8 +265,35 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Miguel Ángel Rodríguez asegura que la pareja de Ayuso le facilitó la foto de los",
+      "score": 4.69,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "molestado",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Miguel Ángel Rodríguez declara como imputado por señalar a dos periodistas que i",
-      "score": 4.25,
+      "score": 4.2,
       "words": [
         {
           "word": "autor",
@@ -302,6 +313,60 @@
         },
         {
           "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno renuncia a la reducción de jornada en su plan de 2026 y prevé Presup",
+      "score": 4.64,
+      "words": [
+        {
+          "word": "renuncia",
+          "score": -1
+        },
+        {
+          "word": "renuncia",
+          "score": -1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "oferta",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sumar denuncia a Ndongo ante el Congreso por insultar y \"hostigar\" físicamente a",
+      "score": 3.83,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "infracción",
+          "score": -2
+        },
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "retirada",
           "score": -3
         }
       ]
@@ -332,94 +397,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los expertos piden tranquilidad con el brote de hantavirus: \"No puede generar un",
-      "score": 4.46,
-      "words": [
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "enfermedad",
-          "score": -2
-        },
-        {
-          "word": "provocar",
-          "score": -1
-        },
-        {
-          "word": "enfermedades",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué es el hantavirus, la infección que ha matado a tres personas en un crucero",
-      "score": 4.97,
-      "words": [
-        {
-          "word": "enfermedades",
-          "score": -2
-        },
-        {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "enfermedades",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Teresa Ribera: “Europa no se puede quedar en un rincón, tenemos que defender nue",
-      "score": 5.25,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "avanzado",
-          "score": 1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "falso",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-23T23:42:13Z",
-      "score": 4.45
-    },
     {
       "timestamp": "2026-04-24T02:26:37Z",
       "score": 4.59
@@ -1087,6 +1067,10 @@
     {
       "timestamp": "2026-05-06T05:55:04Z",
       "score": 4.85
+    },
+    {
+      "timestamp": "2026-05-06T11:04:15Z",
+      "score": 4.76
     }
   ]
 }

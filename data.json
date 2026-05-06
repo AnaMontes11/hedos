@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-06T02:36:05Z",
+  "generated": "2026-05-06T05:55:04Z",
   "global_score": 4.85,
-  "articles_scored": 94,
-  "words_matched": 263,
+  "articles_scored": 96,
+  "words_matched": 287,
   "top_negative": [
     {
       "word": "negro",
@@ -17,23 +17,23 @@
       "score": -4
     },
     {
-      "word": "mierda",
+      "word": "tortura",
       "score": -4
     },
     {
-      "word": "mal",
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "culpa",
+      "word": "víctima",
       "score": -3
     },
     {
       "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "criminal",
       "score": -3
     }
   ],
@@ -41,6 +41,18 @@
     {
       "word": "excepcional",
       "score": 5
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "impresionante",
@@ -51,35 +63,23 @@
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "amor",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
-    },
-    {
-      "word": "delicias",
-      "score": 3
-    },
-    {
-      "word": "paraíso",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.27,
-    "elDiario.es": 4.73,
-    "El Mundo": 4.93,
-    "ABC": 5.17,
-    "El Confidencial": 5.12,
-    "BBC Mundo": 5.6,
+    "El País": 5.17,
+    "elDiario.es": 4.76,
+    "El Mundo": 5.04,
+    "ABC": 4.98,
+    "El Confidencial": 5.68,
+    "BBC Mundo": 5.2,
     "France 24 ES": 5.19,
-    "La Nación AR": 4.57,
+    "La Nación AR": 4.66,
     "La Jornada MX": 4.15,
     "Desinformémonos": 4.41,
     "Resumen Latinoam.": 4.41
@@ -166,91 +166,45 @@
     },
     {
       "source": "El País",
-      "title": "España acepta recibir en Canarias el barco con el brote de hantavirus y al médic",
-      "score": 5.0,
+      "title": "Gobierno y PP usan a Aldama como arma política ante el final del primer juicio d",
+      "score": 3.0,
       "words": [
         {
-          "word": "acepta",
-          "score": 1
-        },
-        {
-          "word": "grave",
+          "word": "pena",
           "score": -2
         },
         {
-          "word": "llegar",
-          "score": 1
+          "word": "peor",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "¿Qué sabemos sobre el brote de hantavirus? Riesgos y certezas de una enfermedad ",
-      "score": 3.4,
+      "title": "“Que esto no salga en los periódicos”: La Iglesia pide perdón a la víctima que d",
+      "score": 5.27,
       "words": [
         {
-          "word": "riesgos",
-          "score": -2
+          "word": "perdón",
+          "score": 2
         },
         {
-          "word": "enfermedad",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "De unas vacaciones al fin del mundo a la pesadilla de un brote de hantavirus",
-      "score": 5.8,
-      "words": [
+          "word": "víctima",
+          "score": -3
+        },
         {
-          "word": "claro",
-          "score": 1
+          "word": "responsable",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El crucero del hantavirus desembarcará en Canarias tras una solicitud formal de ",
-      "score": 5.08,
+      "title": "Anticorrupción defenderá en su informe una rebaja de la pena a Aldama mayor que ",
+      "score": 4.3,
       "words": [
         {
-          "word": "urgente",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "urgente",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué es el hantavirus, la infección que ha matado a tres personas en un crucero",
-      "score": 4.97,
-      "words": [
-        {
-          "word": "enfermedades",
-          "score": -2
-        },
-        {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "enfermedades",
+          "word": "pena",
           "score": -2
         },
         {
@@ -258,34 +212,42 @@
           "score": 3
         },
         {
-          "word": "riesgo",
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "sentencia",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Una de las acusaciones del caso Mascarillas pide al Supremo que no admita la reb",
-      "score": 4.85,
+      "title": "🎙 PODCAST | Ábalos, Koldo y el ornitorrinco",
+      "score": 4.71,
       "words": [
         {
+          "word": "acusado",
+          "score": -2
+        },
+        {
           "word": "acusaciones",
           "score": -2
+        },
+        {
+          "word": "premio",
+          "score": 3
         },
         {
           "word": "pena",
           "score": -2
         },
         {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
+          "word": "prisión",
           "score": -2
         }
       ]
@@ -319,42 +281,19 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La recompensa del PP para las mentiras de Aldama",
-      "score": 4.54,
+      "title": "Miguel Ángel Rodríguez declara como imputado por señalar a dos periodistas que i",
+      "score": 4.25,
       "words": [
         {
-          "word": "recompensa",
-          "score": 2
-        },
-        {
-          "word": "recompensa",
-          "score": 2
-        },
-        {
-          "word": "acusado",
+          "word": "autor",
           "score": -2
         },
         {
-          "word": "pena",
-          "score": -2
+          "word": "delito",
+          "score": -3
         },
         {
-          "word": "prisión",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno acusa al PP de estar en connivencia con Aldama: \"Es evidente que est",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
+          "word": "problemas",
           "score": -2
         },
         {
@@ -362,48 +301,121 @@
           "score": 2
         },
         {
-          "word": "niega",
+          "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El crucero del hantavirus desembarcará en Canarias tras una solicitud formal de ",
+      "score": 5.08,
+      "words": [
+        {
+          "word": "urgente",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "pena",
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "urgente",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los expertos piden tranquilidad con el brote de hantavirus: \"No puede generar un",
+      "score": 4.46,
+      "words": [
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "problema",
+          "score": -2
+        },
+        {
+          "word": "enfermedad",
+          "score": -2
+        },
+        {
+          "word": "provocar",
+          "score": -1
+        },
+        {
+          "word": "enfermedades",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El agitador ultra Bertrand Ndongo llama “idiota” a la diputada Aina Vidal (Comun",
-      "score": 4.24,
+      "title": "Qué es el hantavirus, la infección que ha matado a tres personas en un crucero",
+      "score": 4.97,
       "words": [
         {
-          "word": "idiota",
-          "score": -3
-        },
-        {
-          "word": "idiota",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
+          "word": "enfermedades",
           "score": -2
         },
         {
-          "word": "amenazar",
+          "word": "sospecha",
+          "score": -1
+        },
+        {
+          "word": "enfermedades",
           "score": -2
         },
         {
-          "word": "idiota",
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Teresa Ribera: “Europa no se puede quedar en un rincón, tenemos que defender nue",
+      "score": 5.25,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "avanzado",
+          "score": 1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "falso",
           "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-23T22:40:58Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-04-23T23:42:13Z",
       "score": 4.45
@@ -1070,6 +1082,10 @@
     },
     {
       "timestamp": "2026-05-06T02:36:05Z",
+      "score": 4.85
+    },
+    {
+      "timestamp": "2026-05-06T05:55:04Z",
       "score": 4.85
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-05T23:01:32Z",
-  "global_score": 4.72,
-  "articles_scored": 96,
-  "words_matched": 265,
+  "generated": "2026-05-06T02:36:05Z",
+  "global_score": 4.85,
+  "articles_scored": 94,
+  "words_matched": 263,
   "top_negative": [
     {
       "word": "negro",
@@ -43,15 +43,11 @@
       "score": 5
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "sentido",
+      "word": "impresionante",
       "score": 3
     },
     {
-      "word": "impresionante",
+      "word": "leal",
       "score": 3
     },
     {
@@ -67,22 +63,26 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "delicias",
+      "score": 3
+    },
+    {
+      "word": "paraíso",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.7,
+    "El País": 5.27,
     "elDiario.es": 4.73,
-    "El Mundo": 4.48,
-    "ABC": 5.52,
-    "El Confidencial": 5.58,
-    "BBC Mundo": 5.28,
-    "France 24 ES": 4.4,
-    "La Nación AR": 4.61,
+    "El Mundo": 4.93,
+    "ABC": 5.17,
+    "El Confidencial": 5.12,
+    "BBC Mundo": 5.6,
+    "France 24 ES": 5.19,
+    "La Nación AR": 4.57,
     "La Jornada MX": 4.15,
     "Desinformémonos": 4.41,
-    "Resumen Latinoam.": 4.26
+    "Resumen Latinoam.": 4.41
   },
   "articles": [
     {
@@ -140,6 +140,21 @@
     },
     {
       "source": "El País",
+      "title": "Hermana y maestra",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "progreso",
+          "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "La vida y carrera de Soledad Gallego-Díaz, en imágenes",
       "score": 3.4,
       "words": [
@@ -191,28 +206,6 @@
         {
           "word": "claro",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La falta de pegada condena al Atlético ante el Arsenal y le deja a las puertas d",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Moreno presenta el debate electoral como ejemplo del “lío”: “Candidatos mintiend",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "lío",
-          "score": -2
         }
       ]
     },
@@ -377,13 +370,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El agitador ultra Bertrand Ndongo llama “idiota” a la diputada Aina Vidal (Comun",
+      "score": 4.24,
+      "words": [
+        {
+          "word": "idiota",
+          "score": -3
+        },
+        {
+          "word": "idiota",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "idiota",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-23T21:42:45Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-04-23T22:40:58Z",
       "score": 4.66
@@ -1051,6 +1067,10 @@
     {
       "timestamp": "2026-05-05T23:01:32Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-05-06T02:36:05Z",
+      "score": 4.85
     }
   ]
 }

@@ -1,13 +1,9 @@
 {
-  "generated": "2026-05-06T14:02:58Z",
-  "global_score": 4.75,
-  "articles_scored": 89,
-  "words_matched": 231,
+  "generated": "2026-05-06T16:25:15Z",
+  "global_score": 4.72,
+  "articles_scored": 94,
+  "words_matched": 222,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -35,20 +31,16 @@
     {
       "word": "delito",
       "score": -3
+    },
+    {
+      "word": "culpa",
+      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "excepcional",
       "score": 5
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
     },
     {
       "word": "premio",
@@ -59,7 +51,11 @@
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "cortés",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -67,35 +63,28 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "heroico",
+      "score": 3
+    },
+    {
+      "word": "premios",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.68,
-    "elDiario.es": 4.79,
-    "El Mundo": 4.82,
-    "ABC": 5.37,
+    "El País": 5.08,
+    "elDiario.es": 4.85,
+    "El Mundo": 5.01,
+    "ABC": 4.72,
     "El Confidencial": 5.1,
-    "BBC Mundo": 4.36,
-    "France 24 ES": 4.99,
-    "La Nación AR": 5.33,
+    "BBC Mundo": 4.73,
+    "France 24 ES": 4.7,
+    "La Nación AR": 4.57,
     "La Jornada MX": 4.8,
-    "Desinformémonos": 4.41,
-    "Resumen Latinoam.": 3.53
+    "Desinformémonos": 4.25,
+    "Resumen Latinoam.": 4.26
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | Los 14 españoles que viajan en",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "sospechosos",
-          "score": -1
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "Un pasajero español en el ‘MV Hondius’: “Hay 23 personas que bajaron en la isla ",
@@ -136,8 +125,12 @@
     {
       "source": "El País",
       "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
-      "score": 5.0,
+      "score": 4.84,
       "words": [
+        {
+          "word": "duda",
+          "score": -1
+        },
         {
           "word": "asegura",
           "score": 2
@@ -177,31 +170,31 @@
     },
     {
       "source": "El País",
-      "title": "Sol, la ‘auctoritas’ del periodismo",
-      "score": 4.47,
+      "title": "Años con Sol",
+      "score": 6.6,
       "words": [
         {
           "word": "sol",
           "score": 2
-        },
-        {
-          "word": "rabia",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "España repatriará desde Canarias a los tripulantes del barco del hantavirus y at",
-      "score": 5.17,
+      "title": "España repatriará desde Canarias a los tripulantes del crucero del hantavirus y ",
+      "score": 5.1,
       "words": [
         {
           "word": "riesgo",
           "score": -2
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "afectado",
+          "score": -1
         },
         {
           "word": "riesgo",
@@ -210,68 +203,33 @@
         {
           "word": "grande",
           "score": 1
-        },
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "urgente",
-          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Clavijo advierte de que Canarias no cuenta con protocolos ni plazas para atender",
-      "score": 5.34,
+      "title": "De Patagonia a Canarias: cronología del crucero afectado por el brote de hantavi",
+      "score": 4.36,
       "words": [
         {
-          "word": "advierte",
-          "score": -2
+          "word": "afectado",
+          "score": -1
         },
         {
-          "word": "advierte",
-          "score": -2
+          "word": "afectado",
+          "score": -1
         },
         {
-          "word": "acuerdo",
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "paradas",
+          "score": -1
+        },
+        {
+          "word": "llegar",
           "score": 1
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "esperar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno afirma que está en contacto con Clavijo por el hantavirus y pide no ",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
         }
       ]
     },
@@ -304,28 +262,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "De Patagonia a Canarias: cronología del crucero afectado por el brote de hantavi",
-      "score": 4.36,
+      "title": "Clavijo advierte de que Canarias no cuenta con protocolos ni plazas para atender",
+      "score": 5.19,
       "words": [
         {
-          "word": "afectado",
-          "score": -1
+          "word": "advierte",
+          "score": -2
         },
         {
-          "word": "afectado",
-          "score": -1
+          "word": "advierte",
+          "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "paradas",
-          "score": -1
-        },
-        {
-          "word": "llegar",
+          "word": "acuerdo",
           "score": 1
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno afirma que está en contacto con Clavijo por el hantavirus y pide no ",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -385,37 +370,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Caso Aldama: 18 meses de una \"colaboración con la Justicia\" salpicada de bulos, ",
-      "score": 4.87,
+      "title": "El juez Peinado rechaza archivar el caso de Begoña Gómez e insiste en que la juz",
+      "score": 4.31,
       "words": [
         {
-          "word": "justicia",
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Ibex gana un 2,47% tras desplomarse el petróleo más de un 7% por el posible a",
+      "score": 5.63,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "optimismo",
           "score": 2
         },
         {
-          "word": "acusaciones",
-          "score": -2
+          "word": "euforia",
+          "score": 3
         },
         {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-24T05:32:35Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-04-24T07:58:57Z",
       "score": 4.76
@@ -1083,6 +1091,10 @@
     {
       "timestamp": "2026-05-06T14:02:58Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-05-06T16:25:15Z",
+      "score": 4.72
     }
   ]
 }

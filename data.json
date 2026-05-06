@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-06T16:25:15Z",
-  "global_score": 4.72,
-  "articles_scored": 94,
-  "words_matched": 222,
+  "generated": "2026-05-06T18:13:49Z",
+  "global_score": 4.77,
+  "articles_scored": 92,
+  "words_matched": 228,
   "top_negative": [
     {
       "word": "culo",
@@ -13,11 +13,11 @@
       "score": -4
     },
     {
-      "word": "crisis",
+      "word": "pierde",
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "crisis",
       "score": -3
     },
     {
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "cargado",
       "score": -3
     },
     {
-      "word": "culpa",
+      "word": "empeorar",
       "score": -3
     }
   ],
@@ -51,10 +51,6 @@
       "score": 3
     },
     {
-      "word": "cortés",
-      "score": 3
-    },
-    {
       "word": "celebrado",
       "score": 3
     },
@@ -63,28 +59,54 @@
       "score": 3
     },
     {
-      "word": "heroico",
+      "word": "excelente",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "cortés",
+      "score": 3
+    },
+    {
+      "word": "medalla",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.08,
-    "elDiario.es": 4.85,
-    "El Mundo": 5.01,
-    "ABC": 4.72,
-    "El Confidencial": 5.1,
-    "BBC Mundo": 4.73,
-    "France 24 ES": 4.7,
-    "La Nación AR": 4.57,
+    "El País": 4.41,
+    "elDiario.es": 4.7,
+    "El Mundo": 5.05,
+    "ABC": 5.48,
+    "El Confidencial": 4.89,
+    "BBC Mundo": 4.64,
+    "France 24 ES": 4.1,
+    "La Nación AR": 5.27,
     "La Jornada MX": 4.8,
-    "Desinformémonos": 4.25,
+    "Desinformémonos": 4.96,
     "Resumen Latinoam.": 4.26
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El crucero con los pasajeros confinados por hantavirus va rumbo a Canarias, mien",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "pierde",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del brote de hantavirus, en directo | Un fallo técnico obliga a dete",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "detener",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Un pasajero español en el ‘MV Hondius’: “Hay 23 personas que bajaron en la isla ",
@@ -99,15 +121,11 @@
     {
       "source": "El País",
       "title": "El hantavirus desata una guerra política entre el Gobierno y Canarias mientras C",
-      "score": 3.0,
+      "score": 3.4,
       "words": [
         {
           "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
         }
       ]
     },
@@ -125,27 +143,27 @@
     {
       "source": "El País",
       "title": "Primer juicio contra Ábalos, Koldo y Aldama por la trama de las mascarillas, en ",
-      "score": 4.84,
+      "score": 4.6,
       "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "pena",
+          "score": -2
+        },
         {
           "word": "duda",
           "score": -1
         },
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
           "word": "acusación",
           "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
         }
       ]
     },
@@ -164,17 +182,6 @@
         },
         {
           "word": "beneficios",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Años con Sol",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "sol",
           "score": 2
         }
       ]
@@ -262,6 +269,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Atrapados en el mar: ¿cómo se contiene un brote de hantavirus en un barco?",
+      "score": 4.34,
+      "words": [
+        {
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "enfermedad",
+          "score": -2
+        },
+        {
+          "word": "problema",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Clavijo advierte de que Canarias no cuenta con protocolos ni plazas para atender",
       "score": 5.19,
       "words": [
@@ -343,91 +377,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El fiscal defiende que es “posible” rebajar aún más la pena a Aldama pero sin ex",
-      "score": 5.07,
+      "title": "El abogado de Ábalos defiende la legalidad de los contratos de mascarillas y dic",
+      "score": 4.47,
       "words": [
         {
           "word": "pena",
           "score": -2
         },
         {
-          "word": "pena",
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "respalda",
+          "word": "apoyo",
           "score": 2
         },
         {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "pena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Peinado rechaza archivar el caso de Begoña Gómez e insiste en que la juz",
-      "score": 4.31,
-      "words": [
-        {
-          "word": "rechaza",
+          "word": "suspendido",
           "score": -1
         },
         {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Ibex gana un 2,47% tras desplomarse el petróleo más de un 7% por el posible a",
-      "score": 5.63,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "optimismo",
-          "score": 2
-        },
-        {
-          "word": "euforia",
-          "score": 3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
+          "word": "criminal",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-24T07:58:57Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-04-24T09:50:57Z",
       "score": 4.92
@@ -1095,6 +1071,10 @@
     {
       "timestamp": "2026-05-06T16:25:15Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-05-06T18:13:49Z",
+      "score": 4.77
     }
   ]
 }

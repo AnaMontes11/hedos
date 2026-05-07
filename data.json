@@ -1,11 +1,19 @@
 {
-  "generated": "2026-05-07T18:22:27Z",
-  "global_score": 4.63,
+  "generated": "2026-05-07T20:12:18Z",
+  "global_score": 4.57,
   "articles_scored": 96,
-  "words_matched": 272,
+  "words_matched": 293,
   "top_negative": [
     {
+      "word": "negro",
+      "score": -5
+    },
+    {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
@@ -27,14 +35,6 @@
     {
       "word": "peor",
       "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "retirada",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,23 +43,11 @@
       "score": 5
     },
     {
-      "word": "triunfo",
+      "word": "milagro",
       "score": 4
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
       "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "medalla",
       "score": 3
     },
     {
@@ -67,55 +55,67 @@
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "fascinante",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.21,
-    "elDiario.es": 4.87,
-    "El Mundo": 4.17,
-    "ABC": 5.22,
-    "El Confidencial": 4.92,
-    "BBC Mundo": 4.27,
-    "France 24 ES": 4.92,
-    "La Nación AR": 5.02,
+    "El País": 4.25,
+    "elDiario.es": 4.92,
+    "El Mundo": 3.97,
+    "ABC": 5.14,
+    "El Confidencial": 5.14,
+    "BBC Mundo": 4.18,
+    "France 24 ES": 4.61,
+    "La Nación AR": 4.67,
     "La Jornada MX": 5.03,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 3.95
+    "Resumen Latinoam.": 4.06
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora del brote de hantavirus, en directo | La OMS confirma que cinco de l",
-      "score": 5.53,
+      "score": 5.8,
       "words": [
         {
           "word": "positivo",
           "score": 2
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "tensión",
+          "score": -1
         },
         {
-          "word": "listo",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El PP aviva la guerra política por el hantavirus mientras Moncloa intenta rebaja",
-      "score": 5.4,
+      "title": "Sánchez y Clavijo rebajan la tensión por el hantavirus mientras Feijóo se lanza ",
+      "score": 5.0,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "tensión",
+          "score": -1
         },
         {
-          "word": "calmar",
-          "score": 3
+          "word": "tranquilizar",
+          "score": 1
         }
       ]
     },
@@ -166,21 +166,6 @@
     },
     {
       "source": "El País",
-      "title": "Un juez de Nueva York publica la supuesta nota de suicidio de Jeffrey Epstein",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "suicidio",
-          "score": -2
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Sheinbaum afirma que el homenaje de Díaz Ayuso a Hernán Cortés muestra su “ignor",
       "score": 5.0,
       "words": [
@@ -204,7 +189,7 @@
     },
     {
       "source": "El País",
-      "title": "El Madrid abre una investigación tras un nuevo incidente entre Tchouameni y Valv",
+      "title": "El Madrid abre expediente a Tchouameni y Valverde por la pelea que acabó con el ",
       "score": 4.2,
       "words": [
         {
@@ -215,16 +200,16 @@
     },
     {
       "source": "El País",
-      "title": "Moreno, sobre la prioridad nacional: “Es un eslogan hueco. El PP nunca va a vuln",
-      "score": 5.0,
+      "title": "Montero se examina de andaluz tras denunciar durante años la ridiculización de s",
+      "score": 4.6,
       "words": [
         {
-          "word": "cuidado",
-          "score": 2
+          "word": "denunciar",
+          "score": -2
         },
         {
-          "word": "lío",
-          "score": -2
+          "word": "proteger",
+          "score": 1
         }
       ]
     },
@@ -284,28 +269,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los científicos avalan que el barco del hantavirus atraque en España: es una dec",
-      "score": 4.79,
+      "title": "La empresa del crucero del hantavirus: \"Dadas las circunstancias a bordo, el amb",
+      "score": 5.34,
       "words": [
         {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "rechazar",
-          "score": -1
-        },
-        {
-          "word": "tipo",
+          "word": "positivo",
           "score": 2
         },
         {
-          "word": "miedo",
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "establecido",
+          "score": 1
+        },
+        {
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "choque",
-          "score": -2
+          "word": "unido",
+          "score": 1
         }
       ]
     },
@@ -365,37 +350,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno estalla contra Clavijo por la crisis del hantavirus: \"Esperábamos má",
-      "score": 4.69,
+      "title": "Los científicos avalan que el barco del hantavirus atraque en España: es una dec",
+      "score": 4.79,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "lealtad",
-          "score": 3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "lealtad",
-          "score": 3
-        },
-        {
-          "word": "afectado",
+          "word": "evitar",
           "score": -1
+        },
+        {
+          "word": "rechazar",
+          "score": -1
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La familia real de Emiratos Árabes ha recibido 71 millones en ayudas europeas po",
+      "score": 5.23,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-24T23:37:21Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-04-25T02:08:22Z",
       "score": 4.57
@@ -1063,6 +1071,10 @@
     {
       "timestamp": "2026-05-07T18:22:27Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-05-07T20:12:18Z",
+      "score": 4.57
     }
   ]
 }

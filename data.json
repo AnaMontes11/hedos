@@ -1,19 +1,11 @@
 {
-  "generated": "2026-05-07T16:47:05Z",
-  "global_score": 4.71,
-  "articles_scored": 92,
-  "words_matched": 264,
+  "generated": "2026-05-07T18:22:27Z",
+  "global_score": 4.63,
+  "articles_scored": 96,
+  "words_matched": 272,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraude",
       "score": -4
     },
     {
@@ -35,6 +27,14 @@
     {
       "word": "peor",
       "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "retirada",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -43,11 +43,11 @@
       "score": 5
     },
     {
-      "word": "premios",
-      "score": 3
+      "word": "triunfo",
+      "score": 4
     },
     {
-      "word": "celebra",
+      "word": "premios",
       "score": 3
     },
     {
@@ -55,34 +55,34 @@
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "fascinante",
+      "word": "medalla",
       "score": 3
     },
     {
-      "word": "vigilante",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "riqueza",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.48,
-    "elDiario.es": 4.95,
-    "El Mundo": 4.25,
-    "ABC": 5.17,
-    "El Confidencial": 4.52,
+    "El País": 4.21,
+    "elDiario.es": 4.87,
+    "El Mundo": 4.17,
+    "ABC": 5.22,
+    "El Confidencial": 4.92,
     "BBC Mundo": 4.27,
-    "France 24 ES": 5.2,
-    "La Nación AR": 5.37,
+    "France 24 ES": 4.92,
+    "La Nación AR": 5.02,
     "La Jornada MX": 5.03,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.28
+    "Resumen Latinoam.": 3.95
   },
   "articles": [
     {
@@ -216,11 +216,42 @@
     {
       "source": "El País",
       "title": "Moreno, sobre la prioridad nacional: “Es un eslogan hueco. El PP nunca va a vuln",
-      "score": 7.4,
+      "score": 5.0,
       "words": [
         {
-          "word": "popular",
-          "score": 3
+          "word": "cuidado",
+          "score": 2
+        },
+        {
+          "word": "lío",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno podrá obligar a una cuarentena a los 14 españoles del buque del hant",
+      "score": 4.81,
+      "words": [
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "restringir",
+          "score": -2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "imponer",
+          "score": -1
         }
       ]
     },
@@ -280,28 +311,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sanidad afirma que tiene “instrumentos legales” si los pasajeros del barco del h",
-      "score": 5.05,
+      "title": "El médico que rastreó el último gran brote de hantavirus en la Patagonia: “No ti",
+      "score": 5.16,
       "words": [
         {
-          "word": "sentido",
+          "word": "contagio",
+          "score": -2
+        },
+        {
+          "word": "enfermo",
+          "score": -2
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "mejor",
           "score": 3
         },
         {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "querer",
-          "score": 1
-        },
-        {
-          "word": "cuidado",
+          "word": "capacidad",
           "score": 2
-        },
-        {
-          "word": "proteger",
-          "score": 1
         }
       ]
     },
@@ -334,64 +365,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La empresa del crucero del hantavirus: \"Dadas las circunstancias a bordo, el amb",
-      "score": 5.34,
+      "title": "El Gobierno estalla contra Clavijo por la crisis del hantavirus: \"Esperábamos má",
+      "score": 4.69,
       "words": [
         {
-          "word": "positivo",
-          "score": 2
+          "word": "crisis",
+          "score": -3
         },
         {
-          "word": "positivo",
-          "score": 2
+          "word": "lealtad",
+          "score": 3
         },
         {
-          "word": "establecido",
-          "score": 1
+          "word": "crisis",
+          "score": -3
         },
         {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "unido",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El médico que rastreó el último gran brote de hantavirus en la Patagonia: “No ti",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "contagio",
-          "score": -2
-        },
-        {
-          "word": "enfermo",
-          "score": -2
+          "word": "lealtad",
+          "score": 3
         },
         {
           "word": "afectado",
           "score": -1
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "capacidad",
-          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-24T22:36:27Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-04-24T23:37:21Z",
       "score": 4.82
@@ -1059,6 +1059,10 @@
     {
       "timestamp": "2026-05-07T16:47:05Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-05-07T18:22:27Z",
+      "score": 4.63
     }
   ]
 }

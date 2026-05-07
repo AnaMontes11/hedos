@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-07T20:12:18Z",
-  "global_score": 4.57,
+  "generated": "2026-05-07T21:55:34Z",
+  "global_score": 4.71,
   "articles_scored": 96,
-  "words_matched": 293,
+  "words_matched": 286,
   "top_negative": [
     {
       "word": "negro",
@@ -13,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "violador",
       "score": -4
     },
     {
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "violencia",
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "delito",
       "score": -3
     }
   ],
@@ -47,19 +47,7 @@
       "score": 4
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "premios",
+      "word": "cortés",
       "score": 3
     },
     {
@@ -67,22 +55,34 @@
       "score": 3
     },
     {
-      "word": "fascinante",
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "excelente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.25,
-    "elDiario.es": 4.92,
-    "El Mundo": 3.97,
-    "ABC": 5.14,
+    "El País": 4.5,
+    "elDiario.es": 5.1,
+    "El Mundo": 4.05,
+    "ABC": 5.32,
     "El Confidencial": 5.14,
-    "BBC Mundo": 4.18,
-    "France 24 ES": 4.61,
-    "La Nación AR": 4.67,
+    "BBC Mundo": 3.82,
+    "France 24 ES": 4.5,
+    "La Nación AR": 5.76,
     "La Jornada MX": 5.03,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.06
+    "Resumen Latinoam.": 4.55
   },
   "articles": [
     {
@@ -166,24 +166,16 @@
     },
     {
       "source": "El País",
-      "title": "Sheinbaum afirma que el homenaje de Díaz Ayuso a Hernán Cortés muestra su “ignor",
+      "title": "El tribunal comercial falla en contra del arancel universal del 10% aprobado por",
       "score": 5.0,
       "words": [
         {
-          "word": "homenaje",
-          "score": 2
-        },
-        {
-          "word": "cortés",
-          "score": 3
-        },
-        {
-          "word": "ignorancia",
+          "word": "falla",
           "score": -2
         },
         {
-          "word": "violencia",
-          "score": -3
+          "word": "aprobado",
+          "score": 2
         }
       ]
     },
@@ -200,16 +192,12 @@
     },
     {
       "source": "El País",
-      "title": "Montero se examina de andaluz tras denunciar durante años la ridiculización de s",
-      "score": 4.6,
+      "title": "Real Madrid: del poder de la amistad al poder de la pelea y las filtraciones",
+      "score": 6.6,
       "words": [
         {
-          "word": "denunciar",
-          "score": -2
-        },
-        {
-          "word": "proteger",
-          "score": 1
+          "word": "favor",
+          "score": 2
         }
       ]
     },
@@ -404,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-25T02:08:22Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-04-25T05:09:22Z",
       "score": 4.68
@@ -1075,6 +1059,10 @@
     {
       "timestamp": "2026-05-07T20:12:18Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-05-07T21:55:34Z",
+      "score": 4.71
     }
   ]
 }

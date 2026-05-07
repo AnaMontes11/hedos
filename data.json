@@ -1,15 +1,11 @@
 {
-  "generated": "2026-05-07T09:29:08Z",
-  "global_score": 4.63,
-  "articles_scored": 93,
-  "words_matched": 267,
+  "generated": "2026-05-07T11:45:06Z",
+  "global_score": 4.56,
+  "articles_scored": 91,
+  "words_matched": 262,
   "top_negative": [
     {
       "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "perras",
       "score": -5
     },
     {
@@ -25,11 +21,15 @@
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "criminal",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "víctima",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     },
     {
@@ -39,8 +39,8 @@
   ],
   "top_positive": [
     {
-      "word": "alegría",
-      "score": 4
+      "word": "excepcional",
+      "score": 5
     },
     {
       "word": "cortés",
@@ -59,32 +59,43 @@
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
       "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "fascinante",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.37,
-    "elDiario.es": 4.72,
-    "El Mundo": 3.96,
-    "ABC": 4.65,
-    "El Confidencial": 4.41,
-    "BBC Mundo": 4.19,
+    "El País": 3.8,
+    "elDiario.es": 4.71,
+    "El Mundo": 4.07,
+    "ABC": 5.26,
+    "El Confidencial": 4.31,
+    "BBC Mundo": 4.3,
     "France 24 ES": 4.46,
-    "La Nación AR": 5.51,
+    "La Nación AR": 4.15,
     "La Jornada MX": 4.8,
     "Desinformémonos": 4.96,
-    "Resumen Latinoam.": 4.96
+    "Resumen Latinoam.": 5.07
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora del brote de hantavirus, en directo | La compañía del crucero eleva ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "bloquear",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Los pasajeros rastrean el origen del brote de hantavirus: “Aquí se dice que es p",
@@ -121,17 +132,6 @@
     },
     {
       "source": "El País",
-      "title": "Última hora del brote de Hantavirus, en directo | Sanidad y Defensa discrepan so",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "obligatorio",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Un juez de Nueva York publica la supuesta nota de suicidio de Jeffrey Epstein",
       "score": 3.4,
       "words": [
@@ -158,34 +158,30 @@
     },
     {
       "source": "El País",
-      "title": "Sol, Soledad, Sol",
-      "score": 6.6,
+      "title": "El juicio de las mascarillas, visto para sentencia: la Fiscalía da por probada u",
+      "score": 2.87,
       "words": [
         {
-          "word": "sol",
-          "score": 2
+          "word": "sentencia",
+          "score": -2
         },
         {
-          "word": "sol",
-          "score": 2
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "víctima",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "“ChatGPT, ¿a cuánta gente tengo que asesinar para hacerme famoso?”",
-      "score": 3.67,
+      "title": "Sergio Ramírez, candidato a la silla de la RAE que dejó vacante Vargas Llosa",
+      "score": 3.4,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "daño",
+          "word": "autores",
           "score": -2
         }
       ]
@@ -273,6 +269,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Gobierno estalla contra Clavijo por la crisis del hantavirus: \"Esperábamos má",
+      "score": 4.69,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "lealtad",
+          "score": 3
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "lealtad",
+          "score": 3
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Repatriación, aislamiento y cuarentena: así será el protocolo para los pasajeros",
       "score": 4.68,
       "words": [
@@ -300,28 +323,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno estalla contra Clavijo por la crisis del hantavirus: \"Esperábamos má",
-      "score": 4.69,
+      "title": "El médico que rastreó el último gran brote de hantavirus en la Patagonia: “No ti",
+      "score": 5.2,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
+          "word": "contagio",
+          "score": -2
         },
         {
-          "word": "lealtad",
-          "score": 3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "lealtad",
-          "score": 3
+          "word": "enfermo",
+          "score": -2
         },
         {
           "word": "afectado",
           "score": -1
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "capacidad",
+          "score": 2
         }
       ]
     },
@@ -354,64 +377,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Supremo solicita a la Fiscalía su informe sobre el posible indulto a García O",
-      "score": 4.36,
+      "title": "El voto de la tránsfuga María Reigosa convierte a Elena Candia en la primera alc",
+      "score": 4.24,
       "words": [
         {
-          "word": "condena",
+          "word": "golpe",
           "score": -2
         },
         {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "condena",
+          "word": "dolor",
           "score": -2
         },
         {
-          "word": "pena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "“Si te van a matar, no te suicides”",
-      "score": 4.55,
-      "words": [
-        {
-          "word": "matar",
-          "score": -3
-        },
-        {
-          "word": "matar",
-          "score": -3
-        },
-        {
-          "word": "vigilante",
-          "score": 3
-        },
-        {
-          "word": "crítica",
+          "word": "ausencia",
           "score": -2
         },
         {
-          "word": "sol",
-          "score": 2
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "incapaz",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-24T19:50:33Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-04-24T20:42:56Z",
       "score": 4.66
@@ -1079,6 +1071,10 @@
     {
       "timestamp": "2026-05-07T09:29:08Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-05-07T11:45:06Z",
+      "score": 4.56
     }
   ]
 }

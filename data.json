@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-07T14:00:58Z",
-  "global_score": 4.62,
-  "articles_scored": 97,
-  "words_matched": 263,
+  "generated": "2026-05-07T16:47:05Z",
+  "global_score": 4.71,
+  "articles_scored": 92,
+  "words_matched": 264,
   "top_negative": [
     {
       "word": "negro",
@@ -17,23 +17,23 @@
       "score": -4
     },
     {
-      "word": "mal",
-      "score": -3
+      "word": "tortura",
+      "score": -4
     },
     {
       "word": "crisis",
       "score": -3
     },
     {
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "violencia",
+      "score": -3
+    },
+    {
       "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "retirada",
       "score": -3
     }
   ],
@@ -47,11 +47,7 @@
       "score": 3
     },
     {
-      "word": "cortés",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "celebra",
       "score": 3
     },
     {
@@ -59,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -69,49 +65,72 @@
     {
       "word": "fascinante",
       "score": 3
+    },
+    {
+      "word": "vigilante",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.72,
-    "elDiario.es": 4.82,
-    "El Mundo": 4.19,
-    "ABC": 5.31,
+    "El País": 4.48,
+    "elDiario.es": 4.95,
+    "El Mundo": 4.25,
+    "ABC": 5.17,
     "El Confidencial": 4.52,
-    "BBC Mundo": 4.3,
-    "France 24 ES": 4.46,
-    "La Nación AR": 4.55,
+    "BBC Mundo": 4.27,
+    "France 24 ES": 5.2,
+    "La Nación AR": 5.37,
     "La Jornada MX": 5.03,
-    "Desinformémonos": 4.96,
-    "Resumen Latinoam.": 3.98
+    "Desinformémonos": 4.44,
+    "Resumen Latinoam.": 4.28
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | La OMS eleva a cinco los casos",
-      "score": 6.6,
+      "title": "Última hora del brote de hantavirus, en directo | La OMS confirma que cinco de l",
+      "score": 5.53,
       "words": [
+        {
+          "word": "positivo",
+          "score": 2
+        },
         {
           "word": "asegura",
           "score": 2
+        },
+        {
+          "word": "listo",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El PP aviva la guerra política por el hantavirus: “Esto es un caos absoluto”",
-      "score": 3.67,
+      "title": "El PP aviva la guerra política por el hantavirus mientras Moncloa intenta rebaja",
+      "score": 5.4,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "caos",
+          "word": "calmar",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Todas las diferencias entre el Hantavirus y el Coronavirus",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "tensión",
-          "score": -1
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
@@ -162,27 +181,35 @@
     },
     {
       "source": "El País",
-      "title": "El equipo de Ayuso se ve obligado a defender a la presidenta durante un boicot a",
-      "score": 5.8,
+      "title": "Sheinbaum afirma que el homenaje de Díaz Ayuso a Hernán Cortés muestra su “ignor",
+      "score": 5.0,
       "words": [
         {
-          "word": "obligado",
-          "score": 1
+          "word": "homenaje",
+          "score": 2
+        },
+        {
+          "word": "cortés",
+          "score": 3
+        },
+        {
+          "word": "ignorancia",
+          "score": -2
+        },
+        {
+          "word": "violencia",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las tensiones internas agrietan al Real Madrid a tres días del clásico",
-      "score": 3.4,
+      "title": "El Madrid abre una investigación tras un nuevo incidente entre Tchouameni y Valv",
+      "score": 4.2,
       "words": [
         {
-          "word": "disputas",
-          "score": -2
-        },
-        {
-          "word": "daño",
-          "score": -2
+          "word": "tensión",
+          "score": -1
         }
       ]
     },
@@ -198,13 +225,29 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Moreno arrolla a Vox incluso en el voto joven y el campo, los puntos fuertes de ",
-      "score": 5.8,
+      "source": "elDiario.es",
+      "title": "La OMS indica que “es posible que haya más casos” de hantavirus en el barco pero",
+      "score": 4.92,
       "words": [
         {
-          "word": "llegar",
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "proteger",
           "score": 1
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "capacidad",
+          "score": 2
         }
       ]
     },
@@ -232,33 +275,6 @@
         {
           "word": "choque",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "De Patagonia a Canarias: cronología del crucero afectado por el brote de hantavi",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "afectado",
-          "score": -1
-        },
-        {
-          "word": "afectado",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "paradas",
-          "score": -1
-        },
-        {
-          "word": "llegar",
-          "score": 1
         }
       ]
     },
@@ -318,64 +334,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Repatriación, aislamiento y cuarentena: así será el protocolo para los pasajeros",
-      "score": 4.68,
+      "title": "La empresa del crucero del hantavirus: \"Dadas las circunstancias a bordo, el amb",
+      "score": 5.34,
       "words": [
         {
-          "word": "apoyo",
+          "word": "positivo",
           "score": 2
         },
         {
-          "word": "afectado",
-          "score": -1
+          "word": "positivo",
+          "score": 2
         },
         {
-          "word": "enfermedades",
+          "word": "establecido",
+          "score": 1
+        },
+        {
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "aceptado",
-          "score": -1
-        },
-        {
-          "word": "sospechosos",
-          "score": -1
+          "word": "unido",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno estalla contra Clavijo por la crisis del hantavirus: \"Esperábamos má",
-      "score": 4.69,
+      "title": "El médico que rastreó el último gran brote de hantavirus en la Patagonia: “No ti",
+      "score": 5.2,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
+          "word": "contagio",
+          "score": -2
         },
         {
-          "word": "lealtad",
-          "score": 3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "lealtad",
-          "score": 3
+          "word": "enfermo",
+          "score": -2
         },
         {
           "word": "afectado",
           "score": -1
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "capacidad",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-24T21:44:21Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-04-24T22:36:27Z",
       "score": 4.57
@@ -1043,6 +1055,10 @@
     {
       "timestamp": "2026-05-07T14:00:58Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-05-07T16:47:05Z",
+      "score": 4.71
     }
   ]
 }

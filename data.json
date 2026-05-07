@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-07T21:55:34Z",
-  "global_score": 4.71,
-  "articles_scored": 96,
-  "words_matched": 286,
+  "generated": "2026-05-07T22:59:16Z",
+  "global_score": 4.66,
+  "articles_scored": 93,
+  "words_matched": 285,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "violador",
+      "score": -4
+    },
+    {
+      "word": "violación",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "peor",
       "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -44,6 +44,10 @@
     },
     {
       "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "ganador",
       "score": 4
     },
     {
@@ -65,26 +69,37 @@
     {
       "word": "celebrado",
       "score": 3
-    },
-    {
-      "word": "excelente",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.5,
-    "elDiario.es": 5.1,
+    "El País": 4.2,
+    "elDiario.es": 5.05,
     "El Mundo": 4.05,
-    "ABC": 5.32,
+    "ABC": 5.56,
     "El Confidencial": 5.14,
-    "BBC Mundo": 3.82,
-    "France 24 ES": 4.5,
-    "La Nación AR": 5.76,
+    "BBC Mundo": 3.83,
+    "France 24 ES": 4.36,
+    "La Nación AR": 5.3,
     "La Jornada MX": 5.03,
     "Desinformémonos": 4.44,
     "Resumen Latinoam.": 4.55
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El tribunal comercial de Estados Unidos falla en contra del arancel universal de",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "falla",
+          "score": -2
+        },
+        {
+          "word": "aprobado",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Última hora del brote de hantavirus, en directo | La OMS confirma que cinco de l",
@@ -166,38 +181,12 @@
     },
     {
       "source": "El País",
-      "title": "El tribunal comercial falla en contra del arancel universal del 10% aprobado por",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "aprobado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El Madrid abre expediente a Tchouameni y Valverde por la pelea que acabó con el ",
       "score": 4.2,
       "words": [
         {
           "word": "tensión",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Real Madrid: del poder de la amistad al poder de la pelea y las filtraciones",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "favor",
-          "score": 2
         }
       ]
     },
@@ -365,6 +354,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "EEUU e Irán intercambian ataques en Ormuz en medio de una frágil tregua mientras",
+      "score": 4.67,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La familia real de Emiratos Árabes ha recibido 71 millones en ayudas europeas po",
       "score": 5.23,
       "words": [
@@ -392,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-25T05:09:22Z",
-      "score": 4.68
-    },
     {
       "timestamp": "2026-04-25T07:11:21Z",
       "score": 4.77
@@ -1063,6 +1075,10 @@
     {
       "timestamp": "2026-05-07T21:55:34Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-05-07T22:59:16Z",
+      "score": 4.66
     }
   ]
 }

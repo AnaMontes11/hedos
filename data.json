@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-08T10:21:55Z",
-  "global_score": 4.52,
-  "articles_scored": 96,
-  "words_matched": 318,
+  "generated": "2026-05-08T12:06:30Z",
+  "global_score": 4.57,
+  "articles_scored": 95,
+  "words_matched": 260,
   "top_negative": [
     {
       "word": "culo",
@@ -13,15 +13,15 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
       "word": "crisis",
       "score": -3
     },
     {
       "word": "pánico",
+      "score": -3
+    },
+    {
+      "word": "mal",
       "score": -3
     },
     {
@@ -43,8 +43,8 @@
       "score": 5
     },
     {
-      "word": "ganar",
-      "score": 4
+      "word": "premios",
+      "score": 3
     },
     {
       "word": "premio",
@@ -55,47 +55,36 @@
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "impresionante",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "ventilador",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.08,
-    "elDiario.es": 4.82,
-    "El Mundo": 4.26,
-    "ABC": 5.21,
-    "El Confidencial": 4.2,
-    "BBC Mundo": 3.84,
+    "El País": 4.28,
+    "elDiario.es": 4.92,
+    "El Mundo": 4.25,
+    "ABC": 5.34,
+    "El Confidencial": 4.58,
+    "BBC Mundo": 4.13,
     "France 24 ES": 4.43,
-    "La Nación AR": 5.13,
+    "La Nación AR": 4.95,
     "La Jornada MX": 5.03,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.11
+    "Resumen Latinoam.": 4.13
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "Fondeo inédito en Tenerife, lanchas y negociaciones con 22 países: la difícil vu",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "difícil",
-          "score": -2
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "Última hora del brote de hantavirus, en directo | Sanidad asegura que ningún pas",
@@ -107,6 +96,32 @@
         },
         {
           "word": "negativo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El presidente de Puertos de Tenerife, sobre la evacuación del crucero con el bro",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "perfectamente",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Fondeo inédito en Tenerife, lanchas y negociaciones con 22 países: la difícil vu",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "difícil",
           "score": -2
         }
       ]
@@ -229,17 +244,56 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Real Madrid: del poder de la amistad al club de la lucha y las filtraciones",
-      "score": 5.0,
+      "source": "elDiario.es",
+      "title": "Sanidad dice que ningún pasajero español ha manifestado oposición a la cuarenten",
+      "score": 5.19,
       "words": [
         {
-          "word": "lucha",
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "problema",
           "score": -2
         },
         {
-          "word": "favor",
+          "word": "asegurado",
           "score": 2
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Investigaciones, rastreos y aislamientos: cómo están actuando otros países ante ",
+      "score": 4.67,
+      "words": [
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "contagios",
+          "score": -2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "paradas",
+          "score": -1
         }
       ]
     },
@@ -272,28 +326,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno podrá obligar a una cuarentena a los 14 españoles del buque del hant",
-      "score": 4.83,
+      "title": "Clavijo insiste en criticar la llegada del crucero con hantavirus: \"Cuando baje ",
+      "score": 5.86,
       "words": [
         {
-          "word": "restringir",
+          "word": "criticar",
           "score": -2
         },
         {
-          "word": "emergencia",
+          "word": "criticar",
           "score": -2
         },
         {
-          "word": "legal",
-          "score": 1
+          "word": "sentido",
+          "score": 3
         },
         {
-          "word": "imponer",
-          "score": -1
+          "word": "importante",
+          "score": 2
         },
         {
-          "word": "obligatorio",
-          "score": -1
+          "word": "esperando",
+          "score": 2
         }
       ]
     },
@@ -323,67 +377,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Pedro Gullón: \"Hay mucha épica en la historia, pero el riesgo de transmisión del",
-      "score": 4.41,
-      "words": [
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "negativo",
-          "score": -2
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "tranquiliza",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Investigaciones, rastreos y aislamientos: cómo están actuando otros países ante ",
-      "score": 4.67,
-      "words": [
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "contagios",
-          "score": -2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "paradas",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-25T12:58:56Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-04-25T14:05:00Z",
       "score": 4.49
@@ -1051,6 +1047,10 @@
     {
       "timestamp": "2026-05-08T10:21:55Z",
       "score": 4.52
+    },
+    {
+      "timestamp": "2026-05-08T12:06:30Z",
+      "score": 4.57
     }
   ]
 }

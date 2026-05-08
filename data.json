@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-07T22:59:16Z",
+  "generated": "2026-05-08T00:00:57Z",
   "global_score": 4.66,
   "articles_scored": 93,
-  "words_matched": 285,
+  "words_matched": 288,
   "top_negative": [
     {
       "word": "negro",
@@ -10,10 +10,6 @@
     },
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "violador",
       "score": -4
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "peor",
       "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -43,15 +43,23 @@
       "score": 5
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
       "word": "ganador",
       "score": 4
     },
     {
+      "word": "premios",
+      "score": 3
+    },
+    {
       "word": "cortés",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -59,32 +67,51 @@
       "score": 3
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "excelente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.2,
+    "El País": 4.26,
     "elDiario.es": 5.05,
-    "El Mundo": 4.05,
-    "ABC": 5.56,
+    "El Mundo": 4.35,
+    "ABC": 4.96,
     "El Confidencial": 5.14,
-    "BBC Mundo": 3.83,
-    "France 24 ES": 4.36,
-    "La Nación AR": 5.3,
+    "BBC Mundo": 3.91,
+    "France 24 ES": 4.35,
+    "La Nación AR": 5.0,
     "La Jornada MX": 5.03,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.55
+    "Resumen Latinoam.": 4.72
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Estados Unidos e Irán intercambian fuego en Ormuz en uno de los  incidentes más ",
+      "score": 4.66,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "rápido",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El tribunal comercial de Estados Unidos falla en contra del arancel universal de",
@@ -378,40 +405,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La familia real de Emiratos Árabes ha recibido 71 millones en ayudas europeas po",
-      "score": 5.23,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-25T07:11:21Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-04-25T08:49:22Z",
       "score": 4.56
@@ -1078,6 +1074,10 @@
     },
     {
       "timestamp": "2026-05-07T22:59:16Z",
+      "score": 4.66
+    },
+    {
+      "timestamp": "2026-05-08T00:00:57Z",
       "score": 4.66
     }
   ]

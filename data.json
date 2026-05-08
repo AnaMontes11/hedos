@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-08T00:00:57Z",
-  "global_score": 4.66,
-  "articles_scored": 93,
-  "words_matched": 288,
+  "generated": "2026-05-08T04:14:27Z",
+  "global_score": 4.68,
+  "articles_scored": 96,
+  "words_matched": 325,
   "top_negative": [
     {
       "word": "negro",
@@ -10,10 +10,6 @@
     },
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -25,15 +21,19 @@
       "score": -3
     },
     {
+      "word": "pánico",
+      "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
       "word": "mal",
       "score": -3
     },
     {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "delito",
+      "word": "preocupado",
       "score": -3
     }
   ],
@@ -43,11 +43,19 @@
       "score": 5
     },
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "ganador",
       "score": 4
     },
     {
-      "word": "premios",
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "premio",
       "score": 3
     },
     {
@@ -55,134 +63,46 @@
       "score": 3
     },
     {
+      "word": "celebrando",
+      "score": 3
+    },
+    {
       "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "excelente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.26,
-    "elDiario.es": 5.05,
+    "El País": 4.48,
+    "elDiario.es": 4.82,
     "El Mundo": 4.35,
     "ABC": 4.96,
-    "El Confidencial": 5.14,
-    "BBC Mundo": 3.91,
-    "France 24 ES": 4.35,
-    "La Nación AR": 5.0,
+    "El Confidencial": 5.17,
+    "BBC Mundo": 3.85,
+    "France 24 ES": 4.76,
+    "La Nación AR": 4.86,
     "La Jornada MX": 5.03,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.72
+    "Resumen Latinoam.": 4.6
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Estados Unidos e Irán intercambian fuego en Ormuz en uno de los  incidentes más ",
-      "score": 4.66,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "duro",
-          "score": -2
-        },
-        {
-          "word": "rápido",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El tribunal comercial de Estados Unidos falla en contra del arancel universal de",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "aprobado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | La OMS confirma que cinco de l",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sánchez y Clavijo rebajan la tensión por el hantavirus mientras Feijóo se lanza ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "tranquilizar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Todas las diferencias entre el Hantavirus y el Coronavirus",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un brote de 2018 en un cumpleaños con 11 muertos muestra que el hantavirus de lo",
+      "title": "Fondeo inédito en Tenerife, lanchas y negociaciones con 22 países: la difícil vu",
       "score": 3.4,
       "words": [
         {
-          "word": "solo",
+          "word": "difícil",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Gustavo Palacios, experto en hantavirus: “Este patógeno es más virulento y puede",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "virulento",
           "score": -2
         },
         {
@@ -193,16 +113,92 @@
     },
     {
       "source": "El País",
-      "title": "Los pasajeros rastrean el origen del brote de hantavirus: “Aquí se dice que es p",
-      "score": 3.0,
+      "title": "El hantavirus despierta viejos bulos y teorías conspiranoicas: ni es una nueva p",
+      "score": 2.87,
       "words": [
         {
-          "word": "contagio",
+          "word": "desinformación",
           "score": -2
         },
         {
-          "word": "mal",
+          "word": "crisis",
           "score": -3
+        },
+        {
+          "word": "pánico",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los acreedores de las renovables extienden la amenaza de embargo a la selección ",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "bloquear",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "En jet hasta la puerta del coto de caza: el “lujo a todo trapo” impulsa el sexto",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "mancha",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El año turbulento de Fede Valverde: de la huelga de brazos caídos en Kazajistán ",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "huelga",
+          "score": -1
+        },
+        {
+          "word": "choque",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Valverde niega haberse pegado con Tchouameni, pide perdón y señala al vestuario:",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "perdón",
+          "score": 2
+        },
+        {
+          "word": "rápido",
+          "score": 2
+        },
+        {
+          "word": "accidentalmente",
+          "score": -2
         }
       ]
     },
@@ -214,6 +210,55 @@
         {
           "word": "tensión",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Real Madrid: del poder de la amistad al poder de la pelea y las filtraciones",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "favor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Eric Clapton ofrece un buen concierto en Madrid que se empaña al final por un in",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "seguidor",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "23 países coordinados por la UE y la OMS: un dispositivo sin precedentes para ev",
+      "score": 4.86,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "preparado",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
@@ -246,172 +291,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La OMS indica que “es posible que haya más casos” de hantavirus en el barco pero",
-      "score": 4.92,
+      "title": "Cómo es el muelle de Granadilla, un puerto fallido de 200 millones en el que fon",
+      "score": 5.05,
       "words": [
         {
-          "word": "riesgo",
+          "word": "inútil",
           "score": -2
         },
         {
-          "word": "riesgo",
+          "word": "aclara",
+          "score": 2
+        },
+        {
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "proteger",
-          "score": 1
+          "word": "crecimiento",
+          "score": 2
         },
         {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "capacidad",
+          "word": "fuerte",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La empresa del crucero del hantavirus: \"Dadas las circunstancias a bordo, el amb",
-      "score": 5.34,
+      "title": "Pedro Gullón: \"Hay mucha épica en la historia, pero el riesgo de transmisión del",
+      "score": 4.44,
       "words": [
         {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "establecido",
-          "score": 1
+          "word": "riesgo",
+          "score": -2
         },
         {
           "word": "riesgo",
           "score": -2
         },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "tranquiliza",
+          "score": 1
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Investigaciones, rastreos y aislamientos: cómo están actuando otros países ante ",
+      "score": 4.68,
+      "words": [
         {
           "word": "unido",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El médico que rastreó el último gran brote de hantavirus en la Patagonia: “No ti",
-      "score": 5.16,
-      "words": [
-        {
-          "word": "contagio",
-          "score": -2
         },
-        {
-          "word": "enfermo",
-          "score": -2
-        },
-        {
-          "word": "afectado",
-          "score": -1
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Clavijo aclara que el barco del hantavirus solo fondeará en Granadilla y que la ",
-      "score": 5.41,
-      "words": [
-        {
-          "word": "aclara",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "aclara",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los científicos avalan que el barco del hantavirus atraque en España: es una dec",
-      "score": 4.79,
-      "words": [
         {
           "word": "evitar",
           "score": -1
         },
         {
-          "word": "rechazar",
-          "score": -1
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "miedo",
+          "word": "contagios",
           "score": -2
         },
         {
-          "word": "choque",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU e Irán intercambian ataques en Ormuz en medio de una frágil tregua mientras",
-      "score": 4.67,
-      "words": [
-        {
-          "word": "ataques",
+          "word": "paradas",
           "score": -1
         },
         {
-          "word": "amenazas",
+          "word": "contagios",
           "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-25T08:49:22Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-04-25T09:50:15Z",
       "score": 4.55
@@ -1079,6 +1039,10 @@
     {
       "timestamp": "2026-05-08T00:00:57Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-05-08T04:14:27Z",
+      "score": 4.68
     }
   ]
 }

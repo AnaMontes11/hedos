@@ -1,16 +1,12 @@
 {
-  "generated": "2026-05-09T10:03:20Z",
-  "global_score": 4.87,
-  "articles_scored": 90,
-  "words_matched": 248,
+  "generated": "2026-05-09T11:49:34Z",
+  "global_score": 4.88,
+  "articles_scored": 91,
+  "words_matched": 205,
   "top_negative": [
     {
       "word": "perra",
       "score": -5
-    },
-    {
-      "word": "culo",
-      "score": -4
     },
     {
       "word": "tortura",
@@ -21,7 +17,7 @@
       "score": -3
     },
     {
-      "word": "empeorar",
+      "word": "vil",
       "score": -3
     },
     {
@@ -29,11 +25,15 @@
       "score": -3
     },
     {
+      "word": "empeorar",
+      "score": -3
+    },
+    {
       "word": "mal",
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "murió",
       "score": -3
     }
   ],
@@ -47,6 +47,10 @@
       "score": 4
     },
     {
+      "word": "alegría",
+      "score": 4
+    },
+    {
       "word": "galardonado",
       "score": 3
     },
@@ -55,31 +59,27 @@
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "perfecto",
-      "score": 3
-    },
-    {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.88,
-    "elDiario.es": 4.89,
-    "El Mundo": 4.76,
-    "ABC": 4.7,
-    "El Confidencial": 5.43,
-    "BBC Mundo": 4.94,
+    "El País": 4.56,
+    "elDiario.es": 4.98,
+    "El Mundo": 4.17,
+    "ABC": 5.38,
+    "El Confidencial": 5.06,
+    "BBC Mundo": 4.86,
     "France 24 ES": 4.33,
-    "La Nación AR": 5.01,
+    "La Nación AR": 5.74,
     "La Jornada MX": 4.9,
     "Desinformémonos": 4.49,
     "Resumen Latinoam.": 5.48
@@ -87,26 +87,34 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Tenerife se prepara para la llegada del crucero con un brote de hantavirus: “Me ",
-      "score": 3.4,
+      "title": "Última hora del brote de hantavirus, en directo | Marlaska asegura que el crucer",
+      "score": 4.47,
       "words": [
         {
-          "word": "pena",
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
           "score": -2
         },
         {
-          "word": "miedo",
+          "word": "riesgo",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | Los ministros de Sanidad e Int",
-      "score": 5.8,
+      "title": "Un juez autoriza el confinamiento obligatorio de los españoles del barco del han",
+      "score": 5.0,
       "words": [
         {
-          "word": "grande",
+          "word": "obligatorio",
+          "score": -1
+        },
+        {
+          "word": "concedido",
           "score": 1
         }
       ]
@@ -119,6 +127,21 @@
         {
           "word": "tranquilo",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Tenerife se prepara para la llegada del crucero con un brote de hantavirus: “Me ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "miedo",
+          "score": -2
         }
       ]
     },
@@ -191,43 +214,82 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Pilar Manchón, encargada de la IA de Google: “En Andalucía tenemos una cultura d",
-      "score": 6.2,
+      "source": "elDiario.es",
+      "title": "El MV Hondius llegará entre las 4 y las 6 de la madrugada al puerto de Granadill",
+      "score": 5.67,
       "words": [
         {
-          "word": "responsable",
+          "word": "riesgos",
+          "score": -2
+        },
+        {
+          "word": "justicia",
           "score": 2
         },
         {
-          "word": "innovación",
+          "word": "obligado",
           "score": 1
+        },
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "confiado",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "'Odisea Atlántica': el crucero de lujo que terminó en una crisis sanitaria inter",
-      "score": 4.22,
+      "title": "El operativo del hantavirus, paso a paso: zodiacs y autobuses para evacuar a tod",
+      "score": 5.56,
       "words": [
         {
-          "word": "crisis",
+          "word": "vil",
           "score": -3
         },
         {
-          "word": "crisis",
-          "score": -3
+          "word": "llegar",
+          "score": 1
         },
         {
-          "word": "evitar",
-          "score": -1
+          "word": "autoridad",
+          "score": 1
         },
         {
-          "word": "afectado",
-          "score": -1
+          "word": "estimado",
+          "score": 2
         },
         {
-          "word": "disputa",
+          "word": "seguro",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Justicia ratifica la imposición de una cuarentena a los pasajeros del MV Hond",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "contagio",
           "score": -2
         }
       ]
@@ -261,55 +323,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Hantavirus contra coronavirus: cinco razones claras por las que este brote no es",
-      "score": 4.95,
+      "title": "Los 30 de Santa Elena: de dónde son los pasajeros que bajaron del barco del hant",
+      "score": 4.68,
       "words": [
         {
-          "word": "dudas",
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "contagio",
-          "score": -2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "contagio",
-          "score": -2
-        },
-        {
-          "word": "urgente",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cómo es el Colilargo, el ratón silvestre que transmite la cepa del hantavirus de",
-      "score": 5.16,
-      "words": [
-        {
-          "word": "claro",
+          "word": "unido",
           "score": 1
         },
         {
-          "word": "responsable",
+          "word": "sospechosos",
+          "score": -1
+        },
+        {
+          "word": "recomendado",
           "score": 2
         },
         {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "evitar",
-          "score": -1
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
@@ -342,19 +377,19 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Virginia Barcones, directora de Protección Civil: “Con las medidas adoptadas no ",
-      "score": 5.0,
+      "title": "'Odisea Atlántica': el crucero de lujo que terminó en una crisis sanitaria inter",
+      "score": 4.22,
       "words": [
         {
-          "word": "contagio",
-          "score": -2
+          "word": "crisis",
+          "score": -3
         },
         {
-          "word": "contagio",
-          "score": -2
+          "word": "crisis",
+          "score": -3
         },
         {
-          "word": "imponente",
+          "word": "evitar",
           "score": -1
         },
         {
@@ -362,44 +397,13 @@
           "score": -1
         },
         {
-          "word": "afectado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los 30 de Santa Elena: de dónde son los pasajeros que bajaron del barco del hant",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "sospechosos",
-          "score": -1
-        },
-        {
-          "word": "recomendado",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
+          "word": "disputa",
           "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-26T05:36:56Z",
-      "score": 4.46
-    },
     {
       "timestamp": "2026-04-26T07:25:10Z",
       "score": 4.55
@@ -1067,6 +1071,10 @@
     {
       "timestamp": "2026-05-09T10:03:20Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-05-09T11:49:34Z",
+      "score": 4.88
     }
   ]
 }

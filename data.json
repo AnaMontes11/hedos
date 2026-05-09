@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-09T13:11:42Z",
-  "global_score": 4.72,
-  "articles_scored": 91,
-  "words_matched": 207,
+  "generated": "2026-05-09T14:48:13Z",
+  "global_score": 4.81,
+  "articles_scored": 96,
+  "words_matched": 208,
   "top_negative": [
     {
       "word": "mierda",
@@ -47,6 +47,10 @@
       "score": 4
     },
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "triunfo",
       "score": 4
     },
@@ -55,15 +59,11 @@
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "lealtad",
+      "word": "riqueza",
       "score": 3
     },
     {
@@ -72,23 +72,42 @@
     }
   ],
   "per_source": {
-    "El País": 4.4,
+    "El País": 4.13,
     "elDiario.es": 5.04,
     "El Mundo": 4.48,
-    "ABC": 5.15,
+    "ABC": 5.84,
     "El Confidencial": 4.8,
-    "BBC Mundo": 4.51,
-    "France 24 ES": 4.11,
-    "La Nación AR": 4.4,
+    "BBC Mundo": 4.8,
+    "France 24 ES": 4.27,
+    "La Nación AR": 5.14,
     "La Jornada MX": 4.91,
-    "Desinformémonos": 4.49,
-    "Resumen Latinoam.": 5.48
+    "Desinformémonos": 4.31,
+    "Resumen Latinoam.": 5.05
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | Marlaska asegura que el crucer",
-      "score": 4.47,
+      "title": "El Gobierno aislará todas las zonas implicadas en el desembarco del ‘MV Hondius’",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "contagio",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del brote de hantavirus, en directo | Italia vigila a cuatro persona",
+      "score": 5.0,
       "words": [
         {
           "word": "asegura",
@@ -96,10 +115,6 @@
         },
         {
           "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
           "score": -2
         }
       ]
@@ -116,17 +131,6 @@
         {
           "word": "concedido",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Fernando Clavijo: “No estaré tranquilo hasta que no despeguen los aviones rumbo ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "tranquilo",
-          "score": 2
         }
       ]
     },
@@ -396,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-26T08:57:38Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-26T09:56:43Z",
       "score": 4.55
@@ -1067,6 +1067,10 @@
     {
       "timestamp": "2026-05-09T13:11:42Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-05-09T14:48:13Z",
+      "score": 4.81
     }
   ]
 }

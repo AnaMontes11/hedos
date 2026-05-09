@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-09T06:12:47Z",
-  "global_score": 4.74,
-  "articles_scored": 93,
-  "words_matched": 265,
+  "generated": "2026-05-09T08:24:54Z",
+  "global_score": 4.7,
+  "articles_scored": 90,
+  "words_matched": 251,
   "top_negative": [
     {
       "word": "perra",
@@ -10,10 +10,6 @@
     },
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "mierda",
       "score": -4
     },
     {
@@ -33,6 +29,10 @@
       "score": -3
     },
     {
+      "word": "desconfianza",
+      "score": -3
+    },
+    {
       "word": "vil",
       "score": -3
     }
@@ -43,14 +43,6 @@
       "score": 5
     },
     {
-      "word": "divertido",
-      "score": 4
-    },
-    {
-      "word": "cortés",
-      "score": 3
-    },
-    {
       "word": "galardonado",
       "score": 3
     },
@@ -59,11 +51,19 @@
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "amable",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.91,
-    "elDiario.es": 4.81,
+    "El País": 4.47,
+    "elDiario.es": 4.83,
     "El Mundo": 4.11,
-    "ABC": 4.87,
+    "ABC": 5.04,
     "El Confidencial": 4.97,
-    "BBC Mundo": 4.83,
-    "France 24 ES": 4.51,
-    "La Nación AR": 4.8,
+    "BBC Mundo": 4.67,
+    "France 24 ES": 4.33,
+    "La Nación AR": 4.96,
     "La Jornada MX": 4.9,
     "Desinformémonos": 4.49,
-    "Resumen Latinoam.": 4.8
+    "Resumen Latinoam.": 4.81
   },
   "articles": [
     {
@@ -143,6 +143,21 @@
     },
     {
       "source": "El País",
+      "title": "¿Qué dicen las encuestas en Andalucía? La mayoría absoluta del PP está en el air",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "solitario",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Huelva: los problemas medioambientales y el accidente de Adamuz guían el camino ",
       "score": 5.2,
       "words": [
@@ -181,35 +196,12 @@
     },
     {
       "source": "El País",
-      "title": "¿Qué dicen las encuestas en Andalucía? La mayoría absoluta del PP está en el air",
-      "score": 3.4,
+      "title": "La autodestrucción del vestuario del Real Madrid tras dos años de empoderamiento",
+      "score": 2.6,
       "words": [
         {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Una impresionante serie documental recoge la vida y muerte del genial escalador ",
-      "score": 6.07,
-      "words": [
-        {
-          "word": "impresionante",
-          "score": 3
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "genial",
-          "score": 3
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
@@ -264,6 +256,33 @@
         {
           "word": "establecido",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un crucero varado entre la ciencia y la política",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "exagerar",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -374,40 +393,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El operativo del hantavirus, paso a paso: zodiacs y autobuses para evacuar a tod",
-      "score": 5.56,
-      "words": [
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "estimado",
-          "score": 2
-        },
-        {
-          "word": "seguro",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-25T23:35:21Z",
-      "score": 4.52
-    },
     {
       "timestamp": "2026-04-26T02:31:10Z",
       "score": 4.52
@@ -1075,6 +1063,10 @@
     {
       "timestamp": "2026-05-09T06:12:47Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-05-09T08:24:54Z",
+      "score": 4.7
     }
   ]
 }

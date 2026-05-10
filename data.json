@@ -1,15 +1,11 @@
 {
-  "generated": "2026-05-10T13:12:43Z",
-  "global_score": 4.86,
-  "articles_scored": 96,
-  "words_matched": 302,
+  "generated": "2026-05-10T14:50:14Z",
+  "global_score": 4.77,
+  "articles_scored": 97,
+  "words_matched": 304,
   "top_negative": [
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraude",
       "score": -4
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "enemigos",
       "score": -3
+    },
+    {
+      "word": "crueldad",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -55,31 +55,31 @@
       "score": 4
     },
     {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
-    },
-    {
       "word": "emoción",
       "score": 3
     },
     {
       "word": "perfectamente",
       "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.23,
-    "elDiario.es": 4.87,
-    "El Mundo": 4.46,
-    "ABC": 5.08,
+    "El País": 4.45,
+    "elDiario.es": 4.89,
+    "El Mundo": 4.37,
+    "ABC": 4.83,
     "El Confidencial": 5.59,
-    "BBC Mundo": 4.97,
-    "France 24 ES": 4.53,
-    "La Nación AR": 5.4,
+    "BBC Mundo": 4.93,
+    "France 24 ES": 4.77,
+    "La Nación AR": 4.4,
     "La Jornada MX": 5.27,
     "Desinformémonos": 4.31,
     "Resumen Latinoam.": 4.61
@@ -200,38 +200,42 @@
     {
       "source": "El País",
       "title": "Kylian Mbappé se pierde el clásico en el que el Barça puede proclamarse campeón ",
-      "score": 2.6,
+      "score": 4.6,
       "words": [
         {
           "word": "pierde",
           "score": -3
+        },
+        {
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El avión que lleva a los españoles desembarcados del MV Hondius despega de Tener",
-      "score": 5.3,
+      "title": "Los pasajeros españoles del MV Hondius aterrizan en Madrid mientras avanza la re",
+      "score": 5.75,
       "words": [
         {
           "word": "infectado",
           "score": -2
         },
         {
-          "word": "esperando",
+          "word": "gracias",
           "score": 2
         },
         {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "asegurado",
+          "word": "apoyo",
           "score": 2
+        },
+        {
+          "word": "limpiar",
+          "score": 2
+        },
+        {
+          "word": "asegurando",
+          "score": 1
         }
       ]
     },
@@ -346,7 +350,7 @@
     {
       "source": "elDiario.es",
       "title": "Así ha sido el desembarco de los españoles del crucero del brote de hantavirus",
-      "score": 5.16,
+      "score": 5.0,
       "words": [
         {
           "word": "puesto",
@@ -372,10 +376,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-27T05:51:20Z",
-      "score": 4.44
-    },
     {
       "timestamp": "2026-04-27T08:19:44Z",
       "score": 4.56
@@ -1043,6 +1043,10 @@
     {
       "timestamp": "2026-05-10T13:12:43Z",
       "score": 4.86
+    },
+    {
+      "timestamp": "2026-05-10T14:50:14Z",
+      "score": 4.77
     }
   ]
 }

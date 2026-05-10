@@ -1,13 +1,9 @@
 {
-  "generated": "2026-05-10T10:12:03Z",
-  "global_score": 4.8,
-  "articles_scored": 92,
-  "words_matched": 252,
+  "generated": "2026-05-10T11:49:33Z",
+  "global_score": 4.77,
+  "articles_scored": 95,
+  "words_matched": 274,
   "top_negative": [
-    {
-      "word": "culo",
-      "score": -4
-    },
     {
       "word": "fraude",
       "score": -4
@@ -17,11 +13,11 @@
       "score": -4
     },
     {
-      "word": "muerto",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "muerto",
       "score": -3
     },
     {
@@ -29,11 +25,15 @@
       "score": -3
     },
     {
-      "word": "empeoramiento",
+      "word": "horrible",
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "enemigos",
+      "score": -3
+    },
+    {
+      "word": "crueldad",
       "score": -3
     }
   ],
@@ -43,7 +43,7 @@
       "score": 5
     },
     {
-      "word": "alegría",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -59,27 +59,27 @@
       "score": 3
     },
     {
-      "word": "encanto",
-      "score": 3
-    },
-    {
-      "word": "paraíso",
+      "word": "emocionante",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.46,
-    "elDiario.es": 4.63,
+    "El País": 4.42,
+    "elDiario.es": 4.83,
     "El Mundo": 4.3,
-    "ABC": 5.53,
-    "El Confidencial": 5.26,
-    "BBC Mundo": 5.01,
+    "ABC": 5.45,
+    "El Confidencial": 5.35,
+    "BBC Mundo": 4.97,
     "France 24 ES": 4.8,
-    "La Nación AR": 4.6,
+    "La Nación AR": 3.94,
     "La Jornada MX": 4.91,
     "Desinformémonos": 4.31,
     "Resumen Latinoam.": 4.61
@@ -87,12 +87,27 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | Los 14 pasajeros españoles del",
+      "title": "Última hora del brote de hantavirus, en directo | Los pasajeros españoles evacua",
       "score": 6.6,
       "words": [
         {
-          "word": "éxito",
+          "word": "asegura",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gómez Ulla vuelve a primera línea: así recibirá a los pasajeros españoles del",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "listo",
+          "score": -2
         }
       ]
     },
@@ -158,7 +173,7 @@
     },
     {
       "source": "El País",
-      "title": "María Corina Machado: “Estados Unidos pesa en mi decisión de volver, hay que bus",
+      "title": "María Corina Machado: “La posición de Estados Unidos y otros aliados pesa en mi ",
       "score": 6.6,
       "words": [
         {
@@ -210,62 +225,24 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Querella contra Emilio Aragón y Movistar Plus+ por plagio de un programa de entr",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "El barco del hantavirus ya está en Canarias para desalojar a los pasajeros con u",
-      "score": 4.47,
+      "title": "El avión que lleva a los españoles desembarcados del MV Hondius despega de Tener",
+      "score": 5.64,
       "words": [
-        {
-          "word": "descarte",
-          "score": -1
-        },
-        {
-          "word": "contagios",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "listo",
-          "score": -2
-        },
-        {
-          "word": "exagerar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sanidad anuncia que los primeros en salir del Hondius serán los españoles y cali",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
         {
           "word": "infectado",
           "score": -2
         },
         {
-          "word": "preparado",
+          "word": "esperando",
+          "score": 2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "unido",
           "score": 1
         },
         {
@@ -330,28 +307,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno ordena que se permita la entrada del MV Hondius tras la negativa de ",
-      "score": 4.36,
+      "title": "El hospital de pandemias de Ayuso no sirve para acoger a los españoles que viaja",
+      "score": 5.27,
       "words": [
         {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "autoridad",
+          "word": "preparado",
           "score": 1
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "golpe",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El barco del hantavirus ya está en Canarias para desalojar a los pasajeros con u",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "descarte",
+          "score": -1
+        },
+        {
+          "word": "contagios",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "listo",
+          "score": -2
+        },
+        {
+          "word": "exagerar",
+          "score": -2
         }
       ]
     },
@@ -365,7 +369,7 @@
           "score": -2
         },
         {
-          "word": "preparado",
+          "word": "llegar",
           "score": 1
         },
         {
@@ -384,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-26T23:36:17Z",
-      "score": 4.44
-    },
     {
       "timestamp": "2026-04-27T02:33:11Z",
       "score": 4.43
@@ -1055,6 +1055,10 @@
     {
       "timestamp": "2026-05-10T10:12:03Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-05-10T11:49:33Z",
+      "score": 4.77
     }
   ]
 }

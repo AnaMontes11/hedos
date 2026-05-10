@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-10T11:49:33Z",
-  "global_score": 4.77,
-  "articles_scored": 95,
-  "words_matched": 274,
+  "generated": "2026-05-10T13:12:43Z",
+  "global_score": 4.86,
+  "articles_scored": 96,
+  "words_matched": 302,
   "top_negative": [
     {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
-      "word": "defraudadores",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -18,6 +18,10 @@
     },
     {
       "word": "muerto",
+      "score": -3
+    },
+    {
+      "word": "pierde",
       "score": -3
     },
     {
@@ -31,16 +35,16 @@
     {
       "word": "enemigos",
       "score": -3
-    },
-    {
-      "word": "crueldad",
-      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "excepcional",
       "score": 5
+    },
+    {
+      "word": "maravilloso",
+      "score": 4
     },
     {
       "word": "ganar",
@@ -51,15 +55,7 @@
       "score": 4
     },
     {
-      "word": "leal",
-      "score": 3
-    },
-    {
       "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "emocionante",
       "score": 3
     },
     {
@@ -67,20 +63,24 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "emoción",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.42,
-    "elDiario.es": 4.83,
-    "El Mundo": 4.3,
-    "ABC": 5.45,
-    "El Confidencial": 5.35,
+    "El País": 4.23,
+    "elDiario.es": 4.87,
+    "El Mundo": 4.46,
+    "ABC": 5.08,
+    "El Confidencial": 5.59,
     "BBC Mundo": 4.97,
-    "France 24 ES": 4.8,
-    "La Nación AR": 3.94,
-    "La Jornada MX": 4.91,
+    "France 24 ES": 4.53,
+    "La Nación AR": 5.4,
+    "La Jornada MX": 5.27,
     "Desinformémonos": 4.31,
     "Resumen Latinoam.": 4.61
   },
@@ -199,35 +199,19 @@
     },
     {
       "source": "El País",
-      "title": "“Estaba loco de amor por ella”: por qué empezó y cómo acabó la relación entre Le",
-      "score": 4.3,
+      "title": "Kylian Mbappé se pierde el clásico en el que el Barça puede proclamarse campeón ",
+      "score": 2.6,
       "words": [
         {
-          "word": "loco",
-          "score": -2
-        },
-        {
-          "word": "amor",
-          "score": 3
-        },
-        {
-          "word": "romance",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
+          "word": "pierde",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "El avión que lleva a los españoles desembarcados del MV Hondius despega de Tener",
-      "score": 5.64,
+      "score": 5.3,
       "words": [
         {
           "word": "infectado",
@@ -361,37 +345,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Última hora sobre el brote de hantavirus en el crucero MV Hondius, en directo",
-      "score": 3.88,
+      "title": "Así ha sido el desembarco de los españoles del crucero del brote de hantavirus",
+      "score": 5.16,
       "words": [
         {
-          "word": "riesgos",
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "llegar",
+          "word": "firme",
+          "score": 2
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "asegurar",
           "score": 1
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-27T02:33:11Z",
-      "score": 4.43
-    },
     {
       "timestamp": "2026-04-27T05:51:20Z",
       "score": 4.44
@@ -1059,6 +1039,10 @@
     {
       "timestamp": "2026-05-10T11:49:33Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-05-10T13:12:43Z",
+      "score": 4.86
     }
   ]
 }

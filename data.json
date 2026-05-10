@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-10T06:09:25Z",
-  "global_score": 4.8,
-  "articles_scored": 94,
-  "words_matched": 298,
+  "generated": "2026-05-10T08:51:13Z",
+  "global_score": 4.84,
+  "articles_scored": 96,
+  "words_matched": 265,
   "top_negative": [
     {
       "word": "culo",
@@ -33,25 +33,17 @@
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "escándalo",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "magnífico",
-      "score": 5
-    },
     {
       "word": "excepcional",
       "score": 5
     },
     {
       "word": "alegría",
-      "score": 4
-    },
-    {
-      "word": "ganar",
       "score": 4
     },
     {
@@ -67,32 +59,40 @@
       "score": 3
     },
     {
+      "word": "placer",
+      "score": 3
+    },
+    {
       "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "encanto",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.98,
-    "elDiario.es": 4.73,
-    "El Mundo": 4.39,
-    "ABC": 5.02,
-    "El Confidencial": 5.14,
+    "El País": 4.29,
+    "elDiario.es": 4.63,
+    "El Mundo": 4.3,
+    "ABC": 5.38,
+    "El Confidencial": 5.49,
     "BBC Mundo": 5.01,
-    "France 24 ES": 4.97,
-    "La Nación AR": 5.67,
+    "France 24 ES": 4.8,
+    "La Nación AR": 5.43,
     "La Jornada MX": 4.91,
     "Desinformémonos": 4.38,
-    "Resumen Latinoam.": 4.63
+    "Resumen Latinoam.": 4.61
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | El crucero ‘MV Hondius’ entra ",
-      "score": 4.2,
+      "title": "Última hora del brote de hantavirus, en directo | La ministra de Sanidad: “El fo",
+      "score": 6.6,
       "words": [
         {
-          "word": "imponer",
-          "score": -1
+          "word": "éxito",
+          "score": 2
         }
       ]
     },
@@ -184,12 +184,66 @@
     },
     {
       "source": "El País",
+      "title": "“Estaba loco de amor por ella”: por qué empezó y cómo acabó la relación entre Le",
+      "score": 4.3,
+      "words": [
+        {
+          "word": "loco",
+          "score": -2
+        },
+        {
+          "word": "amor",
+          "score": 3
+        },
+        {
+          "word": "romance",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Querella contra Emilio Aragón y Movistar Plus+ por plagio de un programa de entr",
       "score": 3.4,
       "words": [
         {
           "word": "acusa",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sanidad anuncia que los primeros en salir del Hondius serán los españoles y cali",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "infectado",
+          "score": -2
+        },
+        {
+          "word": "preparado",
+          "score": 1
+        },
+        {
+          "word": "asegurado",
+          "score": 2
         }
       ]
     },
@@ -222,7 +276,7 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Marina Mercante ordena que se permita la entrada del Hondius en Granadilla",
+      "title": "El Gobierno ordena que se permita la entrada del MV Hondius tras la negativa de ",
       "score": 4.36,
       "words": [
         {
@@ -303,60 +357,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Hantavirus contra coronavirus: cinco razones claras por las que este brote no es",
-      "score": 4.95,
-      "words": [
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "contagio",
-          "score": -2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "contagio",
-          "score": -2
-        },
-        {
-          "word": "urgente",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Última hora sobre el brote de hantavirus en el crucero MV Hondius, en directo",
-      "score": 4.37,
-      "words": [
-        {
-          "word": "riesgos",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "realizar",
-          "score": 2
-        },
-        {
-          "word": "paradas",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Sánchez afronta su enésima crisis con el hantavirus y una oposición dispuesta a ",
       "score": 3.96,
       "words": [
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-26T21:35:11Z",
-      "score": 4.44
-    },
     {
       "timestamp": "2026-04-26T22:35:20Z",
       "score": 4.51
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-05-10T06:09:25Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-05-10T08:51:13Z",
+      "score": 4.84
     }
   ]
 }

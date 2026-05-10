@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-10T02:42:31Z",
-  "global_score": 4.72,
-  "articles_scored": 92,
-  "words_matched": 213,
+  "generated": "2026-05-10T06:09:25Z",
+  "global_score": 4.8,
+  "articles_scored": 94,
+  "words_matched": 298,
   "top_negative": [
     {
-      "word": "mierda",
+      "word": "culo",
       "score": -4
     },
     {
@@ -17,15 +17,11 @@
       "score": -4
     },
     {
+      "word": "muerto",
+      "score": -3
+    },
+    {
       "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "trauma",
       "score": -3
     },
     {
@@ -33,11 +29,19 @@
       "score": -3
     },
     {
-      "word": "desconfianza",
+      "word": "empeoramiento",
+      "score": -3
+    },
+    {
+      "word": "mal",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "magnífico",
+      "score": 5
+    },
     {
       "word": "excepcional",
       "score": 5
@@ -47,11 +51,15 @@
       "score": 4
     },
     {
-      "word": "leal",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
-      "word": "celebrado",
+      "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "leal",
       "score": 3
     },
     {
@@ -61,30 +69,33 @@
     {
       "word": "riqueza",
       "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.06,
-    "elDiario.es": 4.99,
-    "El Mundo": 4.09,
-    "ABC": 4.94,
-    "El Confidencial": 4.52,
-    "BBC Mundo": 4.69,
+    "El País": 3.98,
+    "elDiario.es": 4.73,
+    "El Mundo": 4.39,
+    "ABC": 5.02,
+    "El Confidencial": 5.14,
+    "BBC Mundo": 5.01,
     "France 24 ES": 4.97,
-    "La Nación AR": 5.64,
+    "La Nación AR": 5.67,
     "La Jornada MX": 4.91,
     "Desinformémonos": 4.38,
     "Resumen Latinoam.": 4.63
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora del brote de hantavirus, en directo | El crucero ‘MV Hondius’ entra ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "imponer",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El Gobierno impone a Canarias la acogida del crucero ‘MV Hondius’ ante la negati",
@@ -102,31 +113,20 @@
     },
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | El Gobierno impone el desembar",
-      "score": 5.0,
+      "title": "Muerto a bordo: los cabos sueltos de la gestión de la crisis del crucero del han",
+      "score": 2.87,
       "words": [
         {
-          "word": "impone",
-          "score": -1
+          "word": "muerto",
+          "score": -3
         },
         {
-          "word": "preparado",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un juez autoriza el confinamiento obligatorio de los españoles del barco del han",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "obligatorio",
-          "score": -1
+          "word": "crisis",
+          "score": -3
         },
         {
-          "word": "concedido",
-          "score": 1
+          "word": "errores",
+          "score": -2
         }
       ]
     },
@@ -147,253 +147,229 @@
     },
     {
       "source": "El País",
-      "title": "¿Qué dicen las encuestas en Andalucía? La mayoría absoluta del PP está en el air",
+      "title": "Nueva crisis sanitaria, nuevas lecciones por aprender",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "María Corina Machado: “Estados Unidos pesa en mi decisión de volver, hay que bus",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "reivindica",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Dalí en la Real Academia de San Fernando: un alumno díscolo e insolente expulsad",
       "score": 3.4,
+      "words": [
+        {
+          "word": "expulsado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Querella contra Emilio Aragón y Movistar Plus+ por plagio de un programa de entr",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El barco del hantavirus ya está en Canarias para desalojar a los pasajeros con u",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "descarte",
+          "score": -1
+        },
+        {
+          "word": "contagios",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "listo",
+          "score": -2
+        },
+        {
+          "word": "exagerar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Marina Mercante ordena que se permita la entrada del Hondius en Granadilla",
+      "score": 4.36,
       "words": [
         {
           "word": "solo",
           "score": -2
         },
         {
-          "word": "solitario",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Vox en Andalucía: “¡En una tarde, la Guardia Civil acaba con toda la mierda del ",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "mierda",
-          "score": -4
-        },
-        {
-          "word": "cancelado",
+          "word": "dudas",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Feijóo irrumpe en el día de luto por los dos guardias civiles cargando contra el",
-      "score": 3.2,
-      "words": [
+        },
         {
-          "word": "luto",
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "incompetencia",
-          "score": -2
-        },
-        {
-          "word": "accidente",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El MV Hondius llegará entre las 4 y las 6 de la madrugada al puerto de Granadill",
-      "score": 5.39,
-      "words": [
-        {
-          "word": "contagio",
-          "score": -2
-        },
-        {
-          "word": "negativo",
-          "score": -2
-        },
-        {
-          "word": "contagio",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "obligado",
+          "word": "autoridad",
           "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La ministra de Sanidad anuncia que el operativo inédito está listo para recibir ",
-      "score": 4.87,
+      "title": "Un informe de Sanidad desmiente el alarmismo de Clavijo: los roedores del hantav",
+      "score": 5.05,
       "words": [
         {
-          "word": "listo",
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "desalojo",
+          "score": -1
+        },
+        {
+          "word": "retrasar",
+          "score": -1
+        },
+        {
+          "word": "retrasar",
+          "score": -1
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Clavijo recurrió a la inteligencia artificial para defender ante la ministra de ",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "enfermedad",
           "score": -2
         },
         {
-          "word": "listo",
+          "word": "excusa",
+          "score": -1
+        },
+        {
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "incrementar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Hantavirus contra coronavirus: cinco razones claras por las que este brote no es",
+      "score": 4.95,
+      "words": [
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "contagio",
           "score": -2
         },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "contagio",
+          "score": -2
+        },
+        {
+          "word": "urgente",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Última hora sobre el brote de hantavirus en el crucero MV Hondius, en directo",
+      "score": 4.37,
+      "words": [
         {
           "word": "riesgos",
           "score": -2
         },
         {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El operativo del hantavirus, paso a paso: zodiacs y autobuses para evacuar a tod",
-      "score": 5.56,
-      "words": [
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "estimado",
-          "score": 2
-        },
-        {
-          "word": "seguro",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Justicia ratifica la imposición de una cuarentena a los pasajeros del MV Hond",
-      "score": 4.71,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "contagio",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un crucero varado entre la ciencia y la política",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "exagerar",
-          "score": -2
-        },
-        {
           "word": "crisis",
           "score": -3
         },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los 30 de Santa Elena: de dónde son los pasajeros que bajaron del barco del hant",
-      "score": 4.68,
-      "words": [
         {
           "word": "pasado",
           "score": -1
         },
         {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "sospechosos",
-          "score": -1
-        },
-        {
-          "word": "recomendado",
+          "word": "realizar",
           "score": 2
         },
         {
-          "word": "tiempo",
-          "score": -2
+          "word": "paradas",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La mujer que tuvo contacto con una fallecida por hantavirus estará en cuarentena",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "negativo",
-          "score": -2
-        },
-        {
-          "word": "querido",
-          "score": 2
-        },
-        {
-          "word": "dejar",
-          "score": -1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "'Odisea Atlántica': el crucero de lujo que terminó en una crisis sanitaria inter",
-      "score": 4.22,
+      "title": "Sánchez afronta su enésima crisis con el hantavirus y una oposición dispuesta a ",
+      "score": 3.96,
       "words": [
         {
           "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "problema",
+          "score": -2
+        },
+        {
+          "word": "escándalo",
           "score": -3
         },
         {
@@ -401,25 +377,13 @@
           "score": -3
         },
         {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "afectado",
-          "score": -1
-        },
-        {
-          "word": "disputa",
+          "word": "problema",
           "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-26T20:35:43Z",
-      "score": 4.38
-    },
     {
       "timestamp": "2026-04-26T21:35:11Z",
       "score": 4.44
@@ -1087,6 +1051,10 @@
     {
       "timestamp": "2026-05-10T02:42:31Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-05-10T06:09:25Z",
+      "score": 4.8
     }
   ]
 }

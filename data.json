@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-10T18:58:56Z",
-  "global_score": 4.6,
-  "articles_scored": 89,
-  "words_matched": 270,
+  "generated": "2026-05-10T20:01:22Z",
+  "global_score": 4.42,
+  "articles_scored": 92,
+  "words_matched": 247,
   "top_negative": [
     {
       "word": "crisis",
@@ -39,11 +39,11 @@
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
+      "word": "maravilloso",
+      "score": 4
     },
     {
-      "word": "maravilloso",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -55,31 +55,31 @@
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "cortés",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "heroico",
       "score": 3
     },
     {
       "word": "celebrado",
       "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.95,
-    "elDiario.es": 4.73,
-    "El Mundo": 4.2,
-    "ABC": 4.9,
+    "El País": 3.84,
+    "elDiario.es": 4.68,
+    "El Mundo": 3.9,
+    "ABC": 4.5,
     "El Confidencial": 5.09,
     "BBC Mundo": 4.63,
-    "France 24 ES": 4.36,
-    "La Nación AR": 5.52,
+    "France 24 ES": 4.23,
+    "La Nación AR": 4.37,
     "La Jornada MX": 5.27,
     "Desinformémonos": 4.5,
     "Resumen Latinoam.": 3.87
@@ -87,12 +87,27 @@
   "articles": [
     {
       "source": "El País",
-      "title": "El misterio de los ratones nadadores que estuvo a punto de bloquear una operació",
-      "score": 4.2,
+      "title": "Un operativo sin precedentes pone fin a la crisis del crucero con el brote de ha",
+      "score": 3.0,
       "words": [
         {
-          "word": "bloquear",
-          "score": -1
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "abandona",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora del brote de hantavirus, en directo | Las dos mujeres de Alicante y ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "negativo",
+          "score": -2
         }
       ]
     },
@@ -104,6 +119,17 @@
         {
           "word": "crisis",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El misterio de los ratones nadadores que estuvo a punto de bloquear una operació",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "bloquear",
+          "score": -1
         }
       ]
     },
@@ -128,31 +154,16 @@
     },
     {
       "source": "El País",
-      "title": "Cuarenta días a bordo del ‘MV Hondius’: así se vivió desde dentro la crisis del ",
-      "score": 4.6,
+      "title": "Barcelona - Real Madrid en directo | El Barça gana al descanso con una buena ven",
+      "score": 7.4,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "aventuras",
+          "word": "ventaja",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Barcelona - Real Madrid en directo | Tchouameni es titular y Courtois vuelve a l",
-      "score": 6.2,
-      "words": [
+        },
         {
           "word": "ganar",
           "score": 4
-        },
-        {
-          "word": "retrasar",
-          "score": -1
         }
       ]
     },
@@ -202,6 +213,33 @@
         {
           "word": "tiempo",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La mujer ingresada en Barcelona por contacto con una fallecida por hantavirus da",
+      "score": 4.41,
+      "words": [
+        {
+          "word": "negativo",
+          "score": -2
+        },
+        {
+          "word": "negativo",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "asegurar",
+          "score": 1
         }
       ]
     },
@@ -335,67 +373,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El barco del hantavirus ya está en Canarias para desalojar a los pasajeros con u",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "descarte",
-          "score": -1
-        },
-        {
-          "word": "contagios",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "listo",
-          "score": -2
-        },
-        {
-          "word": "exagerar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Así ha sido el desembarco de los españoles del crucero del brote de hantavirus",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "firme",
-          "score": 2
-        },
-        {
-          "word": "afectado",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "asegurar",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-27T17:19:58Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-04-27T19:16:14Z",
       "score": 4.61
@@ -1063,6 +1043,10 @@
     {
       "timestamp": "2026-05-10T18:58:56Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-05-10T20:01:22Z",
+      "score": 4.42
     }
   ]
 }

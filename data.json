@@ -1,11 +1,15 @@
 {
-  "generated": "2026-05-10T21:43:54Z",
-  "global_score": 4.73,
-  "articles_scored": 88,
-  "words_matched": 242,
+  "generated": "2026-05-10T22:43:28Z",
+  "global_score": 4.66,
+  "articles_scored": 92,
+  "words_matched": 247,
   "top_negative": [
     {
       "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "perdió",
       "score": -3
     },
     {
@@ -30,10 +34,6 @@
     },
     {
       "word": "violencia",
-      "score": -3
-    },
-    {
-      "word": "codicia",
       "score": -3
     }
   ],
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.9,
+    "El País": 4.87,
     "elDiario.es": 4.83,
-    "El Mundo": 3.95,
+    "El Mundo": 4.15,
     "ABC": 4.81,
     "El Confidencial": 5.35,
     "BBC Mundo": 4.63,
     "France 24 ES": 4.4,
-    "La Nación AR": 3.72,
+    "La Nación AR": 3.71,
     "La Jornada MX": 5.27,
     "Desinformémonos": 4.5,
-    "Resumen Latinoam.": 5.26
+    "Resumen Latinoam.": 4.28
   },
   "articles": [
     {
@@ -124,54 +124,57 @@
     },
     {
       "source": "El País",
-      "title": "Barcelona - Real Madrid en directo | Flick, tras ganar la Liga: “Nunca olvidaré ",
-      "score": 7.4,
+      "title": "Toca fingir eternidad en el Real Madrid",
+      "score": 3.4,
       "words": [
         {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "orgulloso",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump considera “totalmente inaceptable” la respuesta de Irán a su propuesta de ",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "inaceptable",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "presión",
+          "word": "fingir",
           "score": -1
+        },
+        {
+          "word": "perdió",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "María Corina Machado: “La posición de Estados Unidos y otros aliados pesa en mi ",
+      "title": "Arbeloa, tras perder la Liga en el clásico: “No sé si Mbappé va a jugar más esta",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "perder",
+          "score": -2
+        },
+        {
+          "word": "aclara",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El éxito del Barcelona es el éxito de Hansi Flick, un ciudadano culé con los ojo",
       "score": 6.6,
       "words": [
         {
-          "word": "paz",
+          "word": "éxito",
           "score": 2
         },
         {
-          "word": "reivindica",
+          "word": "éxito",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "En el nombre de Lamine Yamal, la gran estrella de la Liga del Barça",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
@@ -193,33 +196,6 @@
       "words": [
         {
           "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "“Estaba loco de amor por ella”: por qué empezó y cómo acabó la relación entre Le",
-      "score": 4.3,
-      "words": [
-        {
-          "word": "loco",
-          "score": -2
-        },
-        {
-          "word": "amor",
-          "score": 3
-        },
-        {
-          "word": "romance",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
           "score": -2
         }
       ]
@@ -388,10 +364,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-27T20:59:03Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-04-27T22:00:04Z",
       "score": 4.6
@@ -1059,6 +1031,10 @@
     {
       "timestamp": "2026-05-10T21:43:54Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-05-10T22:43:28Z",
+      "score": 4.66
     }
   ]
 }

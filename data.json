@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-10T14:50:14Z",
-  "global_score": 4.77,
-  "articles_scored": 97,
-  "words_matched": 304,
+  "generated": "2026-05-10T15:50:56Z",
+  "global_score": 4.75,
+  "articles_scored": 94,
+  "words_matched": 311,
   "top_negative": [
     {
       "word": "culo",
@@ -55,7 +55,11 @@
       "score": 4
     },
     {
-      "word": "emoción",
+      "word": "cortés",
+      "score": 3
+    },
+    {
+      "word": "euforia",
       "score": 3
     },
     {
@@ -65,24 +69,20 @@
     {
       "word": "feliz",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.45,
-    "elDiario.es": 4.89,
-    "El Mundo": 4.37,
-    "ABC": 4.83,
+    "El País": 4.41,
+    "elDiario.es": 4.9,
+    "El Mundo": 4.01,
+    "ABC": 5.34,
     "El Confidencial": 5.59,
-    "BBC Mundo": 4.93,
-    "France 24 ES": 4.77,
-    "La Nación AR": 4.4,
+    "BBC Mundo": 4.89,
+    "France 24 ES": 4.78,
+    "La Nación AR": 3.95,
     "La Jornada MX": 5.27,
-    "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 4.61
+    "Desinformémonos": 4.33,
+    "Resumen Latinoam.": 4.37
   },
   "articles": [
     {
@@ -98,16 +98,12 @@
     },
     {
       "source": "El País",
-      "title": "El Gómez Ulla vuelve a primera línea: así recibirá a los pasajeros españoles del",
-      "score": 3.0,
+      "title": "El Gómez Ulla vuelve a primera línea: así vigilará a los pasajeros españoles del",
+      "score": 2.6,
       "words": [
         {
           "word": "crisis",
           "score": -3
-        },
-        {
-          "word": "listo",
-          "score": -2
         }
       ]
     },
@@ -188,17 +184,6 @@
     },
     {
       "source": "El País",
-      "title": "Dalí en la Real Academia de San Fernando: un alumno díscolo e insolente expulsad",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "expulsado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Kylian Mbappé se pierde el clásico en el que el Barça puede proclamarse campeón ",
       "score": 4.6,
       "words": [
@@ -213,9 +198,20 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Querella contra Emilio Aragón y Movistar Plus+ por plagio de un programa de entr",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Los pasajeros españoles del MV Hondius aterrizan en Madrid mientras avanza la re",
-      "score": 5.75,
+      "score": 5.84,
       "words": [
         {
           "word": "infectado",
@@ -376,10 +372,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-27T08:19:44Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-04-27T11:01:28Z",
       "score": 4.68
@@ -1047,6 +1039,10 @@
     {
       "timestamp": "2026-05-10T14:50:14Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-05-10T15:50:56Z",
+      "score": 4.75
     }
   ]
 }

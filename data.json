@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-10T17:50:00Z",
-  "global_score": 4.64,
+  "generated": "2026-05-10T18:58:56Z",
+  "global_score": 4.6,
   "articles_scored": 89,
-  "words_matched": 273,
+  "words_matched": 270,
   "top_negative": [
     {
       "word": "crisis",
@@ -10,10 +10,6 @@
     },
     {
       "word": "muerto",
-      "score": -3
-    },
-    {
-      "word": "pierde",
       "score": -3
     },
     {
@@ -35,16 +31,16 @@
     {
       "word": "violencia",
       "score": -3
+    },
+    {
+      "word": "codicia",
+      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "excepcional",
       "score": 5
-    },
-    {
-      "word": "ganar",
-      "score": 4
     },
     {
       "word": "maravilloso",
@@ -55,58 +51,40 @@
       "score": 4
     },
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
       "word": "cortés",
-      "score": 3
-    },
-    {
-      "word": "impresiona",
-      "score": 3
-    },
-    {
-      "word": "euforia",
       "score": 3
     },
     {
       "word": "celebrar",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.41,
+    "El País": 3.95,
     "elDiario.es": 4.73,
-    "El Mundo": 4.01,
-    "ABC": 5.39,
-    "El Confidencial": 5.17,
-    "BBC Mundo": 4.89,
-    "France 24 ES": 4.92,
-    "La Nación AR": 3.56,
+    "El Mundo": 4.2,
+    "ABC": 4.9,
+    "El Confidencial": 5.09,
+    "BBC Mundo": 4.63,
+    "France 24 ES": 4.36,
+    "La Nación AR": 5.52,
     "La Jornada MX": 5.27,
     "Desinformémonos": 4.5,
-    "Resumen Latinoam.": 3.74
+    "Resumen Latinoam.": 3.87
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | Uno de los cinco franceses rep",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Gómez Ulla vuelve a primera línea: así vigilará a los pasajeros españoles del",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "El misterio de los ratones nadadores que estuvo a punto de bloquear una operació",
@@ -120,16 +98,12 @@
     },
     {
       "source": "El País",
-      "title": "El Gobierno impone a Canarias la acogida del crucero ‘MV Hondius’ ante la negati",
-      "score": 4.2,
+      "title": "El Gómez Ulla vuelve a primera línea: así vigilará a los pasajeros españoles del",
+      "score": 2.6,
       "words": [
         {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "afectado",
-          "score": -1
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
@@ -169,31 +143,27 @@
     },
     {
       "source": "El País",
-      "title": "María Corina Machado: “La posición de Estados Unidos y otros aliados pesa en mi ",
-      "score": 6.6,
+      "title": "Barcelona - Real Madrid en directo | Tchouameni es titular y Courtois vuelve a l",
+      "score": 6.2,
       "words": [
         {
-          "word": "paz",
-          "score": 2
+          "word": "ganar",
+          "score": 4
         },
         {
-          "word": "reivindica",
-          "score": 2
+          "word": "retrasar",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Kylian Mbappé se pierde el clásico en el que el Barça puede proclamarse campeón ",
-      "score": 4.6,
+      "title": "Dalí en la Real Academia de San Fernando: un alumno díscolo e insolente expulsad",
+      "score": 3.4,
       "words": [
         {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "asegura",
-          "score": 2
+          "word": "expulsado",
+          "score": -2
         }
       ]
     },
@@ -204,6 +174,33 @@
       "words": [
         {
           "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“Estaba loco de amor por ella”: por qué empezó y cómo acabó la relación entre Le",
+      "score": 4.3,
+      "words": [
+        {
+          "word": "loco",
+          "score": -2
+        },
+        {
+          "word": "amor",
+          "score": 3
+        },
+        {
+          "word": "romance",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
           "score": -2
         }
       ]
@@ -249,12 +246,12 @@
           "score": 2
         },
         {
-          "word": "limpiar",
-          "score": 2
+          "word": "unido",
+          "score": 1
         },
         {
-          "word": "asegurando",
-          "score": 1
+          "word": "limpiar",
+          "score": 2
         }
       ]
     },
@@ -365,13 +362,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Así ha sido el desembarco de los españoles del crucero del brote de hantavirus",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "firme",
+          "score": 2
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "asegurar",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-27T15:45:36Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-04-27T17:19:58Z",
       "score": 4.74
@@ -1039,6 +1059,10 @@
     {
       "timestamp": "2026-05-10T17:50:00Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-05-10T18:58:56Z",
+      "score": 4.6
     }
   ]
 }

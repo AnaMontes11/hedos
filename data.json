@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-11T13:46:18Z",
-  "global_score": 4.57,
-  "articles_scored": 89,
-  "words_matched": 231,
+  "generated": "2026-05-11T16:30:53Z",
+  "global_score": 4.62,
+  "articles_scored": 95,
+  "words_matched": 220,
   "top_negative": [
     {
       "word": "torturas",
@@ -17,11 +17,11 @@
       "score": -4
     },
     {
-      "word": "peor",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "peor",
       "score": -3
     },
     {
@@ -29,17 +29,25 @@
       "score": -3
     },
     {
-      "word": "pierde",
+      "word": "ridículo",
       "score": -3
     },
     {
-      "word": "ridículo",
+      "word": "horrible",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "brillante",
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "bendición",
+      "score": 4
+    },
+    {
+      "word": "alegría",
       "score": 4
     },
     {
@@ -47,7 +55,7 @@
       "score": 4
     },
     {
-      "word": "cortés",
+      "word": "popular",
       "score": 3
     },
     {
@@ -61,28 +69,20 @@
     {
       "word": "celebra",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "cautivar",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.93,
-    "elDiario.es": 4.89,
-    "El Mundo": 4.95,
-    "ABC": 4.94,
-    "El Confidencial": 4.58,
-    "BBC Mundo": 4.45,
-    "France 24 ES": 5.1,
-    "La Nación AR": 4.71,
+    "El País": 4.31,
+    "elDiario.es": 5.02,
+    "El Mundo": 4.65,
+    "ABC": 5.5,
+    "El Confidencial": 4.47,
+    "BBC Mundo": 4.27,
+    "France 24 ES": 4.59,
+    "La Nación AR": 4.77,
     "La Jornada MX": 3.95,
-    "Desinformémonos": 5.0,
-    "Resumen Latinoam.": 3.82
+    "Desinformémonos": 5.13,
+    "Resumen Latinoam.": 4.38
   },
   "articles": [
     {
@@ -93,6 +93,17 @@
         {
           "word": "positivo",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El PP limita sus críticas a las “horas iniciales”de la crisis del Hantavirus",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
@@ -125,11 +136,23 @@
     },
     {
       "source": "El País",
-      "title": "Así son las pruebas diagnósticas y los síntomas del hantavirus que permiten iden",
-      "score": 3.4,
+      "title": "Los tests a bordo, el “positivo débil” y los tiempos de los resultados de las PC",
+      "score": 5.0,
       "words": [
         {
-          "word": "enfermedad",
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "débil",
+          "score": -2
+        },
+        {
+          "word": "aclara",
+          "score": 2
+        },
+        {
+          "word": "solo",
           "score": -2
         }
       ]
@@ -147,12 +170,20 @@
     },
     {
       "source": "El País",
-      "title": "De la defensa alta a un ataque coral: siete datos clave del Barcelona campeón de",
-      "score": 4.2,
+      "title": "Aparece en Países Bajos un cuadro robado por los nazis gracias a un hombre que d",
+      "score": 4.47,
       "words": [
         {
-          "word": "ataque",
-          "score": -1
+          "word": "robado",
+          "score": -2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "robado",
+          "score": -2
         }
       ]
     },
@@ -188,28 +219,12 @@
     },
     {
       "source": "El País",
-      "title": "El Supremo rechaza dejar en libertad a Koldo García tras el juicio de las mascar",
-      "score": 4.52,
+      "title": "Sheinbaum califica de “visita fallida” el controvertido viaje de Díaz Ayuso a Mé",
+      "score": 7.4,
       "words": [
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "dejar",
-          "score": -1
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "fuga",
-          "score": -1
+          "word": "cortés",
+          "score": 3
         }
       ]
     },
@@ -319,28 +334,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Muere de un infarto un guardia civil durante el operativo por la llegada del MV ",
-      "score": 5.09,
+      "title": "La comunidad internacional felicita a España por la gestión de la crisis del han",
+      "score": 5.44,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "crisis",
+          "score": -3
         },
         {
-          "word": "afectado",
-          "score": -1
+          "word": "crisis",
+          "score": -3
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "salvar",
+          "word": "agradecido",
           "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "espera",
+          "score": -1
         }
       ]
     },
@@ -370,40 +385,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Clavijo insiste en su teoría de las ratas nadadoras: ''No es esperable que pueda",
-      "score": 4.41,
-      "words": [
-        {
-          "word": "querer",
-          "score": 1
-        },
-        {
-          "word": "ridiculizar",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "querer",
-          "score": 1
-        },
-        {
-          "word": "ridiculizar",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-28T11:03:01Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-04-28T13:59:06Z",
       "score": 4.67
@@ -1071,6 +1055,10 @@
     {
       "timestamp": "2026-05-11T13:46:18Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-05-11T16:30:53Z",
+      "score": 4.62
     }
   ]
 }

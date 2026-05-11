@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-10T23:50:24Z",
-  "global_score": 4.84,
-  "articles_scored": 93,
-  "words_matched": 247,
+  "generated": "2026-05-11T02:52:06Z",
+  "global_score": 4.78,
+  "articles_scored": 84,
+  "words_matched": 230,
   "top_negative": [
     {
       "word": "crisis",
@@ -55,7 +55,7 @@
       "score": 4
     },
     {
-      "word": "exitoso",
+      "word": "sentido",
       "score": 3
     },
     {
@@ -63,26 +63,25 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "agradable",
+      "word": "lealtad",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.87,
     "elDiario.es": 4.83,
-    "El Mundo": 4.15,
-    "ABC": 5.1,
+    "El Mundo": 4.35,
     "El Confidencial": 5.35,
     "BBC Mundo": 4.63,
-    "France 24 ES": 4.52,
-    "La Nación AR": 5.1,
+    "France 24 ES": 4.69,
+    "La Nación AR": 4.1,
     "La Jornada MX": 5.27,
     "Desinformémonos": 4.5,
-    "Resumen Latinoam.": 4.88
+    "Resumen Latinoam.": 5.0
   },
   "articles": [
     {
@@ -364,10 +363,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-27T23:00:53Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-04-28T02:40:54Z",
       "score": 4.7
@@ -1035,6 +1030,10 @@
     {
       "timestamp": "2026-05-10T23:50:24Z",
       "score": 4.84
+    },
+    {
+      "timestamp": "2026-05-11T02:52:06Z",
+      "score": 4.78
     }
   ]
 }

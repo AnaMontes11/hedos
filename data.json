@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-11T16:30:53Z",
-  "global_score": 4.62,
-  "articles_scored": 95,
-  "words_matched": 220,
+  "generated": "2026-05-11T18:59:09Z",
+  "global_score": 4.59,
+  "articles_scored": 94,
+  "words_matched": 223,
   "top_negative": [
     {
       "word": "torturas",
@@ -39,15 +39,11 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "victorias",
       "score": 4
     },
     {
-      "word": "bendición",
-      "score": 4
-    },
-    {
-      "word": "alegría",
+      "word": "milagro",
       "score": 4
     },
     {
@@ -55,44 +51,48 @@
       "score": 4
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "prestigio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.31,
-    "elDiario.es": 5.02,
-    "El Mundo": 4.65,
-    "ABC": 5.5,
-    "El Confidencial": 4.47,
-    "BBC Mundo": 4.27,
-    "France 24 ES": 4.59,
-    "La Nación AR": 4.77,
+    "El País": 3.95,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.45,
+    "ABC": 5.31,
+    "El Confidencial": 4.64,
+    "BBC Mundo": 4.39,
+    "France 24 ES": 4.96,
+    "La Nación AR": 3.93,
     "La Jornada MX": 3.95,
     "Desinformémonos": 5.13,
-    "Resumen Latinoam.": 4.38
+    "Resumen Latinoam.": 4.93
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | Sanidad informa de que finalme",
-      "score": 6.6,
+      "title": "Última hora del brote de hantavirus, en directo | El crucero del hantavirus zarp",
+      "score": 7.4,
       "words": [
         {
-          "word": "positivo",
-          "score": 2
+          "word": "celebra",
+          "score": 3
         }
       ]
     },
@@ -131,6 +131,17 @@
         {
           "word": "permitir",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un análisis comparado de cinco infectados por el hantavirus confirma que hubo co",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "contagio",
+          "score": -2
         }
       ]
     },
@@ -218,40 +229,83 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Sheinbaum califica de “visita fallida” el controvertido viaje de Díaz Ayuso a Mé",
-      "score": 7.4,
+      "source": "elDiario.es",
+      "title": "El crucero del hantavirus abandona Tenerife tras un despliegue sin precedentes p",
+      "score": 5.3,
       "words": [
         {
-          "word": "cortés",
-          "score": 3
+          "word": "abandona",
+          "score": -2
+        },
+        {
+          "word": "abandona",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "positivo",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La mujer en observación por contacto con hantavirus en Barcelona se mantiene sin",
-      "score": 5.06,
+      "title": "Los últimos pasajeros del crucero del hantavirus desembarcan en Tenerife después",
+      "score": 4.2,
       "words": [
         {
-          "word": "negativo",
+          "word": "abandona",
           "score": -2
         },
         {
-          "word": "estable",
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "fuerza",
           "score": 2
         },
         {
-          "word": "querido",
-          "score": 2
-        },
-        {
-          "word": "calma",
-          "score": 2
-        },
-        {
-          "word": "negativo",
+          "word": "abandona",
           "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La comunidad internacional felicita a España por la gestión de la crisis del han",
+      "score": 5.44,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "agradecido",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "espera",
+          "score": -1
         }
       ]
     },
@@ -307,60 +361,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sanidad encara el final de una operación \"sin precedentes\" frente al hantavirus ",
-      "score": 5.3,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La comunidad internacional felicita a España por la gestión de la crisis del han",
-      "score": 5.44,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "agradecido",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "espera",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El día en que Canarias (sin Clavijo) fue el centro del mundo por el hantavirus: ",
       "score": 5.16,
       "words": [
@@ -388,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-28T13:59:06Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-04-28T16:10:36Z",
       "score": 4.67
@@ -1059,6 +1055,10 @@
     {
       "timestamp": "2026-05-11T16:30:53Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-05-11T18:59:09Z",
+      "score": 4.59
     }
   ]
 }

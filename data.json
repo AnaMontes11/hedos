@@ -1,11 +1,19 @@
 {
-  "generated": "2026-05-11T06:37:44Z",
-  "global_score": 4.92,
-  "articles_scored": 92,
-  "words_matched": 303,
+  "generated": "2026-05-11T10:36:07Z",
+  "global_score": 4.55,
+  "articles_scored": 89,
+  "words_matched": 237,
   "top_negative": [
     {
       "word": "torturas",
+      "score": -4
+    },
+    {
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "tortura",
       "score": -4
     },
     {
@@ -17,43 +25,19 @@
       "score": -3
     },
     {
-      "word": "perdió",
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "pierde",
       "score": -3
     },
     {
       "word": "ridículo",
       "score": -3
-    },
-    {
-      "word": "horrible",
-      "score": -3
-    },
-    {
-      "word": "destruye",
-      "score": -3
-    },
-    {
-      "word": "terror",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "maravilloso",
-      "score": 4
-    },
-    {
-      "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "milagro",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -63,28 +47,93 @@
       "score": 3
     },
     {
+      "word": "mejor",
+      "score": 3
+    },
+    {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "medalla",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.61,
-    "elDiario.es": 4.66,
-    "El Mundo": 4.23,
-    "ABC": 5.31,
-    "El Confidencial": 4.89,
-    "BBC Mundo": 4.79,
+    "El País": 3.94,
+    "elDiario.es": 4.79,
+    "El Mundo": 4.17,
+    "ABC": 4.9,
+    "El Confidencial": 4.58,
+    "BBC Mundo": 4.76,
     "France 24 ES": 4.93,
-    "La Nación AR": 5.51,
-    "La Jornada MX": 5.27,
-    "Desinformémonos": 4.5,
-    "Resumen Latinoam.": 5.27
+    "La Nación AR": 5.42,
+    "La Jornada MX": 3.95,
+    "Desinformémonos": 5.0,
+    "Resumen Latinoam.": 4.13
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora del brote de hantavirus, en directo | Francia confirma un positivo e",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "positivo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Clavijo critica que el Gobierno le ha querido “ridiculizar” y llevar “a la anécd",
+      "score": 5.16,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "querido",
+          "score": 2
+        },
+        {
+          "word": "ridiculizar",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "permitir",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El populismo perjudica la salud",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "miope",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El PP acaricia la mayoría absoluta en Andalucía con el doble de escaños que el P",
@@ -98,23 +147,12 @@
     },
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | EE UU confirma un positivo y u",
-      "score": 6.6,
+      "title": "De la defensa alta a un ataque coral: siete datos clave del Barcelona campeón de",
+      "score": 4.2,
       "words": [
         {
-          "word": "positivo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El populismo perjudica la salud",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "miope",
-          "score": -2
+          "word": "ataque",
+          "score": -1
         }
       ]
     },
@@ -139,47 +177,6 @@
     },
     {
       "source": "El País",
-      "title": "El Barça se da prisa por ganar la Liga y anula al Madrid en el clásico",
-      "score": 8.2,
-      "words": [
-        {
-          "word": "ganar",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El éxito del Barcelona es el éxito de Hansi Flick, un ciudadano culé con los ojo",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Toca fingir eternidad en el Real Madrid",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "fingir",
-          "score": -1
-        },
-        {
-          "word": "perdió",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Cierre este edificio, presidente",
       "score": 1.8,
       "words": [
@@ -191,12 +188,85 @@
     },
     {
       "source": "El País",
-      "title": "La IA que nombra, el mundo gobierna",
-      "score": 5.8,
+      "title": "Trump considera “totalmente inaceptable” la respuesta de Irán a su propuesta de ",
+      "score": 4.4,
       "words": [
         {
-          "word": "significado",
-          "score": 1
+          "word": "inaceptable",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un cigarrillo para la Virgen María o un ‘bulldozer’ derribando a San Jorge: las ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El pasajero estadounidense dio \"positivo leve\" en hantavirus en el barco y fue e",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "separado",
+          "score": -1
+        },
+        {
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "separado",
+          "score": -1
+        },
+        {
+          "word": "negativo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los pasajeros españoles del barco del hantavirus harán cuarentena hasta el 17 de",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "enfermedades",
+          "score": -2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "sentido",
+          "score": 3
         }
       ]
     },
@@ -229,6 +299,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Muere de un infarto un guardia civil durante el operativo por la llegada del MV ",
+      "score": 5.09,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "salvar",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El día en que Canarias (sin Clavijo) fue el centro del mundo por el hantavirus: ",
       "score": 5.16,
       "words": [
@@ -256,118 +353,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "MV Hondius: lo hacemos porque debemos",
-      "score": 4.2,
+      "title": "Clavijo insiste en su teoría de las ratas nadadoras: ''No es esperable que pueda",
+      "score": 4.41,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
+          "word": "querer",
+          "score": 1
         },
         {
-          "word": "emergencia",
+          "word": "ridiculizar",
           "score": -2
         },
         {
-          "word": "riesgo",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "riesgo",
+          "word": "querer",
+          "score": 1
+        },
+        {
+          "word": "ridiculizar",
           "score": -2
-        },
-        {
-          "word": "desastre",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La planta 22 del Gómez Ulla: una unidad de \"alto nivel\" contra el hantavirus",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "enfermedades",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "enfermedades",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Si sale caducado, no lo tiréis\": así se instaba a usar material obsoleto para a",
-      "score": 4.37,
-      "words": [
-        {
-          "word": "obsoleto",
-          "score": -2
-        },
-        {
-          "word": "obsoleto",
-          "score": -2
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "cáncer",
-          "score": -1
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Congreso prevé retirar este miércoles la acreditación de prensa por hasta tre",
-      "score": 4.26,
-      "words": [
-        {
-          "word": "dejar",
-          "score": -1
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "amenazar",
-          "score": -2
-        },
-        {
-          "word": "listo",
-          "score": -2
-        },
-        {
-          "word": "vil",
-          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-28T05:56:54Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-28T08:27:50Z",
       "score": 4.77
@@ -1035,6 +1047,10 @@
     {
       "timestamp": "2026-05-11T06:37:44Z",
       "score": 4.92
+    },
+    {
+      "timestamp": "2026-05-11T10:36:07Z",
+      "score": 4.55
     }
   ]
 }

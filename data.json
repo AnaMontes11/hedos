@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-11T10:36:07Z",
-  "global_score": 4.55,
+  "generated": "2026-05-11T13:46:18Z",
+  "global_score": 4.57,
   "articles_scored": 89,
-  "words_matched": 237,
+  "words_matched": 231,
   "top_negative": [
     {
       "word": "torturas",
@@ -39,6 +39,10 @@
   ],
   "top_positive": [
     {
+      "word": "brillante",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
@@ -47,11 +51,11 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "premios",
       "score": 3
     },
     {
@@ -63,31 +67,27 @@
       "score": 3
     },
     {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "medalla",
+      "word": "cautivar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.94,
-    "elDiario.es": 4.79,
-    "El Mundo": 4.17,
-    "ABC": 4.9,
+    "El País": 3.93,
+    "elDiario.es": 4.89,
+    "El Mundo": 4.95,
+    "ABC": 4.94,
     "El Confidencial": 4.58,
-    "BBC Mundo": 4.76,
-    "France 24 ES": 4.93,
-    "La Nación AR": 5.42,
+    "BBC Mundo": 4.45,
+    "France 24 ES": 5.1,
+    "La Nación AR": 4.71,
     "La Jornada MX": 3.95,
     "Desinformémonos": 5.0,
-    "Resumen Latinoam.": 4.13
+    "Resumen Latinoam.": 3.82
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del brote de hantavirus, en directo | Francia confirma un positivo e",
+      "title": "Última hora del brote de hantavirus, en directo | Sanidad informa de que finalme",
       "score": 6.6,
       "words": [
         {
@@ -125,11 +125,11 @@
     },
     {
       "source": "El País",
-      "title": "El populismo perjudica la salud",
+      "title": "Así son las pruebas diagnósticas y los síntomas del hantavirus que permiten iden",
       "score": 3.4,
       "words": [
         {
-          "word": "miope",
+          "word": "enfermedad",
           "score": -2
         }
       ]
@@ -188,35 +188,55 @@
     },
     {
       "source": "El País",
-      "title": "Trump considera “totalmente inaceptable” la respuesta de Irán a su propuesta de ",
-      "score": 4.4,
+      "title": "El Supremo rechaza dejar en libertad a Koldo García tras el juicio de las mascar",
+      "score": 4.52,
       "words": [
         {
-          "word": "inaceptable",
-          "score": -2
+          "word": "rechaza",
+          "score": -1
         },
         {
-          "word": "paz",
+          "word": "dejar",
+          "score": -1
+        },
+        {
+          "word": "libertad",
           "score": 2
         },
         {
-          "word": "guerra",
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "bloqueo",
+          "word": "fuga",
           "score": -1
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Un cigarrillo para la Virgen María o un ‘bulldozer’ derribando a San Jorge: las ",
-      "score": 4.2,
+      "source": "elDiario.es",
+      "title": "La mujer en observación por contacto con hantavirus en Barcelona se mantiene sin",
+      "score": 5.06,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
+          "word": "negativo",
+          "score": -2
+        },
+        {
+          "word": "estable",
+          "score": 2
+        },
+        {
+          "word": "querido",
+          "score": 2
+        },
+        {
+          "word": "calma",
+          "score": 2
+        },
+        {
+          "word": "negativo",
+          "score": -2
         }
       ]
     },
@@ -380,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-28T08:27:50Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-04-28T11:03:01Z",
       "score": 4.74
@@ -1051,6 +1067,10 @@
     {
       "timestamp": "2026-05-11T10:36:07Z",
       "score": 4.55
+    },
+    {
+      "timestamp": "2026-05-11T13:46:18Z",
+      "score": 4.57
     }
   ]
 }

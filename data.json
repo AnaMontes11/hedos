@@ -1,23 +1,19 @@
 {
-  "generated": "2026-05-12T09:35:10Z",
-  "global_score": 4.33,
-  "articles_scored": 95,
-  "words_matched": 257,
+  "generated": "2026-05-12T11:52:01Z",
+  "global_score": 4.67,
+  "articles_scored": 91,
+  "words_matched": 260,
   "top_negative": [
     {
       "word": "culo",
       "score": -4
     },
     {
+      "word": "fraudes",
+      "score": -4
+    },
+    {
       "word": "infierno",
-      "score": -4
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "tortura",
       "score": -4
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "peor",
       "score": -3
+    },
+    {
+      "word": "vil",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -47,11 +47,11 @@
       "score": 4
     },
     {
-      "word": "impresionante",
+      "word": "cortés",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "emoción",
       "score": 3
     },
     {
@@ -59,11 +59,11 @@
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "prestigio",
+      "word": "suerte",
       "score": 3
     },
     {
@@ -72,23 +72,23 @@
     }
   ],
   "per_source": {
-    "El País": 4.76,
+    "El País": 5.17,
     "elDiario.es": 5.01,
-    "El Mundo": 4.27,
-    "ABC": 4.07,
-    "El Confidencial": 3.73,
-    "BBC Mundo": 3.84,
-    "France 24 ES": 4.17,
-    "La Nación AR": 5.9,
-    "La Jornada MX": 3.95,
-    "Desinformémonos": 4.39,
-    "Resumen Latinoam.": 3.75
+    "El Mundo": 4.46,
+    "ABC": 5.43,
+    "El Confidencial": 3.74,
+    "BBC Mundo": 4.83,
+    "France 24 ES": 4.08,
+    "La Nación AR": 4.79,
+    "La Jornada MX": 4.75,
+    "Desinformémonos": 4.72,
+    "Resumen Latinoam.": 4.55
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora del brote de hantavirus, en directo | La OMS minimiza la posibilidad",
-      "score": 6.76,
+      "score": 6.8,
       "words": [
         {
           "word": "mayor",
@@ -104,10 +104,6 @@
         },
         {
           "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "estable",
           "score": 2
         }
       ]
@@ -144,6 +140,17 @@
     },
     {
       "source": "El País",
+      "title": "El Supremo cierra la puerta a hacer fijos a los empleados públicos que encadenen",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "puesto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "¿Personas o roedores?",
       "score": 6.6,
       "words": [
@@ -155,31 +162,12 @@
     },
     {
       "source": "El País",
-      "title": "Los drones por cable, el arma “más fácil que un videojuego” con el que Hezbolá a",
-      "score": 4.2,
+      "title": "En directo | El Consejo de Ministros aprueba el proyecto de ley para frenar el m",
+      "score": 6.6,
       "words": [
         {
-          "word": "fácil",
-          "score": 1
-        },
-        {
-          "word": "enemigo",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las guerras desplazan a más personas que las inundaciones, las tormentas y otros",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "desastres",
-          "score": -2
+          "word": "aprueba",
+          "score": 2
         }
       ]
     },
@@ -239,6 +227,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Sanidad confirma el positivo por hantavirus del pasajero español aislado en el H",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "aislado",
+          "score": -1
+        },
+        {
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "aislado",
+          "score": -1
+        },
+        {
+          "word": "positivo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Qué es la unidad de aislamiento de alto nivel donde está el español que ha dado ",
       "score": 5.04,
       "words": [
@@ -288,33 +303,6 @@
         {
           "word": "solo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El crucero del hantavirus abandona Tenerife tras un despliegue sin precedentes p",
-      "score": 5.3,
-      "words": [
-        {
-          "word": "abandona",
-          "score": -2
-        },
-        {
-          "word": "abandona",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "positivo",
-          "score": 2
         }
       ]
     },
@@ -428,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-29T02:40:53Z",
-      "score": 4.52
-    },
     {
       "timestamp": "2026-04-29T05:52:33Z",
       "score": 4.62
@@ -1099,6 +1083,10 @@
     {
       "timestamp": "2026-05-12T09:35:10Z",
       "score": 4.33
+    },
+    {
+      "timestamp": "2026-05-12T11:52:01Z",
+      "score": 4.67
     }
   ]
 }

@@ -1,15 +1,23 @@
 {
-  "generated": "2026-05-12T02:49:47Z",
-  "global_score": 4.24,
+  "generated": "2026-05-12T06:13:11Z",
+  "global_score": 4.28,
   "articles_scored": 97,
-  "words_matched": 245,
+  "words_matched": 298,
   "top_negative": [
     {
-      "word": "torturas",
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "culo",
       "score": -4
     },
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "infierno",
       "score": -4
     },
     {
@@ -21,70 +29,77 @@
       "score": -3
     },
     {
-      "word": "ridículo",
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "horrible",
-      "score": -3
-    },
-    {
-      "word": "ducha",
-      "score": -3
-    },
-    {
-      "word": "pierde",
+      "word": "vil",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "brillar",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "premios",
+      "score": 3
     },
     {
       "word": "suerte",
       "score": 3
     },
     {
-      "word": "rigurosamente",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "afecto",
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.62,
-    "elDiario.es": 4.94,
-    "El Mundo": 4.69,
-    "ABC": 4.15,
-    "El Confidencial": 4.45,
-    "BBC Mundo": 3.95,
-    "France 24 ES": 4.53,
-    "La Nación AR": 3.81,
+    "El País": 4.29,
+    "elDiario.es": 4.95,
+    "El Mundo": 4.56,
+    "ABC": 4.02,
+    "El Confidencial": 4.73,
+    "BBC Mundo": 3.84,
+    "France 24 ES": 4.18,
+    "La Nación AR": 4.31,
     "La Jornada MX": 3.95,
     "Desinformémonos": 4.39,
     "Resumen Latinoam.": 3.89
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "¿Qué pasa ahora con los pasajeros del crucero? Del estricto aislamiento hospital",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "imponer",
+          "score": -1
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Uno de los españoles aislados en el Gómez Ulla da un positivo provisional en su ",
@@ -110,18 +125,7 @@
     },
     {
       "source": "El País",
-      "title": "El PP limita sus críticas a las “horas iniciales”de la crisis del Hantavirus",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un análisis comparado de cinco infectados por el hantavirus confirma que hubo co",
+      "title": "Linus Spatz, investigador que desarrolla una terapia frente al hantavirus: “Este",
       "score": 3.4,
       "words": [
         {
@@ -132,24 +136,42 @@
     },
     {
       "source": "El País",
-      "title": "Los tests a bordo, el “positivo débil” y los tiempos de los resultados de las PC",
-      "score": 5.0,
+      "title": "La ‘lepenización’ de Vox: aparca su rechazo al aborto y las leyes de género para",
+      "score": 3.8,
       "words": [
         {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "débil",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "aclara",
-          "score": 2
+          "word": "combate",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Campaña en Almería: el PP con cervecita y Vox con insultos mueven masas en el fe",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "insultos",
+          "score": -2
         },
         {
-          "word": "solo",
+          "word": "puesto",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Personas o roedores?",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "salvar",
+          "score": 2
         }
       ]
     },
@@ -165,55 +187,6 @@
         {
           "word": "críticos",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Aparece en Países Bajos un cuadro robado por los nazis gracias a un hombre que d",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "robado",
-          "score": -2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "robado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Fernando Simón con Mónica García y con Ana Mato: esta crisis no es como la covid",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "contagio",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cierre este edificio, presidente",
-      "score": 1.8,
-      "words": [
-        {
-          "word": "torturas",
-          "score": -4
         }
       ]
     },
@@ -240,6 +213,60 @@
         },
         {
           "word": "negativo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Hantavirus: claves científicas y ratas submarinas",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "viva",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El brote del crucero deja un nuevo aviso: los humanos seguimos jugando a la rule",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "separado",
+          "score": -1
+        },
+        {
+          "word": "enfermedades",
+          "score": -2
+        },
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "riesgo",
           "score": -2
         }
       ]
@@ -273,28 +300,82 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los últimos pasajeros del crucero del hantavirus desembarcan en Tenerife después",
-      "score": 4.2,
+      "title": "Qué le pasa a un político cuando apuesta su credibilidad a la teoría de las rata",
+      "score": 4.23,
       "words": [
         {
-          "word": "abandona",
+          "word": "peligro",
           "score": -2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "sospechosos",
+          "score": -1
+        },
+        {
+          "word": "enfermedad",
+          "score": -2
+        },
+        {
+          "word": "nervioso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Anatomía de un despropósito: cómo Clavijo ha usado la crisis del hantavirus para",
+      "score": 4.7,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "alarma",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "alarma",
+          "score": -2
+        },
+        {
+          "word": "espera",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Cuarentena en casa en Alemania o 15 días de hospital en Francia: qué hace cada p",
+      "score": 5.14,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "establecido",
+          "score": 1
+        },
+        {
+          "word": "positivo",
+          "score": 2
         },
         {
           "word": "afectado",
           "score": -1
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "abandona",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
         }
       ]
     },
@@ -324,90 +405,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los pasajeros españoles del barco del hantavirus harán cuarentena hasta el 17 de",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "enfermedades",
-          "score": -2
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El día en que Canarias (sin Clavijo) fue el centro del mundo por el hantavirus: ",
-      "score": 5.16,
-      "words": [
-        {
-          "word": "ridículo",
-          "score": -3
-        },
-        {
-          "word": "calma",
-          "score": 2
-        },
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "unido",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La planta 22 del Gómez Ulla: una unidad de \"alto nivel\" contra el hantavirus",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "enfermedades",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "enfermedades",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-28T22:55:02Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-28T23:53:39Z",
       "score": 4.61
@@ -1075,6 +1075,10 @@
     {
       "timestamp": "2026-05-12T02:49:47Z",
       "score": 4.24
+    },
+    {
+      "timestamp": "2026-05-12T06:13:11Z",
+      "score": 4.28
     }
   ]
 }

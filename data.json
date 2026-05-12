@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-12T21:16:51Z",
-  "global_score": 4.78,
+  "generated": "2026-05-12T22:57:59Z",
+  "global_score": 4.73,
   "articles_scored": 94,
-  "words_matched": 260,
+  "words_matched": 256,
   "top_negative": [
     {
       "word": "culo",
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "egoísmo",
+      "word": "advertencia",
       "score": -3
     }
   ],
@@ -47,11 +47,7 @@
       "score": 4
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "aliviado",
+      "word": "súper",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.54,
+    "El País": 4.3,
     "elDiario.es": 4.96,
     "El Mundo": 4.42,
-    "ABC": 5.51,
+    "ABC": 5.52,
     "El Confidencial": 4.6,
-    "BBC Mundo": 4.87,
-    "France 24 ES": 4.38,
-    "La Nación AR": 4.73,
+    "BBC Mundo": 5.28,
+    "France 24 ES": 4.52,
+    "La Nación AR": 4.71,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 4.58,
-    "Resumen Latinoam.": 5.02
+    "Desinformémonos": 4.55,
+    "Resumen Latinoam.": 4.16
   },
   "articles": [
     {
@@ -191,6 +191,17 @@
         },
         {
           "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Israel se clasifica para la final de Eurovisión 2026 junto a las favoritas Finla",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "advertencia",
           "score": -3
         }
       ]
@@ -394,40 +405,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "A Clavijo le parece ''un día triste'' el siguiente a la operación que fue ''un é",
-      "score": 4.22,
-      "words": [
-        {
-          "word": "triste",
-          "score": -2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "triste",
-          "score": -2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-29T15:10:34Z",
-      "score": 4.52
-    },
     {
       "timestamp": "2026-04-29T17:25:41Z",
       "score": 4.56
@@ -1095,6 +1075,10 @@
     {
       "timestamp": "2026-05-12T21:16:51Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-05-12T22:57:59Z",
+      "score": 4.73
     }
   ]
 }

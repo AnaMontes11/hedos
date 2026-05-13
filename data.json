@@ -1,12 +1,16 @@
 {
-  "generated": "2026-05-13T00:04:49Z",
-  "global_score": 4.64,
-  "articles_scored": 96,
-  "words_matched": 271,
+  "generated": "2026-05-13T04:41:19Z",
+  "global_score": 4.63,
+  "articles_scored": 92,
+  "words_matched": 268,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "fraude",
+      "score": -4
     },
     {
       "word": "culo",
@@ -17,15 +21,7 @@
       "score": -4
     },
     {
-      "word": "enemigos",
-      "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "cargado",
+      "word": "crisis",
       "score": -3
     },
     {
@@ -33,29 +29,17 @@
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "conspiración",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "súper",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "fiel",
       "score": 3
     },
     {
@@ -63,120 +47,105 @@
       "score": 3
     },
     {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
       "word": "mejor",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "mayor",
       "score": 3
+    },
+    {
+      "word": "defensores",
+      "score": 2
+    },
+    {
+      "word": "favor",
+      "score": 2
     }
   ],
   "per_source": {
-    "El País": 4.35,
-    "elDiario.es": 4.96,
-    "El Mundo": 4.42,
+    "El País": 4.92,
+    "elDiario.es": 4.76,
+    "El Mundo": 4.27,
     "ABC": 4.29,
-    "El Confidencial": 4.6,
-    "BBC Mundo": 5.28,
-    "France 24 ES": 4.73,
-    "La Nación AR": 4.91,
+    "El Confidencial": 4.77,
+    "BBC Mundo": 5.64,
+    "France 24 ES": 4.94,
+    "La Nación AR": 3.89,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 4.55,
-    "Resumen Latinoam.": 4.18
+    "Desinformémonos": 4.56,
+    "Resumen Latinoam.": 3.95
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Las 16 frases que han marcado la insólita rueda de prensa de Florentino Pérez",
-      "score": 3.13,
+      "title": "El viaje de Ayuso a México: las inconsistencias y exageraciones del relato de la",
+      "score": 4.47,
       "words": [
         {
-          "word": "frases",
+          "word": "exageraciones",
           "score": -2
         },
         {
-          "word": "denunciar",
-          "score": -2
+          "word": "aclara",
+          "score": 2
         },
         {
-          "word": "enemigos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Vídeo | La rueda de prensa completa de Florentino Pérez",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "negar",
-          "score": -2
-        },
-        {
-          "word": "cansado",
+          "word": "amenazas",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Ayuso acusa al Gobierno de Sánchez de “abandonarla” en “una situación de peligro",
-      "score": 3.4,
+      "title": "Esfuerzo global para controlar el brote de hantavirus, mientras los casos en Esp",
+      "score": 5.4,
       "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sheinbaum pone en duda las críticas de Ayuso a la seguridad en México: “No creo ",
-      "score": 4.04,
-      "words": [
-        {
-          "word": "duda",
-          "score": -1
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
         {
           "word": "riesgo",
           "score": -2
         },
         {
-          "word": "cargado",
-          "score": -3
-        },
-        {
-          "word": "cortés",
+          "word": "mayor",
           "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El director de la OMS minimiza la posibilidad de “un brote mayor” y felicita a E",
-      "score": 6.6,
+      "title": "Ángel Víctor Torres: “Clavijo debería dejar ya esas tesis conspiranoicas”",
+      "score": 3.4,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "dejar",
+          "score": -1
         },
         {
-          "word": "éxito",
-          "score": 2
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Todos los frentes de Piqué en el mundo empresarial: de la CNMV al ‘caso Supercop",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "piqué",
+          "score": -2
         },
         {
-          "word": "autoridad",
-          "score": 1
+          "word": "ruptura",
+          "score": -2
         }
       ]
     },
@@ -208,12 +177,104 @@
     },
     {
       "source": "El País",
-      "title": "¿Personas o roedores?",
+      "title": "Cartel de Ayuso Nuevo Chamberí",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Buen provecho, con perdón",
       "score": 6.6,
       "words": [
         {
-          "word": "salvar",
+          "word": "perdón",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Antonio Maíllo: “El PSOE duda y Adelante no quiere gobernar. Somos la fuerza úti",
+      "score": 6.0,
+      "words": [
+        {
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "útil",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La OMS se reivindica con el brote de hantavirus frente a los ataques de Trump y ",
+      "score": 4.84,
+      "words": [
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "desprecio",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El \"éxito\" de la gestión del hantavirus descoloca al PP",
+      "score": 4.08,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "conspiración",
+          "score": -3
         }
       ]
     },
@@ -246,81 +307,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "🎙 PODCAST | Hantavirus: claves científicas y ratas submarinas",
-      "score": 5.8,
+      "title": "Altos cargos alojados con turistas, pocas horas de sueño y mucha crema solar: in",
+      "score": 4.9,
       "words": [
         {
-          "word": "duda",
-          "score": -1
+          "word": "cargos",
+          "score": -2
         },
         {
-          "word": "asuntos",
+          "word": "sueño",
           "score": 1
         },
         {
-          "word": "alerta",
-          "score": -1
+          "word": "cargos",
+          "score": -2
         },
         {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "viva",
+          "word": "sueño",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sanidad amplía la cuarentena por hantavirus pero permitirá visitas a quien dé ne",
-      "score": 5.75,
-      "words": [
-        {
-          "word": "negativo",
-          "score": -2
         },
         {
-          "word": "negativo",
-          "score": -2
-        },
-        {
-          "word": "recomienda",
-          "score": 2
-        },
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "aislado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Por qué el hantavirus obliga a una cuarentena de 42 días, la más larga prevista ",
-      "score": 4.81,
-      "words": [
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "superior",
+          "word": "interesante",
           "score": 2
         }
       ]
@@ -354,64 +361,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El brote del crucero deja un nuevo aviso: los humanos seguimos jugando a la rule",
-      "score": 4.54,
+      "title": "Sanidad amplía la cuarentena por hantavirus pero permitirá visitas a quien dé ne",
+      "score": 5.75,
       "words": [
+        {
+          "word": "negativo",
+          "score": -2
+        },
+        {
+          "word": "negativo",
+          "score": -2
+        },
+        {
+          "word": "recomienda",
+          "score": 2
+        },
         {
           "word": "positivo",
           "score": 2
         },
         {
-          "word": "enfermedades",
-          "score": -2
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué le pasa a un político cuando apuesta su credibilidad a la teoría de las rata",
-      "score": 4.23,
-      "words": [
-        {
-          "word": "peligro",
-          "score": -2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "sospechosos",
+          "word": "aislado",
           "score": -1
-        },
-        {
-          "word": "enfermedad",
-          "score": -2
-        },
-        {
-          "word": "nervioso",
-          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-29T19:21:15Z",
-      "score": 4.34
-    },
     {
       "timestamp": "2026-04-29T21:01:29Z",
       "score": 4.6
@@ -1079,6 +1055,10 @@
     {
       "timestamp": "2026-05-13T00:04:49Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-05-13T04:41:19Z",
+      "score": 4.63
     }
   ]
 }

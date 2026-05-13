@@ -1,19 +1,15 @@
 {
-  "generated": "2026-05-13T07:46:53Z",
-  "global_score": 4.75,
-  "articles_scored": 91,
-  "words_matched": 303,
+  "generated": "2026-05-13T10:23:35Z",
+  "global_score": 4.61,
+  "articles_scored": 95,
+  "words_matched": 294,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -25,15 +21,19 @@
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "falso",
       "score": -3
     },
     {
-      "word": "conspiración",
+      "word": "mal",
       "score": -3
     },
     {
-      "word": "abuso",
+      "word": "desesperadamente",
+      "score": -3
+    },
+    {
+      "word": "enemigos",
       "score": -3
     }
   ],
@@ -43,7 +43,7 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "mejor",
       "score": 3
     },
     {
@@ -51,19 +51,19 @@
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "lealtad",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "fiel",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "premio",
       "score": 3
     },
     {
@@ -73,16 +73,16 @@
   ],
   "per_source": {
     "El País": 4.62,
-    "elDiario.es": 4.64,
-    "El Mundo": 4.29,
-    "ABC": 5.52,
-    "El Confidencial": 4.85,
-    "BBC Mundo": 5.64,
+    "elDiario.es": 4.95,
+    "El Mundo": 4.03,
+    "ABC": 4.22,
+    "El Confidencial": 4.22,
+    "BBC Mundo": 5.81,
     "France 24 ES": 4.4,
-    "La Nación AR": 5.05,
+    "La Nación AR": 4.63,
     "La Jornada MX": 4.75,
     "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 4.03
+    "Resumen Latinoam.": 4.41
   },
   "articles": [
     {
@@ -121,16 +121,24 @@
     },
     {
       "source": "El País",
-      "title": "Ángel Víctor Torres: “Clavijo debería dejar ya esas tesis conspiranoicas”",
-      "score": 3.4,
+      "title": "Clavijo redobla el ataque contra el Gobierno por la crisis del hantavirus: “Han ",
+      "score": 4.2,
       "words": [
         {
-          "word": "dejar",
+          "word": "ataque",
           "score": -1
         },
         {
           "word": "crisis",
           "score": -3
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "positivo",
+          "score": 2
         }
       ]
     },
@@ -166,25 +174,6 @@
     },
     {
       "source": "El País",
-      "title": "Meloni se estrella en sus guerras culturales",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "fracaso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Un delirio impropio de Florentino Pérez",
       "score": 3.4,
       "words": [
@@ -200,124 +189,31 @@
     },
     {
       "source": "El País",
-      "title": "Cartel de Ayuso Nuevo Chamberí",
-      "score": 7.4,
+      "title": "La justicia exime al Real Madrid por los ruidos del Bernabéu y varias promotoras",
+      "score": 6.6,
       "words": [
         {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "mejor",
-          "score": 3
+          "word": "justicia",
+          "score": 2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "La OMS se reivindica con el brote de hantavirus frente a los ataques de Trump y ",
-      "score": 4.84,
+      "source": "El País",
+      "title": "Meloni se estrella en sus guerras culturales",
+      "score": 4.47,
       "words": [
         {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "desprecio",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El \"éxito\" de la gestión del hantavirus descoloca al PP",
-      "score": 4.08,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "conspiración",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Altos cargos alojados con turistas, pocas horas de sueño y mucha crema solar: in",
-      "score": 4.9,
-      "words": [
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "sueño",
+          "word": "llegar",
           "score": 1
         },
         {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "sueño",
-          "score": 1
-        },
-        {
-          "word": "interesante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sanidad amplía la cuarentena por hantavirus pero permitirá visitas a quien dé ne",
-      "score": 5.75,
-      "words": [
-        {
-          "word": "negativo",
-          "score": -2
-        },
-        {
-          "word": "negativo",
-          "score": -2
-        },
-        {
-          "word": "recomienda",
-          "score": 2
-        },
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "aislado",
+          "word": "imponer",
           "score": -1
+        },
+        {
+          "word": "fracaso",
+          "score": -2
         }
       ]
     },
@@ -350,6 +246,141 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Los letrados del Congreso piden expulsar entre 11 días y tres meses a Vito Quile",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "expulsar",
+          "score": -2
+        },
+        {
+          "word": "expulsar",
+          "score": -2
+        },
+        {
+          "word": "exonerar",
+          "score": 2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Rafael Moreno, alcalde de Adamuz: \"A Juanma Moreno le salvamos el culo hasta que",
+      "score": 4.63,
+      "words": [
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "trágico",
+          "score": -2
+        },
+        {
+          "word": "accidente",
+          "score": -2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El alto cargo que archivó la investigación por el material caducado en un hospit",
+      "score": 4.25,
+      "words": [
+        {
+          "word": "motivación",
+          "score": 1
+        },
+        {
+          "word": "obsoleto",
+          "score": -2
+        },
+        {
+          "word": "obsoleto",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Anatomía del letargo socialista andaluz: los 87 municipios donde el PSOE geoloca",
+      "score": 6.03,
+      "words": [
+        {
+          "word": "letargo",
+          "score": -2
+        },
+        {
+          "word": "letargo",
+          "score": -2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | El corazón (verde y blanco) de Juanma Moreno",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "insistente",
+          "score": -1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "importante",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Claves de la sentencia del Supremo que solo permite hacer fijos a interinos en f",
       "score": 4.41,
       "words": [
@@ -374,40 +405,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Supremo declara fija a una interina tras el fallo de la justicia europea y ab",
-      "score": 4.21,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "abuso",
-          "score": -3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-29T22:54:19Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-04-29T23:52:59Z",
       "score": 4.46
@@ -1075,6 +1075,10 @@
     {
       "timestamp": "2026-05-13T07:46:53Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-05-13T10:23:35Z",
+      "score": 4.61
     }
   ]
 }

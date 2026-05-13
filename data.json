@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-13T04:41:19Z",
-  "global_score": 4.63,
-  "articles_scored": 92,
-  "words_matched": 268,
+  "generated": "2026-05-13T07:46:53Z",
+  "global_score": 4.75,
+  "articles_scored": 91,
+  "words_matched": 303,
   "top_negative": [
     {
       "word": "negro",
@@ -25,64 +25,64 @@
       "score": -3
     },
     {
-      "word": "advertencia",
-      "score": -3
-    },
-    {
       "word": "peor",
       "score": -3
     },
     {
       "word": "conspiración",
       "score": -3
+    },
+    {
+      "word": "abuso",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
     {
       "word": "súper",
       "score": 3
     },
     {
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
+    },
+    {
+      "word": "fiel",
+      "score": 3
+    },
+    {
+      "word": "leal",
+      "score": 3
+    },
+    {
       "word": "popular",
       "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
-    },
-    {
-      "word": "defensores",
-      "score": 2
-    },
-    {
-      "word": "favor",
-      "score": 2
     }
   ],
   "per_source": {
-    "El País": 4.92,
-    "elDiario.es": 4.76,
-    "El Mundo": 4.27,
-    "ABC": 4.29,
-    "El Confidencial": 4.77,
+    "El País": 4.62,
+    "elDiario.es": 4.64,
+    "El Mundo": 4.29,
+    "ABC": 5.52,
+    "El Confidencial": 4.85,
     "BBC Mundo": 5.64,
-    "France 24 ES": 4.94,
-    "La Nación AR": 3.89,
+    "France 24 ES": 4.4,
+    "La Nación AR": 5.05,
     "La Jornada MX": 4.75,
     "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 3.95
+    "Resumen Latinoam.": 4.03
   },
   "articles": [
     {
@@ -166,12 +166,35 @@
     },
     {
       "source": "El País",
-      "title": "Israel se clasifica para la final de Eurovisión 2026 junto a las favoritas Finla",
-      "score": 2.6,
+      "title": "Meloni se estrella en sus guerras culturales",
+      "score": 4.47,
       "words": [
         {
-          "word": "advertencia",
-          "score": -3
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "imponer",
+          "score": -1
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un delirio impropio de Florentino Pérez",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "desorientado",
+          "score": -2
+        },
+        {
+          "word": "incapaz",
+          "score": -2
         }
       ]
     },
@@ -187,40 +210,6 @@
         {
           "word": "mejor",
           "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Buen provecho, con perdón",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "perdón",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Antonio Maíllo: “El PSOE duda y Adelante no quiere gobernar. Somos la fuerza úti",
-      "score": 6.0,
-      "words": [
-        {
-          "word": "duda",
-          "score": -1
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "útil",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
         }
       ]
     },
@@ -280,33 +269,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez, sobre la crisis del hantavirus: \"El mundo no necesita más egoísmo, ni m",
-      "score": 4.96,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "egoísmo",
-          "score": -3
-        },
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "egoísmo",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Altos cargos alojados con turistas, pocas horas de sueño y mucha crema solar: in",
       "score": 4.9,
       "words": [
@@ -328,33 +290,6 @@
         },
         {
           "word": "interesante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sanidad confirma el positivo por hantavirus del pasajero español aislado en el H",
-      "score": 5.17,
-      "words": [
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "aislado",
-          "score": -1
-        },
-        {
-          "word": "positivo",
-          "score": 2
-        },
-        {
-          "word": "aislado",
-          "score": -1
-        },
-        {
-          "word": "positivo",
           "score": 2
         }
       ]
@@ -385,13 +320,90 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ayuso alega ante el Supremo que la regularización de migrantes \"desbordará\" los ",
+      "score": 4.46,
+      "words": [
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "conceder",
+          "score": 1
+        },
+        {
+          "word": "colapso",
+          "score": -2
+        },
+        {
+          "word": "contencioso",
+          "score": -2
+        },
+        {
+          "word": "demanda",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Claves de la sentencia del Supremo que solo permite hacer fijos a interinos en f",
+      "score": 4.41,
+      "words": [
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Supremo declara fija a una interina tras el fallo de la justicia europea y ab",
+      "score": 4.21,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "abuso",
+          "score": -3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-29T21:01:29Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-04-29T22:54:19Z",
       "score": 4.54
@@ -1059,6 +1071,10 @@
     {
       "timestamp": "2026-05-13T04:41:19Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-05-13T07:46:53Z",
+      "score": 4.75
     }
   ]
 }

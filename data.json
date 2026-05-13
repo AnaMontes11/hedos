@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-13T18:54:42Z",
-  "global_score": 4.59,
-  "articles_scored": 90,
-  "words_matched": 285,
+  "generated": "2026-05-13T20:44:07Z",
+  "global_score": 4.55,
+  "articles_scored": 94,
+  "words_matched": 292,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -4
     },
     {
-      "word": "infierno",
-      "score": -4
-    },
-    {
       "word": "crisis",
       "score": -3
     },
@@ -34,6 +30,10 @@
     },
     {
       "word": "idiota",
+      "score": -3
+    },
+    {
+      "word": "violento",
       "score": -3
     }
   ],
@@ -47,10 +47,6 @@
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "súper",
       "score": 3
     },
@@ -59,30 +55,34 @@
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "mejor",
       "score": 3
     },
     {
       "word": "suerte",
       "score": 3
+    },
+    {
+      "word": "entusiasta",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.07,
+    "El País": 4.51,
     "elDiario.es": 4.66,
-    "El Mundo": 4.2,
-    "ABC": 5.84,
-    "El Confidencial": 4.08,
+    "El Mundo": 4.51,
+    "ABC": 5.47,
+    "El Confidencial": 4.42,
     "BBC Mundo": 5.43,
-    "France 24 ES": 4.47,
-    "La Nación AR": 4.58,
+    "France 24 ES": 4.32,
+    "La Nación AR": 4.16,
     "La Jornada MX": 4.2,
     "Desinformémonos": 3.68,
-    "Resumen Latinoam.": 3.43
+    "Resumen Latinoam.": 4.29
   },
   "articles": [
     {
@@ -121,54 +121,73 @@
     },
     {
       "source": "El País",
-      "title": "Un delirio impropio de Florentino Pérez",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "desorientado",
-          "score": -2
-        },
-        {
-          "word": "incapaz",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Solo puedes decir todo eso si eres un hombre, rico, blanco, poderoso, misógino y",
-      "score": 4.52,
+      "title": "Florentino Pérez, en su entrevista con Pedrerol en La Sexta: “Solo he recibido f",
+      "score": 5.0,
       "words": [
         {
           "word": "solo",
           "score": -2
         },
         {
-          "word": "rico",
+          "word": "felicitaciones",
           "score": 2
-        },
-        {
-          "word": "poderoso",
-          "score": 2
-        },
-        {
-          "word": "desprecio",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La justicia exime al Real Madrid por los ruidos del Bernabéu y varias promotoras",
-      "score": 6.6,
+      "title": "Enrique Riquelme pide tiempo a Florentino Pérez para “dialogar y acordar un proc",
+      "score": 4.73,
       "words": [
         {
-          "word": "justicia",
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "bueno",
+          "score": 3
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Kevin Warsh, nombrado oficialmente presidente de la Reserva Federal con el aval ",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "decisivo",
+          "score": 1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump aparca la guerra en Oriente Próximo en busca de un éxito difícil en China",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "éxito",
           "score": 2
+        },
+        {
+          "word": "difícil",
+          "score": -2
+        },
+        {
+          "word": "daño",
+          "score": -2
         }
       ]
     },
@@ -180,35 +199,35 @@
         {
           "word": "muerte",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Moreno se enfoca en movilizar a los indecisos en la recta final de la campaña",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "confianza",
+          "score": 1
         },
         {
-          "word": "contagio",
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El PSOE apela a sus antiguos votantes en un ‘sprint’ para movilizar a indecisos:",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "fallar",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cartel de Ayuso Nuevo Chamberí",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
         },
         {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Buen provecho, con perdón",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "perdón",
+          "word": "útil",
           "score": 2
         }
       ]
@@ -374,40 +393,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Por qué Putin dice ahora que la guerra en Ucrania “está llegando a su fin”",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-30T08:22:25Z",
-      "score": 4.38
-    },
     {
       "timestamp": "2026-04-30T10:52:45Z",
       "score": 4.2
@@ -1075,6 +1063,10 @@
     {
       "timestamp": "2026-05-13T18:54:42Z",
       "score": 4.59
+    },
+    {
+      "timestamp": "2026-05-13T20:44:07Z",
+      "score": 4.55
     }
   ]
 }

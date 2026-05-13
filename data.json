@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-13T10:23:35Z",
-  "global_score": 4.61,
-  "articles_scored": 95,
-  "words_matched": 294,
+  "generated": "2026-05-13T13:08:58Z",
+  "global_score": 4.78,
+  "articles_scored": 88,
+  "words_matched": 265,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -17,45 +21,41 @@
       "score": -4
     },
     {
-      "word": "crisis",
+      "word": "violento",
       "score": -3
     },
     {
-      "word": "falso",
+      "word": "vil",
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "defectos",
       "score": -3
     },
     {
-      "word": "desesperadamente",
-      "score": -3
-    },
-    {
-      "word": "enemigos",
+      "word": "advertencia",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
+      "word": "excepcional",
+      "score": 5
     },
     {
-      "word": "mejor",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "súper",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "excelencia",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.62,
-    "elDiario.es": 4.95,
-    "El Mundo": 4.03,
-    "ABC": 4.22,
-    "El Confidencial": 4.22,
-    "BBC Mundo": 5.81,
+    "El País": 5.36,
+    "elDiario.es": 4.81,
+    "El Mundo": 4.28,
+    "ABC": 4.83,
+    "El Confidencial": 4.58,
+    "BBC Mundo": 5.68,
     "France 24 ES": 4.4,
-    "La Nación AR": 4.63,
-    "La Jornada MX": 4.75,
+    "La Nación AR": 6.6,
+    "La Jornada MX": 4.2,
     "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 4.41
+    "Resumen Latinoam.": 4.42
   },
   "articles": [
     {
@@ -106,68 +106,23 @@
     },
     {
       "source": "El País",
-      "title": "Esfuerzo global para controlar el brote de hantavirus, mientras los casos en Esp",
-      "score": 5.4,
+      "title": "Donald Trump aterriza en China para una cumbre de alto voltaje con Xi Jinping",
+      "score": 6.0,
       "words": [
         {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Clavijo redobla el ataque contra el Gobierno por la crisis del hantavirus: “Han ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "ataque",
+          "word": "espera",
           "score": -1
         },
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "positivo",
+          "word": "apoyo",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Todos los frentes de Piqué en el mundo empresarial: de la CNMV al ‘caso Supercop",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "piqué",
-          "score": -2
         },
         {
-          "word": "ruptura",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El empresario amigo de Zapatero investigado en el ‘caso Plus Ultra’ oculta más d",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "acusado",
-          "score": -2
+          "word": "negociar",
+          "score": 2
         },
         {
-          "word": "rescate",
+          "word": "paz",
           "score": 2
         }
       ]
@@ -200,20 +155,57 @@
     },
     {
       "source": "El País",
-      "title": "Meloni se estrella en sus guerras culturales",
-      "score": 4.47,
+      "title": "Arbeloa respalda a Florentino Pérez tras su polémica rueda de prensa: “Es sorpre",
+      "score": 5.0,
       "words": [
         {
-          "word": "llegar",
-          "score": 1
+          "word": "respalda",
+          "score": 2
         },
         {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "fracaso",
+          "word": "polémica",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Confinadas 1.700 personas en un crucero en Burdeos tras la muerte de un pasajero",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "contagio",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cartel de Ayuso Nuevo Chamberí",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Buen provecho, con perdón",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "perdón",
+          "score": 2
         }
       ]
     },
@@ -246,8 +238,35 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Gobierno de Ayuso asegura que lo que hizo la presidenta los tres días que pas",
+      "score": 4.82,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Los letrados del Congreso piden expulsar entre 11 días y tres meses a Vito Quile",
-      "score": 4.4,
+      "score": 3.94,
       "words": [
         {
           "word": "expulsar",
@@ -378,40 +397,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Claves de la sentencia del Supremo que solo permite hacer fijos a interinos en f",
-      "score": 4.41,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-29T23:52:59Z",
-      "score": 4.46
-    },
     {
       "timestamp": "2026-04-30T02:41:43Z",
       "score": 4.46
@@ -1079,6 +1067,10 @@
     {
       "timestamp": "2026-05-13T10:23:35Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-05-13T13:08:58Z",
+      "score": 4.78
     }
   ]
 }

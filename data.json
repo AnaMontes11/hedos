@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-14T22:54:16Z",
-  "global_score": 4.67,
+  "generated": "2026-05-14T23:55:51Z",
+  "global_score": 4.58,
   "articles_scored": 90,
-  "words_matched": 263,
+  "words_matched": 269,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -30,10 +34,6 @@
     },
     {
       "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "delito",
       "score": -3
     }
   ],
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.81,
+    "El País": 4.99,
     "elDiario.es": 4.85,
     "El Mundo": 3.76,
-    "ABC": 5.48,
+    "ABC": 4.37,
     "El Confidencial": 5.11,
-    "BBC Mundo": 4.36,
-    "France 24 ES": 4.31,
-    "La Nación AR": 5.56,
+    "BBC Mundo": 4.5,
+    "France 24 ES": 4.42,
+    "La Nación AR": 4.28,
     "La Jornada MX": 4.93,
-    "Desinformémonos": 4.39,
-    "Resumen Latinoam.": 3.98
+    "Desinformémonos": 4.9,
+    "Resumen Latinoam.": 4.11
   },
   "articles": [
     {
@@ -137,8 +137,12 @@
     {
       "source": "El País",
       "title": "La gran rajada de Mbappé: “Arbeloa me ha dicho que soy el cuarto delantero del R",
-      "score": 3.4,
+      "score": 5.0,
       "words": [
+        {
+          "word": "fuerte",
+          "score": 2
+        },
         {
           "word": "acusaciones",
           "score": -2
@@ -372,10 +376,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-01T08:58:36Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-05-01T10:26:28Z",
       "score": 4.79
@@ -1043,6 +1043,10 @@
     {
       "timestamp": "2026-05-14T22:54:16Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-05-14T23:55:51Z",
+      "score": 4.58
     }
   ]
 }

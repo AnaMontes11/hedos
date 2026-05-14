@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-14T02:51:45Z",
-  "global_score": 4.45,
-  "articles_scored": 92,
-  "words_matched": 294,
+  "generated": "2026-05-14T06:22:54Z",
+  "global_score": 4.72,
+  "articles_scored": 90,
+  "words_matched": 278,
   "top_negative": [
     {
       "word": "negro",
@@ -13,19 +13,15 @@
       "score": -4
     },
     {
-      "word": "tortura",
-      "score": -4
-    },
-    {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "crisis",
-      "score": -3
+      "word": "tortura",
+      "score": -4
     },
     {
-      "word": "violencia",
+      "word": "retirada",
       "score": -3
     },
     {
@@ -33,17 +29,25 @@
       "score": -3
     },
     {
-      "word": "violento",
+      "word": "violencia",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "triunfo",
       "score": 4
     },
     {
-      "word": "divertido",
+      "word": "victorias",
       "score": 4
     },
     {
@@ -51,35 +55,31 @@
       "score": 4
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
       "word": "perfecto",
       "score": 3
     },
     {
-      "word": "impresiona",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "perfectamente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.27,
-    "elDiario.es": 4.66,
-    "El Mundo": 4.36,
-    "ABC": 4.92,
-    "El Confidencial": 5.09,
-    "BBC Mundo": 4.94,
-    "France 24 ES": 4.24,
-    "La Nación AR": 4.72,
+    "El País": 5.07,
+    "elDiario.es": 4.72,
+    "El Mundo": 4.38,
+    "ABC": 5.52,
+    "El Confidencial": 6.52,
+    "BBC Mundo": 4.56,
+    "France 24 ES": 4.35,
+    "La Nación AR": 5.34,
     "La Jornada MX": 4.2,
     "Desinformémonos": 3.68,
     "Resumen Latinoam.": 3.88
@@ -87,35 +87,38 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Mónica García, sobre la crisis del hantavirus: “Aquí hay 14 españoles a los que ",
-      "score": 3.4,
+      "title": "Donald Trump ante Xi Jinping: “La relación entre China y Estados Unidos va a ser",
+      "score": 7.4,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
-        },
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Más de 600 narcolanchas operan en el Estrecho, según el Departamento de Segurida",
+      "score": 4.2,
+      "words": [
         {
-          "word": "dejar",
+          "word": "fantasma",
           "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El Congreso suspende de manera indefinida las acreditaciones de Vito Quiles y Be",
-      "score": 5.27,
+      "title": "María Jesús Montero: “Lo más grave que está pasando en Andalucía es el debilitam",
+      "score": 4.6,
       "words": [
         {
-          "word": "adopta",
+          "word": "jesús",
           "score": 1
         },
         {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "resolver",
-          "score": 1
+          "word": "grave",
+          "score": -2
         }
       ]
     },
@@ -136,87 +139,162 @@
     },
     {
       "source": "El País",
-      "title": "Florentino Pérez, en su entrevista con Pedrerol en La Sexta: “Solo he recibido f",
-      "score": 5.0,
+      "title": "Finlandia, la candidata a ganar Eurovisión que podría lograr que Israel abandone",
+      "score": 7.4,
       "words": [
         {
-          "word": "solo",
-          "score": -2
+          "word": "ganar",
+          "score": 4
         },
         {
-          "word": "felicitaciones",
+          "word": "favorito",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Kevin Warsh, nombrado oficialmente presidente de la Reserva Federal con el aval ",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "decisivo",
-          "score": 1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump aparca la guerra en Oriente Próximo en busca de un éxito difícil en China",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "difícil",
-          "score": -2
-        },
-        {
-          "word": "daño",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Confinadas 1.700 personas en un crucero en Burdeos tras la muerte de un pasajero",
+      "title": "Cuba anuncia que ha agotado todas sus reservas de combustible: “No tenemos absol",
       "score": 3.4,
       "words": [
         {
-          "word": "muerte",
+          "word": "agotado",
+          "score": -2
+        },
+        {
+          "word": "asfixia",
+          "score": -2
+        },
+        {
+          "word": "protestas",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Susana Díaz se autorreivindica en su debut en la campaña: “Fuimos pioneros”",
-      "score": 4.2,
+      "source": "elDiario.es",
+      "title": "El Congreso abre la vía para expulsar a los agitadores Vito Quiles y Bertrand Nd",
+      "score": 4.14,
       "words": [
         {
-          "word": "ausente",
+          "word": "expulsar",
+          "score": -2
+        },
+        {
+          "word": "expulsar",
+          "score": -2
+        },
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "retirada",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La derechización de Andalucía en una década: de feudo de la izquierda a mayoría ",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "creciente",
+          "score": 1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "bloques",
           "score": -1
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Moreno se enfoca en movilizar a los indecisos en la recta final de la campaña",
-      "score": 5.0,
+      "source": "elDiario.es",
+      "title": "El Ayuntamiento de Sevilla, laboratorio de ensayo de un pacto PP-Vox… que Moreno",
+      "score": 5.16,
       "words": [
         {
-          "word": "confianza",
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "acuerdo",
           "score": 1
+        },
+        {
+          "word": "tranquilo",
+          "score": 2
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Antonio Maíllo: \"Hay acreditadas muertes por el fallo de cribados, si Moreno con",
+      "score": 4.97,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "orgulloso",
+          "score": 2
+        },
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "optimismo",
+          "score": 2
+        },
+        {
+          "word": "reto",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Juanma Moreno se viste de músico 'indie' y canta 'Kilómetro Sur', el himno de ca",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "negado",
+          "score": -2
+        },
+        {
+          "word": "homenaje",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
         },
         {
           "word": "pasado",
@@ -226,172 +304,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Congreso suspende cautelarmente la acreditación de Vito Quiles y Bertrand Ndo",
-      "score": 4.83,
+      "title": "Una conjura contra la autolesión",
+      "score": 5.19,
       "words": [
         {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "provocado",
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "resolver",
-          "score": 1
+          "word": "honor",
+          "score": 2
         },
         {
-          "word": "apoyo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso alega ante el Supremo que la regularización de migrantes \"desbordará\" los ",
-      "score": 4.46,
-      "words": [
+          "word": "solo",
+          "score": -2
+        },
         {
-          "word": "suspender",
+          "word": "males",
           "score": -1
         },
         {
-          "word": "conceder",
-          "score": 1
-        },
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "contencioso",
-          "score": -2
-        },
-        {
-          "word": "demanda",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno de Ayuso asegura que lo que hizo la presidenta los tres días que pas",
-      "score": 4.82,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
+          "word": "luchas",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump llega a China con la guerra de Irán empantanada y necesitado de acuerdos c",
-      "score": 4.6,
+      "title": "La Audiencia Nacional investiga a un mando de la Guardia Civil en un caso contra",
+      "score": 4.03,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "necesitado",
-          "score": -2
-        },
-        {
-          "word": "aliviar",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "necesitado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Rutte reivindica ahora la OTAN 3.0 con más responsabilidad europea para que EEUU",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "reivindica",
+          "word": "libertad",
           "score": 2
         },
         {
-          "word": "reivindica",
-          "score": 2
+          "word": "prisión",
+          "score": -2
         },
         {
-          "word": "admite",
-          "score": -1
+          "word": "fraude",
+          "score": -4
         },
         {
           "word": "grande",
           "score": 1
         },
         {
-          "word": "tiempo",
-          "score": -2
+          "word": "asuntos",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Congresistas demócratas exigen a Trump que no lance un ataque contra Cuba y que ",
-      "score": 3.72,
+      "title": "La Audiencia Nacional confirma el procesamiento de varios dueños de prostíbulos ",
+      "score": 4.03,
       "words": [
         {
-          "word": "ataque",
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "rechaza",
           "score": -1
         },
         {
-          "word": "ataque",
-          "score": -1
-        },
+          "word": "fraude",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Alarma que algo queda: bienvenidos a la nueva fobocracia",
+      "score": 4.05,
+      "words": [
         {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "sufrimiento",
+          "word": "alarma",
           "score": -2
         },
         {
-          "word": "ataque",
-          "score": -1
+          "word": "alarma",
+          "score": -2
+        },
+        {
+          "word": "angustia",
+          "score": -2
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "recelo",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-30T17:17:48Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-04-30T19:16:36Z",
       "score": 4.65
@@ -1059,6 +1079,10 @@
     {
       "timestamp": "2026-05-14T02:51:45Z",
       "score": 4.45
+    },
+    {
+      "timestamp": "2026-05-14T06:22:54Z",
+      "score": 4.72
     }
   ]
 }

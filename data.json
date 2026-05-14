@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-14T14:04:05Z",
-  "global_score": 4.69,
-  "articles_scored": 93,
-  "words_matched": 247,
+  "generated": "2026-05-14T17:02:13Z",
+  "global_score": 4.79,
+  "articles_scored": 88,
+  "words_matched": 321,
   "top_negative": [
     {
       "word": "negro",
@@ -10,6 +10,14 @@
     },
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "fraudes",
+      "score": -4
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
@@ -27,17 +35,13 @@
     {
       "word": "criminal",
       "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "vil",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "victorias",
       "score": 4
@@ -51,38 +55,34 @@
       "score": 4
     },
     {
-      "word": "sentido",
+      "word": "leal",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "entusiasta",
+      "word": "medalla",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.55,
-    "elDiario.es": 4.86,
-    "El Mundo": 4.48,
-    "ABC": 5.11,
-    "El Confidencial": 5.0,
-    "BBC Mundo": 4.46,
-    "France 24 ES": 4.52,
-    "La Nación AR": 5.23,
+    "El País": 4.6,
+    "elDiario.es": 4.87,
+    "El Mundo": 4.68,
+    "ABC": 5.21,
+    "El Confidencial": 4.9,
+    "BBC Mundo": 4.72,
+    "France 24 ES": 4.28,
+    "La Nación AR": 4.71,
     "La Jornada MX": 4.93,
-    "Desinformémonos": 3.68,
-    "Resumen Latinoam.": 4.26
+    "Desinformémonos": 4.33,
+    "Resumen Latinoam.": 5.28
   },
   "articles": [
     {
@@ -110,26 +110,26 @@
     },
     {
       "source": "El País",
-      "title": "De los magnates de Silicon Valley a los millonarios de Wall Street: el séquito d",
-      "score": 4.2,
+      "title": "La cancelación por parte del Pentágono de un despliegue de tropas en Polonia agr",
+      "score": 3.0,
       "words": [
         {
-          "word": "paradoja",
-          "score": -1
+          "word": "agrava",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Begoña Gómez intenta frenar el juicio ante jurado popular y acusa a Peinado de a",
-      "score": 5.4,
+      "title": "Sheinbaum invita a Ayuso a pasar más tiempo de vacaciones en México: “Aprendería",
+      "score": 3.4,
       "words": [
         {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "acusa",
+          "word": "tiempo",
           "score": -2
         }
       ]
@@ -177,17 +177,6 @@
     },
     {
       "source": "El País",
-      "title": "Moreno desafía las supersticiones: se hace la foto con ‘Blanca’, nieta de su vac",
-      "score": 1.0,
-      "words": [
-        {
-          "word": "negro",
-          "score": -5
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "‘Fadi’, la vaca de Moreno Bonilla que está viva (según el PP) y muerta (según la",
       "score": 5.8,
       "words": [
@@ -200,7 +189,7 @@
     {
       "source": "elDiario.es",
       "title": "El ministro de Sanidad británico dimite e intenta forzar unas primarias para sus",
-      "score": 5.13,
+      "score": 5.1,
       "words": [
         {
           "word": "popular",
@@ -254,7 +243,7 @@
     {
       "source": "elDiario.es",
       "title": "Begoña Gómez afea ante la Audiencia Provincial que el juez Peinado conteste sus ",
-      "score": 4.5,
+      "score": 4.25,
       "words": [
         {
           "word": "motivación",
@@ -335,7 +324,7 @@
     {
       "source": "elDiario.es",
       "title": "Xi Jinping recibe a Trump en pleno desorden mundial y alerta del riesgo de \"enfr",
-      "score": 5.17,
+      "score": 5.27,
       "words": [
         {
           "word": "alerta",
@@ -385,13 +374,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ayuso, Florentino y la paranoia del poder",
+      "score": 4.74,
+      "words": [
+        {
+          "word": "perfecto",
+          "score": 3
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "conspiración",
+          "score": -3
+        },
+        {
+          "word": "provocar",
+          "score": -1
+        },
+        {
+          "word": "esperanza",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-30T22:59:42Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-04-30T23:58:10Z",
       "score": 4.63
@@ -1059,6 +1071,10 @@
     {
       "timestamp": "2026-05-14T14:04:05Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-05-14T17:02:13Z",
+      "score": 4.79
     }
   ]
 }

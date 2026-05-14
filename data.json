@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-14T06:22:54Z",
-  "global_score": 4.72,
-  "articles_scored": 90,
-  "words_matched": 278,
+  "generated": "2026-05-14T09:32:02Z",
+  "global_score": 4.6,
+  "articles_scored": 87,
+  "words_matched": 305,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "infierno",
       "score": -4
     },
     {
@@ -31,17 +35,9 @@
     {
       "word": "violencia",
       "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "excepcional",
-      "score": 5
-    },
     {
       "word": "triunfo",
       "score": 4
@@ -59,37 +55,45 @@
       "score": 3
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
       "word": "celebra",
       "score": 3
     },
     {
       "word": "perfectamente",
       "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.07,
-    "elDiario.es": 4.72,
-    "El Mundo": 4.38,
-    "ABC": 5.52,
-    "El Confidencial": 6.52,
-    "BBC Mundo": 4.56,
-    "France 24 ES": 4.35,
-    "La Nación AR": 5.34,
+    "El País": 5.48,
+    "elDiario.es": 4.71,
+    "El Mundo": 4.4,
+    "ABC": 5.04,
+    "El Confidencial": 5.7,
+    "BBC Mundo": 4.29,
+    "France 24 ES": 4.27,
+    "La Nación AR": 3.97,
     "La Jornada MX": 4.2,
     "Desinformémonos": 3.68,
-    "Resumen Latinoam.": 3.88
+    "Resumen Latinoam.": 4.63
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Donald Trump ante Xi Jinping: “La relación entre China y Estados Unidos va a ser",
-      "score": 7.4,
+      "title": "Xi Jinping advierte a Donald Trump que las relaciones entre China y EE UU depend",
+      "score": 5.4,
       "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
         {
           "word": "mejor",
           "score": 3
@@ -104,21 +108,6 @@
         {
           "word": "fantasma",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "María Jesús Montero: “Lo más grave que está pasando en Andalucía es el debilitam",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "jesús",
-          "score": 1
-        },
-        {
-          "word": "grave",
-          "score": -2
         }
       ]
     },
@@ -139,6 +128,21 @@
     },
     {
       "source": "El País",
+      "title": "El plazo de presentación de candidaturas para presidir el Real Madrid abre este ",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Finlandia, la candidata a ganar Eurovisión que podría lograr que Israel abandone",
       "score": 7.4,
       "words": [
@@ -149,25 +153,6 @@
         {
           "word": "favorito",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cuba anuncia que ha agotado todas sus reservas de combustible: “No tenemos absol",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "agotado",
-          "score": -2
-        },
-        {
-          "word": "asfixia",
-          "score": -2
-        },
-        {
-          "word": "protestas",
-          "score": -2
         }
       ]
     },
@@ -281,24 +266,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Juanma Moreno se viste de músico 'indie' y canta 'Kilómetro Sur', el himno de ca",
-      "score": 5.4,
+      "title": "Un millón de jóvenes votan en Andalucía y la izquierda no sabe qué ofrecerles",
+      "score": 5.01,
       "words": [
         {
-          "word": "negado",
+          "word": "deseo",
+          "score": 1
+        },
+        {
+          "word": "culpa",
+          "score": -3
+        },
+        {
+          "word": "espalda",
+          "score": 1
+        },
+        {
+          "word": "tiempo",
           "score": -2
         },
         {
-          "word": "homenaje",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "pasado",
-          "score": -1
+          "word": "decisivo",
+          "score": 1
         }
       ]
     },
@@ -385,37 +374,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Alarma que algo queda: bienvenidos a la nueva fobocracia",
-      "score": 4.05,
+      "title": "La caída del precio de la luz y el gas en abril levanta la rebaja del IVA por la",
+      "score": 4.41,
       "words": [
         {
-          "word": "alarma",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "alarma",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "angustia",
-          "score": -2
+          "word": "natural",
+          "score": 1
         },
         {
-          "word": "miedo",
-          "score": -2
+          "word": "pasado",
+          "score": -1
         },
         {
-          "word": "recelo",
+          "word": "guerra",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un temporero marroquí espera su expulsión tras ser detenido mientras iba a su ci",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "espera",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-30T19:16:36Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-04-30T20:57:44Z",
       "score": 4.56
@@ -1083,6 +1095,10 @@
     {
       "timestamp": "2026-05-14T06:22:54Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-05-14T09:32:02Z",
+      "score": 4.6
     }
   ]
 }

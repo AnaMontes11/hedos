@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-14T09:32:02Z",
-  "global_score": 4.6,
-  "articles_scored": 87,
-  "words_matched": 305,
+  "generated": "2026-05-14T11:50:09Z",
+  "global_score": 4.8,
+  "articles_scored": 88,
+  "words_matched": 272,
   "top_negative": [
     {
       "word": "negro",
@@ -13,35 +13,31 @@
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "infierno",
-      "score": -4
-    },
-    {
       "word": "tortura",
       "score": -4
     },
     {
-      "word": "retirada",
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "idiota",
+      "word": "falso",
       "score": -3
     },
     {
-      "word": "violencia",
+      "word": "criminal",
+      "score": -3
+    },
+    {
+      "word": "delito",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "triunfo",
-      "score": 4
-    },
     {
       "word": "victorias",
       "score": 4
@@ -51,38 +47,42 @@
       "score": 4
     },
     {
-      "word": "perfecto",
+      "word": "placer",
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "perfectamente",
-      "score": 3
-    },
-    {
-      "word": "lealtad",
+      "word": "suerte",
       "score": 3
     },
     {
       "word": "bueno",
       "score": 3
+    },
+    {
+      "word": "contento",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.48,
-    "elDiario.es": 4.71,
-    "El Mundo": 4.4,
-    "ABC": 5.04,
-    "El Confidencial": 5.7,
-    "BBC Mundo": 4.29,
-    "France 24 ES": 4.27,
-    "La Nación AR": 3.97,
+    "El País": 4.95,
+    "elDiario.es": 4.97,
+    "El Mundo": 4.98,
+    "ABC": 5.27,
+    "El Confidencial": 5.4,
+    "BBC Mundo": 4.45,
+    "France 24 ES": 4.36,
+    "La Nación AR": 5.76,
     "La Jornada MX": 4.2,
     "Desinformémonos": 3.68,
-    "Resumen Latinoam.": 4.63
+    "Resumen Latinoam.": 4.76
   },
   "articles": [
     {
@@ -102,12 +102,53 @@
     },
     {
       "source": "El País",
-      "title": "Más de 600 narcolanchas operan en el Estrecho, según el Departamento de Segurida",
+      "title": "De los magnates de Silicon Valley a los millonarios de Wall Street: el séquito d",
       "score": 4.2,
       "words": [
         {
-          "word": "fantasma",
+          "word": "paradoja",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Begoña Gómez intenta frenar el juicio ante jurado popular y acusa a Peinado de a",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Finlandia, la candidata a ganar Eurovisión que podría lograr que Israel abandone",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "favorito",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Marc Giró y Alba Carrillo: si no puedo largar, no es mi televisión",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "criticar",
+          "score": -2
         }
       ]
     },
@@ -128,31 +169,135 @@
     },
     {
       "source": "El País",
-      "title": "El plazo de presentación de candidaturas para presidir el Real Madrid abre este ",
-      "score": 7.0,
+      "title": "La ausencia total de una oposición a Florentino Pérez en sus dos décadas en el R",
+      "score": 3.8,
       "words": [
         {
-          "word": "cumplir",
-          "score": 2
+          "word": "ausencia",
+          "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "espera",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Finlandia, la candidata a ganar Eurovisión que podría lograr que Israel abandone",
-      "score": 7.4,
+      "title": "El plazo de presentación de candidaturas para presidir el Real Madrid abre este ",
+      "score": 6.6,
       "words": [
         {
-          "word": "ganar",
-          "score": 4
+          "word": "cumplir",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Xi Jinping recibe a Trump en pleno desorden mundial y alerta del riesgo de \"enfr",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "alerta",
+          "score": -1
         },
         {
-          "word": "favorito",
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "bienvenida",
           "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PSOE pide el permiso necesario al Supremo para querellarse contra Aldama: \"Su",
+      "score": 4.63,
+      "words": [
+        {
+          "word": "procesado",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Begoña Gómez afea ante la Audiencia Provincial que el juez Peinado conteste sus ",
+      "score": 4.5,
+      "words": [
+        {
+          "word": "motivación",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "rechazar",
+          "score": -1
+        },
+        {
+          "word": "delito",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Begoña Gómez reclama al juez Peinado que paralice la causa hasta que se resuelva",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
         }
       ]
     },
@@ -236,202 +381,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Antonio Maíllo: \"Hay acreditadas muertes por el fallo de cribados, si Moreno con",
-      "score": 4.97,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "orgulloso",
-          "score": 2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "optimismo",
-          "score": 2
-        },
-        {
-          "word": "reto",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un millón de jóvenes votan en Andalucía y la izquierda no sabe qué ofrecerles",
-      "score": 5.01,
-      "words": [
-        {
-          "word": "deseo",
-          "score": 1
-        },
-        {
-          "word": "culpa",
-          "score": -3
-        },
-        {
-          "word": "espalda",
-          "score": 1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "decisivo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Una conjura contra la autolesión",
-      "score": 5.19,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "honor",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "males",
-          "score": -1
-        },
-        {
-          "word": "luchas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Audiencia Nacional investiga a un mando de la Guardia Civil en un caso contra",
-      "score": 4.03,
-      "words": [
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Audiencia Nacional confirma el procesamiento de varios dueños de prostíbulos ",
-      "score": 4.03,
-      "words": [
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La caída del precio de la luz y el gas en abril levanta la rebaja del IVA por la",
-      "score": 4.41,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un temporero marroquí espera su expulsión tras ser detenido mientras iba a su ci",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "detenido",
-          "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "detenido",
-          "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-04-30T20:57:44Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-04-30T21:59:12Z",
       "score": 4.65
@@ -1099,6 +1051,10 @@
     {
       "timestamp": "2026-05-14T09:32:02Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-05-14T11:50:09Z",
+      "score": 4.8
     }
   ]
 }

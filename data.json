@@ -1,19 +1,23 @@
 {
-  "generated": "2026-05-15T20:14:39Z",
-  "global_score": 4.74,
-  "articles_scored": 94,
+  "generated": "2026-05-15T21:57:06Z",
+  "global_score": 4.82,
+  "articles_scored": 98,
   "words_matched": 288,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "bastardo",
       "score": -5
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
@@ -25,15 +29,11 @@
       "score": -4
     },
     {
+      "word": "traicionar",
+      "score": -3
+    },
+    {
       "word": "malo",
-      "score": -3
-    },
-    {
-      "word": "advertencia",
-      "score": -3
-    },
-    {
-      "word": "cargado",
       "score": -3
     }
   ],
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 5.33,
-    "elDiario.es": 5.1,
-    "El Mundo": 4.81,
-    "ABC": 5.32,
+    "El País": 5.03,
+    "elDiario.es": 5.17,
+    "El Mundo": 5.04,
+    "ABC": 6.11,
     "El Confidencial": 4.15,
-    "BBC Mundo": 4.97,
-    "France 24 ES": 4.28,
-    "La Nación AR": 4.91,
+    "BBC Mundo": 4.57,
+    "France 24 ES": 4.52,
+    "La Nación AR": 4.64,
     "La Jornada MX": 4.57,
     "Desinformémonos": 4.07,
-    "Resumen Latinoam.": 4.88
+    "Resumen Latinoam.": 4.99
   },
   "articles": [
     {
@@ -148,6 +148,17 @@
     },
     {
       "source": "El País",
+      "title": "Abascal pide para el 17M andaluz no dejarse “traicionar” por Sánchez y Moreno",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "traicionar",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Maíllo llama en Sevilla a reflexionar sobre la “utilidad del voto”",
       "score": 6.6,
       "words": [
@@ -193,7 +204,7 @@
     },
     {
       "source": "El País",
-      "title": "El Festival de Cannes entrega por sorpresa una Palma de Oro de honor a John Trav",
+      "title": "El festival de Cannes entrega por sorpresa una Palma de Oro de Honor a John Trav",
       "score": 6.6,
       "words": [
         {
@@ -277,8 +288,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Moreno pide el candidato voto de la “concordia” para no depender de Vox: “Sabemo",
-      "score": 5.39,
+      "title": "Moreno pide el voto de la “concordia” para no depender de Vox: “Sabemos lo que h",
+      "score": 5.12,
       "words": [
         {
           "word": "pasado",
@@ -299,6 +310,33 @@
         {
           "word": "hermosa",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Abascal usa el cierre de campaña en Andalucía para agitar el fantasma del fraude",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "fantasma",
+          "score": -1
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "fantasma",
+          "score": -1
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "acusa",
+          "score": -2
         }
       ]
     },
@@ -355,67 +393,9 @@
           "score": 4
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un vecino de Jaén espera 900 días para que le deriven con un médico especialista",
-      "score": 4.51,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Audiencia Nacional frena la investigación al comisario que impulsó el montaje",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "confidente",
-          "score": 2
-        },
-        {
-          "word": "confidente",
-          "score": 2
-        },
-        {
-          "word": "cargado",
-          "score": -3
-        },
-        {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "confidente",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-01T20:49:58Z",
-      "score": 4.86
-    },
     {
       "timestamp": "2026-05-01T21:51:12Z",
       "score": 4.94
@@ -1083,6 +1063,10 @@
     {
       "timestamp": "2026-05-15T20:14:39Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-05-15T21:57:06Z",
+      "score": 4.82
     }
   ]
 }

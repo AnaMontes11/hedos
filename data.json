@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-15T06:37:43Z",
-  "global_score": 4.75,
-  "articles_scored": 92,
-  "words_matched": 270,
+  "generated": "2026-05-15T09:45:23Z",
+  "global_score": 4.65,
+  "articles_scored": 88,
+  "words_matched": 267,
   "top_negative": [
     {
       "word": "negro",
@@ -11,6 +11,14 @@
     {
       "word": "culo",
       "score": -4
+    },
+    {
+      "word": "molesto",
+      "score": -4
+    },
+    {
+      "word": "crisis",
+      "score": -3
     },
     {
       "word": "peor",
@@ -25,15 +33,7 @@
       "score": -3
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
       "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "destruir",
       "score": -3
     }
   ],
@@ -41,10 +41,6 @@
     {
       "word": "magnífico",
       "score": 5
-    },
-    {
-      "word": "bendición",
-      "score": 4
     },
     {
       "word": "victorias",
@@ -55,67 +51,94 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "cortés",
       "score": 3
     },
     {
-      "word": "admira",
-      "score": 3
-    },
-    {
-      "word": "admirar",
+      "word": "excelente",
       "score": 3
     },
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.77,
-    "elDiario.es": 5.0,
-    "El Mundo": 4.56,
-    "ABC": 5.64,
-    "El Confidencial": 4.12,
+    "El País": 5.15,
+    "elDiario.es": 4.99,
+    "El Mundo": 4.35,
+    "ABC": 5.04,
+    "El Confidencial": 3.99,
     "BBC Mundo": 4.86,
     "France 24 ES": 4.17,
-    "La Nación AR": 5.37,
+    "La Nación AR": 5.6,
     "La Jornada MX": 4.93,
     "Desinformémonos": 4.9,
-    "Resumen Latinoam.": 4.11
+    "Resumen Latinoam.": 3.92
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.2,
+      "title": "Trump a Xi, sobre la guerra en Irán: “Sentimos lo mismo, ¿verdad? Queremos que e",
+      "score": 5.27,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "visión",
-          "score": 1
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "alcanzado",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Radiografía de la vivienda en Andalucía: poca oferta, mucha demanda y el factor ",
-      "score": 5.4,
+      "title": "Taiwán, la isla que amenaza con abrir una crisis entre Xi y Trump",
+      "score": 4.47,
       "words": [
         {
-          "word": "oferta",
-          "score": 2
+          "word": "amenaza",
+          "score": -2
         },
         {
-          "word": "demanda",
-          "score": -1
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "amable",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Estados Unidos y Cuba intensifican las negociaciones, mientras la isla entra en ",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "colapso",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "asfixia",
+          "score": -2
         }
       ]
     },
@@ -147,6 +170,21 @@
     },
     {
       "source": "El País",
+      "title": "Radiografía de la vivienda en Andalucía: poca oferta, mucha demanda y el factor ",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "demanda",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Gárgolas “sodomizadas” junto a la catedral de Santiago: la “aberración” que solo",
       "score": 4.2,
       "words": [
@@ -161,36 +199,6 @@
         {
           "word": "restauración",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El caso Amaia Montero o por qué a ellos se les permite desafinar y a ellas no",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "falla",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Por qué Eurovisión puede volver a ser irrelevante",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "crítica",
-          "score": -2
-        },
-        {
-          "word": "manipulación",
-          "score": -1
         }
       ]
     },
@@ -251,7 +259,7 @@
     {
       "source": "elDiario.es",
       "title": "Vive rodeado de ricos, viene de Wall Street y lo ha elegido Trump: quién es Kevi",
-      "score": 4.45,
+      "score": 4.34,
       "words": [
         {
           "word": "incapaz",
@@ -262,16 +270,16 @@
           "score": -1
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
           "word": "incapaz",
           "score": -2
         },
         {
           "word": "gracias",
           "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -412,10 +420,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-01T13:24:47Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-05-01T14:52:47Z",
       "score": 4.9
@@ -1083,6 +1087,10 @@
     {
       "timestamp": "2026-05-15T06:37:43Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-05-15T09:45:23Z",
+      "score": 4.65
     }
   ]
 }

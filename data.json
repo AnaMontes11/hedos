@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-15T09:45:23Z",
-  "global_score": 4.65,
-  "articles_scored": 88,
-  "words_matched": 267,
+  "generated": "2026-05-15T11:53:31Z",
+  "global_score": 4.78,
+  "articles_scored": 93,
+  "words_matched": 263,
   "top_negative": [
     {
       "word": "negro",
@@ -13,11 +13,11 @@
       "score": -4
     },
     {
-      "word": "molesto",
+      "word": "maldición",
       "score": -4
     },
     {
-      "word": "crisis",
+      "word": "cargado",
       "score": -3
     },
     {
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -47,19 +47,15 @@
       "score": 4
     },
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "triunfo",
       "score": 4
     },
     {
-      "word": "cortés",
-      "score": 3
-    },
-    {
       "word": "excelente",
-      "score": 3
-    },
-    {
-      "word": "premio",
       "score": 3
     },
     {
@@ -67,19 +63,23 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "excelencia",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.15,
-    "elDiario.es": 4.99,
-    "El Mundo": 4.35,
-    "ABC": 5.04,
-    "El Confidencial": 3.99,
-    "BBC Mundo": 4.86,
+    "El País": 5.31,
+    "elDiario.es": 5.21,
+    "El Mundo": 4.81,
+    "ABC": 5.21,
+    "El Confidencial": 4.25,
+    "BBC Mundo": 5.09,
     "France 24 ES": 4.17,
-    "La Nación AR": 5.6,
+    "La Nación AR": 5.17,
     "La Jornada MX": 4.93,
     "Desinformémonos": 4.9,
     "Resumen Latinoam.": 3.92
@@ -106,39 +106,16 @@
     },
     {
       "source": "El País",
-      "title": "Taiwán, la isla que amenaza con abrir una crisis entre Xi y Trump",
-      "score": 4.47,
+      "title": "Los profesores toman el centro de Valencia en una manifestación multitudinaria e",
+      "score": 5.0,
       "words": [
         {
-          "word": "amenaza",
-          "score": -2
+          "word": "huelga",
+          "score": -1
         },
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "amable",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos y Cuba intensifican las negociaciones, mientras la isla entra en ",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "asfixia",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -204,8 +181,35 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La Audiencia Nacional frena la investigación al comisario que impulsó el montaje",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "confidente",
+          "score": 2
+        },
+        {
+          "word": "confidente",
+          "score": 2
+        },
+        {
+          "word": "cargado",
+          "score": -3
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        },
+        {
+          "word": "confidente",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La guerra civil del laborismo paraliza el Gobierno de Starmer",
-      "score": 5.29,
+      "score": 5.35,
       "words": [
         {
           "word": "guerra",
@@ -258,172 +262,168 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Vive rodeado de ricos, viene de Wall Street y lo ha elegido Trump: quién es Kevi",
-      "score": 4.34,
+      "title": "Xi afirma que China y Estados Unidos acuerdan estabilizar las relaciones comerci",
+      "score": 5.52,
       "words": [
         {
-          "word": "incapaz",
+          "word": "conflicto",
           "score": -2
         },
         {
-          "word": "presión",
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "alerta",
           "score": -1
         },
         {
-          "word": "incapaz",
-          "score": -2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "solo",
+          "word": "riesgo",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La ocupación comercial, el lado oculto de la expansión israelí para eliminar la ",
-      "score": 4.65,
+      "title": "Manifestación histórica en València para salvar la Educación pública",
+      "score": 4.79,
       "words": [
         {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "duele",
-          "score": -2
-        },
-        {
-          "word": "cumple",
+          "word": "salvar",
           "score": 2
         },
         {
-          "word": "sol",
+          "word": "salvar",
           "score": 2
         },
         {
-          "word": "solo",
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "huelga",
+          "score": -1
+        },
+        {
+          "word": "insultante",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "15 años del 15M: \"El mayor legado de la PAH para el Sindicato de Inquilinas es p",
-      "score": 4.3,
+      "title": "La Andalucía que ha puesto diques a la marea azul: el PP no ha ganado nunca en 2",
+      "score": 6.3,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "emergencia",
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "protestas",
+          "word": "ganado",
+          "score": 2
+        },
+        {
+          "word": "puesto",
           "score": -2
+        },
+        {
+          "word": "ganado",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Del \"no hay pan pa' tanto chorizo\" al \"que no tenemos casa\": qué ha sido de los ",
-      "score": 4.32,
+      "title": "Moreno descarta un acuerdo como Extremadura o Aragón si roza la mayoría: \"PSOE y",
+      "score": 5.63,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "creciente",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "favor",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "integridad",
           "score": 2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "cáncer",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "🎙 PODCAST | ¿A quién le importa ya el 15M?",
-      "score": 5.89,
+      "title": "Un vecino de Jaén espera 900 días para que le deriven con un médico especialista",
+      "score": 4.51,
       "words": [
         {
-          "word": "importancia",
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "logra",
           "score": 2
         },
         {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "pasado",
+          "word": "espera",
           "score": -1
         },
         {
           "word": "tiempo",
           "score": -2
-        },
-        {
-          "word": "importante",
-          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La Audiencia Nacional frena la investigación al comisario que impulsó el montaje",
-      "score": 5.0,
+      "title": "Una mujer trans no podrá votar el 17M con su identidad por \"errores\" con su tarj",
+      "score": 5.16,
       "words": [
         {
-          "word": "confidente",
-          "score": 2
+          "word": "errores",
+          "score": -2
         },
         {
-          "word": "confidente",
-          "score": 2
+          "word": "derecho",
+          "score": 1
         },
         {
-          "word": "cargado",
-          "score": -3
+          "word": "errores",
+          "score": -2
         },
         {
-          "word": "celebrado",
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "cortés",
           "score": 3
-        },
-        {
-          "word": "confidente",
-          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-01T14:52:47Z",
-      "score": 4.9
-    },
     {
       "timestamp": "2026-05-01T15:55:11Z",
       "score": 4.99
@@ -1091,6 +1091,10 @@
     {
       "timestamp": "2026-05-15T09:45:23Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-05-15T11:53:31Z",
+      "score": 4.78
     }
   ]
 }

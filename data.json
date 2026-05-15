@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-15T16:49:03Z",
-  "global_score": 4.67,
-  "articles_scored": 98,
-  "words_matched": 260,
+  "generated": "2026-05-15T18:20:25Z",
+  "global_score": 4.66,
+  "articles_scored": 95,
+  "words_matched": 264,
   "top_negative": [
     {
       "word": "culo",
@@ -13,7 +13,19 @@
       "score": -4
     },
     {
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "cargado",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     },
     {
@@ -23,27 +35,11 @@
     {
       "word": "muerto",
       "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "ganar",
       "score": 4
     },
     {
@@ -55,33 +51,37 @@
       "score": 4
     },
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "riqueza",
       "score": 3
     },
     {
-      "word": "felicidad",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "celebra",
       "score": 3
     },
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.58,
-    "elDiario.es": 5.0,
-    "El Mundo": 4.65,
-    "ABC": 4.83,
-    "El Confidencial": 4.31,
-    "BBC Mundo": 5.12,
-    "France 24 ES": 4.84,
-    "La Nación AR": 4.65,
+    "El País": 4.41,
+    "elDiario.es": 5.04,
+    "El Mundo": 4.92,
+    "ABC": 5.06,
+    "El Confidencial": 4.15,
+    "BBC Mundo": 4.97,
+    "France 24 ES": 4.55,
+    "La Nación AR": 5.09,
     "La Jornada MX": 4.57,
-    "Desinformémonos": 4.42,
+    "Desinformémonos": 4.07,
     "Resumen Latinoam.": 4.5
   },
   "articles": [
@@ -129,30 +129,27 @@
     },
     {
       "source": "El País",
-      "title": "Los profesores toman el centro de Valencia en una manifestación multitudinaria e",
-      "score": 5.0,
+      "title": "Moreno llama a “aglutinar el voto” para atraer al votante indeciso y carga contr",
+      "score": 4.04,
       "words": [
         {
-          "word": "huelga",
+          "word": "atraer",
+          "score": 1
+        },
+        {
+          "word": "indeciso",
           "score": -1
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los docentes valencianos en lucha: “En algunos centros trabajamos en condiciones",
-      "score": 3.4,
-      "words": [
+          "word": "carga",
+          "score": -2
+        },
         {
           "word": "lucha",
           "score": -2
         },
         {
-          "word": "protesta",
+          "word": "restos",
           "score": -2
         }
       ]
@@ -174,16 +171,20 @@
     },
     {
       "source": "El País",
-      "title": "Radiografía de la vivienda en Andalucía: poca oferta, mucha demanda y el factor ",
-      "score": 5.4,
+      "title": "Estados Unidos y Cuba intensifican las negociaciones, mientras la isla entra en ",
+      "score": 4.73,
       "words": [
         {
-          "word": "oferta",
-          "score": 2
+          "word": "colapso",
+          "score": -2
         },
         {
-          "word": "demanda",
-          "score": -1
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "asfixia",
+          "score": -2
         }
       ]
     },
@@ -203,6 +204,21 @@
         {
           "word": "restauración",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Nueve días de incendios en el Real Madrid: de la pelea Valverde-Tchouameni al du",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
         }
       ]
     },
@@ -235,28 +251,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Manifestación histórica en València para salvar la Educación pública",
-      "score": 4.79,
+      "title": "Sánchez y Montero conjuran la épica del PSOE andaluz para resurgir de las ceniza",
+      "score": 5.57,
       "words": [
         {
-          "word": "salvar",
+          "word": "honor",
           "score": 2
         },
         {
-          "word": "salvar",
+          "word": "honor",
           "score": 2
         },
         {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "huelga",
-          "score": -1
-        },
-        {
-          "word": "insultante",
+          "word": "letargo",
           "score": -2
+        },
+        {
+          "word": "lanzado",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -284,6 +300,60 @@
         {
           "word": "mayor",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La derechización de Andalucía en una década: de feudo de la izquierda a mayoría ",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "creciente",
+          "score": 1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "bloques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Manifestación histórica en València para salvar la Educación pública",
+      "score": 4.9,
+      "words": [
+        {
+          "word": "salvar",
+          "score": 2
+        },
+        {
+          "word": "salvar",
+          "score": 2
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "huelga",
+          "score": -1
+        },
+        {
+          "word": "insultante",
+          "score": -2
         }
       ]
     },
@@ -367,67 +437,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Xi afirma que China y Estados Unidos acuerdan estabilizar las relaciones comerci",
-      "score": 5.44,
-      "words": [
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "alerta",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El director de la CIA se reúne con autoridades cubanas en La Habana",
-      "score": 4.44,
-      "words": [
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-01T17:57:40Z",
-      "score": 4.94
-    },
     {
       "timestamp": "2026-05-01T19:17:15Z",
       "score": 4.87
@@ -1095,6 +1107,10 @@
     {
       "timestamp": "2026-05-15T16:49:03Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-05-15T18:20:25Z",
+      "score": 4.66
     }
   ]
 }

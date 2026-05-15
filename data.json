@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-15T14:00:46Z",
-  "global_score": 4.73,
-  "articles_scored": 92,
-  "words_matched": 248,
+  "generated": "2026-05-15T16:49:03Z",
+  "global_score": 4.67,
+  "articles_scored": 98,
+  "words_matched": 260,
   "top_negative": [
     {
       "word": "culo",
@@ -29,15 +29,19 @@
       "score": -3
     },
     {
-      "word": "víctimas",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "peor",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "milagro",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -55,51 +59,70 @@
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "felicidad",
       "score": 3
     },
     {
-      "word": "prestigio",
+      "word": "amor",
       "score": 3
     },
     {
       "word": "premio",
       "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.23,
-    "elDiario.es": 5.04,
-    "El Mundo": 4.47,
-    "ABC": 5.62,
-    "El Confidencial": 4.25,
-    "BBC Mundo": 5.09,
-    "France 24 ES": 4.16,
-    "La Nación AR": 5.37,
+    "El País": 4.58,
+    "elDiario.es": 5.0,
+    "El Mundo": 4.65,
+    "ABC": 4.83,
+    "El Confidencial": 4.31,
+    "BBC Mundo": 5.12,
+    "France 24 ES": 4.84,
+    "La Nación AR": 4.65,
     "La Jornada MX": 4.57,
-    "Desinformémonos": 4.7,
-    "Resumen Latinoam.": 3.77
+    "Desinformémonos": 4.42,
+    "Resumen Latinoam.": 4.5
   },
   "articles": [
     {
       "source": "El País",
       "title": "Trump a Xi, sobre la guerra en Irán: “Sentimos lo mismo, ¿verdad? Queremos que e",
-      "score": 5.27,
+      "score": 4.2,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "asegura",
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "importante",
           "score": 2
         },
         {
-          "word": "alcanzado",
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump revela inversiones en Bolsa que alimentan las dudas sobre conflicto de int",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "intereses",
           "score": 1
         }
       ]
@@ -121,6 +144,21 @@
     },
     {
       "source": "El País",
+      "title": "Los docentes valencianos en lucha: “En algunos centros trabajamos en condiciones",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "lucha",
+          "score": -2
+        },
+        {
+          "word": "protesta",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Mapa de sitios oficiales para ver el eclipse total de Sol: EL PAÍS publica el pr",
       "score": 5.4,
       "words": [
@@ -131,25 +169,6 @@
         {
           "word": "reto",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos y Cuba intensifican las negociaciones, mientras la isla entra en ",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "asfixia",
-          "score": -2
         }
       ]
     },
@@ -184,17 +203,6 @@
         {
           "word": "restauración",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La gran rajada de Mbappé: “Arbeloa me ha dicho que soy el cuarto delantero del R",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "fuerte",
-          "score": 2
         }
       ]
     },
@@ -308,33 +316,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Moreno descarta un acuerdo como Extremadura o Aragón si roza la mayoría: \"PSOE y",
-      "score": 5.63,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "integridad",
-          "score": 2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "cáncer",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "La Fiscalía pide imputar a un alto cargo de Mazón por la manipulación del audio ",
       "score": 4.33,
       "words": [
@@ -390,7 +371,7 @@
     {
       "source": "elDiario.es",
       "title": "Xi afirma que China y Estados Unidos acuerdan estabilizar las relaciones comerci",
-      "score": 5.52,
+      "score": 5.44,
       "words": [
         {
           "word": "conflicto",
@@ -413,13 +394,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El director de la CIA se reúne con autoridades cubanas en La Habana",
+      "score": 4.44,
+      "words": [
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "tensión",
+          "score": -1
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-01T16:55:37Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-05-01T17:57:40Z",
       "score": 4.94
@@ -1087,6 +1091,10 @@
     {
       "timestamp": "2026-05-15T14:00:46Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-05-15T16:49:03Z",
+      "score": 4.67
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-15T02:59:28Z",
-  "global_score": 4.69,
-  "articles_scored": 90,
-  "words_matched": 271,
+  "generated": "2026-05-15T06:37:43Z",
+  "global_score": 4.75,
+  "articles_scored": 92,
+  "words_matched": 270,
   "top_negative": [
     {
       "word": "negro",
@@ -13,27 +13,27 @@
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "locos",
+      "score": -3
+    },
+    {
+      "word": "perdiendo",
+      "score": -3
     },
     {
       "word": "crisis",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "mal",
       "score": -3
     },
     {
-      "word": "falso",
-      "score": -3
-    },
-    {
-      "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "delito",
+      "word": "destruir",
       "score": -3
     }
   ],
@@ -43,43 +43,43 @@
       "score": 5
     },
     {
+      "word": "bendición",
+      "score": 4
+    },
+    {
       "word": "victorias",
       "score": 4
     },
     {
-      "word": "ganador",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "sentido",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "admira",
       "score": 3
     },
     {
-      "word": "entusiasta",
+      "word": "admirar",
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.16,
-    "elDiario.es": 4.85,
+    "El País": 4.77,
+    "elDiario.es": 5.0,
     "El Mundo": 4.56,
-    "ABC": 4.37,
-    "El Confidencial": 5.11,
-    "BBC Mundo": 4.8,
-    "France 24 ES": 4.33,
-    "La Nación AR": 4.4,
+    "ABC": 5.64,
+    "El Confidencial": 4.12,
+    "BBC Mundo": 4.86,
+    "France 24 ES": 4.17,
+    "La Nación AR": 5.37,
     "La Jornada MX": 4.93,
     "Desinformémonos": 4.9,
     "Resumen Latinoam.": 4.11
@@ -87,50 +87,50 @@
   "articles": [
     {
       "source": "El País",
-      "title": "La cancelación por parte del Pentágono de un despliegue de tropas en Polonia agr",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "agrava",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Xi Jinping advierte a Donald Trump que las relaciones entre China y EE UU depend",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿De qué hablarán Donald Trump y Xi Jinping cuando se cierren las puertas y no ha",
-      "score": 3.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.2,
       "words": [
         {
           "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "visión",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Radiografía de la vivienda en Andalucía: poca oferta, mucha demanda y el factor ",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "demanda",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Mapa de sitios oficiales para ver el eclipse total de Sol: EL PAÍS publica el pr",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "reto",
+          "score": -1
         }
       ]
     },
@@ -147,235 +147,271 @@
     },
     {
       "source": "El País",
-      "title": "Dos goles no curan el desencanto del Bernabéu con el Real Madrid",
-      "score": 3.67,
+      "title": "Gárgolas “sodomizadas” junto a la catedral de Santiago: la “aberración” que solo",
+      "score": 4.2,
       "words": [
-        {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "protestas",
-          "score": -2
-        },
-        {
-          "word": "crítico",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sheinbaum invita a Ayuso a pasar más tiempo de vacaciones en México: “Aprendería",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Australia y Dinamarca se clasifican en la segunda semifinal de Eurovisión 2026 y",
-      "score": 8.2,
-      "words": [
-        {
-          "word": "ganar",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "‘Fadi’, la vaca de Moreno Bonilla que está viva (según el PP) y muerta (según la",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "viva",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Montero compara las elecciones andaluzas con el referéndum por la autonomía de 1",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "fuerza",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El ministro de Sanidad británico dimite e intenta forzar unas primarias para sus",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PSOE pide el permiso necesario al Supremo para querellarse contra Aldama: \"Su",
-      "score": 4.63,
-      "words": [
-        {
-          "word": "procesado",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
         {
           "word": "solo",
           "score": -2
         },
         {
-          "word": "acusaciones",
+          "word": "polémica",
           "score": -2
+        },
+        {
+          "word": "restauración",
+          "score": 1
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Begoña Gómez afea ante la Audiencia Provincial que el juez Peinado conteste sus ",
-      "score": 4.25,
+      "source": "El País",
+      "title": "El caso Amaia Montero o por qué a ellos se les permite desafinar y a ellas no",
+      "score": 3.8,
       "words": [
         {
-          "word": "motivación",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "rechazar",
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "delito",
-          "score": -3
+          "word": "falla",
+          "score": -2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Un perito de la defensa de Fernández Díaz aprecia “algún tipo de manipulación” e",
-      "score": 5.07,
+      "source": "El País",
+      "title": "Por qué Eurovisión puede volver a ser irrelevante",
+      "score": 3.8,
       "words": [
         {
-          "word": "aprecia",
-          "score": 2
-        },
-        {
-          "word": "tipo",
-          "score": 2
+          "word": "crítica",
+          "score": -2
         },
         {
           "word": "manipulación",
           "score": -1
-        },
-        {
-          "word": "aprecia",
-          "score": 2
-        },
-        {
-          "word": "tipo",
-          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El Congreso abre la vía para expulsar a los agitadores Vito Quiles y Bertrand Nd",
-      "score": 4.14,
+      "title": "La guerra civil del laborismo paraliza el Gobierno de Starmer",
+      "score": 5.29,
       "words": [
         {
-          "word": "expulsar",
+          "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "expulsar",
-          "score": -2
-        },
-        {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "retirada",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Xi Jinping recibe a Trump en pleno desorden mundial y alerta del riesgo de \"enfr",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "alerta",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "bienvenida",
-          "score": 2
         },
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "conflicto",
+          "word": "ambicioso",
+          "score": 2
+        },
+        {
+          "word": "colapso",
           "score": -2
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Quién es Wes Streeting, el ambicioso ministro centrista que ha tirado la primera",
+      "score": 5.32,
+      "words": [
+        {
+          "word": "ambicioso",
+          "score": 2
+        },
+        {
+          "word": "ambicioso",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "unido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vive rodeado de ricos, viene de Wall Street y lo ha elegido Trump: quién es Kevi",
+      "score": 4.45,
+      "words": [
+        {
+          "word": "incapaz",
+          "score": -2
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "incapaz",
+          "score": -2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La ocupación comercial, el lado oculto de la expansión israelí para eliminar la ",
+      "score": 4.65,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "duele",
+          "score": -2
+        },
+        {
+          "word": "cumple",
+          "score": 2
+        },
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "15 años del 15M: \"El mayor legado de la PAH para el Sindicato de Inquilinas es p",
+      "score": 4.3,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "protestas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Del \"no hay pan pa' tanto chorizo\" al \"que no tenemos casa\": qué ha sido de los ",
+      "score": 4.32,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "creciente",
+          "score": 1
+        },
+        {
+          "word": "favor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | ¿A quién le importa ya el 15M?",
+      "score": 5.89,
+      "words": [
+        {
+          "word": "importancia",
+          "score": 2
+        },
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "importante",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Audiencia Nacional frena la investigación al comisario que impulsó el montaje",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "confidente",
+          "score": 2
+        },
+        {
+          "word": "confidente",
+          "score": 2
+        },
+        {
+          "word": "cargado",
+          "score": -3
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        },
+        {
+          "word": "confidente",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-01T11:57:17Z",
-      "score": 4.86
-    },
     {
       "timestamp": "2026-05-01T13:24:47Z",
       "score": 4.8
@@ -1043,6 +1079,10 @@
     {
       "timestamp": "2026-05-15T02:59:28Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-05-15T06:37:43Z",
+      "score": 4.75
     }
   ]
 }

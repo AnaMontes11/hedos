@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-14T23:55:51Z",
-  "global_score": 4.58,
+  "generated": "2026-05-15T02:59:28Z",
+  "global_score": 4.69,
   "articles_scored": 90,
-  "words_matched": 269,
+  "words_matched": 271,
   "top_negative": [
     {
       "word": "negro",
@@ -14,10 +14,6 @@
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "tortura",
       "score": -4
     },
     {
@@ -35,9 +31,17 @@
     {
       "word": "criminal",
       "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "magnífico",
+      "score": 5
+    },
     {
       "word": "victorias",
       "score": 4
@@ -49,10 +53,6 @@
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "celebra",
-      "score": 3
     },
     {
       "word": "sentido",
@@ -72,14 +72,14 @@
     }
   ],
   "per_source": {
-    "El País": 4.99,
+    "El País": 5.16,
     "elDiario.es": 4.85,
-    "El Mundo": 3.76,
+    "El Mundo": 4.56,
     "ABC": 4.37,
     "El Confidencial": 5.11,
-    "BBC Mundo": 4.5,
-    "France 24 ES": 4.42,
-    "La Nación AR": 4.28,
+    "BBC Mundo": 4.8,
+    "France 24 ES": 4.33,
+    "La Nación AR": 4.4,
     "La Jornada MX": 4.93,
     "Desinformémonos": 4.9,
     "Resumen Latinoam.": 4.11
@@ -137,15 +137,11 @@
     {
       "source": "El País",
       "title": "La gran rajada de Mbappé: “Arbeloa me ha dicho que soy el cuarto delantero del R",
-      "score": 5.0,
+      "score": 6.6,
       "words": [
         {
           "word": "fuerte",
           "score": 2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
         }
       ]
     },
@@ -376,10 +372,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-01T10:26:28Z",
-      "score": 4.79
-    },
     {
       "timestamp": "2026-05-01T11:57:17Z",
       "score": 4.86
@@ -1047,6 +1039,10 @@
     {
       "timestamp": "2026-05-14T23:55:51Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-05-15T02:59:28Z",
+      "score": 4.69
     }
   ]
 }

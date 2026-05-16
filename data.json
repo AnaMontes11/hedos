@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-16T22:41:56Z",
-  "global_score": 4.71,
-  "articles_scored": 97,
-  "words_matched": 252,
+  "generated": "2026-05-16T23:50:29Z",
+  "global_score": 4.65,
+  "articles_scored": 99,
+  "words_matched": 266,
   "top_negative": [
     {
       "word": "torturas",
@@ -39,11 +39,11 @@
   ],
   "top_positive": [
     {
-      "word": "milagro",
+      "word": "ganador",
       "score": 4
     },
     {
-      "word": "victorias",
+      "word": "milagro",
       "score": 4
     },
     {
@@ -52,6 +52,10 @@
     },
     {
       "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "amor",
       "score": 3
     },
     {
@@ -65,24 +69,20 @@
     {
       "word": "premio",
       "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.03,
+    "El País": 4.25,
     "elDiario.es": 4.39,
-    "El Mundo": 4.91,
-    "ABC": 5.84,
+    "El Mundo": 5.15,
+    "ABC": 5.05,
     "El Confidencial": 4.69,
     "BBC Mundo": 4.9,
-    "France 24 ES": 4.67,
-    "La Nación AR": 5.57,
+    "France 24 ES": 4.94,
+    "La Nación AR": 4.8,
     "La Jornada MX": 5.03,
     "Desinformémonos": 3.58,
-    "Resumen Latinoam.": 4.6
+    "Resumen Latinoam.": 4.37
   },
   "articles": [
     {
@@ -121,12 +121,12 @@
     },
     {
       "source": "El País",
-      "title": "Final de Eurovisión 2026, en directo | Votaciones, resultados y última hora del ",
-      "score": 3.4,
+      "title": "Bulgaria gana a Israel en Eurovisión, que no cierra la puerta al regreso de Rusi",
+      "score": 6.6,
       "words": [
         {
-          "word": "polémica",
-          "score": -2
+          "word": "logra",
+          "score": 2
         }
       ]
     },
@@ -170,12 +170,24 @@
     },
     {
       "source": "El País",
-      "title": "Uno de los principales candidatos para reemplazar a Starmer sostiene que “algún ",
-      "score": 5.8,
+      "title": "Venezuela entrega a Estados Unidos a Alex Saab, supuesto testaferro de Maduro",
+      "score": 4.6,
       "words": [
         {
-          "word": "unido",
-          "score": 1
+          "word": "maduro",
+          "score": 2
+        },
+        {
+          "word": "desgracia",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "detenido",
+          "score": -1
         }
       ]
     },
@@ -404,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-02T20:39:07Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-05-02T21:37:56Z",
       "score": 4.87
@@ -1075,6 +1083,10 @@
     {
       "timestamp": "2026-05-16T22:41:56Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-05-16T23:50:29Z",
+      "score": 4.65
     }
   ]
 }

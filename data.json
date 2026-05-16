@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-16T09:48:31Z",
-  "global_score": 4.78,
-  "articles_scored": 94,
-  "words_matched": 308,
+  "generated": "2026-05-16T11:00:32Z",
+  "global_score": 4.79,
+  "articles_scored": 96,
+  "words_matched": 306,
   "top_negative": [
     {
       "word": "pinchazo",
@@ -67,19 +67,19 @@
       "score": 3
     },
     {
-      "word": "bonito",
+      "word": "contento",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.8,
+    "El País": 4.9,
     "elDiario.es": 4.97,
-    "El Mundo": 3.95,
-    "ABC": 5.09,
-    "El Confidencial": 5.74,
-    "BBC Mundo": 4.43,
+    "El Mundo": 4.13,
+    "ABC": 5.67,
+    "El Confidencial": 5.47,
+    "BBC Mundo": 4.54,
     "France 24 ES": 4.53,
-    "La Nación AR": 5.91,
+    "La Nación AR": 5.63,
     "La Jornada MX": 4.57,
     "Desinformémonos": 3.84,
     "Resumen Latinoam.": 4.45
@@ -192,28 +192,12 @@
     },
     {
       "source": "El País",
-      "title": "Luis Rafael Sánchez: “Los republicanos no soportan la idea de que Puerto Rico pu",
-      "score": 6.6,
+      "title": "Arbeloa: “Mourinho es el número uno; si vuelve al Real Madrid, estaré muy feliz”",
+      "score": 7.4,
       "words": [
         {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "reivindicando",
-          "score": 2
-        },
-        {
-          "word": "novela",
-          "score": 2
-        },
-        {
-          "word": "cumple",
-          "score": 2
+          "word": "feliz",
+          "score": 3
         }
       ]
     },
@@ -408,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-02T09:03:08Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-05-02T10:48:43Z",
       "score": 4.78
@@ -1079,6 +1059,10 @@
     {
       "timestamp": "2026-05-16T09:48:31Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-05-16T11:00:32Z",
+      "score": 4.79
     }
   ]
 }

@@ -1,27 +1,23 @@
 {
-  "generated": "2026-05-16T15:56:18Z",
-  "global_score": 4.77,
-  "articles_scored": 97,
-  "words_matched": 302,
+  "generated": "2026-05-16T16:58:43Z",
+  "global_score": 4.71,
+  "articles_scored": 98,
+  "words_matched": 241,
   "top_negative": [
     {
       "word": "pinchazo",
       "score": -5
     },
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "bastardo",
-      "score": -5
-    },
-    {
-      "word": "culo",
+      "word": "torturas",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "culo",
       "score": -4
     },
     {
@@ -29,29 +25,21 @@
       "score": -4
     },
     {
-      "word": "violencia",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "atropello",
+      "score": -3
+    },
+    {
+      "word": "asesinato",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
-      "word": "triunfante",
-      "score": 4
-    },
-    {
       "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "ganador",
       "score": 4
     },
     {
@@ -59,66 +47,55 @@
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "riqueza",
       "score": 3
     },
     {
-      "word": "contento",
+      "word": "vibrante",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "amable",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.32,
-    "elDiario.es": 4.97,
-    "El Mundo": 4.76,
-    "ABC": 5.88,
-    "El Confidencial": 4.82,
+    "El País": 4.69,
+    "elDiario.es": 4.37,
+    "El Mundo": 4.78,
+    "ABC": 4.64,
+    "El Confidencial": 5.18,
     "BBC Mundo": 4.9,
-    "France 24 ES": 4.33,
-    "La Nación AR": 4.68,
+    "France 24 ES": 4.61,
+    "La Nación AR": 5.03,
     "La Jornada MX": 5.03,
     "Desinformémonos": 3.58,
-    "Resumen Latinoam.": 4.82
+    "Resumen Latinoam.": 5.1
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Ana Redondo, ministra de Igualdad: “El ‘caso Ábalos’ ha hecho muchísimo daño y h",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "daño",
-          "score": -2
-        },
-        {
-          "word": "afectado",
-          "score": -1
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "perdón",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Hallados los cuerpos de un guardia civil, su mujer y su hijo en un cuartel de Al",
+      "title": "La crisis de la vivienda eleva el hacinamiento a niveles récord: “Somos cuatro e",
       "score": 3.0,
       "words": [
         {
-          "word": "violencia",
+          "word": "crisis",
           "score": -3
         },
         {
-          "word": "fuego",
+          "word": "solo",
           "score": -2
         }
       ]
@@ -181,89 +158,130 @@
     },
     {
       "source": "El País",
-      "title": "Irvine Welsh, escritor: “Los hombres jóvenes han perdido la empatía porque ya no",
-      "score": 5.0,
+      "title": "Estos son todos los artistas de ‘La casa de la música’ con los que RTVE sustituy",
+      "score": 5.8,
       "words": [
         {
-          "word": "perdido",
-          "score": -2
-        },
+          "word": "jesús",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Españoles que acuden a Eurovisión 2026 a pesar de Israel: “Se exige a los eurofa",
+      "score": 5.4,
+      "words": [
         {
-          "word": "autor",
-          "score": -2
-        },
-        {
-          "word": "novela",
+          "word": "compromiso",
           "score": 2
         },
         {
-          "word": "cumple",
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Delta Goodrem: la estrella internacional que puede hacer historia ganando Eurovi",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ganando",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Arbeloa: “Mourinho es el número uno; si vuelve al Real Madrid, estaré muy feliz”",
-      "score": 7.4,
+      "title": "Sorogoyen, Bardem y Luengo presentan en Cannes ‘El ser querido’: “A muchos hombr",
+      "score": 6.6,
       "words": [
         {
-          "word": "feliz",
-          "score": 3
+          "word": "querido",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La crisis de la sanidad pública agita la campaña en Andalucía y pone en riesgo l",
-      "score": 4.48,
+      "title": "Siete heridos, cuatro de ellos muy graves, tras un atropello múltiple en Módena,",
+      "score": 3.2,
       "words": [
         {
-          "word": "crisis",
+          "word": "atropello",
           "score": -3
         },
         {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "crisis",
+          "word": "atropello",
           "score": -3
         },
         {
-          "word": "riesgo",
-          "score": -2
+          "word": "detenido",
+          "score": -1
         },
         {
-          "word": "descontento",
-          "score": -2
+          "word": "atropello",
+          "score": -3
+        },
+        {
+          "word": "detenido",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Cirugía electoral a la caza del último voto: los partidos se disputan zonas clav",
-      "score": 4.53,
+      "title": "China confirma que Xi Jinping visitará Estados Unidos y pide \"acciones concretas",
+      "score": 5.45,
       "words": [
         {
-          "word": "polémica",
-          "score": -2
-        },
-        {
-          "word": "restos",
-          "score": -2
-        },
-        {
-          "word": "cierto",
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "disputa",
-          "score": -2
+          "word": "paz",
+          "score": 2
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "realizar",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump vuelve a poner Cuba en su punto de mira a su vuelta de China",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "confiado",
+          "score": 2
+        },
+        {
+          "word": "cuestionado",
+          "score": -1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "convencido",
+          "score": -1
+        },
+        {
+          "word": "confiado",
+          "score": 2
         }
       ]
     },
@@ -296,118 +314,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "¿Cómo ha votado cada municipio de Andalucía desde 1982? La evolución del apoyo a",
-      "score": 6.13,
+      "title": "\"Gastarbeiter\", los españoles que sufrieron la xenofobia y la \"prioridad naciona",
+      "score": 4.71,
       "words": [
         {
-          "word": "apoyo",
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "fuerza",
           "score": 2
         },
         {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Bienvenido señala el \"lápiz rojo\" con el que el PP intentó censurar su comparsa:",
-      "score": 4.45,
-      "words": [
-        {
-          "word": "bienvenido",
-          "score": 2
-        },
-        {
-          "word": "censurar",
-          "score": -2
-        },
-        {
-          "word": "bienvenido",
-          "score": 2
-        },
-        {
-          "word": "censurar",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez y Montero conjuran la épica del PSOE andaluz para resurgir de las ceniza",
-      "score": 5.54,
-      "words": [
-        {
-          "word": "honor",
-          "score": 2
-        },
-        {
-          "word": "honor",
-          "score": 2
-        },
-        {
-          "word": "letargo",
-          "score": -2
-        },
-        {
-          "word": "lanzado",
-          "score": 1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Moreno pide el voto de la “concordia” para no depender de Vox: “Sabemos lo que h",
-      "score": 5.12,
-      "words": [
-        {
-          "word": "pasado",
+          "word": "rechaza",
           "score": -1
         },
         {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "advierte",
+          "word": "descontento",
           "score": -2
         },
         {
-          "word": "hermosa",
-          "score": 3
+          "word": "beneficios",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Hizbulá pone en aprietos a las tropas de Israel en Líbano con drones por cable d",
+      "score": 4.27,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "serio",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-02T14:43:20Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-02T15:42:33Z",
       "score": 4.65
@@ -1075,6 +1035,10 @@
     {
       "timestamp": "2026-05-16T15:56:18Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-05-16T16:58:43Z",
+      "score": 4.71
     }
   ]
 }

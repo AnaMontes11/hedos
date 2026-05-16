@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-16T05:52:26Z",
-  "global_score": 4.75,
-  "articles_scored": 98,
-  "words_matched": 292,
+  "generated": "2026-05-16T08:00:06Z",
+  "global_score": 4.69,
+  "articles_scored": 92,
+  "words_matched": 304,
   "top_negative": [
     {
       "word": "pinchazo",
@@ -33,13 +33,13 @@
       "score": -3
     },
     {
-      "word": "malo",
+      "word": "defectos",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "victorioso",
+      "word": "victorias",
       "score": 4
     },
     {
@@ -67,22 +67,22 @@
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.64,
-    "elDiario.es": 5.1,
+    "elDiario.es": 5.07,
     "El Mundo": 3.95,
-    "ABC": 5.76,
+    "ABC": 5.11,
     "El Confidencial": 5.91,
     "BBC Mundo": 4.47,
-    "France 24 ES": 4.56,
-    "La Nación AR": 5.02,
+    "France 24 ES": 4.53,
+    "La Nación AR": 5.7,
     "La Jornada MX": 4.57,
     "Desinformémonos": 3.84,
-    "Resumen Latinoam.": 4.21
+    "Resumen Latinoam.": 3.94
   },
   "articles": [
     {
@@ -261,6 +261,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Cirugía electoral a la caza del último voto: los partidos se disputan zonas clav",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "restos",
+          "score": -2
+        },
+        {
+          "word": "cierto",
+          "score": 2
+        },
+        {
+          "word": "disputa",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Sánchez y Montero conjuran la épica del PSOE andaluz para resurgir de las ceniza",
       "score": 5.54,
       "words": [
@@ -342,64 +369,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Por Andalucía apela a la épica de David contra Goliat para pedir \"rebeldía\" ante",
-      "score": 5.64,
+      "title": "El negocio del odio",
+      "score": 4.08,
       "words": [
         {
-          "word": "esperanza",
-          "score": 2
+          "word": "odio",
+          "score": -3
         },
         {
-          "word": "esperanza",
-          "score": 2
+          "word": "odio",
+          "score": -3
         },
         {
-          "word": "expulsar",
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "esperanza",
-          "score": 2
+          "word": "gilipollas",
+          "score": -3
         },
         {
-          "word": "optimismo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"¡Gafas, presidente!\": Adelante Andalucía cierra la campaña con el reclamo de se",
-      "score": 5.17,
-      "words": [
-        {
-          "word": "útil",
-          "score": 2
-        },
-        {
-          "word": "útil",
-          "score": 2
-        },
-        {
-          "word": "fortalecimiento",
-          "score": 2
-        },
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "ganar",
-          "score": 4
+          "word": "paga",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-02T05:34:25Z",
-      "score": 4.86
-    },
     {
       "timestamp": "2026-05-02T07:28:53Z",
       "score": 4.84
@@ -1067,6 +1063,10 @@
     {
       "timestamp": "2026-05-16T05:52:26Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-05-16T08:00:06Z",
+      "score": 4.69
     }
   ]
 }

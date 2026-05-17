@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-17T13:14:44Z",
-  "global_score": 4.59,
-  "articles_scored": 96,
-  "words_matched": 307,
+  "generated": "2026-05-17T14:53:38Z",
+  "global_score": 4.62,
+  "articles_scored": 94,
+  "words_matched": 310,
   "top_negative": [
     {
       "word": "pinchazo",
@@ -13,11 +13,15 @@
       "score": -5
     },
     {
-      "word": "fraude",
+      "word": "mierda",
       "score": -4
     },
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
@@ -29,19 +33,11 @@
       "score": -4
     },
     {
-      "word": "torturado",
-      "score": -4
-    },
-    {
-      "word": "peor",
+      "word": "pierde",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "alegría",
-      "score": 4
-    },
     {
       "word": "ganador",
       "score": 4
@@ -59,32 +55,66 @@
       "score": 3
     },
     {
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "exitoso",
+      "score": 3
+    },
+    {
       "word": "premios",
       "score": 3
     },
     {
       "word": "riqueza",
       "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.27,
-    "elDiario.es": 5.26,
-    "El Mundo": 4.83,
-    "ABC": 5.09,
+    "El País": 4.21,
+    "elDiario.es": 5.27,
+    "El Mundo": 4.96,
+    "ABC": 5.75,
     "El Confidencial": 4.35,
-    "BBC Mundo": 4.14,
-    "France 24 ES": 4.44,
-    "La Nación AR": 5.68,
+    "BBC Mundo": 4.41,
+    "France 24 ES": 4.14,
+    "La Nación AR": 4.77,
     "La Jornada MX": 4.78,
     "Desinformémonos": 3.58,
-    "Resumen Latinoam.": 4.0
+    "Resumen Latinoam.": 4.38
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Elecciones en Andalucía 17M, en directo | La publicación de resultados se retras",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cinco números para seguir el recuento en Andalucía y saber quién gana y quién pi",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El PP prueba la eficacia de la “vía andaluza” para frenar a Vox",
@@ -101,25 +131,6 @@
         {
           "word": "decisivo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La crónica | Andalucía cierra ciclo electoral sin alterar el plan de Pedro Sánch",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "nervios",
-          "score": -1
-        },
-        {
-          "word": "crítico",
-          "score": -2
         }
       ]
     },
@@ -173,12 +184,16 @@
     },
     {
       "source": "El País",
-      "title": "Gravísimo accidente de Álex Márquez durante la carrera del GP de Catalunya",
-      "score": 3.4,
+      "title": "Un espeluznante accidente en el GP de Catalunya de MotoGP termina con Alex Márqu",
+      "score": 3.8,
       "words": [
         {
           "word": "accidente",
           "score": -2
+        },
+        {
+          "word": "chocar",
+          "score": -1
         }
       ]
     },
@@ -202,25 +217,18 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Jon Rahm sale a la caza del Campeonato de la PGA, el último grande del golf espa",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "persigue",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "La participación en las elecciones en Andalucía a las 14.00 sube al 37,25%, más ",
-      "score": 6.51,
+      "score": 6.67,
       "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
         {
           "word": "mayor",
           "score": 3
@@ -232,14 +240,6 @@
         {
           "word": "solitario",
           "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "celebra",
-          "score": 3
         }
       ]
     },
@@ -299,6 +299,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Desde el Betis, la vivienda y la dependencia, hasta la desconfianza en los polít",
+      "score": 5.01,
+      "words": [
+        {
+          "word": "desconfianza",
+          "score": -3
+        },
+        {
+          "word": "desconfianza",
+          "score": -3
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "nervioso",
+          "score": -2
+        },
+        {
+          "word": "mal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El hombre que susurraba a las vacas",
       "score": 4.9,
       "words": [
@@ -350,40 +377,9 @@
           "score": 4
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Andalucía desde un aula de Bachillerato: “Los políticos piensan que pasamos el d",
-      "score": 4.72,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "dedicado",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-03T08:02:25Z",
-      "score": 4.99
-    },
     {
       "timestamp": "2026-05-03T10:01:27Z",
       "score": 4.83
@@ -1051,6 +1047,10 @@
     {
       "timestamp": "2026-05-17T13:14:44Z",
       "score": 4.59
+    },
+    {
+      "timestamp": "2026-05-17T14:53:38Z",
+      "score": 4.62
     }
   ]
 }

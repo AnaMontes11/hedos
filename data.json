@@ -1,20 +1,12 @@
 {
-  "generated": "2026-05-17T18:00:20Z",
-  "global_score": 4.6,
-  "articles_scored": 101,
-  "words_matched": 318,
+  "generated": "2026-05-17T20:02:39Z",
+  "global_score": 4.74,
+  "articles_scored": 102,
+  "words_matched": 228,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
-    },
-    {
-      "word": "perra",
-      "score": -5
-    },
-    {
-      "word": "mierda",
-      "score": -4
     },
     {
       "word": "culo",
@@ -35,15 +27,23 @@
     {
       "word": "pierde",
       "score": -3
+    },
+    {
+      "word": "terrible",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "ganador",
       "score": 4
     },
     {
-      "word": "ganador",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -51,74 +51,56 @@
       "score": 4
     },
     {
+      "word": "caro",
+      "score": 3
+    },
+    {
       "word": "afecto",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     },
     {
       "word": "exitoso",
       "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "caro",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.41,
-    "elDiario.es": 5.39,
-    "El Mundo": 4.92,
-    "ABC": 4.62,
-    "El Confidencial": 4.35,
+    "El País": 4.52,
+    "elDiario.es": 5.22,
+    "El Mundo": 4.72,
+    "ABC": 6.04,
+    "El Confidencial": 4.11,
     "BBC Mundo": 4.41,
-    "France 24 ES": 5.09,
-    "La Nación AR": 4.69,
+    "France 24 ES": 5.48,
+    "La Nación AR": 4.62,
     "La Jornada MX": 4.78,
     "Desinformémonos": 3.58,
-    "Resumen Latinoam.": 4.18
+    "Resumen Latinoam.": 4.25
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Elecciones en Andalucía 17M, en directo | La participación a las 18.00 sube más ",
-      "score": 3.4,
+      "title": "Las Elecciones andaluzas del 17M, en directo | Programa Especial Vídeo",
+      "score": 6.6,
       "words": [
         {
-          "word": "problemas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los problemas para constituir las mesas en tres colegios electorales retrasan la",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "problemas",
-          "score": -2
+          "word": "logra",
+          "score": 2
         },
         {
-          "word": "pospone",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las Elecciones andaluzas del 17M, en directo | Programa Especial Vídeo",
-      "score": 4.2,
-      "words": [
+          "word": "crecimiento",
+          "score": 2
+        },
         {
-          "word": "retraso",
-          "score": -1
+          "word": "fuerte",
+          "score": 2
         }
       ]
     },
@@ -143,31 +125,34 @@
     },
     {
       "source": "El País",
-      "title": "El PP prueba la eficacia de la “vía andaluza” para frenar a Vox",
-      "score": 4.2,
+      "title": "El PP refuerza su mayoría absoluta en las elecciones de Andalucía, según el sond",
+      "score": 3.4,
       "words": [
         {
-          "word": "expone",
-          "score": -1
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "decisivo",
-          "score": 1
+          "word": "perder",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El misterio del liderazgo: ¿Moreno Bonilla o Ayuso?",
-      "score": 5.8,
+      "title": "Los resultados de las elecciones en Andalucía, en tiempo real y en cada municipi",
+      "score": 3.4,
       "words": [
         {
-          "word": "alcanzar",
-          "score": 1
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Qué dice el escrutinio en Andalucía? Los escaños más disputados y la tendencia ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
@@ -183,17 +168,6 @@
         {
           "word": "conceder",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Patria y agravio en las elecciones andaluzas",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "expulsa",
-          "score": -2
         }
       ]
     },
@@ -233,101 +207,24 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La participación en las elecciones en Andalucía a las 18.00 sube al 52,16%, más ",
-      "score": 6.71,
+      "title": "Moreno pierde la mayoría absoluta, el PSOE cae y Adelante supera a Por Andalucía",
+      "score": 5.72,
       "words": [
         {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "MAPA | Consulta los datos de participación a las 18.00 horas en Andalucía, munic",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "apreciar",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Desde el Betis, la vivienda y la dependencia, hasta la desconfianza en los polít",
-      "score": 5.04,
-      "words": [
-        {
-          "word": "desconfianza",
+          "word": "pierde",
           "score": -3
         },
         {
-          "word": "desconfianza",
+          "word": "pierde",
           "score": -3
         },
         {
-          "word": "superior",
+          "word": "fuerza",
           "score": 2
         },
         {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "nervioso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Andalucía vota entre consolidarse como el gran bastión del PP o devolver la conf",
-      "score": 5.84,
-      "words": [
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "bloques",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
+          "word": "logra",
+          "score": 2
         },
         {
           "word": "popular",
@@ -337,37 +234,168 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El hombre que susurraba a las vacas",
-      "score": 4.9,
+      "title": "Los resultados de las elecciones en Andalucía 2026, municipio a municipio",
+      "score": 5.11,
       "words": [
         {
-          "word": "pasado",
+          "word": "bloques",
           "score": -1
         },
         {
-          "word": "detenido",
+          "word": "ganador",
+          "score": 4
+        },
+        {
+          "word": "ganador",
+          "score": 4
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "barras",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP reeditaría su mayoría absoluta en Andalucía y el PSOE obtendría su peor re",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La batalla por el último escaño en Andalucía 2026, en directo: quién puede ganar",
+      "score": 4.76,
+      "words": [
+        {
+          "word": "batalla",
           "score": -1
         },
         {
-          "word": "robar",
-          "score": -2
+          "word": "ganar",
+          "score": 4
         },
         {
-          "word": "sucio",
-          "score": -2
+          "word": "pierde",
+          "score": -3
         },
         {
-          "word": "fraude",
-          "score": -4
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Calculadora de pactos de las elecciones en Andalucía 2026: elige tu candidato a ",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "bloques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La demografía del 17M: así vota cada grupo social en las elecciones de Andalucía",
+      "score": 4.89,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De izquierda o derecha: los resultados de las elecciones en Andalucía 2026 por b",
+      "score": 4.71,
+      "words": [
+        {
+          "word": "bloques",
+          "score": -1
+        },
+        {
+          "word": "bloques",
+          "score": -1
+        },
+        {
+          "word": "bloques",
+          "score": -1
+        },
+        {
+          "word": "bloques",
+          "score": -1
+        },
+        {
+          "word": "bloques",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-03T14:45:43Z",
-      "score": 4.98
-    },
     {
       "timestamp": "2026-05-03T15:44:03Z",
       "score": 4.91
@@ -1035,6 +1063,10 @@
     {
       "timestamp": "2026-05-17T18:00:20Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-05-17T20:02:39Z",
+      "score": 4.74
     }
   ]
 }

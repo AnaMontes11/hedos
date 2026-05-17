@@ -1,12 +1,12 @@
 {
-  "generated": "2026-05-17T21:52:43Z",
-  "global_score": 4.62,
+  "generated": "2026-05-17T22:51:44Z",
+  "global_score": 4.63,
   "articles_scored": 99,
-  "words_matched": 206,
+  "words_matched": 239,
   "top_negative": [
     {
-      "word": "mierda",
-      "score": -4
+      "word": "pinchazo",
+      "score": -5
     },
     {
       "word": "fraude",
@@ -39,11 +39,11 @@
   ],
   "top_positive": [
     {
-      "word": "milagro",
+      "word": "victorias",
       "score": 4
     },
     {
-      "word": "victorias",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.47,
-    "elDiario.es": 4.95,
-    "El Mundo": 4.08,
-    "ABC": 5.26,
-    "El Confidencial": 4.7,
+    "El País": 3.69,
+    "elDiario.es": 5.36,
+    "El Mundo": 4.52,
+    "ABC": 5.6,
+    "El Confidencial": 4.84,
     "BBC Mundo": 4.41,
-    "France 24 ES": 5.32,
-    "La Nación AR": 5.45,
+    "France 24 ES": 5.14,
+    "La Nación AR": 4.59,
     "La Jornada MX": 4.78,
     "Desinformémonos": 3.58,
-    "Resumen Latinoam.": 3.85
+    "Resumen Latinoam.": 4.24
   },
   "articles": [
     {
@@ -110,28 +110,31 @@
     },
     {
       "source": "El País",
-      "title": "Elecciones en Andalucía 17M, resultados en directo | Vox celebra la pérdida de l",
-      "score": 4.68,
+      "title": "El PP baja cinco diputados y se mete en “el lío” contra el que ha alertado toda ",
+      "score": 6.07,
       "words": [
         {
-          "word": "celebra",
+          "word": "lío",
+          "score": -2
+        },
+        {
+          "word": "mayor",
           "score": 3
         },
         {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El momento de la verdad",
+      "score": 2.6,
+      "words": [
+        {
           "word": "pérdida",
           "score": -3
-        },
-        {
-          "word": "grito",
-          "score": -2
-        },
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "honor",
-          "score": 2
         }
       ]
     },
@@ -148,16 +151,16 @@
     },
     {
       "source": "El País",
-      "title": "El PP baja cinco diputados y se mete en “el lío” contra el que ha alertado toda ",
-      "score": 5.4,
+      "title": "Del “sobresaliente” de Moreno a la “¡prioridad nacional!\" de Vox: la noche elect",
+      "score": 3.0,
       "words": [
         {
-          "word": "lío",
+          "word": "perdido",
           "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "peor",
+          "score": -3
         }
       ]
     },
@@ -178,33 +181,37 @@
     },
     {
       "source": "El País",
-      "title": "Adelante Andalucía pulveriza su mejor resultado electoral y le complica la absol",
-      "score": 7.4,
+      "title": "“Lo logramos”, proclama Abascal ante la pérdida de la mayoría absoluta del PP",
+      "score": 4.6,
       "words": [
         {
-          "word": "mejor",
-          "score": 3
+          "word": "pérdida",
+          "score": -3
+        },
+        {
+          "word": "logra",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La unidad de la izquierda se tropieza en las urnas andaluzas",
+      "title": "Adelante Andalucía cuadruplica su resultado electoral y monopoliza la subida de ",
       "score": 3.4,
       "words": [
         {
-          "word": "advierte",
+          "word": "monopoliza",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "¿Qué dice el escrutinio en Andalucía? Los escaños más disputados y la tendencia ",
+      "title": "La candidatura de IU, Sumar y Podemos se tropieza en las urnas andaluzas",
       "score": 3.4,
       "words": [
         {
-          "word": "tiempo",
+          "word": "advierte",
           "score": -2
         }
       ]
@@ -217,17 +224,6 @@
         {
           "word": "cáncer",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PSOE fía las generales al voto útil de la izquierda",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "útil",
-          "score": 2
         }
       ]
     },
@@ -251,6 +247,87 @@
         {
           "word": "logra",
           "score": 2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La sorpresa de Adelante Andalucía desbarata la mayoría absoluta del PP",
+      "score": 5.42,
+      "words": [
+        {
+          "word": "débil",
+          "score": -2
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Andalucía da a Juanma Moreno un triunfo que lleva bicho dentro",
+      "score": 5.47,
+      "words": [
+        {
+          "word": "triunfo",
+          "score": 4
+        },
+        {
+          "word": "triunfo",
+          "score": 4
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "superior",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los que no votan",
+      "score": 5.41,
+      "words": [
+        {
+          "word": "ganado",
+          "score": 2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "victorias",
+          "score": 4
+        },
+        {
+          "word": "solo",
+          "score": -2
         },
         {
           "word": "popular",
@@ -284,94 +361,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La batalla por el último escaño en Andalucía 2026, en directo: quién puede ganar",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Adelante 'sorpassa' a Por Andalucía y profundiza la crisis de Sumar",
-      "score": 5.06,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "peor",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PSOE toca fondo en Andalucía y se consuela con la pérdida de la mayoría absol",
-      "score": 4.77,
-      "words": [
-        {
-          "word": "pérdida",
-          "score": -3
-        },
-        {
-          "word": "pérdida",
-          "score": -3
-        },
-        {
-          "word": "jesús",
-          "score": 1
-        },
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "peor",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-03T16:45:28Z",
-      "score": 5.01
-    },
     {
       "timestamp": "2026-05-03T17:43:49Z",
       "score": 5.1
@@ -1039,6 +1031,10 @@
     {
       "timestamp": "2026-05-17T21:52:43Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-05-17T22:51:44Z",
+      "score": 4.63
     }
   ]
 }

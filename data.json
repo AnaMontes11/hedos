@@ -1,6 +1,6 @@
 {
-  "generated": "2026-05-17T15:56:31Z",
-  "global_score": 4.59,
+  "generated": "2026-05-17T16:57:33Z",
+  "global_score": 4.57,
   "articles_scored": 98,
   "words_matched": 312,
   "top_negative": [
@@ -10,6 +10,10 @@
     },
     {
       "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "perra",
       "score": -5
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "violación",
       "score": -4
-    },
-    {
-      "word": "pierde",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -55,44 +55,59 @@
       "score": 3
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "encanto",
-      "score": 3
-    },
-    {
       "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "caro",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.21,
-    "elDiario.es": 5.27,
-    "El Mundo": 4.68,
-    "ABC": 5.67,
+    "El País": 4.09,
+    "elDiario.es": 5.39,
+    "El Mundo": 4.73,
+    "ABC": 4.99,
     "El Confidencial": 4.35,
     "BBC Mundo": 4.41,
-    "France 24 ES": 4.27,
-    "La Nación AR": 4.67,
+    "France 24 ES": 4.91,
+    "La Nación AR": 4.7,
     "La Jornada MX": 4.78,
     "Desinformémonos": 3.58,
-    "Resumen Latinoam.": 4.29
+    "Resumen Latinoam.": 4.22
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Elecciones en Andalucía 17M, en directo | La publicación de resultados se retras",
+      "title": "Elecciones en Andalucía 17M, en directo | La participación a las 18.00 sube más ",
       "score": 3.4,
       "words": [
         {
           "word": "problemas",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los problemas para constituir las mesas en tres colegios electorales retrasan la",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "problemas",
+          "score": -2
+        },
+        {
+          "word": "pospone",
+          "score": -1
         }
       ]
     },
@@ -184,16 +199,16 @@
     },
     {
       "source": "El País",
-      "title": "Un espeluznante accidente en el GP de Catalunya de MotoGP termina con Alex Márqu",
-      "score": 3.8,
+      "title": "Alex Márquez tiene una fractura en una vértebra cervical y la clavícula rota tra",
+      "score": 3.0,
       "words": [
+        {
+          "word": "terrible",
+          "score": -3
+        },
         {
           "word": "accidente",
           "score": -2
-        },
-        {
-          "word": "chocar",
-          "score": -1
         }
       ]
     },
@@ -218,51 +233,47 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La participación en las elecciones en Andalucía a las 14.00 sube al 37,25%, más ",
-      "score": 6.67,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "MAPA | Consulta los datos de participación a las 14.00 horas en Andalucía, munic",
-      "score": 5.91,
+      "title": "La participación en las elecciones en Andalucía a las 18.00 sube al 52,16%, más ",
+      "score": 6.71,
       "words": [
         {
           "word": "superior",
           "score": 2
         },
         {
-          "word": "inferior",
-          "score": -2
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "alcanzar",
-          "score": 1
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "MAPA | Consulta los datos de participación a las 18.00 horas en Andalucía, munic",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "apreciar",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
         },
         {
           "word": "mayor",
@@ -273,7 +284,7 @@
     {
       "source": "elDiario.es",
       "title": "Desde el Betis, la vivienda y la dependencia, hasta la desconfianza en los polít",
-      "score": 5.01,
+      "score": 5.04,
       "words": [
         {
           "word": "desconfianza",
@@ -284,16 +295,16 @@
           "score": -3
         },
         {
+          "word": "superior",
+          "score": 2
+        },
+        {
           "word": "confianza",
           "score": 1
         },
         {
           "word": "nervioso",
           "score": -2
-        },
-        {
-          "word": "mal",
-          "score": -3
         }
       ]
     },
@@ -350,40 +361,9 @@
           "score": -4
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Guía para seguir las elecciones en Andalucía: encuestas, pactos y un parlamento ",
-      "score": 5.49,
-      "words": [
-        {
-          "word": "bloques",
-          "score": -1
-        },
-        {
-          "word": "bloques",
-          "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "ganador",
-          "score": 4
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-03T11:39:48Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-05-03T13:04:01Z",
       "score": 5.0
@@ -1051,6 +1031,10 @@
     {
       "timestamp": "2026-05-17T15:56:31Z",
       "score": 4.59
+    },
+    {
+      "timestamp": "2026-05-17T16:57:33Z",
+      "score": 4.57
     }
   ]
 }

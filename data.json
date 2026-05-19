@@ -1,15 +1,11 @@
 {
-  "generated": "2026-05-19T08:30:19Z",
-  "global_score": 4.67,
-  "articles_scored": 89,
-  "words_matched": 224,
+  "generated": "2026-05-19T12:07:13Z",
+  "global_score": 4.75,
+  "articles_scored": 85,
+  "words_matched": 200,
   "top_negative": [
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "maldición",
       "score": -4
     },
     {
@@ -17,7 +13,11 @@
       "score": -3
     },
     {
-      "word": "pérdida",
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     },
     {
@@ -25,31 +25,19 @@
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "cargado",
       "score": -3
     },
     {
-      "word": "pierde",
+      "word": "perdiendo",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "vil",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "divertido",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "alegría",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -59,35 +47,84 @@
       "score": 3
     },
     {
-      "word": "cortés",
-      "score": 3
-    },
-    {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "exitoso",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "afecto",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
+    },
+    {
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.78,
-    "elDiario.es": 5.35,
-    "El Mundo": 3.67,
-    "ABC": 4.28,
-    "El Confidencial": 4.69,
-    "BBC Mundo": 4.27,
-    "France 24 ES": 4.97,
-    "La Nación AR": 4.83,
-    "La Jornada MX": 5.02,
+    "El País": 3.9,
+    "elDiario.es": 5.01,
+    "El Mundo": 3.95,
+    "ABC": 5.36,
+    "El Confidencial": 4.4,
+    "BBC Mundo": 4.53,
+    "France 24 ES": 5.17,
+    "La Nación AR": 5.28,
+    "La Jornada MX": 5.28,
     "Desinformémonos": 3.76,
-    "Resumen Latinoam.": 5.15
+    "Resumen Latinoam.": 5.12
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Zapatero, imputado en el ‘caso Plus Ultra’ de la Audiencia Nacional por organiza",
+      "title": "El juez atribuye a Zapatero el cobro de cerca de dos millones en comisiones",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Imputación de Zapatero por el ‘caso Plus Ultra’, en directo | El juez afirma que",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "estable",
+          "score": 2
+        },
+        {
+          "word": "admite",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Por qué se investiga a Zapatero? ¿De qué se le acusa? Preguntas y respuestas de",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Whathefav, la agencia de las hijas de Zapatero señalada como beneficiaria de la ",
       "score": 2.6,
       "words": [
         {
@@ -98,27 +135,27 @@
     },
     {
       "source": "El País",
-      "title": "Imputación de Zapatero por el ‘caso Plus Ultra’, en directo | El PP exige a Sánc",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Golpe durísimo al corazón del sanchismo tras la imputación de Zapatero",
-      "score": 4.6,
+      "title": "El PSOE se revuelve ante un golpe durísimo al núcleo del sanchismo: “El que pued",
+      "score": 5.0,
       "words": [
         {
           "word": "golpe",
           "score": -2
         },
         {
-          "word": "confianza",
-          "score": 1
+          "word": "perdonado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El PP se lanza en tromba contra el Gobierno por la imputación de Zapatero: “Los ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "urgente",
+          "score": -1
         }
       ]
     },
@@ -135,90 +172,42 @@
     },
     {
       "source": "El País",
-      "title": "El ciclo electoral consolida la derechización de España a la espera de las gener",
-      "score": 5.4,
+      "title": "Jonathan Andic, el sucesor que no supo pilotar solo la nave de Mango y fue relev",
+      "score": 3.8,
       "words": [
         {
-          "word": "espera",
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "detenido",
           "score": -1
-        },
-        {
-          "word": "imparable",
-          "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Andalucía agrava el calvario de la socialdemocracia en Europa",
-      "score": 4.8,
+      "source": "elDiario.es",
+      "title": "El juez sitúa a Zapatero como líder de una estructura \"jerarquizada\" de tráfico ",
+      "score": 5.58,
       "words": [
         {
-          "word": "agrava",
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "importante",
+          "word": "favor",
           "score": 2
         },
         {
-          "word": "decepción",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El ala dura del PP se revuelve contra la moderación tras el resultado andaluz: “",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "pérdida",
+          "word": "criminal",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "José Ignacio García ‘El Gafa’, el heredero de Teresa Rodríguez que devolvió el b",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "brillo",
-          "score": 1
         },
         {
-          "word": "humor",
+          "word": "estable",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PSOE andaluz se busca y no se encuentra tras más de siete años en la oposició",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "perdido",
-          "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El ayusismo, fase superior del catetismo",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "superior",
+          "word": "beneficios",
           "score": 2
         }
       ]
@@ -226,7 +215,7 @@
     {
       "source": "elDiario.es",
       "title": "Zapatero, imputado por organización criminal, falsedad y tráfico de influencias ",
-      "score": 5.15,
+      "score": 5.0,
       "words": [
         {
           "word": "criminal",
@@ -252,8 +241,62 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP pide la comparecencia urgente de Sánchez por la imputación de Zapatero: \"E",
-      "score": 4.85,
+      "title": "Claves de la imputación de Zapatero: qué sabemos sobre la investigación y qué de",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno expresa su \"orgullo\" por la figura de Zapatero pero evita relacionar",
+      "score": 5.66,
+      "words": [
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "evita",
+          "score": -1
+        },
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "evita",
+          "score": -1
+        },
+        {
+          "word": "urgente",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP pide la comparecencia urgente de Sánchez por la imputación de Zapatero y V",
+      "score": 5.34,
       "words": [
         {
           "word": "urgente",
@@ -262,10 +305,6 @@
         {
           "word": "urgente",
           "score": -1
-        },
-        {
-          "word": "criminal",
-          "score": -3
         },
         {
           "word": "popular",
@@ -274,96 +313,69 @@
         {
           "word": "urgente",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El éxito de Adelante Andalucía reimpulsa el debate sobre la 'vía Rufián' y eleva",
-      "score": 5.24,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
         },
         {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "crisis",
+          "word": "delitos",
           "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El PP se resigna a otra imposición de Vox mientras Feijóo intenta ocultar su fru",
-      "score": 5.47,
+      "title": "Vilaplana evita responder en la comisión de la dana sobre su comida con Mazón: \"",
+      "score": 4.76,
       "words": [
         {
-          "word": "frustración",
-          "score": -2
-        },
-        {
-          "word": "frustración",
-          "score": -2
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        },
-        {
-          "word": "compromiso",
-          "score": 2
+          "word": "evita",
+          "score": -1
         },
         {
           "word": "evita",
           "score": -1
+        },
+        {
+          "word": "oportunidad",
+          "score": 2
+        },
+        {
+          "word": "evitado",
+          "score": -1
+        },
+        {
+          "word": "descartado",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Vértigo en Vox por volver a tropezar en el \"error\" de quedarse fuera del Gobiern",
-      "score": 5.06,
+      "title": "Moreno ofrece a Vox pactos puntuales y les avisa de las \"dificultades\" que tendr",
+      "score": 5.75,
       "words": [
         {
-          "word": "error",
-          "score": -2
-        },
-        {
-          "word": "error",
-          "score": -2
-        },
-        {
-          "word": "error",
-          "score": -2
-        },
-        {
-          "word": "pasado",
+          "word": "admite",
           "score": -1
         },
         {
-          "word": "pierde",
-          "score": -3
+          "word": "solitario",
+          "score": -2
+        },
+        {
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-04T16:00:02Z",
-      "score": 4.84
-    },
     {
       "timestamp": "2026-05-04T17:48:32Z",
       "score": 4.79
@@ -1031,6 +1043,10 @@
     {
       "timestamp": "2026-05-19T08:30:19Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-05-19T12:07:13Z",
+      "score": 4.75
     }
   ]
 }

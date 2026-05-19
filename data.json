@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-19T16:16:59Z",
-  "global_score": 4.87,
-  "articles_scored": 91,
-  "words_matched": 192,
+  "generated": "2026-05-19T18:57:44Z",
+  "global_score": 4.77,
+  "articles_scored": 94,
+  "words_matched": 217,
   "top_negative": [
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -25,25 +25,33 @@
       "score": -3
     },
     {
-      "word": "delito",
-      "score": -3
-    },
-    {
       "word": "crisis",
       "score": -3
     },
     {
-      "word": "enfado",
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "estafa",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "victorias",
-      "score": 4
+      "word": "magnífico",
+      "score": 5
+    },
+    {
+      "word": "excepcional",
+      "score": 5
     },
     {
       "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "maravilloso",
       "score": 4
     },
     {
@@ -51,38 +59,30 @@
       "score": 4
     },
     {
-      "word": "celebra",
+      "word": "felicidad",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "encanto",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
+      "word": "prestigio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.35,
-    "elDiario.es": 5.4,
-    "El Mundo": 5.26,
-    "ABC": 5.62,
-    "El Confidencial": 3.97,
-    "BBC Mundo": 4.85,
-    "France 24 ES": 5.09,
-    "La Nación AR": 4.88,
+    "El País": 4.1,
+    "elDiario.es": 5.14,
+    "El Mundo": 5.19,
+    "ABC": 5.2,
+    "El Confidencial": 3.85,
+    "BBC Mundo": 5.03,
+    "France 24 ES": 4.41,
+    "La Nación AR": 4.73,
     "La Jornada MX": 5.28,
-    "Desinformémonos": 4.04,
-    "Resumen Latinoam.": 4.24
+    "Desinformémonos": 3.86,
+    "Resumen Latinoam.": 5.05
   },
   "articles": [
     {
@@ -90,10 +90,6 @@
       "title": "Imputación de Zapatero por el ‘caso Plus Ultra’, en directo | El juez señala la ",
       "score": 6.6,
       "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
         {
           "word": "rescate",
           "score": 2
@@ -136,6 +132,17 @@
     },
     {
       "source": "El País",
+      "title": "Consulte el auto íntegro de imputación del expresidente Zapatero",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "What The Fav, la agencia de las hijas de Zapatero señalada como beneficiaria de ",
       "score": 2.6,
       "words": [
@@ -173,31 +180,16 @@
     },
     {
       "source": "El País",
-      "title": "Jonathan Andic sale del juzgado y queda en libertad tras abonar una fianza de un",
-      "score": 5.0,
+      "title": "Las pruebas que acorralan a Jonathan Andic: tres visitas previas a Montserrat, u",
+      "score": 3.4,
       "words": [
         {
-          "word": "libertad",
-          "score": 2
+          "word": "desaparecido",
+          "score": -2
         },
         {
           "word": "prisión",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Jonathan Andic, el sucesor que no supo pilotar solo la nave de Mango y fue relev",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "detenido",
-          "score": -1
         }
       ]
     },
@@ -311,35 +303,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez sitúa a Zapatero como líder de una estructura \"jerarquizada\" de tráfico ",
-      "score": 5.51,
-      "words": [
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "estable",
-          "score": 2
-        },
-        {
-          "word": "beneficios",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Claves de la imputación de Zapatero: qué sabemos sobre la investigación y qué de",
-      "score": 5.16,
+      "score": 5.22,
       "words": [
         {
           "word": "rescate",
@@ -359,6 +324,33 @@
         },
         {
           "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Quién es José Luis Calama, el juez que ha imputado a Zapatero: archivó la causa ",
+      "score": 3.74,
+      "words": [
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "estafa",
+          "score": -3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "sabotaje",
+          "score": -2
+        },
+        {
+          "word": "autor",
           "score": -2
         }
       ]
@@ -392,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-04T19:25:42Z",
-      "score": 4.68
-    },
     {
       "timestamp": "2026-05-04T21:06:16Z",
       "score": 4.67
@@ -1063,6 +1051,10 @@
     {
       "timestamp": "2026-05-19T16:16:59Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-05-19T18:57:44Z",
+      "score": 4.77
     }
   ]
 }

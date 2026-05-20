@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-20T00:02:12Z",
-  "global_score": 4.71,
-  "articles_scored": 89,
-  "words_matched": 196,
+  "generated": "2026-05-20T05:01:43Z",
+  "global_score": 4.91,
+  "articles_scored": 88,
+  "words_matched": 221,
   "top_negative": [
+    {
+      "word": "culo",
+      "score": -4
+    },
     {
       "word": "fraude",
       "score": -4
@@ -13,49 +17,41 @@
       "score": -4
     },
     {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
-    },
-    {
       "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "culpable",
+      "score": -3
+    },
+    {
+      "word": "víctimas",
+      "score": -3
+    },
+    {
+      "word": "escándalos",
+      "score": -3
+    },
+    {
+      "word": "conspiración",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "felicidad",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -67,220 +63,130 @@
       "score": 3
     },
     {
-      "word": "brillar",
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.38,
-    "elDiario.es": 5.13,
+    "El País": 4.01,
+    "elDiario.es": 5.09,
     "El Mundo": 5.43,
     "ABC": 5.16,
-    "El Confidencial": 3.85,
-    "BBC Mundo": 5.11,
-    "France 24 ES": 4.0,
-    "La Nación AR": 4.25,
+    "El Confidencial": 5.1,
+    "BBC Mundo": 4.44,
+    "France 24 ES": 4.75,
+    "La Nación AR": 5.25,
     "La Jornada MX": 5.28,
-    "Desinformémonos": 4.02,
-    "Resumen Latinoam.": 4.72
+    "Desinformémonos": 3.84,
+    "Resumen Latinoam.": 5.37
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La imputación de Zapatero revienta el plan de Sánchez para salir del agujero de ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Zapatero, imputado en la Audiencia Nacional por liderar “una estructura organiza",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "estable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez atribuye a Zapatero la orden de crear una sociedad en Dubái para cobrar ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "José Luis Calama, el juez discreto que imputa por primera vez a un expresidente ",
+      "title": "¿Cómo justifica el juez el tráfico de influencias imputado a Zapatero?",
       "score": 2.6,
       "words": [
         {
-          "word": "ilegal",
+          "word": "delito",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Consulte el auto íntegro de imputación del expresidente Zapatero",
+      "title": "¿Quién es quién en la “boutique financiera” presuntamente liderada por Zapatero?",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La desolación recorre las filas socialistas: “No nos lo queremos creer. Si Zapat",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "culpable",
+          "score": -3
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Perfil | Zapatero, de presidente sin mácula a expresidente bajo sospecha",
       "score": 3.4,
       "words": [
         {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "What The Fav, la agencia de las hijas de Zapatero señalada como beneficiaria de ",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "criminal",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PSOE se revuelve ante un golpe durísimo al núcleo del sanchismo: “El que pued",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "golpe",
-          "score": -2
-        },
-        {
-          "word": "perdonado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PP se lanza en tromba contra el Gobierno por la imputación de Zapatero: “Los ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "urgente",
+          "word": "sospecha",
           "score": -1
+        },
+        {
+          "word": "escándalos",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las pruebas que acorralan a Jonathan Andic: tres visitas previas a Montserrat, u",
-      "score": 3.4,
+      "title": "A los hechos",
+      "score": 4.47,
       "words": [
         {
-          "word": "desaparecido",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Calama califica a Zapatero de \"núcleo decisor\" de la trama y se apoya en",
-      "score": 5.98,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "estable",
-          "score": 2
-        },
-        {
-          "word": "beneficios",
-          "score": 2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero, imputado por organización criminal, falsedad y tráfico de influencias ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "criminal",
-          "score": -3
+          "word": "ignorar",
+          "score": -1
         },
         {
           "word": "justicia",
           "score": 2
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "conspiración",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El juez sostiene que Zapatero ordenó crear una sociedad en Dubái para cobrar una",
-      "score": 5.57,
+      "title": "El juez sitúa el origen de la trama corrupta que \"dirige\" Zapatero en una reunió",
+      "score": 5.8,
       "words": [
         {
-          "word": "cobrar",
-          "score": -2
+          "word": "rescate",
+          "score": 2
         },
         {
           "word": "rescate",
           "score": 2
         },
         {
-          "word": "cobrar",
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "agradable",
+          "score": 3
         },
         {
-          "word": "estable",
+          "word": "ayuda",
           "score": 2
         }
       ]
@@ -314,6 +220,87 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El juez Calama señala a dos venezolanos como \"vehículo de pago\" a Zapatero por n",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "cobrar",
+          "score": -2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El quién es quién de las empresas salpicadas por la investigación a Zapatero: de",
+      "score": 5.28,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "significativo",
+          "score": 1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El origen del caso que implica a Zapatero: una denuncia de Anticorrupción tras a",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "estable",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Claves de la imputación de Zapatero: qué sabemos sobre la investigación y qué de",
       "score": 5.22,
       "words": [
@@ -335,6 +322,60 @@
         },
         {
           "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez cierra filas con Zapatero tras el mazazo de su imputación",
+      "score": 4.99,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "estable",
+          "score": 2
+        },
+        {
+          "word": "bomba",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez pide a la cúpula del PSOE que defienda \"el buen nombre\" de Zapatero tras",
+      "score": 5.39,
+      "words": [
+        {
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "luchando",
+          "score": -2
+        },
+        {
+          "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "duro",
           "score": -2
         }
       ]
@@ -365,13 +406,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Zapatero, imputado: las claves y el shock",
+      "score": 5.36,
+      "words": [
+        {
+          "word": "crítica",
+          "score": -2
+        },
+        {
+          "word": "atrapado",
+          "score": -2
+        },
+        {
+          "word": "sospecha",
+          "score": -1
+        },
+        {
+          "word": "estable",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-05T02:31:43Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-05-05T05:40:50Z",
       "score": 4.63
@@ -1039,6 +1103,10 @@
     {
       "timestamp": "2026-05-20T00:02:12Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-05-20T05:01:43Z",
+      "score": 4.91
     }
   ]
 }

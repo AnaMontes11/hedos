@@ -1,11 +1,15 @@
 {
-  "generated": "2026-05-19T22:13:45Z",
-  "global_score": 4.74,
-  "articles_scored": 95,
-  "words_matched": 188,
+  "generated": "2026-05-20T00:02:12Z",
+  "global_score": 4.71,
+  "articles_scored": 89,
+  "words_matched": 196,
   "top_negative": [
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "violación",
       "score": -4
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "delito",
       "score": -3
-    },
-    {
-      "word": "estafa",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -47,7 +47,7 @@
       "score": 4
     },
     {
-      "word": "riqueza",
+      "word": "felicidad",
       "score": 3
     },
     {
@@ -55,34 +55,34 @@
       "score": 3
     },
     {
+      "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
+    },
+    {
       "word": "brillar",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "afecto",
-      "score": 3
-    },
-    {
-      "word": "mayor",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.38,
     "elDiario.es": 5.13,
-    "El Mundo": 5.23,
-    "ABC": 4.8,
+    "El Mundo": 5.43,
+    "ABC": 5.16,
     "El Confidencial": 3.85,
-    "BBC Mundo": 4.88,
-    "France 24 ES": 4.26,
-    "La Nación AR": 4.42,
+    "BBC Mundo": 5.11,
+    "France 24 ES": 4.0,
+    "La Nación AR": 4.25,
     "La Jornada MX": 5.28,
-    "Desinformémonos": 4.09,
-    "Resumen Latinoam.": 5.36
+    "Desinformémonos": 4.02,
+    "Resumen Latinoam.": 4.72
   },
   "articles": [
     {
@@ -368,10 +368,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-04T23:53:07Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-05-05T02:31:43Z",
       "score": 4.73
@@ -1039,6 +1035,10 @@
     {
       "timestamp": "2026-05-19T22:13:45Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-05-20T00:02:12Z",
+      "score": 4.71
     }
   ]
 }

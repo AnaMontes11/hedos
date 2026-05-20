@@ -1,15 +1,11 @@
 {
-  "generated": "2026-05-20T09:26:24Z",
-  "global_score": 4.95,
-  "articles_scored": 88,
-  "words_matched": 194,
+  "generated": "2026-05-20T12:21:27Z",
+  "global_score": 4.72,
+  "articles_scored": 92,
+  "words_matched": 221,
   "top_negative": [
     {
       "word": "mierda",
-      "score": -4
-    },
-    {
-      "word": "culo",
       "score": -4
     },
     {
@@ -17,12 +13,12 @@
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "culo",
       "score": -4
     },
     {
-      "word": "delito",
-      "score": -3
+      "word": "violación",
+      "score": -4
     },
     {
       "word": "criminal",
@@ -33,7 +29,11 @@
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     }
   ],
@@ -43,15 +43,11 @@
       "score": 4
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "suerte",
       "score": 3
     },
     {
@@ -59,7 +55,11 @@
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "excelencia",
       "score": 3
     },
     {
@@ -67,36 +67,36 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "afecto",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.84,
-    "elDiario.es": 5.06,
-    "El Mundo": 5.7,
-    "ABC": 5.34,
-    "El Confidencial": 4.79,
-    "BBC Mundo": 4.44,
-    "France 24 ES": 4.75,
-    "La Nación AR": 4.8,
-    "La Jornada MX": 5.28,
+    "El País": 5.64,
+    "elDiario.es": 4.99,
+    "El Mundo": 4.87,
+    "ABC": 4.99,
+    "El Confidencial": 4.85,
+    "BBC Mundo": 4.39,
+    "France 24 ES": 4.86,
+    "La Nación AR": 3.7,
+    "La Jornada MX": 4.67,
     "Desinformémonos": 3.84,
-    "Resumen Latinoam.": 5.57
+    "Resumen Latinoam.": 5.08
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Sánchez muestra su apoyo expreso a Zapatero y pide “respeto a la presunción de i",
-      "score": 4.2,
+      "title": "Sánchez da “todo el apoyo” a Zapatero pero evita más explicaciones",
+      "score": 5.4,
       "words": [
         {
           "word": "apoyo",
           "score": 2
         },
         {
-          "word": "mierda",
-          "score": -4
+          "word": "evita",
+          "score": -1
         }
       ]
     },
@@ -117,12 +117,16 @@
     },
     {
       "source": "El País",
-      "title": "¿Cómo justifica el juez el tráfico de influencias imputado a Zapatero?",
-      "score": 2.6,
+      "title": "El Gobierno señala que el auto tiene indicios y no pruebas contra Zapatero pero ",
+      "score": 5.4,
       "words": [
         {
-          "word": "delito",
-          "score": -3
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "serio",
+          "score": 2
         }
       ]
     },
@@ -155,7 +159,7 @@
     {
       "source": "elDiario.es",
       "title": "Sánchez: \"Todo mi apoyo al presidente Zapatero\"",
-      "score": 5.14,
+      "score": 5.08,
       "words": [
         {
           "word": "apoyo",
@@ -181,8 +185,35 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Feijóo asegura que los delitos que se imputan a Zapatero \"no se podrían cometer ",
+      "score": 5.07,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "cometer",
+          "score": 1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El juez sitúa el origen de la trama corrupta que \"dirige\" Zapatero en una reunió",
-      "score": 5.8,
+      "score": 5.7,
       "words": [
         {
           "word": "rescate",
@@ -193,16 +224,70 @@
           "score": 2
         },
         {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
           "word": "cargos",
           "score": -2
         },
         {
           "word": "agradable",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El auditor de Plus Ultra dice que la comisión del 1% del rescate para el amigo d",
+      "score": 5.84,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "ayuda",
+          "word": "rescate",
           "score": 2
+        },
+        {
+          "word": "jesús",
+          "score": 1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescatada",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero imputado: tres ideas",
+      "score": 4.44,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "difícil",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "duda",
+          "score": -1
         }
       ]
     },
@@ -230,33 +315,6 @@
         {
           "word": "rescate",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Calama señala a dos venezolanos como \"vehículo de pago\" a Zapatero por n",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "pasado",
-          "score": -1
         }
       ]
     },
@@ -316,60 +374,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero niega tener sociedades fuera de España y haber hecho \"ninguna gestión\" ",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "estable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los socios del Gobierno dejan de hablar de 'lawfare' y optan por la prudencia tr",
-      "score": 4.5,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "🎙 PODCAST | Zapatero, imputado: las claves y el shock",
       "score": 5.36,
       "words": [
@@ -397,37 +401,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Hacienda abre un roto millonario al líder de los bingos que pilota la hija de un",
-      "score": 5.65,
+      "title": "El juez Calama señala a dos venezolanos como \"vehículo de pago\" a Zapatero por n",
+      "score": 4.4,
       "words": [
         {
-          "word": "roto",
-          "score": -1
+          "word": "tiempo",
+          "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "culo",
+          "score": -4
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "cobrar",
+          "score": -2
         },
         {
-          "word": "roto",
-          "score": -1
+          "word": "fraude",
+          "score": -4
         },
         {
-          "word": "fingir",
+          "word": "pasado",
           "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-05T08:05:28Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-05-05T10:43:55Z",
       "score": 4.71
@@ -1095,6 +1095,10 @@
     {
       "timestamp": "2026-05-20T09:26:24Z",
       "score": 4.95
+    },
+    {
+      "timestamp": "2026-05-20T12:21:27Z",
+      "score": 4.72
     }
   ]
 }

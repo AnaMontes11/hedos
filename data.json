@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-20T05:01:43Z",
-  "global_score": 4.91,
+  "generated": "2026-05-20T09:26:24Z",
+  "global_score": 4.95,
   "articles_scored": 88,
-  "words_matched": 221,
+  "words_matched": 194,
   "top_negative": [
+    {
+      "word": "mierda",
+      "score": -4
+    },
     {
       "word": "culo",
       "score": -4
@@ -21,19 +25,15 @@
       "score": -3
     },
     {
-      "word": "culpable",
+      "word": "criminal",
       "score": -3
     },
     {
-      "word": "víctimas",
+      "word": "ilegal",
       "score": -3
     },
     {
-      "word": "escándalos",
-      "score": -3
-    },
-    {
-      "word": "conspiración",
+      "word": "vil",
       "score": -3
     }
   ],
@@ -43,11 +43,7 @@
       "score": 4
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "celebra",
+      "word": "mejor",
       "score": 3
     },
     {
@@ -55,15 +51,19 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     },
     {
@@ -72,19 +72,49 @@
     }
   ],
   "per_source": {
-    "El País": 4.01,
-    "elDiario.es": 5.09,
-    "El Mundo": 5.43,
-    "ABC": 5.16,
-    "El Confidencial": 5.1,
+    "El País": 4.84,
+    "elDiario.es": 5.06,
+    "El Mundo": 5.7,
+    "ABC": 5.34,
+    "El Confidencial": 4.79,
     "BBC Mundo": 4.44,
     "France 24 ES": 4.75,
-    "La Nación AR": 5.25,
+    "La Nación AR": 4.8,
     "La Jornada MX": 5.28,
     "Desinformémonos": 3.84,
-    "Resumen Latinoam.": 5.37
+    "Resumen Latinoam.": 5.57
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Sánchez muestra su apoyo expreso a Zapatero y pide “respeto a la presunción de i",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "mierda",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Rufián, a Sánchez sobre Zapatero: “Estoy jodido. Si esto es verdad, es una mierd",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "mierda",
+          "score": -4
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "¿Cómo justifica el juez el tráfico de influencias imputado a Zapatero?",
@@ -109,58 +139,43 @@
     },
     {
       "source": "El País",
-      "title": "La desolación recorre las filas socialistas: “No nos lo queremos creer. Si Zapat",
-      "score": 3.0,
+      "title": "La credibilidad de la Justicia",
+      "score": 6.6,
       "words": [
-        {
-          "word": "culpable",
-          "score": -3
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Perfil | Zapatero, de presidente sin mácula a expresidente bajo sospecha",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "escándalos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "A los hechos",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "ignorar",
-          "score": -1
-        },
         {
           "word": "justicia",
           "score": 2
         },
         {
-          "word": "conspiración",
-          "score": -3
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez: \"Todo mi apoyo al presidente Zapatero\"",
+      "score": 5.14,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "acusa",
+          "score": -2
         }
       ]
     },
@@ -187,87 +202,6 @@
         },
         {
           "word": "ayuda",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero niega tener sociedades fuera de España y haber hecho \"ninguna gestión\" ",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "estable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Calama señala a dos venezolanos como \"vehículo de pago\" a Zapatero por n",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El quién es quién de las empresas salpicadas por la investigación a Zapatero: de",
-      "score": 5.28,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "significativo",
-          "score": 1
-        },
-        {
-          "word": "rescate",
           "score": 2
         }
       ]
@@ -301,82 +235,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Claves de la imputación de Zapatero: qué sabemos sobre la investigación y qué de",
-      "score": 5.22,
+      "title": "El juez Calama señala a dos venezolanos como \"vehículo de pago\" a Zapatero por n",
+      "score": 4.4,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "puesto",
+          "word": "tiempo",
           "score": -2
         },
         {
-          "word": "capacidad",
-          "score": 2
+          "word": "culo",
+          "score": -4
         },
         {
-          "word": "cargos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez cierra filas con Zapatero tras el mazazo de su imputación",
-      "score": 4.99,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "acusaciones",
+          "word": "cobrar",
           "score": -2
         },
         {
-          "word": "estable",
-          "score": 2
+          "word": "fraude",
+          "score": -4
         },
         {
-          "word": "bomba",
+          "word": "pasado",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez pide a la cúpula del PSOE que defienda \"el buen nombre\" de Zapatero tras",
-      "score": 5.39,
-      "words": [
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "luchando",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "duro",
-          "score": -2
         }
       ]
     },
@@ -409,6 +289,87 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El quién es quién de las empresas salpicadas por la investigación a Zapatero: de",
+      "score": 5.28,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "significativo",
+          "score": 1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero niega tener sociedades fuera de España y haber hecho \"ninguna gestión\" ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "estable",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los socios del Gobierno dejan de hablar de 'lawfare' y optan por la prudencia tr",
+      "score": 4.5,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "🎙 PODCAST | Zapatero, imputado: las claves y el shock",
       "score": 5.36,
       "words": [
@@ -433,13 +394,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Hacienda abre un roto millonario al líder de los bingos que pilota la hija de un",
+      "score": 5.65,
+      "words": [
+        {
+          "word": "roto",
+          "score": -1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "roto",
+          "score": -1
+        },
+        {
+          "word": "fingir",
+          "score": -1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-05T05:40:50Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-05-05T08:05:28Z",
       "score": 4.63
@@ -1107,6 +1091,10 @@
     {
       "timestamp": "2026-05-20T05:01:43Z",
       "score": 4.91
+    },
+    {
+      "timestamp": "2026-05-20T09:26:24Z",
+      "score": 4.95
     }
   ]
 }

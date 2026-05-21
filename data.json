@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-21T11:19:53Z",
-  "global_score": 4.69,
-  "articles_scored": 92,
+  "generated": "2026-05-21T15:17:56Z",
+  "global_score": 4.71,
+  "articles_scored": 91,
   "words_matched": 267,
   "top_negative": [
     {
@@ -25,45 +25,45 @@
       "score": -4
     },
     {
-      "word": "murió",
-      "score": -3
-    },
-    {
       "word": "escándalo",
       "score": -3
     },
     {
-      "word": "feo",
+      "word": "murió",
+      "score": -3
+    },
+    {
+      "word": "matar",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "bueno",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "medalla",
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "lealtad",
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "afecto",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "perfectamente",
+      "score": 3
+    },
+    {
+      "word": "mayor",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.11,
-    "elDiario.es": 4.89,
-    "El Mundo": 4.85,
-    "ABC": 5.27,
-    "El Confidencial": 4.82,
-    "BBC Mundo": 4.36,
-    "France 24 ES": 4.6,
-    "La Nación AR": 5.37,
-    "La Jornada MX": 4.67,
-    "Desinformémonos": 4.14,
-    "Resumen Latinoam.": 4.25
+    "El País": 4.64,
+    "elDiario.es": 4.97,
+    "El Mundo": 4.86,
+    "ABC": 5.02,
+    "El Confidencial": 4.73,
+    "BBC Mundo": 4.5,
+    "France 24 ES": 4.75,
+    "La Nación AR": 4.32,
+    "La Jornada MX": 5.28,
+    "Desinformémonos": 4.21,
+    "Resumen Latinoam.": 4.26
   },
   "articles": [
     {
@@ -98,27 +98,34 @@
     },
     {
       "source": "El País",
-      "title": "El sendero en el que murió Isak Andic: un camino “sin riesgo” con un solo punto ",
-      "score": 4.04,
+      "title": "El Supremo obliga a Antena 3 a dejar de emitir ‘El Rosco’ de ‘Pasapalabra’",
+      "score": 5.4,
       "words": [
         {
-          "word": "murió",
-          "score": -3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "vacío",
+          "word": "dejar",
           "score": -1
         },
         {
-          "word": "tipo",
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Vivienda aprueba con el apoyo de las comunidades el reparto de los 7.000 millone",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "aprobado",
           "score": 2
         }
       ]
@@ -151,43 +158,82 @@
     },
     {
       "source": "El País",
-      "title": "Teresa Rodríguez: “Hablar de mi cáncer en la campaña era demasiado fácil y demas",
-      "score": 4.2,
+      "title": "El sendero en el que murió Isak Andic: un camino “sin riesgo” con un solo punto ",
+      "score": 4.04,
       "words": [
         {
-          "word": "cáncer",
+          "word": "murió",
+          "score": -3
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "vacío",
           "score": -1
         },
         {
-          "word": "fácil",
-          "score": 1
-        },
-        {
-          "word": "feo",
-          "score": -3
+          "word": "tipo",
+          "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Bruselas prevé para España una leve mejora en el crecimiento de 2026 hasta el 2,",
-      "score": 4.6,
+      "source": "elDiario.es",
+      "title": "Los partidos de Sumar abren la puerta a negociar con Rufián y Podemos llama a re",
+      "score": 5.61,
       "words": [
         {
-          "word": "mejora",
+          "word": "negociar",
           "score": 2
         },
         {
-          "word": "crecimiento",
+          "word": "negociar",
           "score": 2
         },
         {
-          "word": "crisis",
-          "score": -3
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "empeora",
-          "score": -3
+          "word": "saludado",
+          "score": 1
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Rufián se abre a ser candidato de la izquierda para las generales: \"Si puedo ayu",
+      "score": 5.51,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "asegurar",
+          "score": 1
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "tipo",
+          "score": 2
         }
       ]
     },
@@ -215,6 +261,33 @@
         {
           "word": "acusaciones",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Plus Ultra sí estaba al corriente de pago con la Seguridad Social cuando fue res",
+      "score": 5.07,
+      "words": [
+        {
+          "word": "rescatada",
+          "score": 2
+        },
+        {
+          "word": "rescatada",
+          "score": 2
+        },
+        {
+          "word": "deuda",
+          "score": -2
+        },
+        {
+          "word": "deuda",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
         }
       ]
     },
@@ -248,7 +321,7 @@
     {
       "source": "elDiario.es",
       "title": "El PP citará a Escrivá y la secretaria de Zapatero a la investigación del Senado",
-      "score": 4.82,
+      "score": 5.06,
       "words": [
         {
           "word": "rescate",
@@ -329,7 +402,7 @@
     {
       "source": "elDiario.es",
       "title": "Zapatero, el último ‘shock’ de Pedro Sánchez: “Defenderemos su inocencia hasta q",
-      "score": 4.69,
+      "score": 4.67,
       "words": [
         {
           "word": "acusaciones",
@@ -348,98 +421,13 @@
           "score": -3
         },
         {
-          "word": "aumenta",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Zapatero y la línea entre el lobby y el tráfico de influencias",
-      "score": 4.91,
-      "words": [
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "importante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Vapeo, magnates o energéticas: las labores de asesoría para grandes empresas de ",
-      "score": 5.47,
-      "words": [
-        {
-          "word": "cargado",
-          "score": -3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Plus Ultra sí estaba al corriente de pago con la Seguridad Social cuando fue res",
-      "score": 5.07,
-      "words": [
-        {
-          "word": "rescatada",
-          "score": 2
-        },
-        {
-          "word": "rescatada",
-          "score": 2
-        },
-        {
-          "word": "deuda",
-          "score": -2
-        },
-        {
-          "word": "deuda",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
+          "word": "olvidar",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-06T02:36:05Z",
-      "score": 4.85
-    },
     {
       "timestamp": "2026-05-06T05:55:04Z",
       "score": 4.85
@@ -1107,6 +1095,10 @@
     {
       "timestamp": "2026-05-21T11:19:53Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-05-21T15:17:56Z",
+      "score": 4.71
     }
   ]
 }

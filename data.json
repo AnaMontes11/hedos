@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-21T17:54:17Z",
-  "global_score": 4.79,
-  "articles_scored": 95,
-  "words_matched": 256,
+  "generated": "2026-05-21T19:50:09Z",
+  "global_score": 4.8,
+  "articles_scored": 92,
+  "words_matched": 271,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -4
     },
     {
-      "word": "fraudes",
-      "score": -4
-    },
-    {
       "word": "maricón",
       "score": -3
     },
@@ -35,19 +31,31 @@
     {
       "word": "criminal",
       "score": -3
+    },
+    {
+      "word": "odiado",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "bendición",
-      "score": 4
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "excelencia",
+      "score": 3
+    },
+    {
+      "word": "cortés",
+      "score": 3
     },
     {
       "word": "mejor",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "premios",
       "score": 3
     },
     {
@@ -61,28 +69,20 @@
     {
       "word": "popular",
       "score": 3
-    },
-    {
-      "word": "afecto",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.08,
     "elDiario.es": 4.76,
-    "El Mundo": 5.0,
-    "ABC": 5.16,
-    "El Confidencial": 5.03,
-    "BBC Mundo": 4.14,
-    "France 24 ES": 4.6,
-    "La Nación AR": 4.62,
+    "El Mundo": 4.94,
+    "ABC": 5.7,
+    "El Confidencial": 5.1,
+    "BBC Mundo": 4.56,
+    "France 24 ES": 4.37,
+    "La Nación AR": 5.48,
     "La Jornada MX": 5.28,
     "Desinformémonos": 3.89,
-    "Resumen Latinoam.": 5.08
+    "Resumen Latinoam.": 4.04
   },
   "articles": [
     {
@@ -424,10 +424,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-06T11:04:15Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-05-06T14:02:58Z",
       "score": 4.75
@@ -1095,6 +1091,10 @@
     {
       "timestamp": "2026-05-21T17:54:17Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-05-21T19:50:09Z",
+      "score": 4.8
     }
   ]
 }

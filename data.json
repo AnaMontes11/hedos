@@ -1,7 +1,7 @@
 {
-  "generated": "2026-05-21T19:50:09Z",
-  "global_score": 4.8,
-  "articles_scored": 92,
+  "generated": "2026-05-21T21:25:19Z",
+  "global_score": 4.96,
+  "articles_scored": 93,
   "words_matched": 271,
   "top_negative": [
     {
@@ -39,11 +39,11 @@
   ],
   "top_positive": [
     {
-      "word": "celebrado",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "excelencia",
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -75,14 +75,14 @@
     "El País": 5.08,
     "elDiario.es": 4.76,
     "El Mundo": 4.94,
-    "ABC": 5.7,
-    "El Confidencial": 5.1,
+    "ABC": 5.8,
+    "El Confidencial": 5.29,
     "BBC Mundo": 4.56,
-    "France 24 ES": 4.37,
-    "La Nación AR": 5.48,
+    "France 24 ES": 4.36,
+    "La Nación AR": 4.47,
     "La Jornada MX": 5.28,
-    "Desinformémonos": 3.89,
-    "Resumen Latinoam.": 4.04
+    "Desinformémonos": 4.44,
+    "Resumen Latinoam.": 5.37
   },
   "articles": [
     {
@@ -424,10 +424,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-06T14:02:58Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-06T16:25:15Z",
       "score": 4.72
@@ -1095,6 +1091,10 @@
     {
       "timestamp": "2026-05-21T19:50:09Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-05-21T21:25:19Z",
+      "score": 4.96
     }
   ]
 }

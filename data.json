@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-21T21:25:19Z",
-  "global_score": 4.96,
+  "generated": "2026-05-21T23:01:13Z",
+  "global_score": 4.9,
   "articles_scored": 93,
-  "words_matched": 271,
+  "words_matched": 275,
   "top_negative": [
     {
       "word": "negro",
@@ -21,23 +21,27 @@
       "score": -4
     },
     {
+      "word": "torturas",
+      "score": -4
+    },
+    {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "maricón",
       "score": -3
     },
     {
       "word": "delitos",
       "score": -3
-    },
-    {
-      "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "odiado",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "amor",
       "score": 3
@@ -65,24 +69,20 @@
     {
       "word": "medalla",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.08,
+    "El País": 5.29,
     "elDiario.es": 4.76,
-    "El Mundo": 4.94,
-    "ABC": 5.8,
+    "El Mundo": 4.93,
+    "ABC": 5.49,
     "El Confidencial": 5.29,
-    "BBC Mundo": 4.56,
-    "France 24 ES": 4.36,
-    "La Nación AR": 4.47,
+    "BBC Mundo": 4.09,
+    "France 24 ES": 4.52,
+    "La Nación AR": 4.77,
     "La Jornada MX": 5.28,
-    "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 5.37
+    "Desinformémonos": 4.47,
+    "Resumen Latinoam.": 4.85
   },
   "articles": [
     {
@@ -156,6 +156,17 @@
       "words": [
         {
           "word": "cumple",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump da marcha atrás y anuncia el envío de 5.000 soldados adicionales de Estado",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegurado",
           "score": 2
         }
       ]
@@ -394,40 +405,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Vapeo, magnates o energéticas: las labores de asesoría para grandes empresas de ",
-      "score": 5.47,
-      "words": [
-        {
-          "word": "cargado",
-          "score": -3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-06T16:25:15Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-05-06T18:13:49Z",
       "score": 4.77
@@ -1095,6 +1075,10 @@
     {
       "timestamp": "2026-05-21T21:25:19Z",
       "score": 4.96
+    },
+    {
+      "timestamp": "2026-05-21T23:01:13Z",
+      "score": 4.9
     }
   ]
 }

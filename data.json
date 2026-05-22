@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-21T23:01:13Z",
-  "global_score": 4.9,
-  "articles_scored": 93,
-  "words_matched": 275,
+  "generated": "2026-05-22T03:24:36Z",
+  "global_score": 4.77,
+  "articles_scored": 82,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "negro",
@@ -25,15 +25,15 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
       "word": "maricón",
       "score": -3
     },
     {
       "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "criminal",
       "score": -3
     }
   ],
@@ -43,7 +43,11 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "mejor",
       "score": 3
     },
     {
@@ -51,15 +55,11 @@
       "score": 3
     },
     {
-      "word": "cortés",
+      "word": "feliz",
       "score": 3
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "premios",
+      "word": "suerte",
       "score": 3
     },
     {
@@ -74,15 +74,14 @@
   "per_source": {
     "El País": 5.29,
     "elDiario.es": 4.76,
-    "El Mundo": 4.93,
-    "ABC": 5.49,
-    "El Confidencial": 5.29,
-    "BBC Mundo": 4.09,
-    "France 24 ES": 4.52,
-    "La Nación AR": 4.77,
+    "El Mundo": 5.27,
+    "El Confidencial": 5.21,
+    "BBC Mundo": 3.92,
+    "France 24 ES": 4.57,
+    "La Nación AR": 4.29,
     "La Jornada MX": 5.28,
-    "Desinformémonos": 4.47,
-    "Resumen Latinoam.": 4.85
+    "Desinformémonos": 3.97,
+    "Resumen Latinoam.": 4.98
   },
   "articles": [
     {
@@ -408,10 +407,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-06T18:13:49Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-05-06T20:19:50Z",
       "score": 4.62
@@ -1079,6 +1074,10 @@
     {
       "timestamp": "2026-05-21T23:01:13Z",
       "score": 4.9
+    },
+    {
+      "timestamp": "2026-05-22T03:24:36Z",
+      "score": 4.77
     }
   ]
 }

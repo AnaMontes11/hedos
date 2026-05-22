@@ -1,19 +1,11 @@
 {
-  "generated": "2026-05-22T03:24:36Z",
-  "global_score": 4.77,
-  "articles_scored": 82,
-  "words_matched": 252,
+  "generated": "2026-05-22T07:41:31Z",
+  "global_score": 4.95,
+  "articles_scored": 98,
+  "words_matched": 250,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "mierda",
-      "score": -4
-    },
-    {
-      "word": "fraude",
+      "word": "molesto",
       "score": -4
     },
     {
@@ -25,7 +17,15 @@
       "score": -4
     },
     {
-      "word": "maricón",
+      "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "feo",
       "score": -3
     },
     {
@@ -43,42 +43,43 @@
       "score": 4
     },
     {
+      "word": "brillante",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "mejor",
+      "word": "felicidad",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "lealtad",
-      "score": 3
-    },
-    {
-      "word": "medalla",
+      "word": "excelencia",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.29,
-    "elDiario.es": 4.76,
-    "El Mundo": 5.27,
-    "El Confidencial": 5.21,
-    "BBC Mundo": 3.92,
-    "France 24 ES": 4.57,
-    "La Nación AR": 4.29,
+    "El País": 4.33,
+    "elDiario.es": 5.07,
+    "El Mundo": 5.16,
+    "ABC": 6.02,
+    "El Confidencial": 5.16,
+    "BBC Mundo": 4.18,
+    "France 24 ES": 4.65,
+    "La Nación AR": 5.42,
     "La Jornada MX": 5.28,
     "Desinformémonos": 3.97,
     "Resumen Latinoam.": 4.98
@@ -86,76 +87,57 @@
   "articles": [
     {
       "source": "El País",
-      "title": "La Audiencia Nacional ordena el bloqueo de 490.780 euros de las cuentas bancaria",
-      "score": 4.2,
+      "title": "El PSOE se enfrenta a la tormenta perfecta en otro fin de curso marcado por los ",
+      "score": 3.4,
       "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Supremo obliga a Antena 3 a dejar de emitir ‘El Rosco’ de ‘Pasapalabra’",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "dejar",
-          "score": -1
-        },
         {
           "word": "sentencia",
           "score": -2
-        },
-        {
-          "word": "tipo",
-          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Mediaset compró hace un año los derechos de ‘El Rosco’, que se aleja de ‘Pasapal",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los Javis en Cannes: “Federico García Lorca no es una idea, sino una persona a l",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "maricón",
-          "score": -3
-        },
-        {
-          "word": "espíritu",
-          "score": 1
-        },
-        {
-          "word": "autor",
-          "score": -2
-        },
-        {
-          "word": "deseos",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Enrique Riquelme notifica al Real Madrid su intención de competir con Florentino",
+      "title": "El chat “AR” coloca a Javier de Paz en el origen de la consultora vinculada a Za",
       "score": 6.6,
       "words": [
         {
-          "word": "cumple",
+          "word": "paz",
           "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Plus Ultra negocia un plan de viabilidad tras el impago de 19 millones del resca",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "sufre",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Europa teme que el repliegue de EE UU ordenado por Trump abra una reconfiguració",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "carga",
+          "score": -2
         }
       ]
     },
@@ -172,20 +154,96 @@
     },
     {
       "source": "El País",
-      "title": "Al menos 120 directores de centros valencianos dimiten en apoyo a los profesores",
-      "score": 4.73,
+      "title": "Stephen Colbert imagina una fábula apocalíptica en su último programa, cancelado",
+      "score": 3.67,
       "words": [
         {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "huelga",
+          "word": "cancelado",
           "score": -1
         },
         {
-          "word": "ruptura",
+          "word": "criticar",
           "score": -2
+        },
+        {
+          "word": "late",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Izan Llunas, el cantante que emocionó a Pedro Almodóvar: “No tuve una infancia n",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La receta de pastel de chocolate que se hace sin huevos, ni mantequilla ni leche",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "escasez",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno defiende la legalidad del rescate de Plus Ultra ante el estallido de",
+      "score": 5.33,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "negar",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "proteger",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Siete claves del rescate a Plus Ultra que investiga el juez del caso Zapatero",
+      "score": 5.46,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "concedido",
+          "score": 1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "rescate",
+          "score": 2
         }
       ]
     },
@@ -218,199 +276,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los indicios contra Zapatero (y los agujeros de la acusación)",
+      "title": "El auto de imputación a Zapatero: un texto policial",
       "score": 4.78,
       "words": [
         {
-          "word": "acusación",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "rico",
+          "word": "valor",
           "score": 2
         },
         {
-          "word": "esperar",
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "extrañamente",
           "score": -1
         },
         {
-          "word": "sospecha",
-          "score": -1
+          "word": "justicia",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El PP citará a Escrivá y la secretaria de Zapatero a la investigación del Senado",
-      "score": 5.06,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero, el último ‘shock’ de Pedro Sánchez: “Defenderemos su inocencia hasta q",
-      "score": 4.67,
+      "title": "El flujo del dinero que investiga la Audiencia Nacional en el caso Zapatero",
+      "score": 5.43,
       "words": [
         {
           "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "bomba",
-          "score": -1
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "olvidar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Radiografía del auto contra Zapatero: múltiples indicios y acusaciones por atar",
-      "score": 4.88,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Plus Ultra sí estaba al corriente de pago con la Seguridad Social cuando fue res",
-      "score": 5.07,
-      "words": [
-        {
-          "word": "rescatada",
-          "score": 2
-        },
-        {
-          "word": "rescatada",
-          "score": 2
-        },
-        {
-          "word": "deuda",
-          "score": -2
-        },
-        {
-          "word": "deuda",
           "score": -2
         },
         {
           "word": "rescate",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Zapatero y la línea entre el lobby y el tráfico de influencias",
-      "score": 4.91,
-      "words": [
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
         },
         {
           "word": "importante",
           "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "valor",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La izquierda entra en la fase de \"esto es una mierda\" con el caso Zapatero",
-      "score": 4.03,
+      "title": "Las claves del órdago de Rufián a ERC: el control de la lista y de la línea polí",
+      "score": 5.28,
       "words": [
         {
-          "word": "mierda",
-          "score": -4
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "mierda",
-          "score": -4
+          "word": "capacidad",
+          "score": 2
         },
         {
-          "word": "melancolía",
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "cargado",
-          "score": -3
+          "word": "celebrado",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Óscar Puente ve \"imprescindible\" que las fuerzas de izquierda colaboren \"de mane",
+      "score": 5.71,
+      "words": [
+        {
+          "word": "inteligente",
+          "score": 1
         },
         {
-          "word": "apoyo",
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "inteligente",
+          "score": 1
+        },
+        {
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "negociar",
           "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-06T20:19:50Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-05-06T21:54:18Z",
       "score": 4.73
@@ -1078,6 +1051,10 @@
     {
       "timestamp": "2026-05-22T03:24:36Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-05-22T07:41:31Z",
+      "score": 4.95
     }
   ]
 }

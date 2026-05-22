@@ -1,27 +1,23 @@
 {
-  "generated": "2026-05-22T10:47:18Z",
+  "generated": "2026-05-22T13:29:18Z",
   "global_score": 4.78,
-  "articles_scored": 95,
-  "words_matched": 241,
+  "articles_scored": 92,
+  "words_matched": 242,
   "top_negative": [
     {
       "word": "molesto",
       "score": -4
     },
     {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "torturas",
-      "score": -4
-    },
-    {
-      "word": "delito",
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "feo",
+      "word": "vil",
+      "score": -3
+    },
+    {
+      "word": "criminal",
       "score": -3
     },
     {
@@ -29,11 +25,15 @@
       "score": -3
     },
     {
-      "word": "odiado",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "malo",
       "score": -3
     }
   ],
@@ -43,7 +43,7 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "cortés",
       "score": 3
     },
     {
@@ -51,40 +51,67 @@
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "suerte",
       "score": 3
     },
     {
       "word": "bueno",
       "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.15,
-    "elDiario.es": 5.04,
-    "El Mundo": 5.56,
-    "ABC": 5.48,
-    "El Confidencial": 4.9,
-    "BBC Mundo": 4.54,
-    "France 24 ES": 4.65,
-    "La Nación AR": 4.53,
-    "La Jornada MX": 5.28,
+    "El País": 4.17,
+    "elDiario.es": 5.03,
+    "El Mundo": 5.99,
+    "ABC": 4.83,
+    "El Confidencial": 4.5,
+    "BBC Mundo": 5.18,
+    "France 24 ES": 4.81,
+    "La Nación AR": 4.84,
+    "La Jornada MX": 4.21,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.3
+    "Resumen Latinoam.": 4.82
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Imputación de Zapatero por el ‘caso Plus Ultra’, en directo | Ábalos se desvincu",
+      "score": 5.32,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "valiente",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El PSOE se enfrenta a la tormenta perfecta en otro fin de curso marcado por los ",
@@ -93,40 +120,6 @@
         {
           "word": "sentencia",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Imputación de Zapatero por el ‘caso Plus Ultra’, en directo | Díaz exige a Zapat",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "valiente",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El chat “AR” coloca a Javier de Paz en el origen de la consultora vinculada a Za",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
         }
       ]
     },
@@ -158,6 +151,21 @@
     },
     {
       "source": "El País",
+      "title": "Santander y BBVA deniegan el aval a Riquelme para presentarse a las elecciones d",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "garantía",
+          "score": 1
+        },
+        {
+          "word": "logra",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Stephen Colbert imagina una fábula apocalíptica en su último programa, cancelado",
       "score": 3.67,
       "words": [
@@ -177,17 +185,6 @@
     },
     {
       "source": "El País",
-      "title": "Izan Llunas, el cantante que emocionó a Pedro Almodóvar: “No tuve una infancia n",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "La receta de pastel de chocolate que se hace sin huevos, ni mantequilla ni leche",
       "score": 3.4,
       "words": [
@@ -199,8 +196,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno defiende la legalidad del rescate de Plus Ultra ante el estallido de",
-      "score": 5.33,
+      "title": "El juez mantiene secreta la parte de la investigación del caso Plus Ultra sobre ",
+      "score": 4.82,
       "words": [
         {
           "word": "rescate",
@@ -211,16 +208,16 @@
           "score": 2
         },
         {
-          "word": "negar",
-          "score": -2
+          "word": "bloqueo",
+          "score": -1
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "bloqueo",
+          "score": -1
         },
         {
-          "word": "proteger",
-          "score": 1
+          "word": "delitos",
+          "score": -3
         }
       ]
     },
@@ -247,60 +244,6 @@
         },
         {
           "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los indicios contra Zapatero (y los agujeros de la acusación)",
-      "score": 4.78,
-      "words": [
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "esperar",
-          "score": -1
-        },
-        {
-          "word": "sospecha",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El auto de imputación a Zapatero: un texto policial",
-      "score": 4.78,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "extrañamente",
-          "score": -1
-        },
-        {
-          "word": "justicia",
           "score": 2
         }
       ]
@@ -361,6 +304,87 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El auto de imputación a Zapatero: un texto policial",
+      "score": 4.78,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "extrañamente",
+          "score": -1
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno defiende la legalidad del rescate de Plus Ultra ante el estallido de",
+      "score": 5.33,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "negar",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "proteger",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los indicios contra Zapatero (y los agujeros de la acusación)",
+      "score": 4.78,
+      "words": [
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "esperar",
+          "score": -1
+        },
+        {
+          "word": "sospecha",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Las claves del órdago de Rufián a ERC: el control de la lista y de la línea polí",
       "score": 5.17,
       "words": [
@@ -388,10 +412,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-06T22:50:58Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-05-06T23:48:01Z",
       "score": 4.82
@@ -1058,6 +1078,10 @@
     },
     {
       "timestamp": "2026-05-22T10:47:18Z",
+      "score": 4.78
+    },
+    {
+      "timestamp": "2026-05-22T13:29:18Z",
       "score": 4.78
     }
   ]

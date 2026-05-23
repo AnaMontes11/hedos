@@ -1,19 +1,11 @@
 {
-  "generated": "2026-05-23T11:07:59Z",
-  "global_score": 4.83,
-  "articles_scored": 86,
-  "words_matched": 313,
+  "generated": "2026-05-23T13:19:15Z",
+  "global_score": 4.77,
+  "articles_scored": 89,
+  "words_matched": 309,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraude",
+      "word": "puta",
       "score": -4
     },
     {
@@ -23,6 +15,10 @@
     {
       "word": "tortura",
       "score": -4
+    },
+    {
+      "word": "criminales",
+      "score": -3
     },
     {
       "word": "peor",
@@ -35,56 +31,71 @@
     {
       "word": "crisis",
       "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
+      "word": "asombroso",
       "score": 5
-    },
-    {
-      "word": "divertido",
-      "score": 4
     },
     {
       "word": "ganar",
       "score": 4
     },
     {
+      "word": "premio",
+      "score": 3
+    },
+    {
       "word": "leal",
       "score": 3
     },
     {
-      "word": "encanto",
+      "word": "perfecto",
       "score": 3
     },
     {
-      "word": "cortés",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "impresionante",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "emocionado",
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.38,
-    "elDiario.es": 4.92,
-    "El Mundo": 4.54,
-    "ABC": 5.44,
-    "El Confidencial": 5.62,
-    "BBC Mundo": 4.98,
-    "France 24 ES": 4.65,
-    "La Nación AR": 5.67,
+    "El País": 5.02,
+    "elDiario.es": 4.82,
+    "El Mundo": 4.82,
+    "ABC": 5.33,
+    "El Confidencial": 5.69,
+    "BBC Mundo": 4.71,
+    "France 24 ES": 4.63,
+    "La Nación AR": 5.13,
     "La Jornada MX": 4.77,
     "Desinformémonos": 3.53,
     "Resumen Latinoam.": 3.81
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Las conexiones entre el ‘caso Koldo’ y la trama de Plus Ultra: la vía Ábalos, su",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "criminales",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Miles de personas protestan en Madrid contra el “Gobierno corrupto” de Sánchez e",
@@ -98,15 +109,19 @@
     },
     {
       "source": "El País",
-      "title": "Una explosión en una mina de carbón en China causa al menos 90 muertos",
-      "score": 5.0,
+      "title": "Los activistas de la Flotilla llegan al aeropuerto de El Prat con denuncias de a",
+      "score": 5.27,
       "words": [
         {
-          "word": "accidente",
+          "word": "agresiones",
           "score": -2
         },
         {
-          "word": "rescate",
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "bienvenida",
           "score": 2
         }
       ]
@@ -127,17 +142,6 @@
         {
           "word": "desconectado",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los libros favoritos de los libreros: 66 títulos imprescindibles para la Feria d",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "favoritos",
-          "score": 2
         }
       ]
     },
@@ -172,6 +176,17 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Los libros favoritos de los libreros: 66 títulos imprescindibles para la Feria d",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "favoritos",
+          "score": 2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Quince días sin tregua: Zapatero, Ábalos, Cerdán y el juicio a su hermano asfixi",
       "score": 4.46,
@@ -200,6 +215,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La extrema derecha sale a las calles en Madrid para fijar como \"prioridad nacion",
+      "score": 4.24,
+      "words": [
+        {
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "impedido",
+          "score": -1
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "detenciones",
+          "score": -2
+        },
+        {
+          "word": "protesta",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Sumar y Podemos se mantienen a la espera tras el paso adelante de Rufián mientra",
       "score": 5.12,
       "words": [
@@ -221,6 +263,33 @@
         },
         {
           "word": "evita",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los indicios contra Zapatero (y los agujeros de la acusación)",
+      "score": 4.78,
+      "words": [
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "esperar",
+          "score": -1
+        },
+        {
+          "word": "sospecha",
           "score": -1
         }
       ]
@@ -281,87 +350,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los indicios contra Zapatero (y los agujeros de la acusación)",
-      "score": 4.78,
-      "words": [
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "esperar",
-          "score": -1
-        },
-        {
-          "word": "sospecha",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "España crece el doble que Europa gracias a políticas económicas contrarias a la ",
-      "score": 5.75,
-      "words": [
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "España es el único país europeo al que Bruselas eleva las previsiones de crecimi",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "¿Un día libre por cada festivo perdido en sábado? Los expertos creen que se podr",
       "score": 4.97,
       "words": [
@@ -416,10 +404,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-07T21:55:34Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-05-07T22:59:16Z",
       "score": 4.66
@@ -1087,6 +1071,10 @@
     {
       "timestamp": "2026-05-23T11:07:59Z",
       "score": 4.83
+    },
+    {
+      "timestamp": "2026-05-23T13:19:15Z",
+      "score": 4.77
     }
   ]
 }

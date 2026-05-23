@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-23T16:04:28Z",
-  "global_score": 4.84,
-  "articles_scored": 85,
-  "words_matched": 304,
+  "generated": "2026-05-23T17:59:13Z",
+  "global_score": 4.83,
+  "articles_scored": 86,
+  "words_matched": 285,
   "top_negative": [
+    {
+      "word": "culo",
+      "score": -4
+    },
     {
       "word": "puta",
       "score": -4
@@ -13,15 +17,11 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
       "word": "criminales",
       "score": -3
     },
     {
-      "word": "enfado",
+      "word": "ilegal",
       "score": -3
     },
     {
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "racistas",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -43,19 +43,19 @@
       "score": 5
     },
     {
-      "word": "ganar",
+      "word": "ganador",
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "leal",
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "premio",
       "score": 3
     },
     {
@@ -72,19 +72,30 @@
     }
   ],
   "per_source": {
-    "El País": 5.02,
-    "elDiario.es": 4.67,
-    "El Mundo": 5.19,
-    "ABC": 5.29,
-    "El Confidencial": 5.69,
+    "El País": 5.06,
+    "elDiario.es": 4.79,
+    "El Mundo": 4.73,
+    "ABC": 5.11,
+    "El Confidencial": 5.57,
     "BBC Mundo": 4.71,
-    "France 24 ES": 4.63,
-    "La Nación AR": 4.7,
+    "France 24 ES": 5.31,
+    "La Nación AR": 3.85,
     "La Jornada MX": 4.77,
     "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 4.09
+    "Resumen Latinoam.": 4.57
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "La ‘trama Plus Ultra’ habló de torpedear la investigación judicial: “Hay que hac",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "confianza",
+          "score": 1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Las conexiones entre el ‘caso Koldo’ y la trama de Plus Ultra: la vía Ábalos, su",
@@ -147,6 +158,21 @@
     },
     {
       "source": "El País",
+      "title": "Enrique Riquelme presenta su candidatura a la presidencia del Real Madrid: “Pido",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "validar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El timo de los aplausos en el festival de Cannes",
       "score": 6.6,
       "words": [
@@ -188,81 +214,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sumar y Podemos se mantienen a la espera tras el paso adelante de Rufián mientra",
-      "score": 5.12,
+      "title": "La cúpula de Plus Ultra presumió de poder controlar la causa penal abierta tras ",
+      "score": 4.55,
       "words": [
         {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "evita",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La extrema derecha sale a las calles en Madrid para fijar como \"prioridad nacion",
-      "score": 4.24,
-      "words": [
-        {
-          "word": "prisión",
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "impedido",
-          "score": -1
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "detenciones",
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "protesta",
+          "word": "denuncia",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo dice que Zapatero \"tenía al Gobierno detrás\": \"Hay que estar muy podrido ",
-      "score": 5.97,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "apoyo",
+          "word": "aprobado",
           "score": 2
         }
       ]
@@ -323,91 +295,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Ayuso se lanza a controlar las Nuevas Generaciones del PP con Ignacio Dancausa",
-      "score": 5.23,
+      "title": "La extrema derecha sale a las calles en Madrid para fijar como \"prioridad nacion",
+      "score": 4.24,
       "words": [
         {
-          "word": "juvenil",
-          "score": 2
+          "word": "prisión",
+          "score": -2
         },
         {
-          "word": "aprobación",
-          "score": 2
-        },
-        {
-          "word": "pasado",
+          "word": "impedido",
           "score": -1
         },
         {
-          "word": "juvenil",
-          "score": 2
+          "word": "llegar",
+          "score": 1
         },
         {
-          "word": "cargos",
+          "word": "detenciones",
+          "score": -2
+        },
+        {
+          "word": "protesta",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Ayuso activa la campaña electoral para 2027 y avisa tras el caso Zapatero: \"Sánc",
-      "score": 4.62,
+      "title": "Feijóo dice que Zapatero \"tenía al Gobierno detrás\": \"Hay que estar muy podrido ",
+      "score": 5.97,
       "words": [
         {
-          "word": "obligado",
-          "score": 1
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "obligado",
-          "score": 1
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "pobreza",
-          "score": -1
+          "word": "popular",
+          "score": 3
         },
         {
-          "word": "tumba",
-          "score": -2
+          "word": "celebrado",
+          "score": 3
         },
         {
-          "word": "suspender",
-          "score": -1
+          "word": "apoyo",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Francia veta la entrada en su territorio al ministro ultra israelí Ben Gvir, que",
-      "score": 4.2,
+      "title": "Sumar y Podemos se mantienen a la espera tras el paso adelante de Rufián mientra",
+      "score": 5.12,
       "words": [
         {
-          "word": "asegurado",
-          "score": 2
+          "word": "espera",
+          "score": -1
         },
         {
-          "word": "paz",
-          "score": 2
+          "word": "presión",
+          "score": -1
         },
         {
-          "word": "prohibido",
-          "score": -2
+          "word": "espera",
+          "score": -1
         },
         {
-          "word": "carga",
-          "score": -2
+          "word": "presión",
+          "score": -1
         },
         {
-          "word": "amenazados",
-          "score": -2
+          "word": "evita",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-08T04:14:27Z",
-      "score": 4.68
-    },
     {
       "timestamp": "2026-05-08T06:50:28Z",
       "score": 4.66
@@ -1075,6 +1043,10 @@
     {
       "timestamp": "2026-05-23T16:04:28Z",
       "score": 4.84
+    },
+    {
+      "timestamp": "2026-05-23T17:59:13Z",
+      "score": 4.83
     }
   ]
 }

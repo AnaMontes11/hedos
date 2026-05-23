@@ -1,27 +1,27 @@
 {
-  "generated": "2026-05-23T00:04:14Z",
-  "global_score": 4.75,
-  "articles_scored": 93,
-  "words_matched": 227,
+  "generated": "2026-05-23T04:37:57Z",
+  "global_score": 4.66,
+  "articles_scored": 84,
+  "words_matched": 284,
   "top_negative": [
     {
-      "word": "torturas",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "asesinato",
+      "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "criminales",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "criminal",
+      "word": "empeorar",
       "score": -3
     },
     {
@@ -29,207 +29,172 @@
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "ilegal",
       "score": -3
     },
     {
-      "word": "cargado",
+      "word": "delitos",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
+      "word": "asombroso",
       "score": 5
     },
     {
-      "word": "brillante",
+      "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "popular",
-      "score": 3
     },
     {
       "word": "amor",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "vibrante",
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.29,
-    "elDiario.es": 4.92,
-    "El Mundo": 5.05,
-    "ABC": 5.73,
-    "El Confidencial": 4.62,
-    "BBC Mundo": 5.07,
-    "France 24 ES": 4.26,
-    "La Nación AR": 4.96,
+    "El País": 4.64,
+    "elDiario.es": 4.88,
+    "El Mundo": 4.81,
+    "ABC": 4.9,
+    "El Confidencial": 5.16,
+    "BBC Mundo": 5.33,
+    "France 24 ES": 4.65,
+    "La Nación AR": 4.31,
     "La Jornada MX": 4.21,
-    "Desinformémonos": 4.0,
+    "Desinformémonos": 3.53,
     "Resumen Latinoam.": 4.32
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Ayuso, a Sánchez: “Tiene miedo a convocar elecciones y pasar a ser vecino de Ába",
-      "score": 3.8,
+      "title": "Las conexiones entre el ‘caso Koldo’ y la trama de Plus Ultra: la vía Ábalos, su",
+      "score": 2.6,
       "words": [
         {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Dimite Tulsi Gabbard, la directora de Inteligencia de Estados Unidos",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "renuncia",
-          "score": -1
-        },
-        {
-          "word": "problemas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "“Nos están matando”, el mensaje desde las dos realidades de La Habana",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "asesinato",
+          "word": "criminales",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "¿Por qué ‘El Rosco’ y ‘Pasapalabra’ no son lo mismo? Preguntas y respuestas de l",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Santander y BBVA deniegan el aval a Riquelme para presentarse a las elecciones d",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "garantía",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Stephen Colbert imagina una fábula apocalíptica en su último programa, cancelado",
+      "title": "La desesperación de los cubanos, entre la asfixia de Trump y la del régimen: “¿C",
       "score": 3.67,
       "words": [
         {
-          "word": "cancelado",
-          "score": -1
-        },
-        {
-          "word": "criticar",
+          "word": "desesperación",
           "score": -2
         },
         {
-          "word": "late",
+          "word": "asfixia",
+          "score": -2
+        },
+        {
+          "word": "desconectado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los libros favoritos de los libreros: 66 títulos imprescindibles para la Feria d",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "favoritos",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Bruce Dern, leyenda viva del cine a los 90 años: “No me da miedo la inteligencia",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "viva",
+          "score": 1
+        },
+        {
+          "word": "miedo",
           "score": -2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "El Supremo tumba el intento de Ayuso y Vox de suspender la regularización de per",
-      "score": 4.71,
+      "source": "El País",
+      "title": "El cine español llega a la recta final de Cannes con aspiraciones de palmarés",
+      "score": 7.0,
       "words": [
         {
-          "word": "tumba",
-          "score": -2
-        },
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "tumba",
-          "score": -2
-        },
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "contencioso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno ha recibido en un mes casi 550.000 solicitudes para la regularizació",
-      "score": 5.3,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "retraso",
-          "score": -1
-        },
-        {
-          "word": "celebra",
+          "word": "premios",
           "score": 3
         },
         {
-          "word": "contencioso",
+          "word": "querido",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Dos retratos de humanistas",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "difícil",
           "score": -2
         },
         {
-          "word": "justicia",
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Quince días sin tregua: Zapatero, Ábalos, Cerdán y el juicio a su hermano asfixi",
+      "score": 4.46,
+      "words": [
+        {
+          "word": "ánimo",
           "score": 2
+        },
+        {
+          "word": "gracia",
+          "score": 1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "restos",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
         }
       ]
     },
@@ -262,81 +227,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Siete claves del rescate a Plus Ultra que investiga el juez del caso Zapatero",
-      "score": 5.46,
+      "title": "Sumar y Podemos se mantienen a la espera tras el paso adelante de Rufián mientra",
+      "score": 5.12,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "concedido",
-          "score": 1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El flujo del dinero que investiga la Audiencia Nacional en el caso Zapatero",
-      "score": 5.43,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "valor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Audiencia Nacional bloquea las cuentas bancarias de Zapatero",
-      "score": 4.13,
-      "words": [
-        {
-          "word": "bloqueo",
+          "word": "espera",
           "score": -1
         },
         {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "bloquear",
+          "word": "presión",
           "score": -1
         },
         {
-          "word": "bloqueo",
+          "word": "espera",
           "score": -1
         },
         {
-          "word": "bloqueo",
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "evita",
           "score": -1
         }
       ]
@@ -370,28 +281,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno defiende la legalidad del rescate de Plus Ultra ante el estallido de",
-      "score": 5.33,
+      "title": "Ayuso se lanza a controlar las Nuevas Generaciones del PP con Ignacio Dancausa",
+      "score": 5.23,
       "words": [
         {
-          "word": "rescate",
+          "word": "juvenil",
           "score": 2
         },
         {
-          "word": "rescate",
+          "word": "aprobación",
           "score": 2
         },
         {
-          "word": "negar",
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "juvenil",
+          "score": 2
+        },
+        {
+          "word": "cargos",
           "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "proteger",
-          "score": 1
         }
       ]
     },
@@ -421,13 +332,90 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "España crece el doble que Europa gracias a políticas económicas contrarias a la ",
+      "score": 5.75,
+      "words": [
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "España es el único país europeo al que Bruselas eleva las previsiones de crecimi",
+      "score": 5.11,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "¿Un día libre por cada festivo perdido en sábado? Los expertos creen que se podr",
+      "score": 4.97,
+      "words": [
+        {
+          "word": "festivo",
+          "score": 2
+        },
+        {
+          "word": "perdido",
+          "score": -2
+        },
+        {
+          "word": "festivo",
+          "score": 2
+        },
+        {
+          "word": "perdido",
+          "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-07T14:00:58Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-05-07T16:47:05Z",
       "score": 4.71
@@ -1095,6 +1083,10 @@
     {
       "timestamp": "2026-05-23T00:04:14Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-05-23T04:37:57Z",
+      "score": 4.66
     }
   ]
 }

@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-22T22:04:46Z",
-  "global_score": 4.72,
-  "articles_scored": 89,
-  "words_matched": 212,
+  "generated": "2026-05-23T00:04:14Z",
+  "global_score": 4.75,
+  "articles_scored": 93,
+  "words_matched": 227,
   "top_negative": [
+    {
+      "word": "torturas",
+      "score": -4
+    },
     {
       "word": "asesinato",
       "score": -3
@@ -31,10 +35,6 @@
     {
       "word": "cargado",
       "score": -3
-    },
-    {
-      "word": "feo",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,8 +43,12 @@
       "score": 5
     },
     {
-      "word": "ganador",
+      "word": "brillante",
       "score": 4
+    },
+    {
+      "word": "popular",
+      "score": 3
     },
     {
       "word": "amor",
@@ -59,15 +63,11 @@
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "perfectamente",
+      "word": "vibrante",
       "score": 3
     }
   ],
@@ -78,11 +78,11 @@
     "ABC": 5.73,
     "El Confidencial": 4.62,
     "BBC Mundo": 5.07,
-    "France 24 ES": 4.57,
-    "La Nación AR": 4.4,
+    "France 24 ES": 4.26,
+    "La Nación AR": 4.96,
     "La Jornada MX": 4.21,
     "Desinformémonos": 4.0,
-    "Resumen Latinoam.": 4.37
+    "Resumen Latinoam.": 4.32
   },
   "articles": [
     {
@@ -424,10 +424,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-07T11:45:06Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-05-07T14:00:58Z",
       "score": 4.62
@@ -1095,6 +1091,10 @@
     {
       "timestamp": "2026-05-22T22:04:46Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-05-23T00:04:14Z",
+      "score": 4.75
     }
   ]
 }

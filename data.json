@@ -1,19 +1,19 @@
 {
-  "generated": "2026-05-23T13:19:15Z",
-  "global_score": 4.77,
-  "articles_scored": 89,
-  "words_matched": 309,
+  "generated": "2026-05-23T14:58:13Z",
+  "global_score": 4.81,
+  "articles_scored": 86,
+  "words_matched": 284,
   "top_negative": [
     {
       "word": "puta",
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "torturas",
       "score": -4
     },
     {
-      "word": "tortura",
+      "word": "violación",
       "score": -4
     },
     {
@@ -47,42 +47,42 @@
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "leal",
       "score": 3
     },
     {
-      "word": "perfecto",
-      "score": 3
-    },
-    {
-      "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "premio",
       "score": 3
     },
     {
       "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "emocionante",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.02,
     "elDiario.es": 4.82,
-    "El Mundo": 4.82,
-    "ABC": 5.33,
+    "El Mundo": 4.78,
+    "ABC": 5.25,
     "El Confidencial": 5.69,
     "BBC Mundo": 4.71,
-    "France 24 ES": 4.63,
-    "La Nación AR": 5.13,
+    "France 24 ES": 4.54,
+    "La Nación AR": 4.72,
     "La Jornada MX": 4.77,
-    "Desinformémonos": 3.53,
-    "Resumen Latinoam.": 3.81
+    "Desinformémonos": 4.17,
+    "Resumen Latinoam.": 4.18
   },
   "articles": [
     {
@@ -98,7 +98,7 @@
     },
     {
       "source": "El País",
-      "title": "Miles de personas protestan en Madrid contra el “Gobierno corrupto” de Sánchez e",
+      "title": "Una marcha apoyada por el PP y Vox reúne a miles de personas en Madrid contra el",
       "score": 3.4,
       "words": [
         {
@@ -109,13 +109,9 @@
     },
     {
       "source": "El País",
-      "title": "Los activistas de la Flotilla llegan al aeropuerto de El Prat con denuncias de a",
+      "title": "Cuatro detenidos en los incidentes sucedidos en el aeropuerto de Bilbao a la lle",
       "score": 5.27,
       "words": [
-        {
-          "word": "agresiones",
-          "score": -2
-        },
         {
           "word": "unido",
           "score": 1
@@ -123,6 +119,10 @@
         {
           "word": "bienvenida",
           "score": 2
+        },
+        {
+          "word": "agresiones",
+          "score": -2
         }
       ]
     },
@@ -377,37 +377,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La misteriosa empresa que compra libros viejos para entrenar a la IA y los destr",
-      "score": 3.88,
+      "title": "Los activistas de la Flotilla llegan a Barcelona y denuncian torturas y abusos d",
+      "score": 3.94,
       "words": [
         {
-          "word": "destruye",
+          "word": "torturas",
+          "score": -4
+        },
+        {
+          "word": "abusos",
           "score": -3
         },
         {
-          "word": "destruye",
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "violencia",
           "score": -3
         },
         {
-          "word": "dejar",
-          "score": -1
-        },
-        {
-          "word": "desconfianza",
-          "score": -3
-        },
-        {
-          "word": "sospechar",
-          "score": -1
+          "word": "torturas",
+          "score": -4
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-07T22:59:16Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-05-08T00:00:57Z",
       "score": 4.66
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-05-23T13:19:15Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-05-23T14:58:13Z",
+      "score": 4.81
     }
   ]
 }

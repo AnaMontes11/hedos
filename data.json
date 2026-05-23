@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-23T22:50:36Z",
-  "global_score": 5.09,
-  "articles_scored": 90,
-  "words_matched": 256,
+  "generated": "2026-05-23T23:54:47Z",
+  "global_score": 5.0,
+  "articles_scored": 84,
+  "words_matched": 242,
   "top_negative": [
     {
       "word": "culo",
@@ -39,12 +39,8 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "milagro",
-      "score": 4
+      "word": "asombroso",
+      "score": 5
     },
     {
       "word": "ganador",
@@ -55,11 +51,11 @@
       "score": 3
     },
     {
-      "word": "encanto",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "celebra",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "alabado",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.87,
     "elDiario.es": 4.84,
-    "El Mundo": 5.35,
-    "ABC": 4.86,
-    "El Confidencial": 4.97,
-    "BBC Mundo": 4.87,
-    "France 24 ES": 4.7,
-    "La Nación AR": 5.5,
+    "El Mundo": 4.88,
+    "ABC": 4.79,
+    "El Confidencial": 5.62,
+    "BBC Mundo": 4.58,
+    "France 24 ES": 5.06,
+    "La Nación AR": 5.73,
     "La Jornada MX": 4.77,
     "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 5.41
+    "Resumen Latinoam.": 4.51
   },
   "articles": [
     {
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-08T14:48:54Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-05-08T16:12:07Z",
       "score": 4.69
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-05-23T22:50:36Z",
       "score": 5.09
+    },
+    {
+      "timestamp": "2026-05-23T23:54:47Z",
+      "score": 5.0
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-23T19:22:56Z",
-  "global_score": 4.89,
-  "articles_scored": 86,
-  "words_matched": 284,
+  "generated": "2026-05-23T20:47:10Z",
+  "global_score": 5.07,
+  "articles_scored": 83,
+  "words_matched": 278,
   "top_negative": [
     {
       "word": "culo",
@@ -15,10 +15,6 @@
     {
       "word": "torturas",
       "score": -4
-    },
-    {
-      "word": "mal",
-      "score": -3
     },
     {
       "word": "ilegal",
@@ -35,12 +31,24 @@
     {
       "word": "crisis",
       "score": -3
+    },
+    {
+      "word": "racistas",
+      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "asombroso",
       "score": 5
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "milagro",
+      "score": 4
     },
     {
       "word": "ganar",
@@ -51,38 +59,30 @@
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
       "word": "emocionante",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.56,
-    "elDiario.es": 4.92,
-    "El Mundo": 4.96,
-    "ABC": 4.95,
-    "El Confidencial": 5.57,
+    "El País": 6.02,
+    "elDiario.es": 4.93,
+    "El Mundo": 5.3,
+    "ABC": 5.02,
+    "El Confidencial": 5.49,
     "BBC Mundo": 4.71,
-    "France 24 ES": 5.05,
-    "La Nación AR": 4.8,
+    "France 24 ES": 4.68,
+    "La Nación AR": 4.83,
     "La Jornada MX": 4.77,
     "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 5.06
+    "Resumen Latinoam.": 5.32
   },
   "articles": [
     {
@@ -98,11 +98,49 @@
     },
     {
       "source": "El País",
-      "title": "La ‘trama Plus Ultra’ habló de torpedear la investigación judicial: “Hay que hac",
-      "score": 5.8,
+      "title": "Localizada una empresa del amigo de Zapatero en el paraíso fiscal de las Islas V",
+      "score": 7.4,
       "words": [
         {
-          "word": "confianza",
+          "word": "paraíso",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La Policía asegura que Zapatero se reunió con el presidente de Plus Ultra en ple",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La cúpula de Plus Ultra, a Julio Martínez sobre la SEPI: “Ahí sería bueno vuestr",
+      "score": 6.0,
+      "words": [
+        {
+          "word": "bueno",
+          "score": 3
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
           "score": 1
         }
       ]
@@ -120,49 +158,31 @@
     },
     {
       "source": "El País",
-      "title": "Cuatro detenidos en los incidentes en el aeropuerto de Bilbao a la llegada de lo",
-      "score": 3.4,
+      "title": "Los Javis ganan el Premio a la mejor dirección en Cannes con ‘La bola negra’",
+      "score": 7.4,
       "words": [
         {
-          "word": "agresiones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Barcelona culmina su grandeza con su cuarta Champions tras golear al Lyon",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "mal",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Enrique Riquelme presenta su candidatura a la presidencia del Real Madrid: “Pido",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "miedo",
-          "score": -2
+          "word": "premio",
+          "score": 3
         },
         {
-          "word": "validar",
-          "score": 1
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La última jornada de la Liga en directo, todos los partidos en vivo",
-      "score": 4.2,
+      "title": "‘Fjord’, de Cristian Mungiu, gana la Palma de Oro del festival de cine de Cannes",
+      "score": 7.4,
       "words": [
         {
-          "word": "evitar",
-          "score": -1
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
@@ -174,21 +194,6 @@
         {
           "word": "pasado",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El cine español llega a la recta final de Cannes con aspiraciones de palmarés",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "premios",
-          "score": 3
-        },
-        {
-          "word": "querido",
-          "score": 2
         }
       ]
     },
@@ -215,6 +220,87 @@
         },
         {
           "word": "aprobado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La extrema derecha sale a las calles en Madrid para fijar como \"prioridad nacion",
+      "score": 4.24,
+      "words": [
+        {
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "impedido",
+          "score": -1
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "detenciones",
+          "score": -2
+        },
+        {
+          "word": "protesta",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Quince días sin tregua: Zapatero, Ábalos, Cerdán y el juicio a su hermano asfixi",
+      "score": 4.46,
+      "words": [
+        {
+          "word": "ánimo",
+          "score": 2
+        },
+        {
+          "word": "gracia",
+          "score": 1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "restos",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo dice que Zapatero \"tenía al Gobierno detrás\": \"Hay que estar muy podrido ",
+      "score": 5.97,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        },
+        {
+          "word": "apoyo",
           "score": 2
         }
       ]
@@ -248,87 +334,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Quince días sin tregua: Zapatero, Ábalos, Cerdán y el juicio a su hermano asfixi",
-      "score": 4.46,
-      "words": [
-        {
-          "word": "ánimo",
-          "score": 2
-        },
-        {
-          "word": "gracia",
-          "score": 1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "restos",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La extrema derecha sale a las calles en Madrid para fijar como \"prioridad nacion",
-      "score": 4.24,
-      "words": [
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "impedido",
-          "score": -1
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "detenciones",
-          "score": -2
-        },
-        {
-          "word": "protesta",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo dice que Zapatero \"tenía al Gobierno detrás\": \"Hay que estar muy podrido ",
-      "score": 5.97,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Sumar y Podemos se mantienen a la espera tras el paso adelante de Rufián mientra",
       "score": 5.12,
       "words": [
@@ -353,13 +358,36 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las claves del órdago de Rufián a ERC: el control de la lista y de la línea polí",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-08T08:19:50Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-05-08T10:21:55Z",
       "score": 4.52
@@ -1027,6 +1055,10 @@
     {
       "timestamp": "2026-05-23T19:22:56Z",
       "score": 4.89
+    },
+    {
+      "timestamp": "2026-05-23T20:47:10Z",
+      "score": 5.07
     }
   ]
 }

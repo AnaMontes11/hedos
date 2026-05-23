@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-23T07:29:00Z",
-  "global_score": 4.69,
-  "articles_scored": 75,
-  "words_matched": 274,
+  "generated": "2026-05-23T09:49:24Z",
+  "global_score": 4.76,
+  "articles_scored": 81,
+  "words_matched": 297,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "culo",
+      "score": -4
+    },
     {
       "word": "fraude",
       "score": -4
@@ -27,14 +35,6 @@
     {
       "word": "empeorar",
       "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,45 +43,46 @@
       "score": 5
     },
     {
-      "word": "ganar",
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "divertido",
       "score": 4
     },
     {
-      "word": "encanto",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "leal",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "destellos",
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "popular",
+      "word": "cortés",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.91,
-    "elDiario.es": 4.88,
+    "El País": 5.25,
+    "elDiario.es": 4.92,
     "El Mundo": 4.81,
-    "El Confidencial": 5.16,
-    "BBC Mundo": 5.33,
+    "ABC": 4.84,
+    "El Confidencial": 5.43,
+    "BBC Mundo": 4.9,
     "France 24 ES": 4.65,
-    "La Nación AR": 5.66,
-    "La Jornada MX": 4.21,
+    "La Nación AR": 5.77,
+    "La Jornada MX": 4.77,
     "Desinformémonos": 3.53,
-    "Resumen Latinoam.": 3.8
+    "Resumen Latinoam.": 3.81
   },
   "articles": [
     {
@@ -142,16 +143,16 @@
     },
     {
       "source": "El País",
-      "title": "Bruce Dern, leyenda viva del cine a los 90 años: “No me da miedo la inteligencia",
-      "score": 4.6,
+      "title": "El timo de los aplausos en el festival de Cannes",
+      "score": 6.6,
       "words": [
         {
-          "word": "viva",
-          "score": 1
+          "word": "aplausos",
+          "score": 2
         },
         {
-          "word": "miedo",
-          "score": -2
+          "word": "cariño",
+          "score": 2
         }
       ]
     },
@@ -193,33 +194,6 @@
         },
         {
           "word": "peor",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez mantiene secreta la parte de la investigación del caso Plus Ultra sobre ",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "delitos",
           "score": -3
         }
       ]
@@ -412,13 +386,36 @@
           "score": 1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La misteriosa empresa que compra libros viejos para entrenar a la IA y los destr",
+      "score": 3.88,
+      "words": [
+        {
+          "word": "destruye",
+          "score": -3
+        },
+        {
+          "word": "destruye",
+          "score": -3
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        },
+        {
+          "word": "desconfianza",
+          "score": -3
+        },
+        {
+          "word": "sospechar",
+          "score": -1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-07T18:22:27Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-05-07T20:12:18Z",
       "score": 4.57
@@ -1086,6 +1083,10 @@
     {
       "timestamp": "2026-05-23T07:29:00Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-05-23T09:49:24Z",
+      "score": 4.76
     }
   ]
 }

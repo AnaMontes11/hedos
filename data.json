@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-23T09:49:24Z",
-  "global_score": 4.76,
-  "articles_scored": 81,
-  "words_matched": 297,
+  "generated": "2026-05-23T11:07:59Z",
+  "global_score": 4.83,
+  "articles_scored": 86,
+  "words_matched": 313,
   "top_negative": [
     {
       "word": "negro",
@@ -25,23 +25,19 @@
       "score": -4
     },
     {
-      "word": "criminales",
-      "score": -3
-    },
-    {
       "word": "peor",
       "score": -3
     },
     {
       "word": "empeorar",
       "score": -3
+    },
+    {
+      "word": "crisis",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "asombroso",
-      "score": 5
-    },
     {
       "word": "excepcional",
       "score": 5
@@ -55,31 +51,35 @@
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "leal",
       "score": 3
     },
     {
-      "word": "destellos",
+      "word": "encanto",
       "score": 3
     },
     {
       "word": "cortés",
       "score": 3
+    },
+    {
+      "word": "impresionante",
+      "score": 3
+    },
+    {
+      "word": "emocionado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.25,
+    "El País": 5.38,
     "elDiario.es": 4.92,
-    "El Mundo": 4.81,
-    "ABC": 4.84,
-    "El Confidencial": 5.43,
-    "BBC Mundo": 4.9,
+    "El Mundo": 4.54,
+    "ABC": 5.44,
+    "El Confidencial": 5.62,
+    "BBC Mundo": 4.98,
     "France 24 ES": 4.65,
-    "La Nación AR": 5.77,
+    "La Nación AR": 5.67,
     "La Jornada MX": 4.77,
     "Desinformémonos": 3.53,
     "Resumen Latinoam.": 3.81
@@ -87,12 +87,12 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Las conexiones entre el ‘caso Koldo’ y la trama de Plus Ultra: la vía Ábalos, su",
-      "score": 2.6,
+      "title": "Miles de personas protestan en Madrid contra el “Gobierno corrupto” de Sánchez e",
+      "score": 3.4,
       "words": [
         {
-          "word": "criminales",
-          "score": -3
+          "word": "prisión",
+          "score": -2
         }
       ]
     },
@@ -416,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-07T20:12:18Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-05-07T21:55:34Z",
       "score": 4.71
@@ -1087,6 +1083,10 @@
     {
       "timestamp": "2026-05-23T09:49:24Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-05-23T11:07:59Z",
+      "score": 4.83
     }
   ]
 }

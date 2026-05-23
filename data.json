@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-23T21:52:01Z",
-  "global_score": 5.19,
-  "articles_scored": 89,
-  "words_matched": 259,
+  "generated": "2026-05-23T22:50:36Z",
+  "global_score": 5.09,
+  "articles_scored": 90,
+  "words_matched": 256,
   "top_negative": [
     {
       "word": "culo",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "asombroso",
-      "score": 5
-    },
-    {
       "word": "triunfo",
       "score": 4
     },
@@ -59,30 +55,34 @@
       "score": 3
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "vibrante",
-      "score": 3
-    },
-    {
       "word": "encanto",
+      "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
+    },
+    {
+      "word": "alabado",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.87,
-    "elDiario.es": 4.86,
+    "elDiario.es": 4.84,
     "El Mundo": 5.35,
     "ABC": 4.86,
-    "El Confidencial": 5.62,
+    "El Confidencial": 4.97,
     "BBC Mundo": 4.87,
-    "France 24 ES": 5.22,
-    "La Nación AR": 5.77,
+    "France 24 ES": 4.7,
+    "La Nación AR": 5.5,
     "La Jornada MX": 4.77,
     "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 5.42
+    "Resumen Latinoam.": 5.41
   },
   "articles": [
     {
@@ -223,7 +223,7 @@
     {
       "source": "elDiario.es",
       "title": "Un directivo de Plus Ultra afirmó por WhatsApp que se reunió con “los Zapatero” ",
-      "score": 5.59,
+      "score": 5.51,
       "words": [
         {
           "word": "rescate",
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-08T12:06:30Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-05-08T14:48:54Z",
       "score": 4.66
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-05-23T21:52:01Z",
       "score": 5.19
+    },
+    {
+      "timestamp": "2026-05-23T22:50:36Z",
+      "score": 5.09
     }
   ]
 }

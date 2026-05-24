@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-23T23:54:47Z",
-  "global_score": 5.0,
-  "articles_scored": 84,
-  "words_matched": 242,
+  "generated": "2026-05-24T02:57:26Z",
+  "global_score": 4.97,
+  "articles_scored": 92,
+  "words_matched": 263,
   "top_negative": [
+    {
+      "word": "coño",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -31,10 +35,6 @@
     {
       "word": "delito",
       "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -51,35 +51,35 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "súper",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "emocionado",
+      "score": 3
+    },
+    {
+      "word": "premios",
       "score": 3
     },
     {
       "word": "perfectamente",
       "score": 3
-    },
-    {
-      "word": "alabado",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.87,
-    "elDiario.es": 4.84,
+    "elDiario.es": 4.83,
     "El Mundo": 4.88,
-    "ABC": 4.79,
+    "ABC": 4.96,
     "El Confidencial": 5.62,
-    "BBC Mundo": 4.58,
-    "France 24 ES": 5.06,
-    "La Nación AR": 5.73,
+    "BBC Mundo": 4.35,
+    "France 24 ES": 4.86,
+    "La Nación AR": 5.46,
     "La Jornada MX": 4.77,
     "Desinformémonos": 4.31,
     "Resumen Latinoam.": 4.51
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-08T16:12:07Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-05-08T18:07:21Z",
       "score": 4.62
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-05-23T23:54:47Z",
       "score": 5.0
+    },
+    {
+      "timestamp": "2026-05-24T02:57:26Z",
+      "score": 4.97
     }
   ]
 }

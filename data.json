@@ -1,23 +1,15 @@
 {
-  "generated": "2026-05-24T21:54:00Z",
-  "global_score": 4.77,
-  "articles_scored": 92,
-  "words_matched": 264,
+  "generated": "2026-05-24T22:55:48Z",
+  "global_score": 5.0,
+  "articles_scored": 83,
+  "words_matched": 229,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
     },
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "maldición",
       "score": -4
     },
     {
@@ -35,15 +27,23 @@
     {
       "word": "delitos",
       "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "morir",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
+      "word": "ganador",
       "score": 4
     },
     {
-      "word": "ganador",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -51,11 +51,7 @@
       "score": 4
     },
     {
-      "word": "amado",
-      "score": 3
-    },
-    {
-      "word": "caro",
+      "word": "celebra",
       "score": 3
     },
     {
@@ -63,11 +59,15 @@
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "feliz",
       "score": 3
     },
     {
-      "word": "exultante",
+      "word": "agradable",
+      "score": 3
+    },
+    {
+      "word": "sentido",
       "score": 3
     }
   ],
@@ -75,14 +75,13 @@
     "El País": 4.87,
     "elDiario.es": 5.1,
     "El Mundo": 4.47,
-    "ABC": 5.07,
     "El Confidencial": 4.86,
     "BBC Mundo": 3.57,
-    "France 24 ES": 4.68,
-    "La Nación AR": 4.95,
+    "France 24 ES": 4.96,
+    "La Nación AR": 6.67,
     "La Jornada MX": 4.87,
     "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 5.17
+    "Resumen Latinoam.": 5.79
   },
   "articles": [
     {
@@ -416,10 +415,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-09T13:11:42Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-05-09T14:48:13Z",
       "score": 4.81
@@ -1087,6 +1082,10 @@
     {
       "timestamp": "2026-05-24T21:54:00Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-05-24T22:55:48Z",
+      "score": 5.0
     }
   ]
 }

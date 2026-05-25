@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-25T17:41:06Z",
-  "global_score": 5.05,
-  "articles_scored": 89,
-  "words_matched": 194,
+  "generated": "2026-05-25T19:25:42Z",
+  "global_score": 4.95,
+  "articles_scored": 81,
+  "words_matched": 193,
   "top_negative": [
     {
       "word": "fraudulento",
@@ -39,6 +39,10 @@
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "ganar",
       "score": 4
     },
@@ -59,54 +63,28 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "exitoso",
       "score": 3
     },
     {
       "word": "amor",
       "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 6.07,
-    "elDiario.es": 4.96,
-    "El Mundo": 5.95,
-    "ABC": 5.21,
+    "elDiario.es": 4.93,
+    "El Mundo": 6.43,
+    "ABC": 5.27,
     "El Confidencial": 5.35,
     "BBC Mundo": 4.68,
-    "France 24 ES": 4.46,
-    "La Nación AR": 5.3,
+    "France 24 ES": 4.29,
+    "La Nación AR": 4.4,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 4.26,
-    "Resumen Latinoam.": 4.93
+    "Desinformémonos": 4.55,
+    "Resumen Latinoam.": 4.53
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "La UDEF apunta a la casa de Zapatero como el escenario de las “instrucciones” de",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Imputación de Zapatero por el ‘Caso Plus Ultra’ y reacciones políticas en direct",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "Joyas, relojes y ordenadores: lo que la policía requisó de la oficina de Zapater",
@@ -115,6 +93,17 @@
         {
           "word": "joyas",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La UDEF apunta a la casa de Zapatero como el escenario de las “instrucciones” de",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -130,36 +119,6 @@
         {
           "word": "responsable",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Felipe González sostiene que debería haber elecciones generales en España “este ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La UCO no encuentra ingresos sospechosos en las cuentas de Begoña Gómez",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "sospechosos",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
         }
       ]
     },
@@ -300,6 +259,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La Policía se incautó de 107.000 euros y 75.000 dólares en el registro de la cas",
+      "score": 4.78,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El juez Calama mezcló indicios de delito con suposiciones de la Policía en el au",
       "score": 5.19,
       "words": [
@@ -354,6 +340,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Empresas inactivas, deuda fallida, un préstamo “fraudulento\": la red de Julio Ma",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "deuda",
+          "score": -2
+        },
+        {
+          "word": "fraudulento",
+          "score": -4
+        },
+        {
+          "word": "deuda",
+          "score": -2
+        },
+        {
+          "word": "fraudulento",
+          "score": -4
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Felipe González pide elecciones anticipadas y no ve a Zapatero \"con capacidad pa",
       "score": 5.27,
       "words": [
@@ -380,38 +393,29 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "El PP responde al PNV: \"Son los socios los que deben moverse\"",
-      "score": 5.1,
+      "source": "El Mundo",
+      "title": "El contrato del 1% de comisión para el testaferro de Zapatero a cambio del resca",
+      "score": 6.6,
       "words": [
         {
-          "word": "apoyo",
+          "word": "rescate",
           "score": 2
-        },
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "La Udef apunta al domicilio particular de Zapatero como lugar para canalizar las",
+      "score": 7.4,
+      "words": [
         {
-          "word": "irresponsable",
-          "score": 2
-        },
-        {
-          "word": "descartado",
-          "score": -1
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "irresponsable",
-          "score": 2
+          "word": "mayor",
+          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-09T20:50:08Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-05-09T21:40:17Z",
       "score": 4.6
@@ -1079,6 +1083,10 @@
     {
       "timestamp": "2026-05-25T17:41:06Z",
       "score": 5.05
+    },
+    {
+      "timestamp": "2026-05-25T19:25:42Z",
+      "score": 4.95
     }
   ]
 }

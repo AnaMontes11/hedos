@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-25T15:48:58Z",
-  "global_score": 4.87,
-  "articles_scored": 90,
-  "words_matched": 219,
+  "generated": "2026-05-25T17:41:06Z",
+  "global_score": 5.05,
+  "articles_scored": 89,
+  "words_matched": 194,
   "top_negative": [
     {
       "word": "fraudulento",
@@ -15,10 +15,6 @@
     {
       "word": "torturas",
       "score": -4
-    },
-    {
-      "word": "escándalos",
-      "score": -3
     },
     {
       "word": "delito",
@@ -34,6 +30,10 @@
     },
     {
       "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "desesperado",
       "score": -3
     }
   ],
@@ -51,6 +51,10 @@
       "score": 3
     },
     {
+      "word": "mejor",
+      "score": 3
+    },
+    {
       "word": "bueno",
       "score": 3
     },
@@ -59,48 +63,47 @@
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "amor",
       "score": 3
     },
     {
       "word": "celebrado",
       "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.25,
-    "elDiario.es": 4.92,
-    "El Mundo": 5.99,
-    "ABC": 5.38,
-    "El Confidencial": 5.3,
-    "BBC Mundo": 4.49,
-    "France 24 ES": 4.49,
-    "La Nación AR": 5.1,
+    "El País": 6.07,
+    "elDiario.es": 4.96,
+    "El Mundo": 5.95,
+    "ABC": 5.21,
+    "El Confidencial": 5.35,
+    "BBC Mundo": 4.68,
+    "France 24 ES": 4.46,
+    "La Nación AR": 5.3,
     "La Jornada MX": 4.75,
     "Desinformémonos": 4.26,
-    "Resumen Latinoam.": 4.04
+    "Resumen Latinoam.": 4.93
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Imputación de Zapatero por el ‘Caso Plus Ultra’ y reacciones políticas en direct",
-      "score": 6.87,
+      "title": "La UDEF apunta a la casa de Zapatero como el escenario de las “instrucciones” de",
+      "score": 7.4,
       "words": [
         {
           "word": "mayor",
           "score": 3
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Imputación de Zapatero por el ‘Caso Plus Ultra’ y reacciones políticas en direct",
+      "score": 7.4,
+      "words": [
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -132,17 +135,6 @@
     },
     {
       "source": "El País",
-      "title": "Las cuentas de Zapatero: 2,6 millones en cinco años en transferencias de empresa",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "sospecha",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Felipe González sostiene que debería haber elecciones generales en España “este ",
       "score": 6.6,
       "words": [
@@ -158,16 +150,16 @@
     },
     {
       "source": "El País",
-      "title": "El ‘caso Plus Ultra’ sacude al negocio de la influencia política: “El ‘lobby’ no",
-      "score": 3.0,
+      "title": "La UCO no encuentra ingresos sospechosos en las cuentas de Begoña Gómez",
+      "score": 4.2,
       "words": [
         {
-          "word": "agravado",
-          "score": -2
+          "word": "sospechosos",
+          "score": -1
         },
         {
-          "word": "escándalos",
-          "score": -3
+          "word": "dudas",
+          "score": -1
         }
       ]
     },
@@ -228,7 +220,7 @@
     {
       "source": "elDiario.es",
       "title": "La Policía encontró en el despacho de Zapatero joyas y relojes que él atribuye a",
-      "score": 5.5,
+      "score": 5.97,
       "words": [
         {
           "word": "joyas",
@@ -416,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-09T19:57:27Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-05-09T20:50:08Z",
       "score": 4.64
@@ -1087,6 +1075,10 @@
     {
       "timestamp": "2026-05-25T15:48:58Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-05-25T17:41:06Z",
+      "score": 5.05
     }
   ]
 }

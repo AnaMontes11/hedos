@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-25T19:25:42Z",
-  "global_score": 4.95,
-  "articles_scored": 81,
-  "words_matched": 193,
+  "generated": "2026-05-25T21:03:42Z",
+  "global_score": 4.93,
+  "articles_scored": 84,
+  "words_matched": 181,
   "top_negative": [
     {
-      "word": "fraudulento",
-      "score": -4
+      "word": "negro",
+      "score": -5
     },
     {
-      "word": "fraude",
+      "word": "fraudulento",
       "score": -4
     },
     {
@@ -51,6 +51,10 @@
       "score": 4
     },
     {
+      "word": "popular",
+      "score": 3
+    },
+    {
       "word": "celebrar",
       "score": 3
     },
@@ -63,26 +67,22 @@
       "score": 3
     },
     {
-      "word": "exitoso",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 6.07,
-    "elDiario.es": 4.93,
+    "El País": 5.4,
+    "elDiario.es": 4.92,
     "El Mundo": 6.43,
-    "ABC": 5.27,
+    "ABC": 5.04,
     "El Confidencial": 5.35,
-    "BBC Mundo": 4.68,
-    "France 24 ES": 4.29,
-    "La Nación AR": 4.4,
+    "BBC Mundo": 4.1,
+    "France 24 ES": 4.35,
+    "La Nación AR": 4.9,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 4.55,
-    "Resumen Latinoam.": 4.53
+    "Desinformémonos": 4.71,
+    "Resumen Latinoam.": 4.78
   },
   "articles": [
     {
@@ -109,16 +109,27 @@
     },
     {
       "source": "El País",
-      "title": "Zapatero está “sorprendido” por el contenido del informe de la UDEF, “del que se",
+      "title": "La UDEF intervino al amigo de Zapatero una copia del contrato que le adjudicaba ",
       "score": 5.0,
       "words": [
         {
-          "word": "sorprendido",
-          "score": -2
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "responsable",
-          "score": 2
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La jueza que inició la investigación identifica a Zapatero como ‘Zorro’, ‘Z’ y ‘",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
         }
       ]
     },
@@ -259,6 +270,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El juez Calama acusa al antiguo dueño de Plus Ultra de esconder parte del rescat",
+      "score": 4.89,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "esconder",
+          "score": -1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "esconder",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La Policía se incautó de 107.000 euros y 75.000 dólares en el registro de la cas",
       "score": 4.78,
       "words": [
@@ -281,33 +319,6 @@
         {
           "word": "acusa",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Calama mezcló indicios de delito con suposiciones de la Policía en el au",
-      "score": 5.19,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "motivado",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "ayuda",
-          "score": 2
         }
       ]
     },
@@ -340,28 +351,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Empresas inactivas, deuda fallida, un préstamo “fraudulento\": la red de Julio Ma",
-      "score": 5.0,
+      "title": "El juez Calama mezcló indicios de delito con suposiciones de la Policía en el au",
+      "score": 5.19,
       "words": [
         {
-          "word": "deuda",
-          "score": -2
+          "word": "delito",
+          "score": -3
         },
         {
-          "word": "fraudulento",
-          "score": -4
+          "word": "delito",
+          "score": -3
         },
         {
-          "word": "deuda",
-          "score": -2
+          "word": "motivado",
+          "score": 2
         },
         {
-          "word": "fraudulento",
-          "score": -4
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "ayuda",
+          "score": 2
         }
       ]
     },
@@ -402,24 +413,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "El Mundo",
-      "title": "La Udef apunta al domicilio particular de Zapatero como lugar para canalizar las",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-09T21:40:17Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-05-09T22:39:35Z",
       "score": 4.73
@@ -1087,6 +1083,10 @@
     {
       "timestamp": "2026-05-25T19:25:42Z",
       "score": 4.95
+    },
+    {
+      "timestamp": "2026-05-25T21:03:42Z",
+      "score": 4.93
     }
   ]
 }

@@ -1,23 +1,15 @@
 {
-  "generated": "2026-05-25T12:26:52Z",
-  "global_score": 4.86,
-  "articles_scored": 85,
-  "words_matched": 237,
+  "generated": "2026-05-25T15:48:58Z",
+  "global_score": 4.87,
+  "articles_scored": 90,
+  "words_matched": 219,
   "top_negative": [
     {
       "word": "fraudulento",
       "score": -4
     },
     {
-      "word": "culo",
-      "score": -4
-    },
-    {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "tortura",
       "score": -4
     },
     {
@@ -33,19 +25,19 @@
       "score": -3
     },
     {
+      "word": "escándalo",
+      "score": -3
+    },
+    {
+      "word": "criminal",
+      "score": -3
+    },
+    {
       "word": "delitos",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "magnífico",
-      "score": 5
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -59,44 +51,82 @@
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
       "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.89,
-    "elDiario.es": 4.61,
-    "El Mundo": 5.27,
-    "ABC": 5.18,
-    "El Confidencial": 5.18,
-    "BBC Mundo": 4.14,
-    "France 24 ES": 5.82,
-    "La Nación AR": 5.54,
+    "El País": 5.25,
+    "elDiario.es": 4.92,
+    "El Mundo": 5.99,
+    "ABC": 5.38,
+    "El Confidencial": 5.3,
+    "BBC Mundo": 4.49,
+    "France 24 ES": 4.49,
+    "La Nación AR": 5.1,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 4.07
+    "Desinformémonos": 4.26,
+    "Resumen Latinoam.": 4.04
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La UCO no encuentra movimientos sospechosos en las cuentas de Begoña Gómez",
-      "score": 4.2,
+      "title": "Imputación de Zapatero por el ‘Caso Plus Ultra’ y reacciones políticas en direct",
+      "score": 6.87,
       "words": [
         {
-          "word": "sospechosos",
-          "score": -1
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "dudas",
-          "score": -1
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Joyas, relojes y ordenadores: lo que la policía requisó de la oficina de Zapater",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "joyas",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Zapatero está “sorprendido” por el contenido del informe de la UDEF, “del que se",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "sorprendido",
+          "score": -2
+        },
+        {
+          "word": "responsable",
+          "score": 2
         }
       ]
     },
@@ -108,6 +138,21 @@
         {
           "word": "sospecha",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Felipe González sostiene que debería haber elecciones generales en España “este ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "capacidad",
+          "score": 2
         }
       ]
     },
@@ -127,67 +172,137 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Zapatero: Alaska ilimitada",
-      "score": 7.4,
+      "source": "elDiario.es",
+      "title": "La Policía acusa a las hijas de Zapatero de emitir facturas para encubrir pagos ",
+      "score": 5.2,
       "words": [
         {
-          "word": "fascinante",
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "sentido",
           "score": 3
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Trump rechaza las",
-      "score": 5.64,
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Zapatero, de los indicios a las dudas, con Ignacio Escolar",
+      "score": 4.75,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "rechaza",
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "dudas",
+          "score": -1
         },
         {
-          "word": "magnífico",
-          "score": 5
+          "word": "escándalo",
+          "score": -3
         },
         {
-          "word": "alcanzado",
-          "score": 1
+          "word": "frases",
+          "score": -2
+        },
+        {
+          "word": "criminal",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La UCO no encuentra ingresos opacos de Begoña Gómez en su último informe sobre e",
-      "score": 4.63,
+      "title": "La Policía encontró en el despacho de Zapatero joyas y relojes que él atribuye a",
+      "score": 5.5,
       "words": [
         {
-          "word": "acusar",
-          "score": -2
+          "word": "joyas",
+          "score": 1
         },
         {
-          "word": "realizar",
-          "score": 2
+          "word": "joyas",
+          "score": 1
         },
         {
-          "word": "sospecha",
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "valor",
+          "word": "fuerte",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero desmiente \"tajantemente\" haber influido en el rescate de Plus Ultra y h",
+      "score": 4.51,
+      "words": [
+        {
+          "word": "rescate",
           "score": 2
         },
         {
-          "word": "valor",
+          "word": "rescate",
           "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "sorprendido",
+          "score": -2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Esperando una explicación",
+      "score": 4.44,
+      "words": [
+        {
+          "word": "esperando",
+          "score": 2
+        },
+        {
+          "word": "esperando",
+          "score": 2
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "desesperado",
+          "score": -3
         }
       ]
     },
@@ -247,34 +362,7 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Esperando una explicación",
-      "score": 4.44,
-      "words": [
-        {
-          "word": "esperando",
-          "score": 2
-        },
-        {
-          "word": "esperando",
-          "score": 2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "desesperado",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Felipe González, sobre Zapatero: \"No lo veo con capacidad para montar una ingeni",
+      "title": "Felipe González pide elecciones anticipadas y no ve a Zapatero \"con capacidad pa",
       "score": 5.27,
       "words": [
         {
@@ -301,145 +389,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero desmiente \"tajantemente\" haber influido en el rescate de Plus Ultra y h",
-      "score": 4.51,
+      "title": "El PP responde al PNV: \"Son los socios los que deben moverse\"",
+      "score": 5.1,
       "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "sorprendido",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Zapatero, de los indicios a las dudas, con Ignacio Escolar",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "frases",
-          "score": -2
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Menos credulidad y más presunción de inocencia",
-      "score": 4.5,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
         {
           "word": "apoyo",
           "score": 2
         },
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "justicia",
+          "word": "irresponsable",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Empresas inactivas, deuda fallida, un préstamo “fraudulento\": la red de Julio Ma",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "deuda",
-          "score": -2
         },
         {
-          "word": "fraudulento",
-          "score": -4
+          "word": "descartado",
+          "score": -1
         },
         {
-          "word": "deuda",
-          "score": -2
-        },
-        {
-          "word": "fraudulento",
-          "score": -4
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un escándalo de agresiones sexuales y violencia contra menores sacude París con ",
-      "score": 3.61,
-      "words": [
-        {
-          "word": "escándalo",
+          "word": "delito",
           "score": -3
         },
         {
-          "word": "agresiones",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "agresiones",
-          "score": -2
+          "word": "irresponsable",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-09T18:56:47Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-05-09T19:57:27Z",
       "score": 4.61
@@ -1107,6 +1083,10 @@
     {
       "timestamp": "2026-05-25T12:26:52Z",
       "score": 4.86
+    },
+    {
+      "timestamp": "2026-05-25T15:48:58Z",
+      "score": 4.87
     }
   ]
 }

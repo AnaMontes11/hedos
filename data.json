@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-24T23:58:38Z",
-  "global_score": 4.83,
-  "articles_scored": 86,
-  "words_matched": 244,
+  "generated": "2026-05-25T04:25:07Z",
+  "global_score": 4.8,
+  "articles_scored": 85,
+  "words_matched": 289,
   "top_negative": [
+    {
+      "word": "fraudulento",
+      "score": -4
+    },
     {
       "word": "fraude",
       "score": -4
@@ -13,19 +17,15 @@
       "score": -4
     },
     {
+      "word": "tortura",
+      "score": -4
+    },
+    {
       "word": "torturas",
       "score": -4
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "delitos",
+      "word": "escándalos",
       "score": -3
     },
     {
@@ -33,15 +33,11 @@
       "score": -3
     },
     {
-      "word": "morir",
+      "word": "criminal",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganador",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -51,40 +47,81 @@
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "exultante",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "excelente",
-      "score": 3
-    },
-    {
-      "word": "agradable",
+      "word": "emoción",
       "score": 3
     },
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "medalla",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.87,
-    "elDiario.es": 5.1,
+    "El País": 5.7,
+    "elDiario.es": 4.84,
     "El Mundo": 4.57,
-    "ABC": 5.03,
-    "El Confidencial": 3.9,
-    "BBC Mundo": 3.57,
-    "France 24 ES": 4.84,
-    "La Nación AR": 5.37,
+    "ABC": 4.72,
+    "El Confidencial": 5.08,
+    "BBC Mundo": 3.23,
+    "France 24 ES": 5.62,
+    "La Nación AR": 4.06,
     "La Jornada MX": 4.87,
     "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 5.87
+    "Resumen Latinoam.": 5.91
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Plus Ultra, la aerolínea de nicho que accedió al rescate público con un 19% del ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El ‘caso Plus Ultra’ sacude al negocio de la influencia política: “El ‘lobby’ no",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "agravado",
+          "score": -2
+        },
+        {
+          "word": "escándalos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Zapatero: Alaska ilimitada",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "fascinante",
+          "score": 3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Estados Unidos ve al alcance de la mano un acuerdo con Irán para reabrir el estr",
@@ -97,97 +134,22 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Miguel Díaz-Canel, el administrador de los restos de la Revolución cubana",
-      "score": 4.36,
+      "source": "elDiario.es",
+      "title": "El juez Calama mezcló indicios de delito con suposiciones de la Policía en el au",
+      "score": 5.19,
       "words": [
         {
-          "word": "restos",
-          "score": -2
-        },
-        {
-          "word": "capaz",
-          "score": 1
-        },
-        {
-          "word": "impulsar",
-          "score": 1
-        },
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Miles de personas protestan en Madrid en defensa de una vivienda digna frente a ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "100.000 viviendas a medias duermen abandonadas desde la crisis en urbanizaciones",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "crisis",
+          "word": "delito",
           "score": -3
         },
         {
-          "word": "fantasma",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PNV ve “irresponsable” que Sánchez siga más allá de 2026 por una “agenda desc",
-      "score": 5.0,
-      "words": [
+          "word": "delito",
+          "score": -3
+        },
         {
-          "word": "irresponsable",
+          "word": "motivado",
           "score": 2
         },
-        {
-          "word": "difícil",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El ‘caso Zapatero’ sacude un final de legislatura agónico",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "lento",
-          "score": -2
-        },
-        {
-          "word": "cumplir",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los investigados del ‘caso Plus Ultra’ celebraron el rescate con ostras y champá",
-      "score": 6.6,
-      "words": [
         {
           "word": "rescate",
           "score": 2
@@ -200,46 +162,235 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Dos empresas fallidas envenenan el futuro judicial de Zapatero",
-      "score": 5.62,
+      "title": "Empresas inactivas, deuda fallida, un préstamo “fraudulento\": la red de Julio Ma",
+      "score": 5.0,
       "words": [
         {
-          "word": "débil",
+          "word": "deuda",
           "score": -2
         },
         {
-          "word": "acusaciones",
+          "word": "fraudulento",
+          "score": -4
+        },
+        {
+          "word": "deuda",
           "score": -2
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "fraudulento",
+          "score": -4
         },
         {
-          "word": "sospecha",
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Zapatero, de los indicios a las dudas, con Ignacio Escolar",
+      "score": 4.75,
+      "words": [
+        {
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "asegura",
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "escándalo",
+          "score": -3
+        },
+        {
+          "word": "frases",
+          "score": -2
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Menos credulidad y más presunción de inocencia",
+      "score": 4.5,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "justicia",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La cúpula de Plus Ultra presumió de poder controlar la causa penal abierta tras ",
-      "score": 4.55,
+      "title": "El PP lleva a récord histórico el gasto del Senado para transporte y viajes ofic",
+      "score": 5.16,
+      "words": [
+        {
+          "word": "aumentado",
+          "score": 1
+        },
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "cumplido",
+          "score": 2
+        },
+        {
+          "word": "solitario",
+          "score": -2
+        },
+        {
+          "word": "motivado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El trágala de Vox al PP en Extremadura y Aragón planea sobre Andalucía: priorida",
+      "score": 4.96,
+      "words": [
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "error",
+          "score": -2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las cuentas pendientes que Vox cobrará a Moreno: parar la ley de Memoria, legali",
+      "score": 4.93,
+      "words": [
+        {
+          "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "error",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "perdido",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Complutense cierra grupos, turnos y asignaturas por los recortes de Ayuso: \"N",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "recortes",
+          "score": -1
+        },
+        {
+          "word": "recortes",
+          "score": -1
+        },
+        {
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "recortes",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Maya Wind, antropóloga israelí: \"Las universidades israelíes operan como cómplic",
+      "score": 4.71,
       "words": [
         {
           "word": "denuncia",
           "score": -2
         },
         {
-          "word": "denuncia",
+          "word": "excusa",
+          "score": -1
+        },
+        {
+          "word": "critica",
           "score": -2
         },
         {
-          "word": "denuncia",
+          "word": "obligatorio",
+          "score": -1
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El imperio mediático de Vincent Bolloré: cómo un millonario logró crear la mayor",
+      "score": 4.49,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "fascista",
           "score": -2
         },
         {
@@ -247,179 +398,24 @@
           "score": -2
         },
         {
-          "word": "aprobado",
-          "score": 2
+          "word": "fascista",
+          "score": -2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "El comienzo de la agonía de Zapatero",
-      "score": 4.93,
+      "source": "El Mundo",
+      "title": "Zapatero reclutó al jefe económico de Moncloa como ponente de un evento para cap",
+      "score": 3.4,
       "words": [
         {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "suficiente",
+          "word": "solo",
           "score": -2
-        },
-        {
-          "word": "aprobado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un directivo de Plus Ultra afirmó por WhatsApp que se reunió con “los Zapatero” ",
-      "score": 5.51,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "realizar",
-          "score": 2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Zapatero y la línea entre el lobby y el tráfico de influencias",
-      "score": 4.91,
-      "words": [
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "importante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PNV ve \"irresponsable\" que Sánchez siga \"más allá de 2026\" con una agenda \"de",
-      "score": 5.19,
-      "words": [
-        {
-          "word": "irresponsable",
-          "score": 2
-        },
-        {
-          "word": "irresponsable",
-          "score": 2
-        },
-        {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "preocupante",
-          "score": -3
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Moncloa responde al PNV que \"respeta pero no comparte\" la idea de Aitor Esteb",
-      "score": 5.64,
-      "words": [
-        {
-          "word": "comparte",
-          "score": 1
-        },
-        {
-          "word": "comparte",
-          "score": 1
-        },
-        {
-          "word": "irresponsable",
-          "score": 2
-        },
-        {
-          "word": "comparte",
-          "score": 1
-        },
-        {
-          "word": "irresponsable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez pone distancia del latido de decepción y fin de ciclo que palpita en el ",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "decepción",
-          "score": -2
-        },
-        {
-          "word": "decepción",
-          "score": -2
-        },
-        {
-          "word": "esperar",
-          "score": -1
-        },
-        {
-          "word": "ansiedad",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-09T15:49:15Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-05-09T16:52:09Z",
       "score": 4.59
@@ -1087,6 +1083,10 @@
     {
       "timestamp": "2026-05-24T23:58:38Z",
       "score": 4.83
+    },
+    {
+      "timestamp": "2026-05-25T04:25:07Z",
+      "score": 4.8
     }
   ]
 }

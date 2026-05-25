@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-25T08:53:46Z",
-  "global_score": 4.75,
-  "articles_scored": 80,
-  "words_matched": 238,
+  "generated": "2026-05-25T12:26:52Z",
+  "global_score": 4.86,
+  "articles_scored": 85,
+  "words_matched": 237,
   "top_negative": [
     {
-      "word": "fraude",
+      "word": "fraudulento",
       "score": -4
     },
     {
@@ -13,11 +13,11 @@
       "score": -4
     },
     {
-      "word": "fraudulento",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "tortura",
       "score": -4
     },
     {
@@ -29,7 +29,7 @@
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "delito",
       "score": -3
     },
     {
@@ -39,6 +39,14 @@
   ],
   "top_positive": [
     {
+      "word": "magnífico",
+      "score": 5
+    },
+    {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
@@ -47,7 +55,11 @@
       "score": 4
     },
     {
-      "word": "hermosa",
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "sentido",
       "score": 3
     },
     {
@@ -55,34 +67,22 @@
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "celebra",
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.52,
-    "elDiario.es": 4.77,
-    "El Mundo": 4.97,
-    "ABC": 4.44,
-    "El Confidencial": 5.84,
-    "BBC Mundo": 3.23,
+    "El País": 4.89,
+    "elDiario.es": 4.61,
+    "El Mundo": 5.27,
+    "ABC": 5.18,
+    "El Confidencial": 5.18,
+    "BBC Mundo": 4.14,
     "France 24 ES": 5.82,
-    "La Nación AR": 4.63,
-    "La Jornada MX": 4.87,
+    "La Nación AR": 5.54,
+    "La Jornada MX": 4.75,
     "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 4.94
+    "Resumen Latinoam.": 4.07
   },
   "articles": [
     {
@@ -92,6 +92,21 @@
       "words": [
         {
           "word": "sospechosos",
+          "score": -1
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las cuentas de Zapatero: 2,6 millones en cinco años en transferencias de empresa",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "sospecha",
           "score": -1
         }
       ]
@@ -124,50 +139,35 @@
     },
     {
       "source": "El País",
-      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Irán dice que ha ",
-      "score": 4.2,
+      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Trump rechaza las",
+      "score": 5.64,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "alcanzado",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "mal",
-          "score": -3
+          "word": "rechaza",
+          "score": -1
         },
         {
           "word": "acuerdo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El estrecho de Oresund, la nueva frontera en la guerra híbrida de Rusia contra l",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
         },
         {
-          "word": "presión",
-          "score": -1
+          "word": "magnífico",
+          "score": 5
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "La UCO no encuentra ingresos opacos de Begoña Gómez en su último informe sobre e",
-      "score": 4.0,
+      "score": 4.63,
       "words": [
         {
           "word": "acusar",
@@ -178,16 +178,16 @@
           "score": 2
         },
         {
-          "word": "pasado",
+          "word": "sospecha",
           "score": -1
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "valor",
+          "score": 2
         },
         {
-          "word": "delito",
-          "score": -3
+          "word": "valor",
+          "score": 2
         }
       ]
     },
@@ -220,28 +220,136 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Dos empresas fallidas envenenan el futuro judicial de Zapatero",
-      "score": 5.62,
+      "title": "El juez Calama copió las conclusiones de la Policía para imputar a Zapatero el l",
+      "score": 4.2,
       "words": [
         {
-          "word": "débil",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "acusaciones",
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "estable",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Esperando una explicación",
+      "score": 4.44,
+      "words": [
+        {
+          "word": "esperando",
+          "score": 2
+        },
+        {
+          "word": "esperando",
+          "score": 2
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "tiempo",
           "score": -2
+        },
+        {
+          "word": "desesperado",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Felipe González, sobre Zapatero: \"No lo veo con capacidad para montar una ingeni",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "deuda",
+          "score": -2
+        },
+        {
+          "word": "fraudulento",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero desmiente \"tajantemente\" haber influido en el rescate de Plus Ultra y h",
+      "score": 4.51,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
         },
         {
           "word": "rescate",
           "score": 2
         },
         {
-          "word": "sospecha",
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "sorprendido",
+          "score": -2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Zapatero, de los indicios a las dudas, con Ignacio Escolar",
+      "score": 4.75,
+      "words": [
+        {
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "escándalo",
+          "score": -3
+        },
+        {
+          "word": "frases",
+          "score": -2
+        },
+        {
+          "word": "criminal",
+          "score": -3
         }
       ]
     },
@@ -301,145 +409,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "🎙 PODCAST | Zapatero, de los indicios a las dudas, con Ignacio Escolar",
-      "score": 4.75,
+      "title": "Un escándalo de agresiones sexuales y violencia contra menores sacude París con ",
+      "score": 3.61,
       "words": [
         {
-          "word": "dudas",
-          "score": -1
+          "word": "escándalo",
+          "score": -3
         },
         {
-          "word": "dudas",
-          "score": -1
+          "word": "agresiones",
+          "score": -2
+        },
+        {
+          "word": "violencia",
+          "score": -3
         },
         {
           "word": "escándalo",
           "score": -3
         },
         {
-          "word": "frases",
+          "word": "agresiones",
           "score": -2
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Esperando una explicación",
-      "score": 4.44,
-      "words": [
-        {
-          "word": "esperando",
-          "score": 2
-        },
-        {
-          "word": "esperando",
-          "score": 2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "desesperado",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Complutense cierra grupos, turnos y asignaturas por los recortes de Ayuso: \"N",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "oferta",
-          "score": 2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "recortes",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Estrangulada por Ayuso y con gigantismo: la Universidad Complutense pierde 140 m",
-      "score": 4.26,
-      "words": [
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP lleva a récord histórico el gasto del Senado para transporte y viajes ofic",
-      "score": 5.16,
-      "words": [
-        {
-          "word": "aumentado",
-          "score": 1
-        },
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "cumplido",
-          "score": 2
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        },
-        {
-          "word": "motivado",
-          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-09T17:48:07Z",
-      "score": 4.45
-    },
     {
       "timestamp": "2026-05-09T18:56:47Z",
       "score": 4.58
@@ -1107,6 +1103,10 @@
     {
       "timestamp": "2026-05-25T08:53:46Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-05-25T12:26:52Z",
+      "score": 4.86
     }
   ]
 }

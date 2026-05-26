@@ -1,19 +1,11 @@
 {
-  "generated": "2026-05-26T16:40:13Z",
-  "global_score": 4.78,
-  "articles_scored": 86,
-  "words_matched": 212,
+  "generated": "2026-05-26T19:17:28Z",
+  "global_score": 4.7,
+  "articles_scored": 89,
+  "words_matched": 221,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
       "word": "fraudulento",
-      "score": -4
-    },
-    {
-      "word": "culo",
       "score": -4
     },
     {
@@ -21,8 +13,16 @@
       "score": -4
     },
     {
+      "word": "fraude",
+      "score": -4
+    },
+    {
       "word": "torturas",
       "score": -4
+    },
+    {
+      "word": "escándalo",
+      "score": -3
     },
     {
       "word": "criminal",
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "advertencias",
+      "word": "retirada",
       "score": -3
     }
   ],
@@ -43,16 +43,12 @@
       "score": 5
     },
     {
-      "word": "ganar",
+      "word": "ganador",
       "score": 4
     },
     {
       "word": "triunfo",
       "score": 4
-    },
-    {
-      "word": "leal",
-      "score": 3
     },
     {
       "word": "bondad",
@@ -63,63 +59,55 @@
       "score": 3
     },
     {
+      "word": "súper",
+      "score": 3
+    },
+    {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.96,
-    "elDiario.es": 4.92,
-    "El Mundo": 4.32,
-    "ABC": 5.99,
+    "El País": 5.16,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.44,
+    "ABC": 5.41,
     "El Confidencial": 4.29,
-    "BBC Mundo": 4.7,
-    "France 24 ES": 4.3,
-    "La Nación AR": 4.65,
+    "BBC Mundo": 4.34,
+    "France 24 ES": 3.76,
+    "La Nación AR": 4.51,
     "La Jornada MX": 4.89,
     "Desinformémonos": 4.58,
-    "Resumen Latinoam.": 4.45
+    "Resumen Latinoam.": 4.89
   },
   "articles": [
     {
       "source": "El País",
       "title": "El juez Calama pospone la declaración de Zapatero al 17 y 18 de junio",
-      "score": 3.8,
+      "score": 4.2,
       "words": [
         {
           "word": "pospone",
           "score": -1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
         }
       ]
     },
     {
       "source": "El País",
       "title": "Última hora de la actualidad política, en directo | Bolaños confía en agotar la ",
-      "score": 5.8,
+      "score": 6.2,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "confianza",
+          "word": "adecuado",
           "score": 1
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -186,57 +174,33 @@
     },
     {
       "source": "El País",
-      "title": "Nuestros ex",
-      "score": 5.0,
+      "title": "Alexia Putellas se despide del Barcelona, adiós a la jugadora que cambió la hist",
+      "score": 5.8,
       "words": [
         {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "enorme",
+          "word": "grande",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "‘Euphoria’ y la caída en desgracia del misógino solitario",
+      "title": "Irán y Estados Unidos intercambian amenazas mientras intensifican sus negociacio",
       "score": 3.4,
       "words": [
         {
-          "word": "desgracia",
-          "score": -2
-        },
-        {
-          "word": "solitario",
+          "word": "amenazas",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Irán acusa a Estados Unidos de violar la tregua por atacar objetivos militares y",
+      "title": "Sánchez explota en Roma su faceta de líder internacional antes de ver al Papa: “",
       "score": 3.4,
       "words": [
         {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "violar",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
+          "word": "hambre",
           "score": -2
         }
       ]
@@ -265,6 +229,33 @@
         {
           "word": "posponer",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Oro venezolano y alertas sobre un financiero vinculado al ‘caso Lezo’: el origen",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "escándalo",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
         }
       ]
     },
@@ -324,54 +315,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Aznar insiste en su “el que pueda hacer, que haga” contra el Gobierno en pleno '",
-      "score": 5.14,
+      "title": "Summerwind desmiente a la UDEF y advierte al juez Calama: no son una empresa pan",
+      "score": 4.87,
       "words": [
         {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "frase",
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "grave",
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "alentado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Junts descarta de nuevo una moción de censura y apremia al PSOE a dar explicacio",
-      "score": 5.23,
-      "words": [
-        {
-          "word": "asegura",
+          "word": "aclara",
           "score": 2
         },
         {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "acusaciones",
+          "word": "error",
           "score": -2
         },
         {
-          "word": "irresponsable",
-          "score": 2
-        },
-        {
-          "word": "irresponsable",
+          "word": "gracias",
           "score": 2
         }
       ]
@@ -405,37 +369,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Oro venezolano y alertas sobre un financiero vinculado al ‘caso Lezo’: el origen",
-      "score": 3.93,
+      "title": "Derecho a dudar",
+      "score": 4.31,
       "words": [
         {
-          "word": "denuncia",
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "acusaciones",
           "score": -2
         },
         {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
+          "word": "condenado",
           "score": -2
         },
         {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
+          "word": "sospechosos",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-10T10:12:03Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-05-10T11:49:33Z",
       "score": 4.77
@@ -1103,6 +1063,10 @@
     {
       "timestamp": "2026-05-26T16:40:13Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-05-26T19:17:28Z",
+      "score": 4.7
     }
   ]
 }

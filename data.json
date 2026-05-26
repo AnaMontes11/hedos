@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-26T00:09:52Z",
-  "global_score": 4.85,
-  "articles_scored": 88,
-  "words_matched": 181,
+  "generated": "2026-05-26T05:00:53Z",
+  "global_score": 4.77,
+  "articles_scored": 89,
+  "words_matched": 245,
   "top_negative": [
     {
       "word": "negro",
@@ -13,8 +13,12 @@
       "score": -4
     },
     {
-      "word": "delito",
-      "score": -3
+      "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "puta",
+      "score": -4
     },
     {
       "word": "escándalo",
@@ -29,11 +33,7 @@
       "score": -3
     },
     {
-      "word": "desesperado",
-      "score": -3
-    },
-    {
-      "word": "peor",
+      "word": "retirada",
       "score": -3
     }
   ],
@@ -43,11 +43,15 @@
       "score": 4
     },
     {
+      "word": "gracioso",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "milagro",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -59,66 +63,47 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "maravillas",
       "score": 3
     },
     {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "calmar",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.4,
-    "elDiario.es": 4.89,
-    "El Mundo": 6.43,
-    "ABC": 4.72,
-    "El Confidencial": 5.46,
-    "BBC Mundo": 4.52,
-    "France 24 ES": 5.08,
-    "La Nación AR": 4.53,
+    "El País": 4.43,
+    "elDiario.es": 4.88,
+    "El Mundo": 5.57,
+    "ABC": 4.8,
+    "El Confidencial": 4.93,
+    "BBC Mundo": 4.42,
+    "France 24 ES": 4.94,
+    "La Nación AR": 5.44,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 4.18,
-    "Resumen Latinoam.": 4.07
+    "Desinformémonos": 4.31,
+    "Resumen Latinoam.": 4.33
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Joyas, relojes y ordenadores: lo que la policía requisó de la oficina de Zapater",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "joyas",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La UDEF apunta a la casa de Zapatero como el escenario de las “instrucciones” de",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La UDEF intervino al amigo de Zapatero una copia del contrato que le adjudicaba ",
-      "score": 5.0,
+      "title": "Zapatero se enfrenta a una investigación de años con ramificaciones en Venezuela",
+      "score": 6.6,
       "words": [
         {
           "word": "rescate",
           "score": 2
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cuatro novedades que nos descubre el sumario del ‘caso Plus Ultra’",
+      "score": 4.2,
+      "words": [
         {
-          "word": "solo",
-          "score": -2
+          "word": "sospechosos",
+          "score": -1
         }
       ]
     },
@@ -134,97 +119,88 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "La Policía acusa a las hijas de Zapatero de emitir facturas para encubrir pagos ",
-      "score": 5.2,
+      "source": "El País",
+      "title": "Sánchez se aferra a la agenda compartida con el Papa en medio de una enorme pres",
+      "score": 4.47,
       "words": [
         {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Zapatero, de los indicios a las dudas, con Ignacio Escolar",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "frases",
-          "score": -2
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Policía encontró en el despacho de Zapatero joyas y relojes que él atribuye a",
-      "score": 5.99,
-      "words": [
-        {
-          "word": "joyas",
+          "word": "enorme",
           "score": 1
         },
         {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "pasado",
+          "word": "presión",
           "score": -1
         },
         {
-          "word": "fuerte",
-          "score": 2
+          "word": "hambre",
+          "score": -2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Zapatero desmiente \"tajantemente\" haber influido en el rescate de Plus Ultra y h",
-      "score": 4.51,
+      "source": "El País",
+      "title": "Los Juegos Aumentados: una noche de delirio hipertrófico en un parking de Las Ve",
+      "score": 3.4,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "rescate",
+          "word": "prohibido",
+          "score": -2
+        },
+        {
+          "word": "burla",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Nuestros ex",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "vacío",
+          "score": -1
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "‘Euphoria’ y la caída en desgracia del misógino solitario",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "desgracia",
+          "score": -2
+        },
+        {
+          "word": "solitario",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Estados Unidos ataca objetivos iraníes “en legítima defensa” en plenas negociaci",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "paz",
           "score": 2
         },
         {
@@ -232,66 +208,66 @@
           "score": 2
         },
         {
-          "word": "sorprendido",
+          "word": "peligro",
           "score": -2
         },
         {
-          "word": "delito",
-          "score": -3
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Esperando una explicación",
-      "score": 4.44,
+      "title": "El sumario del caso Zapatero atribuye a las hijas del presidente un puesto clave",
+      "score": 5.22,
       "words": [
         {
-          "word": "esperando",
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "importante",
           "score": 2
         },
         {
-          "word": "esperando",
-          "score": 2
-        },
-        {
-          "word": "espera",
+          "word": "sospecha",
           "score": -1
         },
         {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "desesperado",
-          "score": -3
+          "word": "valor",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Busca y captura para el antiguo dueño de Plus Ultra por llevarse parte del diner",
-      "score": 5.06,
+      "title": "Oro venezolano y alertas sobre un financiero vinculado al ‘caso Lezo’: el origen",
+      "score": 3.93,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "detención",
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "escándalo",
+          "score": -3
         },
         {
-          "word": "unido",
-          "score": 1
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
         }
       ]
     },
@@ -324,55 +300,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Calama copió las conclusiones de la Policía para imputar a Zapatero el l",
-      "score": 4.2,
+      "title": "Feijóo presiona a PNV y Junts para que le pongan la moción de censura contra Sán",
+      "score": 5.34,
       "words": [
+        {
+          "word": "advertencias",
+          "score": -3
+        },
         {
           "word": "acusa",
           "score": -2
         },
         {
-          "word": "delito",
-          "score": -3
+          "word": "tiempo",
+          "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "joyas",
+          "score": 1
         },
         {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "estable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Calama mezcló indicios de delito con suposiciones de la Policía en el au",
-      "score": 5.19,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "motivado",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "ayuda",
-          "score": 2
+          "word": "acusaciones",
+          "score": -2
         }
       ]
     },
@@ -404,22 +353,61 @@
       ]
     },
     {
-      "source": "El Mundo",
-      "title": "El contrato del 1% de comisión para el testaferro de Zapatero a cambio del resca",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "Busca y captura para el antiguo dueño de Plus Ultra por llevarse parte del diner",
+      "score": 5.06,
       "words": [
         {
           "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Policía encontró en el despacho de Zapatero joyas y relojes que él atribuye a",
+      "score": 5.99,
+      "words": [
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "fuerte",
           "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-10T02:42:31Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-05-10T06:09:25Z",
       "score": 4.8
@@ -1087,6 +1075,10 @@
     {
       "timestamp": "2026-05-26T00:09:52Z",
       "score": 4.85
+    },
+    {
+      "timestamp": "2026-05-26T05:00:53Z",
+      "score": 4.77
     }
   ]
 }

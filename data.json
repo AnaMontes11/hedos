@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-25T22:57:52Z",
-  "global_score": 4.97,
-  "articles_scored": 80,
-  "words_matched": 182,
+  "generated": "2026-05-26T00:09:52Z",
+  "global_score": 4.85,
+  "articles_scored": 88,
+  "words_matched": 181,
   "top_negative": [
     {
       "word": "negro",
@@ -39,8 +39,8 @@
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
+      "word": "ganador",
+      "score": 4
     },
     {
       "word": "ganar",
@@ -51,6 +51,10 @@
       "score": 4
     },
     {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
       "word": "bueno",
       "score": 3
     },
@@ -59,11 +63,7 @@
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
+      "word": "riqueza",
       "score": 3
     },
     {
@@ -77,11 +77,12 @@
     "El Mundo": 6.43,
     "ABC": 4.72,
     "El Confidencial": 5.46,
-    "BBC Mundo": 4.54,
-    "France 24 ES": 4.89,
-    "La Nación AR": 5.07,
+    "BBC Mundo": 4.52,
+    "France 24 ES": 5.08,
+    "La Nación AR": 4.53,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 4.18
+    "Desinformémonos": 4.18,
+    "Resumen Latinoam.": 4.07
   },
   "articles": [
     {
@@ -415,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-09T23:43:46Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-10T02:42:31Z",
       "score": 4.72
@@ -1086,6 +1083,10 @@
     {
       "timestamp": "2026-05-25T22:57:52Z",
       "score": 4.97
+    },
+    {
+      "timestamp": "2026-05-26T00:09:52Z",
+      "score": 4.85
     }
   ]
 }

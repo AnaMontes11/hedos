@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-26T19:17:28Z",
-  "global_score": 4.7,
-  "articles_scored": 89,
-  "words_matched": 221,
+  "generated": "2026-05-26T21:42:05Z",
+  "global_score": 4.63,
+  "articles_scored": 90,
+  "words_matched": 214,
   "top_negative": [
     {
       "word": "fraudulento",
@@ -43,10 +43,6 @@
       "score": 5
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "triunfo",
       "score": 4
     },
@@ -59,32 +55,47 @@
       "score": 3
     },
     {
-      "word": "súper",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "premios",
       "score": 3
     },
     {
       "word": "mejor",
       "score": 3
+    },
+    {
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.16,
+    "El País": 5.12,
     "elDiario.es": 4.94,
-    "El Mundo": 4.44,
-    "ABC": 5.41,
-    "El Confidencial": 4.29,
-    "BBC Mundo": 4.34,
-    "France 24 ES": 3.76,
-    "La Nación AR": 4.51,
+    "El Mundo": 4.59,
+    "ABC": 4.89,
+    "El Confidencial": 5.07,
+    "BBC Mundo": 3.98,
+    "France 24 ES": 3.73,
+    "La Nación AR": 4.47,
     "La Jornada MX": 4.89,
-    "Desinformémonos": 4.58,
-    "Resumen Latinoam.": 4.89
+    "Desinformémonos": 4.27,
+    "Resumen Latinoam.": 4.9
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El retraso de la declaración de Zapatero inquieta al Gobierno porque alarga el c",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "retraso",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El juez Calama pospone la declaración de Zapatero al 17 y 18 de junio",
@@ -93,21 +104,6 @@
         {
           "word": "pospone",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Bolaños confía en agotar la ",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "adecuado",
-          "score": 1
-        },
-        {
-          "word": "asegura",
-          "score": 2
         }
       ]
     },
@@ -190,17 +186,6 @@
       "words": [
         {
           "word": "amenazas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sánchez explota en Roma su faceta de líder internacional antes de ver al Papa: “",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "hambre",
           "score": -2
         }
       ]
@@ -393,13 +378,36 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Aznar insiste en su “el que pueda hacer, que haga” contra el Gobierno en pleno '",
+      "score": 5.14,
+      "words": [
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "frase",
+          "score": -2
+        },
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "alentado",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-10T11:49:33Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-05-10T13:12:43Z",
       "score": 4.86
@@ -1067,6 +1075,10 @@
     {
       "timestamp": "2026-05-26T19:17:28Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-05-26T21:42:05Z",
+      "score": 4.63
     }
   ]
 }

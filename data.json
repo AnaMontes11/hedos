@@ -1,13 +1,9 @@
 {
-  "generated": "2026-05-27T16:34:19Z",
-  "global_score": 4.75,
-  "articles_scored": 85,
-  "words_matched": 196,
+  "generated": "2026-05-27T19:21:39Z",
+  "global_score": 4.54,
+  "articles_scored": 93,
+  "words_matched": 216,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -17,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "fraudulento",
+      "word": "catastrófico",
       "score": -4
     },
     {
@@ -30,6 +26,10 @@
     },
     {
       "word": "criminal",
+      "score": -3
+    },
+    {
+      "word": "falso",
       "score": -3
     },
     {
@@ -47,15 +47,15 @@
       "score": 4
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
       "word": "riqueza",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "ventilador",
+      "score": 3
+    },
+    {
+      "word": "excelente",
       "score": 3
     },
     {
@@ -72,16 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.7,
-    "elDiario.es": 4.79,
-    "El Mundo": 4.24,
-    "El Confidencial": 5.61,
-    "BBC Mundo": 4.63,
-    "France 24 ES": 4.41,
-    "La Nación AR": 4.69,
+    "El País": 5.07,
+    "elDiario.es": 4.85,
+    "El Mundo": 4.19,
+    "ABC": 5.17,
+    "El Confidencial": 5.13,
+    "BBC Mundo": 4.41,
+    "France 24 ES": 4.46,
+    "La Nación AR": 3.92,
     "La Jornada MX": 4.84,
-    "Desinformémonos": 4.5,
-    "Resumen Latinoam.": 5.21
+    "Desinformémonos": 3.99,
+    "Resumen Latinoam.": 4.03
   },
   "articles": [
     {
@@ -138,49 +139,54 @@
     },
     {
       "source": "El País",
-      "title": "Las incógnitas que abre el joyero de los Zapatero: “Concluir su valor con una im",
-      "score": 5.27,
+      "title": "Crystal Palace - Rayo Vallecano en directo | Inicio igualado en la final de Leip",
+      "score": 5.0,
       "words": [
         {
-          "word": "valor",
+          "word": "disputa",
+          "score": -2
+        },
+        {
+          "word": "importante",
           "score": 2
         },
         {
-          "word": "enorme",
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "gloria",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Sevilla rompe el acuerdo con Sergio Ramos para la venta del club: “Nos sentim",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "error",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Democracia en riesgo: la urgencia de un dique cívico",
-      "score": 3.4,
-      "words": [
+          "word": "oferta",
+          "score": 2
+        },
         {
-          "word": "riesgo",
+          "word": "inferior",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El mito izquierdista de Zapatero y la memoria selectiva",
-      "score": 4.2,
-      "words": [
+        },
         {
-          "word": "mito",
-          "score": -1
+          "word": "convence",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "La Audiencia Nacional apunta a que el PSOE pagó a Leire Díez por sus maniobras c",
-      "score": 4.31,
+      "score": 4.38,
       "words": [
         {
           "word": "superior",
@@ -233,28 +239,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Audiencia Nacional imputa a Cerdán, Zarrías y la gerente del PSOE en una nuev",
-      "score": 3.64,
+      "title": "El teniente coronel Balas interroga a dos generales que sufrieron una investigac",
+      "score": 5.36,
       "words": [
         {
-          "word": "cargos",
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "bueno",
+          "score": 3
+        },
+        {
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "esconder",
-          "score": -1
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
+          "word": "superior",
+          "score": 2
         }
       ]
     },
@@ -282,6 +288,33 @@
         {
           "word": "bueno",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Audiencia Nacional imputa a Cerdán, Zarrías y la gerente del PSOE en una nuev",
+      "score": 3.64,
+      "words": [
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "esconder",
+          "score": -1
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "delitos",
+          "score": -3
         }
       ]
     },
@@ -395,10 +428,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-10T17:50:00Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-05-10T18:58:56Z",
       "score": 4.6
@@ -1066,6 +1095,10 @@
     {
       "timestamp": "2026-05-27T16:34:19Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-05-27T19:21:39Z",
+      "score": 4.54
     }
   ]
 }

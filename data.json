@@ -1,11 +1,19 @@
 {
-  "generated": "2026-05-27T08:00:21Z",
-  "global_score": 4.78,
-  "articles_scored": 86,
-  "words_matched": 219,
+  "generated": "2026-05-27T16:34:19Z",
+  "global_score": 4.75,
+  "articles_scored": 85,
+  "words_matched": 196,
   "top_negative": [
     {
+      "word": "negro",
+      "score": -5
+    },
+    {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
@@ -21,45 +29,33 @@
       "score": -4
     },
     {
-      "word": "delitos",
-      "score": -3
-    },
-    {
       "word": "criminal",
       "score": -3
     },
     {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "crisis",
+      "word": "ilegal",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "asombroso",
-      "score": 5
-    },
-    {
-      "word": "alegría",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "ganar",
+      "word": "milagro",
       "score": 4
-    },
-    {
-      "word": "bondad",
-      "score": 3
-    },
-    {
-      "word": "paraíso",
-      "score": 3
     },
     {
       "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -67,57 +63,71 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.33,
-    "elDiario.es": 5.01,
-    "El Mundo": 5.4,
-    "ABC": 5.02,
-    "El Confidencial": 4.99,
-    "BBC Mundo": 4.14,
-    "France 24 ES": 4.59,
-    "La Nación AR": 4.01,
-    "La Jornada MX": 4.89,
-    "Desinformémonos": 4.09,
-    "Resumen Latinoam.": 5.0
+    "El País": 4.7,
+    "elDiario.es": 4.79,
+    "El Mundo": 4.24,
+    "El Confidencial": 5.61,
+    "BBC Mundo": 4.63,
+    "France 24 ES": 4.41,
+    "La Nación AR": 4.69,
+    "La Jornada MX": 4.84,
+    "Desinformémonos": 4.5,
+    "Resumen Latinoam.": 5.21
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Las empresas rescatadas durante la pandemia lo supieron antes de las aprobacione",
+      "title": "Imputados Cerdán, la gerente del PSOE, Zarrías y Leire Díez por una “trama para ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sánchez mantiene su apoyo a Zapatero y no adelantará las elecciones: “No puedo c",
       "score": 6.6,
       "words": [
         {
-          "word": "ayuda",
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "justicia",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La fiscal superior de Madrid abre un expediente contra las dos fiscales que apar",
+      "title": "El PP apremia a los socios de Sánchez: “¿No se les cae la cara de vergüenza?”",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "vergüenza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La fiscal superior de Madrid abre un expediente a las dos fiscales que aparecen ",
       "score": 6.6,
       "words": [
         {
           "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El origen de la investigación a Zapatero: de una red internacional de blanqueo s",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "ayuda",
           "score": 2
         },
         {
@@ -147,28 +157,6 @@
     },
     {
       "source": "El País",
-      "title": "El retraso de la declaración de Zapatero inquieta al Gobierno porque alarga el c",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "retraso",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Alexia Putellas se despide del Barcelona, adiós a la jugadora que cambió la hist",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "grande",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Democracia en riesgo: la urgencia de un dique cívico",
       "score": 3.4,
       "words": [
@@ -191,20 +179,70 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Pedraz envía a la UCO a la sede del PSOE en Ferraz en el caso de Leire D",
-      "score": 3.86,
+      "title": "La Audiencia Nacional apunta a que el PSOE pagó a Leire Díez por sus maniobras c",
+      "score": 4.31,
       "words": [
         {
-          "word": "sospecha",
-          "score": -1
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "superior",
+          "score": 2
         },
         {
           "word": "pasado",
           "score": -1
         },
         {
-          "word": "libertad",
-          "score": 2
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "convencido",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De la causa por cobro de mordidas a cambio de contratos a una trama contra juece",
+      "score": 4.42,
+      "words": [
+        {
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "denunciar",
+          "score": -2
+        },
+        {
+          "word": "acusar",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Audiencia Nacional imputa a Cerdán, Zarrías y la gerente del PSOE en una nuev",
+      "score": 3.64,
+      "words": [
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "esconder",
+          "score": -1
         },
         {
           "word": "delitos",
@@ -213,141 +251,118 @@
         {
           "word": "criminal",
           "score": -3
+        },
+        {
+          "word": "delitos",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El sumario del caso Zapatero: de las sospechas por los ingresos del presidente y",
-      "score": 4.9,
+      "title": "La UCO acude a la Dirección General de la Guardia Civil a por expedientes discip",
+      "score": 5.57,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "dejar",
+          "word": "sospecha",
           "score": -1
         },
         {
-          "word": "resignado",
-          "score": -1
-        },
-        {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El aplazamiento de la comparecencia de Zapatero alarga el vía crucis del Gobiern",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "retraso",
-          "score": -1
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "pospone",
-          "score": -1
-        },
-        {
-          "word": "atrapado",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero y las amistades peligrosas",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "fácil",
+          "word": "lanzado",
           "score": 1
         },
         {
-          "word": "puesto",
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "pospone",
+          "word": "milagro",
+          "score": 4
+        },
+        {
+          "word": "bueno",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez, tras la nueva investigación en el caso de Leire Díez: “No tenemos nada ",
+      "score": 5.75,
+      "words": [
+        {
+          "word": "esconder",
           "score": -1
+        },
+        {
+          "word": "esconder",
+          "score": -1
+        },
+        {
+          "word": "esconder",
+          "score": -1
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "PNV y Junts se abstienen en una moción del PP en el Senado para reprobar los “gr",
+      "score": 4.87,
+      "words": [
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "irresponsable",
+          "score": 2
+        },
+        {
+          "word": "sensible",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP se quita la responsabilidad de \"acabar\" con Sánchez: o el presidente convo",
+      "score": 5.15,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "ladrón",
+          "score": -2
+        },
+        {
+          "word": "honrado",
+          "score": 2
         },
         {
           "word": "solo",
           "score": -2
         },
         {
-          "word": "animado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Summerwind desmiente a la UDEF y advierte al juez Calama: no son una empresa pan",
-      "score": 4.87,
-      "words": [
-        {
-          "word": "advierte",
+          "word": "sorprendido",
           "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "aclara",
-          "score": 2
-        },
-        {
-          "word": "error",
-          "score": -2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Plus Ultra: más allá de Zapatero",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "sospechosos",
-          "score": -1
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "viva",
-          "score": 1
         }
       ]
     },
@@ -380,10 +395,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-10T16:52:14Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-10T17:50:00Z",
       "score": 4.64
@@ -1051,6 +1062,10 @@
     {
       "timestamp": "2026-05-27T08:00:21Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-05-27T16:34:19Z",
+      "score": 4.75
     }
   ]
 }

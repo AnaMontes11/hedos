@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-27T03:31:53Z",
-  "global_score": 4.73,
-  "articles_scored": 88,
-  "words_matched": 206,
+  "generated": "2026-05-27T08:00:21Z",
+  "global_score": 4.78,
+  "articles_scored": 86,
+  "words_matched": 219,
   "top_negative": [
+    {
+      "word": "culo",
+      "score": -4
+    },
     {
       "word": "fraudulento",
       "score": -4
@@ -17,7 +21,7 @@
       "score": -4
     },
     {
-      "word": "escándalo",
+      "word": "delitos",
       "score": -3
     },
     {
@@ -25,15 +29,11 @@
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "falso",
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -43,15 +43,11 @@
       "score": 5
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "alegría",
       "score": 4
     },
     {
-      "word": "triunfo",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -59,32 +55,96 @@
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "paraíso",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.12,
-    "elDiario.es": 4.94,
-    "El Mundo": 4.76,
-    "ABC": 4.86,
-    "El Confidencial": 5.43,
+    "El País": 5.33,
+    "elDiario.es": 5.01,
+    "El Mundo": 5.4,
+    "ABC": 5.02,
+    "El Confidencial": 4.99,
     "BBC Mundo": 4.14,
-    "France 24 ES": 4.4,
-    "La Nación AR": 4.33,
+    "France 24 ES": 4.59,
+    "La Nación AR": 4.01,
     "La Jornada MX": 4.89,
     "Desinformémonos": 4.09,
-    "Resumen Latinoam.": 4.65
+    "Resumen Latinoam.": 5.0
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Las empresas rescatadas durante la pandemia lo supieron antes de las aprobacione",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ayuda",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La fiscal superior de Madrid abre un expediente contra las dos fiscales que apar",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El origen de la investigación a Zapatero: de una red internacional de blanqueo s",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las incógnitas que abre el joyero de los Zapatero: “Concluir su valor con una im",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "error",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El retraso de la declaración de Zapatero inquieta al Gobierno porque alarga el c",
@@ -92,78 +152,6 @@
       "words": [
         {
           "word": "retraso",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez Calama pospone la declaración de Zapatero al 17 y 18 de junio",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "pospone",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Policía pedirá a un joyero una valoración inicial de las joyas encontradas en",
-      "score": 6.4,
-      "words": [
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "realizar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Aznar, tras la investigación a Zapatero: “El que pueda hacer que haga’ cobra más",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "sentido",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez cita a Begoña Gómez a una “audiencia preliminar” el 9 de junio y le advi",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "adoptar",
-          "score": 1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "fuga",
           "score": -1
         }
       ]
@@ -181,120 +169,131 @@
     },
     {
       "source": "El País",
-      "title": "Irán y Estados Unidos intercambian amenazas mientras intensifican sus negociacio",
+      "title": "Democracia en riesgo: la urgencia de un dique cívico",
       "score": 3.4,
       "words": [
         {
-          "word": "amenazas",
+          "word": "riesgo",
           "score": -2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "El juez Calama pospone la declaración de Zapatero al 17 y 18 de junio",
-      "score": 4.71,
+      "source": "El País",
+      "title": "El mito izquierdista de Zapatero y la memoria selectiva",
+      "score": 4.2,
       "words": [
         {
-          "word": "pospone",
-          "score": -1
-        },
-        {
-          "word": "pospone",
-          "score": -1
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "aceptado",
-          "score": -1
-        },
-        {
-          "word": "posponer",
+          "word": "mito",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Oro venezolano y alertas sobre un financiero vinculado al ‘caso Lezo’: el origen",
-      "score": 3.93,
+      "title": "El juez Pedraz envía a la UCO a la sede del PSOE en Ferraz en el caso de Leire D",
+      "score": 3.86,
       "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El sumario del caso Zapatero atribuye a las hijas del presidente un puesto clave",
-      "score": 5.22,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
         {
           "word": "sospecha",
           "score": -1
         },
         {
-          "word": "valor",
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "libertad",
           "score": 2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "criminal",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El contrato de Julio Martínez prometía a Plus Ultra un rescate en un \"periodo co",
-      "score": 5.27,
+      "title": "El sumario del caso Zapatero: de las sospechas por los ingresos del presidente y",
+      "score": 4.9,
       "words": [
         {
           "word": "rescate",
           "score": 2
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "puesto",
+          "score": -2
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "dejar",
+          "score": -1
         },
         {
-          "word": "riesgo",
+          "word": "resignado",
+          "score": -1
+        },
+        {
+          "word": "condena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El aplazamiento de la comparecencia de Zapatero alarga el vía crucis del Gobiern",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "retraso",
+          "score": -1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "pospone",
+          "score": -1
+        },
+        {
+          "word": "atrapado",
           "score": -2
         },
         {
           "word": "puesto",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero y las amistades peligrosas",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "fácil",
+          "score": 1
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "pospone",
+          "score": -1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "animado",
+          "score": 2
         }
       ]
     },
@@ -327,91 +326,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Las agendas del amigo de Zapatero revelan que mezclaba negocios y gestiones polí",
-      "score": 5.18,
+      "title": "🎙 PODCAST | Plus Ultra: más allá de Zapatero",
+      "score": 6.2,
       "words": [
         {
-          "word": "capacidad",
+          "word": "rescate",
           "score": 2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "frase",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Derecho a dudar",
-      "score": 4.31,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "condenado",
-          "score": -2
         },
         {
           "word": "sospechosos",
           "score": -1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "viva",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Aznar insiste en su “el que pueda hacer, que haga” contra el Gobierno en pleno '",
-      "score": 5.14,
+      "title": "La confesión de 'El Gordo' y los audios de Villarejo que señalan al PP en Kitche",
+      "score": 4.34,
       "words": [
         {
-          "word": "sentido",
-          "score": 3
+          "word": "impedido",
+          "score": -1
         },
         {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "frase",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "grave",
+          "word": "ausente",
+          "score": -1
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "alentado",
-          "score": 2
+          "word": "sufre",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-10T15:50:56Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-10T16:52:14Z",
       "score": 4.75
@@ -1079,6 +1047,10 @@
     {
       "timestamp": "2026-05-27T03:31:53Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-05-27T08:00:21Z",
+      "score": 4.78
     }
   ]
 }

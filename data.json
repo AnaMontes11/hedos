@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-28T18:08:34Z",
-  "global_score": 4.49,
-  "articles_scored": 89,
-  "words_matched": 237,
+  "generated": "2026-05-28T21:06:01Z",
+  "global_score": 4.54,
+  "articles_scored": 91,
+  "words_matched": 234,
   "top_negative": [
     {
       "word": "culo",
@@ -17,11 +17,11 @@
       "score": -4
     },
     {
-      "word": "tortura",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "tortura",
       "score": -4
     },
     {
@@ -43,19 +43,11 @@
       "score": 4
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "caro",
+      "word": "exitoso",
       "score": 3
     },
     {
       "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "cortés",
       "score": 3
     },
     {
@@ -69,25 +61,52 @@
     {
       "word": "mejor",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.68,
-    "elDiario.es": 4.78,
+    "El País": 3.92,
+    "elDiario.es": 4.74,
     "El Mundo": 4.0,
-    "ABC": 4.88,
-    "El Confidencial": 4.8,
-    "BBC Mundo": 4.41,
-    "France 24 ES": 4.42,
-    "La Nación AR": 5.69,
+    "ABC": 5.45,
+    "El Confidencial": 4.97,
+    "BBC Mundo": 4.48,
+    "France 24 ES": 4.6,
+    "La Nación AR": 4.84,
     "La Jornada MX": 3.96,
-    "Desinformémonos": 4.61,
-    "Resumen Latinoam.": 4.41
+    "Desinformémonos": 4.66,
+    "Resumen Latinoam.": 4.23
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Sánchez solicita una compare",
+      "title": "Sánchez solicita una comparecencia en el Congreso para rendir cuentas por los es",
+      "score": 2.87,
+      "words": [
+        {
+          "word": "escándalos",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "conspiración",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | ERC, Podemos, BNG y Compromí",
       "score": 3.13,
       "words": [
         {
@@ -101,21 +120,6 @@
         {
           "word": "denuncia",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Gobierno denuncia una conspiración para derribarlo “con métodos no democrátic",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "conspiración",
-          "score": -3
         }
       ]
     },
@@ -169,15 +173,15 @@
     },
     {
       "source": "El País",
-      "title": "Sinner colapsa de nuevo y Roland Garros pierde al gran favorito",
-      "score": 4.6,
+      "title": "Sinner y el calor, por ahora irreconciliables: “Esto puede suceder, nadie es un ",
+      "score": 6.6,
       "words": [
         {
-          "word": "pierde",
-          "score": -3
+          "word": "calor",
+          "score": 2
         },
         {
-          "word": "favorito",
+          "word": "sol",
           "score": 2
         }
       ]
@@ -384,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-11T10:36:07Z",
-      "score": 4.55
-    },
     {
       "timestamp": "2026-05-11T13:46:18Z",
       "score": 4.57
@@ -1055,6 +1055,10 @@
     {
       "timestamp": "2026-05-28T18:08:34Z",
       "score": 4.49
+    },
+    {
+      "timestamp": "2026-05-28T21:06:01Z",
+      "score": 4.54
     }
   ]
 }

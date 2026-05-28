@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-28T10:53:07Z",
-  "global_score": 4.58,
-  "articles_scored": 91,
-  "words_matched": 242,
+  "generated": "2026-05-28T14:35:59Z",
+  "global_score": 4.36,
+  "articles_scored": 92,
+  "words_matched": 206,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraude",
+      "word": "tortura",
       "score": -4
     },
     {
@@ -17,11 +17,7 @@
       "score": -4
     },
     {
-      "word": "puta",
-      "score": -4
-    },
-    {
-      "word": "tortura",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -29,19 +25,19 @@
       "score": -4
     },
     {
-      "word": "soborno",
+      "word": "conspiración",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "pierde",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "triunfo",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -51,52 +47,94 @@
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "cortés",
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "excelencia",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "mayor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.82,
-    "elDiario.es": 4.47,
-    "El Mundo": 3.96,
-    "ABC": 5.11,
-    "El Confidencial": 6.03,
-    "BBC Mundo": 4.43,
-    "France 24 ES": 3.42,
-    "La Nación AR": 5.23,
-    "La Jornada MX": 4.84,
+    "El País": 3.81,
+    "elDiario.es": 4.6,
+    "El Mundo": 3.72,
+    "ABC": 4.89,
+    "El Confidencial": 5.68,
+    "BBC Mundo": 4.77,
+    "France 24 ES": 3.76,
+    "La Nación AR": 4.6,
+    "La Jornada MX": 3.96,
     "Desinformémonos": 4.36,
-    "Resumen Latinoam.": 4.81
+    "Resumen Latinoam.": 4.11
   },
   "articles": [
     {
       "source": "El País",
-      "title": "22 reuniones en Ferraz, pagos a Leire Díez e intentos de soborno: Cerdán arrastr",
-      "score": 3.4,
+      "title": "El Gobierno denuncia una conspiración para derribarlo “con métodos no democrátic",
+      "score": 3.13,
       "words": [
         {
-          "word": "soborno",
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "conspiración",
           "score": -3
         },
         {
-          "word": "arrastra",
+          "word": "niega",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | El PSOE niega haber “ordenad",
+      "score": 3.6,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "demanda",
           "score": -1
+        },
+        {
+          "word": "problema",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El PNV descarta la moción de censura, pero insiste: “Hay que poner el foco sobre",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "problema",
+          "score": -2
         }
       ]
     },
@@ -113,38 +151,38 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | El PNV considera que la legi",
-      "score": 3.8,
+      "title": "Fernández Díaz y su ex número dos se contradicen en el juicio de Kitchen, pero r",
+      "score": 4.2,
       "words": [
         {
-          "word": "demanda",
+          "word": "tensión",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La Fiscalía ve prescrito uno de los delitos por los que el hermano de Sánchez se",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sinner colapsa de nuevo y Roland Garros pierde al gran favorito",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "pierde",
+          "score": -3
         },
         {
-          "word": "miedo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Juicio de Kitchen por la trama de corrupción policial vinculada al PP, en direct",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La defensa del hermano de Sánchez esgrime que la causa tiene la “raíz podrida”",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
+          "word": "favorito",
+          "score": 2
         }
       ]
     },
@@ -169,10 +207,45 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El exministro Fernández Díaz declara en el juicio de Kitchen acusado de ser la X",
-      "score": 4.42,
+      "title": "Fernández Díaz contradice a su número dos y declara que supo de la Operación Kit",
+      "score": 4.47,
       "words": [
         {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "confidente",
+          "score": 2
+        },
+        {
+          "word": "compartir",
+          "score": 1
+        },
+        {
+          "word": "negar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Fernández Díaz publica una columna sobre la \"situación inaudita\" del caso Leire ",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
           "word": "acusado",
           "score": -2
         },
@@ -181,15 +254,34 @@
           "score": -2
         },
         {
+          "word": "responsable",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El ex número dos de Interior del PP niega que existiera la Kitchen y dice que so",
+      "score": 4.1,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
           "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "autor",
           "score": -2
         }
       ]
@@ -223,55 +315,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "David Sánchez pide la nulidad de la causa por su contrato en la Diputación: \"Est",
-      "score": 3.97,
+      "title": "El exministro Fernández Díaz declara en el juicio de Kitchen acusado de ser la X",
+      "score": 4.42,
       "words": [
         {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "atacado",
-          "score": -1
-        },
-        {
-          "word": "denuncia",
+          "word": "acusado",
           "score": -2
         },
         {
-          "word": "recortes",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "David Sánchez, en el banquillo: guía para seguir el juicio contra el hermano del",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "cargos",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "puesto",
+          "word": "acusado",
           "score": -2
         },
         {
-          "word": "denuncia",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "fraude",
-          "score": -4
+          "word": "autor",
+          "score": -2
         }
       ]
     },
@@ -328,94 +393,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Page advierte a Pedro Sánchez de que la \"estrategia del búnker\" termina \"dentro ",
-      "score": 5.17,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un simulacro de incendio mientras las llamas devoran el Congreso",
-      "score": 4.57,
-      "words": [
-        {
-          "word": "susto",
-          "score": -2
-        },
-        {
-          "word": "golpe",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "preparado",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Guía del caso Leire: de desnudar las cloacas del PP a desprestigiar a quienes in",
-      "score": 3.91,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "detenido",
-          "score": -1
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-11T02:52:06Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-05-11T06:37:44Z",
       "score": 4.92
@@ -1083,6 +1063,10 @@
     {
       "timestamp": "2026-05-28T10:53:07Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-05-28T14:35:59Z",
+      "score": 4.36
     }
   ]
 }

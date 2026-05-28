@@ -1,11 +1,19 @@
 {
-  "generated": "2026-05-28T02:51:56Z",
-  "global_score": 4.74,
-  "articles_scored": 94,
-  "words_matched": 217,
+  "generated": "2026-05-28T06:52:42Z",
+  "global_score": 4.71,
+  "articles_scored": 89,
+  "words_matched": 239,
   "top_negative": [
     {
+      "word": "negro",
+      "score": -5
+    },
+    {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "puta",
       "score": -4
     },
     {
@@ -17,37 +25,25 @@
       "score": -4
     },
     {
+      "word": "tortura",
+      "score": -4
+    },
+    {
       "word": "violación",
       "score": -4
     },
     {
-      "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "falso",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "delitos",
+      "word": "soborno",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "triunfo",
       "score": 4
     },
     {
-      "word": "milagro",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -59,27 +55,31 @@
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "bonito",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.0,
-    "elDiario.es": 4.85,
+    "El País": 3.95,
+    "elDiario.es": 4.62,
     "El Mundo": 3.73,
-    "ABC": 4.55,
-    "El Confidencial": 5.13,
-    "BBC Mundo": 4.04,
-    "France 24 ES": 4.85,
-    "La Nación AR": 5.4,
+    "ABC": 5.87,
+    "El Confidencial": 5.94,
+    "BBC Mundo": 4.05,
+    "France 24 ES": 4.15,
+    "La Nación AR": 4.4,
     "La Jornada MX": 4.84,
     "Desinformémonos": 4.43,
     "Resumen Latinoam.": 5.17
@@ -87,117 +87,115 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Imputados Cerdán, la gerente del PSOE, Zarrías y Leire Díez por una “trama para ",
+      "title": "22 reuniones en Ferraz, pagos a Leire Díez e intentos de soborno: Cerdán arrastr",
       "score": 3.4,
       "words": [
         {
-          "word": "cargos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sánchez mantiene su apoyo a Zapatero y no adelantará las elecciones: “No puedo c",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
+          "word": "soborno",
+          "score": -3
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "arrastra",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El PP apremia a los socios de Sánchez: “¿No se les cae la cara de vergüenza?”",
-      "score": 3.4,
+      "title": "Santos Cerdán, presunto cabecilla de dos tramas criminales gestadas en el núcleo",
+      "score": 2.6,
       "words": [
         {
-          "word": "vergüenza",
-          "score": -2
+          "word": "criminales",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La fiscal superior de Madrid abre un expediente a las dos fiscales que aparecen ",
-      "score": 6.6,
+      "title": "Sánchez ordena resistir tras una nueva jornada negra de presión judicial por los",
+      "score": 4.2,
       "words": [
         {
-          "word": "superior",
-          "score": 2
+          "word": "presión",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Liderazgos de izquierda: en busca de autoridad moral",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "autoridad",
+          "score": 1
         },
         {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Crystal Palace apaga la ilusión del Rayo Vallecano en la final de la Conferen",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "lucha",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Íñigo Pérez, tras la derrota: “Lo que te rompe por dentro es ver a la gente llor",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "llorar",
+          "word": "daño",
           "score": -2
         },
         {
-          "word": "orgullo",
+          "word": "compromiso",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Y Vallecas convirtió el duelo en fiesta",
-      "score": 6.6,
-      "words": [
+        },
         {
-          "word": "héroes",
+          "word": "ético",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La Audiencia Nacional apunta a que el PSOE pagó a Leire Díez por sus maniobras c",
-      "score": 4.38,
+      "title": "El juez eleva al PSOE la responsabilidad sobre las maniobras de Leire Díez contr",
+      "score": 4.56,
       "words": [
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "superior",
-          "score": 2
-        },
         {
           "word": "pasado",
           "score": -1
         },
         {
-          "word": "solo",
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "cancela",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Caso Leire: de desnudar las cloacas del PP a desprestigiar a quienes investigaba",
+      "score": 3.91,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "acusado",
           "score": -2
         },
         {
-          "word": "convencido",
-          "score": -1
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "destruir",
+          "score": -3
         }
       ]
     },
@@ -230,6 +228,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Moncloa se lava las manos del ‘caso Leire’: “El presidente no tiene nada que ver",
+      "score": 5.07,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "sospecha",
+          "score": -1
+        },
+        {
+          "word": "bueno",
+          "score": 3
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "ora",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El teniente coronel Balas interroga a dos generales que sufrieron una investigac",
       "score": 5.36,
       "words": [
@@ -257,145 +282,152 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La UCO acude a la Dirección General de la Guardia Civil a por expedientes discip",
-      "score": 5.57,
+      "title": "David Sánchez, en el banquillo: guía para seguir el juicio contra el hermano del",
+      "score": 4.2,
       "words": [
         {
-          "word": "sospecha",
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "recortes",
           "score": -1
         },
         {
-          "word": "lanzado",
+          "word": "fraude",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un simulacro de incendio mientras las llamas devoran el Congreso",
+      "score": 4.57,
+      "words": [
+        {
+          "word": "susto",
+          "score": -2
+        },
+        {
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "preparado",
           "score": 1
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "milagro",
-          "score": 4
-        },
-        {
-          "word": "bueno",
-          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La Audiencia Nacional imputa a Cerdán, Zarrías y la gerente del PSOE en una nuev",
-      "score": 3.64,
+      "title": "🎙 PODCAST | La línea de puntos que lleva a la UCO a Ferraz",
+      "score": 5.71,
       "words": [
         {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "esconder",
-          "score": -1
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez, tras la nueva investigación en el caso de Leire Díez: “No tenemos nada ",
-      "score": 5.75,
-      "words": [
-        {
-          "word": "esconder",
-          "score": -1
-        },
-        {
-          "word": "esconder",
-          "score": -1
-        },
-        {
-          "word": "esconder",
-          "score": -1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "PNV y Junts se abstienen en una moción del PP en el Senado para reprobar los “gr",
-      "score": 4.87,
-      "words": [
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "irresponsable",
-          "score": 2
-        },
-        {
-          "word": "sensible",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP se quita la responsabilidad de \"acabar\" con Sánchez: o el presidente convo",
-      "score": 5.15,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "ladrón",
-          "score": -2
-        },
-        {
-          "word": "honrado",
-          "score": 2
+          "word": "proteger",
+          "score": 1
         },
         {
           "word": "solo",
           "score": -2
         },
         {
-          "word": "sorprendido",
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "sentencia",
           "score": -2
+        },
+        {
+          "word": "importante",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El 'caso Leire' devuelve al foco judicial a Zarrías, último patriarca del 'Antig",
+      "score": 3.98,
+      "words": [
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "condenado",
+          "score": -2
+        },
+        {
+          "word": "boicotear",
+          "score": -2
+        },
+        {
+          "word": "imparable",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El exministro Fernández Díaz declara en el juicio de Kitchen acusado de ser la X",
+      "score": 4.42,
+      "words": [
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "autor",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "El PSOE persiguió a jueces, fiscales y la UCO \"por orden del 'One'\" y tuvo a sue",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "criminal",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-10T22:43:28Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-05-10T23:50:24Z",
       "score": 4.84
@@ -1063,6 +1095,10 @@
     {
       "timestamp": "2026-05-28T02:51:56Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-05-28T06:52:42Z",
+      "score": 4.71
     }
   ]
 }

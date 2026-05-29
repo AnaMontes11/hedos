@@ -1,15 +1,15 @@
 {
-  "generated": "2026-05-29T06:53:57Z",
-  "global_score": 4.6,
-  "articles_scored": 89,
-  "words_matched": 294,
+  "generated": "2026-05-29T10:43:16Z",
+  "global_score": 4.7,
+  "articles_scored": 92,
+  "words_matched": 328,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "tortura",
+      "word": "violación",
       "score": -4
     },
     {
@@ -21,25 +21,37 @@
       "score": -4
     },
     {
-      "word": "ilegal",
+      "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "conspiración",
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "odio",
       "score": -3
     },
     {
-      "word": "morir",
-      "score": -3
-    },
-    {
-      "word": "advertencia",
+      "word": "retirada",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "gracioso",
+      "score": 4
+    },
+    {
+      "word": "victorias",
       "score": 4
     },
     {
@@ -51,40 +63,47 @@
       "score": 3
     },
     {
-      "word": "impresionante",
+      "word": "encanto",
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "exitoso",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "mejor",
+      "word": "maravilla",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.97,
-    "elDiario.es": 4.81,
-    "El Mundo": 5.5,
-    "ABC": 4.42,
-    "El Confidencial": 5.66,
-    "BBC Mundo": 4.31,
-    "France 24 ES": 3.72,
-    "La Nación AR": 4.88,
+    "El País": 4.56,
+    "elDiario.es": 4.75,
+    "El Mundo": 4.71,
+    "ABC": 5.67,
+    "El Confidencial": 4.59,
+    "BBC Mundo": 4.51,
+    "France 24 ES": 4.97,
+    "La Nación AR": 5.38,
     "La Jornada MX": 3.96,
     "Desinformémonos": 4.05,
-    "Resumen Latinoam.": 5.01
+    "Resumen Latinoam.": 4.57
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Junts espera que Sánchez con",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "conspiración",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Dos investigaciones sobre pagos del PSOE con un nexo común: los secretarios de O",
@@ -109,24 +128,39 @@
     },
     {
       "source": "El País",
-      "title": "Plus Ultra, Tubos Reunidos, Air Europa y Duro Felguera: los rescates que han aca",
-      "score": 5.6,
+      "title": "Dos heridos al impactar un dron ruso contra un edificio de viviendas en Rumania",
+      "score": 3.4,
       "words": [
         {
-          "word": "duro",
+          "word": "grave",
           "score": -2
         },
         {
-          "word": "rescates",
-          "score": 2
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "condena",
+          "score": -2
         },
         {
-          "word": "concesión",
-          "score": 1
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La falta de tropas en Ucrania abre el debate  sobre el reclutamiento de mujeres",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
         }
       ]
     },
@@ -138,6 +172,36 @@
         {
           "word": "triunfo",
           "score": 4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Qué pasó con los tres niños abandonados en una estación de Barcelona tras bajar",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "cuidado",
+          "score": 2
+        },
+        {
+          "word": "revive",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Simone Biles: “Odio el ejercicio, después de tantos años creo que me merezco un ",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "retirada",
+          "score": -3
         }
       ]
     },
@@ -165,202 +229,56 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Sin hormonas: la odisea para encontrar Lenzetto, el medicamento más escaso de Es",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "problemas",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Fernández Díaz y su 'número dos' escenifican en Kitchen un pacto de no agresión ",
-      "score": 4.44,
+      "title": "Trump comparte con Israel un preacuerdo con Irán que golpea las ambiciones de Ne",
+      "score": 4.9,
       "words": [
         {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "evita",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Fernández Díaz contradice a su número dos y declara que supo de la Operación Kit",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "confidente",
-          "score": 2
-        },
-        {
-          "word": "compartir",
+          "word": "comparte",
           "score": 1
         },
         {
-          "word": "negar",
+          "word": "comparte",
+          "score": 1
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "fuego",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La presión de los socios fuerza a Sánchez a cambiar de idea y dar explicaciones ",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "presión",
-          "score": -1
         },
         {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "obligado",
+          "word": "acuerdo",
           "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Un tráfico de influencias para el rescate de Plus Ultra sin influencia acreditad",
-      "score": 5.46,
+      "title": "Sanam Naraghi, activista iraní: “Para que haya paz en Oriente Medio, es esencial",
+      "score": 5.15,
       "words": [
         {
-          "word": "rescate",
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "rescate",
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "ayuda",
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "A mí no me hable de la Kitchen, yo sólo era el jefe de todos los acusados",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Puente, al rescate",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "rescate",
+          "word": "justicia",
           "score": 2
         },
         {
-          "word": "rescate",
+          "word": "paz",
           "score": 2
-        },
-        {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "provocado",
-          "score": -1
-        },
-        {
-          "word": "devastador",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Hacienda abre una inspección a Quirón Prevención, principal pagador de la pareja",
-      "score": 4.25,
-      "words": [
-        {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "riesgos",
-          "score": -2
-        },
-        {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "impuesto",
-          "score": -1
         }
       ]
     },
@@ -393,37 +311,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU dice que ha llegado a un preacuerdo con Irán para prorrogar el alto el fueg",
-      "score": 5.05,
+      "title": "La OTAN condena la \"imprudencia\" de Rusia tras el impacto de un dron en un edifi",
+      "score": 4.35,
       "words": [
         {
-          "word": "fuego",
+          "word": "condena",
           "score": -2
         },
         {
-          "word": "fuego",
+          "word": "condena",
           "score": -2
         },
         {
-          "word": "alcanzado",
-          "score": 1
+          "word": "grave",
+          "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "espera",
+          "word": "disparar",
           "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "\"Una avalancha de calumnias\": E. Jean Carroll cuenta cómo es su vida tras denunc",
+      "score": 4.7,
+      "words": [
+        {
+          "word": "denunciar",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "denunciar",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "sincero",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La presión de los socios fuerza a Sánchez a cambiar de idea y dar explicaciones ",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "obligado",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-11T20:49:06Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-05-11T22:04:55Z",
       "score": 4.36
@@ -1091,6 +1059,10 @@
     {
       "timestamp": "2026-05-29T06:53:57Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-05-29T10:43:16Z",
+      "score": 4.7
     }
   ]
 }

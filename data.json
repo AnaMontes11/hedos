@@ -1,23 +1,19 @@
 {
-  "generated": "2026-05-29T02:55:22Z",
-  "global_score": 4.54,
-  "articles_scored": 81,
-  "words_matched": 207,
+  "generated": "2026-05-29T06:53:57Z",
+  "global_score": 4.6,
+  "articles_scored": 89,
+  "words_matched": 294,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
+      "word": "tortura",
+      "score": -4
+    },
+    {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "torturas",
-      "score": -4
-    },
-    {
-      "word": "puta",
       "score": -4
     },
     {
@@ -25,15 +21,19 @@
       "score": -4
     },
     {
-      "word": "tortura",
-      "score": -4
-    },
-    {
-      "word": "escándalos",
+      "word": "ilegal",
       "score": -3
     },
     {
-      "word": "conspiración",
+      "word": "vil",
+      "score": -3
+    },
+    {
+      "word": "morir",
+      "score": -3
+    },
+    {
+      "word": "advertencia",
       "score": -3
     }
   ],
@@ -51,103 +51,82 @@
       "score": 3
     },
     {
-      "word": "cortés",
+      "word": "impresionante",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "exitoso",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     },
     {
       "word": "mejor",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.26,
-    "elDiario.es": 4.74,
-    "El Mundo": 5.66,
-    "El Confidencial": 4.8,
-    "BBC Mundo": 4.5,
-    "France 24 ES": 3.53,
-    "La Nación AR": 5.23,
+    "El País": 4.97,
+    "elDiario.es": 4.81,
+    "El Mundo": 5.5,
+    "ABC": 4.42,
+    "El Confidencial": 5.66,
+    "BBC Mundo": 4.31,
+    "France 24 ES": 3.72,
+    "La Nación AR": 4.88,
     "La Jornada MX": 3.96,
     "Desinformémonos": 4.05,
-    "Resumen Latinoam.": 5.08
+    "Resumen Latinoam.": 5.01
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Sánchez solicita una comparecencia en el Congreso para rendir cuentas por los es",
-      "score": 2.87,
-      "words": [
-        {
-          "word": "escándalos",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "conspiración",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PNV descarta la moción de censura, pero insiste: “Hay que poner el foco sobre",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "problema",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El abogado del empresario Julio Martínez, amigo de Zapatero, renuncia a su defen",
+      "title": "Dos investigaciones sobre pagos del PSOE con un nexo común: los secretarios de O",
       "score": 4.2,
       "words": [
         {
-          "word": "renuncia",
+          "word": "sospecha",
           "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Fernández Díaz y su ex número dos se contradicen en el juicio de Kitchen, pero r",
-      "score": 3.8,
+      "title": "El debate sobre una moción de censura se acelera en un PP impaciente: “Algo hay ",
+      "score": 3.4,
       "words": [
         {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "niega",
+          "word": "impaciente",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La Fiscalía ve prescrito uno de los delitos por los que el hermano de Sánchez se",
-      "score": 2.6,
+      "title": "Plus Ultra, Tubos Reunidos, Air Europa y Duro Felguera: los rescates que han aca",
+      "score": 5.6,
       "words": [
         {
-          "word": "delitos",
-          "score": -3
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "rescates",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "concesión",
+          "score": 1
         }
       ]
     },
@@ -164,11 +143,45 @@
     },
     {
       "source": "El País",
-      "title": "Doce horas en Ferraz: entre la angustia y la homeopatía",
-      "score": 4.73,
+      "title": "‘El drama’: inmune al culto masivo a la reina Zendaya",
+      "score": 5.0,
       "words": [
         {
-          "word": "angustia",
+          "word": "inmune",
+          "score": 1
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "afligido",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sin hormonas: la odisea para encontrar Lenzetto, el medicamento más escaso de Es",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Fernández Díaz y su 'número dos' escenifican en Kitchen un pacto de no agresión ",
+      "score": 4.44,
+      "words": [
+        {
+          "word": "agresión",
           "score": -2
         },
         {
@@ -176,155 +189,24 @@
           "score": -2
         },
         {
-          "word": "amor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Pedro Sánchez comparecerá en el Congreso a petición propia para hablar sobre las",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "sentencia",
+          "word": "agresión",
           "score": -2
         },
         {
-          "word": "recortes",
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "evita",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Moncloa se lava las manos del ‘caso Leire’: “El presidente no tiene nada que ver",
-      "score": 5.07,
+      "title": "Fernández Díaz contradice a su número dos y declara que supo de la Operación Kit",
+      "score": 4.47,
       "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "bueno",
-          "score": 3
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "ora",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PNV pide a Sánchez adelantar las elecciones por segunda vez en cinco días",
-      "score": 5.21,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "demanda",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Page advierte a Pedro Sánchez de que la \"estrategia del búnker\" termina \"dentro ",
-      "score": 5.17,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso exige una cuestión de confianza al Gobierno y promete \"una contestación de",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "exigido",
-          "score": -1
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "carga",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Puente denuncia que \"se quiere tumbar al Gobierno con medios nada democráticos\" ",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
         {
           "word": "niega",
           "score": -2
@@ -332,69 +214,212 @@
         {
           "word": "solo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez eleva al PSOE la responsabilidad sobre las maniobras de Leire Díez contr",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
         },
         {
-          "word": "superior",
+          "word": "confidente",
           "score": 2
         },
         {
-          "word": "cancela",
-          "score": -1
+          "word": "compartir",
+          "score": 1
         },
         {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "acoso",
+          "word": "negar",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Guía del caso Leire: de desnudar las cloacas del PP a desprestigiar a quienes in",
-      "score": 3.91,
+      "title": "La presión de los socios fuerza a Sánchez a cambiar de idea y dar explicaciones ",
+      "score": 4.8,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
+          "word": "presión",
+          "score": -1
         },
         {
-          "word": "detenido",
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "presión",
           "score": -1
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "obligado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un tráfico de influencias para el rescate de Plus Ultra sin influencia acreditad",
+      "score": 5.46,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "A mí no me hable de la Kitchen, yo sólo era el jefe de todos los acusados",
+      "score": 4.68,
+      "words": [
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
         },
         {
           "word": "acusado",
           "score": -2
         },
         {
-          "word": "ilegal",
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Puente, al rescate",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "vacío",
+          "score": -1
+        },
+        {
+          "word": "provocado",
+          "score": -1
+        },
+        {
+          "word": "devastador",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Hacienda abre una inspección a Quirón Prevención, principal pagador de la pareja",
+      "score": 4.25,
+      "words": [
+        {
+          "word": "escándalo",
           "score": -3
         },
         {
-          "word": "destruir",
-          "score": -3
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "riesgos",
+          "score": -2
+        },
+        {
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "impuesto",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Israel, el gran \"saboteador\" de un acuerdo entre Irán y EEUU: \"Hará todo lo posi",
+      "score": 4.81,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU dice que ha llegado a un preacuerdo con Irán para prorrogar el alto el fueg",
+      "score": 5.05,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "espera",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-11T18:59:09Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-05-11T20:49:06Z",
       "score": 4.56
@@ -1062,6 +1087,10 @@
     {
       "timestamp": "2026-05-29T02:55:22Z",
       "score": 4.54
+    },
+    {
+      "timestamp": "2026-05-29T06:53:57Z",
+      "score": 4.6
     }
   ]
 }

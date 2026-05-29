@@ -1,20 +1,12 @@
 {
-  "generated": "2026-05-29T13:57:48Z",
-  "global_score": 4.65,
-  "articles_scored": 94,
-  "words_matched": 296,
+  "generated": "2026-05-29T17:35:35Z",
+  "global_score": 4.58,
+  "articles_scored": 93,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
-    },
-    {
-      "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "fraude",
-      "score": -4
     },
     {
       "word": "culo",
@@ -35,19 +27,19 @@
     {
       "word": "crisis",
       "score": -3
+    },
+    {
+      "word": "destruido",
+      "score": -3
+    },
+    {
+      "word": "destruir",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
-      "word": "gracioso",
-      "score": 4
-    },
-    {
-      "word": "victorias",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -55,36 +47,85 @@
       "score": 4
     },
     {
+      "word": "lealtad",
+      "score": 3
+    },
+    {
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "medalla",
+      "score": 3
+    },
+    {
       "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "genial",
-      "score": 3
-    },
-    {
-      "word": "popular",
       "score": 3
     },
     {
       "word": "mejor",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.3,
-    "elDiario.es": 4.95,
-    "El Mundo": 4.38,
-    "ABC": 4.99,
-    "El Confidencial": 4.67,
-    "BBC Mundo": 4.6,
-    "France 24 ES": 4.93,
-    "La Nación AR": 4.83,
+    "El País": 4.72,
+    "elDiario.es": 5.09,
+    "El Mundo": 4.3,
+    "ABC": 5.27,
+    "El Confidencial": 4.31,
+    "BBC Mundo": 4.95,
+    "France 24 ES": 4.3,
+    "La Nación AR": 4.6,
     "La Jornada MX": 4.41,
-    "Desinformémonos": 4.05,
-    "Resumen Latinoam.": 4.8
+    "Desinformémonos": 3.72,
+    "Resumen Latinoam.": 4.41
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Estados Unidos e Irán admiten un preacuerdo, pero discrepan sobre sus términos",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "acepta",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La Casa Blanca lanza una web que equipara a los migrantes con extraterrestres: “",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "detenciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La defensa usa una caída previa y la artrosis de Isak Andic para concluir que su",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "accidental",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Última hora de la actualidad política, en directo | Junts espera que Sánchez con",
@@ -106,58 +147,12 @@
     },
     {
       "source": "El País",
-      "title": "La defensa usa una caída previa y la artrosis de Isak Andic para concluir que su",
-      "score": 3.4,
+      "title": "Camila ya tiene papeles: la venezolana ha completado con éxito su regularización",
+      "score": 6.6,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "accidental",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Dos heridos al impactar un dron ruso contra un edificio de viviendas en Rumania",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Casa Blanca lanza una web que equipara a los migrantes con extraterrestres: “",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "detenciones",
-          "score": -2
+          "word": "éxito",
+          "score": 2
         }
       ]
     },
@@ -189,6 +184,21 @@
     },
     {
       "source": "El País",
+      "title": "Carreño y Jódar en los octavos de París: una reconstrucción y otra dosis de resi",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "duro",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Simone Biles: “Odio el ejercicio, después de tantos años creo que me merezco un ",
       "score": 2.6,
       "words": [
@@ -209,6 +219,33 @@
       "words": [
         {
           "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump siembra más confusión y dice que está a punto de tomar una decisión sobre ",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "guerra",
           "score": -2
         }
       ]
@@ -242,33 +279,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sanam Naraghi, activista iraní: “Para que haya paz en Oriente Medio, es esencial",
-      "score": 5.15,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Israel, el gran \"saboteador\" de un acuerdo entre Irán y EEUU: \"Hará todo lo posi",
       "score": 4.81,
       "words": [
@@ -296,16 +306,16 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La OTAN condena la \"imprudencia\" de Rusia tras el impacto de un dron en un edifi",
-      "score": 4.44,
+      "title": "La OTAN asegura que \"está lista para defender cada centímetro\" tras el impacto d",
+      "score": 4.6,
       "words": [
         {
-          "word": "condena",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "condena",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         },
         {
           "word": "grave",
@@ -318,33 +328,6 @@
         {
           "word": "ataques",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Una avalancha de calumnias\": E. Jean Carroll cuenta cómo es su vida tras denunc",
-      "score": 4.7,
-      "words": [
-        {
-          "word": "denunciar",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "denunciar",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "sincero",
-          "score": 2
         }
       ]
     },
@@ -374,40 +357,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Hacienda abre una inspección a Quirón Prevención, principal pagador de la pareja",
-      "score": 4.25,
-      "words": [
-        {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "riesgos",
-          "score": -2
-        },
-        {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "impuesto",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-11T23:55:42Z",
-      "score": 4.33
-    },
     {
       "timestamp": "2026-05-12T02:49:47Z",
       "score": 4.24
@@ -1075,6 +1027,10 @@
     {
       "timestamp": "2026-05-29T13:57:48Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-05-29T17:35:35Z",
+      "score": 4.58
     }
   ]
 }

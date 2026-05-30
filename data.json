@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-30T20:52:45Z",
-  "global_score": 4.82,
-  "articles_scored": 92,
-  "words_matched": 291,
+  "generated": "2026-05-30T21:59:02Z",
+  "global_score": 4.97,
+  "articles_scored": 93,
+  "words_matched": 288,
   "top_negative": [
     {
       "word": "fraude",
@@ -15,10 +15,6 @@
     {
       "word": "fraudulento",
       "score": -4
-    },
-    {
-      "word": "escándalo",
-      "score": -3
     },
     {
       "word": "falso",
@@ -35,9 +31,17 @@
     {
       "word": "delito",
       "score": -3
+    },
+    {
+      "word": "feo",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "ganador",
+      "score": 4
+    },
     {
       "word": "triunfo",
       "score": 4
@@ -45,14 +49,6 @@
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "contento",
-      "score": 3
-    },
-    {
-      "word": "súper",
-      "score": 3
     },
     {
       "word": "premio",
@@ -63,26 +59,30 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "maravilla",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "riqueza",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.87,
+    "El País": 5.11,
     "elDiario.es": 5.01,
-    "El Mundo": 5.3,
-    "ABC": 5.32,
+    "El Mundo": 5.57,
+    "ABC": 5.59,
     "El Confidencial": 4.84,
     "BBC Mundo": 4.99,
-    "France 24 ES": 4.73,
-    "La Nación AR": 5.08,
+    "France 24 ES": 4.99,
+    "La Nación AR": 5.53,
     "La Jornada MX": 3.86,
     "Desinformémonos": 4.51,
-    "Resumen Latinoam.": 4.49
+    "Resumen Latinoam.": 4.68
   },
   "articles": [
     {
@@ -147,6 +147,25 @@
     },
     {
       "source": "El País",
+      "title": "Bad Bunny en Madrid: el alucinante jolgorio del perreo y el amor",
+      "score": 6.87,
+      "words": [
+        {
+          "word": "amor",
+          "score": 3
+        },
+        {
+          "word": "cumple",
+          "score": 2
+        },
+        {
+          "word": "homenaje",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "La grandeza premia al doble campeón PSG, que tumba en los penaltis al Arsenal",
       "score": 3.4,
       "words": [
@@ -163,51 +182,6 @@
       "words": [
         {
           "word": "desastres",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Urge saltar del barco",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "pagado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La pugna entre Florentino y Riquelme por la presidencia del Real Madrid desata u",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Andrés de Inglaterra y Sarah Ferguson, un exmatrimonio feliz durante 30 años que",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "feliz",
-          "score": 3
-        },
-        {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "perder",
           "score": -2
         }
       ]
@@ -373,13 +347,63 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU ataca un buque con bandera de Gambia que intentaba romper el bloqueo a Irán",
+      "score": 4.16,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El callejón sin salida de Trump con Irán ante las elecciones de noviembre que am",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "provocar",
+          "score": -1
+        },
+        {
+          "word": "enfado",
+          "score": -3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-13T10:23:35Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-05-13T13:08:58Z",
       "score": 4.78
@@ -1047,6 +1071,10 @@
     {
       "timestamp": "2026-05-30T20:52:45Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-05-30T21:59:02Z",
+      "score": 4.97
     }
   ]
 }

@@ -1,9 +1,17 @@
 {
-  "generated": "2026-05-30T04:51:03Z",
-  "global_score": 4.68,
-  "articles_scored": 98,
-  "words_matched": 318,
+  "generated": "2026-05-30T07:38:55Z",
+  "global_score": 4.73,
+  "articles_scored": 97,
+  "words_matched": 325,
   "top_negative": [
+    {
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "culo",
+      "score": -4
+    },
     {
       "word": "fraudulento",
       "score": -4
@@ -17,10 +25,6 @@
       "score": -4
     },
     {
-      "word": "culo",
-      "score": -4
-    },
-    {
       "word": "infierno",
       "score": -4
     },
@@ -30,10 +34,6 @@
     },
     {
       "word": "pierde",
-      "score": -3
-    },
-    {
-      "word": "escándalos",
       "score": -3
     }
   ],
@@ -45,14 +45,6 @@
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "vitalidad",
-      "score": 3
-    },
-    {
-      "word": "perfecto",
-      "score": 3
     },
     {
       "word": "alegre",
@@ -69,17 +61,25 @@
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "emocionante",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.64,
-    "elDiario.es": 5.12,
-    "El Mundo": 3.65,
-    "ABC": 5.03,
-    "El Confidencial": 4.61,
+    "El País": 4.79,
+    "elDiario.es": 5.03,
+    "El Mundo": 4.08,
+    "ABC": 5.21,
+    "El Confidencial": 4.63,
     "BBC Mundo": 4.77,
     "France 24 ES": 4.7,
-    "La Nación AR": 5.25,
+    "La Nación AR": 5.46,
     "La Jornada MX": 4.41,
     "Desinformémonos": 4.22,
     "Resumen Latinoam.": 4.52
@@ -177,12 +177,31 @@
     },
     {
       "source": "El País",
-      "title": "Píos, leones, inocentes: ¿qué nos dice la cultura de los papas?",
-      "score": 3.4,
+      "title": "La sensación de entrar en el templo de todos los records",
+      "score": 4.47,
       "words": [
         {
-          "word": "crítico",
+          "word": "sensación",
+          "score": 1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "muerte",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Urge saltar del barco",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "pagado",
+          "score": 2
         }
       ]
     },
@@ -225,21 +244,6 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "‘Personal shoppers’ inmobiliarios o cómo pagar 10.500 euros para que te busquen ",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "intereses",
-          "score": 1
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "El PP aleja la moción de censura y antepone desgastar al Gobierno",
       "score": 5.62,
@@ -262,6 +266,33 @@
         },
         {
           "word": "espera",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las dos velocidades de la Justicia",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "adoptar",
+          "score": 1
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "fuga",
           "score": -1
         }
       ]
@@ -346,40 +377,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump comparte con Israel un preacuerdo con Irán que golpea las ambiciones de Ne",
-      "score": 4.9,
-      "words": [
-        {
-          "word": "comparte",
-          "score": 1
-        },
-        {
-          "word": "comparte",
-          "score": 1
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-12T14:17:32Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-12T17:08:15Z",
       "score": 4.54
@@ -1047,6 +1047,10 @@
     {
       "timestamp": "2026-05-30T04:51:03Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-05-30T07:38:55Z",
+      "score": 4.73
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-31T20:56:20Z",
-  "global_score": 4.7,
-  "articles_scored": 89,
-  "words_matched": 280,
+  "generated": "2026-05-31T21:59:58Z",
+  "global_score": 4.64,
+  "articles_scored": 90,
+  "words_matched": 273,
   "top_negative": [
     {
       "word": "puto",
@@ -21,10 +21,6 @@
       "score": -4
     },
     {
-      "word": "torturas",
-      "score": -4
-    },
-    {
       "word": "muerto",
       "score": -3
     },
@@ -34,6 +30,10 @@
     },
     {
       "word": "soborno",
+      "score": -3
+    },
+    {
+      "word": "falso",
       "score": -3
     }
   ],
@@ -47,11 +47,15 @@
       "score": 4
     },
     {
-      "word": "vibrante",
+      "word": "súper",
       "score": 3
     },
     {
       "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "vibrante",
       "score": 3
     },
     {
@@ -65,26 +69,33 @@
     {
       "word": "premio",
       "score": 3
-    },
-    {
-      "word": "fiel",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.81,
+    "El País": 4.34,
     "elDiario.es": 4.75,
     "El Mundo": 4.22,
-    "ABC": 4.9,
-    "El Confidencial": 4.4,
-    "BBC Mundo": 4.2,
-    "France 24 ES": 5.05,
-    "La Nación AR": 5.65,
+    "ABC": 4.47,
+    "El Confidencial": 4.16,
+    "BBC Mundo": 4.47,
+    "France 24 ES": 5.19,
+    "La Nación AR": 5.34,
     "La Jornada MX": 4.98,
     "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 4.03
+    "Resumen Latinoam.": 4.52
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Resultados de las elecciones en Colombia 2026, en vivo | Abelardo de la Espriell",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "puesto",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Sánchez pide tiempo frente a la oposición “marrullera” que quiere “derribar” al ",
@@ -112,17 +123,6 @@
         {
           "word": "riesgo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Elecciones en Colombia 2026, en vivo | Iván Cepeda: “Estamos convencidos de que ",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "dios",
-          "score": 1
         }
       ]
     },
@@ -177,21 +177,6 @@
     },
     {
       "source": "El País",
-      "title": "Bad Bunny en Madrid: el alucinante jolgorio del perreo y el amor",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "amor",
-          "score": 3
-        },
-        {
-          "word": "homenaje",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Cabeza dura y puños de acero: Rafa Jódar remonta a Carreño y tiene derecho a soñ",
       "score": 4.6,
       "words": [
@@ -202,6 +187,28 @@
         {
           "word": "desventaja",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Florentino Pérez: “De mí no puede  dudar nadie. No necesito el dinero”",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "confianza",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Diez cosas que los correctores de la Selectividad aconsejan hacer (o evitar) en ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
         }
       ]
     },
@@ -366,40 +373,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las Juventudes del PSOE aprueban una propuesta para plantear que España salga de",
-      "score": 5.26,
-      "words": [
-        {
-          "word": "juvenil",
-          "score": 2
-        },
-        {
-          "word": "útil",
-          "score": 2
-        },
-        {
-          "word": "demandas",
-          "score": -2
-        },
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "aprobado",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-14T14:04:05Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-05-14T17:02:13Z",
       "score": 4.79
@@ -1067,6 +1043,10 @@
     {
       "timestamp": "2026-05-31T20:56:20Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-05-31T21:59:58Z",
+      "score": 4.64
     }
   ]
 }

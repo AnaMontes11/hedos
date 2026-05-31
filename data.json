@@ -1,9 +1,13 @@
 {
-  "generated": "2026-05-31T03:32:40Z",
-  "global_score": 4.85,
-  "articles_scored": 89,
-  "words_matched": 287,
+  "generated": "2026-05-31T07:42:50Z",
+  "global_score": 4.72,
+  "articles_scored": 91,
+  "words_matched": 320,
   "top_negative": [
+    {
+      "word": "puto",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -13,37 +17,41 @@
       "score": -4
     },
     {
-      "word": "fraudulento",
+      "word": "tortura",
       "score": -4
     },
     {
-      "word": "falso",
+      "word": "conspiración",
+      "score": -3
+    },
+    {
+      "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "ilegal",
       "score": -3
     },
     {
       "word": "soborno",
       "score": -3
-    },
-    {
-      "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "feo",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
     {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "premio",
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     },
     {
@@ -51,82 +59,119 @@
       "score": 3
     },
     {
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "fiel",
+      "score": 3
+    },
+    {
       "word": "maravilla",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "won",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.89,
-    "elDiario.es": 5.04,
+    "El País": 4.9,
+    "elDiario.es": 4.9,
     "El Mundo": 5.05,
-    "ABC": 5.64,
-    "El Confidencial": 4.61,
+    "ABC": 5.12,
+    "El Confidencial": 3.91,
     "BBC Mundo": 4.96,
     "France 24 ES": 4.87,
-    "La Nación AR": 4.5,
+    "La Nación AR": 4.36,
     "La Jornada MX": 3.86,
     "Desinformémonos": 4.51,
-    "Resumen Latinoam.": 4.93
+    "Resumen Latinoam.": 4.98
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Radiografía de una imputación: indicios y vacíos en el sumario de Zapatero",
+      "title": "Sánchez se defiende al contraataque para ganar tiempo y llegar al verano",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "conspiración",
+          "score": -3
+        },
+        {
+          "word": "orgullo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cargos del PSOE reflexionan sobre las recetas para salir de la crisis: “Sin part",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Zapatero, una década al límite en Venezuela",
       "score": 3.4,
       "words": [
         {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
+          "word": "riesgo",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Los partidos de Sumar instan al PSOE a actuar: “¿Hay una trama? Se contesta con ",
-      "score": 6.6,
+      "title": "Fernández Díaz ‘olvida’ en el juicio de Kitchen un encuentro con Villarejo en 20",
+      "score": 4.2,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "evita",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Carmen Calvo, presidenta del Consejo de Estado: “El sueldo de expresidente tendr",
-      "score": 5.53,
+      "title": "¿Quiénes son los católicos hoy? La España que encontrará León XIV",
+      "score": 5.8,
       "words": [
         {
-          "word": "suficiente",
-          "score": -2
-        },
+          "word": "confianza",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Florentino Pérez: “De mí no puede  dudar nadie. No necesito el dinero”",
+      "score": 5.8,
+      "words": [
         {
-          "word": "honor",
-          "score": 2
-        },
-        {
-          "word": "utilidad",
-          "score": 2
+          "word": "confianza",
+          "score": 1
         }
       ]
     },
@@ -146,24 +191,29 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La grandeza premia al doble campeón PSG, que tumba en los penaltis al Arsenal",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "Santos Cerdán impulsó la trama conspiranoica contra investigadores de la corrupc",
+      "score": 4.31,
       "words": [
         {
-          "word": "tumba",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Donna Haraway, filósofa: “Vivimos en un mundo pronatalista y antiinfancia. Los b",
-      "score": 3.4,
-      "words": [
+          "word": "pasado",
+          "score": -1
+        },
         {
-          "word": "desastres",
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "abandonar",
           "score": -2
+        },
+        {
+          "word": "pagado",
+          "score": 2
         }
       ]
     },
@@ -196,6 +246,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Gobierno se prepara para que la ofensiva judicial escale a Sánchez: \"Cuanto m",
+      "score": 4.61,
+      "words": [
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "conspiración",
+          "score": -3
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Las dos velocidades de la Justicia",
       "score": 4.54,
       "words": [
@@ -223,199 +300,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El sumario contradice las explicaciones de Zapatero sobre Plus Ultra y los negoc",
-      "score": 5.31,
+      "title": "El PP se prepara para una guerra total por el control de Nuevas Generaciones: \"Q",
+      "score": 5.32,
       "words": [
         {
-          "word": "puesto",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "deuda",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "fraudulento",
-          "score": -4
+          "word": "lanzado",
+          "score": 1
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "dudas",
-          "score": -1
+          "word": "orgulloso",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El PP aleja la moción de censura y antepone desgastar al Gobierno",
-      "score": 5.62,
+      "title": "La batalla política de la corrupción y la jeta inmensa de Fernández Díaz",
+      "score": 4.95,
       "words": [
         {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "pasado",
+          "word": "batalla",
           "score": -1
         },
         {
-          "word": "espera",
+          "word": "batalla",
           "score": -1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "ofende",
+          "score": -2
+        },
+        {
+          "word": "dios",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El PSOE se abona a la teoría de la campaña orquestada para afrontar el aluvión d",
-      "score": 5.17,
+      "title": "Las preguntas a Fernández Díaz y su ‘número dos’ que no respondieron al fiscal y",
+      "score": 4.39,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "tipo",
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "responsable",
           "score": 2
         },
         {
-          "word": "ataque",
+          "word": "ilegal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Jéssica Albiach: \"Hay lawfare contra el Gobierno, nosotras también lo hemos sufr",
+      "score": 4.83,
+      "words": [
+        {
+          "word": "presión",
           "score": -1
         },
         {
-          "word": "afligido",
-          "score": -2
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "esconder",
+          "score": -1
         },
         {
           "word": "solo",
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Altos mandos militares de EEUU y de Cuba se reúnen junto a la base de Guantánamo",
-      "score": 4.55,
-      "words": [
-        {
-          "word": "asfixia",
-          "score": -2
-        },
-        {
-          "word": "asfixia",
-          "score": -2
-        },
-        {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "calma",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU ataca un buque con bandera de Gambia que intentaba romper el bloqueo a Irán",
-      "score": 4.16,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El callejón sin salida de Trump con Irán ante las elecciones de noviembre que am",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "provocar",
-          "score": -1
-        },
-        {
-          "word": "enfado",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump Sociedad Limitada: el pelotazo de 1.000 millones de una oscura compañía li",
-      "score": 5.32,
-      "words": [
-        {
-          "word": "borra",
-          "score": 1
-        },
-        {
-          "word": "energético",
-          "score": 2
-        },
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "explotar",
-          "score": -2
-        },
-        {
-          "word": "permitir",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-13T18:54:42Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-05-13T20:44:07Z",
       "score": 4.55
@@ -1083,6 +1075,10 @@
     {
       "timestamp": "2026-05-31T03:32:40Z",
       "score": 4.85
+    },
+    {
+      "timestamp": "2026-05-31T07:42:50Z",
+      "score": 4.72
     }
   ]
 }

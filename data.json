@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-31T19:35:25Z",
-  "global_score": 4.72,
-  "articles_scored": 87,
-  "words_matched": 277,
+  "generated": "2026-05-31T20:56:20Z",
+  "global_score": 4.7,
+  "articles_scored": 89,
+  "words_matched": 280,
   "top_negative": [
     {
       "word": "puto",
@@ -21,8 +21,8 @@
       "score": -4
     },
     {
-      "word": "crisis",
-      "score": -3
+      "word": "torturas",
+      "score": -4
     },
     {
       "word": "muerto",
@@ -47,11 +47,11 @@
       "score": 4
     },
     {
-      "word": "suerte",
+      "word": "vibrante",
       "score": 3
     },
     {
-      "word": "vibrante",
+      "word": "suerte",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.46,
+    "El País": 4.81,
     "elDiario.es": 4.75,
-    "El Mundo": 4.27,
-    "ABC": 4.96,
+    "El Mundo": 4.22,
+    "ABC": 4.9,
     "El Confidencial": 4.4,
-    "BBC Mundo": 4.6,
+    "BBC Mundo": 4.2,
     "France 24 ES": 5.05,
-    "La Nación AR": 5.15,
+    "La Nación AR": 5.65,
     "La Jornada MX": 4.98,
     "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 4.76
+    "Resumen Latinoam.": 4.03
   },
   "articles": [
     {
@@ -117,16 +117,12 @@
     },
     {
       "source": "El País",
-      "title": "Cargos del PSOE reflexionan sobre las recetas para salir de la crisis: “Sin part",
-      "score": 3.0,
+      "title": "Elecciones en Colombia 2026, en vivo | Iván Cepeda: “Estamos convencidos de que ",
+      "score": 5.8,
       "words": [
         {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "crisis",
-          "score": -3
+          "word": "dios",
+          "score": 1
         }
       ]
     },
@@ -400,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-14T11:50:09Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-05-14T14:04:05Z",
       "score": 4.69
@@ -1071,6 +1063,10 @@
     {
       "timestamp": "2026-05-31T19:35:25Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-05-31T20:56:20Z",
+      "score": 4.7
     }
   ]
 }

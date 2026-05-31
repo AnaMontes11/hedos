@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-31T14:41:44Z",
-  "global_score": 4.83,
-  "articles_scored": 90,
-  "words_matched": 286,
+  "generated": "2026-05-31T16:04:51Z",
+  "global_score": 4.84,
+  "articles_scored": 87,
+  "words_matched": 278,
   "top_negative": [
     {
       "word": "puto",
@@ -17,11 +17,11 @@
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -29,8 +29,8 @@
       "score": -4
     },
     {
-      "word": "conspiración",
-      "score": -3
+      "word": "burro",
+      "score": -4
     },
     {
       "word": "crisis",
@@ -39,16 +39,12 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "feliz",
-      "score": 3
+      "word": "triunfo",
+      "score": 4
     },
     {
       "word": "suerte",
@@ -59,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "caro",
+      "word": "súper",
       "score": 3
     },
     {
@@ -67,59 +63,55 @@
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.31,
-    "elDiario.es": 4.83,
-    "El Mundo": 4.57,
-    "ABC": 5.24,
-    "El Confidencial": 4.2,
-    "BBC Mundo": 4.82,
-    "France 24 ES": 5.21,
-    "La Nación AR": 4.57,
+    "El País": 4.36,
+    "elDiario.es": 4.7,
+    "El Mundo": 4.42,
+    "ABC": 5.18,
+    "El Confidencial": 4.35,
+    "BBC Mundo": 4.6,
+    "France 24 ES": 5.17,
+    "La Nación AR": 5.73,
     "La Jornada MX": 4.98,
-    "Desinformémonos": 4.51,
-    "Resumen Latinoam.": 5.35
+    "Desinformémonos": 4.56,
+    "Resumen Latinoam.": 4.98
   },
   "articles": [
     {
       "source": "El País",
       "title": "Sánchez pide tiempo frente a la oposición “marrullera” que quiere “derribar” al ",
-      "score": 3.4,
+      "score": 4.47,
       "words": [
         {
           "word": "tiempo",
           "score": -2
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "presión",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Sánchez se defiende al contraataque para ganar tiempo y llegar al verano",
-      "score": 5.1,
+      "title": "Zapatero, una década al límite en Venezuela",
+      "score": 3.4,
       "words": [
         {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "tiempo",
+          "word": "riesgo",
           "score": -2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "conspiración",
-          "score": -3
-        },
-        {
-          "word": "orgullo",
-          "score": 2
         }
       ]
     },
@@ -140,37 +132,11 @@
     },
     {
       "source": "El País",
-      "title": "Zapatero y la UCO en Ferraz: un resumen de todo lo que ha pasado esta semana en ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "provocado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Zapatero, una década al límite en Venezuela",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "riesgo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Quiénes son los católicos hoy? La España que encontrará León XIV",
+      "title": "Israel expande su control militar en Líbano y ocupa el histórico castillo de Bea",
       "score": 5.8,
       "words": [
         {
-          "word": "confianza",
+          "word": "expande",
           "score": 1
         }
       ]
@@ -261,6 +227,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Ramón Jáuregui pide al PSOE \"un congreso extraordinario urgente\"",
+      "score": 4.56,
+      "words": [
+        {
+          "word": "urgente",
+          "score": -1
+        },
+        {
+          "word": "urgente",
+          "score": -1
+        },
+        {
+          "word": "daño",
+          "score": -2
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "rico",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Santos Cerdán impulsó la trama conspiranoica contra investigadores de la corrupc",
       "score": 4.31,
       "words": [
@@ -282,60 +275,6 @@
         },
         {
           "word": "pagado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los partidos de Sumar se reivindican como \"la izquierda limpia\" y exigen al PSOE",
-      "score": 6.23,
-      "words": [
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "valiente",
-          "score": 2
-        },
-        {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno se prepara para que la ofensiva judicial escale a Sánchez: \"Cuanto m",
-      "score": 4.61,
-      "words": [
-        {
-          "word": "duro",
-          "score": -2
-        },
-        {
-          "word": "duro",
-          "score": -2
-        },
-        {
-          "word": "conspiración",
-          "score": -3
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "fuerza",
           "score": 2
         }
       ]
@@ -369,6 +308,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Gobierno se prepara para que la ofensiva judicial escale a Sánchez: \"Cuanto m",
+      "score": 4.61,
+      "words": [
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "conspiración",
+          "score": -3
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El PP se prepara para una guerra total por el control de Nuevas Generaciones: \"Q",
       "score": 5.32,
       "words": [
@@ -393,13 +359,63 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las Juventudes del PSOE aprueban una propuesta para plantear que España salga de",
+      "score": 5.26,
+      "words": [
+        {
+          "word": "juvenil",
+          "score": 2
+        },
+        {
+          "word": "útil",
+          "score": 2
+        },
+        {
+          "word": "demandas",
+          "score": -2
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "aprobado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las preguntas a Fernández Díaz y su ‘número dos’ que no respondieron al fiscal y",
+      "score": 4.39,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-14T02:51:45Z",
-      "score": 4.45
-    },
     {
       "timestamp": "2026-05-14T06:22:54Z",
       "score": 4.72
@@ -1067,6 +1083,10 @@
     {
       "timestamp": "2026-05-31T14:41:44Z",
       "score": 4.83
+    },
+    {
+      "timestamp": "2026-05-31T16:04:51Z",
+      "score": 4.84
     }
   ]
 }

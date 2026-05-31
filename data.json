@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-31T21:59:58Z",
-  "global_score": 4.64,
-  "articles_scored": 90,
-  "words_matched": 273,
+  "generated": "2026-05-31T23:11:18Z",
+  "global_score": 4.65,
+  "articles_scored": 84,
+  "words_matched": 266,
   "top_negative": [
     {
       "word": "puto",
@@ -39,16 +39,16 @@
   ],
   "top_positive": [
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
       "word": "triunfo",
       "score": 4
-    },
-    {
-      "word": "súper",
-      "score": 3
     },
     {
       "word": "suerte",
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "leal",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.34,
+    "El País": 4.61,
     "elDiario.es": 4.75,
-    "El Mundo": 4.22,
+    "El Mundo": 4.34,
     "ABC": 4.47,
     "El Confidencial": 4.16,
-    "BBC Mundo": 4.47,
-    "France 24 ES": 5.19,
-    "La Nación AR": 5.34,
+    "BBC Mundo": 5.15,
+    "France 24 ES": 5.17,
+    "La Nación AR": 5.0,
     "La Jornada MX": 4.98,
     "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 4.52
+    "Resumen Latinoam.": 4.12
   },
   "articles": [
     {
@@ -93,6 +93,25 @@
         {
           "word": "puesto",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La derecha colombiana se vuelca con el ultra Abelardo de la Espriella y da la es",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "espalda",
+          "score": 1
+        },
+        {
+          "word": "logra",
+          "score": 2
+        },
+        {
+          "word": "fiel",
+          "score": 3
         }
       ]
     },
@@ -198,17 +217,6 @@
         {
           "word": "confianza",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Diez cosas que los correctores de la Selectividad aconsejan hacer (o evitar) en ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "evitar",
-          "score": -1
         }
       ]
     },
@@ -376,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-14T17:02:13Z",
-      "score": 4.79
-    },
     {
       "timestamp": "2026-05-14T19:42:26Z",
       "score": 4.69
@@ -1047,6 +1051,10 @@
     {
       "timestamp": "2026-05-31T21:59:58Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-05-31T23:11:18Z",
+      "score": 4.65
     }
   ]
 }

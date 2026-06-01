@@ -1,23 +1,15 @@
 {
-  "generated": "2026-06-01T03:43:58Z",
-  "global_score": 4.69,
-  "articles_scored": 87,
-  "words_matched": 275,
+  "generated": "2026-06-01T09:23:54Z",
+  "global_score": 4.82,
+  "articles_scored": 89,
+  "words_matched": 247,
   "top_negative": [
-    {
-      "word": "puto",
-      "score": -5
-    },
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraude",
+      "word": "defraudadores",
       "score": -4
     },
     {
@@ -25,7 +17,15 @@
       "score": -4
     },
     {
-      "word": "muerto",
+      "word": "culpable",
+      "score": -3
+    },
+    {
+      "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "delito",
       "score": -3
     },
     {
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "soborno",
+      "word": "preocupado",
       "score": -3
     }
   ],
@@ -43,19 +43,19 @@
       "score": 4
     },
     {
-      "word": "ganador",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "suerte",
-      "score": 3
+      "word": "ganador",
+      "score": 4
     },
     {
       "word": "vibrante",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "amor",
       "score": 3
     },
     {
@@ -67,32 +67,58 @@
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "suerte",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.02,
-    "elDiario.es": 4.75,
-    "El Mundo": 4.87,
-    "ABC": 4.67,
-    "El Confidencial": 4.23,
+    "El País": 5.23,
+    "elDiario.es": 4.85,
+    "El Mundo": 4.61,
+    "ABC": 5.15,
+    "El Confidencial": 3.37,
     "BBC Mundo": 4.82,
-    "France 24 ES": 5.1,
-    "La Nación AR": 4.84,
+    "France 24 ES": 4.95,
+    "La Nación AR": 5.58,
     "La Jornada MX": 4.98,
-    "Desinformémonos": 4.56,
-    "Resumen Latinoam.": 3.62
+    "Desinformémonos": 4.62,
+    "Resumen Latinoam.": 4.46
   },
   "articles": [
     {
       "source": "El País",
+      "title": "La Audiencia Nacional activa la búsqueda de  De Juana y otros 13 etarras huidos ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "maduro",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El juez del ‘caso Plus Ultra’ investiga la relación de un bróker venezolano con ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "favor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "De la Espriella y Cepeda se disputarán la presidencia de Colombia mientras Petro",
-      "score": 5.4,
+      "score": 5.0,
       "words": [
         {
           "word": "logra",
           "score": 2
+        },
+        {
+          "word": "duda",
+          "score": -1
         },
         {
           "word": "rechaza",
@@ -125,142 +151,24 @@
     },
     {
       "source": "El País",
-      "title": "Resultados de las elecciones en Colombia 2026, en vivo | Abelardo de la Espriell",
-      "score": 4.8,
+      "title": "Abelardo de la Espriella, tras su victoria en Colombia y los cuestionamientos de",
+      "score": 5.0,
       "words": [
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
+          "word": "fuerza",
           "score": 2
         },
-        {
-          "word": "evita",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La derecha colombiana se vuelca con el ultra Abelardo de la Espriella y da la es",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "espalda",
-          "score": 1
-        },
-        {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "fiel",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La izquierda de Iván Cepeda se ve obligada a remontar para asegurar un segundo G",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "asegurar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel expande su control militar en Líbano y ocupa el histórico castillo de Bea",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "expande",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Polonia advierte del aumento de provocaciones rusas y urge a la OTAN a tomársela",
-      "score": 4.4,
-      "words": [
         {
           "word": "advierte",
           "score": -2
-        },
-        {
-          "word": "serio",
-          "score": 2
-        },
-        {
-          "word": "dilema",
-          "score": -1
-        },
-        {
-          "word": "amenazas",
-          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las celebraciones del PSG se mezclan con los disturbios en París",
-      "score": 3.0,
+      "title": "Siete claves de las elecciones en Colombia: el auge ultra, la unidad de la izqui",
+      "score": 6.6,
       "words": [
-        {
-          "word": "disturbios",
-          "score": -2
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cabeza dura y puños de acero: Rafa Jódar remonta a Carreño y tiene derecho a soñ",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "desventaja",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez, ante las Juventudes Socialistas: \"Mientras la oposición marrullera sigu",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "duro",
-          "score": -2
-        },
         {
           "word": "importancia",
           "score": 2
@@ -268,105 +176,23 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Ramón Jáuregui pide al PSOE \"un congreso extraordinario urgente\"",
-      "score": 4.56,
+      "source": "El País",
+      "title": "La odisea de la PAU: la nota de admisión a la Universidad pública sube 1,5 punto",
+      "score": 6.6,
       "words": [
         {
-          "word": "urgente",
-          "score": -1
-        },
-        {
-          "word": "urgente",
-          "score": -1
-        },
-        {
-          "word": "daño",
-          "score": -2
-        },
-        {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "rico",
+          "word": "oferta",
           "score": 2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Santos Cerdán impulsó la trama conspiranoica contra investigadores de la corrupc",
-      "score": 4.31,
+      "source": "El País",
+      "title": "Peter Thiel no juega al ajedrez",
+      "score": 5.4,
       "words": [
         {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "abandonar",
-          "score": -2
-        },
-        {
-          "word": "pagado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las dos velocidades de la Justicia",
-      "score": 4.54,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "adoptar",
-          "score": 1
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "fuga",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno se prepara para que la ofensiva judicial escale a Sánchez: \"Cuanto m",
-      "score": 4.61,
-      "words": [
-        {
-          "word": "duro",
-          "score": -2
-        },
-        {
-          "word": "duro",
-          "score": -2
-        },
-        {
-          "word": "conspiración",
-          "score": -3
-        },
-        {
-          "word": "presión",
+          "word": "imponer",
           "score": -1
         },
         {
@@ -376,9 +202,43 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "El presuntamente inocente Zapatero",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "culpable",
+          "score": -3
+        },
+        {
+          "word": "culpable",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El tribunal retira uno de los delitos de los que está acusado el hermano de Sánc",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "acusación",
+          "score": -2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
-      "title": "El PP se prepara para una guerra total por el control de Nuevas Generaciones: \"Q",
-      "score": 5.32,
+      "title": "El juez Pedraz imputa al jefe de la UDEF con el PP por la guerra sucia contra Po",
+      "score": 4.33,
       "words": [
         {
           "word": "guerra",
@@ -389,25 +249,129 @@
           "score": -2
         },
         {
+          "word": "acusar",
+          "score": -2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Audiencia de Badajoz retira uno de los delitos de los que está acusado David ",
+      "score": 3.73,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "acusar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El exdirector del Conservatorio Superior de Badajoz aclara que no había rumores ",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "aclara",
+          "score": 2
+        },
+        {
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "aclara",
+          "score": 2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo corteja a PNV y Junts con elecciones \"inmediatas\" a cambio de una moción ",
+      "score": 5.49,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
           "word": "lanzado",
           "score": 1
         },
         {
-          "word": "acuerdo",
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "prometido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Aquel gobierno azul",
+      "score": 5.11,
+      "words": [
+        {
+          "word": "aventuras",
+          "score": 2
+        },
+        {
+          "word": "asuntos",
           "score": 1
         },
         {
-          "word": "orgulloso",
-          "score": 2
+          "word": "prohibido",
+          "score": -2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "tiempo",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-14T21:07:26Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-05-14T22:54:16Z",
       "score": 4.67
@@ -1075,6 +1039,10 @@
     {
       "timestamp": "2026-06-01T03:43:58Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-06-01T09:23:54Z",
+      "score": 4.82
     }
   ]
 }

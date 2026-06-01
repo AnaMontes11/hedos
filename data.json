@@ -1,24 +1,16 @@
 {
-  "generated": "2026-06-01T09:23:54Z",
-  "global_score": 4.82,
-  "articles_scored": 89,
-  "words_matched": 247,
+  "generated": "2026-06-01T15:54:03Z",
+  "global_score": 4.89,
+  "articles_scored": 95,
+  "words_matched": 231,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "defraudadores",
+      "word": "torturas",
       "score": -4
     },
     {
-      "word": "tortura",
+      "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "culpable",
-      "score": -3
     },
     {
       "word": "delitos",
@@ -33,15 +25,19 @@
       "score": -3
     },
     {
-      "word": "preocupado",
+      "word": "matar",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "destruir",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganar",
-      "score": 4
-    },
     {
       "word": "triunfo",
       "score": 4
@@ -51,58 +47,130 @@
       "score": 4
     },
     {
-      "word": "vibrante",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "brillar",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "suerte",
       "score": 3
+    },
+    {
+      "word": "espléndido",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.23,
-    "elDiario.es": 4.85,
-    "El Mundo": 4.61,
-    "ABC": 5.15,
-    "El Confidencial": 3.37,
-    "BBC Mundo": 4.82,
-    "France 24 ES": 4.95,
-    "La Nación AR": 5.58,
-    "La Jornada MX": 4.98,
-    "Desinformémonos": 4.62,
-    "Resumen Latinoam.": 4.46
+    "El País": 5.15,
+    "elDiario.es": 4.91,
+    "El Mundo": 4.78,
+    "ABC": 5.08,
+    "El Confidencial": 4.9,
+    "BBC Mundo": 4.79,
+    "France 24 ES": 5.41,
+    "La Nación AR": 4.87,
+    "La Jornada MX": 4.78,
+    "Desinformémonos": 4.86,
+    "Resumen Latinoam.": 4.28
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La Audiencia Nacional activa la búsqueda de  De Juana y otros 13 etarras huidos ",
-      "score": 6.6,
+      "title": "Feijóo ofrece a PNV y Junts un Gobierno sin Vox para ir a las urnas: “Hay 184 di",
+      "score": 7.4,
       "words": [
         {
-          "word": "maduro",
-          "score": 2
+          "word": "popular",
+          "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El juez del ‘caso Plus Ultra’ investiga la relación de un bróker venezolano con ",
+      "title": "Última hora de la actualidad política, en directo | El juez levanta parcialmente",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La profesora agredida en Valencia presenta una denuncia y la Policía Nacional ab",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "huelga",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los primeros testigos desinflan uno de los indicios esgrimidos por las acusacion",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "autor",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Irán suspende las",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "desalojo",
+          "score": -1
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las millonarias colecciones de vino de Napoleón y Stalin salen a subasta",
       "score": 6.6,
       "words": [
         {
-          "word": "favor",
+          "word": "valor",
           "score": 2
         }
       ]
@@ -123,6 +191,21 @@
         {
           "word": "rechaza",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Abelardo de la Espriella, tras su victoria en Colombia y los cuestionamientos de",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "advierte",
+          "score": -2
         }
       ]
     },
@@ -151,21 +234,6 @@
     },
     {
       "source": "El País",
-      "title": "Abelardo de la Espriella, tras su victoria en Colombia y los cuestionamientos de",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Siete claves de las elecciones en Colombia: el auge ultra, la unidad de la izqui",
       "score": 6.6,
       "words": [
@@ -176,96 +244,36 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La odisea de la PAU: la nota de admisión a la Universidad pública sube 1,5 punto",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "Uno de los dos testigos clave para incriminar a David Sánchez niega que hubiera ",
+      "score": 4.73,
       "words": [
         {
-          "word": "oferta",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Peter Thiel no juega al ajedrez",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "imponer",
-          "score": -1
+          "word": "niega",
+          "score": -2
         },
         {
-          "word": "fuerza",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El presuntamente inocente Zapatero",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "culpable",
-          "score": -3
+          "word": "niega",
+          "score": -2
         },
         {
-          "word": "culpable",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El tribunal retira uno de los delitos de los que está acusado el hermano de Sánc",
-      "score": 3.13,
-      "words": [
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "aclara",
+          "score": 2
+        },
         {
           "word": "delitos",
           "score": -3
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Pedraz imputa al jefe de la UDEF con el PP por la guerra sucia contra Po",
-      "score": 4.33,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acusar",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "La Audiencia de Badajoz retira uno de los delitos de los que está acusado David ",
-      "score": 3.73,
+      "score": 3.71,
       "words": [
         {
           "word": "delitos",
@@ -291,55 +299,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El exdirector del Conservatorio Superior de Badajoz aclara que no había rumores ",
-      "score": 5.2,
+      "title": "Villarejo atribuye ahora la operación Kitchen a la posible relación del rey emér",
+      "score": 4.62,
       "words": [
         {
-          "word": "superior",
-          "score": 2
+          "word": "legal",
+          "score": 1
         },
         {
-          "word": "aclara",
-          "score": 2
+          "word": "denuncia",
+          "score": -2
         },
         {
-          "word": "superior",
-          "score": 2
+          "word": "celebra",
+          "score": 3
         },
         {
-          "word": "aclara",
-          "score": 2
+          "word": "delincuente",
+          "score": -2
         },
         {
-          "word": "delitos",
+          "word": "ilegal",
           "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo corteja a PNV y Junts con elecciones \"inmediatas\" a cambio de una moción ",
-      "score": 5.49,
+      "title": "El comisario Pino exculpa en Kitchen al resto de acusados, señala a Cosidó y den",
+      "score": 4.28,
       "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
         {
           "word": "asegura",
           "score": 2
         },
         {
-          "word": "lanzado",
-          "score": 1
+          "word": "agresión",
+          "score": -2
         },
         {
-          "word": "oferta",
-          "score": 2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "prometido",
-          "score": 1
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -372,10 +380,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-14T22:54:16Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-05-14T23:55:51Z",
       "score": 4.58
@@ -1043,6 +1047,10 @@
     {
       "timestamp": "2026-06-01T09:23:54Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-06-01T15:54:03Z",
+      "score": 4.89
     }
   ]
 }

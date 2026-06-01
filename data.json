@@ -1,39 +1,39 @@
 {
-  "generated": "2026-06-01T15:54:03Z",
-  "global_score": 4.89,
-  "articles_scored": 95,
-  "words_matched": 231,
+  "generated": "2026-06-01T20:15:07Z",
+  "global_score": 4.81,
+  "articles_scored": 92,
+  "words_matched": 235,
   "top_negative": [
     {
-      "word": "torturas",
-      "score": -4
+      "word": "negro",
+      "score": -5
     },
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "delitos",
+      "word": "torturas",
+      "score": -4
+    },
+    {
+      "word": "defraudadores",
+      "score": -4
+    },
+    {
+      "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "retirada",
       "score": -3
     },
     {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "matar",
-      "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "destruir",
+      "word": "muerto",
       "score": -3
     }
   ],
@@ -59,51 +59,101 @@
       "score": 3
     },
     {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "feliz",
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.15,
-    "elDiario.es": 4.91,
-    "El Mundo": 4.78,
-    "ABC": 5.08,
-    "El Confidencial": 4.9,
-    "BBC Mundo": 4.79,
-    "France 24 ES": 5.41,
-    "La Nación AR": 4.87,
+    "El País": 4.41,
+    "elDiario.es": 4.67,
+    "El Mundo": 4.75,
+    "ABC": 5.37,
+    "El Confidencial": 4.88,
+    "BBC Mundo": 5.07,
+    "France 24 ES": 5.09,
+    "La Nación AR": 5.13,
     "La Jornada MX": 4.78,
-    "Desinformémonos": 4.86,
-    "Resumen Latinoam.": 4.28
+    "Desinformémonos": 4.81,
+    "Resumen Latinoam.": 4.08
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Feijóo ofrece a PNV y Junts un Gobierno sin Vox para ir a las urnas: “Hay 184 di",
-      "score": 7.4,
+      "title": "Trump intenta rescatar el preacuerdo con Irán y asegura que Israel frenará su of",
+      "score": 6.6,
       "words": [
         {
-          "word": "popular",
-          "score": 3
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | El juez levanta parcialmente",
-      "score": 3.4,
+      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu respond",
+      "score": 4.6,
       "words": [
         {
-          "word": "critica",
+          "word": "guerra",
           "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "detener",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Feijóo ofrece a PNV y Junts un Gobierno sin Vox para ir a las urnas: “Hay 184 di",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "descartado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los primeros testigos dejan tocadas varias de las acusaciones contra el hermano ",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "autor",
+          "score": -2
+        },
+        {
+          "word": "admite",
+          "score": -1
         }
       ]
     },
@@ -124,54 +174,61 @@
     },
     {
       "source": "El País",
-      "title": "Los primeros testigos desinflan uno de los indicios esgrimidos por las acusacion",
+      "title": "La corriente del Pisuerga alejó a la madre y la abuela que murieron ahogadas en ",
       "score": 3.4,
       "words": [
         {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "autor",
+          "word": "infantil",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Irán suspende las",
-      "score": 5.53,
+      "title": "“¡Queremos gordas!”: la Casita de Bad Bunny y la polémica por la selección de mu",
+      "score": 3.4,
       "words": [
         {
-          "word": "guerra",
+          "word": "polémica",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Iván Cepeda: “No hay irregularidades de dimensiones suficientes para hablar de f",
+      "score": 2.8,
+      "words": [
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "puesto",
           "score": -2
         },
+        {
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Abelardo de la Espriella, tras su victoria en Colombia y los cuestionamientos de",
+      "score": 5.0,
+      "words": [
         {
           "word": "fuerza",
           "score": 2
         },
         {
-          "word": "desalojo",
-          "score": -1
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las millonarias colecciones de vino de Napoleón y Stalin salen a subasta",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "valor",
-          "score": 2
+          "word": "advierte",
+          "score": -2
         }
       ]
     },
@@ -195,50 +252,55 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Abelardo de la Espriella, tras su victoria en Colombia y los cuestionamientos de",
-      "score": 5.0,
+      "source": "elDiario.es",
+      "title": "Trump intenta salvar las negociaciones con Irán y pacta con Netanyahu que Israel",
+      "score": 5.42,
       "words": [
         {
-          "word": "fuerza",
+          "word": "salvar",
           "score": 2
         },
         {
-          "word": "advierte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Petro se niega a aceptar los resultados de la primera vuelta",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "aceptar",
-          "score": 1
-        },
-        {
-          "word": "dudas",
+          "word": "evitar",
           "score": -1
         },
         {
-          "word": "asegurar",
-          "score": 1
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "paz",
+          "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Siete claves de las elecciones en Colombia: el auge ultra, la unidad de la izqui",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "Teherán suspende las negociaciones con EEUU por los ataques de Israel en Líbano,",
+      "score": 4.33,
       "words": [
         {
-          "word": "importancia",
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "asegura",
           "score": 2
         }
       ]
@@ -323,67 +385,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El comisario Pino exculpa en Kitchen al resto de acusados, señala a Cosidó y den",
-      "score": 4.28,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Aquel gobierno azul",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "aventuras",
-          "score": 2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "prohibido",
-          "score": -2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-14T23:55:51Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-05-15T02:59:28Z",
       "score": 4.69
@@ -1051,6 +1055,10 @@
     {
       "timestamp": "2026-06-01T15:54:03Z",
       "score": 4.89
+    },
+    {
+      "timestamp": "2026-06-01T20:15:07Z",
+      "score": 4.81
     }
   ]
 }

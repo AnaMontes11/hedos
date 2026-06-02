@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-02T18:37:28Z",
-  "global_score": 4.72,
-  "articles_scored": 81,
-  "words_matched": 211,
+  "generated": "2026-06-02T21:46:23Z",
+  "global_score": 4.64,
+  "articles_scored": 80,
+  "words_matched": 203,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -31,19 +35,11 @@
     {
       "word": "delito",
       "score": -3
-    },
-    {
-      "word": "furioso",
-      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganar",
       "score": 4
     },
     {
@@ -55,11 +51,11 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "sentido",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.0,
+    "El País": 3.6,
     "elDiario.es": 4.99,
-    "El Mundo": 4.32,
-    "ABC": 5.25,
-    "El Confidencial": 5.35,
-    "BBC Mundo": 4.66,
-    "France 24 ES": 4.48,
-    "La Nación AR": 5.37,
+    "El Mundo": 4.56,
+    "ABC": 5.34,
+    "El Confidencial": 5.27,
+    "BBC Mundo": 4.62,
+    "France 24 ES": 4.24,
+    "La Nación AR": 4.28,
     "La Jornada MX": 4.43,
     "Desinformémonos": 4.86,
-    "Resumen Latinoam.": 4.18
+    "Resumen Latinoam.": 4.22
   },
   "articles": [
     {
@@ -106,16 +106,16 @@
     },
     {
       "source": "El País",
-      "title": "Una candidata al puesto de David Sánchez que denunció años después asegura que s",
-      "score": 5.0,
+      "title": "Una candidata al puesto de David Sánchez denuncia irregularidades, pero una doce",
+      "score": 3.4,
       "words": [
         {
           "word": "puesto",
           "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "denuncia",
+          "score": -2
         }
       ]
     },
@@ -428,10 +428,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-15T18:20:25Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-05-15T20:14:39Z",
       "score": 4.74
@@ -1099,6 +1095,10 @@
     {
       "timestamp": "2026-06-02T18:37:28Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-02T21:46:23Z",
+      "score": 4.64
     }
   ]
 }

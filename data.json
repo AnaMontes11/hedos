@@ -1,21 +1,9 @@
 {
-  "generated": "2026-06-02T14:50:03Z",
-  "global_score": 4.58,
+  "generated": "2026-06-02T18:37:28Z",
+  "global_score": 4.72,
   "articles_scored": 81,
-  "words_matched": 219,
+  "words_matched": 211,
   "top_negative": [
-    {
-      "word": "puto",
-      "score": -5
-    },
-    {
-      "word": "coño",
-      "score": -5
-    },
-    {
-      "word": "culo",
-      "score": -4
-    },
     {
       "word": "fraude",
       "score": -4
@@ -25,15 +13,27 @@
       "score": -4
     },
     {
-      "word": "tortura",
-      "score": -4
+      "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "vil",
+      "score": -3
+    },
+    {
+      "word": "criminal",
+      "score": -3
     },
     {
       "word": "delito",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "furioso",
       "score": -3
     }
   ],
@@ -43,19 +43,15 @@
       "score": 4
     },
     {
-      "word": "maravilloso",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "gracioso",
-      "score": 4
+      "word": "caro",
+      "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "celebrar",
       "score": 3
     },
     {
@@ -63,31 +59,35 @@
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "leal",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.27,
-    "elDiario.es": 4.85,
-    "El Mundo": 3.98,
-    "ABC": 4.5,
-    "El Confidencial": 5.8,
-    "BBC Mundo": 4.9,
-    "France 24 ES": 4.37,
-    "La Nación AR": 4.88,
+    "El País": 4.0,
+    "elDiario.es": 4.99,
+    "El Mundo": 4.32,
+    "ABC": 5.25,
+    "El Confidencial": 5.35,
+    "BBC Mundo": 4.66,
+    "France 24 ES": 4.48,
+    "La Nación AR": 5.37,
     "La Jornada MX": 4.43,
-    "Desinformémonos": 4.04,
-    "Resumen Latinoam.": 4.75
+    "Desinformémonos": 4.86,
+    "Resumen Latinoam.": 4.18
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Feijóo esquiva en Barcelona la propuesta de negociar en Waterloo y con Puigdemon",
+      "title": "Feijóo, sobre ir a Waterloo a negociar con Puigdemont la moción de censura: “Hab",
       "score": 6.6,
       "words": [
         {
@@ -106,58 +106,38 @@
     },
     {
       "source": "El País",
-      "title": "La defensa de David Sánchez, a una testigo clave de las acusaciones: “¿Por qué n",
-      "score": 3.4,
+      "title": "Una candidata al puesto de David Sánchez que denunció años después asegura que s",
+      "score": 5.0,
       "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
         {
           "word": "puesto",
           "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Putin anuncia una “nueva dimensión” en la guerra contra Ucrania y lanza un inten",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "intenso",
-          "score": 1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel y Hezbolá mantienen el fuego cruzado pese al anuncio de Trump del fin de ",
+      "title": "Bruselas cede y se abre a relajar las reglas de gasto público para que los Estad",
       "score": 2.6,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
-        },
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Petro insiste en cuestionar las elecciones: “Presento las bases comprobadas del ",
+      "score": 1.8,
+      "words": [
         {
-          "word": "puto",
-          "score": -5
-        },
-        {
-          "word": "loco",
-          "score": -2
+          "word": "fraude",
+          "score": -4
         }
       ]
     },
@@ -244,7 +224,7 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La jueza que investiga a Miguel Ángel Rodríguez por señalar a periodistas llama ",
+      "title": "La jueza que investiga a Miguel Ángel Rodríguez llama a declarar a la pareja de ",
       "score": 5.0,
       "words": [
         {
@@ -272,7 +252,7 @@
     {
       "source": "elDiario.es",
       "title": "Una de las aspirantes a la plaza de David Sánchez declara que no hubo “igualdad ",
-      "score": 5.0,
+      "score": 5.06,
       "words": [
         {
           "word": "oportunidades",
@@ -292,60 +272,6 @@
         },
         {
           "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La primera jornada de testigos desmorona el relato del amaño en la plaza del her",
-      "score": 4.5,
-      "words": [
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Al banquillo por un chascarrillo",
-      "score": 4.38,
-      "words": [
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "picante",
-          "score": -2
-        },
-        {
-          "word": "frase",
           "score": -2
         }
       ]
@@ -432,6 +358,60 @@
       ]
     },
     {
+      "source": "elDiario.es",
+      "title": "Trump coloca a un leal sin experiencia como director interino de Inteligencia Na",
+      "score": 5.12,
+      "words": [
+        {
+          "word": "leal",
+          "score": 3
+        },
+        {
+          "word": "leal",
+          "score": 3
+        },
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump intenta rebajar la tensión en Líbano para salvar su pacto con Irán, pero N",
+      "score": 5.11,
+      "words": [
+        {
+          "word": "tensión",
+          "score": -1
+        },
+        {
+          "word": "salvar",
+          "score": 2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
       "source": "El Mundo",
       "title": "La testigo clave pone en jaque la puntuación del concurso de la plaza que ganó D",
       "score": 5.0,
@@ -448,10 +428,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-15T16:49:03Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-05-15T18:20:25Z",
       "score": 4.66
@@ -1119,6 +1095,10 @@
     {
       "timestamp": "2026-06-02T14:50:03Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-06-02T18:37:28Z",
+      "score": 4.72
     }
   ]
 }

@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-01T23:00:02Z",
-  "global_score": 4.76,
-  "articles_scored": 89,
-  "words_matched": 235,
+  "generated": "2026-06-02T00:21:16Z",
+  "global_score": 4.65,
+  "articles_scored": 91,
+  "words_matched": 241,
   "top_negative": [
     {
-      "word": "negro",
+      "word": "coño",
       "score": -5
     },
     {
@@ -21,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "culo",
+      "score": -4
+    },
+    {
       "word": "tortura",
       "score": -4
     },
@@ -30,10 +34,6 @@
     },
     {
       "word": "muerto",
-      "score": -3
-    },
-    {
-      "word": "enemigos",
       "score": -3
     }
   ],
@@ -51,7 +51,15 @@
       "score": 3
     },
     {
+      "word": "felicidad",
+      "score": 3
+    },
+    {
       "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "prestigio",
       "score": 3
     },
     {
@@ -61,28 +69,20 @@
     {
       "word": "celebra",
       "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 4.41,
     "elDiario.es": 4.64,
-    "El Mundo": 4.75,
-    "ABC": 5.02,
+    "El Mundo": 4.55,
+    "ABC": 5.29,
     "El Confidencial": 4.88,
     "BBC Mundo": 4.7,
-    "France 24 ES": 4.32,
-    "La Nación AR": 6.6,
+    "France 24 ES": 4.34,
+    "La Nación AR": 4.31,
     "La Jornada MX": 4.78,
     "Desinformémonos": 4.09,
-    "Resumen Latinoam.": 5.02
+    "Resumen Latinoam.": 5.04
   },
   "articles": [
     {
@@ -372,10 +372,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-15T06:37:43Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-15T09:45:23Z",
       "score": 4.65
@@ -1043,6 +1039,10 @@
     {
       "timestamp": "2026-06-01T23:00:02Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-02T00:21:16Z",
+      "score": 4.65
     }
   ]
 }

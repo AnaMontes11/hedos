@@ -1,24 +1,12 @@
 {
-  "generated": "2026-06-02T00:21:16Z",
-  "global_score": 4.65,
-  "articles_scored": 91,
-  "words_matched": 241,
+  "generated": "2026-06-02T05:28:22Z",
+  "global_score": 4.82,
+  "articles_scored": 87,
+  "words_matched": 277,
   "top_negative": [
     {
       "word": "coño",
       "score": -5
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "torturas",
-      "score": -4
-    },
-    {
-      "word": "defraudadores",
-      "score": -4
     },
     {
       "word": "culo",
@@ -29,21 +17,37 @@
       "score": -4
     },
     {
-      "word": "retirada",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "muerto",
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "vil",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "triunfo",
       "score": 4
     },
     {
-      "word": "ganar",
+      "word": "gracioso",
       "score": 4
     },
     {
@@ -51,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "suerte",
       "score": 3
     },
     {
@@ -63,28 +67,132 @@
       "score": 3
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
       "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.41,
-    "elDiario.es": 4.64,
-    "El Mundo": 4.55,
-    "ABC": 5.29,
-    "El Confidencial": 4.88,
-    "BBC Mundo": 4.7,
-    "France 24 ES": 4.34,
-    "La Nación AR": 4.31,
+    "El País": 5.22,
+    "elDiario.es": 4.81,
+    "El Mundo": 4.8,
+    "ABC": 5.26,
+    "El Confidencial": 5.03,
+    "BBC Mundo": 4.77,
+    "France 24 ES": 4.64,
+    "La Nación AR": 4.16,
     "La Jornada MX": 4.78,
     "Desinformémonos": 4.09,
-    "Resumen Latinoam.": 5.04
+    "Resumen Latinoam.": 4.82
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Sánchez cuestiona ante su cúpula el trato de la justicia al PSOE",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "ERC frena a Rufián en su petición de tener control sobre la lista para las gener",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "aprueba",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Jonathan Andic da la batalla de la opinión pública con la vista puesta ya en el ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los datos de precios y compras de vivienda reflejan un mercado al límite en el a",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "conflictos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Familias que sufren con la Selectividad: “Me da igual la nota, lo único que quie",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "corte",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Mapa de sitios oficiales para ver el eclipse total de Sol: EL PAÍS actualiza el ",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "reto",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España al borde de un ataque de algoritmos",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Al menos nueve muertos en un intenso ataque ruso contra distintas ciudades de Uc",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "intenso",
+          "score": 1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Trump intenta rescatar el preacuerdo con Irán y asegura que Israel frenará su of",
@@ -97,285 +205,169 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu respond",
-      "score": 4.6,
+      "source": "elDiario.es",
+      "title": "Junts y PNV ignoran la nueva intentona de Feijóo de atraerles a una moción de ce",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "oferta",
+          "score": 2
+        },
+        {
+          "word": "promesa",
+          "score": 1
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La primera jornada de testigos desmorona el relato del amaño en la plaza del her",
+      "score": 4.5,
+      "words": [
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El caso de la guerra sucia del PP contra Podemos: negativas de Pedraz a investig",
+      "score": 4.35,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "detener",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Feijóo ofrece a PNV y Junts un Gobierno sin Vox para ir a las urnas: “Hay 184 di",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "descartado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los primeros testigos dejan tocadas varias de las acusaciones contra el hermano ",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "acusaciones",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "autor",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "admite",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La profesora agredida en Valencia presenta una denuncia y la Policía Nacional ab",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "denuncia",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "huelga",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La corriente del Pisuerga alejó a la madre y la abuela que murieron ahogadas en ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "infantil",
+          "word": "guerra",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "“¡Queremos gordas!”: la Casita de Bad Bunny y la polémica por la selección de mu",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "Al banquillo por un chascarrillo",
+      "score": 4.38,
       "words": [
         {
-          "word": "polémica",
+          "word": "acusado",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Iván Cepeda: “No hay irregularidades de dimensiones suficientes para hablar de f",
-      "score": 2.8,
-      "words": [
-        {
-          "word": "fraude",
-          "score": -4
         },
         {
           "word": "puesto",
           "score": -2
         },
         {
-          "word": "duda",
-          "score": -1
+          "word": "delito",
+          "score": -3
         },
         {
-          "word": "fraude",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Petro entra al choque en la segunda vuelta presidencial de Colombia",
-      "score": 3.4,
-      "words": [
+          "word": "picante",
+          "score": -2
+        },
         {
-          "word": "choque",
+          "word": "frase",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Siete claves de las elecciones en Colombia: el auge ultra, la unidad de la izqui",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "importancia",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Trump intenta rebajar la tensión en Líbano para salvar su pacto con Irán, pero N",
-      "score": 5.11,
+      "title": "Un fondo israelí que se lucra con la ocupación de Palestina se refuerza en una e",
+      "score": 5.48,
       "words": [
         {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "salvar",
-          "score": 2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Teherán suspende las negociaciones con EEUU por los ataques de Israel en Líbano,",
-      "score": 4.33,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "ataques",
-          "score": -1
+          "word": "aumenta",
+          "score": 1
         },
         {
           "word": "asegura",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Uno de los dos testigos clave para incriminar a David Sánchez niega que hubiera ",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
         },
         {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "aclara",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Audiencia de Badajoz retira uno de los delitos de los que está acusado David ",
-      "score": 3.71,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "acusar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Villarejo atribuye ahora la operación Kitchen a la posible relación del rey emér",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "legal",
+          "word": "concedido",
           "score": 1
         },
         {
-          "word": "denuncia",
+          "word": "comprometido",
+          "score": 1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump necesita que alguien le diga que está ganando la guerra en Irán (aunque se",
+      "score": 4.83,
+      "words": [
+        {
+          "word": "ganando",
+          "score": 2
+        },
+        {
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "celebra",
-          "score": 3
+          "word": "ganando",
+          "score": 2
         },
         {
-          "word": "delincuente",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "ilegal",
-          "score": -3
+          "word": "guerra",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-15T09:45:23Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-05-15T11:53:31Z",
       "score": 4.78
@@ -1043,6 +1035,10 @@
     {
       "timestamp": "2026-06-02T00:21:16Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-06-02T05:28:22Z",
+      "score": 4.82
     }
   ]
 }

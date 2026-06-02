@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-02T10:18:05Z",
-  "global_score": 4.76,
-  "articles_scored": 87,
-  "words_matched": 228,
+  "generated": "2026-06-02T14:50:03Z",
+  "global_score": 4.58,
+  "articles_scored": 81,
+  "words_matched": 219,
   "top_negative": [
+    {
+      "word": "puto",
+      "score": -5
+    },
     {
       "word": "coño",
       "score": -5
@@ -13,7 +17,7 @@
       "score": -4
     },
     {
-      "word": "mierda",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -25,21 +29,21 @@
       "score": -4
     },
     {
-      "word": "preocupación",
-      "score": -3
-    },
-    {
       "word": "delito",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "delitos",
       "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "maravilloso",
       "score": 4
     },
     {
@@ -51,15 +55,11 @@
       "score": 4
     },
     {
+      "word": "felicidad",
+      "score": 3
+    },
+    {
       "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "celebra",
       "score": 3
     },
     {
@@ -67,121 +67,65 @@
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.73,
-    "elDiario.es": 5.03,
-    "El Mundo": 4.3,
-    "ABC": 5.14,
-    "El Confidencial": 5.83,
-    "BBC Mundo": 4.67,
-    "France 24 ES": 4.23,
-    "La Nación AR": 5.1,
+    "El País": 4.27,
+    "elDiario.es": 4.85,
+    "El Mundo": 3.98,
+    "ABC": 4.5,
+    "El Confidencial": 5.8,
+    "BBC Mundo": 4.9,
+    "France 24 ES": 4.37,
+    "La Nación AR": 4.88,
     "La Jornada MX": 4.43,
-    "Desinformémonos": 4.09,
-    "Resumen Latinoam.": 4.74
+    "Desinformémonos": 4.04,
+    "Resumen Latinoam.": 4.75
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Junts reta a Feijóo a reunirse en Waterloo con Puigdemont para plantear la moció",
-      "score": 5.8,
+      "title": "Feijóo esquiva en Barcelona la propuesta de negociar en Waterloo y con Puigdemon",
+      "score": 6.6,
       "words": [
         {
-          "word": "invitación",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Feijóo, sobre la posible moc",
-      "score": 4.2,
-      "words": [
+          "word": "negociar",
+          "score": 2
+        },
         {
           "word": "ayuda",
           "score": 2
         },
         {
-          "word": "preocupación",
-          "score": -3
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La defensa de David Sánchez, a una testigo clave de las acusaciones: “¿Por qué n",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
         },
         {
           "word": "denuncia",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | Trump abronca a N",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
         },
         {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "loco",
-          "score": -2
-        },
-        {
-          "word": "desalojo",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los datos de precios y compras de vivienda reflejan un mercado al límite en el a",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "conflictos",
+          "word": "puesto",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Familias que sufren con la Selectividad: “Me da igual la nota, lo único que quie",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "corte",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Mapa de sitios oficiales para ver el eclipse total de Sol: EL PAÍS actualiza el ",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "reto",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Putin anuncia una “nueva dimensión” en su guerra contra Ucrania y mata al menos ",
+      "title": "Putin anuncia una “nueva dimensión” en la guerra contra Ucrania y lanza un inten",
       "score": 4.47,
       "words": [
         {
@@ -200,11 +144,46 @@
     },
     {
       "source": "El País",
-      "title": "Las banderas ultras de Abelardo de la Espriella",
-      "score": 6.6,
+      "title": "Israel y Hezbolá mantienen el fuego cruzado pese al anuncio de Trump del fin de ",
+      "score": 2.6,
       "words": [
         {
-          "word": "ganado",
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "puto",
+          "score": -5
+        },
+        {
+          "word": "loco",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo descarta viajar a Waterloo para pedir a Puigdemont que apoye su moción de",
+      "score": 5.66,
+      "words": [
+        {
+          "word": "favores",
+          "score": 2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "descartado",
+          "score": -1
+        },
+        {
+          "word": "negociar",
           "score": 2
         }
       ]
@@ -238,54 +217,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PNV ignora la nueva intentona de Feijóo de atraerle a una moción de censura y",
-      "score": 4.84,
+      "title": "El Gobierno califica de “cinismo y desesperación” el llamamiento de Feijóo a PNV",
+      "score": 4.8,
       "words": [
         {
-          "word": "ignora",
-          "score": -1
-        },
-        {
-          "word": "ignora",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "oferta",
-          "score": 2
-        },
-        {
-          "word": "promesa",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Por qué el PP no presenta una moción de censura",
-      "score": 5.91,
-      "words": [
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "tiempo",
+          "word": "cinismo",
           "score": -2
         },
         {
-          "word": "importante",
-          "score": 2
+          "word": "desesperación",
+          "score": -2
         },
         {
-          "word": "viva",
-          "score": 1
+          "word": "cinismo",
+          "score": -2
         },
         {
-          "word": "premio",
+          "word": "desesperación",
+          "score": -2
+        },
+        {
+          "word": "popular",
           "score": 3
         }
       ]
@@ -319,27 +271,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El caso de la guerra sucia del PP contra Podemos: negativas de Pedraz a investig",
-      "score": 4.35,
+      "title": "Una de las aspirantes a la plaza de David Sánchez declara que no hubo “igualdad ",
+      "score": 5.0,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "oportunidades",
+          "score": 2
         },
         {
-          "word": "amenaza",
-          "score": -2
+          "word": "oportunidades",
+          "score": 2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "celebra",
+          "score": 3
         },
         {
-          "word": "amenaza",
-          "score": -2
+          "word": "oportunidades",
+          "score": 2
         },
         {
-          "word": "guerra",
+          "word": "denuncia",
           "score": -2
         }
       ]
@@ -397,13 +349,105 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El caso de la guerra sucia del PP contra Podemos: negativas de Pedraz a investig",
+      "score": 4.35,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Poder Judicial recrimina al Gobierno que ataque decisiones judiciales: \"Debil",
+      "score": 5.23,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "crítica",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump estalla contra Netanyahu por boicotear el acuerdo con Irán, según Axios: “",
+      "score": 4.34,
+      "words": [
+        {
+          "word": "boicotear",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "loco",
+          "score": -2
+        },
+        {
+          "word": "boicotear",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El Mundo",
+      "title": "La testigo clave pone en jaque la puntuación del concurso de la plaza que ganó D",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "oportunidades",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-15T14:00:46Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-05-15T16:49:03Z",
       "score": 4.67
@@ -1071,6 +1115,10 @@
     {
       "timestamp": "2026-06-02T10:18:05Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-02T14:50:03Z",
+      "score": 4.58
     }
   ]
 }

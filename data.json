@@ -1,13 +1,9 @@
 {
-  "generated": "2026-06-02T23:43:25Z",
-  "global_score": 4.65,
-  "articles_scored": 80,
-  "words_matched": 208,
+  "generated": "2026-06-03T03:49:07Z",
+  "global_score": 4.69,
+  "articles_scored": 84,
+  "words_matched": 207,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
@@ -35,6 +31,10 @@
     {
       "word": "delito",
       "score": -3
+    },
+    {
+      "word": "furioso",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -51,7 +51,7 @@
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "sentido",
       "score": 3
     },
     {
@@ -59,7 +59,7 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -74,12 +74,12 @@
   "per_source": {
     "El País": 3.6,
     "elDiario.es": 4.99,
-    "El Mundo": 4.56,
-    "ABC": 4.95,
-    "El Confidencial": 5.27,
-    "BBC Mundo": 4.68,
-    "France 24 ES": 3.91,
-    "La Nación AR": 4.6,
+    "El Mundo": 4.22,
+    "ABC": 4.58,
+    "El Confidencial": 5.25,
+    "BBC Mundo": 4.74,
+    "France 24 ES": 3.98,
+    "La Nación AR": 5.74,
     "La Jornada MX": 4.43,
     "Desinformémonos": 4.86,
     "Resumen Latinoam.": 4.86
@@ -413,25 +413,25 @@
     },
     {
       "source": "El Mundo",
-      "title": "La testigo clave pone en jaque la puntuación del concurso de la plaza que ganó D",
-      "score": 5.0,
+      "title": "Zapatero renuncia al 'lawfare' pero centrará su defensa en anular las pruebas",
+      "score": 3.4,
       "words": [
         {
-          "word": "denuncia",
-          "score": -2
+          "word": "renuncia",
+          "score": -1
         },
         {
-          "word": "oportunidades",
-          "score": 2
+          "word": "víctima",
+          "score": -3
+        },
+        {
+          "word": "choque",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-15T21:57:06Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-05-15T22:56:29Z",
       "score": 4.74
@@ -1099,6 +1099,10 @@
     {
       "timestamp": "2026-06-02T23:43:25Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-06-03T03:49:07Z",
+      "score": 4.69
     }
   ]
 }

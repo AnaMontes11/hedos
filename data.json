@@ -1,15 +1,11 @@
 {
-  "generated": "2026-06-03T08:52:37Z",
-  "global_score": 4.6,
-  "articles_scored": 87,
-  "words_matched": 233,
+  "generated": "2026-06-03T13:14:41Z",
+  "global_score": 4.87,
+  "articles_scored": 97,
+  "words_matched": 241,
   "top_negative": [
     {
       "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "coño",
       "score": -5
     },
     {
@@ -17,19 +13,23 @@
       "score": -4
     },
     {
-      "word": "puta",
-      "score": -4
-    },
-    {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "infierno",
-      "score": -4
+      "word": "criminal",
+      "score": -3
     },
     {
-      "word": "violencia",
+      "word": "vil",
+      "score": -3
+    },
+    {
+      "word": "soborno",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     },
     {
@@ -43,104 +43,126 @@
       "score": 4
     },
     {
-      "word": "ganar",
+      "word": "milagro",
       "score": 4
     },
     {
-      "word": "riguroso",
-      "score": 3
+      "word": "ganador",
+      "score": 4
     },
     {
       "word": "caro",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "impresionante",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "premios",
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "inspirador",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.33,
-    "elDiario.es": 4.89,
-    "El Mundo": 5.05,
-    "ABC": 4.78,
-    "El Confidencial": 4.79,
-    "BBC Mundo": 4.74,
-    "France 24 ES": 3.98,
-    "La Nación AR": 4.84,
-    "La Jornada MX": 4.43,
+    "El País": 5.13,
+    "elDiario.es": 4.95,
+    "El Mundo": 4.89,
+    "ABC": 4.79,
+    "El Confidencial": 5.16,
+    "BBC Mundo": 4.54,
+    "France 24 ES": 4.09,
+    "La Nación AR": 5.49,
+    "La Jornada MX": 5.36,
     "Desinformémonos": 4.86,
-    "Resumen Latinoam.": 4.23
+    "Resumen Latinoam.": 4.58
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Meliá también cede ante la presión de Trump y abandona la gestión de 15 hoteles ",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "abandona",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PP y Vox alcanzan un acuerdo de gobierno en Castilla y León  que incluye la “",
+      "title": "Última hora de la actualidad política, en directo | La UCO afirma que la operaci",
       "score": 5.8,
       "words": [
         {
-          "word": "acuerdo",
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "intereses",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Rusia intensifica los ataques contra Ucrania y sus amenazas a Europa: “Su pacífi",
-      "score": 5.0,
+      "title": "El juez del ‘caso Plus Ultra’ pide una tasación preliminar de las joyas de Zapat",
+      "score": 6.2,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
+          "word": "joyas",
+          "score": 1
         },
         {
-          "word": "amenazas",
+          "word": "valor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La UCO afirma que el puesto de alta dirección en la Diputación de Badajoz estaba",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "pacífico",
-          "score": 2
-        },
-        {
-          "word": "sueño",
-          "score": 1
+          "word": "celebra",
+          "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Inés Hernand sobre la polémica con Bad Bunny: “Se arma tanto revuelo porque es e",
+      "title": "Leo Messi, Premio Princesa de Asturias de los Deportes 2026",
+      "score": 7.8,
+      "words": [
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "ganador",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Messi: el mejor artesano",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "premio",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“Llegaron los cambios”: más diversidad en la polémica Casita de Bad Bunny",
       "score": 3.4,
       "words": [
         {
@@ -173,130 +195,65 @@
     },
     {
       "source": "El País",
-      "title": "La CBS despide al veterano periodista Scott Pelley tras criticar en una reunión ",
+      "title": "La profe y el poli",
       "score": 3.4,
       "words": [
         {
-          "word": "criticar",
+          "word": "desprecio",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los precios de las entradas del Mundial provocan que los hinchas deban recortar ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "aficionado",
-          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El PP cierra un acuerdo con Vox en Castilla y León que incluye \"prioridad nacion",
-      "score": 5.6,
+      "title": "La UCO ubica a Santos Cerdán al frente de la trama para desactivar causas judici",
+      "score": 5.8,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La llave de judo de Junts a Feijóo",
-      "score": 5.07,
-      "words": [
-        {
-          "word": "decepcionar",
-          "score": -2
-        },
-        {
-          "word": "oportunidad",
+          "word": "responsable",
           "score": 2
         },
         {
-          "word": "fuerza",
+          "word": "poderoso",
+          "score": 2
+        },
+        {
+          "word": "milagro",
+          "score": 4
+        },
+        {
+          "word": "superior",
           "score": 2
         },
         {
           "word": "puesto",
           "score": -2
-        },
-        {
-          "word": "negro",
-          "score": -5
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Junts reta a Feijóo a reunirse con Puigdemont en Waterloo si quiere buscar su ap",
-      "score": 5.24,
+      "title": "Carmen Pano afirma que pidió 2.500 euros al mes y sufragar la boda de su hija pa",
+      "score": 3.67,
       "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "descartado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo vuelve a decepcionar a los empresarios catalanes reunidos en el Cercle: \"",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "decepcionar",
-          "score": -2
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
         {
           "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "cobrar",
           "score": -2
         }
       ]
@@ -330,64 +287,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP citará en el Senado a Salvador Illa y otros señalados por Pedraz en el 'ca",
-      "score": 6.5,
+      "title": "El jefe de la UCO sugiere sin pruebas una \"influencia política superior\" en la c",
+      "score": 4.94,
       "words": [
         {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "gracias",
+          "word": "superior",
           "score": 2
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "sol",
+          "word": "superior",
           "score": 2
         },
         {
-          "word": "responsable",
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "superior",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump, atrapado en la guerra a la que le empujó Netanyahu",
-      "score": 4.34,
+      "title": "El juez Peinado pospone la audiencia preliminar del caso Begoña Gómez al 15 de j",
+      "score": 4.33,
       "words": [
         {
-          "word": "atrapado",
+          "word": "pospone",
+          "score": -1
+        },
+        {
+          "word": "pospone",
+          "score": -1
+        },
+        {
+          "word": "advertir",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La llave de judo de Junts a Feijóo",
+      "score": 5.07,
+      "words": [
+        {
+          "word": "decepcionar",
           "score": -2
         },
         {
-          "word": "atrapado",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "fuerte",
+          "word": "oportunidad",
           "score": 2
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "negro",
+          "score": -5
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-15T23:55:07Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-05-16T02:40:28Z",
       "score": 4.54
@@ -1055,6 +1035,10 @@
     {
       "timestamp": "2026-06-03T08:52:37Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-06-03T13:14:41Z",
+      "score": 4.87
     }
   ]
 }

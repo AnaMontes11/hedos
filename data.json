@@ -1,19 +1,23 @@
 {
-  "generated": "2026-06-03T13:14:41Z",
-  "global_score": 4.87,
-  "articles_scored": 97,
-  "words_matched": 241,
+  "generated": "2026-06-03T18:21:12Z",
+  "global_score": 5.02,
+  "articles_scored": 90,
+  "words_matched": 203,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
     },
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "puta",
+      "score": -4
+    },
+    {
+      "word": "torturas",
       "score": -4
     },
     {
@@ -25,21 +29,17 @@
       "score": -3
     },
     {
-      "word": "soborno",
+      "word": "malo",
       "score": -3
     },
     {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "culpa",
+      "word": "mal",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -51,6 +51,10 @@
       "score": 4
     },
     {
+      "word": "leal",
+      "score": 3
+    },
+    {
       "word": "caro",
       "score": 3
     },
@@ -59,35 +63,50 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "inspirador",
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.13,
-    "elDiario.es": 4.95,
-    "El Mundo": 4.89,
-    "ABC": 4.79,
-    "El Confidencial": 5.16,
-    "BBC Mundo": 4.54,
-    "France 24 ES": 4.09,
-    "La Nación AR": 5.49,
+    "El País": 5.78,
+    "elDiario.es": 4.99,
+    "El Mundo": 5.09,
+    "ABC": 4.97,
+    "El Confidencial": 5.56,
+    "BBC Mundo": 4.31,
+    "France 24 ES": 4.78,
+    "La Nación AR": 4.0,
     "La Jornada MX": 5.36,
-    "Desinformémonos": 4.86,
-    "Resumen Latinoam.": 4.58
+    "Desinformémonos": 5.01,
+    "Resumen Latinoam.": 5.22
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | La UCO afirma que la operaci",
+      "title": "Última hora de la actualidad política, en directo | Un agente de la UCO declaró ",
+      "score": 6.33,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "intereses",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La UCO afirma que la operación de Cerdán y Díez buscaba “proteger los intereses”",
       "score": 5.8,
       "words": [
         {
@@ -102,61 +121,12 @@
     },
     {
       "source": "El País",
-      "title": "El juez del ‘caso Plus Ultra’ pide una tasación preliminar de las joyas de Zapat",
-      "score": 6.2,
+      "title": "Dos altos mandos de la Guardia Civil acusan al exdirector general de ordenarles ",
+      "score": 6.6,
       "words": [
         {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "valor",
+          "word": "asegura",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La UCO afirma que el puesto de alta dirección en la Diputación de Badajoz estaba",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Leo Messi, Premio Princesa de Asturias de los Deportes 2026",
-      "score": 7.8,
-      "words": [
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "ganador",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Messi: el mejor artesano",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "premio",
-          "score": 3
         }
       ]
     },
@@ -184,23 +154,35 @@
     },
     {
       "source": "El País",
-      "title": "Los microbios de Ötzi, el hombre de los hielos, se despiertan miles de años desp",
-      "score": 3.4,
+      "title": "Leo Messi, Premio Princesa de Asturias de los Deportes 2026",
+      "score": 7.8,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "ganador",
+          "score": 4
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La profe y el poli",
-      "score": 3.4,
+      "title": "El Princesa de Asturias, el premio con el que seguramente no contaba Leo Messi",
+      "score": 7.13,
       "words": [
         {
-          "word": "desprecio",
-          "score": -2
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "solidaridad",
+          "score": 2
+        },
+        {
+          "word": "premio",
+          "score": 3
         }
       ]
     },
@@ -228,6 +210,33 @@
         {
           "word": "puesto",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El jefe de la UCO declaró que el exdirector de la Guardia Civil ordenó cambiar u",
+      "score": 4.42,
+      "words": [
+        {
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "malo",
+          "score": -3
+        },
+        {
+          "word": "indignado",
+          "score": -2
+        },
+        {
+          "word": "mal",
+          "score": -3
         }
       ]
     },
@@ -287,7 +296,34 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El jefe de la UCO sugiere sin pruebas una \"influencia política superior\" en la c",
+      "title": "La UCO atribuye las investigaciones dentro de la Guardia Civil por filtraciones ",
+      "score": 4.1,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "malo",
+          "score": -3
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La UCO sugiere sin pruebas una \"influencia política superior\" en la creación de ",
       "score": 4.94,
       "words": [
         {
@@ -314,64 +350,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Peinado pospone la audiencia preliminar del caso Begoña Gómez al 15 de j",
-      "score": 4.33,
+      "title": "El juez Calama pide una tasación de las joyas encontradas en la caja fuerte del ",
+      "score": 5.85,
       "words": [
         {
-          "word": "pospone",
-          "score": -1
+          "word": "joyas",
+          "score": 1
         },
         {
-          "word": "pospone",
-          "score": -1
+          "word": "fuerte",
+          "score": 2
         },
         {
-          "word": "advertir",
-          "score": -2
+          "word": "joyas",
+          "score": 1
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "fuerte",
+          "score": 2
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "promesa",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La llave de judo de Junts a Feijóo",
-      "score": 5.07,
+      "title": "Mañueco también acata la 'prioridad nacional' y da a Vox una vicepresidencia y t",
+      "score": 5.96,
       "words": [
         {
-          "word": "decepcionar",
+          "word": "inspirador",
+          "score": 3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "oportunidad",
-          "score": 2
+          "word": "popular",
+          "score": 3
         },
         {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "negro",
-          "score": -5
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-16T02:40:28Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-05-16T05:52:26Z",
       "score": 4.75
@@ -1039,6 +1071,10 @@
     {
       "timestamp": "2026-06-03T13:14:41Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-06-03T18:21:12Z",
+      "score": 5.02
     }
   ]
 }

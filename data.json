@@ -1,11 +1,27 @@
 {
-  "generated": "2026-06-03T03:49:07Z",
-  "global_score": 4.69,
-  "articles_scored": 84,
-  "words_matched": 207,
+  "generated": "2026-06-03T08:52:37Z",
+  "global_score": 4.6,
+  "articles_scored": 87,
+  "words_matched": 233,
   "top_negative": [
     {
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "coño",
+      "score": -5
+    },
+    {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "puta",
+      "score": -4
+    },
+    {
+      "word": "culo",
       "score": -4
     },
     {
@@ -13,27 +29,11 @@
       "score": -4
     },
     {
-      "word": "crisis",
+      "word": "violencia",
       "score": -3
     },
     {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "furioso",
+      "word": "culpa",
       "score": -3
     }
   ],
@@ -43,11 +43,19 @@
       "score": 4
     },
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "riguroso",
+      "score": 3
+    },
+    {
       "word": "caro",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "premio",
       "score": 3
     },
     {
@@ -55,116 +63,187 @@
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "leal",
-      "score": 3
-    },
-    {
-      "word": "premio",
+      "word": "perfectamente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.6,
-    "elDiario.es": 4.99,
-    "El Mundo": 4.22,
-    "ABC": 4.58,
-    "El Confidencial": 5.25,
+    "El País": 4.33,
+    "elDiario.es": 4.89,
+    "El Mundo": 5.05,
+    "ABC": 4.78,
+    "El Confidencial": 4.79,
     "BBC Mundo": 4.74,
     "France 24 ES": 3.98,
-    "La Nación AR": 5.74,
+    "La Nación AR": 4.84,
     "La Jornada MX": 4.43,
     "Desinformémonos": 4.86,
-    "Resumen Latinoam.": 4.86
+    "Resumen Latinoam.": 4.23
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Feijóo, sobre ir a Waterloo a negociar con Puigdemont la moción de censura: “Hab",
-      "score": 6.6,
+      "title": "Meliá también cede ante la presión de Trump y abandona la gestión de 15 hoteles ",
+      "score": 3.67,
       "words": [
         {
-          "word": "negociar",
-          "score": 2
+          "word": "presión",
+          "score": -1
         },
         {
-          "word": "ayuda",
-          "score": 2
+          "word": "abandona",
+          "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "solo",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Una candidata al puesto de David Sánchez denuncia irregularidades, pero una doce",
+      "title": "El PP y Vox alcanzan un acuerdo de gobierno en Castilla y León  que incluye la “",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Rusia intensifica los ataques contra Ucrania y sus amenazas a Europa: “Su pacífi",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "pacífico",
+          "score": 2
+        },
+        {
+          "word": "sueño",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Inés Hernand sobre la polémica con Bad Bunny: “Se arma tanto revuelo porque es e",
       "score": 3.4,
       "words": [
         {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
+          "word": "polémica",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Bruselas cede y se abre a relajar las reglas de gasto público para que los Estad",
-      "score": 2.6,
+      "title": "Marc Giró: “No estamos para equidistancias, soy radicalmente de izquierdas y ant",
+      "score": 3.4,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
+          "word": "late",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Petro insiste en cuestionar las elecciones: “Presento las bases comprobadas del ",
-      "score": 1.8,
+      "title": "Los microbios de Ötzi, el hombre de los hielos, se despiertan miles de años desp",
+      "score": 3.4,
       "words": [
         {
-          "word": "fraude",
-          "score": -4
+          "word": "muerte",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La CBS despide al veterano periodista Scott Pelley tras criticar en una reunión ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "criticar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los precios de las entradas del Mundial provocan que los hinchas deban recortar ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "aficionado",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo descarta viajar a Waterloo para pedir a Puigdemont que apoye su moción de",
-      "score": 5.66,
+      "title": "El PP cierra un acuerdo con Vox en Castilla y León que incluye \"prioridad nacion",
+      "score": 5.6,
       "words": [
         {
-          "word": "favores",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La llave de judo de Junts a Feijóo",
+      "score": 5.07,
+      "words": [
+        {
+          "word": "decepcionar",
+          "score": -2
+        },
+        {
+          "word": "oportunidad",
           "score": 2
         },
         {
-          "word": "ayuda",
+          "word": "fuerza",
           "score": 2
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "puesto",
+          "score": -2
         },
         {
-          "word": "descartado",
-          "score": -1
-        },
-        {
-          "word": "negociar",
-          "score": 2
+          "word": "negro",
+          "score": -5
         }
       ]
     },
@@ -197,245 +276,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno califica de “cinismo y desesperación” el llamamiento de Feijóo a PNV",
-      "score": 4.8,
+      "title": "Feijóo vuelve a decepcionar a los empresarios catalanes reunidos en el Cercle: \"",
+      "score": 5.4,
       "words": [
         {
-          "word": "cinismo",
+          "word": "decepcionar",
           "score": -2
         },
         {
-          "word": "desesperación",
-          "score": -2
-        },
-        {
-          "word": "cinismo",
-          "score": -2
-        },
-        {
-          "word": "desesperación",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La jueza que investiga a Miguel Ángel Rodríguez llama a declarar a la pareja de ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "asegura",
+          "word": "oportunidad",
           "score": 2
         },
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        },
-        {
-          "word": "acosado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Una de las aspirantes a la plaza de David Sánchez declara que no hubo “igualdad ",
-      "score": 5.06,
-      "words": [
-        {
-          "word": "oportunidades",
+          "word": "favor",
           "score": 2
         },
         {
-          "word": "oportunidades",
-          "score": 2
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "oportunidades",
-          "score": 2
-        },
-        {
-          "word": "denuncia",
+          "word": "niega",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El caso de la guerra sucia del PP contra Podemos: negativas de Pedraz a investig",
-      "score": 4.35,
+      "title": "La abogada señalada por el juez niega ante la UCO haber ofrecido un soborno a Ca",
+      "score": 3.73,
       "words": [
         {
-          "word": "guerra",
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Poder Judicial recrimina al Gobierno que ataque decisiones judiciales: \"Debil",
-      "score": 5.23,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "crítica",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump estalla contra Netanyahu por boicotear el acuerdo con Irán, según Axios: “",
-      "score": 4.34,
-      "words": [
-        {
-          "word": "boicotear",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "loco",
-          "score": -2
-        },
-        {
-          "word": "boicotear",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump coloca a un leal sin experiencia como director interino de Inteligencia Na",
-      "score": 5.12,
-      "words": [
-        {
-          "word": "leal",
-          "score": 3
-        },
-        {
-          "word": "leal",
-          "score": 3
-        },
-        {
-          "word": "polémica",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump intenta rebajar la tensión en Líbano para salvar su pacto con Irán, pero N",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "salvar",
-          "score": 2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El Mundo",
-      "title": "Zapatero renuncia al 'lawfare' pero centrará su defensa en anular las pruebas",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "renuncia",
-          "score": -1
-        },
-        {
-          "word": "víctima",
+          "word": "soborno",
           "score": -3
         },
         {
-          "word": "choque",
+          "word": "niega",
           "score": -2
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "negar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP citará en el Senado a Salvador Illa y otros señalados por Pedraz en el 'ca",
+      "score": 6.5,
+      "words": [
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump, atrapado en la guerra a la que le empujó Netanyahu",
+      "score": 4.34,
+      "words": [
+        {
+          "word": "atrapado",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "atrapado",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-15T22:56:29Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-05-15T23:55:07Z",
       "score": 4.58
@@ -1103,6 +1051,10 @@
     {
       "timestamp": "2026-06-03T03:49:07Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-06-03T08:52:37Z",
+      "score": 4.6
     }
   ]
 }

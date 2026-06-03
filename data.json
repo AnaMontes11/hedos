@@ -1,19 +1,23 @@
 {
-  "generated": "2026-06-03T21:46:36Z",
-  "global_score": 4.82,
-  "articles_scored": 93,
-  "words_matched": 206,
+  "generated": "2026-06-03T23:40:38Z",
+  "global_score": 4.75,
+  "articles_scored": 89,
+  "words_matched": 204,
   "top_negative": [
-    {
-      "word": "perra",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
     },
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "torturas",
       "score": -4
     },
     {
@@ -31,23 +35,15 @@
     {
       "word": "malo",
       "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganar",
-      "score": 4
-    },
     {
       "word": "milagro",
       "score": 4
     },
     {
-      "word": "caro",
+      "word": "prestigio",
       "score": 3
     },
     {
@@ -55,7 +51,7 @@
       "score": 3
     },
     {
-      "word": "hermosa",
+      "word": "felicidad",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "inspirador",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.87,
+    "El País": 4.92,
     "elDiario.es": 4.91,
     "El Mundo": 4.59,
-    "ABC": 5.1,
+    "ABC": 4.46,
     "El Confidencial": 5.56,
-    "BBC Mundo": 4.16,
-    "France 24 ES": 4.84,
-    "La Nación AR": 4.08,
+    "BBC Mundo": 3.82,
+    "France 24 ES": 4.66,
+    "La Nación AR": 4.57,
     "La Jornada MX": 5.36,
-    "Desinformémonos": 5.01,
-    "Resumen Latinoam.": 4.36
+    "Desinformémonos": 4.48,
+    "Resumen Latinoam.": 4.77
   },
   "articles": [
     {
@@ -120,12 +120,16 @@
     },
     {
       "source": "El País",
-      "title": "Enrique Riquelme promete a Haaland si gana las elecciones a la presidencia del R",
-      "score": 6.6,
+      "title": "Enrique Riquelme promete el fichaje de Haaland si gana las elecciones y Florenti",
+      "score": 6.2,
       "words": [
         {
-          "word": "logra",
+          "word": "asegura",
           "score": 2
+        },
+        {
+          "word": "promesa",
+          "score": 1
         }
       ]
     },
@@ -142,12 +146,39 @@
     },
     {
       "source": "El País",
-      "title": "Por qué La Casita de Bad Bunny es en realidad una mentira",
-      "score": 6.6,
+      "title": "La guerra de Estados Unidos e Israel contra Irán, en directo | La Cámara de Repr",
+      "score": 4.87,
       "words": [
         {
-          "word": "tipo",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "aprueba",
           "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Estados Unidos envía a Venezuela al jefe de las Fuerzas Armadas",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -366,40 +397,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Bruselas advierte a España que debe \"reequilibrar el gasto público social entre ",
-      "score": 5.61,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "creciente",
-          "score": 1
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "mejorando",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-16T08:00:06Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-05-16T09:48:31Z",
       "score": 4.78
@@ -1067,6 +1067,10 @@
     {
       "timestamp": "2026-06-03T21:46:36Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-06-03T23:40:38Z",
+      "score": 4.75
     }
   ]
 }

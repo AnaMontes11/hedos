@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-03T18:21:12Z",
-  "global_score": 5.02,
-  "articles_scored": 90,
-  "words_matched": 203,
+  "generated": "2026-06-03T21:46:36Z",
+  "global_score": 4.82,
+  "articles_scored": 93,
+  "words_matched": 206,
   "top_negative": [
+    {
+      "word": "perra",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -13,19 +17,15 @@
       "score": -4
     },
     {
-      "word": "puta",
-      "score": -4
-    },
-    {
-      "word": "torturas",
-      "score": -4
-    },
-    {
-      "word": "criminal",
+      "word": "falso",
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "delito",
       "score": -3
     },
     {
@@ -47,14 +47,6 @@
       "score": 4
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "leal",
-      "score": 3
-    },
-    {
       "word": "caro",
       "score": 3
     },
@@ -63,59 +55,55 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "hermosa",
       "score": 3
     },
     {
       "word": "bueno",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "inspirador",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.78,
-    "elDiario.es": 4.99,
-    "El Mundo": 5.09,
-    "ABC": 4.97,
+    "El País": 4.87,
+    "elDiario.es": 4.91,
+    "El Mundo": 4.59,
+    "ABC": 5.1,
     "El Confidencial": 5.56,
-    "BBC Mundo": 4.31,
-    "France 24 ES": 4.78,
-    "La Nación AR": 4.0,
+    "BBC Mundo": 4.16,
+    "France 24 ES": 4.84,
+    "La Nación AR": 4.08,
     "La Jornada MX": 5.36,
     "Desinformémonos": 5.01,
-    "Resumen Latinoam.": 5.22
+    "Resumen Latinoam.": 4.36
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Un agente de la UCO declaró ",
-      "score": 6.33,
+      "title": "La UCO infiere que ‘el one’ citado por la trama de Leire “solo” puede ser Pedro ",
+      "score": 3.4,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "intereses",
-          "score": 1
+          "word": "solo",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La UCO afirma que la operación de Cerdán y Díez buscaba “proteger los intereses”",
-      "score": 5.8,
+      "title": "El PSOE circunscribe a Cerdán y Díez la trama para desprestigiar a jueces, fisca",
+      "score": 2.6,
       "words": [
         {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "intereses",
-          "score": 1
+          "word": "falso",
+          "score": -3
         }
       ]
     },
@@ -126,6 +114,17 @@
       "words": [
         {
           "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Enrique Riquelme promete a Haaland si gana las elecciones a la presidencia del R",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "logra",
           "score": 2
         }
       ]
@@ -143,46 +142,39 @@
     },
     {
       "source": "El País",
-      "title": "Marc Giró: “No estamos para equidistancias, soy radicalmente de izquierdas y ant",
-      "score": 3.4,
+      "title": "Por qué La Casita de Bad Bunny es en realidad una mentira",
+      "score": 6.6,
       "words": [
         {
-          "word": "late",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Leo Messi, Premio Princesa de Asturias de los Deportes 2026",
-      "score": 7.8,
-      "words": [
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "ganador",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Princesa de Asturias, el premio con el que seguramente no contaba Leo Messi",
-      "score": 7.13,
-      "words": [
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "solidaridad",
+          "word": "tipo",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La UCO atribuye las investigaciones dentro de la Guardia Civil por filtraciones ",
+      "score": 4.1,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "premio",
-          "score": 3
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "malo",
+          "score": -3
+        },
+        {
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -296,54 +288,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La UCO atribuye las investigaciones dentro de la Guardia Civil por filtraciones ",
-      "score": 4.1,
+      "title": "El PSOE afirma que ya actuó ante el caso Leire y habla de \"comportamientos indiv",
+      "score": 5.0,
       "words": [
         {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "malo",
-          "score": -3
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La UCO sugiere sin pruebas una \"influencia política superior\" en la creación de ",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "superior",
+          "word": "beneficio",
           "score": 2
         },
         {
-          "word": "superior",
+          "word": "asegurado",
           "score": 2
         },
         {
-          "word": "puesto",
+          "word": "vano",
           "score": -2
         },
         {
-          "word": "puesto",
-          "score": -2
+          "word": "falso",
+          "score": -3
         },
         {
-          "word": "superior",
+          "word": "beneficio",
           "score": 2
         }
       ]
@@ -377,37 +342,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Mañueco también acata la 'prioridad nacional' y da a Vox una vicepresidencia y t",
-      "score": 5.96,
+      "title": "La UCO sugiere sin pruebas una \"influencia política superior\" en la creación de ",
+      "score": 4.94,
       "words": [
         {
-          "word": "inspirador",
-          "score": 3
+          "word": "superior",
+          "score": 2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "superior",
+          "score": 2
         },
         {
-          "word": "cargos",
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "puesto",
+          "score": -2
         },
         {
-          "word": "acuerdo",
+          "word": "superior",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Bruselas advierte a España que debe \"reequilibrar el gasto público social entre ",
+      "score": 5.61,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "creciente",
           "score": 1
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "mejorando",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-16T05:52:26Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-16T08:00:06Z",
       "score": 4.69
@@ -1075,6 +1063,10 @@
     {
       "timestamp": "2026-06-03T18:21:12Z",
       "score": 5.02
+    },
+    {
+      "timestamp": "2026-06-03T21:46:36Z",
+      "score": 4.82
     }
   ]
 }

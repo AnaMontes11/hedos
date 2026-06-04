@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-04T11:49:59Z",
-  "global_score": 4.76,
-  "articles_scored": 93,
-  "words_matched": 203,
+  "generated": "2026-06-04T14:53:27Z",
+  "global_score": 4.67,
+  "articles_scored": 96,
+  "words_matched": 229,
   "top_negative": [
     {
       "word": "fraude",
@@ -13,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "maldición",
+      "word": "fraudes",
       "score": -4
     },
     {
@@ -21,41 +21,37 @@
       "score": -3
     },
     {
-      "word": "mal",
-      "score": -3
-    },
-    {
       "word": "delito",
       "score": -3
     },
     {
-      "word": "malo",
+      "word": "ilegal",
       "score": -3
     },
     {
       "word": "destruir",
       "score": -3
+    },
+    {
+      "word": "muerto",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "impresionante",
+      "word": "excelencia",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "exitoso",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
       "score": 3
     },
     {
       "word": "mayor",
-      "score": 3
-    },
-    {
-      "word": "suerte",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "celebrado",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.66,
-    "elDiario.es": 5.05,
-    "El Mundo": 5.33,
-    "ABC": 4.76,
+    "El País": 4.93,
+    "elDiario.es": 4.95,
+    "El Mundo": 4.75,
+    "ABC": 5.51,
     "El Confidencial": 5.1,
-    "BBC Mundo": 4.23,
-    "France 24 ES": 3.96,
-    "La Nación AR": 4.8,
-    "La Jornada MX": 5.36,
-    "Desinformémonos": 4.53,
-    "Resumen Latinoam.": 4.82
+    "BBC Mundo": 3.92,
+    "France 24 ES": 4.11,
+    "La Nación AR": 4.18,
+    "La Jornada MX": 4.74,
+    "Desinformémonos": 4.17,
+    "Resumen Latinoam.": 4.88
   },
   "articles": [
     {
@@ -163,35 +163,35 @@
     },
     {
       "source": "El País",
-      "title": "Carlos Bobillo, ‘pringado’ de Hakuna: “Es difícil de entender lo de dejar el tra",
-      "score": 4.6,
+      "title": "El consejero de Cultura de Ayuso se ríe del calor que pasan los niños en el cole",
+      "score": 6.6,
       "words": [
         {
-          "word": "difícil",
-          "score": -2
+          "word": "calor",
+          "score": 2
         },
         {
-          "word": "dejar",
-          "score": -1
+          "word": "inspiración",
+          "score": 2
         },
         {
-          "word": "renuncia",
-          "score": -1
+          "word": "calor",
+          "score": 2
         },
         {
-          "word": "dedicado",
+          "word": "calor",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Muere la historietista y cineasta Marjane Satrapi, autora de ‘Persépolis’, a los",
-      "score": 3.4,
+      "title": "Todos los cortes de tráfico de Madrid y Barcelona, calles a evitar y restriccion",
+      "score": 4.2,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
+          "word": "evitar",
+          "score": -1
         }
       ]
     },
@@ -223,30 +223,19 @@
     },
     {
       "source": "El País",
-      "title": "Todos los cortes de tráfico de Madrid y Barcelona, calles a evitar y restriccion",
-      "score": 4.2,
+      "title": "Muere la historietista y cineasta Marjane Satrapi, autora de ‘Persépolis’, a los",
+      "score": 3.4,
       "words": [
         {
-          "word": "evitar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La visita de León XIV mide la sintonía del Papa anti-Trump con la jerarquía cató",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "anti",
-          "score": -1
+          "word": "muerte",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "David Sánchez niega haber influido en la contratación de su amigo y afirma que n",
-      "score": 4.42,
+      "score": 4.26,
       "words": [
         {
           "word": "niega",
@@ -273,7 +262,7 @@
     {
       "source": "elDiario.es",
       "title": "Miguel Ángel Gallardo, sobre las acusaciones de la UCO: \"Es una novela de cienci",
-      "score": 4.66,
+      "score": 4.75,
       "words": [
         {
           "word": "acusaciones",
@@ -353,37 +342,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La trama Leire 'subcontrató' a Villarejo para lograr pruebas de la cloaca del PP",
-      "score": 5.34,
+      "title": "La trama amparada por Cerdán intentó influir en más de una decena de causas judi",
+      "score": 4.31,
       "words": [
         {
-          "word": "promesa",
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "dolor",
+          "score": -2
+        },
+        {
+          "word": "gratis",
           "score": 1
         },
         {
-          "word": "favor",
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "firme",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Claves de una trama conspiranoica y fantasiosa que intentó tumbar causas de la c",
+      "score": 4.68,
+      "words": [
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "dedicado",
           "score": 2
         },
         {
-          "word": "promesa",
-          "score": 1
+          "word": "denunciar",
+          "score": -2
         },
         {
-          "word": "favor",
-          "score": 2
+          "word": "destruir",
+          "score": -3
         },
         {
-          "word": "oferta",
-          "score": 2
+          "word": "ilegal",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-16T14:53:39Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-05-16T15:56:18Z",
       "score": 4.77
@@ -1051,6 +1063,10 @@
     {
       "timestamp": "2026-06-04T11:49:59Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-04T14:53:27Z",
+      "score": 4.67
     }
   ]
 }

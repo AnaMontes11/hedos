@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-04T17:43:53Z",
-  "global_score": 4.8,
-  "articles_scored": 96,
-  "words_matched": 220,
+  "generated": "2026-06-04T20:01:29Z",
+  "global_score": 4.74,
+  "articles_scored": 95,
+  "words_matched": 228,
   "top_negative": [
     {
       "word": "fraude",
@@ -13,7 +13,15 @@
       "score": -4
     },
     {
-      "word": "odio",
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "matar",
+      "score": -3
+    },
+    {
+      "word": "destruir",
       "score": -3
     },
     {
@@ -21,73 +29,65 @@
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "muerto",
       "score": -3
     },
     {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "desesperado",
-      "score": -3
-    },
-    {
-      "word": "destruir",
+      "word": "retirada",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "penetración",
+      "word": "bueno",
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "paraíso",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "devoto",
       "score": 3
     },
     {
       "word": "lealtad",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.28,
-    "elDiario.es": 5.15,
-    "El Mundo": 4.94,
-    "ABC": 5.4,
-    "El Confidencial": 5.49,
-    "BBC Mundo": 3.7,
-    "France 24 ES": 4.16,
-    "La Nación AR": 4.97,
+    "El País": 5.18,
+    "elDiario.es": 5.08,
+    "El Mundo": 4.72,
+    "ABC": 5.3,
+    "El Confidencial": 5.03,
+    "BBC Mundo": 3.95,
+    "France 24 ES": 4.8,
+    "La Nación AR": 4.9,
     "La Jornada MX": 4.74,
-    "Desinformémonos": 4.17,
-    "Resumen Latinoam.": 4.95
+    "Desinformémonos": 4.2,
+    "Resumen Latinoam.": 4.51
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La UCO reclama todos los movimientos bancarios del PSOE entre 2024 y 2025 y un i",
+      "title": "El juez reclama los movimientos bancarios de seis cuentas del PSOE entre 2024 y ",
       "score": 6.6,
       "words": [
         {
@@ -151,6 +151,25 @@
     },
     {
       "source": "El País",
+      "title": "PP, Vox y cuatro acusaciones elevan por sorpresa su petición de pena para David ",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "aceptado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Ayuso, a horas de la llegada del Papa a Madrid, sobre la regularización de migra",
       "score": 5.0,
       "words": [
@@ -199,66 +218,102 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Muere la historietista y cineasta Marjane Satrapi, autora de ‘Persépolis’, a los",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "El ex número dos de Interior con el PP dijo a Leire Díez que \"el CNI hizo inform",
+      "score": 5.83,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Marjane Satrapi: directa, cortante, transparente, desbordante, genial",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "genial",
-          "score": 3
+          "word": "limpiar",
+          "score": 2
         },
         {
-          "word": "odio",
+          "word": "promesa",
+          "score": 1
+        },
+        {
+          "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "robar",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
           "score": -3
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Hacienda promete acordar los Presupuestos de 2027 con los socios antes de presen",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "El juez Pedraz reclama al PSOE y al PSC sus movimientos bancarios de 2024 y 2025",
+      "score": 5.8,
       "words": [
         {
-          "word": "negociar",
+          "word": "limpiar",
+          "score": 2
+        },
+        {
+          "word": "aceptado",
+          "score": -1
+        },
+        {
+          "word": "valor",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Miguel Ángel Gallardo, sobre las acusaciones de la UCO: \"Es una novela de cienci",
-      "score": 4.75,
+      "title": "La trama amparada por Cerdán intentó influir en más de una decena de causas judi",
+      "score": 4.31,
+      "words": [
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "dolor",
+          "score": -2
+        },
+        {
+          "word": "gratis",
+          "score": 1
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "firme",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "PP, Vox y cuatro acusaciones ultras duplican la petición de prisión para David S",
+      "score": 3.98,
       "words": [
         {
           "word": "acusaciones",
           "score": -2
         },
         {
-          "word": "novela",
-          "score": 2
+          "word": "prisión",
+          "score": -2
         },
         {
           "word": "acusaciones",
           "score": -2
         },
         {
-          "word": "novela",
-          "score": 2
+          "word": "prisión",
+          "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "aumentado",
+          "score": 1
         }
       ]
     },
@@ -291,48 +346,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juicio de David Sánchez llega a su ecuador con un choque entre la UCO y el te",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La UCO pide al juez analizar seis cuentas del PSOE para comprobar si realizó pag",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "valor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Esteban da un portazo a la moción de censura \"instrumental\" de Feijóo y le acusa",
       "score": 5.44,
       "words": [
@@ -357,13 +370,36 @@
           "score": 1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP promete una \"reconstrucción nacional\" ante el 'caso Leire' y dice de Sánch",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "temible",
+          "score": -2
+        },
+        {
+          "word": "desesperado",
+          "score": -3
+        },
+        {
+          "word": "temible",
+          "score": -2
+        },
+        {
+          "word": "desesperado",
+          "score": -3
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-16T16:58:43Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-05-16T17:58:33Z",
       "score": 4.62
@@ -1031,6 +1067,10 @@
     {
       "timestamp": "2026-06-04T17:43:53Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-06-04T20:01:29Z",
+      "score": 4.74
     }
   ]
 }

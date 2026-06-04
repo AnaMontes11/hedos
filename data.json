@@ -1,20 +1,20 @@
 {
-  "generated": "2026-06-04T14:53:27Z",
-  "global_score": 4.67,
+  "generated": "2026-06-04T17:43:53Z",
+  "global_score": 4.8,
   "articles_scored": 96,
-  "words_matched": 229,
+  "words_matched": 220,
   "top_negative": [
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "violación",
       "score": -4
     },
     {
-      "word": "fraudes",
-      "score": -4
+      "word": "odio",
+      "score": -3
     },
     {
       "word": "delitos",
@@ -29,25 +29,25 @@
       "score": -3
     },
     {
-      "word": "destruir",
+      "word": "desesperado",
       "score": -3
     },
     {
-      "word": "muerto",
+      "word": "destruir",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excelencia",
-      "score": 3
+      "word": "victorias",
+      "score": 4
     },
     {
-      "word": "exitoso",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
-      "word": "lealtad",
+      "word": "penetración",
       "score": 3
     },
     {
@@ -59,11 +59,11 @@
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "lealtad",
       "score": 3
     },
     {
@@ -72,19 +72,30 @@
     }
   ],
   "per_source": {
-    "El País": 4.93,
-    "elDiario.es": 4.95,
-    "El Mundo": 4.75,
-    "ABC": 5.51,
-    "El Confidencial": 5.1,
-    "BBC Mundo": 3.92,
-    "France 24 ES": 4.11,
-    "La Nación AR": 4.18,
+    "El País": 5.28,
+    "elDiario.es": 5.15,
+    "El Mundo": 4.94,
+    "ABC": 5.4,
+    "El Confidencial": 5.49,
+    "BBC Mundo": 3.7,
+    "France 24 ES": 4.16,
+    "La Nación AR": 4.97,
     "La Jornada MX": 4.74,
     "Desinformémonos": 4.17,
-    "Resumen Latinoam.": 4.88
+    "Resumen Latinoam.": 4.95
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "La UCO reclama todos los movimientos bancarios del PSOE entre 2024 y 2025 y un i",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "exhaustivo",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Los audios del ‘caso Leire Díez’: “Mi siguiente conversación va a ser con la dir",
@@ -97,6 +108,21 @@
         {
           "word": "expone",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La UCO registra la sede de Tubos Reunidos por una pieza secreta del ‘caso Leire’",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "concesión",
+          "score": 1
+        },
+        {
+          "word": "ayuda",
+          "score": 2
         }
       ]
     },
@@ -120,29 +146,6 @@
         {
           "word": "puesto",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Miguel Ángel Gallardo tilda los informes de la UCO que le incriminan de “novela ",
-      "score": 6.0,
-      "words": [
-        {
-          "word": "novela",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "mejor",
-          "score": 3
         }
       ]
     },
@@ -197,32 +200,6 @@
     },
     {
       "source": "El País",
-      "title": "Riquelme en ‘El hormiguero’: un milmillonario hipotenso en el ‘prime time’",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "difícil",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las casitas de la Puerta de Alcalá",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Muere la historietista y cineasta Marjane Satrapi, autora de ‘Persépolis’, a los",
       "score": 3.4,
       "words": [
@@ -233,29 +210,28 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "David Sánchez niega haber influido en la contratación de su amigo y afirma que n",
-      "score": 4.26,
+      "source": "El País",
+      "title": "Marjane Satrapi: directa, cortante, transparente, desbordante, genial",
+      "score": 5.0,
       "words": [
         {
-          "word": "niega",
-          "score": -2
+          "word": "genial",
+          "score": 3
         },
         {
-          "word": "puesto",
-          "score": -2
-        },
+          "word": "odio",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Hacienda promete acordar los Presupuestos de 2027 con los socios antes de presen",
+      "score": 6.6,
+      "words": [
         {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
+          "word": "negociar",
+          "score": 2
         }
       ]
     },
@@ -288,6 +264,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "David Sánchez niega haber influido en la contratación de su amigo y afirma que n",
+      "score": 4.26,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El juicio de David Sánchez llega a su ecuador con un choque entre la UCO y el te",
       "score": 5.0,
       "words": [
@@ -315,91 +318,48 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los audios del sumario del 'caso Leire': \"Yo no estoy aquí para otra cosa que no",
-      "score": 5.64,
+      "title": "La UCO pide al juez analizar seis cuentas del PSOE para comprobar si realizó pag",
+      "score": 6.6,
       "words": [
         {
           "word": "limpiar",
           "score": 2
         },
         {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La trama amparada por Cerdán intentó influir en más de una decena de causas judi",
-      "score": 4.31,
-      "words": [
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "dolor",
-          "score": -2
-        },
-        {
-          "word": "gratis",
-          "score": 1
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "firme",
+          "word": "valor",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Claves de una trama conspiranoica y fantasiosa que intentó tumbar causas de la c",
-      "score": 4.68,
+      "title": "Esteban da un portazo a la moción de censura \"instrumental\" de Feijóo y le acusa",
+      "score": 5.44,
       "words": [
         {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "dedicado",
-          "score": 2
-        },
-        {
-          "word": "denunciar",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "destruir",
-          "score": -3
+          "word": "acusa",
+          "score": -2
         },
         {
-          "word": "ilegal",
-          "score": -3
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "deseo",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-16T15:56:18Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-05-16T16:58:43Z",
       "score": 4.71
@@ -1067,6 +1027,10 @@
     {
       "timestamp": "2026-06-04T14:53:27Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-06-04T17:43:53Z",
+      "score": 4.8
     }
   ]
 }

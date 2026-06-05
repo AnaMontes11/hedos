@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-05T09:41:07Z",
-  "global_score": 4.48,
-  "articles_scored": 89,
-  "words_matched": 284,
+  "generated": "2026-06-05T12:34:21Z",
+  "global_score": 4.69,
+  "articles_scored": 94,
+  "words_matched": 240,
   "top_negative": [
     {
       "word": "negro",
@@ -21,11 +21,7 @@
       "score": -4
     },
     {
-      "word": "abusos",
-      "score": -3
-    },
-    {
-      "word": "delitos",
+      "word": "mal",
       "score": -3
     },
     {
@@ -34,6 +30,10 @@
     },
     {
       "word": "matar",
+      "score": -3
+    },
+    {
+      "word": "malo",
       "score": -3
     }
   ],
@@ -47,19 +47,19 @@
       "score": 3
     },
     {
-      "word": "heroico",
+      "word": "emocionante",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "prestigio",
+      "word": "bueno",
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "amor",
       "score": 3
     },
     {
@@ -72,61 +72,50 @@
     }
   ],
   "per_source": {
-    "El País": 4.25,
-    "elDiario.es": 5.0,
-    "El Mundo": 4.68,
-    "ABC": 4.48,
-    "El Confidencial": 4.33,
-    "BBC Mundo": 3.83,
-    "France 24 ES": 4.45,
-    "La Nación AR": 5.33,
+    "El País": 5.49,
+    "elDiario.es": 5.12,
+    "El Mundo": 5.4,
+    "ABC": 4.53,
+    "El Confidencial": 4.51,
+    "BBC Mundo": 4.24,
+    "France 24 ES": 4.4,
+    "La Nación AR": 4.47,
     "La Jornada MX": 4.82,
     "Desinformémonos": 4.05,
-    "Resumen Latinoam.": 4.29
+    "Resumen Latinoam.": 5.1
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La realidad que la Iglesia sigue escondiendo: siete cardenales y 61 obispos espa",
-      "score": 3.4,
+      "title": "Sánchez: “Nunca avalé, conocí o permití nada de lo que hacía Leire Díez. Yo no h",
+      "score": 6.6,
       "words": [
         {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Esta es la lista de los 94 altos cargos de la Iglesia señalados por tapar casos ",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "cargos",
-          "score": -2
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "abusos",
-          "score": -3
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La firmeza del papa León XIV ante Trump convence a la mayoría en España",
-      "score": 4.47,
+      "title": "Última hora de la actualidad política, en directo | Sémper no cree que Sánchez d",
+      "score": 5.0,
       "words": [
         {
-          "word": "convence",
+          "word": "mal",
+          "score": -3
+        },
+        {
+          "word": "confianza",
           "score": 1
         },
         {
-          "word": "antagonista",
-          "score": -2
-        },
-        {
-          "word": "demanda",
-          "score": -1
+          "word": "apoyo",
+          "score": 2
         }
       ]
     },
@@ -143,35 +132,115 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | El PP cita a la directora de",
-      "score": 4.2,
+      "title": "Una comida de despedida “agridulce” para Lastra, la fiscal superior de Madrid qu",
+      "score": 5.2,
       "words": [
         {
-          "word": "apoyo",
+          "word": "superior",
           "score": 2
         },
         {
-          "word": "niega",
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "condena",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "‘Manoliño’ y otros delfines que se arriesgan acercándose a las personas para esc",
-      "score": 3.8,
+      "title": "Mariano de Paco, un gestor cultural que invierte en toros, elogia los “superpode",
+      "score": 5.0,
       "words": [
         {
-          "word": "escapar",
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "critica",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La realidad que la Iglesia sigue escondiendo: siete cardenales y 61 obispos espa",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El cardenal Omella, sobre los casos de encubrimiento de pederastia: “Hablamos de",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez se desvincula de las maniobras de Leire Díez: \"Ni lo avalé ni tuve infor",
+      "score": 5.19,
+      "words": [
+        {
+          "word": "respalda",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "ora",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Bolaños asegura que en el sumario \"no hay nada\" que indique que Sánchez conocier",
+      "score": 5.91,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "admite",
           "score": -1
         },
         {
-          "word": "peligro",
-          "score": -2
+          "word": "importancia",
+          "score": 2
         }
       ]
     },
@@ -285,33 +354,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Santos Cerdán niega su implicación en el ‘caso Leire’ y acusa a la UCO de \"destr",
-      "score": 4.71,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El juez Pedraz rechaza la reclamación de Zarrías sobre una incautación \"ilegal y",
       "score": 4.33,
       "words": [
@@ -339,91 +381,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Bolaños asegura que en el sumario \"no hay nada\" que indique que Sánchez conocier",
-      "score": 5.91,
+      "title": "Santos Cerdán niega su implicación en el caso Leire y acusa a la UCO de \"destroz",
+      "score": 4.71,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "importancia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Todas las promesas incumplidas de Leire Díez: ni \"exterminar\" jueces, ni \"destru",
-      "score": 3.94,
-      "words": [
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "proteger",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Miguel Díaz-Canel: \"Trump busca la asfixia de Cuba para que haya un estallido so",
-      "score": 4.83,
-      "words": [
-        {
-          "word": "asfixia",
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "asfixia",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "proteger",
-          "score": 1
+          "word": "niega",
+          "score": -2
         },
         {
-          "word": "permitir",
-          "score": 1
+          "word": "acusa",
+          "score": -2
         },
         {
-          "word": "presión",
-          "score": -1
+          "word": "choque",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-16T22:41:56Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-05-16T23:50:29Z",
       "score": 4.65
@@ -1091,6 +1075,10 @@
     {
       "timestamp": "2026-06-05T09:41:07Z",
       "score": 4.48
+    },
+    {
+      "timestamp": "2026-06-05T12:34:21Z",
+      "score": 4.69
     }
   ]
 }

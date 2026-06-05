@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-05T05:13:47Z",
-  "global_score": 4.56,
-  "articles_scored": 95,
-  "words_matched": 292,
+  "generated": "2026-06-05T09:41:07Z",
+  "global_score": 4.48,
+  "articles_scored": 89,
+  "words_matched": 284,
   "top_negative": [
     {
       "word": "negro",
@@ -21,37 +21,29 @@
       "score": -4
     },
     {
-      "word": "culo",
-      "score": -4
-    },
-    {
       "word": "abusos",
       "score": -3
     },
     {
-      "word": "escándalo",
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "conspiración",
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "matar",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "suerte",
-      "score": 3
+      "word": "milagro",
+      "score": 4
     },
     {
-      "word": "fiel",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "popular",
+      "word": "celebra",
       "score": 3
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "excelente",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.56,
-    "elDiario.es": 4.99,
-    "El Mundo": 4.44,
-    "ABC": 4.84,
-    "El Confidencial": 4.37,
-    "BBC Mundo": 3.61,
-    "France 24 ES": 4.76,
-    "La Nación AR": 5.07,
-    "La Jornada MX": 4.74,
+    "El País": 4.25,
+    "elDiario.es": 5.0,
+    "El Mundo": 4.68,
+    "ABC": 4.48,
+    "El Confidencial": 4.33,
+    "BBC Mundo": 3.83,
+    "France 24 ES": 4.45,
+    "La Nación AR": 5.33,
+    "La Jornada MX": 4.82,
     "Desinformémonos": 4.05,
-    "Resumen Latinoam.": 4.65
+    "Resumen Latinoam.": 4.29
   },
   "articles": [
     {
@@ -132,130 +132,46 @@
     },
     {
       "source": "El País",
-      "title": "Más de la mitad de los españoles cree que la Iglesia sigue encubriendo casos de ",
-      "score": 3.0,
+      "title": "Marlaska mantiene su apoyo a la directora de la Guardia Civil si las reuniones c",
+      "score": 6.6,
       "words": [
         {
-          "word": "solo",
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | El PP cita a la directora de",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "escándalo",
+          "word": "delitos",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La UCO sitúa a Cerdán en el “origen” de las cloacas desde 2021 con la empresa Se",
-      "score": 6.6,
+      "title": "‘Manoliño’ y otros delfines que se arriesgan acercándose a las personas para esc",
+      "score": 3.8,
       "words": [
         {
-          "word": "ganancias",
-          "score": 2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La directora de la Guardia Civil dice que cortó con Leire Díez cuando esta le pi",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "conspiración",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos sanciona al presidente de Cuba y al entorno familiar de Raúl Cast",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "tesoro",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Meliá e Iberostar se enfrentan a demandas de Cuba por abandonar la gestión de lo",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "demandas",
-          "score": -2
-        },
-        {
-          "word": "abandonar",
-          "score": -2
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El caso Leire agudiza un choque entre la Guardia Civil y el Gobierno que se prol",
-      "score": 4.64,
-      "words": [
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "limpiar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Pedraz reclama al PSOE y al PSC sus movimientos bancarios de 2024 y 2025",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "aceptado",
+          "word": "escapar",
           "score": -1
         },
         {
-          "word": "valor",
-          "score": 2
+          "word": "peligro",
+          "score": -2
         }
       ]
     },
@@ -288,15 +204,154 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La directora de la Guardia Civil reconoce que Leire Díez le pidió ayuda para un ",
-      "score": 5.17,
+      "title": "🎙 PODCAST | Leire, la fontanera que quería limpiar con barro",
+      "score": 6.17,
       "words": [
+        {
+          "word": "limpiar",
+          "score": 2
+        },
+        {
+          "word": "limpiar",
+          "score": 2
+        },
+        {
+          "word": "mal",
+          "score": -3
+        },
+        {
+          "word": "limpiar",
+          "score": 2
+        },
+        {
+          "word": "favores",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El caso Leire agudiza un choque entre la Guardia Civil y el Gobierno que se prol",
+      "score": 4.64,
+      "words": [
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "limpiar",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Marlaska mantiene la confianza en la directora de la Guardia Civil: \"No tuvo con",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        },
         {
           "word": "ayuda",
           "score": 2
         },
         {
-          "word": "ayuda",
+          "word": "grande",
+          "score": 1
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Santos Cerdán niega su implicación en el ‘caso Leire’ y acusa a la UCO de \"destr",
+      "score": 4.71,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "choque",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez Pedraz rechaza la reclamación de Zarrías sobre una incautación \"ilegal y",
+      "score": 4.33,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Bolaños asegura que en el sumario \"no hay nada\" que indique que Sánchez conocier",
+      "score": 5.91,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "justicia",
           "score": 2
         },
         {
@@ -304,11 +359,7 @@
           "score": -1
         },
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegurado",
+          "word": "importancia",
           "score": 2
         }
       ]
@@ -342,33 +393,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Si no hay moción, pues dimisión",
-      "score": 4.9,
-      "words": [
-        {
-          "word": "firme",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "intereses",
-          "score": 1
-        },
-        {
-          "word": "ruptura",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Miguel Díaz-Canel: \"Trump busca la asfixia de Cuba para que haya un estallido so",
       "score": 4.83,
       "words": [
@@ -396,10 +420,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-16T21:44:41Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-05-16T22:41:56Z",
       "score": 4.71
@@ -1067,6 +1087,10 @@
     {
       "timestamp": "2026-06-05T05:13:47Z",
       "score": 4.56
+    },
+    {
+      "timestamp": "2026-06-05T09:41:07Z",
+      "score": 4.48
     }
   ]
 }

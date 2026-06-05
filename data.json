@@ -1,15 +1,11 @@
 {
-  "generated": "2026-06-05T21:22:59Z",
-  "global_score": 4.72,
-  "articles_scored": 94,
-  "words_matched": 254,
+  "generated": "2026-06-05T23:05:43Z",
+  "global_score": 4.65,
+  "articles_scored": 95,
+  "words_matched": 257,
   "top_negative": [
     {
       "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "perra",
       "score": -5
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "soborno",
       "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -43,19 +43,7 @@
       "score": 4
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
       "word": "emocionante",
-      "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "excelencia",
       "score": 3
     },
     {
@@ -69,20 +57,32 @@
     {
       "word": "perfectamente",
       "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.54,
+    "El País": 4.65,
     "elDiario.es": 4.89,
     "El Mundo": 4.73,
-    "ABC": 5.07,
+    "ABC": 4.83,
     "El Confidencial": 5.28,
-    "BBC Mundo": 4.5,
-    "France 24 ES": 4.29,
-    "La Nación AR": 5.47,
+    "BBC Mundo": 4.44,
+    "France 24 ES": 4.5,
+    "La Nación AR": 4.52,
     "La Jornada MX": 4.82,
     "Desinformémonos": 4.47,
-    "Resumen Latinoam.": 3.75
+    "Resumen Latinoam.": 4.12
   },
   "articles": [
     {
@@ -186,6 +186,21 @@
       "words": [
         {
           "word": "miedo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La mejor España apunta al Mundial de Brasil tras bailar a Inglaterra",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "puesto",
           "score": -2
         }
       ]
@@ -378,40 +393,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Anticorrupción pide al juez Pedraz que interrogue a Cristina Narbona como testig",
-      "score": 4.29,
-      "words": [
-        {
-          "word": "soborno",
-          "score": -3
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "soborno",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-17T11:03:18Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-05-17T13:14:44Z",
       "score": 4.59
@@ -1079,6 +1063,10 @@
     {
       "timestamp": "2026-06-05T21:22:59Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-05T23:05:43Z",
+      "score": 4.65
     }
   ]
 }

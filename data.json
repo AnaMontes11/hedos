@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-05T12:34:21Z",
-  "global_score": 4.69,
-  "articles_scored": 94,
-  "words_matched": 240,
+  "generated": "2026-06-05T15:50:58Z",
+  "global_score": 4.72,
+  "articles_scored": 96,
+  "words_matched": 243,
   "top_negative": [
     {
       "word": "negro",
@@ -21,19 +21,19 @@
       "score": -4
     },
     {
-      "word": "mal",
+      "word": "infierno",
+      "score": -4
+    },
+    {
+      "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "soborno",
       "score": -3
     },
     {
       "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "matar",
-      "score": -3
-    },
-    {
-      "word": "malo",
       "score": -3
     }
   ],
@@ -43,23 +43,15 @@
       "score": 4
     },
     {
-      "word": "celebra",
+      "word": "medalla",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     },
     {
       "word": "emocionante",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "amor",
       "score": 3
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "celebrando",
       "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.49,
-    "elDiario.es": 5.12,
-    "El Mundo": 5.4,
-    "ABC": 4.53,
-    "El Confidencial": 4.51,
+    "El País": 5.26,
+    "elDiario.es": 5.06,
+    "El Mundo": 4.78,
+    "ABC": 4.73,
+    "El Confidencial": 5.08,
     "BBC Mundo": 4.24,
-    "France 24 ES": 4.4,
-    "La Nación AR": 4.47,
+    "France 24 ES": 4.06,
+    "La Nación AR": 4.91,
     "La Jornada MX": 4.82,
-    "Desinformémonos": 4.05,
-    "Resumen Latinoam.": 5.1
+    "Desinformémonos": 4.47,
+    "Resumen Latinoam.": 4.71
   },
   "articles": [
     {
@@ -102,17 +102,9 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Sémper no cree que Sánchez d",
-      "score": 5.0,
+      "title": "Marlaska mantiene su apoyo a la directora de la Guardia Civil si las reuniones c",
+      "score": 6.6,
       "words": [
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
         {
           "word": "apoyo",
           "score": 2
@@ -121,12 +113,16 @@
     },
     {
       "source": "El País",
-      "title": "Marlaska mantiene su apoyo a la directora de la Guardia Civil si las reuniones c",
-      "score": 6.6,
+      "title": "La UCO espera desde Navidades a que el juez la autorice a investigar a la pareja",
+      "score": 3.4,
       "words": [
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "soborno",
+          "score": -3
         }
       ]
     },
@@ -327,28 +323,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Marlaska mantiene la confianza en la directora de la Guardia Civil: \"No tuvo con",
-      "score": 5.6,
+      "title": "Todas las promesas incumplidas de Leire Díez: ni \"exterminar\" jueces, ni \"destru",
+      "score": 3.94,
       "words": [
         {
-          "word": "confianza",
+          "word": "promesas",
           "score": 1
         },
         {
-          "word": "confianza",
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "promesas",
           "score": 1
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "proteger",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Anticorrupción pide al juez Pedraz que interrogue a Cristina Narbona como testig",
+      "score": 4.29,
+      "words": [
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "ataques",
+          "score": -1
         },
         {
           "word": "ayuda",
           "score": 2
         },
         {
-          "word": "grande",
-          "score": 1
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "confianza",
-          "score": 1
+          "word": "soborno",
+          "score": -3
         }
       ]
     },
@@ -378,40 +401,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Santos Cerdán niega su implicación en el caso Leire y acusa a la UCO de \"destroz",
-      "score": 4.71,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-16T23:50:29Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-05-17T02:49:20Z",
       "score": 4.66
@@ -1079,6 +1071,10 @@
     {
       "timestamp": "2026-06-05T12:34:21Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-06-05T15:50:58Z",
+      "score": 4.72
     }
   ]
 }

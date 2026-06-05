@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-05T15:50:58Z",
-  "global_score": 4.72,
-  "articles_scored": 96,
-  "words_matched": 243,
+  "generated": "2026-06-05T17:51:18Z",
+  "global_score": 4.69,
+  "articles_scored": 93,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "negro",
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "pérdida",
       "score": -3
     }
   ],
@@ -43,11 +43,7 @@
       "score": 4
     },
     {
-      "word": "medalla",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
+      "word": "riguroso",
       "score": 3
     },
     {
@@ -55,34 +51,38 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "bueno",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "amor",
       "score": 3
     },
     {
       "word": "perfectamente",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.26,
-    "elDiario.es": 5.06,
-    "El Mundo": 4.78,
-    "ABC": 4.73,
-    "El Confidencial": 5.08,
-    "BBC Mundo": 4.24,
-    "France 24 ES": 4.06,
-    "La Nación AR": 4.91,
+    "El País": 5.21,
+    "elDiario.es": 4.89,
+    "El Mundo": 4.43,
+    "ABC": 4.42,
+    "El Confidencial": 5.28,
+    "BBC Mundo": 4.44,
+    "France 24 ES": 4.61,
+    "La Nación AR": 4.76,
     "La Jornada MX": 4.82,
     "Desinformémonos": 4.47,
-    "Resumen Latinoam.": 4.71
+    "Resumen Latinoam.": 4.27
   },
   "articles": [
     {
@@ -166,23 +166,62 @@
     },
     {
       "source": "El País",
-      "title": "La realidad que la Iglesia sigue escondiendo: siete cardenales y 61 obispos espa",
-      "score": 3.4,
+      "title": "Una fuga de aire en la Estación Espacial Internacional obliga a los astronautas ",
+      "score": 4.2,
       "words": [
         {
-          "word": "solo",
-          "score": -2
+          "word": "fuga",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El cardenal Omella, sobre los casos de encubrimiento de pederastia: “Hablamos de",
-      "score": 6.6,
+      "title": "Zverev cumple y Cobolli ni se mancha: Roland Garros perfila la final",
+      "score": 6.0,
       "words": [
         {
-          "word": "asegura",
+          "word": "cumple",
           "score": 2
+        },
+        {
+          "word": "mancha",
+          "score": 2
+        },
+        {
+          "word": "logra",
+          "score": 2
+        },
+        {
+          "word": "renuncia",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Es posible morirse de pena? La ciencia confirma que el duelo intenso eleva el r",
+      "score": 4.66,
+      "words": [
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "intenso",
+          "score": 1
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "pérdida",
+          "score": -3
         }
       ]
     },
@@ -242,55 +281,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El ex número dos de Interior con el PP dijo a Leire Díez que \"el CNI hizo inform",
-      "score": 5.83,
+      "title": "Qué dice la UCO al juez sobre \"el One\" y las conversaciones de la trama Leire so",
+      "score": 5.2,
       "words": [
         {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "promesa",
-          "score": 1
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "robar",
+          "word": "frases",
           "score": -2
         },
         {
-          "word": "ilegal",
-          "score": -3
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "negado",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "denuncia",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "🎙 PODCAST | Leire, la fontanera que quería limpiar con barro",
-      "score": 6.17,
+      "title": "Santos Cerdán niega su implicación en el caso Leire y acusa a la UCO de \"destroz",
+      "score": 4.71,
       "words": [
         {
-          "word": "limpiar",
-          "score": 2
+          "word": "niega",
+          "score": -2
         },
         {
-          "word": "limpiar",
-          "score": 2
+          "word": "acusa",
+          "score": -2
         },
         {
-          "word": "mal",
-          "score": -3
+          "word": "niega",
+          "score": -2
         },
         {
-          "word": "limpiar",
-          "score": 2
+          "word": "acusa",
+          "score": -2
         },
         {
-          "word": "favores",
-          "score": 2
+          "word": "choque",
+          "score": -2
         }
       ]
     },
@@ -350,64 +389,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Anticorrupción pide al juez Pedraz que interrogue a Cristina Narbona como testig",
-      "score": 4.29,
+      "title": "El ex número dos de Interior con el PP dijo a Leire Díez que \"el CNI hizo inform",
+      "score": 5.83,
       "words": [
         {
-          "word": "soborno",
-          "score": -3
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ayuda",
+          "word": "limpiar",
           "score": 2
         },
         {
-          "word": "asegura",
+          "word": "promesa",
+          "score": 1
+        },
+        {
+          "word": "favor",
           "score": 2
         },
         {
-          "word": "soborno",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Pedraz rechaza la reclamación de Zarrías sobre una incautación \"ilegal y",
-      "score": 4.33,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
+          "word": "robar",
           "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-17T02:49:20Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-05-17T06:20:43Z",
       "score": 4.67
@@ -1075,6 +1083,10 @@
     {
       "timestamp": "2026-06-05T15:50:58Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-05T17:51:18Z",
+      "score": 4.69
     }
   ]
 }

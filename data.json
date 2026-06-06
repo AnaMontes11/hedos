@@ -1,15 +1,23 @@
 {
-  "generated": "2026-06-06T15:12:38Z",
-  "global_score": 4.77,
-  "articles_scored": 97,
-  "words_matched": 327,
+  "generated": "2026-06-06T17:09:47Z",
+  "global_score": 4.7,
+  "articles_scored": 91,
+  "words_matched": 317,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "defraudadores",
+      "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
@@ -27,14 +35,6 @@
     {
       "word": "víctimas",
       "score": -3
-    },
-    {
-      "word": "abusos",
-      "score": -3
-    },
-    {
-      "word": "preocupación",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,15 +43,11 @@
       "score": 5
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganador",
       "score": 4
     },
     {
-      "word": "bendición",
+      "word": "alegría",
       "score": 4
     },
     {
@@ -67,24 +63,55 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "impresionante",
+      "score": 3
+    },
+    {
+      "word": "euforia",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.58,
+    "El País": 4.7,
     "elDiario.es": 5.05,
-    "El Mundo": 4.63,
-    "ABC": 5.09,
-    "El Confidencial": 4.77,
-    "BBC Mundo": 4.22,
-    "France 24 ES": 4.66,
-    "La Nación AR": 5.12,
+    "El Mundo": 4.78,
+    "ABC": 5.38,
+    "El Confidencial": 4.93,
+    "BBC Mundo": 4.28,
+    "France 24 ES": 4.23,
+    "La Nación AR": 4.09,
     "La Jornada MX": 5.5,
     "Desinformémonos": 4.17,
-    "Resumen Latinoam.": 4.6
+    "Resumen Latinoam.": 4.32
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Visita del papa León XIV, en directo | León XIV advierte contra las “ideologías ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "olvidar",
+          "score": -1
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El Papa llama a “huir de enfoques identitarios que pueblan el mundo de fantasmas",
@@ -139,33 +166,6 @@
         {
           "word": "solo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Visita del papa León XIV, en directo | Un grupo de fieles espera la llegada de L",
-      "score": 4.9,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "dolor",
-          "score": -2
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "lucha",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
         }
       ]
     },
@@ -444,10 +444,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-17T21:52:43Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-05-17T22:51:44Z",
       "score": 4.63
@@ -1115,6 +1111,10 @@
     {
       "timestamp": "2026-06-06T15:12:38Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-06-06T17:09:47Z",
+      "score": 4.7
     }
   ]
 }

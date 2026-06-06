@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-06T17:09:47Z",
-  "global_score": 4.7,
-  "articles_scored": 91,
-  "words_matched": 317,
+  "generated": "2026-06-06T19:17:40Z",
+  "global_score": 4.68,
+  "articles_scored": 95,
+  "words_matched": 310,
   "top_negative": [
     {
       "word": "negro",
@@ -13,19 +13,19 @@
       "score": -4
     },
     {
+      "word": "infierno",
+      "score": -4
+    },
+    {
       "word": "violación",
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "torturas",
-      "score": -4
-    },
-    {
       "word": "enemigos",
+      "score": -3
+    },
+    {
+      "word": "abusos",
       "score": -3
     },
     {
@@ -72,42 +72,42 @@
     }
   ],
   "per_source": {
-    "El País": 4.7,
-    "elDiario.es": 5.05,
-    "El Mundo": 4.78,
-    "ABC": 5.38,
-    "El Confidencial": 4.93,
-    "BBC Mundo": 4.28,
-    "France 24 ES": 4.23,
-    "La Nación AR": 4.09,
+    "El País": 4.34,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.58,
+    "ABC": 5.44,
+    "El Confidencial": 4.88,
+    "BBC Mundo": 4.22,
+    "France 24 ES": 4.47,
+    "La Nación AR": 4.5,
     "La Jornada MX": 5.5,
     "Desinformémonos": 4.17,
-    "Resumen Latinoam.": 4.32
+    "Resumen Latinoam.": 4.2
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Visita del papa León XIV, en directo | León XIV advierte contra las “ideologías ",
-      "score": 5.8,
+      "title": "Visita del papa León XIV, en directo | El Papa está ya en la plaza de Lima para ",
+      "score": 5.93,
       "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
         {
           "word": "valor",
           "score": 2
         },
         {
-          "word": "olvidar",
-          "score": -1
-        },
-        {
-          "word": "justicia",
-          "score": 2
+          "word": "advierte",
+          "score": -2
         },
         {
           "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "compromiso",
           "score": 2
         }
       ]
@@ -124,6 +124,29 @@
         {
           "word": "fuego",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Discurso potente del papa León XIV con carga política en su primer día de visita",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "frases",
+          "score": -2
+        },
+        {
+          "word": "comprometido",
+          "score": 1
+        },
+        {
+          "word": "abusos",
+          "score": -3
         }
       ]
     },
@@ -180,48 +203,6 @@
         },
         {
           "word": "bienvenida",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "León XIV, el pacificador",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "pusilánime",
-          "score": -2
-        },
-        {
-          "word": "sosegado",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "preocupación",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Qué apuntó Leire Díez en sus cuadernos: contactos, objetivos y “asuntos abiertos",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "asegura",
           "score": 2
         }
       ]
@@ -309,28 +290,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Papa llega a España con una Iglesia dividida entre aperturistas y la vieja gu",
-      "score": 4.59,
+      "title": "El presidente de El Hierro protesta por no ser invitado a la recepción con el Pa",
+      "score": 4.33,
       "words": [
         {
-          "word": "víctimas",
-          "score": -3
+          "word": "protesta",
+          "score": -2
         },
         {
-          "word": "abusos",
-          "score": -3
+          "word": "protesta",
+          "score": -2
         },
         {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "favoritos",
+          "word": "asegurado",
           "score": 2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "muerte",
+          "score": -2
         }
       ]
     },
@@ -358,6 +339,33 @@
         {
           "word": "delito",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los mejores memes de la visita del Papa a Madrid",
+      "score": 4.28,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "inspirado",
+          "score": 2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "inspirado",
+          "score": 2
         }
       ]
     },
@@ -444,10 +452,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-17T22:51:44Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-05-17T23:55:18Z",
       "score": 4.7
@@ -1115,6 +1119,10 @@
     {
       "timestamp": "2026-06-06T17:09:47Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-06-06T19:17:40Z",
+      "score": 4.68
     }
   ]
 }

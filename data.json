@@ -1,19 +1,15 @@
 {
-  "generated": "2026-06-06T06:28:24Z",
-  "global_score": 4.76,
-  "articles_scored": 89,
-  "words_matched": 312,
+  "generated": "2026-06-06T09:23:46Z",
+  "global_score": 4.88,
+  "articles_scored": 94,
+  "words_matched": 322,
   "top_negative": [
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "preocupación",
+      "word": "víctimas",
       "score": -3
     },
     {
@@ -25,6 +21,10 @@
       "score": -3
     },
     {
+      "word": "preocupación",
+      "score": -3
+    },
+    {
       "word": "abuso",
       "score": -3
     },
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "víctimas",
+      "word": "delito",
       "score": -3
     }
   ],
@@ -51,7 +51,7 @@
       "score": 4
     },
     {
-      "word": "bendición",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -59,56 +59,59 @@
       "score": 4
     },
     {
-      "word": "emocionante",
+      "word": "leal",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "afecto",
       "score": 3
     },
     {
-      "word": "paraíso",
+      "word": "felicidad",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.2,
-    "elDiario.es": 4.94,
-    "El Mundo": 4.69,
-    "ABC": 5.08,
-    "El Confidencial": 5.21,
-    "BBC Mundo": 4.11,
+    "El País": 4.69,
+    "elDiario.es": 4.93,
+    "El Mundo": 4.49,
+    "ABC": 5.03,
+    "El Confidencial": 5.1,
+    "BBC Mundo": 4.16,
     "France 24 ES": 4.87,
-    "La Nación AR": 5.32,
-    "La Jornada MX": 4.82,
+    "La Nación AR": 5.53,
+    "La Jornada MX": 5.5,
     "Desinformémonos": 4.7,
-    "Resumen Latinoam.": 4.49
+    "Resumen Latinoam.": 4.73
   },
   "articles": [
     {
       "source": "El País",
-      "title": "León XIV, el pacificador",
-      "score": 4.6,
+      "title": "Visita del papa León XIV, en directo | El Papa se dirige ya hacia el Palacio Rea",
+      "score": 6.6,
       "words": [
         {
-          "word": "pasado",
-          "score": -1
-        },
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Papa dice en su llegada a España que la pederastia “es una llaga todavía abie",
+      "score": 3.13,
+      "words": [
         {
-          "word": "pusilánime",
+          "word": "luchando",
           "score": -2
         },
         {
-          "word": "sosegado",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "preocupación",
+          "word": "víctimas",
           "score": -3
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -156,12 +159,28 @@
     },
     {
       "source": "El País",
-      "title": "Un día en Lucero, el barrio obrero de Madrid que recibe al Papa en plena lucha c",
-      "score": 3.4,
+      "title": "León XIV, el pacificador",
+      "score": 4.6,
       "words": [
         {
-          "word": "lucha",
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "pusilánime",
           "score": -2
+        },
+        {
+          "word": "sosegado",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "preocupación",
+          "score": -3
         }
       ]
     },
@@ -177,17 +196,6 @@
         {
           "word": "asegura",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Academia Mohamed VI: así garantiza Marruecos su futuro futbolístico",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
         }
       ]
     },
@@ -220,33 +228,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Papa se reunirá con víctimas de pederastia de la Iglesia durante su viaje a E",
-      "score": 4.5,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "¿Cuánto dinero público costará la visita del Papa? Las administraciones no desve",
       "score": 5.34,
       "words": [
@@ -274,6 +255,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Papa aterriza en Madrid para una visita marcada por las tensiones con la dere",
+      "score": 4.91,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Alberto San Juan: “Que la Iglesia encubra sus abusos es una trama corrupta. Tapa",
       "score": 4.3,
       "words": [
@@ -296,6 +304,60 @@
         {
           "word": "delito",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El delito de apellidarse Sánchez Pérez-Castejón",
+      "score": 4.17,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Qué dice la UCO al juez sobre \"el One\" y las conversaciones de la trama Leire so",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "frases",
+          "score": -2
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "negado",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "denuncia",
+          "score": -2
         }
       ]
     },
@@ -355,33 +417,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Qué dice la UCO al juez sobre \"el One\" y las conversaciones de la trama Leire so",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "frases",
-          "score": -2
-        },
-        {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "negado",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El PP recupera su estrategia de ridiculizar el cambio climático: \"Mandan un clar",
       "score": 5.07,
       "words": [
@@ -406,40 +441,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un juez imputa a otro policía de Madrid por detención ilegal de empresarios del ",
-      "score": 4.58,
-      "words": [
-        {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-17T15:56:31Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-05-17T16:57:33Z",
       "score": 4.57
@@ -1107,6 +1111,10 @@
     {
       "timestamp": "2026-06-06T06:28:24Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-06T09:23:46Z",
+      "score": 4.88
     }
   ]
 }

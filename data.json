@@ -1,45 +1,53 @@
 {
-  "generated": "2026-06-06T02:51:53Z",
-  "global_score": 4.67,
-  "articles_scored": 92,
-  "words_matched": 249,
+  "generated": "2026-06-06T06:28:24Z",
+  "global_score": 4.76,
+  "articles_scored": 89,
+  "words_matched": 312,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
+      "word": "culo",
+      "score": -4
     },
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "fraudulento",
-      "score": -4
+      "word": "preocupación",
+      "score": -3
     },
     {
-      "word": "fraudes",
-      "score": -4
+      "word": "odio",
+      "score": -3
+    },
+    {
+      "word": "escándalo",
+      "score": -3
+    },
+    {
+      "word": "abuso",
+      "score": -3
+    },
+    {
+      "word": "abusos",
+      "score": -3
     },
     {
       "word": "víctimas",
-      "score": -3
-    },
-    {
-      "word": "soborno",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "mal",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganador",
       "score": 4
     },
     {
@@ -47,71 +55,113 @@
       "score": 4
     },
     {
-      "word": "milagro",
+      "word": "divertido",
       "score": 4
-    },
-    {
-      "word": "feliz",
-      "score": 3
     },
     {
       "word": "emocionante",
       "score": 3
     },
     {
-      "word": "penetración",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "bueno",
+      "word": "paraíso",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.65,
-    "elDiario.es": 4.89,
+    "El País": 4.2,
+    "elDiario.es": 4.94,
     "El Mundo": 4.69,
-    "ABC": 4.87,
-    "El Confidencial": 5.28,
+    "ABC": 5.08,
+    "El Confidencial": 5.21,
     "BBC Mundo": 4.11,
     "France 24 ES": 4.87,
-    "La Nación AR": 3.88,
+    "La Nación AR": 5.32,
     "La Jornada MX": 4.82,
-    "Desinformémonos": 4.47,
+    "Desinformémonos": 4.7,
     "Resumen Latinoam.": 4.49
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El Vaticano sale al paso de la polémica con las víctimas de pederastia y confirm",
-      "score": 3.0,
+      "title": "León XIV, el pacificador",
+      "score": 4.6,
       "words": [
         {
-          "word": "polémica",
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "pusilánime",
           "score": -2
         },
         {
-          "word": "víctimas",
+          "word": "sosegado",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "preocupación",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Sánchez: “Nunca avalé, conocí o permití nada de lo que hacía Leire Díez. Yo no h",
-      "score": 6.6,
+      "title": "El Papa llega a España con un mensaje contra la polarización y el odio al inmigr",
+      "score": 4.2,
       "words": [
         {
-          "word": "apoyo",
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "fuerte",
           "score": 2
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "decisivo",
+          "score": 1
+        },
+        {
+          "word": "escándalo",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "León XIV, el visitante más incómodo e inoportuno para Vox",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "incómodo",
+          "score": -2
+        },
+        {
+          "word": "vengativo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un día en Lucero, el barrio obrero de Madrid que recibe al Papa en plena lucha c",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "lucha",
+          "score": -2
         }
       ]
     },
@@ -132,76 +182,147 @@
     },
     {
       "source": "El País",
-      "title": "La UCO espera desde Navidades a que el juez la autorice a investigar a la pareja",
+      "title": "La Academia Mohamed VI: así garantiza Marruecos su futuro futbolístico",
       "score": 3.4,
       "words": [
         {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "soborno",
-          "score": -3
+          "word": "puesto",
+          "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Negociación a lo “reality show”: los profesores valencianos llegan al vigésimo d",
-      "score": 5.0,
+      "source": "elDiario.es",
+      "title": "El Papa llega a España con una Iglesia dividida entre aperturistas y la vieja gu",
+      "score": 4.9,
       "words": [
         {
-          "word": "huelga",
-          "score": -1
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "favoritos",
+          "score": 2
         },
         {
           "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "protestas",
-          "score": -2
+          "word": "creciente",
+          "score": 1
         },
         {
-          "word": "apoyo",
+          "word": "creciente",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Papa se reunirá con víctimas de pederastia de la Iglesia durante su viaje a E",
+      "score": 4.5,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "tipo",
           "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Los profesores catalanes convocan huelga durante la visita del Papa en Barcelona",
-      "score": 4.2,
+      "source": "elDiario.es",
+      "title": "¿Cuánto dinero público costará la visita del Papa? Las administraciones no desve",
+      "score": 5.34,
       "words": [
         {
-          "word": "huelga",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Enrique Riquelme: “Uno no puede venir a enfrentarse al sistema del Real Madrid c",
-      "score": 3.4,
-      "words": [
+          "word": "gratis",
+          "score": 1
+        },
         {
-          "word": "miedo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La mejor España apunta al Mundial de Brasil tras bailar a Inglaterra",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "mejor",
+          "word": "mayor",
           "score": 3
         },
         {
-          "word": "puesto",
+          "word": "querido",
+          "score": 2
+        },
+        {
+          "word": "solo",
           "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Alberto San Juan: “Que la Iglesia encubra sus abusos es una trama corrupta. Tapa",
+      "score": 4.3,
+      "words": [
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez se aferra al portazo de PNV y Junts a Feijóo para salvar la legislatura",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "salvar",
+          "score": 2
+        },
+        {
+          "word": "salvar",
+          "score": 2
+        },
+        {
+          "word": "monopolizar",
+          "score": -2
+        },
+        {
+          "word": "ora",
+          "score": 1
+        },
+        {
+          "word": "duda",
+          "score": -1
         }
       ]
     },
@@ -234,33 +355,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Bolaños asegura que en el sumario \"no hay nada\" que indique que Sánchez conocier",
-      "score": 5.91,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "importancia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Qué dice la UCO al juez sobre \"el One\" y las conversaciones de la trama Leire so",
       "score": 5.2,
       "words": [
@@ -288,118 +382,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Santos Cerdán niega su implicación en el caso Leire y acusa a la UCO de \"destroz",
-      "score": 4.71,
+      "title": "El PP recupera su estrategia de ridiculizar el cambio climático: \"Mandan un clar",
+      "score": 5.07,
       "words": [
         {
-          "word": "niega",
+          "word": "ridiculizar",
           "score": -2
         },
         {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El caso Leire agudiza un choque entre la Guardia Civil y el Gobierno que se prol",
-      "score": 4.64,
-      "words": [
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "limpiar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Todas las promesas incumplidas de Leire Díez: ni \"exterminar\" jueces, ni \"destru",
-      "score": 3.94,
-      "words": [
-        {
-          "word": "promesas",
+          "word": "claro",
           "score": 1
         },
         {
-          "word": "destruir",
+          "word": "ridiculizar",
+          "score": -2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "crisis",
           "score": -3
-        },
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "proteger",
-          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El ex número dos de Interior con el PP dijo a Leire Díez que \"el CNI hizo inform",
-      "score": 5.83,
+      "title": "Un juez imputa a otro policía de Madrid por detención ilegal de empresarios del ",
+      "score": 4.58,
       "words": [
         {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "promesa",
-          "score": 1
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "robar",
+          "word": "detención",
           "score": -2
         },
         {
           "word": "ilegal",
           "score": -3
+        },
+        {
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "asuntos",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-17T14:53:38Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-05-17T15:56:31Z",
       "score": 4.59
@@ -1067,6 +1103,10 @@
     {
       "timestamp": "2026-06-06T02:51:53Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-06-06T06:28:24Z",
+      "score": 4.76
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
-  "generated": "2026-06-07T16:11:59Z",
-  "global_score": 4.56,
-  "articles_scored": 89,
-  "words_matched": 247,
+  "generated": "2026-06-07T18:01:25Z",
+  "global_score": 4.52,
+  "articles_scored": 92,
+  "words_matched": 263,
   "top_negative": [
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "fraude",
       "score": -4
     },
     {
@@ -21,19 +25,15 @@
       "score": -3
     },
     {
+      "word": "falso",
+      "score": -3
+    },
+    {
       "word": "delitos",
       "score": -3
     },
     {
       "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "vil",
       "score": -3
     }
   ],
@@ -43,23 +43,15 @@
       "score": 4
     },
     {
+      "word": "brillante",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "emoción",
+      "word": "premio",
       "score": 3
     },
     {
@@ -67,44 +59,40 @@
       "score": 3
     },
     {
-      "word": "afecto",
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
+      "score": 3
+    },
+    {
+      "word": "súper",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.8,
-    "elDiario.es": 4.64,
-    "El Mundo": 4.05,
-    "ABC": 4.94,
-    "El Confidencial": 4.88,
+    "El País": 4.51,
+    "elDiario.es": 4.58,
+    "El Mundo": 4.28,
+    "ABC": 5.07,
+    "El Confidencial": 5.18,
     "BBC Mundo": 4.14,
-    "France 24 ES": 4.92,
-    "La Nación AR": 5.69,
+    "France 24 ES": 4.62,
+    "La Nación AR": 5.22,
     "La Jornada MX": 3.71,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 4.44
+    "Resumen Latinoam.": 4.49
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Visita del Papa León XIV, en directo | El Papa se encuentra ya en el Movistar Ar",
-      "score": 2.8,
+      "title": "El Papa reúne a un insólito auditorio de la sociedad civil para pedir “escucha, ",
+      "score": 6.6,
       "words": [
         {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "protesta",
-          "score": -2
+          "word": "gracias",
+          "score": 2
         }
       ]
     },
@@ -116,6 +104,21 @@
         {
           "word": "riesgo",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Visita del papa León XIV, en directo | El Papa llama a “entramar una sociedad re",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "abusos",
+          "score": -3
         }
       ]
     },
@@ -147,6 +150,17 @@
     },
     {
       "source": "El País",
+      "title": "El segundo día de la visita del papa León XIV a Madrid, en imágenes",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "celebra",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El viaje del Papa León XIV a España, una pieza en la batalla global contra el po",
       "score": 4.2,
       "words": [
@@ -158,27 +172,31 @@
     },
     {
       "source": "El País",
-      "title": "Marc Márquez se hace centenario con una victoria en el GP de Hungría de MotoGP",
-      "score": 7.8,
+      "title": "Zverev - Cobolli en directo | Zverev vence a Cobolli en cinco sets y es campeón ",
+      "score": 4.2,
       "words": [
         {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "triunfo",
-          "score": 4
+          "word": "impone",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Datos de la histórica escalada hasta las 100 victorias de Marc Márquez",
-      "score": 8.2,
+      "title": "Tamara Fernández Varela, drogada, violada y grabada por su marido: “Me ha matado",
+      "score": 5.0,
       "words": [
         {
-          "word": "victorias",
-          "score": 4
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "evitado",
+          "score": -1
         }
       ]
     },
@@ -238,35 +256,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Última hora de la visita del papa León XIV a España, en directo",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "denunciar",
-          "score": -2
-        },
-        {
-          "word": "dios",
-          "score": 1
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "bienvenida",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las víctimas de abusos escenifican un encuentro con León XIV: \"Papa, hay que ser",
-      "score": 3.95,
+      "title": "Las víctimas de abusos escenifican un falso encuentro con León XIV: \"Papa, hay q",
+      "score": 3.94,
       "words": [
         {
           "word": "víctimas",
@@ -277,11 +268,11 @@
           "score": -3
         },
         {
-          "word": "víctimas",
+          "word": "falso",
           "score": -3
         },
         {
-          "word": "abusos",
+          "word": "víctimas",
           "score": -3
         },
         {
@@ -370,40 +361,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El ex número dos de Fernández Díaz, en un audio con Leire Díez: \"La cuenta de Tr",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "tard",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-18T22:58:25Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-05-19T00:13:32Z",
       "score": 4.92
@@ -1071,6 +1031,10 @@
     {
       "timestamp": "2026-06-07T16:11:59Z",
       "score": 4.56
+    },
+    {
+      "timestamp": "2026-06-07T18:01:25Z",
+      "score": 4.52
     }
   ]
 }

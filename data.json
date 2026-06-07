@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-06T23:01:48Z",
-  "global_score": 4.75,
-  "articles_scored": 90,
-  "words_matched": 306,
+  "generated": "2026-06-07T03:36:25Z",
+  "global_score": 4.82,
+  "articles_scored": 86,
+  "words_matched": 291,
   "top_negative": [
     {
       "word": "negro",
@@ -11,14 +11,6 @@
     {
       "word": "culo",
       "score": -4
-    },
-    {
-      "word": "infierno",
-      "score": -4
-    },
-    {
-      "word": "enemigos",
-      "score": -3
     },
     {
       "word": "abusos",
@@ -33,7 +25,15 @@
       "score": -3
     },
     {
+      "word": "enemigos",
+      "score": -3
+    },
+    {
       "word": "violencia",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -47,11 +47,15 @@
       "score": 4
     },
     {
-      "word": "alegría",
+      "word": "milagro",
       "score": 4
     },
     {
       "word": "bendición",
+      "score": 4
+    },
+    {
+      "word": "fantástico",
       "score": 4
     },
     {
@@ -63,26 +67,22 @@
       "score": 4
     },
     {
-      "word": "leal",
-      "score": 3
-    },
-    {
-      "word": "euforia",
-      "score": 3
+      "word": "triunfo",
+      "score": 4
     }
   ],
   "per_source": {
-    "El País": 4.46,
+    "El País": 5.05,
     "elDiario.es": 4.94,
-    "El Mundo": 4.37,
-    "ABC": 5.42,
-    "El Confidencial": 4.76,
-    "BBC Mundo": 4.22,
-    "France 24 ES": 4.35,
-    "La Nación AR": 4.77,
+    "El Mundo": 4.75,
+    "ABC": 5.09,
+    "El Confidencial": 4.84,
+    "BBC Mundo": 4.72,
+    "France 24 ES": 4.64,
+    "La Nación AR": 5.53,
     "La Jornada MX": 5.5,
     "Desinformémonos": 4.17,
-    "Resumen Latinoam.": 5.21
+    "Resumen Latinoam.": 4.18
   },
   "articles": [
     {
@@ -93,21 +93,6 @@
         {
           "word": "claro",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Papa llama a “huir de enfoques identitarios que pueblan el mundo de fantasmas",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "enemigos",
-          "score": -3
-        },
-        {
-          "word": "fuego",
-          "score": -2
         }
       ]
     },
@@ -188,6 +173,25 @@
         {
           "word": "asegura",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Primer grande para Mirra Andreeva, el triunfo que tenía que llegar: Roland Garro",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "grande",
+          "score": 1
+        },
+        {
+          "word": "triunfo",
+          "score": 4
+        },
+        {
+          "word": "llegar",
+          "score": 1
         }
       ]
     },
@@ -436,10 +440,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-18T07:59:48Z",
-      "score": 4.43
-    },
     {
       "timestamp": "2026-05-18T11:51:42Z",
       "score": 4.62
@@ -1107,6 +1107,10 @@
     {
       "timestamp": "2026-06-06T23:01:48Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-06-07T03:36:25Z",
+      "score": 4.82
     }
   ]
 }

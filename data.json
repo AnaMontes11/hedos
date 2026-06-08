@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-08T05:28:20Z",
-  "global_score": 4.63,
-  "articles_scored": 93,
-  "words_matched": 264,
+  "generated": "2026-06-08T10:47:30Z",
+  "global_score": 4.86,
+  "articles_scored": 87,
+  "words_matched": 267,
   "top_negative": [
     {
       "word": "negro",
@@ -17,15 +17,15 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "escándalos",
+      "word": "abusos",
       "score": -3
     },
     {
-      "word": "escándalo",
+      "word": "víctimas",
+      "score": -3
+    },
+    {
+      "word": "escándalos",
       "score": -3
     },
     {
@@ -39,52 +39,109 @@
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
+      "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "bendición",
+      "score": 4
     },
     {
       "word": "triunfo",
       "score": 4
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "suerte",
-      "score": 3
-    },
-    {
       "word": "mejor",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.92,
-    "elDiario.es": 4.76,
-    "El Mundo": 5.04,
-    "ABC": 4.62,
-    "El Confidencial": 4.64,
-    "BBC Mundo": 4.68,
+    "El País": 4.57,
+    "elDiario.es": 4.78,
+    "El Mundo": 4.85,
+    "ABC": 5.23,
+    "El Confidencial": 6.2,
+    "BBC Mundo": 4.37,
     "France 24 ES": 4.15,
-    "La Nación AR": 5.11,
-    "La Jornada MX": 3.71,
+    "La Nación AR": 5.8,
+    "La Jornada MX": 5.14,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 5.37
+    "Resumen Latinoam.": 5.23
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Visita del papa León XIV, en directo | El Papa pide ante los obispos responder a",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "posibilidades",
+          "score": 2
+        },
+        {
+          "word": "critica",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Papa reprocha en el Congreso la “descalificación permanente del adversario” y",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "carga",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Víctimas de la pederastia en la Iglesia denuncian haber sido excluidas de la reu",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El PP amplía a casi cinco puntos su ventaja sobre el PSOE tras los últimos escán",
@@ -114,64 +171,27 @@
     },
     {
       "source": "El País",
-      "title": "Florentino Pérez derrota a Enrique Riquelme y será presidente del Real Madrid ha",
-      "score": 4.2,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán | Trump reclama ",
+      "score": 3.8,
       "words": [
         {
-          "word": "impone",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataques",
           "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La gran oportunidad para Florentino Pérez",
-      "score": 7.4,
+      "title": "Trump planta e insulta a una entrevistadora en televisión por llevarle la contra",
+      "score": 1.8,
       "words": [
         {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "milagro",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El discurso político del Papa eleva la expectación ante su histórico mensaje al ",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "escándalo",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Iglesia que recibe a León XIV: menos fe, influencia renovada",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "admite",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel bombardea Irán aunque Trump pidió a Netanyahu no hacerlo",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
+          "word": "fraude",
+          "score": -4
         }
       ]
     },
@@ -188,20 +208,16 @@
     },
     {
       "source": "El País",
-      "title": "Sánchez y Fujimori pelean voto a voto en las elecciones presidenciales de Perú",
-      "score": 5.8,
+      "title": "Jesús",
+      "score": 6.2,
       "words": [
         {
-          "word": "rápido",
-          "score": 2
+          "word": "jesús",
+          "score": 1
         },
         {
-          "word": "ventaja",
+          "word": "esperanza",
           "score": 2
-        },
-        {
-          "word": "espera",
-          "score": -1
         }
       ]
     },
@@ -234,154 +250,11 @@
     },
     {
       "source": "elDiario.es",
-      "title": "A la caza del fiscal: las maniobras del grupo de Leire Díez para tumbar a Alejan",
-      "score": 4.79,
+      "title": "El Papa defiende ante el Congreso la \"acogida respetuosa\" de migrantes y critica",
+      "score": 5.03,
       "words": [
         {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El gerente de una compañía \"líder\" del Puerto de València fue \"fundamental\" para",
-      "score": 4.24,
-      "words": [
-        {
-          "word": "crimen",
-          "score": -3
-        },
-        {
-          "word": "crimen",
-          "score": -3
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sumar intenta reactivar la agenda social del Gobierno para evitar que la legisla",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "paga",
-          "score": -1
-        },
-        {
-          "word": "frases",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Israel ignora a Trump con un ataque a Irán que lleva la tregua a su peor momento",
-      "score": 4.3,
-      "words": [
-        {
-          "word": "ignora",
-          "score": -1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "ignorado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El recuento rápido apunta a una victoria por la mínima del progresista Sánchez s",
-      "score": 5.45,
-      "words": [
-        {
-          "word": "rápido",
-          "score": 2
-        },
-        {
-          "word": "rápido",
-          "score": 2
-        },
-        {
-          "word": "rápido",
-          "score": 2
-        },
-        {
-          "word": "ventaja",
-          "score": 2
-        },
-        {
-          "word": "error",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Roberto Sánchez, candidato presidencial en Perú: \"Es el momento de recuperar un ",
-      "score": 5.56,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "disputa",
-          "score": -2
-        },
-        {
-          "word": "encarcelado",
+          "word": "critica",
           "score": -2
         },
         {
@@ -389,17 +262,156 @@
           "score": 2
         },
         {
-          "word": "fuerza",
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "justicia",
           "score": 2
+        },
+        {
+          "word": "posibilidades",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | ¿Para qué sirve la visita del Papa?",
+      "score": 6.14,
+      "words": [
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "paga",
+          "score": -1
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "dios",
+          "score": 1
+        },
+        {
+          "word": "celebrar",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Papa carga en el Congreso contra el aborto y la eutanasia: “Toda vida debe se",
+      "score": 4.66,
+      "words": [
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "natural",
+          "score": 1
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "natural",
+          "score": 1
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Sindicato de Inquilinas entrega una carta al Papa en la que le pide que frene",
+      "score": 4.67,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "pobreza",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Víctimas de pederastia en la Iglesia exigen al Papa \"una escucha real\": “No nos ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "polémico",
+          "score": -2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "abusos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ha nacido una estrella",
+      "score": 5.47,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "placer",
+          "score": 3
+        },
+        {
+          "word": "culpable",
+          "score": -3
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "dios",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-19T16:16:59Z",
-      "score": 4.87
-    },
     {
       "timestamp": "2026-05-19T18:57:44Z",
       "score": 4.77
@@ -1067,6 +1079,10 @@
     {
       "timestamp": "2026-06-08T05:28:20Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-06-08T10:47:30Z",
+      "score": 4.86
     }
   ]
 }

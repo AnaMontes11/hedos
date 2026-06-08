@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-08T17:49:49Z",
-  "global_score": 4.81,
-  "articles_scored": 94,
-  "words_matched": 265,
+  "generated": "2026-06-08T20:10:23Z",
+  "global_score": 4.88,
+  "articles_scored": 91,
+  "words_matched": 252,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -31,19 +35,19 @@
     {
       "word": "delito",
       "score": -3
-    },
-    {
-      "word": "odiado",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
     {
       "word": "alegría",
       "score": 4
     },
     {
-      "word": "ganador",
+      "word": "maravilloso",
       "score": 4
     },
     {
@@ -55,34 +59,30 @@
       "score": 4
     },
     {
+      "word": "riqueza",
+      "score": 3
+    },
+    {
       "word": "cortés",
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "perfectamente",
-      "score": 3
-    },
-    {
-      "word": "mejor",
+      "word": "felicidad",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.66,
-    "elDiario.es": 4.95,
-    "El Mundo": 5.08,
-    "ABC": 5.37,
-    "El Confidencial": 4.83,
-    "BBC Mundo": 4.23,
-    "France 24 ES": 4.78,
-    "La Nación AR": 4.41,
+    "elDiario.es": 4.98,
+    "El Mundo": 5.57,
+    "ABC": 6.09,
+    "El Confidencial": 5.03,
+    "BBC Mundo": 3.75,
+    "France 24 ES": 4.35,
+    "La Nación AR": 4.85,
     "La Jornada MX": 5.14,
-    "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 5.24
+    "Desinformémonos": 3.59,
+    "Resumen Latinoam.": 5.56
   },
   "articles": [
     {
@@ -296,33 +296,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "A la caza del fiscal: las maniobras del grupo de Leire Díez para tumbar a Alejan",
-      "score": 4.77,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El juez Pedraz imputa a la abogada Leticia de la Hoz y cita como testigo a Crist",
       "score": 4.76,
       "words": [
@@ -401,13 +374,36 @@
           "score": 3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Papa defiende la \"acogida respetuosa\" de migrantes y critica el rearme: “La s",
+      "score": 4.99,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "posibilidades",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-19T22:13:45Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-05-20T00:02:12Z",
       "score": 4.71
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-06-08T17:49:49Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-06-08T20:10:23Z",
+      "score": 4.88
     }
   ]
 }

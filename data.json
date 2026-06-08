@@ -1,9 +1,17 @@
 {
-  "generated": "2026-06-08T00:03:54Z",
-  "global_score": 4.57,
-  "articles_scored": 95,
-  "words_matched": 271,
+  "generated": "2026-06-08T05:28:20Z",
+  "global_score": 4.63,
+  "articles_scored": 93,
+  "words_matched": 264,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "fraude",
+      "score": -4
+    },
     {
       "word": "culo",
       "score": -4
@@ -13,27 +21,19 @@
       "score": -4
     },
     {
+      "word": "escándalos",
+      "score": -3
+    },
+    {
       "word": "escándalo",
       "score": -3
     },
     {
-      "word": "víctimas",
+      "word": "soborno",
       "score": -3
     },
     {
-      "word": "abusos",
-      "score": -3
-    },
-    {
-      "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "peor",
+      "word": "estafas",
       "score": -3
     }
   ],
@@ -44,6 +44,10 @@
     },
     {
       "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganador",
       "score": 4
     },
     {
@@ -59,98 +63,51 @@
       "score": 3
     },
     {
+      "word": "mejor",
+      "score": 3
+    },
+    {
       "word": "celebrando",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "súper",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.09,
-    "elDiario.es": 4.58,
-    "El Mundo": 5.07,
-    "ABC": 5.04,
-    "El Confidencial": 5.13,
-    "BBC Mundo": 4.27,
-    "France 24 ES": 4.01,
-    "La Nación AR": 4.31,
+    "El País": 4.92,
+    "elDiario.es": 4.76,
+    "El Mundo": 5.04,
+    "ABC": 4.62,
+    "El Confidencial": 4.64,
+    "BBC Mundo": 4.68,
+    "France 24 ES": 4.15,
+    "La Nación AR": 5.11,
     "La Jornada MX": 3.71,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 4.78
+    "Resumen Latinoam.": 5.37
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El discurso político del Papa eleva la expectación ante su histórico mensaje al ",
-      "score": 2.6,
+      "title": "El PP amplía a casi cinco puntos su ventaja sobre el PSOE tras los últimos escán",
+      "score": 5.16,
       "words": [
         {
-          "word": "escándalo",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Papa reúne a un insólito auditorio de la sociedad civil para pedir “escucha, ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "gracias",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "León XIV: de Machado a Santa Teresa y los tacones de Sara Baras",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "gracias",
+          "word": "ventaja",
           "score": 2
         },
         {
-          "word": "ojalá",
+          "word": "escándalos",
+          "score": -3
+        },
+        {
+          "word": "favorito",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Papa, en una misa multitudinaria en Madrid: “Nadie puede arrodillarse ante el",
-      "score": 3.4,
-      "words": [
+        },
         {
-          "word": "riesgo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El segundo día de la visita del papa León XIV a Madrid, en imágenes",
-      "score": 7.4,
-      "words": [
+          "word": "aumenta",
+          "score": 1
+        },
         {
-          "word": "celebra",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El viaje del Papa León XIV a España, una pieza en la batalla global contra el po",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "batalla",
+          "word": "indeciso",
           "score": -1
         }
       ]
@@ -183,9 +140,35 @@
     },
     {
       "source": "El País",
-      "title": "Irán dispara misiles contra Israel por primera vez desde el alto el fuego, tras ",
+      "title": "El discurso político del Papa eleva la expectación ante su histórico mensaje al ",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "escándalo",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La Iglesia que recibe a León XIV: menos fe, influencia renovada",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "admite",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Israel bombardea Irán aunque Trump pidió a Netanyahu no hacerlo",
       "score": 3.4,
       "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
         {
           "word": "fuego",
           "score": -2
@@ -193,36 +176,120 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "El Papa lanza otro recado a los ultras y denuncia a los que \"se arrodillan ante ",
-      "score": 4.38,
+      "source": "El País",
+      "title": "La esperanza de León",
+      "score": 6.6,
       "words": [
         {
-          "word": "denuncia",
-          "score": -2
+          "word": "esperanza",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sánchez y Fujimori pelean voto a voto en las elecciones presidenciales de Perú",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "rápido",
+          "score": 2
         },
         {
-          "word": "dios",
-          "score": 1
+          "word": "ventaja",
+          "score": 2
         },
         {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "dios",
-          "score": 1
-        },
-        {
-          "word": "víctimas",
-          "score": -3
+          "word": "espera",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Dónde estará el Papa este lunes y cómo evitar los cortes de tráfico en Madrid du",
-      "score": 4.71,
+      "title": "Operación Cirbelia: la investigación de la UCO a la pareja de Ayuso no arranca p",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "retraso",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "A la caza del fiscal: las maniobras del grupo de Leire Díez para tumbar a Alejan",
+      "score": 4.79,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "promesas",
+          "score": 1
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El gerente de una compañía \"líder\" del Puerto de València fue \"fundamental\" para",
+      "score": 4.24,
+      "words": [
+        {
+          "word": "crimen",
+          "score": -3
+        },
+        {
+          "word": "crimen",
+          "score": -3
+        },
+        {
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "colapso",
+          "score": -2
+        },
+        {
+          "word": "importante",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sumar intenta reactivar la agenda social del Gobierno para evitar que la legisla",
+      "score": 4.6,
       "words": [
         {
           "word": "evitar",
@@ -233,133 +300,102 @@
           "score": -1
         },
         {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "saludar",
-          "score": 1
-        },
-        {
-          "word": "compartir",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los grupos que se oponen a la visita del Papa: \"Hay pleitesía del sistema políti",
-      "score": 4.49,
-      "words": [
-        {
-          "word": "alerta",
+          "word": "paga",
           "score": -1
         },
         {
-          "word": "condena",
+          "word": "frases",
           "score": -2
         },
         {
-          "word": "viola",
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Israel ignora a Trump con un ataque a Irán que lleva la tregua a su peor momento",
+      "score": 4.3,
+      "words": [
+        {
+          "word": "ignora",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "claramente",
+          "word": "ignorado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El recuento rápido apunta a una victoria por la mínima del progresista Sánchez s",
+      "score": 5.45,
+      "words": [
+        {
+          "word": "rápido",
+          "score": 2
+        },
+        {
+          "word": "rápido",
+          "score": 2
+        },
+        {
+          "word": "rápido",
+          "score": 2
+        },
+        {
+          "word": "ventaja",
+          "score": 2
+        },
+        {
+          "word": "error",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Roberto Sánchez, candidato presidencial en Perú: \"Es el momento de recuperar un ",
+      "score": 5.56,
+      "words": [
+        {
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "barrera",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los jóvenes católicos dan la bienvenida al Papa en la vigilia de Madrid: \"Es el ",
-      "score": 5.73,
-      "words": [
-        {
-          "word": "bienvenida",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "bienvenida",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las víctimas de abusos escenifican un falso encuentro con León XIV: \"Papa, hay q",
-      "score": 3.94,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "falso",
-          "score": -3
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los mejores memes de la visita del Papa a Madrid",
-      "score": 4.28,
-      "words": [
-        {
-          "word": "solo",
+          "word": "disputa",
           "score": -2
         },
         {
-          "word": "inspirado",
-          "score": 2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "solo",
+          "word": "encarcelado",
           "score": -2
         },
         {
-          "word": "inspirado",
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "fuerza",
           "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-19T12:07:13Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-19T16:16:59Z",
       "score": 4.87
@@ -1027,6 +1063,10 @@
     {
       "timestamp": "2026-06-08T00:03:54Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-06-08T05:28:20Z",
+      "score": 4.63
     }
   ]
 }

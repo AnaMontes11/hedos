@@ -1,53 +1,49 @@
 {
-  "generated": "2026-06-08T10:47:30Z",
-  "global_score": 4.86,
-  "articles_scored": 87,
-  "words_matched": 267,
+  "generated": "2026-06-08T14:45:48Z",
+  "global_score": 4.83,
+  "articles_scored": 95,
+  "words_matched": 243,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "abusos",
-      "score": -3
-    },
-    {
-      "word": "víctimas",
-      "score": -3
     },
     {
       "word": "escándalos",
       "score": -3
     },
     {
-      "word": "soborno",
+      "word": "cargado",
       "score": -3
     },
     {
-      "word": "estafas",
+      "word": "advertencia",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "destruir",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "alegría",
       "score": 4
     },
     {
-      "word": "bendición",
+      "word": "maravilloso",
       "score": 4
     },
     {
@@ -55,56 +51,52 @@
       "score": 4
     },
     {
+      "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "mejor",
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "perfecto",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.57,
-    "elDiario.es": 4.78,
-    "El Mundo": 4.85,
-    "ABC": 5.23,
-    "El Confidencial": 6.2,
-    "BBC Mundo": 4.37,
-    "France 24 ES": 4.15,
-    "La Nación AR": 5.8,
+    "El País": 4.67,
+    "elDiario.es": 4.9,
+    "El Mundo": 4.88,
+    "ABC": 5.61,
+    "El Confidencial": 4.97,
+    "BBC Mundo": 4.17,
+    "France 24 ES": 4.57,
+    "La Nación AR": 5.03,
     "La Jornada MX": 5.14,
-    "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 5.23
+    "Desinformémonos": 4.05,
+    "Resumen Latinoam.": 5.24
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Visita del papa León XIV, en directo | El Papa pide ante los obispos responder a",
-      "score": 4.8,
+      "title": "El Papa define la pederastia como una “plaga” y pide a los obispos “cambios real",
+      "score": 7.0,
       "words": [
         {
-          "word": "abusos",
-          "score": -3
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "justicia",
+          "word": "libertad",
           "score": 2
-        },
-        {
-          "word": "posibilidades",
-          "score": 2
-        },
-        {
-          "word": "critica",
-          "score": -2
         }
       ]
     },
@@ -133,12 +125,27 @@
     },
     {
       "source": "El País",
-      "title": "Víctimas de la pederastia en la Iglesia denuncian haber sido excluidas de la reu",
-      "score": 2.6,
+      "title": "De la crítica a la conquista de América a la negación del aborto: las 10 claves ",
+      "score": 3.4,
       "words": [
         {
-          "word": "víctimas",
-          "score": -3
+          "word": "crítica",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La crónica | Milagro papal en el Congreso: todos se dicen de acuerdo con León XI",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "milagro",
+          "score": 4
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -171,15 +178,27 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán | Trump reclama ",
-      "score": 3.8,
+      "title": "Israel e Irán aseguran haber detenido los ataques cruzados",
+      "score": 4.04,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "detenido",
+          "score": -1
         },
         {
           "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "detener",
           "score": -1
         }
       ]
@@ -197,225 +216,206 @@
     },
     {
       "source": "El País",
-      "title": "La esperanza de León",
-      "score": 6.6,
+      "title": "El megalodón de Musk",
+      "score": 3.4,
       "words": [
         {
-          "word": "esperanza",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Jesús",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "jesús",
-          "score": 1
-        },
-        {
-          "word": "esperanza",
-          "score": 2
+          "word": "distrae",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Operación Cirbelia: la investigación de la UCO a la pareja de Ayuso no arranca p",
-      "score": 4.2,
+      "title": "La Fiscalía pide la absolución de David Sánchez y carga contra las “conjeturas” ",
+      "score": 4.78,
       "words": [
         {
-          "word": "soborno",
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP y las acusaciones ultras atacan a los testigos que contradicen las tesis d",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "celebra",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "A la caza del fiscal: las maniobras del grupo de Leire Díez para tumbar a Alejan",
+      "score": 4.77,
+      "words": [
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "promesas",
+          "score": 1
+        },
+        {
+          "word": "destruir",
           "score": -3
         },
         {
-          "word": "soborno",
-          "score": -3
+          "word": "niega",
+          "score": -2
         },
         {
-          "word": "soborno",
-          "score": -3
-        },
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez Pedraz imputa a la abogada Leticia de la Hoz y cita como testigo a Crist",
+      "score": 4.76,
+      "words": [
         {
-          "word": "retraso",
+          "word": "rechaza",
           "score": -1
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "acepta",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP pide la imputación de las hijas de Zapatero en la causa contra su padre en",
+      "score": 4.97,
+      "words": [
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Policía acusa a las hijas de Zapatero de emitir facturas para encubrir pagos ",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
         },
         {
           "word": "pasado",
           "score": -1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "sentido",
+          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El Papa defiende ante el Congreso la \"acogida respetuosa\" de migrantes y critica",
-      "score": 5.03,
+      "title": "El Papa defiende la \"acogida respetuosa\" de migrantes y critica el rearme: “La s",
+      "score": 4.99,
       "words": [
         {
           "word": "critica",
           "score": -2
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "derecho",
+          "score": 1
         },
         {
           "word": "critica",
           "score": -2
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "derecho",
+          "score": 1
         },
         {
           "word": "posibilidades",
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | ¿Para qué sirve la visita del Papa?",
-      "score": 6.14,
-      "words": [
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "paga",
-          "score": -1
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "dios",
-          "score": 1
-        },
-        {
-          "word": "celebrar",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Papa carga en el Congreso contra el aborto y la eutanasia: “Toda vida debe se",
-      "score": 4.66,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Sindicato de Inquilinas entrega una carta al Papa en la que le pide que frene",
-      "score": 4.67,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "alerta",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "pobreza",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Víctimas de pederastia en la Iglesia exigen al Papa \"una escucha real\": “No nos ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "polémico",
-          "score": -2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ha nacido una estrella",
-      "score": 5.47,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "placer",
-          "score": 3
-        },
-        {
-          "word": "culpable",
-          "score": -3
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "dios",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-19T18:57:44Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-05-19T20:49:25Z",
       "score": 4.79
@@ -1083,6 +1083,10 @@
     {
       "timestamp": "2026-06-08T10:47:30Z",
       "score": 4.86
+    },
+    {
+      "timestamp": "2026-06-08T14:45:48Z",
+      "score": 4.83
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-09T09:37:46Z",
-  "global_score": 4.64,
-  "articles_scored": 94,
-  "words_matched": 239,
+  "generated": "2026-06-09T12:34:05Z",
+  "global_score": 4.58,
+  "articles_scored": 86,
+  "words_matched": 266,
   "top_negative": [
     {
       "word": "negro",
@@ -13,15 +13,15 @@
       "score": -4
     },
     {
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "mal",
+      "score": -3
+    },
+    {
       "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "estafa",
-      "score": -3
-    },
-    {
-      "word": "falso",
       "score": -3
     },
     {
@@ -29,15 +29,27 @@
       "score": -3
     },
     {
-      "word": "crimen",
+      "word": "abusos",
       "score": -3
     },
     {
-      "word": "perdiendo",
+      "word": "retirada",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "brillante",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
     {
       "word": "celebra",
       "score": 3
@@ -51,78 +63,32 @@
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "mejor",
       "score": 3
     },
     {
       "word": "perfecto",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "afecto",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.83,
-    "elDiario.es": 4.64,
-    "El Mundo": 5.68,
-    "ABC": 4.53,
-    "El Confidencial": 4.48,
-    "BBC Mundo": 4.28,
-    "France 24 ES": 4.13,
-    "La Nación AR": 5.29,
+    "El País": 4.52,
+    "elDiario.es": 4.76,
+    "El Mundo": 4.23,
+    "ABC": 5.05,
+    "El Confidencial": 4.63,
+    "BBC Mundo": 3.92,
+    "France 24 ES": 4.6,
+    "La Nación AR": 4.98,
     "La Jornada MX": 4.89,
     "Desinformémonos": 3.94,
-    "Resumen Latinoam.": 4.62
+    "Resumen Latinoam.": 4.7
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El cóctel de problemas de la educación pública explota en el final de curso más ",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "problemas",
-          "score": -2
-        },
-        {
-          "word": "huelga",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Gabriel Plaza, el alumno de 10 al que criticaron por elegir Filología Clásica: “",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "alerta",
-          "score": -1
-        },
-        {
-          "word": "ansiedad",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Miguel Ángel Gallardo, al final del juicio al hermano de Sánchez: “Ya han ganado",
-      "score": 4.8,
+      "score": 4.52,
       "words": [
         {
           "word": "ganado",
@@ -133,97 +99,129 @@
           "score": -2
         },
         {
-          "word": "derecho",
-          "score": 1
+          "word": "debilidad",
+          "score": -2
         },
         {
-          "word": "sentencia",
+          "word": "acusaciones",
           "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Suspendido el fiscal jefe del Tribunal Penal Internacional, Karim Khan, en una i",
-      "score": 4.2,
+      "title": "Omella se querelló contra un joven que le reprochó su inacción ante un cura pede",
+      "score": 4.0,
       "words": [
         {
-          "word": "suspendido",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Visita del papa León XIV, en directo | El Pontífice reivindica el trabajo de los",
-      "score": 6.6,
-      "words": [
+          "word": "inacción",
+          "score": -2
+        },
         {
-          "word": "reivindica",
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "superior",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La reina Sofía y sus hijas, las infantas Elena y Cristina, recibidas por el papa",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "celebrado",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La España que no espera al Papa (ni protesta)",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "protesta",
-          "score": -2
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La misión especial del sordociego Ángel Valdés para acercarse lo más lo posible ",
+      "title": "Alemania se resigna ante el fin del caza europeo: “El proyecto se ha estrellado ",
       "score": 3.4,
       "words": [
         {
-          "word": "solo",
+          "word": "problemas",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "De vivir en el barrio más pobre de España a estudiar ingeniería o empresariales:",
-      "score": 4.6,
+      "title": "Próxima parada, Amado Granell, el valenciano que liberó París",
+      "score": 5.0,
       "words": [
         {
-          "word": "pobre",
+          "word": "parada",
+          "score": -1
+        },
+        {
+          "word": "amado",
+          "score": 3
+        },
+        {
+          "word": "muerte",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Roberto Martínez, el español que puede llevar a Portugal a ganar su primer Mundi",
+      "score": 7.67,
+      "words": [
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "brillante",
+          "score": 4
+        },
+        {
+          "word": "favoritos",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El árbitro somalí Omar Artan se perderá el Mundial al prohibirle la entrada a Es",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "rechazado",
+          "score": -1
+        },
+        {
+          "word": "problema",
           "score": -2
         },
         {
-          "word": "claro",
-          "score": 1
+          "word": "prohibición",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿‘Excombatientes’ de la Transición?",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "mal",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "EEUU tardó cinco años en enviar a España los chats del empresario venezolano que",
-      "score": 3.8,
+      "score": 4.68,
       "words": [
         {
           "word": "asegurar",
@@ -244,6 +242,114 @@
         {
           "word": "fraudes",
           "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juicio a David Sánchez, visto para sentencia con el alegato final de la defen",
+      "score": 4.61,
+      "words": [
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "carga",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Villarejo vio a Cospedal \"obsesionada\" con las anotaciones de Bárcenas sobre \"M.",
+      "score": 4.95,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "robar",
+          "score": -2
+        },
+        {
+          "word": "sensible",
+          "score": 2
+        },
+        {
+          "word": "ora",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Colegio de Abogados aparta a un concejal y exmilitante de Vox en Salamanca de",
+      "score": 5.32,
+      "words": [
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "exigido",
+          "score": -1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La presidenta de la SEPI defiende el fondo que rescató a Air Europa o Plus Ultra",
+      "score": 5.11,
+      "words": [
+        {
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
         }
       ]
     },
@@ -303,33 +409,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juicio a David Sánchez, visto para sentencia con el alegato final de la defen",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Dimite la número dos de Movimiento Sumar antes de que se ponga fecha al congreso",
       "score": 4.47,
       "words": [
@@ -354,40 +433,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Una jueza discrepa y apoya investigar por genocidio a directivos de Sidenor por ",
-      "score": 4.37,
-      "words": [
-        {
-          "word": "corte",
-          "score": -1
-        },
-        {
-          "word": "corte",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "corte",
-          "score": -1
-        },
-        {
-          "word": "competente",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-20T16:23:37Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-05-20T19:22:20Z",
       "score": 4.7
@@ -1055,6 +1103,10 @@
     {
       "timestamp": "2026-06-09T09:37:46Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-06-09T12:34:05Z",
+      "score": 4.58
     }
   ]
 }

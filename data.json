@@ -1,16 +1,12 @@
 {
-  "generated": "2026-06-08T22:23:59Z",
-  "global_score": 4.66,
-  "articles_scored": 88,
-  "words_matched": 253,
+  "generated": "2026-06-09T00:02:51Z",
+  "global_score": 4.74,
+  "articles_scored": 90,
+  "words_matched": 255,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
-    },
-    {
-      "word": "fraude",
-      "score": -4
     },
     {
       "word": "culo",
@@ -35,6 +31,10 @@
     {
       "word": "delitos",
       "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -47,6 +47,10 @@
       "score": 4
     },
     {
+      "word": "maravilloso",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
@@ -55,34 +59,30 @@
       "score": 4
     },
     {
-      "word": "premios",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "emocionante",
       "score": 3
     },
     {
       "word": "mejor",
       "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.66,
+    "El País": 5.07,
     "elDiario.es": 4.97,
     "El Mundo": 5.74,
-    "ABC": 5.13,
+    "ABC": 4.84,
     "El Confidencial": 4.63,
     "BBC Mundo": 3.75,
     "France 24 ES": 4.64,
-    "La Nación AR": 5.19,
+    "La Nación AR": 5.04,
     "La Jornada MX": 5.14,
-    "Desinformémonos": 3.42,
-    "Resumen Latinoam.": 4.29
+    "Desinformémonos": 4.04,
+    "Resumen Latinoam.": 4.42
   },
   "articles": [
     {
@@ -199,17 +199,6 @@
         {
           "word": "ataque",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump planta e insulta a una entrevistadora en televisión por llevarle la contra",
-      "score": 1.8,
-      "words": [
-        {
-          "word": "fraude",
-          "score": -4
         }
       ]
     },
@@ -401,13 +390,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | ¿Para qué sirve la visita del Papa?",
+      "score": 6.14,
+      "words": [
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "paga",
+          "score": -1
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "dios",
+          "score": 1
+        },
+        {
+          "word": "celebrar",
+          "score": 3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-20T05:01:43Z",
-      "score": 4.91
-    },
     {
       "timestamp": "2026-05-20T09:26:24Z",
       "score": 4.95
@@ -1075,6 +1087,10 @@
     {
       "timestamp": "2026-06-08T22:23:59Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-06-09T00:02:51Z",
+      "score": 4.74
     }
   ]
 }

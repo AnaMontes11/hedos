@@ -1,15 +1,15 @@
 {
-  "generated": "2026-06-09T15:52:23Z",
-  "global_score": 4.88,
-  "articles_scored": 89,
-  "words_matched": 219,
+  "generated": "2026-06-09T18:00:19Z",
+  "global_score": 4.78,
+  "articles_scored": 87,
+  "words_matched": 268,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraudes",
+      "word": "culo",
       "score": -4
     },
     {
@@ -17,23 +17,23 @@
       "score": -4
     },
     {
-      "word": "delito",
+      "word": "fraudes",
+      "score": -4
+    },
+    {
+      "word": "advertencias",
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "morir",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "desesperado",
       "score": -3
     },
     {
-      "word": "perdiendo",
-      "score": -3
-    },
-    {
-      "word": "estafa",
+      "word": "enemigos",
       "score": -3
     }
   ],
@@ -47,7 +47,15 @@
       "score": 4
     },
     {
+      "word": "celebra",
+      "score": 3
+    },
+    {
       "word": "emoción",
+      "score": 3
+    },
+    {
+      "word": "hermosa",
       "score": 3
     },
     {
@@ -55,36 +63,74 @@
       "score": 3
     },
     {
+      "word": "exitoso",
+      "score": 3
+    },
+    {
       "word": "maravilla",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.42,
-    "elDiario.es": 5.04,
-    "El Mundo": 4.75,
-    "ABC": 5.39,
-    "El Confidencial": 4.8,
-    "BBC Mundo": 4.55,
-    "France 24 ES": 5.12,
-    "La Nación AR": 5.8,
+    "El País": 4.57,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.96,
+    "ABC": 4.9,
+    "El Confidencial": 4.53,
+    "BBC Mundo": 4.71,
+    "France 24 ES": 4.42,
+    "La Nación AR": 6.03,
     "La Jornada MX": 4.89,
     "Desinformémonos": 4.19,
-    "Resumen Latinoam.": 4.7
+    "Resumen Latinoam.": 4.88
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "combate",
+          "score": -1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Israel ignora las advertencias de Irán y mata al menos a 29 personas en Líbano",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "ignora",
+          "score": -1
+        },
+        {
+          "word": "advertencias",
+          "score": -3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "desalojo",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Miguel Ángel Gallardo, al final del juicio al hermano de Sánchez: “Ya han ganado",
@@ -129,6 +175,25 @@
     },
     {
       "source": "El País",
+      "title": "El PP se reúne con Vox para negociar la investidura de Moreno en Andalucía",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Alemania se resigna ante el fin del caza europeo: “El proyecto se ha estrellado ",
       "score": 3.4,
       "words": [
@@ -159,42 +224,146 @@
     },
     {
       "source": "El País",
-      "title": "Omella se querelló contra un joven que le reprochó su inacción ante un cura pede",
-      "score": 4.0,
+      "title": "El papa León XIV se reunió en privado con Bad Bunny el lunes en el Bernabéu",
+      "score": 3.4,
       "words": [
         {
-          "word": "inacción",
+          "word": "abandonar",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump confirma que Irán ha derribado un helicóptero Apache y anuncia: \"EEUU nece",
+      "score": 4.87,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "delito",
-          "score": -3
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "amenazas",
-          "score": -2
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "superior",
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "asegurado",
           "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Próxima parada, Amado Granell, el valenciano que liberó París",
-      "score": 5.0,
+      "source": "elDiario.es",
+      "title": "Qué hay detrás de los ataques entre Irán e Israel y cómo pueden afectar a las ne",
+      "score": 4.5,
       "words": [
         {
-          "word": "parada",
+          "word": "ataques",
           "score": -1
         },
         {
-          "word": "amado",
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump recibe un sonoro abucheo en su visita a las finales de la NBA",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "enfado",
+          "score": -3
+        },
+        {
+          "word": "mejor",
           "score": 3
         },
         {
-          "word": "muerte",
+          "word": "aplausos",
+          "score": 2
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "saludo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los negocios turbios de la familia Trump en Albania se topan con un enemigo ines",
+      "score": 4.52,
+      "words": [
+        {
+          "word": "enemigo",
+          "score": -2
+        },
+        {
+          "word": "enemigo",
+          "score": -2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "amable",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump dice ahora que nunca prometió no empezar una nueva guerra, pero lo cierto ",
+      "score": 4.34,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "cierto",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "cierto",
+          "score": 2
+        },
+        {
+          "word": "guerra",
           "score": -2
         }
       ]
@@ -252,202 +421,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Justicia entrega a la UCO los expedientes de la nacionalización del ex alto carg",
-      "score": 6.73,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "bueno",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juicio a David Sánchez, visto para sentencia con el alegato final de la defen",
-      "score": 4.61,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La derecha judicial arrasa en la renovación parcial de la comisión que orienta a",
-      "score": 5.56,
-      "words": [
-        {
-          "word": "parcial",
-          "score": -2
-        },
-        {
-          "word": "parcial",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "parcial",
-          "score": -2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Dimite la número dos de Movimiento Sumar antes de que el partido ponga fecha a s",
-      "score": 4.25,
-      "words": [
-        {
-          "word": "abandona",
-          "score": -2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "renuncia",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El 'comando Leire' maniobró contra Óscar Puente por la auditoría de los contrato",
-      "score": 4.72,
-      "words": [
-        {
-          "word": "demanda",
-          "score": -1
-        },
-        {
-          "word": "cierto",
-          "score": 2
-        },
-        {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "demanda",
-          "score": -1
-        },
-        {
-          "word": "demanda",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La directora de la Guardia Civil explicará sus reuniones con Leire Díez el 16 de",
-      "score": 5.08,
-      "words": [
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "detenido",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Villarejo vio a Cospedal \"obsesionada\" con las anotaciones de Bárcenas sobre \"M.",
-      "score": 4.95,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "robar",
-          "score": -2
-        },
-        {
-          "word": "sensible",
-          "score": 2
-        },
-        {
-          "word": "ora",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-20T21:49:52Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-05-20T23:09:33Z",
       "score": 4.58
@@ -1115,6 +1091,10 @@
     {
       "timestamp": "2026-06-09T15:52:23Z",
       "score": 4.88
+    },
+    {
+      "timestamp": "2026-06-09T18:00:19Z",
+      "score": 4.78
     }
   ]
 }

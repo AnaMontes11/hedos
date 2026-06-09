@@ -1,27 +1,23 @@
 {
-  "generated": "2026-06-09T05:02:45Z",
-  "global_score": 4.77,
-  "articles_scored": 91,
-  "words_matched": 277,
+  "generated": "2026-06-09T09:37:46Z",
+  "global_score": 4.64,
+  "articles_scored": 94,
+  "words_matched": 239,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraude",
+      "word": "fraudes",
       "score": -4
     },
     {
-      "word": "mal",
+      "word": "vil",
       "score": -3
     },
     {
-      "word": "víctimas",
-      "score": -3
-    },
-    {
-      "word": "abusos",
+      "word": "estafa",
       "score": -3
     },
     {
@@ -29,35 +25,19 @@
       "score": -3
     },
     {
-      "word": "cargado",
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "pierde",
+      "word": "crimen",
+      "score": -3
+    },
+    {
+      "word": "perdiendo",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "alegría",
-      "score": 4
-    },
-    {
-      "word": "brillante",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "paraíso",
-      "score": 3
-    },
     {
       "word": "celebra",
       "score": 3
@@ -67,20 +47,40 @@
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "exaltado",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "afecto",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.98,
-    "elDiario.es": 4.79,
-    "El Mundo": 5.6,
-    "ABC": 5.03,
-    "El Confidencial": 5.5,
-    "BBC Mundo": 4.04,
-    "France 24 ES": 4.28,
-    "La Nación AR": 4.68,
-    "La Jornada MX": 5.14,
+    "El País": 4.83,
+    "elDiario.es": 4.64,
+    "El Mundo": 5.68,
+    "ABC": 4.53,
+    "El Confidencial": 4.48,
+    "BBC Mundo": 4.28,
+    "France 24 ES": 4.13,
+    "La Nación AR": 5.29,
+    "La Jornada MX": 4.89,
     "Desinformémonos": 3.94,
     "Resumen Latinoam.": 4.62
   },
@@ -102,18 +102,7 @@
     },
     {
       "source": "El País",
-      "title": "Aulas a 35 grados y recreos sin sombra en Castilla-La Mancha: “Hay escuelas que ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "mancha",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Gabriel Plaza, el alumno de 10 al que vejaron por elegir Filología Clásica: “Qui",
+      "title": "Gabriel Plaza, el alumno de 10 al que criticaron por elegir Filología Clásica: “",
       "score": 5.0,
       "words": [
         {
@@ -132,16 +121,76 @@
     },
     {
       "source": "El País",
-      "title": "El Gobierno recibe como un balón de oxígeno el discurso del Papa sobre inmigraci",
-      "score": 5.0,
+      "title": "Miguel Ángel Gallardo, al final del juicio al hermano de Sánchez: “Ya han ganado",
+      "score": 4.8,
       "words": [
         {
-          "word": "guerra",
+          "word": "ganado",
+          "score": 2
+        },
+        {
+          "word": "condenado",
           "score": -2
         },
         {
-          "word": "aplaudir",
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Suspendido el fiscal jefe del Tribunal Penal Internacional, Karim Khan, en una i",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "suspendido",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Visita del papa León XIV, en directo | El Pontífice reivindica el trabajo de los",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "reivindica",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La reina Sofía y sus hijas, las infantas Elena y Cristina, recibidas por el papa",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "celebrado",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La España que no espera al Papa (ni protesta)",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "protesta",
+          "score": -2
+        },
+        {
+          "word": "perdido",
+          "score": -2
         }
       ]
     },
@@ -158,170 +207,43 @@
     },
     {
       "source": "El País",
-      "title": "Roberto Martínez, el español que puede llevar a Portugal a ganar su primer Mundi",
-      "score": 7.67,
+      "title": "De vivir en el barrio más pobre de España a estudiar ingeniería o empresariales:",
+      "score": 4.6,
       "words": [
         {
-          "word": "ganar",
-          "score": 4
+          "word": "pobre",
+          "score": -2
         },
         {
-          "word": "brillante",
-          "score": 4
-        },
-        {
-          "word": "favoritos",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿‘Excombatientes’ de la Transición?",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "mal",
-          "score": -3
+          "word": "claro",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El Papa ningunea a las asociaciones de víctimas pese a considerar una \"plaga\" la",
-      "score": 4.72,
+      "title": "EEUU tardó cinco años en enviar a España los chats del empresario venezolano que",
+      "score": 3.8,
       "words": [
         {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "apaciguar",
-          "score": 2
-        },
-        {
-          "word": "polémica",
-          "score": -2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Papa carga en el Congreso contra el aborto y la eutanasia: “Toda vida debe se",
-      "score": 4.66,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "natural",
+          "word": "asegurar",
           "score": 1
         },
         {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "No busquen al Papa en la defensa de la prioridad nacional",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "posibilidades",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Raval, el barrio con más diversidad religiosa de Barcelona, ante la visita de",
-      "score": 5.39,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "cubrir",
+          "word": "vil",
           "score": -3
         },
         {
-          "word": "cierto",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | Un Papa de cal y otro de arena",
-      "score": 5.61,
-      "words": [
-        {
-          "word": "aplaudida",
-          "score": 2
-        },
-        {
-          "word": "aplaude",
-          "score": 2
-        },
-        {
-          "word": "aplaudir",
-          "score": 2
-        },
-        {
-          "word": "aplaude",
-          "score": 2
-        },
-        {
-          "word": "odio",
+          "word": "vil",
           "score": -3
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "fraudes",
+          "score": -4
         }
       ]
     },
@@ -354,64 +276,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Fiscalía pide la absolución de David Sánchez y carga contra las “conjeturas” ",
-      "score": 4.54,
+      "title": "El caso Leire Díez, un puzle surrealista",
+      "score": 4.89,
       "words": [
         {
-          "word": "carga",
-          "score": -2
+          "word": "llegar",
+          "score": 1
         },
         {
-          "word": "acusaciones",
-          "score": -2
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "carga",
-          "score": -2
+          "word": "asuntos",
+          "score": 1
         },
         {
-          "word": "acusaciones",
-          "score": -2
+          "word": "valor",
+          "score": 2
         },
         {
-          "word": "acusaciones",
+          "word": "contencioso",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La escalada entre Israel e Irán exhibe la fragilidad de otro alto el fuego preca",
-      "score": 4.34,
+      "title": "El juicio a David Sánchez, visto para sentencia con el alegato final de la defen",
+      "score": 4.2,
       "words": [
         {
-          "word": "fuego",
+          "word": "sentencia",
           "score": -2
         },
         {
-          "word": "fuego",
+          "word": "acusación",
           "score": -2
         },
         {
-          "word": "acepta",
-          "score": 1
+          "word": "sentencia",
+          "score": -2
         },
         {
-          "word": "ataques",
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "carga",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Dimite la número dos de Movimiento Sumar antes de que se ponga fecha al congreso",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "abandona",
+          "score": -2
+        },
+        {
+          "word": "evitar",
           "score": -1
         },
         {
-          "word": "ataques",
+          "word": "renuncia",
           "score": -1
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "espera",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Una jueza discrepa y apoya investigar por genocidio a directivos de Sidenor por ",
+      "score": 4.37,
+      "words": [
+        {
+          "word": "corte",
+          "score": -1
+        },
+        {
+          "word": "corte",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "corte",
+          "score": -1
+        },
+        {
+          "word": "competente",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-20T12:21:27Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-05-20T16:23:37Z",
       "score": 4.62
@@ -1079,6 +1051,10 @@
     {
       "timestamp": "2026-06-09T05:02:45Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-06-09T09:37:46Z",
+      "score": 4.64
     }
   ]
 }

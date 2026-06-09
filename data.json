@@ -1,16 +1,20 @@
 {
-  "generated": "2026-06-09T00:02:51Z",
-  "global_score": 4.74,
-  "articles_scored": 90,
-  "words_matched": 255,
+  "generated": "2026-06-09T05:02:45Z",
+  "global_score": 4.77,
+  "articles_scored": 91,
+  "words_matched": 277,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
+    },
+    {
+      "word": "mal",
+      "score": -3
     },
     {
       "word": "víctimas",
@@ -21,19 +25,15 @@
       "score": -3
     },
     {
+      "word": "falso",
+      "score": -3
+    },
+    {
       "word": "cargado",
       "score": -3
     },
     {
-      "word": "advertencia",
-      "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "delito",
+      "word": "pierde",
       "score": -3
     }
   ],
@@ -47,7 +47,7 @@
       "score": 4
     },
     {
-      "word": "maravilloso",
+      "word": "brillante",
       "score": 4
     },
     {
@@ -55,149 +55,299 @@
       "score": 4
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "amor",
+      "word": "paraíso",
       "score": 3
     },
     {
-      "word": "emocionante",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "emoción",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.07,
-    "elDiario.es": 4.97,
-    "El Mundo": 5.74,
-    "ABC": 4.84,
-    "El Confidencial": 4.63,
-    "BBC Mundo": 3.75,
-    "France 24 ES": 4.64,
-    "La Nación AR": 5.04,
+    "El País": 4.98,
+    "elDiario.es": 4.79,
+    "El Mundo": 5.6,
+    "ABC": 5.03,
+    "El Confidencial": 5.5,
+    "BBC Mundo": 4.04,
+    "France 24 ES": 4.28,
+    "La Nación AR": 4.68,
     "La Jornada MX": 5.14,
-    "Desinformémonos": 4.04,
-    "Resumen Latinoam.": 4.42
+    "Desinformémonos": 3.94,
+    "Resumen Latinoam.": 4.62
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El Papa define la pederastia como una “plaga” y pide a los obispos “cambios real",
-      "score": 7.0,
+      "title": "El cóctel de problemas de la educación pública explota en el final de curso más ",
+      "score": 3.8,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "problemas",
+          "score": -2
         },
         {
-          "word": "libertad",
+          "word": "huelga",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Aulas a 35 grados y recreos sin sombra en Castilla-La Mancha: “Hay escuelas que ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "mancha",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El Papa reprocha en el Congreso la “descalificación permanente del adversario” y",
-      "score": 5.6,
+      "title": "Gabriel Plaza, el alumno de 10 al que vejaron por elegir Filología Clásica: “Qui",
+      "score": 5.0,
       "words": [
         {
-          "word": "reivindica",
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "ansiedad",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno recibe como un balón de oxígeno el discurso del Papa sobre inmigraci",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "aplaudir",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La misión especial del sordociego Ángel Valdés para acercarse lo más lo posible ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Roberto Martínez, el español que puede llevar a Portugal a ganar su primer Mundi",
+      "score": 7.67,
+      "words": [
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "brillante",
+          "score": 4
+        },
+        {
+          "word": "favoritos",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿‘Excombatientes’ de la Transición?",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "mal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Papa ningunea a las asociaciones de víctimas pese a considerar una \"plaga\" la",
+      "score": 4.72,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "apaciguar",
           "score": 2
         },
         {
-          "word": "paz",
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Papa carga en el Congreso contra el aborto y la eutanasia: “Toda vida debe se",
+      "score": 4.66,
+      "words": [
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "natural",
+          "score": 1
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "natural",
+          "score": 1
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "No busquen al Papa en la defensa de la prioridad nacional",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "posibilidades",
           "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "critica",
+          "score": -2
         },
         {
           "word": "derecho",
           "score": 1
         },
         {
-          "word": "carga",
+          "word": "amenaza",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "De la crítica a la conquista de América a la negación del aborto: las 10 claves ",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "El Raval, el barrio con más diversidad religiosa de Barcelona, ante la visita de",
+      "score": 5.39,
       "words": [
         {
-          "word": "crítica",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La crónica | Milagro papal en el Congreso: todos se dicen de acuerdo con León XI",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "milagro",
-          "score": 4
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las víctimas de abusos piden al Papa una respuesta “más eficaz” de la Iglesia en",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "eficaz",
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "víctimas",
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "cubrir",
           "score": -3
         },
         {
-          "word": "comprometido",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Alemania y Francia cancelan el desarrollo conjunto del futuro avión de combate e",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "combate",
-          "score": -1
+          "word": "cierto",
+          "score": 2
         },
         {
-          "word": "solitario",
+          "word": "solo",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Marruecos mata a un alto dirigente del Polisario en un ataque con drones en el S",
-      "score": 4.2,
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Un Papa de cal y otro de arena",
+      "score": 5.61,
       "words": [
         {
-          "word": "ataque",
+          "word": "aplaudida",
+          "score": 2
+        },
+        {
+          "word": "aplaude",
+          "score": 2
+        },
+        {
+          "word": "aplaudir",
+          "score": 2
+        },
+        {
+          "word": "aplaude",
+          "score": 2
+        },
+        {
+          "word": "odio",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El 'comando Leire' maniobró contra Óscar Puente por la auditoría de los contrato",
+      "score": 4.72,
+      "words": [
+        {
+          "word": "demanda",
+          "score": -1
+        },
+        {
+          "word": "cierto",
+          "score": 2
+        },
+        {
+          "word": "limpiar",
+          "score": 2
+        },
+        {
+          "word": "demanda",
+          "score": -1
+        },
+        {
+          "word": "demanda",
           "score": -1
         }
       ]
@@ -231,199 +381,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El delito de apellidarse Sánchez Pérez-Castejón",
-      "score": 4.17,
+      "title": "La escalada entre Israel e Irán exhibe la fragilidad de otro alto el fuego preca",
+      "score": 4.34,
       "words": [
         {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "acusado",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "acusado",
+          "word": "fuego",
           "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP y las acusaciones ultras atacan a los testigos que contradicen las tesis d",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Pedraz imputa a la abogada Leticia de la Hoz y cita como testigo a Crist",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "soborno",
-          "score": -3
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "soborno",
-          "score": -3
         },
         {
           "word": "acepta",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP pide la imputación de las hijas de Zapatero en la causa contra su padre en",
-      "score": 4.97,
-      "words": [
-        {
-          "word": "acusación",
-          "score": -2
         },
         {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Policía acusa a las hijas de Zapatero de emitir facturas para encubrir pagos ",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "pasado",
+          "word": "ataques",
           "score": -1
         },
         {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Papa defiende la \"acogida respetuosa\" de migrantes y critica el rearme: “La s",
-      "score": 4.99,
-      "words": [
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "posibilidades",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | ¿Para qué sirve la visita del Papa?",
-      "score": 6.14,
-      "words": [
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "paga",
+          "word": "ataques",
           "score": -1
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "dios",
-          "score": 1
-        },
-        {
-          "word": "celebrar",
-          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-20T09:26:24Z",
-      "score": 4.95
-    },
     {
       "timestamp": "2026-05-20T12:21:27Z",
       "score": 4.72
@@ -1091,6 +1075,10 @@
     {
       "timestamp": "2026-06-09T00:02:51Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-06-09T05:02:45Z",
+      "score": 4.77
     }
   ]
 }

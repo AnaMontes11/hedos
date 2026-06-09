@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-09T12:34:05Z",
-  "global_score": 4.58,
-  "articles_scored": 86,
-  "words_matched": 266,
+  "generated": "2026-06-09T15:52:23Z",
+  "global_score": 4.88,
+  "articles_scored": 89,
+  "words_matched": 219,
   "top_negative": [
     {
       "word": "negro",
@@ -13,11 +13,11 @@
       "score": -4
     },
     {
-      "word": "delito",
-      "score": -3
+      "word": "fraude",
+      "score": -4
     },
     {
-      "word": "mal",
+      "word": "delito",
       "score": -3
     },
     {
@@ -29,30 +29,22 @@
       "score": -3
     },
     {
-      "word": "abusos",
+      "word": "perdiendo",
       "score": -3
     },
     {
-      "word": "retirada",
+      "word": "estafa",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "brillante",
+      "word": "alegría",
       "score": 4
     },
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "celebra",
-      "score": 3
     },
     {
       "word": "emoción",
@@ -63,25 +55,33 @@
       "score": 3
     },
     {
+      "word": "maravilla",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
       "word": "mejor",
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.52,
-    "elDiario.es": 4.76,
-    "El Mundo": 4.23,
-    "ABC": 5.05,
-    "El Confidencial": 4.63,
-    "BBC Mundo": 3.92,
-    "France 24 ES": 4.6,
-    "La Nación AR": 4.98,
+    "El País": 4.42,
+    "elDiario.es": 5.04,
+    "El Mundo": 4.75,
+    "ABC": 5.39,
+    "El Confidencial": 4.8,
+    "BBC Mundo": 4.55,
+    "France 24 ES": 5.12,
+    "La Nación AR": 5.8,
     "La Jornada MX": 4.89,
-    "Desinformémonos": 3.94,
+    "Desinformémonos": 4.19,
     "Resumen Latinoam.": 4.7
   },
   "articles": [
@@ -114,6 +114,51 @@
     },
     {
       "source": "El País",
+      "title": "El PSOE ofrece su apoyo a Guardiola en los presupuestos del PP en Extremadura si",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Alemania se resigna ante el fin del caza europeo: “El proyecto se ha estrellado ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Papa busca la complicidad con los fieles en Barcelona: “Bon dia i bona ora”",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "ora",
+          "score": 1
+        },
+        {
+          "word": "protestas",
+          "score": -2
+        },
+        {
+          "word": "problemas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Omella se querelló contra un joven que le reprochó su inacción ante un cura pede",
       "score": 4.0,
       "words": [
@@ -137,17 +182,6 @@
     },
     {
       "source": "El País",
-      "title": "Alemania se resigna ante el fin del caza europeo: “El proyecto se ha estrellado ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "problemas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Próxima parada, Amado Granell, el valenciano que liberó París",
       "score": 5.0,
       "words": [
@@ -166,62 +200,9 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Roberto Martínez, el español que puede llevar a Portugal a ganar su primer Mundi",
-      "score": 7.67,
-      "words": [
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "brillante",
-          "score": 4
-        },
-        {
-          "word": "favoritos",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El árbitro somalí Omar Artan se perderá el Mundial al prohibirle la entrada a Es",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "rechazado",
-          "score": -1
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "prohibición",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿‘Excombatientes’ de la Transición?",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "mal",
-          "score": -3
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "EEUU tardó cinco años en enviar a España los chats del empresario venezolano que",
-      "score": 4.68,
+      "score": 4.94,
       "words": [
         {
           "word": "asegurar",
@@ -242,6 +223,60 @@
         {
           "word": "fraudes",
           "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las autoridades fronterizas de EEUU pueden inspeccionar y clonar el móvil de cua",
+      "score": 4.86,
+      "words": [
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "realizar",
+          "score": 2
+        },
+        {
+          "word": "vil",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Justicia entrega a la UCO los expedientes de la nacionalización del ex alto carg",
+      "score": 6.73,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "bueno",
+          "score": 3
         }
       ]
     },
@@ -274,82 +309,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Villarejo vio a Cospedal \"obsesionada\" con las anotaciones de Bárcenas sobre \"M.",
-      "score": 4.95,
+      "title": "La derecha judicial arrasa en la renovación parcial de la comisión que orienta a",
+      "score": 5.56,
       "words": [
         {
-          "word": "solo",
+          "word": "parcial",
           "score": -2
         },
         {
-          "word": "acusado",
+          "word": "parcial",
           "score": -2
         },
         {
-          "word": "robar",
-          "score": -2
-        },
-        {
-          "word": "sensible",
-          "score": 2
-        },
-        {
-          "word": "ora",
+          "word": "acuerdo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Colegio de Abogados aparta a un concejal y exmilitante de Vox en Salamanca de",
-      "score": 5.32,
-      "words": [
-        {
-          "word": "abusos",
-          "score": -3
         },
         {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "exigido",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La presidenta de la SEPI defiende el fondo que rescató a Air Europa o Plus Ultra",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "fracaso",
+          "word": "parcial",
           "score": -2
         },
         {
-          "word": "admite",
+          "word": "dudas",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Dimite la número dos de Movimiento Sumar antes de que el partido ponga fecha a s",
+      "score": 4.25,
+      "words": [
+        {
+          "word": "abandona",
+          "score": -2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "evitar",
           "score": -1
         },
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
+          "word": "renuncia",
+          "score": -1
         }
       ]
     },
@@ -382,64 +390,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El caso Leire Díez, un puzle surrealista",
-      "score": 4.89,
+      "title": "La directora de la Guardia Civil explicará sus reuniones con Leire Díez el 16 de",
+      "score": 5.08,
       "words": [
         {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "valor",
+          "word": "ayuda",
           "score": 2
         },
         {
-          "word": "contencioso",
-          "score": -2
+          "word": "ilegal",
+          "score": -3
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "detenido",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Dimite la número dos de Movimiento Sumar antes de que se ponga fecha al congreso",
-      "score": 4.47,
+      "title": "Villarejo vio a Cospedal \"obsesionada\" con las anotaciones de Bárcenas sobre \"M.",
+      "score": 4.95,
       "words": [
         {
-          "word": "abandona",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "renuncia",
-          "score": -1
-        },
-        {
-          "word": "puesto",
+          "word": "acusado",
           "score": -2
         },
         {
-          "word": "espera",
-          "score": -1
+          "word": "robar",
+          "score": -2
+        },
+        {
+          "word": "sensible",
+          "score": 2
+        },
+        {
+          "word": "ora",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-20T19:22:20Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-05-20T21:49:52Z",
       "score": 4.6
@@ -1107,6 +1111,10 @@
     {
       "timestamp": "2026-06-09T12:34:05Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-06-09T15:52:23Z",
+      "score": 4.88
     }
   ]
 }

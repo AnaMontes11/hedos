@@ -1,19 +1,23 @@
 {
-  "generated": "2026-06-10T12:54:09Z",
-  "global_score": 4.66,
+  "generated": "2026-06-10T16:33:32Z",
+  "global_score": 4.62,
   "articles_scored": 91,
-  "words_matched": 220,
+  "words_matched": 250,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
+      "word": "fraudes",
+      "score": -4
+    },
+    {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "fraudes",
+      "word": "culo",
       "score": -4
     },
     {
@@ -31,15 +35,11 @@
     {
       "word": "escándalo",
       "score": -3
-    },
-    {
-      "word": "abusos",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "bendición",
+      "word": "alegría",
       "score": 4
     },
     {
@@ -47,44 +47,59 @@
       "score": 3
     },
     {
-      "word": "celebrando",
-      "score": 3
-    },
-    {
       "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "sentido",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "súper",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "excelencia",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.47,
-    "elDiario.es": 4.51,
-    "El Mundo": 4.47,
-    "ABC": 5.67,
-    "El Confidencial": 4.66,
-    "BBC Mundo": 4.3,
-    "France 24 ES": 4.76,
-    "La Nación AR": 5.53,
+    "El País": 4.0,
+    "elDiario.es": 4.63,
+    "El Mundo": 4.02,
+    "ABC": 5.11,
+    "El Confidencial": 5.51,
+    "BBC Mundo": 4.51,
+    "France 24 ES": 4.59,
+    "La Nación AR": 3.49,
     "La Jornada MX": 4.88,
-    "Desinformémonos": 4.67,
-    "Resumen Latinoam.": 3.7
+    "Desinformémonos": 4.31,
+    "Resumen Latinoam.": 5.05
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "¿De dónde procede el móvil que el juez ha pedido a EE UU en la causa sobre Zapat",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "detención",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Noche de violencia en Belfast contra los inmigrantes tras un intento de decapita",
@@ -120,47 +135,6 @@
         {
           "word": "protestas",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cotrina, el líder del PSOE extremeño que ofrece un pacto al PP si echa a Vox: “C",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Visto para sentencia el juicio a David Sánchez: un informe de la UCO contra medi",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "debilidad",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿De dónde procede el móvil que el juez ha pedido a EE UU en la causa sobre Zapat",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "autoridad",
-          "score": 1
         }
       ]
     },
@@ -227,11 +201,107 @@
     },
     {
       "source": "El País",
-      "title": "Visita del papa León XIV, en directo | El Papa llama a abandonar las “palabras h",
+      "title": "Visita del papa León XIV, en directo | El Papa carga contra la soledad de los ma",
       "score": 3.4,
       "words": [
         {
-          "word": "abandonar",
+          "word": "carga",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Renzo, el niño de Sant Agustí, pregunta a León XIV si de pequeño quería ser Papa",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero pide al juez que reclame más información a EEUU sobre cómo obtuvo la pr",
+      "score": 4.65,
+      "words": [
+        {
+          "word": "integridad",
+          "score": 2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "consentimiento",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Fiscalía dice al juez que García Ortiz fue informado “a posteriori” de las re",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Fiscalía General tuvo dos reuniones con un abogado y Leire Díez donde present",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "promesas",
+          "score": 1
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "denuncia",
           "score": -2
         }
       ]
@@ -292,82 +362,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Fiscalía General tuvo dos reuniones con un abogado y Leire Díez donde present",
-      "score": 4.2,
+      "title": "Mazón pidió en la dana a sus consellers \"inundar de datos a los medios\": \"Despre",
+      "score": 4.77,
       "words": [
         {
-          "word": "promesas",
+          "word": "sensación",
           "score": 1
         },
         {
-          "word": "destruir",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "IU cuestiona el uso de las pruebas enviadas por EEUU en la causa contra Zapatero",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "dudas",
+          "word": "alerta",
           "score": -1
         },
         {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "tard",
-          "score": -2
-        },
-        {
-          "word": "vil",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU tardó cinco años en enviar a España los chats del empresario venezolano que",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "asegurar",
+          "word": "sensación",
           "score": 1
         },
         {
-          "word": "vil",
-          "score": -3
+          "word": "alerta",
+          "score": -1
         },
         {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "fraudes",
-          "score": -4
+          "word": "alerta",
+          "score": -1
         }
       ]
     },
@@ -400,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-21T19:50:09Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-05-21T21:25:19Z",
       "score": 4.96
@@ -1071,6 +1083,10 @@
     {
       "timestamp": "2026-06-10T12:54:09Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-06-10T16:33:32Z",
+      "score": 4.62
     }
   ]
 }

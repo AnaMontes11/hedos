@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-10T16:33:32Z",
-  "global_score": 4.62,
+  "generated": "2026-06-10T19:32:26Z",
+  "global_score": 4.57,
   "articles_scored": 91,
-  "words_matched": 250,
+  "words_matched": 270,
   "top_negative": [
     {
       "word": "negro",
@@ -43,48 +43,59 @@
       "score": 4
     },
     {
+      "word": "bendición",
+      "score": 4
+    },
+    {
+      "word": "brillante",
+      "score": 4
+    },
+    {
+      "word": "guau",
+      "score": 4
+    },
+    {
+      "word": "impresionante",
+      "score": 3
+    },
+    {
       "word": "maravilla",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "medalla",
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "súper",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "excelencia",
+      "word": "vibrante",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.0,
-    "elDiario.es": 4.63,
-    "El Mundo": 4.02,
-    "ABC": 5.11,
-    "El Confidencial": 5.51,
-    "BBC Mundo": 4.51,
-    "France 24 ES": 4.59,
-    "La Nación AR": 3.49,
+    "El País": 4.09,
+    "elDiario.es": 4.47,
+    "El Mundo": 4.25,
+    "ABC": 4.95,
+    "El Confidencial": 4.39,
+    "BBC Mundo": 4.71,
+    "France 24 ES": 4.44,
+    "La Nación AR": 4.63,
     "La Jornada MX": 4.88,
-    "Desinformémonos": 4.31,
-    "Resumen Latinoam.": 5.05
+    "Desinformémonos": 4.33,
+    "Resumen Latinoam.": 5.46
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Zapatero pide al juez que reclame a EE UU más información sobre el volcado del m",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "dudas",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "¿De dónde procede el móvil que el juez ha pedido a EE UU en la causa sobre Zapat",
@@ -174,6 +185,29 @@
     },
     {
       "source": "El País",
+      "title": "Visita del papa León XIV, en directo | León XIV lanza en la Sagrada Familia un m",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "jesús",
+          "score": 1
+        },
+        {
+          "word": "abandonar",
+          "score": -2
+        },
+        {
+          "word": "sufre",
+          "score": -2
+        },
+        {
+          "word": "abandonar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El Papa ignora la pederastia en su visita a Montserrat, uno de los focos del esc",
       "score": 3.29,
       "words": [
@@ -201,17 +235,6 @@
     },
     {
       "source": "El País",
-      "title": "Visita del papa León XIV, en directo | El Papa carga contra la soledad de los ma",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Renzo, el niño de Sant Agustí, pregunta a León XIV si de pequeño quería ser Papa",
       "score": 4.6,
       "words": [
@@ -228,7 +251,7 @@
     {
       "source": "elDiario.es",
       "title": "Zapatero pide al juez que reclame más información a EEUU sobre cómo obtuvo la pr",
-      "score": 4.65,
+      "score": 4.71,
       "words": [
         {
           "word": "integridad",
@@ -386,40 +409,9 @@
           "score": -1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La vicepresidenta de la Generalitat, ante la jueza de la dana: “Yo no sabía lo q",
-      "score": 4.64,
-      "words": [
-        {
-          "word": "acepta",
-          "score": 1
-        },
-        {
-          "word": "catástrofe",
-          "score": -3
-        },
-        {
-          "word": "negado",
-          "score": -2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-21T21:25:19Z",
-      "score": 4.96
-    },
     {
       "timestamp": "2026-05-21T23:01:13Z",
       "score": 4.9
@@ -1087,6 +1079,10 @@
     {
       "timestamp": "2026-06-10T16:33:32Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-06-10T19:32:26Z",
+      "score": 4.57
     }
   ]
 }

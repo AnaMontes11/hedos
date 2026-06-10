@@ -1,11 +1,11 @@
 {
-  "generated": "2026-06-10T05:14:47Z",
-  "global_score": 4.7,
-  "articles_scored": 91,
-  "words_matched": 287,
+  "generated": "2026-06-10T09:53:52Z",
+  "global_score": 4.66,
+  "articles_scored": 92,
+  "words_matched": 249,
   "top_negative": [
     {
-      "word": "puto",
+      "word": "negro",
       "score": -5
     },
     {
@@ -13,49 +13,33 @@
       "score": -4
     },
     {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "puta",
-      "score": -4
-    },
-    {
       "word": "fraudes",
       "score": -4
+    },
+    {
+      "word": "violencia",
+      "score": -3
     },
     {
       "word": "fiasco",
       "score": -3
     },
     {
-      "word": "destruir",
+      "word": "víctima",
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "destruir",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "milagro",
-      "score": 4
-    },
-    {
       "word": "bendición",
-      "score": 4
-    },
-    {
-      "word": "ganar",
       "score": 4
     },
     {
@@ -63,28 +47,59 @@
       "score": 3
     },
     {
+      "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "contento",
+      "score": 3
+    },
+    {
       "word": "maravilla",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "delicias",
+      "score": 3
+    },
+    {
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.66,
-    "elDiario.es": 4.25,
-    "El Mundo": 5.21,
-    "ABC": 5.3,
-    "El Confidencial": 4.4,
-    "BBC Mundo": 4.68,
+    "El País": 4.7,
+    "elDiario.es": 4.44,
+    "El Mundo": 4.67,
+    "ABC": 5.46,
+    "El Confidencial": 5.05,
+    "BBC Mundo": 4.34,
     "France 24 ES": 4.76,
-    "La Nación AR": 5.18,
+    "La Nación AR": 4.98,
     "La Jornada MX": 4.89,
-    "Desinformémonos": 4.18,
-    "Resumen Latinoam.": 4.41
+    "Desinformémonos": 4.44,
+    "Resumen Latinoam.": 3.7
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Noche de violencia en Belfast contra los inmigrantes tras un intento de decapita",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "forzado",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El fracaso del caza europeo expone la debilidad de la defensa de la UE",
@@ -110,24 +125,12 @@
     },
     {
       "source": "El País",
-      "title": "España busca opciones ante el fiasco del futuro eurocaza: desarrollarlo con Alem",
-      "score": 4.0,
+      "title": "Cotrina, el líder del PSOE extremeño que ofrece un pacto al PP si echa a Vox: “C",
+      "score": 7.4,
       "words": [
         {
-          "word": "fiasco",
-          "score": -3
-        },
-        {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "intereses",
-          "score": 1
-        },
-        {
-          "word": "grave",
-          "score": -2
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
@@ -163,46 +166,50 @@
     },
     {
       "source": "El País",
-      "title": "Un rito sexual en el escenario y bombas de humo en la grada: medio siglo del pri",
-      "score": 3.4,
+      "title": "Estos son los cinco jugadores más prometedores del Mundial 2026",
+      "score": 4.6,
       "words": [
         {
-          "word": "crítico",
+          "word": "tiempo",
           "score": -2
+        },
+        {
+          "word": "promesa",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Cómo buscar un sitio perfecto para ver el eclipse total: tres apps y una web res",
-      "score": 6.07,
+      "title": "¿Calor o privilegio? El problema de que los hombres se quiten la camiseta en cua",
+      "score": 5.53,
       "words": [
         {
-          "word": "perfecto",
-          "score": 3
+          "word": "calor",
+          "score": 2
         },
         {
-          "word": "dilema",
-          "score": -1
+          "word": "problema",
+          "score": -2
         },
         {
-          "word": "sol",
+          "word": "calor",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Siete aperitivos de los mejores cocineros para hacer en casa y ver el Mundial de",
-      "score": 5.4,
+      "title": "Los Mossos investigan la muerte a tiros de un hombre en el centro de Barcelona",
+      "score": 3.0,
       "words": [
         {
-          "word": "excusa",
-          "score": -1
+          "word": "muerte",
+          "score": -2
         },
         {
-          "word": "disfruta",
-          "score": 2
+          "word": "víctima",
+          "score": -3
         }
       ]
     },
@@ -214,6 +221,60 @@
         {
           "word": "mayor",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo llama a Sánchez P.S. por las agendas de Leire Díez y el presidente respon",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "incompetente",
+          "score": -2
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "exigido",
+          "score": -1
+        },
+        {
+          "word": "beneficiado",
+          "score": 2
+        },
+        {
+          "word": "grave",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La 'paz vaticana' del PP en su guerra contra el Gobierno dura lo que la visita d",
+      "score": 5.18,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "provocado",
+          "score": -1
         }
       ]
     },
@@ -246,172 +307,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU lanza una oleada de ataques contra Irán tras el derribo de un helicóptero A",
-      "score": 4.6,
+      "title": "IU cuestiona el uso de las pruebas enviadas por EEUU en la causa contra Zapatero",
+      "score": 3.8,
       "words": [
         {
-          "word": "ataques",
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "ataques",
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "ataques",
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "ataque",
-          "score": -1
+          "word": "tard",
+          "score": -2
         },
         {
-          "word": "ataques",
-          "score": -1
+          "word": "vil",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump dice que nunca prometió no empezar una nueva guerra: estas son las (muchas",
-      "score": 4.29,
+      "title": "La vicepresidenta de la Generalitat, ante la jueza de la dana: “Yo no sabía lo q",
+      "score": 4.54,
       "words": [
         {
-          "word": "guerra",
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "catástrofe",
+          "score": -3
+        },
+        {
+          "word": "negado",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "abandona",
-          "score": -2
-        },
-        {
-          "word": "insultos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump no encuentra una salida digna de Irán y Netanyahu no le ayudará a encontra",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "acuerdo",
+          "word": "grande",
           "score": 1
         },
         {
-          "word": "fuego",
+          "word": "emergencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El cara a cara con la jueza de la dana de la vicepresidenta y consellera de las ",
+      "score": 4.7,
+      "words": [
+        {
+          "word": "error",
           "score": -2
         },
         {
-          "word": "pasado",
+          "word": "desconectado",
           "score": -1
         },
         {
-          "word": "olvidar",
-          "score": -1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Con suerte me la follo de una vez\": siete testigos ratifican ante el juez la de",
-      "score": 3.99,
-      "words": [
-        {
-          "word": "suerte",
+          "word": "premios",
           "score": 3
         },
         {
-          "word": "denuncia",
+          "word": "peligro",
           "score": -2
         },
         {
-          "word": "suerte",
+          "word": "premios",
           "score": 3
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La dirección de Canal Sur descarta actuar contra el CEO de su productora imputad",
-      "score": 3.71,
-      "words": [
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La productora de Canal Sur aprueba la \"suspensión temporal de funciones\" de su C",
-      "score": 4.12,
-      "words": [
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "agresión",
-          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-21T15:17:56Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-05-21T17:54:17Z",
       "score": 4.79
@@ -1079,6 +1055,10 @@
     {
       "timestamp": "2026-06-10T05:14:47Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-06-10T09:53:52Z",
+      "score": 4.66
     }
   ]
 }

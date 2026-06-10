@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-10T09:53:52Z",
+  "generated": "2026-06-10T12:54:09Z",
   "global_score": 4.66,
-  "articles_scored": 92,
-  "words_matched": 249,
+  "articles_scored": 91,
+  "words_matched": 220,
   "top_negative": [
     {
       "word": "negro",
@@ -17,11 +17,11 @@
       "score": -4
     },
     {
-      "word": "violencia",
-      "score": -3
+      "word": "violación",
+      "score": -4
     },
     {
-      "word": "fiasco",
+      "word": "violencia",
       "score": -3
     },
     {
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "escándalo",
       "score": -3
     },
     {
-      "word": "destruir",
+      "word": "abusos",
       "score": -3
     }
   ],
@@ -43,45 +43,45 @@
       "score": 4
     },
     {
-      "word": "exaltado",
-      "score": 3
-    },
-    {
-      "word": "felicidad",
-      "score": 3
-    },
-    {
-      "word": "contento",
-      "score": 3
-    },
-    {
       "word": "maravilla",
       "score": 3
     },
     {
-      "word": "delicias",
+      "word": "celebrando",
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "celebrar",
       "score": 3
     },
     {
       "word": "bueno",
       "score": 3
+    },
+    {
+      "word": "caro",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.7,
-    "elDiario.es": 4.44,
-    "El Mundo": 4.67,
-    "ABC": 5.46,
-    "El Confidencial": 5.05,
-    "BBC Mundo": 4.34,
+    "El País": 4.47,
+    "elDiario.es": 4.51,
+    "El Mundo": 4.47,
+    "ABC": 5.67,
+    "El Confidencial": 4.66,
+    "BBC Mundo": 4.3,
     "France 24 ES": 4.76,
-    "La Nación AR": 4.98,
-    "La Jornada MX": 4.89,
-    "Desinformémonos": 4.44,
+    "La Nación AR": 5.53,
+    "La Jornada MX": 4.88,
+    "Desinformémonos": 4.67,
     "Resumen Latinoam.": 3.7
   },
   "articles": [
@@ -97,29 +97,29 @@
         {
           "word": "forzado",
           "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "víctima",
+          "score": -3
+        },
+        {
+          "word": "disturbios",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El fracaso del caza europeo expone la debilidad de la defensa de la UE",
+      "title": "El vídeo de un intento de decapitación en Belfast que ha desatado protestas viol",
       "score": 3.4,
       "words": [
         {
-          "word": "fracaso",
+          "word": "protestas",
           "score": -2
-        },
-        {
-          "word": "expone",
-          "score": -1
-        },
-        {
-          "word": "debilidad",
-          "score": -2
-        },
-        {
-          "word": "fiasco",
-          "score": -3
         }
       ]
     },
@@ -155,12 +155,12 @@
     },
     {
       "source": "El País",
-      "title": "Dirigentes del PSOE piden a Ferraz que se querelle contra Leire Díez: “Hay que l",
-      "score": 4.2,
+      "title": "¿De dónde procede el móvil que el juez ha pedido a EE UU en la causa sobre Zapat",
+      "score": 5.8,
       "words": [
         {
-          "word": "espera",
-          "score": -1
+          "word": "autoridad",
+          "score": 1
         }
       ]
     },
@@ -200,27 +200,39 @@
     },
     {
       "source": "El País",
-      "title": "Los Mossos investigan la muerte a tiros de un hombre en el centro de Barcelona",
-      "score": 3.0,
+      "title": "El Papa ignora la pederastia en su visita a Montserrat, uno de los focos del esc",
+      "score": 3.29,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
+          "word": "ignora",
+          "score": -1
         },
         {
-          "word": "víctima",
+          "word": "escándalo",
+          "score": -3
+        },
+        {
+          "word": "evita",
+          "score": -1
+        },
+        {
+          "word": "abusos",
+          "score": -3
+        },
+        {
+          "word": "víctimas",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El Mundial de la opulencia y los récords: precios disparados para ir a los estad",
-      "score": 7.4,
+      "title": "Visita del papa León XIV, en directo | El Papa llama a abandonar las “palabras h",
+      "score": 3.4,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "abandonar",
+          "score": -2
         }
       ]
     },
@@ -334,12 +346,39 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La vicepresidenta de la Generalitat, ante la jueza de la dana: “Yo no sabía lo q",
-      "score": 4.54,
+      "title": "EEUU tardó cinco años en enviar a España los chats del empresario venezolano que",
+      "score": 4.94,
       "words": [
         {
-          "word": "niega",
+          "word": "asegurar",
+          "score": 1
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "advierte",
           "score": -2
+        },
+        {
+          "word": "fraudes",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La vicepresidenta de la Generalitat, ante la jueza de la dana: “Yo no sabía lo q",
+      "score": 4.64,
+      "words": [
+        {
+          "word": "acepta",
+          "score": 1
         },
         {
           "word": "catástrofe",
@@ -350,48 +389,17 @@
           "score": -2
         },
         {
-          "word": "grande",
-          "score": 1
-        },
-        {
           "word": "emergencia",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El cara a cara con la jueza de la dana de la vicepresidenta y consellera de las ",
-      "score": 4.7,
-      "words": [
+        },
         {
-          "word": "error",
+          "word": "solo",
           "score": -2
-        },
-        {
-          "word": "desconectado",
-          "score": -1
-        },
-        {
-          "word": "premios",
-          "score": 3
-        },
-        {
-          "word": "peligro",
-          "score": -2
-        },
-        {
-          "word": "premios",
-          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-21T17:54:17Z",
-      "score": 4.79
-    },
     {
       "timestamp": "2026-05-21T19:50:09Z",
       "score": 4.8
@@ -1058,6 +1066,10 @@
     },
     {
       "timestamp": "2026-06-10T09:53:52Z",
+      "score": 4.66
+    },
+    {
+      "timestamp": "2026-06-10T12:54:09Z",
       "score": 4.66
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-11T08:43:54Z",
-  "global_score": 4.75,
+  "generated": "2026-06-11T12:43:04Z",
+  "global_score": 4.77,
   "articles_scored": 87,
-  "words_matched": 279,
+  "words_matched": 232,
   "top_negative": [
     {
       "word": "negro",
@@ -17,49 +17,29 @@
       "score": -4
     },
     {
-      "word": "fraudes",
-      "score": -4
-    },
-    {
-      "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "asesinato",
+      "word": "empeora",
       "score": -3
     },
     {
-      "word": "pérdida",
+      "word": "soborno",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "culpable",
+      "score": -3
+    },
+    {
+      "word": "empeoramiento",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "felicidad",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "popular",
       "score": 3
     },
     {
@@ -67,66 +47,116 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "devoto",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "alabando",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.64,
-    "elDiario.es": 4.78,
-    "El Mundo": 4.11,
-    "ABC": 4.61,
-    "El Confidencial": 4.71,
-    "BBC Mundo": 4.96,
-    "France 24 ES": 4.83,
-    "La Nación AR": 5.84,
-    "La Jornada MX": 4.88,
+    "El País": 5.08,
+    "elDiario.es": 4.67,
+    "El Mundo": 4.22,
+    "ABC": 5.7,
+    "El Confidencial": 5.1,
+    "BBC Mundo": 4.5,
+    "France 24 ES": 4.98,
+    "La Nación AR": 5.95,
+    "La Jornada MX": 4.91,
     "Desinformémonos": 4.22,
-    "Resumen Latinoam.": 4.85
+    "Resumen Latinoam.": 3.86
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Cómo la extrema derecha agita las calles contra la inmigración tras crímenes com",
-      "score": 2.6,
+      "title": "El BCE sube los tipos por primera vez en casi tres años y empeora sus previsione",
+      "score": 3.13,
       "words": [
         {
-          "word": "asesinato",
+          "word": "empeora",
           "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "letargo",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Jean-Luc Mélenchon: “La derecha ya no tiene nada que proponer salvo el miedo”",
-      "score": 4.47,
+      "title": "Leire Díez intenta anular la investigación de la Audiencia Nacional sobre la “tr",
+      "score": 3.4,
       "words": [
         {
-          "word": "miedo",
+          "word": "denuncia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Papa, en el muelle de los cayucos de Arguineguín: “No podemos acostumbrarnos ",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "duro",
           "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "favor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Papa bendice la apoteósica culminación del sueño de Gaudí en la Sagrada Famil",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "bendice",
+          "score": 2
         },
         {
-          "word": "claro",
+          "word": "sueño",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "“La huelga ya me ha costado 3.800 euros”: el largo pulso obliga a los docentes a",
-      "score": 3.4,
+      "title": "¿Quién ganará el Mundial? Así arrancan nuestras predicciones",
+      "score": 5.0,
       "words": [
         {
-          "word": "huelga",
-          "score": -1
+          "word": "cuidado",
+          "score": 2
         },
         {
-          "word": "pérdida",
-          "score": -3
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -157,55 +187,56 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "¿Quién ganará el Mundial? Así arrancan nuestras predicciones",
-      "score": 5.0,
+      "source": "elDiario.es",
+      "title": "El juez autoriza a la UCO a acceder a las cuentas de la pareja de Ayuso seis mes",
+      "score": 4.35,
       "words": [
         {
-          "word": "cuidado",
-          "score": 2
+          "word": "soborno",
+          "score": -3
         },
         {
-          "word": "solo",
+          "word": "parcial",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Arranca el Mundial de los extremos, el último que aún vibra con el duelo Messi-C",
-      "score": 4.2,
-      "words": [
+        },
         {
-          "word": "tensión",
+          "word": "retraso",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "pasado",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La “prioridad nacional” contra los migrantes toma forma en los gobiernos de PP y",
-      "score": 5.19,
+      "title": "El Supremo rechaza que el ex fiscal general deba ser indultado",
+      "score": 4.96,
       "words": [
         {
-          "word": "negociar",
-          "score": 2
+          "word": "rechaza",
+          "score": -1
         },
         {
-          "word": "acuerdo",
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "culpable",
+          "score": -3
+        },
+        {
+          "word": "gracia",
           "score": 1
         },
         {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "disparar",
-          "score": -1
-        },
-        {
-          "word": "cobrar",
-          "score": -2
+          "word": "apreciar",
+          "score": 2
         }
       ]
     },
@@ -265,55 +296,82 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El cardenal Bolaños tiene claro quién acabará en el infierno",
-      "score": 4.8,
+      "title": "Mazón se resiste ante la jueza de la dana a aportar el resto de whatsapps por un",
+      "score": 4.85,
       "words": [
         {
-          "word": "claro",
+          "word": "adoptar",
           "score": 1
         },
         {
-          "word": "infierno",
-          "score": -4
+          "word": "tipo",
+          "score": 2
         },
         {
-          "word": "claro",
-          "score": 1
+          "word": "pasado",
+          "score": -1
         },
         {
-          "word": "infierno",
-          "score": -4
+          "word": "suerte",
+          "score": 3
         },
         {
-          "word": "condenar",
-          "score": -2
+          "word": "justicia",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo llama a Sánchez P.S. por las agendas de Leire Díez y el presidente respon",
-      "score": 3.67,
+      "title": "El CIS hunde la ventaja del PSOE sobre el PP a cuatro puntos tras el estallido d",
+      "score": 5.12,
       "words": [
         {
-          "word": "incompetente",
-          "score": -2
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "exigido",
-          "score": -1
-        },
-        {
-          "word": "beneficiado",
+          "word": "ventaja",
           "score": 2
         },
         {
-          "word": "grave",
+          "word": "ventaja",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "ventaja",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La defensa de Zapatero denuncia que no tiene acceso íntegro a los dispositivos i",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "denuncia",
           "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "derecho",
+          "score": 1
         }
       ]
     },
@@ -343,67 +401,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | De EEUU al caso Zapatero: el viaje de un móvil clonado",
-      "score": 5.6,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "viva",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero pide al juez que reclame más información a EEUU sobre cómo obtuvo la pr",
-      "score": 4.71,
-      "words": [
-        {
-          "word": "integridad",
-          "score": 2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "consentimiento",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-22T13:29:18Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-05-22T16:22:29Z",
       "score": 4.66
@@ -1071,6 +1071,10 @@
     {
       "timestamp": "2026-06-11T08:43:54Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-06-11T12:43:04Z",
+      "score": 4.77
     }
   ]
 }

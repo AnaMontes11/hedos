@@ -1,23 +1,23 @@
 {
-  "generated": "2026-06-11T03:40:00Z",
-  "global_score": 4.65,
-  "articles_scored": 91,
-  "words_matched": 261,
+  "generated": "2026-06-11T08:43:54Z",
+  "global_score": 4.75,
+  "articles_scored": 87,
+  "words_matched": 279,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraudes",
-      "score": -4
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
-    {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "infierno",
+      "score": -4
+    },
+    {
+      "word": "fraudes",
       "score": -4
     },
     {
@@ -25,15 +25,15 @@
       "score": -4
     },
     {
-      "word": "violencia",
+      "word": "asesinato",
       "score": -3
     },
     {
-      "word": "escándalo",
+      "word": "pérdida",
       "score": -3
     },
     {
-      "word": "abusos",
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -43,11 +43,23 @@
       "score": 4
     },
     {
-      "word": "alegría",
-      "score": 4
+      "word": "riqueza",
+      "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     },
     {
@@ -55,31 +67,19 @@
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "premios",
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.38,
-    "elDiario.es": 4.53,
-    "El Mundo": 3.69,
-    "ABC": 5.07,
-    "El Confidencial": 4.32,
-    "BBC Mundo": 5.0,
-    "France 24 ES": 4.94,
-    "La Nación AR": 5.33,
+    "El País": 4.64,
+    "elDiario.es": 4.78,
+    "El Mundo": 4.11,
+    "ABC": 4.61,
+    "El Confidencial": 4.71,
+    "BBC Mundo": 4.96,
+    "France 24 ES": 4.83,
+    "La Nación AR": 5.84,
     "La Jornada MX": 4.88,
     "Desinformémonos": 4.22,
     "Resumen Latinoam.": 4.85
@@ -87,232 +87,205 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Estados Unidos ataca Irán por segundo día consecutivo tras las amenazas de Trump",
+      "title": "Cómo la extrema derecha agita las calles contra la inmigración tras crímenes com",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "asesinato",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Jean-Luc Mélenchon: “La derecha ya no tiene nada que proponer salvo el miedo”",
       "score": 4.47,
       "words": [
         {
-          "word": "amenazas",
+          "word": "miedo",
           "score": -2
         },
         {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Zapatero pide al juez que reclame a EE UU más información sobre el volcado del m",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "dudas",
+          "word": "pasado",
           "score": -1
+        },
+        {
+          "word": "claro",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Belfast sufre una segunda noche de violencia contra los inmigrantes pero con foc",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "sufre",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "manifestantes",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El vídeo de un intento de decapitación en Belfast que ha desatado protestas viol",
+      "title": "“La huelga ya me ha costado 3.800 euros”: el largo pulso obliga a los docentes a",
       "score": 3.4,
       "words": [
         {
-          "word": "protestas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estos son los cinco jugadores más prometedores del Mundial 2026",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "promesa",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Calor o privilegio? El problema de que los hombres se quiten la camiseta en cua",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Papa bendice la apoteósica culminación del sueño de Gaudí en la Sagrada Famil",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "bendice",
-          "score": 2
-        },
-        {
-          "word": "sueño",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Papa ignora la pederastia en su visita a Montserrat, uno de los focos del esc",
-      "score": 3.29,
-      "words": [
-        {
-          "word": "ignora",
+          "word": "huelga",
           "score": -1
         },
         {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "evita",
-          "score": -1
-        },
-        {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "víctimas",
+          "word": "pérdida",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Renzo, el niño de Sant Agustí, pregunta a León XIV si de pequeño quería ser Papa",
-      "score": 4.6,
+      "title": "Las carreras universitarias con mejor sueldo y más salidas laborales, según esta",
+      "score": 7.4,
       "words": [
         {
-          "word": "denuncia",
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Cuál es el mejor gazpacho envasado de supermercado?",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "sentencia",
           "score": -2
-        },
-        {
-          "word": "llegar",
-          "score": 1
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Zapatero pide al juez que reclame más información a EEUU sobre cómo obtuvo la pr",
-      "score": 4.71,
+      "source": "El País",
+      "title": "¿Quién ganará el Mundial? Así arrancan nuestras predicciones",
+      "score": 5.0,
       "words": [
         {
-          "word": "integridad",
+          "word": "cuidado",
           "score": 2
         },
         {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "consentimiento",
-          "score": 2
+          "word": "solo",
+          "score": -2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "La Fiscalía dice al juez que García Ortiz fue informado “a posteriori” de las re",
+      "source": "El País",
+      "title": "Arranca el Mundial de los extremos, el último que aún vibra con el duelo Messi-C",
       "score": 4.2,
       "words": [
         {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "llegar",
-          "score": 1
+          "word": "tensión",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La Fiscalía General tuvo dos reuniones con un abogado y Leire Díez donde present",
-      "score": 4.2,
+      "title": "La “prioridad nacional” contra los migrantes toma forma en los gobiernos de PP y",
+      "score": 5.19,
       "words": [
         {
-          "word": "promesas",
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "destruir",
-          "score": -3
+          "word": "presión",
+          "score": -1
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "disparar",
+          "score": -1
         },
         {
-          "word": "fraude",
+          "word": "cobrar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vuelco en la causa de la dana: el grupo de WhatsApp de los consellers acredita q",
+      "score": 4.67,
+      "words": [
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "sensación",
+          "score": 1
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Lee aquí todos los mensajes del grupo de WhatsApp del Gobierno de Mazón el día d",
+      "score": 4.93,
+      "words": [
+        {
+          "word": "aceptado",
+          "score": -1
+        },
+        {
+          "word": "sensación",
+          "score": 1
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "aceptado",
+          "score": -1
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El cardenal Bolaños tiene claro quién acabará en el infierno",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "infierno",
           "score": -4
         },
         {
-          "word": "denuncia",
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "infierno",
+          "score": -4
+        },
+        {
+          "word": "condenar",
           "score": -2
         }
       ]
@@ -346,64 +319,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La 'paz vaticana' del PP en su guerra contra el Gobierno dura lo que la visita d",
-      "score": 5.18,
+      "title": "¿Es ilícita la investigación contra Rodríguez Zapatero?",
+      "score": 4.72,
       "words": [
         {
-          "word": "paz",
-          "score": 2
+          "word": "derecho",
+          "score": 1
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "provocado",
+          "word": "pasado",
           "score": -1
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "tristemente",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Mazón pidió en la dana a sus consellers \"inundar de datos a los medios\": \"Despre",
-      "score": 4.77,
+      "title": "🎙 PODCAST | De EEUU al caso Zapatero: el viaje de un móvil clonado",
+      "score": 5.6,
       "words": [
         {
-          "word": "sensación",
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "viva",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero pide al juez que reclame más información a EEUU sobre cómo obtuvo la pr",
+      "score": 4.71,
+      "words": [
+        {
+          "word": "integridad",
+          "score": 2
+        },
+        {
+          "word": "llegar",
           "score": 1
         },
         {
-          "word": "alerta",
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "sensación",
-          "score": 1
+          "word": "vil",
+          "score": -3
         },
         {
-          "word": "alerta",
-          "score": -1
-        },
-        {
-          "word": "alerta",
-          "score": -1
+          "word": "consentimiento",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-22T10:47:18Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-05-22T13:29:18Z",
       "score": 4.78
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-06-11T03:40:00Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-06-11T08:43:54Z",
+      "score": 4.75
     }
   ]
 }

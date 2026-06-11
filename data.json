@@ -1,15 +1,23 @@
 {
-  "generated": "2026-06-11T19:33:35Z",
-  "global_score": 4.69,
-  "articles_scored": 85,
-  "words_matched": 216,
+  "generated": "2026-06-11T22:00:10Z",
+  "global_score": 4.81,
+  "articles_scored": 92,
+  "words_matched": 229,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "fraudes",
       "score": -4
     },
     {
@@ -27,23 +35,23 @@
     {
       "word": "delitos",
       "score": -3
-    },
-    {
-      "word": "estafas",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "asombroso",
-      "score": 5
+      "word": "ganador",
+      "score": 4
     },
     {
-      "word": "felicidad",
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "riqueza",
       "score": 3
     },
     {
@@ -51,37 +59,30 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "emoción",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "celebrado",
       "score": 3
     },
     {
       "word": "medalla",
       "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.01,
-    "elDiario.es": 4.75,
-    "El Mundo": 4.88,
-    "ABC": 4.66,
-    "El Confidencial": 4.86,
-    "BBC Mundo": 4.64,
-    "La Nación AR": 5.25,
+    "El País": 5.28,
+    "elDiario.es": 4.76,
+    "El Mundo": 4.52,
+    "ABC": 5.26,
+    "El Confidencial": 4.89,
+    "BBC Mundo": 5.35,
+    "France 24 ES": 4.69,
+    "La Nación AR": 5.56,
     "La Jornada MX": 4.91,
     "Desinformémonos": 4.22,
-    "Resumen Latinoam.": 3.99
+    "Resumen Latinoam.": 3.6
   },
   "articles": [
     {
@@ -128,12 +129,12 @@
     },
     {
       "source": "El País",
-      "title": "México - Sudáfrica, en vivo | Julián Quiñones anota para México tras un error de",
-      "score": 3.4,
+      "title": "Una ceremonia neutra para un Mundial revuelto",
+      "score": 6.6,
       "words": [
         {
-          "word": "error",
-          "score": -2
+          "word": "orgullo",
+          "score": 2
         }
       ]
     },
@@ -179,20 +180,9 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "¿Para qué sirve la visita de un papa? Robert Prevost impulsa la solidaridad de l",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "solidaridad",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Trump detiene los ataques contra Irán y anuncia un acuerdo que Teherán niega",
-      "score": 4.89,
+      "score": 5.0,
       "words": [
         {
           "word": "ataques",
@@ -404,13 +394,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La jueza de la dana incorpora a la causa los whatsapps de la vicepresidenta Cama",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "admite",
+          "score": -1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-22T20:41:18Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-05-22T22:04:46Z",
       "score": 4.72
@@ -1078,6 +1091,10 @@
     {
       "timestamp": "2026-06-11T19:33:35Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-06-11T22:00:10Z",
+      "score": 4.81
     }
   ]
 }

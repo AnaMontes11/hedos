@@ -1,27 +1,19 @@
 {
-  "generated": "2026-06-12T08:23:10Z",
-  "global_score": 4.93,
-  "articles_scored": 92,
-  "words_matched": 248,
+  "generated": "2026-06-12T12:16:48Z",
+  "global_score": 4.87,
+  "articles_scored": 93,
+  "words_matched": 220,
   "top_negative": [
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "soborno",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "muerto",
       "score": -3
     },
     {
@@ -29,19 +21,23 @@
       "score": -3
     },
     {
+      "word": "criminal",
+      "score": -3
+    },
+    {
+      "word": "soborno",
+      "score": -3
+    },
+    {
       "word": "estafas",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "escándalo",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "victorias",
-      "score": 4
-    },
     {
       "word": "triunfo",
       "score": 4
@@ -55,36 +51,74 @@
       "score": 4
     },
     {
-      "word": "emoción",
+      "word": "victorias",
+      "score": 4
+    },
+    {
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "riqueza",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "contento",
+      "word": "medalla",
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "amor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.8,
-    "elDiario.es": 4.93,
-    "El Mundo": 4.78,
-    "ABC": 4.92,
-    "El Confidencial": 5.49,
-    "BBC Mundo": 5.73,
+    "El País": 5.5,
+    "elDiario.es": 4.99,
+    "El Mundo": 5.1,
+    "ABC": 5.09,
+    "El Confidencial": 5.13,
+    "BBC Mundo": 5.09,
     "France 24 ES": 4.62,
-    "La Nación AR": 4.45,
-    "La Jornada MX": 4.91,
+    "La Nación AR": 4.93,
+    "La Jornada MX": 4.6,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.64
+    "Resumen Latinoam.": 4.19
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El juez del ‘caso Plus Ultra’ abre una pieza separada para investigar a Zapatero",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El valor de las joyas de Zapatero: desde baratijas “sin valor” hasta un collar d",
+      "score": 6.33,
+      "words": [
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El portavoz de Zapatero pide perdón por “haber inducido a error” sobre el valor ",
@@ -125,31 +159,16 @@
     },
     {
       "source": "El País",
-      "title": "La tasación de las joyas incautadas a Zapatero cifra su valor en unos 1,3 millon",
+      "title": "Muere David Hockney, uno de los artistas británicos más influyentes del siglo XX",
       "score": 6.2,
       "words": [
         {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "valor",
+          "word": "éxito",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "SpaceX, un imperio corporativo blindado y defendido por la guardia pretoriana de",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "lealtad",
-          "score": 3
         },
         {
-          "word": "críticos",
-          "score": -2
+          "word": "unido",
+          "score": 1
         }
       ]
     },
@@ -169,6 +188,109 @@
         {
           "word": "moda",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Aubrey Plaza luce embarazada de su novio un año y cuatro meses tras la muerte de",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "implacable",
+          "score": -1
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "rápido",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Duración desconcertante, un ataque a la RAE y... ¿una doble de Shakira? La gala ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Aitor Karanka: “Me gusta la tranquilidad con la que este equipo vive las victori",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "victorias",
+          "score": 4
+        },
+        {
+          "word": "fácil",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez Calama investiga a Zapatero por contrabando y delito fiscal tras incauta",
+      "score": 5.08,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El informe sobre las joyas incautadas a Zapatero: de un collar valorado en 278.0",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "joyas",
+          "score": 1
         }
       ]
     },
@@ -201,114 +323,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez autoriza a la UCO a acceder a las cuentas de la pareja de Ayuso seis mes",
-      "score": 4.35,
-      "words": [
-        {
-          "word": "soborno",
-          "score": -3
-        },
-        {
-          "word": "parcial",
-          "score": -2
-        },
-        {
-          "word": "retraso",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP se encomienda a la Virgen de la Bien Aparecida para mantener el bloqueo a ",
-      "score": 5.09,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "posponer",
-          "score": -1
-        },
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La tasación encargada por el juez estima en 1,3 millones de euros las joyas inte",
-      "score": 5.98,
-      "words": [
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El portavoz de Zapatero se disculpa por \"haber inducido a error\" al decir que la",
-      "score": 5.29,
-      "words": [
-        {
-          "word": "disculpa",
-          "score": -1
-        },
-        {
-          "word": "error",
-          "score": -2
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "disculpa",
-          "score": -1
-        },
-        {
-          "word": "error",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Asuntos Internos de la Guardia Civil acusa a un teniente coronel de liderar una ",
       "score": 5.11,
       "words": [
@@ -331,6 +345,33 @@
         {
           "word": "asuntos",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un juez condena a Belarra a pagar 9.000 euros a García Castellón por llamarle co",
+      "score": 4.92,
+      "words": [
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "demanda",
+          "score": -1
+        },
+        {
+          "word": "condenado",
+          "score": -2
         }
       ]
     },
@@ -360,94 +401,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué ha desatado la guerra interna en Movimiento Sumar y otras cuatro claves de c",
-      "score": 4.08,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acusando",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Absueltos o con multa los activistas que echaron pintura al Congreso para los qu",
-      "score": 4.79,
-      "words": [
-        {
-          "word": "absueltos",
-          "score": 2
-        },
-        {
-          "word": "multa",
-          "score": 2
-        },
-        {
-          "word": "absueltos",
-          "score": 2
-        },
-        {
-          "word": "multa",
-          "score": 2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump detiene los ataques contra Irán y anuncia un acuerdo que Teherán niega",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-23T07:29:00Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-05-23T09:49:24Z",
       "score": 4.76
@@ -1115,6 +1071,10 @@
     {
       "timestamp": "2026-06-12T08:23:10Z",
       "score": 4.93
+    },
+    {
+      "timestamp": "2026-06-12T12:16:48Z",
+      "score": 4.87
     }
   ]
 }

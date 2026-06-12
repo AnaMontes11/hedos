@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-12T21:41:20Z",
-  "global_score": 4.79,
-  "articles_scored": 98,
-  "words_matched": 215,
+  "generated": "2026-06-12T23:14:58Z",
+  "global_score": 4.78,
+  "articles_scored": 95,
+  "words_matched": 208,
   "top_negative": [
     {
       "word": "fraude",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
       "word": "triunfo",
       "score": 4
     },
@@ -59,15 +55,19 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "mayor",
+      "score": 3
+    },
+    {
+      "word": "emocionante",
       "score": 3
     }
   ],
@@ -78,10 +78,10 @@
     "ABC": 5.24,
     "El Confidencial": 5.01,
     "BBC Mundo": 4.75,
-    "France 24 ES": 3.97,
-    "La Nación AR": 4.94,
+    "France 24 ES": 4.33,
+    "La Nación AR": 4.45,
     "La Jornada MX": 4.6,
-    "Desinformémonos": 3.95,
+    "Desinformémonos": 3.92,
     "Resumen Latinoam.": 4.48
   },
   "articles": [
@@ -380,10 +380,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-23T14:58:13Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-05-23T16:04:28Z",
       "score": 4.84
@@ -1051,6 +1047,10 @@
     {
       "timestamp": "2026-06-12T21:41:20Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-06-12T23:14:58Z",
+      "score": 4.78
     }
   ]
 }

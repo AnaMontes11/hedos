@@ -1,12 +1,16 @@
 {
-  "generated": "2026-06-13T12:23:29Z",
-  "global_score": 5.03,
-  "articles_scored": 91,
-  "words_matched": 251,
+  "generated": "2026-06-13T14:58:22Z",
+  "global_score": 4.83,
+  "articles_scored": 93,
+  "words_matched": 268,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "infierno",
+      "score": -4
     },
     {
       "word": "fraude",
@@ -21,23 +25,23 @@
       "score": -4
     },
     {
-      "word": "mierda",
-      "score": -4
-    },
-    {
       "word": "violación",
       "score": -4
     },
     {
-      "word": "pánico",
+      "word": "matar",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "pánico",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "alegría",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -55,70 +59,66 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "celebra",
       "score": 3
     },
     {
       "word": "sentido",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.35,
-    "elDiario.es": 4.83,
-    "El Mundo": 5.04,
-    "ABC": 5.65,
-    "El Confidencial": 5.24,
-    "BBC Mundo": 5.07,
-    "France 24 ES": 5.08,
-    "La Nación AR": 4.7,
+    "El País": 5.11,
+    "elDiario.es": 4.96,
+    "El Mundo": 5.26,
+    "ABC": 4.64,
+    "El Confidencial": 4.98,
+    "BBC Mundo": 4.45,
+    "France 24 ES": 4.5,
+    "La Nación AR": 4.87,
     "La Jornada MX": 5.22,
-    "Desinformémonos": 3.92,
+    "Desinformémonos": 4.01,
     "Resumen Latinoam.": 5.1
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Pa",
-      "score": 5.23,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 5.6,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "espera",
-          "score": -1
+          "word": "asegura",
+          "score": 2
         },
         {
           "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "asegura",
+          "word": "sólido",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Los excursionistas que auxiliaron a Jonathan Andic, el quebradero de cabeza de l",
-      "score": 6.6,
+      "title": "La defensa de Jonathan Andic minimiza sus mensajes sobre “matar al padre” y los ",
+      "score": 4.6,
       "words": [
         {
-          "word": "realizar",
+          "word": "matar",
+          "score": -3
+        },
+        {
+          "word": "positivo",
           "score": 2
         }
       ]
@@ -212,6 +212,168 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Pakistán anuncia que el acuerdo de paz entre Irán y EEUU se cerrará este domingo",
+      "score": 5.64,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Al menos dos muertos en nuevos ataques de Israel en el sur de Líbano en medio de",
+      "score": 4.18,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "acusar",
+          "score": -2
+        },
+        {
+          "word": "violar",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Qué son los activos congelados que Irán exige a EEUU y por qué son tan important",
+      "score": 4.57,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump anuncia que EEUU ha matado en Venezuela al líder del Tren de Aragua, el Ni",
+      "score": 4.31,
+      "words": [
+        {
+          "word": "seguro",
+          "score": 2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "criminales",
+          "score": -3
+        },
+        {
+          "word": "expulsar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Anthropic corta el acceso a sus modelos de IA más avanzados tras una orden del G",
+      "score": 5.05,
+      "words": [
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La guerra que catapultó a la IA",
+      "score": 4.82,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La nueva investigación a Zapatero por las joyas incautadas en su despacho compli",
       "score": 5.36,
       "words": [
@@ -263,175 +425,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero y los diamantes del árbol envenenado",
-      "score": 4.51,
-      "words": [
-        {
-          "word": "envenenado",
-          "score": -2
-        },
-        {
-          "word": "envenenado",
-          "score": -2
-        },
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "rico",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ione Belarra será la candidata de Podemos a la Comunidad de Madrid",
-      "score": 4.0,
-      "words": [
-        {
-          "word": "rabia",
-          "score": -2
-        },
-        {
-          "word": "mierda",
-          "score": -4
-        },
-        {
-          "word": "rabia",
-          "score": -2
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La red corrupta de un teniente coronel condecorado: fondos públicos de la Guardi",
-      "score": 4.92,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La hipocresía de las joyas de Zapatero",
-      "score": 5.98,
-      "words": [
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "serio",
-          "score": 2
-        },
-        {
-          "word": "aceptar",
-          "score": 1
-        },
-        {
-          "word": "regalo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Mapa del caso Haril: políticos, empresarios y fiscales en la red de secretos de ",
-      "score": 3.81,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "dedicado",
-          "score": 2
-        },
-        {
-          "word": "dedicado",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "evitado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El primer ministro de Pakistán asegura que EEUU e Irán cerrarán el acuerdo de pa",
-      "score": 5.95,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-23T21:52:01Z",
-      "score": 5.19
-    },
     {
       "timestamp": "2026-05-23T22:50:36Z",
       "score": 5.09
@@ -1099,6 +1095,10 @@
     {
       "timestamp": "2026-06-13T12:23:29Z",
       "score": 5.03
+    },
+    {
+      "timestamp": "2026-06-13T14:58:22Z",
+      "score": 4.83
     }
   ]
 }

@@ -1,12 +1,16 @@
 {
-  "generated": "2026-06-13T18:05:16Z",
-  "global_score": 4.93,
-  "articles_scored": 91,
-  "words_matched": 243,
+  "generated": "2026-06-13T20:13:47Z",
+  "global_score": 4.82,
+  "articles_scored": 94,
+  "words_matched": 234,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "culo",
+      "score": -4
     },
     {
       "word": "infierno",
@@ -14,10 +18,6 @@
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "culo",
       "score": -4
     },
     {
@@ -51,10 +51,6 @@
       "score": 4
     },
     {
-      "word": "excelente",
-      "score": 3
-    },
-    {
       "word": "riqueza",
       "score": 3
     },
@@ -63,47 +59,39 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "lealtad",
+      "word": "caro",
+      "score": 3
+    },
+    {
+      "word": "emoción",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.78,
-    "elDiario.es": 4.95,
-    "El Mundo": 5.81,
-    "ABC": 5.31,
-    "El Confidencial": 4.87,
+    "El País": 4.92,
+    "elDiario.es": 4.92,
+    "El Mundo": 5.57,
+    "ABC": 5.2,
+    "El Confidencial": 4.72,
     "BBC Mundo": 4.77,
-    "France 24 ES": 4.61,
-    "La Nación AR": 5.31,
+    "France 24 ES": 4.58,
+    "La Nación AR": 5.0,
     "La Jornada MX": 5.22,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.49
+    "Resumen Latinoam.": 4.13
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 5.6,
+      "title": "Trump prevé que la tregua con Irán se firme este domingo y que Ormuz quede abier",
+      "score": 6.6,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "sólido",
+          "word": "firme",
           "score": 2
         }
       ]
@@ -208,8 +196,62 @@
     },
     {
       "source": "elDiario.es",
+      "title": "EEUU veta por primera vez la exportación de una inteligencia artificial y confir",
+      "score": 4.66,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "resuelto",
+          "score": 1
+        },
+        {
+          "word": "obligado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Anthropic corta el acceso a sus modelos de IA más avanzados tras una orden del G",
+      "score": 5.05,
+      "words": [
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump anuncia que el acuerdo con Irán se firmará este domingo mientras Teherán d",
-      "score": 5.97,
+      "score": 5.9,
       "words": [
         {
           "word": "acuerdo",
@@ -257,6 +299,33 @@
         {
           "word": "paz",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Qué son los activos congelados que Irán exige a EEUU y por qué son tan important",
+      "score": 4.57,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -316,33 +385,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Qué son los activos congelados que Irán exige a EEUU y por qué son tan important",
-      "score": 4.57,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Trump anuncia que EEUU ha matado en Venezuela al líder del Tren de Aragua, el Ni",
       "score": 4.31,
       "words": [
@@ -367,67 +409,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Anthropic corta el acceso a sus modelos de IA más avanzados tras una orden del G",
-      "score": 5.05,
-      "words": [
-        {
-          "word": "cumplir",
-          "score": 2
-        },
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "cumplir",
-          "score": 2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La guerra que catapultó a la IA",
-      "score": 4.82,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-24T02:57:26Z",
-      "score": 4.97
-    },
     {
       "timestamp": "2026-05-24T06:39:29Z",
       "score": 4.74
@@ -1095,6 +1079,10 @@
     {
       "timestamp": "2026-06-13T18:05:16Z",
       "score": 4.93
+    },
+    {
+      "timestamp": "2026-06-13T20:13:47Z",
+      "score": 4.82
     }
   ]
 }

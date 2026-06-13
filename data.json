@@ -1,15 +1,11 @@
 {
-  "generated": "2026-06-12T23:14:58Z",
-  "global_score": 4.78,
-  "articles_scored": 95,
-  "words_matched": 208,
+  "generated": "2026-06-13T03:27:30Z",
+  "global_score": 4.74,
+  "articles_scored": 91,
+  "words_matched": 202,
   "top_negative": [
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "retirada",
       "score": -3
+    },
+    {
+      "word": "enfado",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -43,19 +43,23 @@
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     },
     {
       "word": "mejor",
       "score": 3
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "premio",
+      "word": "celebra",
       "score": 3
     },
     {
@@ -65,24 +69,20 @@
     {
       "word": "mayor",
       "score": 3
-    },
-    {
-      "word": "emocionante",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.09,
     "elDiario.es": 5.11,
-    "El Mundo": 5.19,
-    "ABC": 5.24,
-    "El Confidencial": 5.01,
-    "BBC Mundo": 4.75,
-    "France 24 ES": 4.33,
-    "La Nación AR": 4.45,
+    "El Mundo": 4.55,
+    "ABC": 4.9,
+    "El Confidencial": 5.4,
+    "BBC Mundo": 4.79,
+    "France 24 ES": 4.78,
+    "La Nación AR": 4.6,
     "La Jornada MX": 4.6,
     "Desinformémonos": 3.92,
-    "Resumen Latinoam.": 4.48
+    "Resumen Latinoam.": 4.29
   },
   "articles": [
     {
@@ -380,10 +380,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-23T16:04:28Z",
-      "score": 4.84
-    },
     {
       "timestamp": "2026-05-23T17:59:13Z",
       "score": 4.83
@@ -1051,6 +1047,10 @@
     {
       "timestamp": "2026-06-12T23:14:58Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-06-13T03:27:30Z",
+      "score": 4.74
     }
   ]
 }

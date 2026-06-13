@@ -1,13 +1,9 @@
 {
-  "generated": "2026-06-13T07:43:35Z",
-  "global_score": 4.87,
-  "articles_scored": 93,
-  "words_matched": 260,
+  "generated": "2026-06-13T10:25:57Z",
+  "global_score": 4.93,
+  "articles_scored": 91,
+  "words_matched": 262,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
@@ -21,6 +17,14 @@
       "score": -4
     },
     {
+      "word": "infierno",
+      "score": -4
+    },
+    {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "criminal",
       "score": -3
     },
@@ -31,23 +35,11 @@
     {
       "word": "delito",
       "score": -3
-    },
-    {
-      "word": "pánico",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "alegría",
       "score": 4
     },
     {
@@ -55,34 +47,42 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "ominoso",
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "bonito",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.98,
-    "elDiario.es": 5.0,
-    "El Mundo": 4.6,
-    "ABC": 5.55,
-    "El Confidencial": 5.4,
+    "El País": 5.07,
+    "elDiario.es": 4.97,
+    "El Mundo": 4.57,
+    "ABC": 5.15,
+    "El Confidencial": 4.91,
     "BBC Mundo": 4.79,
     "France 24 ES": 4.87,
-    "La Nación AR": 5.55,
-    "La Jornada MX": 4.6,
+    "La Nación AR": 5.9,
+    "La Jornada MX": 5.22,
     "Desinformémonos": 3.92,
-    "Resumen Latinoam.": 4.31
+    "Resumen Latinoam.": 4.89
   },
   "articles": [
     {
@@ -174,6 +174,25 @@
     },
     {
       "source": "El País",
+      "title": "La oposición más codiciada de Europa: más de 5.500 euros al mes en Bruselas",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "aumentar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Zapatero y Sissi Emperatriz",
       "score": 6.6,
       "words": [
@@ -250,33 +269,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El informe sobre las joyas incautadas a Zapatero: de un collar valorado en 278.0",
-      "score": 5.63,
-      "words": [
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Zapatero y los diamantes del árbol envenenado",
       "score": 4.51,
       "words": [
@@ -326,6 +318,33 @@
         {
           "word": "prisión",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El informe sobre las joyas incautadas a Zapatero: de un collar valorado en 278.0",
+      "score": 5.63,
+      "words": [
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "delito",
+          "score": -3
         }
       ]
     },
@@ -382,40 +401,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Mapa del caso Haril: políticos, empresarios y fiscales en la red de secretos de ",
-      "score": 3.81,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "dedicado",
-          "score": 2
-        },
-        {
-          "word": "dedicado",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "evitado",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-23T19:22:56Z",
-      "score": 4.89
-    },
     {
       "timestamp": "2026-05-23T20:47:10Z",
       "score": 5.07
@@ -1083,6 +1071,10 @@
     {
       "timestamp": "2026-06-13T07:43:35Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-06-13T10:25:57Z",
+      "score": 4.93
     }
   ]
 }

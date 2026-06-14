@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-14T13:56:50Z",
-  "global_score": 4.72,
+  "generated": "2026-06-14T15:48:48Z",
+  "global_score": 4.78,
   "articles_scored": 93,
-  "words_matched": 252,
+  "words_matched": 257,
   "top_negative": [
     {
       "word": "pinchazo",
@@ -29,8 +29,8 @@
       "score": -4
     },
     {
-      "word": "víctimas",
-      "score": -3
+      "word": "maldición",
+      "score": -4
     },
     {
       "word": "ilegal",
@@ -47,6 +47,14 @@
       "score": 4
     },
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "asombra",
       "score": 3
     },
@@ -59,27 +67,19 @@
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "caro",
+      "word": "encanto",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.67,
-    "elDiario.es": 4.74,
-    "El Mundo": 5.06,
-    "ABC": 4.92,
+    "El País": 4.53,
+    "elDiario.es": 4.75,
+    "El Mundo": 4.89,
+    "ABC": 5.34,
     "El Confidencial": 5.17,
     "BBC Mundo": 4.55,
-    "France 24 ES": 4.29,
-    "La Nación AR": 6.31,
+    "France 24 ES": 4.68,
+    "La Nación AR": 6.36,
     "La Jornada MX": 4.69,
     "Desinformémonos": 3.97,
     "Resumen Latinoam.": 4.06
@@ -87,28 +87,28 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.2,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.47,
       "words": [
         {
           "word": "guerra",
           "score": -2
         },
         {
-          "word": "amenaza",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         },
         {
           "word": "ataque",
           "score": -1
         },
         {
-          "word": "víctimas",
-          "score": -3
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "aumenta",
-          "score": 1
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
@@ -129,34 +129,66 @@
     },
     {
       "source": "El País",
-      "title": "El ‘caso Zapatero’ pone al Gobierno al límite de la resistencia",
-      "score": 2.6,
+      "title": "Suiza rechaza en referéndum imponer un tope de 10 millones de habitantes a su po",
+      "score": 5.4,
       "words": [
         {
-          "word": "ilegal",
-          "score": -3
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "imponer",
+          "score": -1
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Joyas, Venezuela y una consultora: Zapatero se enfrenta al juez con una investig",
+      "title": "Fuerzas especiales de la Marina británica toman al asalto un petrolero de la ‘fl",
       "score": 5.8,
       "words": [
         {
-          "word": "joyas",
+          "word": "fantasma",
+          "score": -1
+        },
+        {
+          "word": "mancha",
+          "score": 2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "unido",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "De la lejanía de Felipe al ‘shock’ por ZP: la orfandad de “referentes históricos",
-      "score": 6.6,
+      "title": "Patadas y puñetazos en la Casa Blanca: Trump se celebra a sí mismo con un combat",
+      "score": 5.27,
       "words": [
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "combate",
+          "score": -1
+        },
+        {
+          "word": "demostración",
+          "score": -1
         }
       ]
     },
@@ -196,39 +228,23 @@
     },
     {
       "source": "El País",
-      "title": "Suiza rechaza en referéndum imponer un tope de 10 millones de habitantes a su po",
-      "score": 5.4,
+      "title": "El ‘caso Zapatero’ pone al Gobierno al límite de la resistencia",
+      "score": 2.6,
       "words": [
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
+          "word": "ilegal",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Irán no da por cerrada la firma del acuerdo de paz con EEUU mientras Israel lo b",
-      "score": 5.16,
+      "title": "Trump censura el ataque de Israel sobre Beirut: \"No debería haberse producido, e",
+      "score": 5.07,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
+          "word": "ataque",
+          "score": -1
         },
         {
           "word": "acuerdo",
@@ -239,15 +255,19 @@
           "score": 2
         },
         {
-          "word": "advierte",
-          "score": -2
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "Israel vuelve a lanzar ataques contra zonas residenciales de Beirut ante la posi",
-      "score": 4.91,
+      "score": 4.82,
       "words": [
         {
           "word": "ataques",
@@ -268,6 +288,33 @@
         {
           "word": "ataques",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Irán amenaza con romper el acuerdo con EEUU tras el bombardeo de Israel sobre Be",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "advierte",
+          "score": -2
         }
       ]
     },
@@ -301,7 +348,7 @@
     {
       "source": "elDiario.es",
       "title": "Suiza rechaza en referéndum limitar la inmigración y el asilo para frenar el cre",
-      "score": 5.59,
+      "score": 5.42,
       "words": [
         {
           "word": "rechaza",
@@ -378,40 +425,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU tardó cinco años en enviar a España los chats del empresario venezolano que",
-      "score": 4.97,
-      "words": [
-        {
-          "word": "asegurar",
-          "score": 1
-        },
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "fraudes",
-          "score": -4
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-24T17:59:39Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-05-24T19:26:37Z",
       "score": 4.71
@@ -1079,6 +1095,10 @@
     {
       "timestamp": "2026-06-14T13:56:50Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-14T15:48:48Z",
+      "score": 4.78
     }
   ]
 }

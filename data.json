@@ -1,16 +1,20 @@
 {
-  "generated": "2026-06-14T11:55:10Z",
-  "global_score": 4.78,
+  "generated": "2026-06-14T13:56:50Z",
+  "global_score": 4.72,
   "articles_scored": 93,
-  "words_matched": 262,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "pinchazo",
       "score": -5
     },
     {
-      "word": "perra",
-      "score": -5
+      "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "fraudes",
+      "score": -4
     },
     {
       "word": "culo",
@@ -25,33 +29,29 @@
       "score": -4
     },
     {
-      "word": "retirada",
+      "word": "víctimas",
       "score": -3
     },
     {
       "word": "ilegal",
       "score": -3
-    },
-    {
-      "word": "vil",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "victorias",
-      "score": 4
-    },
     {
       "word": "alegría",
       "score": 4
     },
     {
-      "word": "brillante",
+      "word": "victorias",
       "score": 4
     },
     {
       "word": "asombra",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     },
     {
@@ -63,28 +63,55 @@
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "caro",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.86,
-    "elDiario.es": 5.1,
-    "El Mundo": 5.28,
-    "ABC": 5.16,
-    "El Confidencial": 5.04,
+    "El País": 4.67,
+    "elDiario.es": 4.74,
+    "El Mundo": 5.06,
+    "ABC": 4.92,
+    "El Confidencial": 5.17,
     "BBC Mundo": 4.55,
-    "France 24 ES": 4.11,
-    "La Nación AR": 4.79,
+    "France 24 ES": 4.29,
+    "La Nación AR": 6.31,
     "La Jornada MX": 4.69,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.74
+    "Resumen Latinoam.": 4.06
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "aumenta",
+          "score": 1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Un nuevo equilibrio del miedo aflora en el mundo",
@@ -97,33 +124,6 @@
         {
           "word": "ataques",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
         }
       ]
     },
@@ -162,25 +162,6 @@
     },
     {
       "source": "El País",
-      "title": "¿Lucharías por tu país? Los nuevos retos de España en defensa 25 años después de",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Emma Heming, esposa y cuidadora de Bruce Willis: “Necesitaba escuchar que podía ",
       "score": 5.53,
       "words": [
@@ -200,7 +181,22 @@
     },
     {
       "source": "El País",
-      "title": "Suiza rechaza imponer un tope de 10 millones de habitantes a su población, según",
+      "title": "De ‘Pasapalabra’ a ‘Gran Hermano’: éxitos y fracasos de la temporada televisiva",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "fracasos",
+          "score": -2
+        },
+        {
+          "word": "disgusto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Suiza rechaza en referéndum imponer un tope de 10 millones de habitantes a su po",
       "score": 5.4,
       "words": [
         {
@@ -223,136 +219,82 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El viaje de la prueba clave contra Zapatero: de EEUU a la Audiencia Nacional",
-      "score": 4.78,
+      "title": "Irán no da por cerrada la firma del acuerdo de paz con EEUU mientras Israel lo b",
+      "score": 5.16,
       "words": [
         {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "vil",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez ordena a los suyos no dejarse arrastrar por la agenda judicial y trata d",
-      "score": 4.65,
-      "words": [
-        {
-          "word": "arrastrar",
-          "score": -1
-        },
-        {
-          "word": "daño",
-          "score": -2
-        },
-        {
-          "word": "joyas",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "arrastrar",
-          "score": -1
+          "word": "paz",
+          "score": 2
         },
         {
-          "word": "daño",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "advierte",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero y los diamantes del árbol envenenado",
-      "score": 4.51,
+      "title": "Israel vuelve a lanzar ataques contra zonas residenciales de Beirut ante la posi",
+      "score": 4.91,
       "words": [
         {
-          "word": "envenenado",
-          "score": -2
-        },
-        {
-          "word": "envenenado",
-          "score": -2
-        },
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "vil",
-          "score": -3
-        },
-        {
-          "word": "rico",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El indulto del ex fiscal general queda en manos del Gobierno tras el portazo del",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "cumplir",
-          "score": 2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "admite",
+          "word": "ataques",
           "score": -1
         },
         {
-          "word": "rechaza",
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "ataques",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Las mentiras y bulos de costumbre sobre el fraude electoral",
-      "score": 4.54,
+      "title": "Qué se sabe de la \"misión secreta\" de Trump para sacar petróleo por el estrecho ",
+      "score": 4.2,
       "words": [
         {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "sufrir",
-          "score": -2
-        },
-        {
-          "word": "esperar",
+          "word": "bloqueo",
           "score": -1
         },
         {
-          "word": "denuncia",
+          "word": "resolver",
+          "score": 1
+        },
+        {
+          "word": "disputa",
           "score": -2
+        },
+        {
+          "word": "creciente",
+          "score": 1
+        },
+        {
+          "word": "evitar",
+          "score": -1
         }
       ]
     },
@@ -385,37 +327,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El 'César' Trump convierte la Casa Blanca en un circo romano para su 80 cumpleañ",
-      "score": 4.54,
+      "title": "No hay colonos que no violen el derecho internacional: la trampa del discurso de",
+      "score": 4.09,
       "words": [
         {
-          "word": "combates",
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "trampa",
           "score": -1
         },
         {
-          "word": "lucha",
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "trampa",
+          "score": -1
+        },
+        {
+          "word": "solo",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El viaje de la prueba clave contra Zapatero: de EEUU a la Audiencia Nacional",
+      "score": 4.78,
+      "words": [
+        {
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "vil",
+          "score": -3
         },
         {
           "word": "pasado",
           "score": -1
         },
         {
-          "word": "combate",
-          "score": -1
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "lucha",
+          "word": "vil",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU tardó cinco años en enviar a España los chats del empresario venezolano que",
+      "score": 4.97,
+      "words": [
+        {
+          "word": "asegurar",
+          "score": 1
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "advierte",
           "score": -2
+        },
+        {
+          "word": "fraudes",
+          "score": -4
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-24T16:57:19Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-05-24T17:59:39Z",
       "score": 4.69
@@ -1083,6 +1075,10 @@
     {
       "timestamp": "2026-06-14T11:55:10Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-06-14T13:56:50Z",
+      "score": 4.72
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
-  "generated": "2026-06-14T09:29:40Z",
-  "global_score": 4.81,
-  "articles_scored": 91,
-  "words_matched": 274,
+  "generated": "2026-06-14T11:55:10Z",
+  "global_score": 4.78,
+  "articles_scored": 93,
+  "words_matched": 262,
   "top_negative": [
     {
-      "word": "negro",
+      "word": "pinchazo",
+      "score": -5
+    },
+    {
+      "word": "perra",
       "score": -5
     },
     {
@@ -21,19 +25,15 @@
       "score": -4
     },
     {
+      "word": "retirada",
+      "score": -3
+    },
+    {
       "word": "ilegal",
       "score": -3
     },
     {
       "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "defectos",
-      "score": -3
-    },
-    {
-      "word": "delito",
       "score": -3
     }
   ],
@@ -51,38 +51,38 @@
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "asombra",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "euforia",
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "excelente",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.0,
-    "elDiario.es": 5.06,
-    "El Mundo": 5.97,
-    "ABC": 5.0,
-    "El Confidencial": 4.86,
-    "BBC Mundo": 4.47,
+    "El País": 4.86,
+    "elDiario.es": 5.1,
+    "El Mundo": 5.28,
+    "ABC": 5.16,
+    "El Confidencial": 5.04,
+    "BBC Mundo": 4.55,
     "France 24 ES": 4.11,
-    "La Nación AR": 4.98,
+    "La Nación AR": 4.79,
     "La Jornada MX": 4.69,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.76
+    "Resumen Latinoam.": 4.74
   },
   "articles": [
     {
@@ -102,11 +102,27 @@
     },
     {
       "source": "El País",
-      "title": "Trump prevé que la tregua con Irán se firme este domingo y que Ormuz quede abier",
-      "score": 6.6,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
+      "score": 4.68,
       "words": [
         {
-          "word": "firme",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "retirada",
+          "score": -3
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "asegura",
           "score": 2
         }
       ]
@@ -184,16 +200,24 @@
     },
     {
       "source": "El País",
-      "title": "Los Trump buscan expandir su imperio inmobiliario en Europa",
-      "score": 4.6,
+      "title": "Suiza rechaza imponer un tope de 10 millones de habitantes a su población, según",
+      "score": 5.4,
       "words": [
         {
-          "word": "expandir",
-          "score": 1
+          "word": "rechaza",
+          "score": -1
         },
         {
-          "word": "protestas",
-          "score": -2
+          "word": "imponer",
+          "score": -1
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
         }
       ]
     },
@@ -334,50 +358,23 @@
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU veta por primera vez la exportación de una inteligencia artificial y confir",
-      "score": 4.66,
+      "title": "Suiza rechaza en referéndum limitar la inmigración y el asilo para frenar el cre",
+      "score": 5.59,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "duda",
+          "word": "rechaza",
           "score": -1
         },
         {
-          "word": "resuelto",
-          "score": 1
-        },
-        {
-          "word": "obligado",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Anthropic corta el acceso a sus modelos de IA más avanzados tras una orden del G",
-      "score": 5.05,
-      "words": [
-        {
-          "word": "cumplir",
+          "word": "crecimiento",
           "score": 2
         },
         {
-          "word": "suspender",
+          "word": "rechaza",
           "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "cumplir",
+          "word": "crecimiento",
           "score": 2
         },
         {
@@ -385,13 +382,36 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El 'César' Trump convierte la Casa Blanca en un circo romano para su 80 cumpleañ",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "combates",
+          "score": -1
+        },
+        {
+          "word": "lucha",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "combate",
+          "score": -1
+        },
+        {
+          "word": "lucha",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-24T15:00:57Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-05-24T16:57:19Z",
       "score": 4.72
@@ -1059,6 +1079,10 @@
     {
       "timestamp": "2026-06-14T09:29:40Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-06-14T11:55:10Z",
+      "score": 4.78
     }
   ]
 }

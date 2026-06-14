@@ -1,19 +1,23 @@
 {
-  "generated": "2026-06-14T00:03:51Z",
-  "global_score": 4.83,
-  "articles_scored": 79,
-  "words_matched": 223,
+  "generated": "2026-06-14T05:46:29Z",
+  "global_score": 4.87,
+  "articles_scored": 94,
+  "words_matched": 273,
   "top_negative": [
     {
-      "word": "negro",
+      "word": "pinchazo",
       "score": -5
+    },
+    {
+      "word": "fraudes",
+      "score": -4
     },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "defraudadores",
       "score": -4
     },
     {
@@ -25,15 +29,11 @@
       "score": -4
     },
     {
-      "word": "matar",
+      "word": "ilegal",
       "score": -3
     },
     {
-      "word": "criminales",
-      "score": -3
-    },
-    {
-      "word": "pánico",
+      "word": "estafas",
       "score": -3
     }
   ],
@@ -43,23 +43,23 @@
       "score": 4
     },
     {
+      "word": "brillante",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "riqueza",
+      "score": 3
     },
     {
       "word": "ominoso",
       "score": 3
     },
     {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "paraíso",
+      "word": "felicidad",
       "score": 3
     },
     {
@@ -67,23 +67,39 @@
       "score": 3
     },
     {
-      "word": "exitoso",
+      "word": "euforia",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.33,
-    "elDiario.es": 4.92,
-    "El Mundo": 5.57,
-    "El Confidencial": 4.78,
-    "BBC Mundo": 4.77,
-    "France 24 ES": 4.23,
-    "La Nación AR": 5.4,
+    "El País": 4.76,
+    "elDiario.es": 5.04,
+    "El Mundo": 5.89,
+    "ABC": 5.08,
+    "El Confidencial": 4.92,
+    "BBC Mundo": 4.68,
+    "France 24 ES": 4.11,
+    "La Nación AR": 4.9,
     "La Jornada MX": 5.22,
     "Desinformémonos": 3.97,
     "Resumen Latinoam.": 4.92
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Un nuevo equilibrio del miedo aflora en el mundo",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Trump prevé que la tregua con Irán se firme este domingo y que Ormuz quede abier",
@@ -97,76 +113,199 @@
     },
     {
       "source": "El País",
-      "title": "La operación para matar en Venezuela al líder del Tren de Aragua refuerza el int",
+      "title": "El caso Zapatero pone al Gobierno al límite de la resistencia",
       "score": 2.6,
       "words": [
         {
-          "word": "matar",
-          "score": -3
-        },
-        {
-          "word": "criminales",
+          "word": "ilegal",
           "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La defensa de Jonathan Andic minimiza sus mensajes sobre “matar al padre” y los ",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "matar",
-          "score": -3
-        },
-        {
-          "word": "positivo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Histórico empate del Qatar de Lopetegui ante Suiza",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "descuento",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La oposición más codiciada de Europa: más de 5.500 euros al mes en Bruselas",
+      "title": "Joyas, Venezuela y una consultora: Zapatero se enfrenta al juez con una investig",
       "score": 5.8,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "aumentar",
+          "word": "joyas",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El álbum inédito de los zulos del ‘Anodino’, el policía que escondía millones de",
-      "score": 2.6,
+      "title": "De la lejanía de Felipe al ‘shock’ por ZP: la orfandad de “referentes históricos",
+      "score": 6.6,
       "words": [
         {
-          "word": "pánico",
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Lucharías por tu país? Los nuevos retos de España en defensa 25 años después de",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los fraudes bancarios se hacen más sofisticados y abren una batalla legal: “Los ",
+      "score": 3.6,
+      "words": [
+        {
+          "word": "fraudes",
+          "score": -4
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "estafas",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los Trump buscan expandir su imperio inmobiliario en Europa",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "expandir",
+          "score": 1
+        },
+        {
+          "word": "protestas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El viaje de la prueba clave contra Zapatero: de EEUU a la Audiencia Nacional",
+      "score": 4.78,
+      "words": [
+        {
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "vil",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez ordena a los suyos no dejarse arrastrar por la agenda judicial y trata d",
+      "score": 4.65,
+      "words": [
+        {
+          "word": "arrastrar",
+          "score": -1
+        },
+        {
+          "word": "daño",
+          "score": -2
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "arrastrar",
+          "score": -1
+        },
+        {
+          "word": "daño",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero y los diamantes del árbol envenenado",
+      "score": 4.51,
+      "words": [
+        {
+          "word": "envenenado",
+          "score": -2
+        },
+        {
+          "word": "envenenado",
+          "score": -2
+        },
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "rico",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El indulto del ex fiscal general queda en manos del Gobierno tras el portazo del",
+      "score": 4.75,
+      "words": [
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "rechaza",
+          "score": -1
         }
       ]
     },
@@ -250,175 +389,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Pakistán anuncia que el acuerdo de paz entre Irán y EEUU se cerrará este domingo",
-      "score": 5.64,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué son los activos congelados que Irán exige a EEUU y por qué son tan important",
-      "score": 4.57,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Colonos israelíes invaden a tiros e incendian tierras en Cisjordania",
-      "score": 4.42,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "compartido",
-          "score": 1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "realizar",
-          "score": 2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Al menos dos muertos en nuevos ataques de Israel en el sur de Líbano en medio de",
-      "score": 4.18,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "acusar",
-          "score": -2
-        },
-        {
-          "word": "violar",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump anuncia que EEUU ha matado en Venezuela al líder del Tren de Aragua, el Ni",
-      "score": 4.31,
-      "words": [
-        {
-          "word": "seguro",
-          "score": 2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "criminales",
-          "score": -3
-        },
-        {
-          "word": "expulsar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Viktor Orbán, reelegido presidente del Fidesz pese a la derrota electoral de abr",
-      "score": 5.15,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "riqueza",
-          "score": 3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-24T11:14:08Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-05-24T13:20:00Z",
       "score": 4.65
@@ -1086,6 +1059,10 @@
     {
       "timestamp": "2026-06-14T00:03:51Z",
       "score": 4.83
+    },
+    {
+      "timestamp": "2026-06-14T05:46:29Z",
+      "score": 4.87
     }
   ]
 }

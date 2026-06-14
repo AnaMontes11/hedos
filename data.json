@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-14T15:48:48Z",
-  "global_score": 4.78,
-  "articles_scored": 93,
-  "words_matched": 257,
+  "generated": "2026-06-14T17:18:05Z",
+  "global_score": 4.77,
+  "articles_scored": 92,
+  "words_matched": 262,
   "top_negative": [
     {
       "word": "pinchazo",
@@ -39,15 +39,15 @@
   ],
   "top_positive": [
     {
+      "word": "asombroso",
+      "score": 5
+    },
+    {
       "word": "alegría",
       "score": 4
     },
     {
       "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
       "score": 4
     },
     {
@@ -63,32 +63,32 @@
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "perfectamente",
       "score": 3
     },
     {
-      "word": "encanto",
+      "word": "celebrando",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.53,
-    "elDiario.es": 4.75,
-    "El Mundo": 4.89,
-    "ABC": 5.34,
-    "El Confidencial": 5.17,
+    "El País": 4.64,
+    "elDiario.es": 4.74,
+    "El Mundo": 4.88,
+    "ABC": 4.83,
+    "El Confidencial": 4.81,
     "BBC Mundo": 4.55,
-    "France 24 ES": 4.68,
-    "La Nación AR": 6.36,
+    "France 24 ES": 4.45,
+    "La Nación AR": 5.67,
     "La Jornada MX": 4.69,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.06
+    "Resumen Latinoam.": 5.01
   },
   "articles": [
     {
       "source": "El País",
       "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.47,
+      "score": 5.32,
       "words": [
         {
           "word": "guerra",
@@ -99,16 +99,16 @@
           "score": 2
         },
         {
-          "word": "ataque",
-          "score": -1
-        },
-        {
           "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "amenaza",
-          "score": -2
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "ataque",
+          "score": -1
         }
       ]
     },
@@ -240,7 +240,7 @@
     {
       "source": "elDiario.es",
       "title": "Trump censura el ataque de Israel sobre Beirut: \"No debería haberse producido, e",
-      "score": 5.07,
+      "score": 5.09,
       "words": [
         {
           "word": "ataque",
@@ -293,8 +293,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Irán amenaza con romper el acuerdo con EEUU tras el bombardeo de Israel sobre Be",
-      "score": 5.1,
+      "title": "Irán amenaza con romper el acuerdo con EEUU y alerta de una respuesta militar co",
+      "score": 5.07,
       "words": [
         {
           "word": "amenaza",
@@ -305,16 +305,16 @@
           "score": 1
         },
         {
+          "word": "alerta",
+          "score": -1
+        },
+        {
           "word": "amenaza",
           "score": -2
         },
         {
           "word": "acuerdo",
           "score": 1
-        },
-        {
-          "word": "advierte",
-          "score": -2
         }
       ]
     },
@@ -348,7 +348,7 @@
     {
       "source": "elDiario.es",
       "title": "Suiza rechaza en referéndum limitar la inmigración y el asilo para frenar el cre",
-      "score": 5.42,
+      "score": 5.33,
       "words": [
         {
           "word": "rechaza",
@@ -428,10 +428,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-24T19:26:37Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-05-24T20:52:19Z",
       "score": 4.68
@@ -1099,6 +1095,10 @@
     {
       "timestamp": "2026-06-14T15:48:48Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-06-14T17:18:05Z",
+      "score": 4.77
     }
   ]
 }

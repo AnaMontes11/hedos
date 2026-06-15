@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-15T16:15:40Z",
-  "global_score": 4.57,
-  "articles_scored": 85,
-  "words_matched": 229,
+  "generated": "2026-06-15T20:22:59Z",
+  "global_score": 4.77,
+  "articles_scored": 94,
+  "words_matched": 230,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -17,15 +21,11 @@
       "score": -4
     },
     {
-      "word": "crisis",
+      "word": "retirada",
       "score": -3
     },
     {
       "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "muerto",
       "score": -3
     },
     {
@@ -43,11 +43,23 @@
       "score": 4
     },
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "bendición",
+      "score": 4
+    },
+    {
       "word": "brillante",
       "score": 4
     },
     {
-      "word": "mejor",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "deleite",
       "score": 3
     },
     {
@@ -57,72 +69,84 @@
     {
       "word": "premio",
       "score": 3
-    },
-    {
-      "word": "maravillas",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.99,
-    "elDiario.es": 4.92,
-    "El Mundo": 5.16,
-    "ABC": 5.0,
+    "El País": 5.15,
+    "elDiario.es": 4.99,
+    "El Mundo": 5.07,
+    "ABC": 5.2,
     "El Confidencial": 4.4,
-    "BBC Mundo": 4.14,
-    "France 24 ES": 4.47,
-    "La Nación AR": 4.1,
+    "BBC Mundo": 4.25,
+    "France 24 ES": 5.25,
+    "La Nación AR": 5.09,
     "La Jornada MX": 5.26,
-    "Desinformémonos": 3.77,
-    "Resumen Latinoam.": 4.54
+    "Desinformémonos": 3.74,
+    "Resumen Latinoam.": 3.85
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Un pase al loco de la banda: Marcelo Bielsa lidera a Uruguay en el Mundial",
-      "score": 5.0,
+      "title": "La resistencia de Israel siembra dudas sobre el futuro del pacto entre EE UU e I",
+      "score": 4.8,
       "words": [
         {
-          "word": "loco",
-          "score": -2
+          "word": "dudas",
+          "score": -1
         },
         {
-          "word": "honesto",
+          "word": "asegura",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Bélgica y la crisis nacional que acompaña la trayectoria de Thibaut Courtois",
-      "score": 3.0,
-      "words": [
+        },
         {
-          "word": "crisis",
+          "word": "retirada",
           "score": -3
         },
         {
-          "word": "polémica",
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Ibex sube un 1,4% y supera los 19.000 puntos por primera vez en la historia",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "deuda",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La FIFA rectifica y permite el español en todas las ruedas de prensa",
-      "score": 3.4,
+      "title": "La acusación popular pide que se le retire el pasaporte a Begoña Gómez y se le p",
+      "score": 6.07,
       "words": [
         {
-          "word": "polémica",
+          "word": "acusación",
           "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "celebrado",
+          "score": 3
         }
       ]
     },
@@ -162,28 +186,103 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
-      "score": 4.36,
+      "title": "Condenado a ocho años de prisión por agresión sexual el futbolista Rafa Mir",
+      "score": 3.4,
       "words": [
         {
-          "word": "guerra",
+          "word": "condenado",
           "score": -2
         },
         {
-          "word": "acuerdo",
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Jonathan Andic al 112: “Ayuda, mi padre se ha caído”",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "caído",
+          "score": -2
+        },
+        {
+          "word": "desesperación",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cabo Verde pincha el globo de España",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "chispa",
           "score": 1
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "De la Fuente: “Somos campeones de Europa, que nadie se olvide”",
+      "score": 6.6,
+      "words": [
         {
-          "word": "muerto",
-          "score": -3
-        },
+          "word": "reivindica",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Vozinha, el portero de Cabo Verde que frustró a España: de la pasión de un padre",
+      "score": 6.6,
+      "words": [
         {
-          "word": "ataque",
+          "word": "héroe",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El abogado de Begoña Gómez, ante el juez Peinado: \"Esto es un procedimiento fant",
+      "score": 4.32,
+      "words": [
+        {
+          "word": "fantasma",
           "score": -1
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "fantasma",
+          "score": -1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "imponer",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
+          "score": -2
         }
       ]
     },
@@ -243,33 +342,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Vuelve el meteorito",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "esperando",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Las libretas de Cerdán incautadas por la UCO revelan su malestar con el fiscal g",
       "score": 5.4,
       "words": [
@@ -297,145 +369,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Begoña Gómez comparece ante el juez Peinado con el riesgo de perder su pasaporte",
-      "score": 4.26,
+      "title": "Las auditorías internas apuntan al núcleo duro de Ayuso en el caso de los contra",
+      "score": 4.56,
       "words": [
         {
-          "word": "riesgo",
+          "word": "duro",
           "score": -2
         },
         {
-          "word": "perder",
+          "word": "duro",
           "score": -2
         },
         {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El calvario judicial para Sánchez en una semana: Zapatero y Begoña Gómez ante el",
-      "score": 4.5,
-      "words": [
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "delito",
+          "word": "escándalo",
           "score": -3
         },
         {
-          "word": "joyas",
-          "score": 1
+          "word": "problemas",
+          "score": -2
         },
         {
-          "word": "dejar",
+          "word": "desaparecer",
           "score": -1
-        },
-        {
-          "word": "interrogatorio",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La mayoría de los votantes del PSOE pide a Sánchez agotar la legislatura a pesar",
-      "score": 5.32,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "visiones",
-          "score": 1
-        },
-        {
-          "word": "adoptar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Audiencia de Valencia condena al futbolista Rafa Mir a ocho años y medio de p",
-      "score": 4.09,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump afirma que \"los barcos están empezando a salir del estrecho de Ormuz, much",
-      "score": 5.78,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "celebrando",
-          "score": 3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-25T12:26:52Z",
-      "score": 4.86
-    },
     {
       "timestamp": "2026-05-25T15:48:58Z",
       "score": 4.87
@@ -1103,6 +1063,10 @@
     {
       "timestamp": "2026-06-15T16:15:40Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-06-15T20:22:59Z",
+      "score": 4.77
     }
   ]
 }

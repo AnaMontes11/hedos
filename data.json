@@ -1,19 +1,11 @@
 {
-  "generated": "2026-06-15T10:27:38Z",
-  "global_score": 4.79,
-  "articles_scored": 87,
-  "words_matched": 247,
+  "generated": "2026-06-15T16:15:40Z",
+  "global_score": 4.57,
+  "articles_scored": 85,
+  "words_matched": 229,
   "top_negative": [
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "maldición",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -21,19 +13,27 @@
       "score": -4
     },
     {
+      "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
+    },
+    {
       "word": "muerto",
       "score": -3
     },
     {
-      "word": "retirada",
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "violencia",
-      "score": -3
-    },
-    {
-      "word": "sangriento",
+      "word": "criminal",
       "score": -3
     }
   ],
@@ -43,11 +43,11 @@
       "score": 4
     },
     {
-      "word": "ganar",
+      "word": "brillante",
       "score": 4
     },
     {
-      "word": "vibrante",
+      "word": "mejor",
       "score": 3
     },
     {
@@ -55,286 +55,162 @@
       "score": 3
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "maravillas",
       "score": 3
     },
     {
-      "word": "encantado",
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.97,
-    "elDiario.es": 4.95,
-    "El Mundo": 4.77,
-    "ABC": 4.85,
-    "El Confidencial": 5.23,
-    "BBC Mundo": 4.1,
-    "France 24 ES": 5.13,
-    "La Nación AR": 4.78,
+    "El País": 3.99,
+    "elDiario.es": 4.92,
+    "El Mundo": 5.16,
+    "ABC": 5.0,
+    "El Confidencial": 4.4,
+    "BBC Mundo": 4.14,
+    "France 24 ES": 4.47,
+    "La Nación AR": 4.1,
     "La Jornada MX": 5.26,
-    "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 4.56
+    "Desinformémonos": 3.77,
+    "Resumen Latinoam.": 4.54
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Estados Unidos e Irán anuncian un acuerdo para abrir el estrecho de Ormuz y pone",
-      "score": 4.8,
+      "title": "Un pase al loco de la banda: Marcelo Bielsa lidera a Uruguay en el Mundial",
+      "score": 5.0,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "guerra",
+          "word": "loco",
           "score": -2
         },
         {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "asegura",
+          "word": "honesto",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
-      "score": 4.89,
+      "title": "Bélgica y la crisis nacional que acompaña la trayectoria de Thibaut Courtois",
+      "score": 3.0,
       "words": [
         {
-          "word": "guerra",
-          "score": -2
+          "word": "crisis",
+          "score": -3
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "espera",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las claves del acuerdo entre Irán y Estados Unidos: 60 días para sellar la paz e",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "conflicto",
+          "word": "polémica",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La frustración se instala en la sociedad israelí tras años de guerra permanente",
+      "title": "La FIFA rectifica y permite el español en todas las ruedas de prensa",
       "score": 3.4,
       "words": [
         {
-          "word": "frustración",
-          "score": -2
-        },
-        {
-          "word": "guerra",
+          "word": "polémica",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Baltasar Garzón: “Un informe policial no debe contener juicios de valor para med",
-      "score": 5.27,
+      "title": "Zapatero pide aplazar su declaración sobre el origen de las joyas",
+      "score": 4.8,
       "words": [
         {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Árboles contra el calor urbano: el 80% de los valencianos y el 60% de los madril",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "aumentar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump e Irán anuncian un acuerdo de paz",
-      "score": 5.37,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Albares exige que \"el alto el fuego alcance también al Líbano\" y propone una mis",
-      "score": 5.65,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ormuz, el programa nuclear o los fondos embargados: qué sabemos del acuerdo entr",
-      "score": 4.92,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "pasado",
+          "word": "aplazar",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump ya tiene su baño de sangre en la Casa Blanca, con insultos a Michelle Obam",
-      "score": 4.79,
-      "words": [
-        {
-          "word": "insultos",
-          "score": -2
-        },
-        {
-          "word": "insultos",
-          "score": -2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "celebrar",
-          "score": 3
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La mayoría de los votantes del PSOE pide a Sánchez agotar la legislatura a pesar",
-      "score": 5.32,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
         },
         {
           "word": "joyas",
           "score": 1
         },
         {
-          "word": "visiones",
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La UCO multiplica sus sospechas sobre la cúpula de la Guardia Civil en el ‘caso ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "puesto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tr",
+      "score": 4.36,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "adoptar",
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "acuerdo",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero pide no declarar ante el juez sobre las joyas incautadas y hacerlo solo",
+      "score": 4.85,
+      "words": [
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -362,6 +238,60 @@
         {
           "word": "gracias",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vuelve el meteorito",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "esperando",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las libretas de Cerdán incautadas por la UCO revelan su malestar con el fiscal g",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "choque",
+          "score": -2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "significativo",
+          "score": 1
         }
       ]
     },
@@ -421,37 +351,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Vuelve el meteorito",
-      "score": 5.1,
+      "title": "La mayoría de los votantes del PSOE pide a Sánchez agotar la legislatura a pesar",
+      "score": 5.32,
       "words": [
         {
-          "word": "esperando",
-          "score": 2
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "muerto",
+          "word": "delito",
           "score": -3
         },
         {
-          "word": "cargos",
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "visiones",
+          "score": 1
+        },
+        {
+          "word": "adoptar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Audiencia de Valencia condena al futbolista Rafa Mir a ocho años y medio de p",
+      "score": 4.09,
+      "words": [
+        {
+          "word": "condena",
           "score": -2
+        },
+        {
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "prisión",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump afirma que \"los barcos están empezando a salir del estrecho de Ormuz, much",
+      "score": 5.78,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "celebrando",
+          "score": 3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-25T08:53:46Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-25T12:26:52Z",
       "score": 4.86
@@ -1119,6 +1099,10 @@
     {
       "timestamp": "2026-06-15T10:27:38Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-06-15T16:15:40Z",
+      "score": 4.57
     }
   ]
 }

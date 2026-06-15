@@ -1,31 +1,19 @@
 {
-  "generated": "2026-06-15T03:58:16Z",
-  "global_score": 4.86,
-  "articles_scored": 91,
-  "words_matched": 248,
+  "generated": "2026-06-15T10:27:38Z",
+  "global_score": 4.79,
+  "articles_scored": 87,
+  "words_matched": 247,
   "top_negative": [
-    {
-      "word": "pinchazo",
-      "score": -5
-    },
-    {
-      "word": "puta",
-      "score": -4
-    },
-    {
-      "word": "tortura",
-      "score": -4
-    },
-    {
-      "word": "fraudes",
-      "score": -4
-    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "defraudadores",
+      "word": "maldición",
+      "score": -4
+    },
+    {
+      "word": "violación",
       "score": -4
     },
     {
@@ -33,8 +21,20 @@
       "score": -4
     },
     {
-      "word": "maldición",
-      "score": -4
+      "word": "muerto",
+      "score": -3
+    },
+    {
+      "word": "retirada",
+      "score": -3
+    },
+    {
+      "word": "violencia",
+      "score": -3
+    },
+    {
+      "word": "sangriento",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -43,15 +43,19 @@
       "score": 4
     },
     {
-      "word": "victorias",
+      "word": "ganar",
       "score": 4
     },
     {
-      "word": "leal",
+      "word": "vibrante",
       "score": 3
     },
     {
-      "word": "asombra",
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     },
     {
@@ -59,30 +63,26 @@
       "score": 3
     },
     {
-      "word": "vibrante",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "euforia",
+      "word": "encantado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.42,
-    "elDiario.es": 4.77,
-    "El Mundo": 4.74,
-    "ABC": 4.94,
-    "El Confidencial": 5.6,
-    "BBC Mundo": 4.67,
-    "France 24 ES": 5.63,
-    "La Nación AR": 4.33,
-    "La Jornada MX": 4.69,
+    "El País": 4.97,
+    "elDiario.es": 4.95,
+    "El Mundo": 4.77,
+    "ABC": 4.85,
+    "El Confidencial": 5.23,
+    "BBC Mundo": 4.1,
+    "France 24 ES": 5.13,
+    "La Nación AR": 4.78,
+    "La Jornada MX": 5.26,
     "Desinformémonos": 3.97,
-    "Resumen Latinoam.": 5.04
+    "Resumen Latinoam.": 4.56
   },
   "articles": [
     {
@@ -110,28 +110,9 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Ir",
-      "score": 3.4,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Is",
+      "score": 4.89,
       "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Una semana de vértigo: de la amenaza de una vuelta a la guerra en Irán a la firm",
-      "score": 4.33,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
-        },
         {
           "word": "guerra",
           "score": -2
@@ -141,98 +122,91 @@
           "score": 1
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump dice que Netanyahu “no tiene una puta brizna de juicio” tras un bombardeo ",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "puta",
-          "score": -4
-        },
-        {
-          "word": "ataque",
+          "word": "ataques",
           "score": -1
         },
         {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "espera",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las claves del acuerdo entre Irán y Estados Unidos: 60 días para sellar la paz e",
+      "score": 5.27,
+      "words": [
+        {
           "word": "acuerdo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Emma Heming, esposa y cuidadora de Bruce Willis: “Necesitaba escuchar que podía ",
-      "score": 5.53,
-      "words": [
+        },
         {
-          "word": "ayuda",
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "fracaso",
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La frustración se instala en la sociedad israelí tras años de guerra permanente",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "frustración",
           "score": -2
         },
         {
-          "word": "importancia",
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Baltasar Garzón: “Un informe policial no debe contener juicios de valor para med",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "justicia",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "De ‘Pasapalabra’ a ‘Gran Hermano’: éxitos y fracasos de la temporada televisiva",
-      "score": 3.4,
+      "title": "Árboles contra el calor urbano: el 80% de los valencianos y el 60% de los madril",
+      "score": 6.2,
       "words": [
         {
-          "word": "fracasos",
-          "score": -2
+          "word": "calor",
+          "score": 2
         },
         {
-          "word": "disgusto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "36 fotos, 63 años: Demi Moore y su evolución de estilo desde sus años de ‘Ghost’",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "moda",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Qué diferencia hay entre una lata de atún claro, rojo y de bonito del norte?",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "claro",
+          "word": "aumentar",
           "score": 1
-        },
-        {
-          "word": "bonito",
-          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "Trump e Irán anuncian un acuerdo de paz",
-      "score": 5.35,
+      "score": 5.37,
       "words": [
         {
           "word": "acuerdo",
@@ -258,172 +232,222 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump censura el ataque de Israel sobre Beirut: \"No debería haberse producido, e",
-      "score": 5.09,
+      "title": "Albares exige que \"el alto el fuego alcance también al Líbano\" y propone una mis",
+      "score": 5.65,
       "words": [
         {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
+          "word": "fuego",
+          "score": -2
         },
         {
           "word": "paz",
           "score": 2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Israel vuelve a lanzar ataques contra zonas residenciales de Beirut ante la posi",
-      "score": 4.82,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
         },
         {
           "word": "fuego",
           "score": -2
         },
         {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué se sabe de la \"misión secreta\" de Trump para sacar petróleo por el estrecho ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "bloqueo",
-          "score": -1
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        },
-        {
-          "word": "disputa",
-          "score": -2
-        },
-        {
-          "word": "creciente",
-          "score": 1
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Suiza rechaza en referéndum limitar la inmigración y el asilo para frenar el cre",
-      "score": 5.33,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "crecimiento",
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "crecimiento",
+          "word": "paz",
           "score": 2
-        },
-        {
-          "word": "evitar",
-          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "No hay colonos que no violen el derecho internacional: la trampa del discurso de",
-      "score": 4.09,
+      "title": "Ormuz, el programa nuclear o los fondos embargados: qué sabemos del acuerdo entr",
+      "score": 4.92,
       "words": [
         {
-          "word": "derecho",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "trampa",
-          "score": -1
-        },
-        {
-          "word": "derecho",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "trampa",
-          "score": -1
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "solo",
+          "word": "guerra",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El viaje de la prueba clave contra Zapatero: de EEUU a la Audiencia Nacional",
-      "score": 4.78,
-      "words": [
-        {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "vil",
-          "score": -3
         },
         {
           "word": "pasado",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump ya tiene su baño de sangre en la Casa Blanca, con insultos a Michelle Obam",
+      "score": 4.79,
+      "words": [
+        {
+          "word": "insultos",
+          "score": -2
         },
         {
-          "word": "rescate",
+          "word": "insultos",
+          "score": -2
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "celebrar",
+          "score": 3
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La mayoría de los votantes del PSOE pide a Sánchez agotar la legislatura a pesar",
+      "score": 5.32,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "visiones",
+          "score": 1
+        },
+        {
+          "word": "adoptar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un correo incautado por la UCO acredita que Santos Cerdán pidió que el PSOE paga",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "favor",
           "score": 2
         },
         {
-          "word": "vil",
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Begoña Gómez comparece ante el juez Peinado con el riesgo de perder su pasaporte",
+      "score": 4.26,
+      "words": [
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "perder",
+          "score": -2
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "perder",
+          "score": -2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El calvario judicial para Sánchez en una semana: Zapatero y Begoña Gómez ante el",
+      "score": 4.5,
+      "words": [
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "delito",
           "score": -3
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        },
+        {
+          "word": "interrogatorio",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vuelve el meteorito",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "esperando",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "cargos",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-25T04:25:07Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-05-25T08:53:46Z",
       "score": 4.75
@@ -1091,6 +1115,10 @@
     {
       "timestamp": "2026-06-15T03:58:16Z",
       "score": 4.86
+    },
+    {
+      "timestamp": "2026-06-15T10:27:38Z",
+      "score": 4.79
     }
   ]
 }

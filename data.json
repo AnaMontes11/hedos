@@ -1,19 +1,19 @@
 {
-  "generated": "2026-06-16T03:47:12Z",
+  "generated": "2026-06-16T09:23:34Z",
   "global_score": 4.77,
-  "articles_scored": 83,
-  "words_matched": 243,
+  "articles_scored": 88,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "culo",
+      "word": "mierda",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
@@ -21,7 +21,7 @@
       "score": -4
     },
     {
-      "word": "retirada",
+      "word": "delitos",
       "score": -3
     },
     {
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "víctima",
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "falso",
       "score": -3
     }
   ],
@@ -43,15 +43,15 @@
       "score": 4
     },
     {
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
       "word": "euforia",
-      "score": 3
-    },
-    {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "admira",
       "score": 3
     },
     {
@@ -59,7 +59,7 @@
       "score": 3
     },
     {
-      "word": "alabanzas",
+      "word": "feliz",
       "score": 3
     },
     {
@@ -67,92 +67,31 @@
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.89,
-    "elDiario.es": 5.12,
-    "El Mundo": 4.98,
-    "ABC": 4.83,
-    "El Confidencial": 5.92,
+    "El País": 4.44,
+    "elDiario.es": 4.72,
+    "El Mundo": 5.09,
+    "ABC": 5.07,
+    "El Confidencial": 4.85,
     "BBC Mundo": 4.08,
-    "France 24 ES": 5.04,
-    "La Nación AR": 3.8,
+    "France 24 ES": 5.34,
+    "La Nación AR": 4.47,
     "La Jornada MX": 5.26,
     "Desinformémonos": 3.71,
-    "Resumen Latinoam.": 4.49
+    "Resumen Latinoam.": 5.0
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La resistencia de Israel siembra dudas sobre el futuro del pacto entre EE UU e I",
-      "score": 4.8,
+      "title": "El juez rechaza la petición de Zapatero de atrasar la declaración sobre las joya",
+      "score": 4.52,
       "words": [
         {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Ibex sube un 1,4% y supera los 19.000 puntos por primera vez en la historia",
-      "score": 5.6,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "deuda",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La acusación liderada por Hazte Oír pide retirarle el pasaporte a Begoña Gómez",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Zapatero pide aplazar su declaración sobre el origen de las joyas",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "aplazar",
+          "word": "rechaza",
           "score": -1
         },
         {
@@ -160,98 +99,260 @@
           "score": 1
         },
         {
-          "word": "delito",
+          "word": "retrasar",
+          "score": -1
+        },
+        {
+          "word": "delitos",
           "score": -3
         },
         {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La UCO multiplica sus sospechas sobre la cúpula de la Guardia Civil en el ‘caso ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Condenado a ocho años de prisión por agresión sexual el futbolista Rafa Mir",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "condenado",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Jonathan Andic al 112: “Ayuda, mi padre se ha caído”",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "caído",
-          "score": -2
-        },
-        {
-          "word": "desesperación",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cabo Verde pincha el globo de España",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "chispa",
+          "word": "joyas",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "De la Fuente: “Somos campeones de Europa, que nadie se olvide”",
-      "score": 6.6,
+      "title": "La izquierda recurre a los tribunales contra el proyecto de Ayuso de condicionar",
+      "score": 5.0,
       "words": [
         {
-          "word": "reivindica",
+          "word": "protesta",
+          "score": -2
+        },
+        {
+          "word": "aplaude",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Vozinha, el portero de Cabo Verde que frustró a España: de la pasión de un padre",
-      "score": 6.6,
+      "title": "La guerra entre Von der Leyen y Kallas socava la frágil diplomacia de la Unión E",
+      "score": 3.4,
       "words": [
         {
-          "word": "héroe",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "socava",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El fin de la guerra margina a Netanyahu",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "cumple",
           "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump negocia un acuerdo nuclear similar al que rompió en 2018 y con un Irán en ",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "rompió",
+          "score": -1
+        },
+        {
+          "word": "fuerza",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Prioridad regional",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "desprecio",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Una paradoja española",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "paradoja",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Mbappé, correr o no correr ante su debut en el Mundial",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "protege",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez Calama rechaza la petición de Zapatero de suspender su declaración por l",
+      "score": 4.87,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Pedraz retira a Urbán la condición de víctima en el caso del montaje de la coca ",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "víctima",
+          "score": -3
+        },
+        {
+          "word": "víctima",
+          "score": -3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "confidente",
+          "score": 2
+        },
+        {
+          "word": "disculpa",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El caso de la guerra sucia del PP contra Podemos: negativas de Pedraz a investig",
+      "score": 4.35,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La mayoría de votantes del PP apoya una moción de censura de Feijóo aunque se di",
+      "score": 5.63,
+      "words": [
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "impulsar",
+          "score": 1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La mayoría de los votantes del PSOE pide a Sánchez agotar la legislatura a pesar",
+      "score": 5.32,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "visiones",
+          "score": 1
+        },
+        {
+          "word": "adoptar",
+          "score": 1
         }
       ]
     },
@@ -284,118 +385,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero pide no declarar ante el juez sobre las joyas incautadas y hacerlo solo",
-      "score": 4.85,
+      "title": "Lo malo para el PSOE es que las cabras dejan mucho tiempo libre a Leire Díez",
+      "score": 5.08,
       "words": [
         {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un correo incautado por la UCO acredita que Santos Cerdán pidió que el PSOE paga",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las libretas de Cerdán incautadas por la UCO revelan su malestar con el fiscal g",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "choque",
-          "score": -2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "significativo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La mayoría de los votantes del PSOE pide a Sánchez agotar la legislatura a pesar",
-      "score": 5.32,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "delito",
+          "word": "malo",
           "score": -3
         },
         {
-          "word": "joyas",
-          "score": 1
+          "word": "tiempo",
+          "score": -2
         },
         {
-          "word": "visiones",
-          "score": 1
+          "word": "malo",
+          "score": -3
         },
         {
-          "word": "adoptar",
-          "score": 1
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "enemigos",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-25T19:25:42Z",
-      "score": 4.95
-    },
     {
       "timestamp": "2026-05-25T21:03:42Z",
       "score": 4.93
@@ -1062,6 +1078,10 @@
     },
     {
       "timestamp": "2026-06-16T03:47:12Z",
+      "score": 4.77
+    },
+    {
+      "timestamp": "2026-06-16T09:23:34Z",
       "score": 4.77
     }
   ]

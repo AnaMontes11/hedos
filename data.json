@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-16T19:30:51Z",
-  "global_score": 4.73,
-  "articles_scored": 91,
-  "words_matched": 235,
+  "generated": "2026-06-16T22:08:30Z",
+  "global_score": 4.74,
+  "articles_scored": 89,
+  "words_matched": 224,
   "top_negative": [
     {
       "word": "fraude",
@@ -14,10 +14,6 @@
     },
     {
       "word": "molesto",
-      "score": -4
-    },
-    {
-      "word": "torturas",
       "score": -4
     },
     {
@@ -35,9 +31,17 @@
     {
       "word": "cargado",
       "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "victorias",
       "score": 4
@@ -45,10 +49,6 @@
     {
       "word": "fantástico",
       "score": 4
-    },
-    {
-      "word": "bueno",
-      "score": 3
     },
     {
       "word": "euforia",
@@ -59,30 +59,30 @@
       "score": 3
     },
     {
-      "word": "alabado",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "alabado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.34,
-    "elDiario.es": 4.93,
-    "El Mundo": 3.84,
-    "ABC": 5.56,
+    "El País": 4.5,
+    "elDiario.es": 4.94,
+    "El Mundo": 3.76,
+    "ABC": 5.2,
     "El Confidencial": 5.44,
-    "BBC Mundo": 3.95,
-    "France 24 ES": 5.11,
-    "La Nación AR": 4.31,
+    "BBC Mundo": 3.77,
+    "France 24 ES": 4.98,
+    "La Nación AR": 4.84,
     "La Jornada MX": 4.83,
-    "Desinformémonos": 4.51,
-    "Resumen Latinoam.": 4.76
+    "Desinformémonos": 5.06,
+    "Resumen Latinoam.": 4.84
   },
   "articles": [
     {
@@ -140,17 +140,6 @@
       "words": [
         {
           "word": "condenado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Francia - Senegal, el partido del Mundial 2026 en directo | Nico Jackson dispara",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "delanteros",
           "score": -2
         }
       ]
@@ -288,6 +277,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Pradales sobre las investigaciones de corrupción en el entorno del PSOE: \"Hay co",
+      "score": 5.15,
+      "words": [
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "mejora",
+          "score": 2
+        },
+        {
+          "word": "problema",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Pedraz retira a Urbán la condición de víctima en el caso del montaje de la coca ",
       "score": 4.53,
       "words": [
@@ -310,33 +326,6 @@
         {
           "word": "disculpa",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Lo malo para el PSOE es que las cabras dejan mucho tiempo libre a Leire Díez",
-      "score": 5.08,
-      "words": [
-        {
-          "word": "malo",
-          "score": -3
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "malo",
-          "score": -3
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "enemigos",
-          "score": -3
         }
       ]
     },
@@ -393,13 +382,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Competencia investiga a Bankinter, Banco Santander, BBVA, Unicaja, CaixaBank y S",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "errores",
+          "score": -2
+        },
+        {
+          "word": "crítica",
+          "score": -2
+        },
+        {
+          "word": "errores",
+          "score": -2
+        },
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "culo",
+          "score": -4
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-26T00:09:52Z",
-      "score": 4.85
-    },
     {
       "timestamp": "2026-05-26T05:00:53Z",
       "score": 4.77
@@ -1067,6 +1079,10 @@
     {
       "timestamp": "2026-06-16T19:30:51Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-06-16T22:08:30Z",
+      "score": 4.74
     }
   ]
 }

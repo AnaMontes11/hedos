@@ -1,23 +1,15 @@
 {
-  "generated": "2026-06-17T21:02:55Z",
-  "global_score": 4.76,
-  "articles_scored": 88,
-  "words_matched": 211,
+  "generated": "2026-06-17T23:21:09Z",
+  "global_score": 4.83,
+  "articles_scored": 92,
+  "words_matched": 215,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraudulento",
-      "score": -4
-    },
-    {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "escoria",
       "score": -4
     },
     {
@@ -33,13 +25,41 @@
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "escándalos",
+      "score": -3
+    },
+    {
+      "word": "vil",
+      "score": -3
+    },
+    {
+      "word": "delito",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "leal",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "emoción",
+      "score": 3
+    },
+    {
+      "word": "caro",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     },
     {
@@ -47,42 +67,22 @@
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "mejor",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "claridad",
-      "score": 2
-    },
-    {
-      "word": "rico",
-      "score": 2
-    },
-    {
-      "word": "libertad",
-      "score": 2
     }
   ],
   "per_source": {
-    "El País": 4.38,
-    "elDiario.es": 4.88,
-    "El Mundo": 4.37,
-    "ABC": 4.39,
-    "El Confidencial": 5.58,
-    "BBC Mundo": 3.97,
-    "France 24 ES": 5.12,
-    "La Nación AR": 4.6,
+    "El País": 5.21,
+    "elDiario.es": 4.85,
+    "El Mundo": 4.53,
+    "ABC": 4.6,
+    "El Confidencial": 5.87,
+    "BBC Mundo": 3.8,
+    "France 24 ES": 5.08,
+    "La Nación AR": 4.55,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 5.14,
-    "Resumen Latinoam.": 5.15
+    "Desinformémonos": 5.55,
+    "Resumen Latinoam.": 4.57
   },
   "articles": [
     {
@@ -182,43 +182,35 @@
     },
     {
       "source": "El País",
-      "title": "Feijóo sube aún más los decibelios contra Sánchez:  le llama “cobarde” y dice qu",
-      "score": 3.4,
+      "title": "Feijóo no tiene caja fuerte pero sí ‘El Hormiguero’",
+      "score": 5.27,
       "words": [
         {
-          "word": "cobarde",
-          "score": -2
+          "word": "fuerte",
+          "score": 2
         },
         {
-          "word": "perder",
-          "score": -2
+          "word": "escándalos",
+          "score": -3
+        },
+        {
+          "word": "importante",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El PP usa la comparecencia de Marlaska por la muerte de dos guardias civiles par",
-      "score": 3.08,
+      "title": "Kane y Bellingham lanzan a Inglaterra ante Croacia",
+      "score": 7.0,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
+          "word": "triunfo",
+          "score": 4
         },
         {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "dolor",
-          "score": -2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "tragedia",
-          "score": -2
+          "word": "impulsado",
+          "score": 1
         }
       ]
     },
@@ -386,28 +378,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Del rescate de Plus Ultra a los pagos a sus hijas: Zapatero declara ante el juez",
-      "score": 4.91,
+      "title": "Feijóo carga contra Zapatero desde El Hormiguero: \"Quien blanquea una dictadura,",
+      "score": 4.57,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
+          "word": "carga",
+          "score": -2
         },
         {
-          "word": "delitos",
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "muerto",
           "score": -3
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "joyas",
+          "score": 1
         },
         {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "estable",
-          "score": 2
+          "word": "interrogatorio",
+          "score": -1
         }
       ]
     },
@@ -440,10 +432,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-27T03:31:53Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-05-27T08:00:21Z",
       "score": 4.78
@@ -1111,6 +1099,10 @@
     {
       "timestamp": "2026-06-17T21:02:55Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-17T23:21:09Z",
+      "score": 4.83
     }
   ]
 }

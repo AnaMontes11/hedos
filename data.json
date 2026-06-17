@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-17T15:19:52Z",
-  "global_score": 4.91,
-  "articles_scored": 88,
-  "words_matched": 212,
+  "generated": "2026-06-17T18:12:29Z",
+  "global_score": 4.92,
+  "articles_scored": 90,
+  "words_matched": 221,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "escoria",
       "score": -4
     },
     {
@@ -29,11 +33,7 @@
       "score": -3
     },
     {
-      "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "delito",
+      "word": "peor",
       "score": -3
     }
   ],
@@ -51,6 +51,10 @@
       "score": 3
     },
     {
+      "word": "premio",
+      "score": 3
+    },
+    {
       "word": "mejor",
       "score": 3
     },
@@ -59,30 +63,26 @@
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "vigilante",
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "popular",
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.0,
-    "elDiario.es": 4.78,
-    "El Mundo": 4.46,
-    "ABC": 4.67,
-    "El Confidencial": 5.53,
-    "BBC Mundo": 4.74,
-    "France 24 ES": 5.31,
-    "La Nación AR": 4.65,
+    "El País": 4.7,
+    "elDiario.es": 4.88,
+    "El Mundo": 4.15,
+    "ABC": 5.2,
+    "El Confidencial": 5.58,
+    "BBC Mundo": 4.54,
+    "France 24 ES": 4.56,
+    "La Nación AR": 5.64,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 5.39,
-    "Resumen Latinoam.": 4.8
+    "Desinformémonos": 5.14,
+    "Resumen Latinoam.": 5.28
   },
   "articles": [
     {
@@ -182,46 +182,61 @@
     },
     {
       "source": "El País",
-      "title": "El PP lleva al Senado la iniciativa para reclamar a Sánchez un adelanto electora",
-      "score": 7.4,
+      "title": "El PP usa la comparecencia de Marlaska por la muerte de dos guardias civiles par",
+      "score": 3.08,
       "words": [
         {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Aemet advierte de la llegada de la primera ola de calor del verano a España",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "advierte",
+          "word": "muerte",
           "score": -2
         },
         {
-          "word": "calor",
-          "score": 2
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "dolor",
+          "score": -2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "tragedia",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Leo Messi, el mito continúa con un triplete implacable a Argelia",
-      "score": 5.0,
+      "title": "Portugal - RD Congo, el partido del Mundial 2026 en directo| Comienza el segundo",
+      "score": 3.4,
       "words": [
         {
-          "word": "mito",
-          "score": -1
-        },
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Olise-Mbappé, la explosiva sociedad que no encontraba Didier Deschamps",
+      "score": 5.8,
+      "words": [
         {
-          "word": "implacable",
-          "score": -1
-        },
+          "word": "fácil",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Bangladés, donde hay más hinchas de Argentina que en la patria de Messi",
+      "score": 7.4,
+      "words": [
         {
-          "word": "cumplir",
-          "score": 2
+          "word": "celebrar",
+          "score": 3
         }
       ]
     },
@@ -335,33 +350,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Del rescate de Plus Ultra a los pagos a sus hijas: Zapatero declara ante el juez",
-      "score": 4.91,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "estable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Presunto Zapatero",
       "score": 4.57,
       "words": [
@@ -389,37 +377,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PSOE denuncia ante la Fiscalía una revelación de secretos por la publicación ",
-      "score": 3.47,
+      "title": "Del rescate de Plus Ultra a los pagos a sus hijas: Zapatero declara ante el juez",
+      "score": 4.91,
       "words": [
         {
-          "word": "denuncia",
-          "score": -2
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "denuncia",
-          "score": -2
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "daño",
-          "score": -2
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "denuncia",
-          "score": -2
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "estable",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-26T21:42:05Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-05-26T23:07:38Z",
       "score": 4.7
@@ -1087,6 +1071,10 @@
     {
       "timestamp": "2026-06-17T15:19:52Z",
       "score": 4.91
+    },
+    {
+      "timestamp": "2026-06-17T18:12:29Z",
+      "score": 4.92
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-17T06:07:18Z",
-  "global_score": 4.94,
-  "articles_scored": 85,
-  "words_matched": 263,
+  "generated": "2026-06-17T11:44:15Z",
+  "global_score": 4.89,
+  "articles_scored": 88,
+  "words_matched": 226,
   "top_negative": [
     {
       "word": "negro",
@@ -17,15 +17,7 @@
       "score": -4
     },
     {
-      "word": "puta",
-      "score": -4
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "violación",
+      "word": "infierno",
       "score": -4
     },
     {
@@ -35,35 +27,43 @@
     {
       "word": "criminal",
       "score": -3
+    },
+    {
+      "word": "retirada",
+      "score": -3
+    },
+    {
+      "word": "vil",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "inspirador",
+      "score": 3
+    },
+    {
+      "word": "leal",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
     },
     {
       "word": "euforia",
       "score": 3
     },
     {
-      "word": "exitoso",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "celebra",
+      "word": "caro",
       "score": 3
     },
     {
@@ -72,27 +72,58 @@
     }
   ],
   "per_source": {
-    "El País": 4.47,
-    "elDiario.es": 4.49,
-    "El Mundo": 4.97,
-    "ABC": 5.73,
-    "El Confidencial": 5.36,
-    "BBC Mundo": 4.56,
+    "El País": 5.23,
+    "elDiario.es": 5.04,
+    "El Mundo": 3.97,
+    "ABC": 5.05,
+    "El Confidencial": 5.23,
+    "BBC Mundo": 4.55,
     "France 24 ES": 5.01,
-    "La Nación AR": 4.36,
-    "La Jornada MX": 4.83,
+    "La Nación AR": 5.0,
+    "La Jornada MX": 4.75,
     "Desinformémonos": 5.06,
-    "Resumen Latinoam.": 5.05
+    "Resumen Latinoam.": 5.07
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Zapatero declara ante el juez para “defender su inocencia” en medio de una gran ",
-      "score": 5.0,
+      "title": "Declaración de Zapatero por el ‘caso Plus Ultra’, en directo | Zapatero se decla",
+      "score": 4.89,
       "words": [
         {
-          "word": "presión",
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "duda",
           "score": -1
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "fuga",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Zapatero asegura ante el juez que nunca influyó en el rescate de Plus Ultra y no",
+      "score": 6.33,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
         },
         {
           "word": "joyas",
@@ -102,9 +133,21 @@
     },
     {
       "source": "El País",
-      "title": "¿Por qué se investiga a Zapatero, cuáles son los delitos y quiénes son los princ",
-      "score": 2.6,
+      "title": "Comunicado íntegro de Zapatero tras declarar ante el juez: “Pido confianza. La v",
+      "score": 4.6,
       "words": [
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
         {
           "word": "delitos",
           "score": -3
@@ -113,27 +156,42 @@
     },
     {
       "source": "El País",
-      "title": "Pedro Sánchez mantiene el apoyo a la directora de la Guardia Civil porque cree q",
-      "score": 5.4,
+      "title": "Feijóo sube aún más el diapasón contra Sánchez: “No es demócrata” sino “cobarde”",
+      "score": 3.4,
       "words": [
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "cobarde",
+          "score": -2
         },
         {
-          "word": "espera",
-          "score": -1
+          "word": "perder",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Sí, se pueden climatizar las escuelas: Barcelona ya ha refrigerado 84 con fondos",
-      "score": 4.2,
+      "title": "El PP lleva al Senado la iniciativa para reclamar a Sánchez un adelanto electora",
+      "score": 7.4,
       "words": [
         {
-          "word": "impuesto",
-          "score": -1
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La Aemet advierte de la llegada de la primera ola de calor del verano a España",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "calor",
+          "score": 2
         }
       ]
     },
@@ -157,269 +215,223 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Todo el ruido en Portugal gira en torno a Cristiano Ronaldo",
-      "score": 4.6,
+      "source": "elDiario.es",
+      "title": "La Fiscalía pide al juez que retire el pasaporte a Zapatero y que comparezca cad",
+      "score": 5.55,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "adoptar",
+          "score": 1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "interrogatorio",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero defiende ante el juez que no ejerció ninguna influencia para favorecer ",
+      "score": 5.36,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero, tras declarar ante el juez: \"Soy completamente inocente y les pido con",
+      "score": 5.22,
       "words": [
         {
           "word": "confianza",
           "score": 1
         },
         {
-          "word": "débil",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Del rescate de Plus Ultra a los pagos a sus hijas: Zapatero tendrá que declarar ",
-      "score": 4.91,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
+          "word": "confianza",
+          "score": 1
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "activo",
+          "score": 2
         },
         {
           "word": "rescate",
           "score": 2
         },
         {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "estable",
+          "word": "justicia",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Entre Leire Díez y Antonio Balas, la directora de la Guardia Civil no tiene duda",
-      "score": 4.22,
+      "title": "Del rescate de Plus Ultra a los pagos a sus hijas: Zapatero declara ante el juez",
+      "score": 4.86,
       "words": [
         {
-          "word": "dudas",
-          "score": -1
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "niega",
+          "word": "acusado",
           "score": -2
         },
         {
-          "word": "niega",
-          "score": -2
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "tiempo",
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "acusado",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La directora de la Guardia Civil niega haber colaborado con Leire Díez: \"Jamás p",
-      "score": 4.53,
+      "title": "El PSOE mantiene su apoyo a Zapatero tras declarar ante el juez: \"Su legado está",
+      "score": 6.15,
       "words": [
         {
-          "word": "niega",
-          "score": -2
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "niega",
-          "score": -2
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "rechaza",
-          "score": -1
+          "word": "respalda",
+          "score": 2
         },
         {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "ora",
+          "word": "confianza",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La jueza de la dana abre la puerta a citar a más consellers de Mazón tras el com",
-      "score": 4.49,
-      "words": [
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "negado",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La jueza de la dana reprocha al abogado y 'youtuber' Rubén Gisbert que no sepa n",
-      "score": 4.27,
-      "words": [
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "alerta",
-          "score": -1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "ignorancia",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Investigadores de Antifraude visitaron una a una las obras del teniente coronel ",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Asuntos Internos de la Guardia Civil acusa a un teniente coronel de liderar una ",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "A España le faltan datos sobre condenas por violación: \"Se recogen menos sentenc",
-      "score": 4.31,
-      "words": [
-        {
-          "word": "violación",
-          "score": -4
-        },
-        {
-          "word": "violación",
-          "score": -4
         },
         {
           "word": "justicia",
           "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La victoria de Nuria: la Justicia sentencia que las aseguradoras no pueden exclu",
-      "score": 4.08,
+      "title": "El PNV pide a Sánchez que convoque elecciones si no logra aprobar los Presupuest",
+      "score": 4.74,
       "words": [
         {
-          "word": "justicia",
+          "word": "logra",
           "score": 2
         },
         {
-          "word": "sentencia",
+          "word": "logra",
+          "score": 2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "grave",
           "score": -2
         },
         {
-          "word": "excluir",
+          "word": "niega",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP lleva al Senado la votación para pedir elecciones vetada por el Congreso",
+      "score": 5.19,
+      "words": [
+        {
+          "word": "evitar",
           "score": -1
         },
         {
-          "word": "suicidio",
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "celebrar",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un ciberataque filtra los datos personales de Leire Díez, Aldama, Koldo y otros ",
+      "score": 4.07,
+      "words": [
+        {
+          "word": "expuesto",
+          "score": -1
+        },
+        {
+          "word": "avanzado",
+          "score": 1
+        },
+        {
+          "word": "insultos",
           "score": -2
         },
         {
-          "word": "accidentes",
+          "word": "insultos",
           "score": -2
+        },
+        {
+          "word": "tipo",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-26T16:40:13Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-05-26T19:17:28Z",
       "score": 4.7
@@ -1087,6 +1099,10 @@
     {
       "timestamp": "2026-06-17T06:07:18Z",
       "score": 4.94
+    },
+    {
+      "timestamp": "2026-06-17T11:44:15Z",
+      "score": 4.89
     }
   ]
 }

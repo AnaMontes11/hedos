@@ -1,15 +1,15 @@
 {
-  "generated": "2026-06-17T00:13:29Z",
-  "global_score": 4.61,
+  "generated": "2026-06-17T06:07:18Z",
+  "global_score": 4.94,
   "articles_scored": 85,
-  "words_matched": 231,
+  "words_matched": 263,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraude",
+      "word": "fraudulento",
       "score": -4
     },
     {
@@ -17,69 +17,69 @@
       "score": -4
     },
     {
-      "word": "molesto",
+      "word": "puta",
       "score": -4
     },
     {
-      "word": "fiasco",
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "pierde",
-      "score": -3
-    },
-    {
-      "word": "muerto",
-      "score": -3
-    },
-    {
-      "word": "cargado",
+      "word": "criminal",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "euforia",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "exitoso",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "feliz",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "alabado",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.5,
-    "elDiario.es": 4.94,
-    "El Mundo": 3.7,
-    "ABC": 4.94,
-    "El Confidencial": 5.38,
-    "BBC Mundo": 3.87,
-    "France 24 ES": 3.87,
-    "La Nación AR": 4.1,
+    "El País": 4.47,
+    "elDiario.es": 4.49,
+    "El Mundo": 4.97,
+    "ABC": 5.73,
+    "El Confidencial": 5.36,
+    "BBC Mundo": 4.56,
+    "France 24 ES": 5.01,
+    "La Nación AR": 4.36,
     "La Jornada MX": 4.83,
     "Desinformémonos": 5.06,
     "Resumen Latinoam.": 5.05
@@ -87,110 +87,141 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Mercedes González niega haber participado en una trama contra la UCO o estar inf",
-      "score": 3.8,
+      "title": "Zapatero declara ante el juez para “defender su inocencia” en medio de una gran ",
+      "score": 5.0,
       "words": [
         {
-          "word": "niega",
-          "score": -2
+          "word": "presión",
+          "score": -1
         },
         {
-          "word": "evita",
+          "word": "joyas",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Por qué se investiga a Zapatero, cuáles son los delitos y quiénes son los princ",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Pedro Sánchez mantiene el apoyo a la directora de la Guardia Civil porque cree q",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "espera",
           "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La Mesa del Congreso impide que se voten las enmiendas de PP y Junts para reclam",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La CEOE sale en tromba contra el absentismo: pide que la Seguridad Social costee",
+      "title": "Sí, se pueden climatizar las escuelas: Barcelona ya ha refrigerado 84 con fondos",
       "score": 4.2,
       "words": [
         {
-          "word": "limitación",
+          "word": "impuesto",
           "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El juez ordena detener a Mouliaá por no comparecer por la querella que Errejón l",
-      "score": 4.2,
+      "title": "Leo Messi, el mito continúa con un triplete implacable a Argelia",
+      "score": 5.0,
       "words": [
         {
-          "word": "detener",
+          "word": "mito",
           "score": -1
+        },
+        {
+          "word": "implacable",
+          "score": -1
+        },
+        {
+          "word": "cumplir",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Condenado un hombre en Suecia a cuatro años y medio de cárcel por prostituir a s",
-      "score": 3.4,
+      "title": "Todo el ruido en Portugal gira en torno a Cristiano Ronaldo",
+      "score": 4.6,
       "words": [
         {
-          "word": "condenado",
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "débil",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Lamine Yamal contra el pasado",
-      "score": 4.0,
+      "source": "elDiario.es",
+      "title": "Del rescate de Plus Ultra a los pagos a sus hijas: Zapatero tendrá que declarar ",
+      "score": 4.91,
       "words": [
         {
-          "word": "pasado",
-          "score": -1
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "fiasco",
+          "word": "delitos",
           "score": -3
         },
         {
-          "word": "pierde",
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "delitos",
           "score": -3
         },
         {
-          "word": "optimismo",
+          "word": "estable",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "PSOE y Sumar vetan la moción de Junts y el PP para que el Congreso vote si exige",
-      "score": 5.53,
+      "title": "Entre Leire Díez y Antonio Balas, la directora de la Guardia Civil no tiene duda",
+      "score": 4.22,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "rechazar",
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "debilidad",
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "niega",
+          "score": -2
         },
         {
-          "word": "confianza",
-          "score": 1
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
@@ -223,199 +254,168 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez ordena detener a Elisa Mouliaá tras no comparecer en la causa por las pr",
-      "score": 4.2,
+      "title": "La jueza de la dana abre la puerta a citar a más consellers de Mazón tras el com",
+      "score": 4.49,
       "words": [
         {
-          "word": "detener",
-          "score": -1
-        },
-        {
-          "word": "detener",
-          "score": -1
-        },
-        {
-          "word": "advierte",
+          "word": "emergencia",
           "score": -2
         },
         {
-          "word": "delito",
-          "score": -3
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "negado",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La jueza de la dana reprocha al abogado y 'youtuber' Rubén Gisbert que no sepa n",
+      "score": 4.27,
+      "words": [
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "ignorancia",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Investigadores de Antifraude visitaron una a una las obras del teniente coronel ",
+      "score": 4.52,
+      "words": [
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Asuntos Internos de la Guardia Civil acusa a un teniente coronel de liderar una ",
+      "score": 5.11,
+      "words": [
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "A España le faltan datos sobre condenas por violación: \"Se recogen menos sentenc",
+      "score": 4.31,
+      "words": [
+        {
+          "word": "violación",
+          "score": -4
+        },
+        {
+          "word": "violación",
+          "score": -4
         },
         {
           "word": "justicia",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Calama rechaza la petición de Zapatero de suspender su declaración por l",
-      "score": 4.87,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
         },
         {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "suspender",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Pradales sobre las investigaciones de corrupción en el entorno del PSOE: \"Hay co",
-      "score": 5.15,
-      "words": [
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "mejora",
-          "score": 2
-        },
-        {
-          "word": "problema",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Pedraz retira a Urbán la condición de víctima en el caso del montaje de la coca ",
-      "score": 4.53,
-      "words": [
-        {
-          "word": "víctima",
+          "word": "delitos",
           "score": -3
         },
         {
-          "word": "víctima",
+          "word": "delitos",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La victoria de Nuria: la Justicia sentencia que las aseguradoras no pueden exclu",
+      "score": 4.08,
+      "words": [
+        {
+          "word": "justicia",
+          "score": 2
         },
         {
-          "word": "rechaza",
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "excluir",
           "score": -1
         },
         {
-          "word": "confidente",
-          "score": 2
-        },
-        {
-          "word": "disculpa",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los empresarios piden que las mutuas den el alta médica y recuperar el despido p",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "enfermedad",
+          "word": "suicidio",
           "score": -2
         },
         {
-          "word": "mancha",
-          "score": 2
-        },
-        {
-          "word": "lanzado",
-          "score": 1
-        },
-        {
-          "word": "problema",
+          "word": "accidentes",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El presidente de CEOE en Castilla-La Mancha llama \"memos\" a los jóvenes que pide",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "mancha",
-          "score": 2
-        },
-        {
-          "word": "mancha",
-          "score": 2
-        },
-        {
-          "word": "incapacidad",
-          "score": -2
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "alarmistas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Competencia investiga a Bankinter, Banco Santander, BBVA, Unicaja, CaixaBank y S",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "errores",
-          "score": -2
-        },
-        {
-          "word": "crítica",
-          "score": -2
-        },
-        {
-          "word": "errores",
-          "score": -2
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "culo",
-          "score": -4
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-26T09:50:32Z",
-      "score": 4.49
-    },
     {
       "timestamp": "2026-05-26T16:40:13Z",
       "score": 4.78
@@ -1083,6 +1083,10 @@
     {
       "timestamp": "2026-06-17T00:13:29Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-06-17T06:07:18Z",
+      "score": 4.94
     }
   ]
 }

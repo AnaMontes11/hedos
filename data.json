@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-16T22:08:30Z",
-  "global_score": 4.74,
-  "articles_scored": 89,
-  "words_matched": 224,
+  "generated": "2026-06-17T00:13:29Z",
+  "global_score": 4.61,
+  "articles_scored": 85,
+  "words_matched": 231,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -31,27 +35,19 @@
     {
       "word": "cargado",
       "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "fantástico",
-      "score": 4
-    },
-    {
       "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
+      "score": 3
+    },
+    {
+      "word": "amor",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "alabado",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
     "El País": 4.5,
     "elDiario.es": 4.94,
-    "El Mundo": 3.76,
-    "ABC": 5.2,
-    "El Confidencial": 5.44,
-    "BBC Mundo": 3.77,
-    "France 24 ES": 4.98,
-    "La Nación AR": 4.84,
+    "El Mundo": 3.7,
+    "ABC": 4.94,
+    "El Confidencial": 5.38,
+    "BBC Mundo": 3.87,
+    "France 24 ES": 3.87,
+    "La Nación AR": 4.1,
     "La Jornada MX": 4.83,
     "Desinformémonos": 5.06,
-    "Resumen Latinoam.": 4.84
+    "Resumen Latinoam.": 5.05
   },
   "articles": [
     {
@@ -412,10 +412,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-26T05:00:53Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-05-26T09:50:32Z",
       "score": 4.49
@@ -1083,6 +1079,10 @@
     {
       "timestamp": "2026-06-16T22:08:30Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-06-17T00:13:29Z",
+      "score": 4.61
     }
   ]
 }

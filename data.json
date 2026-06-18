@@ -1,28 +1,28 @@
 {
-  "generated": "2026-06-18T12:22:26Z",
-  "global_score": 4.9,
-  "articles_scored": 91,
-  "words_matched": 240,
+  "generated": "2026-06-18T16:27:43Z",
+  "global_score": 4.8,
+  "articles_scored": 87,
+  "words_matched": 202,
   "top_negative": [
-    {
-      "word": "puto",
-      "score": -5
-    },
     {
       "word": "negro",
       "score": -5
-    },
-    {
-      "word": "culo",
-      "score": -4
     },
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "culo",
       "score": -4
+    },
+    {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "fiasco",
+      "score": -3
     },
     {
       "word": "delitos",
@@ -33,29 +33,21 @@
       "score": -3
     },
     {
-      "word": "fiasco",
+      "word": "delito",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "victorias",
       "score": 4
     },
     {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "felicidad",
-      "score": 3
-    },
-    {
-      "word": "euforia",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "mejor",
       "score": 3
     },
     {
@@ -63,7 +55,15 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
+    },
+    {
+      "word": "popular",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 3.93,
-    "elDiario.es": 4.94,
-    "El Mundo": 4.99,
-    "ABC": 4.97,
-    "El Confidencial": 4.42,
-    "BBC Mundo": 5.07,
-    "France 24 ES": 4.57,
-    "La Nación AR": 6.26,
+    "El País": 5.12,
+    "elDiario.es": 4.93,
+    "El Mundo": 5.01,
+    "ABC": 4.63,
+    "El Confidencial": 4.33,
+    "BBC Mundo": 4.95,
+    "France 24 ES": 4.31,
+    "La Nación AR": 4.48,
     "La Jornada MX": 4.98,
-    "Desinformémonos": 5.47,
-    "Resumen Latinoam.": 4.35
+    "Desinformémonos": 5.15,
+    "Resumen Latinoam.": 5.0
   },
   "articles": [
     {
@@ -98,30 +98,23 @@
     },
     {
       "source": "El País",
-      "title": "Los expertos ven poco recorrido penal a las joyas de Zapatero si se acredita que",
-      "score": 5.0,
+      "title": "Última hora de la actualidad política, en directo | Sánchez, sobre la imputación",
+      "score": 4.8,
       "words": [
         {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "regalo",
+          "word": "apoyo",
           "score": 2
         },
         {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Hacienda abrió una investigación al ejecutivo de Quirón y jefe de la pareja de A",
-      "score": 2.6,
-      "words": [
+          "word": "asegura",
+          "score": 2
+        },
         {
-          "word": "soborno",
+          "word": "injusto",
+          "score": -2
+        },
+        {
+          "word": "ilegal",
           "score": -3
         }
       ]
@@ -150,66 +143,39 @@
     },
     {
       "source": "El País",
-      "title": "El genio de Leo Messi enciende el Mundial después de días de polémicas ajenas al",
+      "title": "Mundial 2026: Programa ‘Fútbol chapa’ | Claves de la exhibición de Inglaterra y ",
+      "score": 8.2,
+      "words": [
+        {
+          "word": "victorias",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un informe de Hacienda revela que la pareja de Ayuso facturó 4,4 millones a Quir",
       "score": 3.4,
       "words": [
         {
-          "word": "monopolizado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Calama imputa a las hijas y a la secretaria de Zapatero",
-      "score": 5.24,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "puesto",
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "ausencia",
-          "score": -2
+          "word": "fraude",
+          "score": -4
         },
         {
-          "word": "rechaza",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las respuestas de Zapatero no despejan las sospechas del juez sobre los cobros d",
-      "score": 5.21,
-      "words": [
-        {
-          "word": "aclara",
-          "score": 2
-        },
-        {
-          "word": "dudas",
+          "word": "impuesto",
           "score": -1
         },
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "delito",
+          "word": "delitos",
           "score": -3
         },
         {
-          "word": "oportunidad",
-          "score": 2
+          "word": "suspender",
+          "score": -1
         }
       ]
     },
@@ -269,20 +235,43 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La pareja de Pérez Llorca renuncia a renovar la comisión de servicio en la Diput",
-      "score": 4.33,
+      "title": "Miguel Ángel Rodríguez sale en defensa de la pareja de Ayuso con ataques a la Ag",
+      "score": 4.0,
       "words": [
         {
-          "word": "renuncia",
+          "word": "ataques",
           "score": -1
         },
         {
-          "word": "renuncia",
+          "word": "ataques",
           "score": -1
         },
         {
-          "word": "puesto",
+          "word": "niega",
           "score": -2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez Calama imputa a las hijas y a la secretaria de Zapatero",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "proteger",
+          "score": 1
         },
         {
           "word": "pasado",
@@ -291,123 +280,150 @@
         {
           "word": "puesto",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un Trump desesperado por salir de la guerra llena de cesiones su acuerdo con Irá",
-      "score": 4.93,
-      "words": [
-        {
-          "word": "desesperado",
-          "score": -3
         },
         {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "desesperado",
-          "score": -3
-        },
-        {
-          "word": "guerra",
+          "word": "ausencia",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Trump y Pezeshkian estampan su firma y el acuerdo de paz entre Irán y EEUU entra",
-      "score": 5.22,
+      "title": "Las respuestas de Zapatero no despejan las sospechas del juez sobre los cobros d",
+      "score": 5.21,
       "words": [
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
+          "word": "aclara",
           "score": 2
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Estos son los 14 puntos del acuerdo entre Irán y EEUU",
-      "score": 5.38,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "desesperado",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Israel ataca Líbano horas después de la firma del acuerdo entre Irán y EEUU que ",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "detener",
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "celebra",
-          "score": 3
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "acuerdo",
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "oportunidad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Audiencia Nacional desoye a Zapatero y de momento no pedirá más información a",
+      "score": 4.85,
+      "words": [
+        {
+          "word": "ampliar",
           "score": 1
         },
         {
-          "word": "paz",
+          "word": "ampliar",
+          "score": 1
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "bueno",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Pedro Sánchez insiste en que Zapatero cuenta con \"su respaldo, empatía y el apoy",
+      "score": 5.45,
+      "words": [
+        {
+          "word": "apoyo",
           "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "proteger",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "PNV y Junts confirman su apoyo al decreto de entregas a cuenta y permitirán que ",
+      "score": 5.93,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "rechazado",
+          "score": -1
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "debilidad",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo arenga al PNV y Junts a apoyarle en una moción de censura contra Pedro Sá",
+      "score": 5.74,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "ignora",
+          "score": -1
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "unirse",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-27T21:51:38Z",
-      "score": 4.46
-    },
     {
       "timestamp": "2026-05-27T23:14:20Z",
       "score": 4.43
@@ -1075,6 +1091,10 @@
     {
       "timestamp": "2026-06-18T12:22:26Z",
       "score": 4.9
+    },
+    {
+      "timestamp": "2026-06-18T16:27:43Z",
+      "score": 4.8
     }
   ]
 }

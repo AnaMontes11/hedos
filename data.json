@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-18T19:25:09Z",
-  "global_score": 4.75,
-  "articles_scored": 87,
-  "words_matched": 195,
+  "generated": "2026-06-18T22:04:39Z",
+  "global_score": 4.93,
+  "articles_scored": 88,
+  "words_matched": 201,
   "top_negative": [
     {
       "word": "negro",
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
-      "word": "odio",
-      "score": -3
-    },
-    {
       "word": "vil",
       "score": -3
     },
     {
       "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "soborno",
       "score": -3
     }
   ],
@@ -43,46 +43,46 @@
       "score": 5
     },
     {
-      "word": "emocionante",
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "feliz",
       "score": 3
     },
     {
-      "word": "delicias",
+      "word": "felicidad",
       "score": 3
     },
     {
-      "word": "ventilador",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "premios",
       "score": 3
     },
     {
       "word": "sentido",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.0,
-    "elDiario.es": 4.94,
-    "El Mundo": 4.84,
-    "ABC": 5.36,
+    "El País": 5.67,
+    "elDiario.es": 4.96,
+    "El Mundo": 5.1,
+    "ABC": 4.79,
     "El Confidencial": 4.13,
-    "BBC Mundo": 4.95,
-    "France 24 ES": 5.02,
-    "La Nación AR": 3.83,
+    "BBC Mundo": 4.45,
+    "France 24 ES": 5.33,
+    "La Nación AR": 5.37,
     "La Jornada MX": 4.98,
     "Desinformémonos": 4.33,
-    "Resumen Latinoam.": 4.56
+    "Resumen Latinoam.": 5.13
   },
   "articles": [
     {
@@ -92,6 +92,17 @@
       "words": [
         {
           "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Zapatero reconoció “una gestión” con el banco Santander para que atendieran a Pl",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "importancia",
           "score": 2
         }
       ]
@@ -113,23 +124,27 @@
     },
     {
       "source": "El País",
-      "title": "El juez del ‘caso Plus Ultra’ cita como imputadas a las hijas y a la secretaria ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El tremendo fiasco de Trump con la piscina reflectante del Monumento a Lincoln: ",
       "score": 2.6,
       "words": [
         {
           "word": "fiasco",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Manzambi y Vargas destrozan a Bosnia e impulsan a Suiza",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
         }
       ]
     },
@@ -205,7 +220,7 @@
     {
       "source": "elDiario.es",
       "title": "Zapatero negó conocer la creación de una sociedad en Dubái: \"Jamás en mi vida he",
-      "score": 5.63,
+      "score": 5.85,
       "words": [
         {
           "word": "importante",
@@ -390,40 +405,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "PNV y Junts confirman su apoyo al decreto de entregas a cuenta y permitirán que ",
-      "score": 5.93,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "rechazado",
-          "score": -1
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "debilidad",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-28T02:51:56Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-05-28T06:52:42Z",
       "score": 4.71
@@ -1091,6 +1075,10 @@
     {
       "timestamp": "2026-06-18T19:25:09Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-06-18T22:04:39Z",
+      "score": 4.93
     }
   ]
 }

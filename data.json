@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-18T16:27:43Z",
-  "global_score": 4.8,
+  "generated": "2026-06-18T19:25:09Z",
+  "global_score": 4.75,
   "articles_scored": 87,
-  "words_matched": 202,
+  "words_matched": 195,
   "top_negative": [
     {
       "word": "negro",
@@ -13,27 +13,27 @@
       "score": -4
     },
     {
-      "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
       "word": "fiasco",
       "score": -3
     },
     {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "soborno",
-      "score": -3
-    },
-    {
       "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "malo",
+      "score": -3
+    },
+    {
+      "word": "odio",
+      "score": -3
+    },
+    {
+      "word": "vil",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     }
   ],
@@ -43,23 +43,19 @@
       "score": 5
     },
     {
-      "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "mejor",
+      "word": "emocionante",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "delicias",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "ventilador",
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "sentido",
       "score": 3
     },
     {
@@ -67,24 +63,54 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "mayor",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.12,
-    "elDiario.es": 4.93,
-    "El Mundo": 5.01,
-    "ABC": 4.63,
-    "El Confidencial": 4.33,
+    "El País": 5.0,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.84,
+    "ABC": 5.36,
+    "El Confidencial": 4.13,
     "BBC Mundo": 4.95,
-    "France 24 ES": 4.31,
-    "La Nación AR": 4.48,
+    "France 24 ES": 5.02,
+    "La Nación AR": 3.83,
     "La Jornada MX": 4.98,
-    "Desinformémonos": 5.15,
-    "Resumen Latinoam.": 5.0
+    "Desinformémonos": 4.33,
+    "Resumen Latinoam.": 4.56
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Los audios de la declaración de Zapatero ante el juez: “Yo no he ejercido ningun",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sánchez arropa a Zapatero, sus hijas y su secretaria: “Tienen el respaldo y la e",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "El juez del ‘caso Plus Ultra’ cita como imputadas a las hijas y a la secretaria ",
@@ -93,40 +119,6 @@
         {
           "word": "rechaza",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Sánchez, sobre la imputación",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "injusto",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los ricos latinos hacen las maletas: adiós barrio Salamanca, hola La Moraleja",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "deseo",
-          "score": 1
         }
       ]
     },
@@ -143,120 +135,97 @@
     },
     {
       "source": "El País",
-      "title": "Mundial 2026: Programa ‘Fútbol chapa’ | Claves de la exhibición de Inglaterra y ",
-      "score": 8.2,
+      "title": "Luis Díaz ilumina el regreso de Colombia al Mundial",
+      "score": 7.0,
       "words": [
         {
-          "word": "victorias",
-          "score": 4
+          "word": "ilumina",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Un informe de Hacienda revela que la pareja de Ayuso facturó 4,4 millones a Quir",
-      "score": 3.4,
+      "title": "Los audios de la declaración de Zapatero ante el juez: \"No intervine en el resca",
+      "score": 5.33,
       "words": [
         {
-          "word": "advierte",
-          "score": -2
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "fraude",
-          "score": -4
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "impuesto",
+          "word": "interrogatorio",
           "score": -1
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "suspender",
+          "word": "interrogatorio",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La UCO advierte de que una empresa de la pareja de Ayuso facturó a Quirón por tr",
-      "score": 4.89,
+      "title": "Pedro Sánchez insiste en que Zapatero cuenta con \"su respaldo, empatía y el apoy",
+      "score": 5.55,
       "words": [
         {
-          "word": "advierte",
-          "score": -2
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "advierte",
-          "score": -2
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "soborno",
-          "score": -3
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "sentido",
+          "word": "celebra",
           "score": 3
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Hacienda investiga a un directivo de Quirón por el supuesto reparto de una comis",
-      "score": 4.54,
+      "title": "Zapatero negó conocer la creación de una sociedad en Dubái: \"Jamás en mi vida he",
+      "score": 5.63,
       "words": [
         {
-          "word": "advierte",
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "cobrar",
           "score": -2
         },
         {
-          "word": "favorecido",
+          "word": "rescate",
           "score": 2
         },
         {
-          "word": "impuesto",
-          "score": -1
-        },
-        {
-          "word": "gloria",
+          "word": "responsable",
           "score": 2
         },
         {
-          "word": "fraude",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Miguel Ángel Rodríguez sale en defensa de la pareja de Ayuso con ataques a la Ag",
-      "score": 4.0,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "niega",
+          "word": "cobrar",
           "score": -2
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "asegurado",
-          "score": 2
         }
       ]
     },
@@ -289,33 +258,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Las respuestas de Zapatero no despejan las sospechas del juez sobre los cobros d",
-      "score": 5.21,
-      "words": [
-        {
-          "word": "aclara",
-          "score": 2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "La Audiencia Nacional desoye a Zapatero y de momento no pedirá más información a",
       "score": 4.85,
       "words": [
@@ -343,28 +285,109 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Pedro Sánchez insiste en que Zapatero cuenta con \"su respaldo, empatía y el apoy",
-      "score": 5.45,
+      "title": "Un informe de Hacienda revela que la pareja de Ayuso facturó 4,4 millones a Quir",
+      "score": 3.4,
       "words": [
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "advierte",
+          "score": -2
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "fraude",
+          "score": -4
         },
         {
-          "word": "pasado",
+          "word": "impuesto",
           "score": -1
         },
         {
-          "word": "proteger",
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Hacienda investiga a un directivo de Quirón por el supuesto reparto de una comis",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "favorecido",
+          "score": 2
+        },
+        {
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "gloria",
+          "score": 2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La UCO advierte de que una empresa de la pareja de Ayuso facturó a Quirón por tr",
+      "score": 4.89,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Miguel Ángel Rodríguez sale en defensa de la pareja de Ayuso con ataques a la Ag",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "claro",
           "score": 1
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "asegurado",
+          "score": 2
         }
       ]
     },
@@ -394,40 +417,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo arenga al PNV y Junts a apoyarle en una moción de censura contra Pedro Sá",
-      "score": 5.74,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "ignora",
-          "score": -1
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "unirse",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-27T23:14:20Z",
-      "score": 4.43
-    },
     {
       "timestamp": "2026-05-28T02:51:56Z",
       "score": 4.74
@@ -1095,6 +1087,10 @@
     {
       "timestamp": "2026-06-18T16:27:43Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-06-18T19:25:09Z",
+      "score": 4.75
     }
   ]
 }

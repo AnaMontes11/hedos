@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-18T08:43:08Z",
-  "global_score": 4.72,
-  "articles_scored": 90,
-  "words_matched": 283,
+  "generated": "2026-06-18T12:22:26Z",
+  "global_score": 4.9,
+  "articles_scored": 91,
+  "words_matched": 240,
   "top_negative": [
+    {
+      "word": "puto",
+      "score": -5
+    },
     {
       "word": "negro",
       "score": -5
@@ -13,11 +17,11 @@
       "score": -4
     },
     {
-      "word": "torturas",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "violación",
       "score": -4
     },
     {
@@ -25,29 +29,25 @@
       "score": -3
     },
     {
-      "word": "atropello",
+      "word": "soborno",
       "score": -3
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "perdió",
+      "word": "fiasco",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "riqueza",
       "score": 3
     },
     {
-      "word": "leal",
-      "score": 3
-    },
-    {
-      "word": "vibrante",
+      "word": "felicidad",
       "score": 3
     },
     {
@@ -55,36 +55,47 @@
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "caro",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "mejor",
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.6,
-    "elDiario.es": 4.98,
-    "El Mundo": 4.77,
-    "ABC": 4.86,
-    "El Confidencial": 4.78,
-    "BBC Mundo": 4.02,
-    "France 24 ES": 4.6,
-    "La Nación AR": 5.24,
-    "La Jornada MX": 4.75,
+    "El País": 3.93,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.99,
+    "ABC": 4.97,
+    "El Confidencial": 4.42,
+    "BBC Mundo": 5.07,
+    "France 24 ES": 4.57,
+    "La Nación AR": 6.26,
+    "La Jornada MX": 4.98,
     "Desinformémonos": 5.47,
-    "Resumen Latinoam.": 4.26
+    "Resumen Latinoam.": 4.35
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El juez del ‘caso Plus Ultra’ cita como imputadas a las hijas y a la secretaria ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Los expertos ven poco recorrido penal a las joyas de Zapatero si se acredita que",
@@ -106,46 +117,12 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | El PP recurrirá ante el Trib",
-      "score": 3.0,
+      "title": "Hacienda abrió una investigación al ejecutivo de Quirón y jefe de la pareja de A",
+      "score": 2.6,
       "words": [
         {
-          "word": "denunciar",
-          "score": -2
-        },
-        {
-          "word": "atropello",
+          "word": "soborno",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez mantiene la imputación de Zapatero tras un interrogatorio “exigente” y c",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "interrogatorio",
-          "score": -1
-        },
-        {
-          "word": "exigente",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Gobierno mantiene el apoyo a Zapatero: “Hay tranquilidad. No hubo cautelares”",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "joyas",
-          "score": 1
         }
       ]
     },
@@ -162,6 +139,17 @@
     },
     {
       "source": "El País",
+      "title": "El tremendo fiasco de Trump con la piscina reflectante del Monumento a Lincoln: ",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "fiasco",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El genio de Leo Messi enciende el Mundial después de días de polémicas ajenas al",
       "score": 3.4,
       "words": [
@@ -172,32 +160,137 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "De la Fuente y el ‘manual Del Bosque’ para las crisis al principio de un Mundial",
-      "score": 2.6,
+      "source": "elDiario.es",
+      "title": "El juez Calama imputa a las hijas y a la secretaria de Zapatero",
+      "score": 5.24,
       "words": [
         {
-          "word": "crisis",
-          "score": -3
+          "word": "pasado",
+          "score": -1
         },
         {
-          "word": "perdió",
-          "score": -3
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "ausencia",
+          "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Portugal se atasca con Cristiano y el Congo celebra su fiesta más grande",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "Las respuestas de Zapatero no despejan las sospechas del juez sobre los cobros d",
+      "score": 5.21,
       "words": [
         {
-          "word": "celebra",
+          "word": "aclara",
+          "score": 2
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "oportunidad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La UCO advierte de que una empresa de la pareja de Ayuso facturó a Quirón por tr",
+      "score": 4.89,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "sentido",
           "score": 3
         },
         {
-          "word": "grande",
-          "score": 1
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Hacienda investiga a un directivo de Quirón por el supuesto reparto de una comis",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "favorecido",
+          "score": 2
+        },
+        {
+          "word": "impuesto",
+          "score": -1
+        },
+        {
+          "word": "gloria",
+          "score": 2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La pareja de Pérez Llorca renuncia a renovar la comisión de servicio en la Diput",
+      "score": 4.33,
+      "words": [
+        {
+          "word": "renuncia",
+          "score": -1
+        },
+        {
+          "word": "renuncia",
+          "score": -1
+        },
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "puesto",
+          "score": -2
         }
       ]
     },
@@ -257,33 +350,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El secretario de Guerra de EEUU quiere que la OTAN vuelva a ser \"una alianza mil",
-      "score": 4.71,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "cumplir",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Estos son los 14 puntos del acuerdo entre Irán y EEUU",
       "score": 5.38,
       "words": [
@@ -311,91 +377,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Las respuestas de Zapatero no despejan las sospechas del juez sobre los cobros d",
-      "score": 5.21,
+      "title": "Israel ataca Líbano horas después de la firma del acuerdo entre Irán y EEUU que ",
+      "score": 4.94,
       "words": [
         {
-          "word": "aclara",
-          "score": 2
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "dudas",
+          "word": "detener",
           "score": -1
         },
         {
-          "word": "rescate",
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
           "score": 2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero entrega al juez el escrito con su \"consentimiento expreso\" para verific",
-      "score": 5.73,
-      "words": [
-        {
-          "word": "consentimiento",
-          "score": 2
-        },
-        {
-          "word": "consentimiento",
-          "score": 2
-        },
-        {
-          "word": "facilitar",
-          "score": 2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "negado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez ordena mantener el apoyo a Zapatero aunque el juez mantenga las dudas so",
-      "score": 4.88,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "crisis",
-          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-27T19:21:39Z",
-      "score": 4.54
-    },
     {
       "timestamp": "2026-05-27T21:51:38Z",
       "score": 4.46
@@ -1063,6 +1071,10 @@
     {
       "timestamp": "2026-06-18T08:43:08Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-18T12:22:26Z",
+      "score": 4.9
     }
   ]
 }

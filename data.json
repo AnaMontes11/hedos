@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-18T03:38:35Z",
-  "global_score": 4.8,
-  "articles_scored": 89,
-  "words_matched": 228,
+  "generated": "2026-06-18T08:43:08Z",
+  "global_score": 4.72,
+  "articles_scored": 90,
+  "words_matched": 283,
   "top_negative": [
     {
       "word": "negro",
@@ -13,43 +13,31 @@
       "score": -4
     },
     {
-      "word": "retirada",
-      "score": -3
+      "word": "torturas",
+      "score": -4
+    },
+    {
+      "word": "fraude",
+      "score": -4
     },
     {
       "word": "delitos",
       "score": -3
     },
     {
-      "word": "culpa",
+      "word": "atropello",
       "score": -3
     },
     {
-      "word": "escándalos",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "delito",
+      "word": "perdió",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "celestial",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "celebra",
-      "score": 3
-    },
     {
       "word": "riqueza",
       "score": 3
@@ -59,27 +47,39 @@
       "score": 3
     },
     {
-      "word": "encantador",
-      "score": 3
-    },
-    {
       "word": "vibrante",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "caro",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
+    },
+    {
+      "word": "mayor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.21,
-    "elDiario.es": 4.85,
-    "El Mundo": 4.27,
-    "ABC": 4.7,
-    "El Confidencial": 5.56,
+    "El País": 4.6,
+    "elDiario.es": 4.98,
+    "El Mundo": 4.77,
+    "ABC": 4.86,
+    "El Confidencial": 4.78,
     "BBC Mundo": 4.02,
-    "France 24 ES": 4.75,
-    "La Nación AR": 5.67,
+    "France 24 ES": 4.6,
+    "La Nación AR": 5.24,
     "La Jornada MX": 4.75,
     "Desinformémonos": 5.47,
     "Resumen Latinoam.": 4.26
@@ -87,62 +87,16 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Zapatero asegura ante el juez que nunca influyó en el rescate de Plus Ultra y no",
+      "title": "Los expertos ven poco recorrido penal a las joyas de Zapatero si se acredita que",
       "score": 5.0,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
           "word": "joyas",
           "score": 1
         },
         {
-          "word": "rechazado",
-          "score": -1
-        },
-        {
-          "word": "imponer",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez, tras la declaración de Zapatero: “No ha logrado desvirtuar los indicios",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "valor",
+          "word": "regalo",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Comunicado íntegro de Zapatero tras declarar ante el juez: “Pido confianza. La v",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
         },
         {
           "word": "delitos",
@@ -152,14 +106,44 @@
     },
     {
       "source": "El País",
-      "title": "Zapatero ya ha declarado en la Audiencia Nacional: ¿qué viene ahora?",
-      "score": 5.0,
+      "title": "Última hora de la actualidad política, en directo | El PP recurrirá ante el Trib",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "denunciar",
+          "score": -2
+        },
+        {
+          "word": "atropello",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El juez mantiene la imputación de Zapatero tras un interrogatorio “exigente” y c",
+      "score": 4.2,
       "words": [
         {
           "word": "interrogatorio",
           "score": -1
         },
         {
+          "word": "exigente",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno mantiene el apoyo a Zapatero: “Hay tranquilidad. No hubo cautelares”",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
           "word": "joyas",
           "score": 1
         }
@@ -167,239 +151,188 @@
     },
     {
       "source": "El País",
-      "title": "Garamendi pide apoyar a los jueces “porque están siendo atacados” y reclama “lev",
+      "title": "Los ricos latinos hacen las maletas: adiós barrio Salamanca, hola La Moraleja",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "deseo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El genio de Leo Messi enciende el Mundial después de días de polémicas ajenas al",
       "score": 3.4,
       "words": [
         {
-          "word": "culpa",
-          "score": -3
-        },
-        {
-          "word": "límites",
-          "score": -1
+          "word": "monopolizado",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Feijóo no tiene caja fuerte pero sí ‘El Hormiguero’",
-      "score": 5.27,
+      "title": "De la Fuente y el ‘manual Del Bosque’ para las crisis al principio de un Mundial",
+      "score": 2.6,
       "words": [
         {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "escándalos",
+          "word": "crisis",
           "score": -3
         },
         {
-          "word": "importante",
-          "score": 2
+          "word": "perdió",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Kane y Bellingham lanzan a Inglaterra ante Croacia",
-      "score": 7.0,
+      "title": "Portugal se atasca con Cristiano y el Congo celebra su fiesta más grande",
+      "score": 6.6,
       "words": [
         {
-          "word": "triunfo",
-          "score": 4
+          "word": "celebra",
+          "score": 3
         },
         {
-          "word": "impulsado",
+          "word": "grande",
           "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Calama concluye que la declaración de Zapatero no ha disipado las sospec",
-      "score": 4.55,
+      "title": "Un Trump desesperado por salir de la guerra llena de cesiones su acuerdo con Irá",
+      "score": 4.93,
       "words": [
         {
-          "word": "rescate",
-          "score": 2
+          "word": "desesperado",
+          "score": -3
         },
         {
-          "word": "concesión",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "delitos",
+          "word": "desesperado",
           "score": -3
         },
         {
-          "word": "riesgo",
+          "word": "guerra",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El juez rechaza retirar el pasaporte a Zapatero tras su declaración en la Audien",
-      "score": 4.78,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "fuga",
-          "score": -1
-        },
-        {
-          "word": "destrucción",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero, tras declarar ante el juez: \"Soy completamente inocente y les pido con",
+      "title": "Trump y Pezeshkian estampan su firma y el acuerdo de paz entre Irán y EEUU entra",
       "score": 5.22,
       "words": [
         {
-          "word": "confianza",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "confianza",
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "activo",
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "rescate",
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El secretario de Guerra de EEUU quiere que la OTAN vuelva a ser \"una alianza mil",
+      "score": 4.71,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "libertad",
           "score": 2
         },
         {
-          "word": "justicia",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero defiende ante el juez que no ejerció ninguna influencia para favorecer ",
-      "score": 5.35,
+      "title": "Estos son los 14 puntos del acuerdo entre Irán y EEUU",
+      "score": 5.38,
       "words": [
         {
-          "word": "rescate",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "desesperado",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las respuestas de Zapatero no despejan las sospechas del juez sobre los cobros d",
+      "score": 5.21,
+      "words": [
+        {
+          "word": "aclara",
           "score": 2
         },
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rechaza",
+          "word": "dudas",
           "score": -1
         },
         {
           "word": "rescate",
           "score": 2
         },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PSOE mantiene su apoyo a Zapatero tras declarar ante el juez: \"Su legado está",
-      "score": 6.15,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "respalda",
-          "score": 2
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Presunto Zapatero",
-      "score": 4.57,
-      "words": [
         {
           "word": "delito",
           "score": -3
         },
         {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "convencido",
-          "score": -1
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo carga contra Zapatero desde El Hormiguero: \"Quien blanquea una dictadura,",
-      "score": 4.57,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "interrogatorio",
-          "score": -1
+          "word": "oportunidad",
+          "score": 2
         }
       ]
     },
@@ -429,13 +362,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez ordena mantener el apoyo a Zapatero aunque el juez mantenga las dudas so",
+      "score": 4.88,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-27T16:34:19Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-05-27T19:21:39Z",
       "score": 4.54
@@ -1103,6 +1059,10 @@
     {
       "timestamp": "2026-06-18T03:38:35Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-06-18T08:43:08Z",
+      "score": 4.72
     }
   ]
 }

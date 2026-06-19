@@ -1,13 +1,9 @@
 {
-  "generated": "2026-06-19T11:19:24Z",
-  "global_score": 4.76,
-  "articles_scored": 94,
-  "words_matched": 250,
+  "generated": "2026-06-19T14:58:11Z",
+  "global_score": 4.66,
+  "articles_scored": 100,
+  "words_matched": 263,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
@@ -17,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "violador",
+      "word": "violación",
       "score": -4
     },
     {
@@ -25,41 +21,29 @@
       "score": -4
     },
     {
+      "word": "torturado",
+      "score": -4
+    },
+    {
+      "word": "crisis",
+      "score": -3
+    },
+    {
       "word": "delitos",
       "score": -3
     },
     {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "peor",
+      "word": "muerto",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "celebra",
-      "score": 3
     },
     {
       "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "ventilador",
-      "score": 3
-    },
-    {
-      "word": "súper",
       "score": 3
     },
     {
@@ -69,30 +53,92 @@
     {
       "word": "euforia",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.46,
-    "elDiario.es": 4.97,
-    "El Mundo": 5.51,
-    "ABC": 5.01,
-    "El Confidencial": 4.73,
-    "BBC Mundo": 5.17,
-    "France 24 ES": 5.16,
-    "La Nación AR": 4.67,
+    "El País": 4.82,
+    "elDiario.es": 4.68,
+    "El Mundo": 4.05,
+    "ABC": 4.66,
+    "El Confidencial": 5.06,
+    "BBC Mundo": 5.15,
+    "France 24 ES": 4.84,
+    "La Nación AR": 5.4,
     "La Jornada MX": 3.79,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 4.58
+    "Resumen Latinoam.": 4.73
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El juez Peinado abre una nueva línea de investigación en el caso contra Begoña G",
-      "score": 2.2,
+      "title": "Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump abre una nueva crisis con Meloni al decir que se hizo una foto con ella en",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "cancela",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El juez Peinado excluye ahora a Begoña Gómez de una nueva línea de investigación",
+      "score": 3.4,
       "words": [
         {
           "word": "delitos",
           "score": -3
+        },
+        {
+          "word": "impulsar",
+          "score": 1
         },
         {
           "word": "fraude",
@@ -102,54 +148,27 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | El PP presenta en el Congres",
-      "score": 5.27,
+      "title": "La dirección del PP, sobre los pagos millonarios de Quirón a González Amador: “E",
+      "score": 7.4,
       "words": [
         {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Sánchez deja en manos de Zap",
+      "score": 4.6,
+      "words": [
         {
           "word": "joyas",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Irán y EE UU suspenden las conversaciones en Suiza en medio de una nueva ofensiv",
-      "score": 4.2,
-      "words": [
+        },
         {
-          "word": "ataque",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Así ha vaciado la guerra las despensas de Irán: “No he llevado arroz a casa dura",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "guerra",
+          "word": "denuncia",
           "score": -2
-        },
-        {
-          "word": "aliviar",
-          "score": 1
-        },
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "promesas",
-          "score": 1
         }
       ]
     },
@@ -214,152 +233,98 @@
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "El juez Peinado abre una nueva investigación en el caso de Begoña Gómez",
-      "score": 5.04,
+      "source": "El País",
+      "title": "Antón Castro, el bisnieto que se hizo cargo de la casa de comidas familiar y ha ",
+      "score": 6.8,
       "words": [
         {
-          "word": "delitos",
-          "score": -3
+          "word": "ganado",
+          "score": 2
         },
         {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "popular",
+          "word": "premio",
           "score": 3
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "mejor",
+          "score": 3
         },
         {
-          "word": "delito",
-          "score": -3
+          "word": "llegar",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El enriquecimiento bajo sospecha de Alberto 'Quirón', protegido por los bulos de",
-      "score": 4.48,
+      "title": "Israel y Hizbulá pactan un alto el fuego en Líbano que ya ha entrado en vigor, s",
+      "score": 4.57,
       "words": [
         {
-          "word": "sospecha",
-          "score": -1
+          "word": "fuego",
+          "score": -2
         },
         {
-          "word": "protegido",
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "sospecha",
-          "score": -1
+          "word": "llorar",
+          "score": -2
         },
         {
-          "word": "protegido",
-          "score": 1
-        },
-        {
-          "word": "peor",
-          "score": -3
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La pareja de Ayuso llegó a multiplicar por siete sus ingresos de Quirón tras ini",
+      "title": "El ministro de Seguridad de Netanyahu llama a arrasar Líbano tras el acuerdo de ",
+      "score": 4.77,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "llorar",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "llorar",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU e Irán cancelan las negociaciones de hoy en Suiza mientras Israel mata a 47",
       "score": 4.86,
       "words": [
         {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "gracias",
+          "word": "justificado",
           "score": 2
         },
         {
-          "word": "advierte",
+          "word": "problemas",
           "score": -2
         },
         {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Miguel Ángel Rodríguez sale en defensa de la pareja de Ayuso con ataques a la Ag",
-      "score": 4.0,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "claro",
+          "word": "acuerdo",
           "score": 1
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez abre la puerta a que las generales sean en el primer trimestre de 2027 s",
-      "score": 5.52,
-      "words": [
-        {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "negociar",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "cuestionado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno aprobará el 29 de junio sus previsiones para los Presupuestos junto ",
-      "score": 5.12,
-      "words": [
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
         },
         {
           "word": "acuerdo",
@@ -368,42 +333,65 @@
         {
           "word": "paz",
           "score": 2
-        },
-        {
-          "word": "alcanzado",
-          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "AUDIO | La declaración completa de Zapatero ante el juez",
-      "score": 6.0,
+      "title": "Vance advierte a Israel que Trump es su \"último aliado fuerte\" y recuerda que el",
+      "score": 4.97,
       "words": [
         {
-          "word": "interrogatorio",
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "ataques",
           "score": -1
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "advierte",
+          "score": -2
         },
         {
-          "word": "rescate",
+          "word": "fuerte",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Qué piensan los expertos sobre el acuerdo de Irán y EEUU",
+      "score": 4.76,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "rescate",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
           "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-28T18:08:34Z",
-      "score": 4.49
-    },
     {
       "timestamp": "2026-05-28T21:06:01Z",
       "score": 4.54
@@ -1071,6 +1059,10 @@
     {
       "timestamp": "2026-06-19T11:19:24Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-19T14:58:11Z",
+      "score": 4.66
     }
   ]
 }

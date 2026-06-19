@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-19T21:07:35Z",
-  "global_score": 4.41,
-  "articles_scored": 98,
-  "words_matched": 254,
+  "generated": "2026-06-19T22:53:43Z",
+  "global_score": 4.52,
+  "articles_scored": 97,
+  "words_matched": 264,
   "top_negative": [
     {
       "word": "fraude",
@@ -39,8 +39,16 @@
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "feliz",
+      "score": 3
     },
     {
       "word": "prestigio",
@@ -61,14 +69,6 @@
     {
       "word": "suerte",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
@@ -78,11 +78,11 @@
     "ABC": 5.06,
     "El Confidencial": 4.54,
     "BBC Mundo": 4.62,
-    "France 24 ES": 4.44,
-    "La Nación AR": 3.57,
+    "France 24 ES": 4.65,
+    "La Nación AR": 5.49,
     "La Jornada MX": 3.79,
-    "Desinformémonos": 4.03,
-    "Resumen Latinoam.": 4.57
+    "Desinformémonos": 3.96,
+    "Resumen Latinoam.": 4.19
   },
   "articles": [
     {
@@ -412,10 +412,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-29T06:53:57Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-05-29T10:43:16Z",
       "score": 4.7
@@ -1083,6 +1079,10 @@
     {
       "timestamp": "2026-06-19T21:07:35Z",
       "score": 4.41
+    },
+    {
+      "timestamp": "2026-06-19T22:53:43Z",
+      "score": 4.52
     }
   ]
 }

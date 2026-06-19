@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-19T06:15:02Z",
-  "global_score": 4.83,
-  "articles_scored": 81,
-  "words_matched": 240,
+  "generated": "2026-06-19T11:19:24Z",
+  "global_score": 4.76,
+  "articles_scored": 94,
+  "words_matched": 250,
   "top_negative": [
     {
       "word": "negro",
@@ -17,8 +17,12 @@
       "score": -4
     },
     {
-      "word": "soborno",
-      "score": -3
+      "word": "violador",
+      "score": -4
+    },
+    {
+      "word": "infierno",
+      "score": -4
     },
     {
       "word": "delitos",
@@ -31,15 +35,11 @@
     {
       "word": "peor",
       "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -47,11 +47,19 @@
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
+      "word": "celebra",
+      "score": 3
     },
     {
-      "word": "premios",
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "ventilador",
+      "score": 3
+    },
+    {
+      "word": "súper",
       "score": 3
     },
     {
@@ -59,39 +67,108 @@
       "score": 3
     },
     {
-      "word": "celebrando",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
+      "word": "euforia",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.68,
-    "elDiario.es": 4.84,
-    "El Mundo": 4.88,
-    "El Confidencial": 5.42,
-    "BBC Mundo": 4.56,
+    "El País": 4.46,
+    "elDiario.es": 4.97,
+    "El Mundo": 5.51,
+    "ABC": 5.01,
+    "El Confidencial": 4.73,
+    "BBC Mundo": 5.17,
     "France 24 ES": 5.16,
-    "La Nación AR": 5.05,
-    "La Jornada MX": 4.98,
+    "La Nación AR": 4.67,
+    "La Jornada MX": 3.79,
     "Desinformémonos": 4.08,
-    "Resumen Latinoam.": 4.5
+    "Resumen Latinoam.": 4.58
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Los audios de la declaración de Zapatero ante el juez: “Yo no he ejercido ningun",
-      "score": 6.6,
+      "title": "El juez Peinado abre una nueva línea de investigación en el caso contra Begoña G",
+      "score": 2.2,
       "words": [
         {
-          "word": "rescate",
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | El PP presenta en el Congres",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "asegura",
           "score": 2
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Irán y EE UU suspenden las conversaciones en Suiza en medio de una nueva ofensiv",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Así ha vaciado la guerra las despensas de Irán: “No he llevado arroz a casa dura",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "aliviar",
+          "score": 1
+        },
+        {
+          "word": "presión",
+          "score": -1
+        },
+        {
+          "word": "promesas",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Dónde hay alertas por calor? Consulte en qué municipios hay riesgo para la salu",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
@@ -108,16 +185,20 @@
     },
     {
       "source": "El País",
-      "title": "‘Toy Story 5’: muñecos en peligro. ¡Ay, la tecnología!",
-      "score": 3.8,
+      "title": "Azotes consensuados en la noche de Madrid: entramos en los clubes BDSM de moda e",
+      "score": 5.27,
       "words": [
         {
-          "word": "peligro",
+          "word": "moda",
           "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "fama",
+          "score": 1
+        },
+        {
+          "word": "seguro",
+          "score": 2
         }
       ]
     },
@@ -133,71 +214,29 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Messi, Haaland, Vinicius, Kane, Mbappé y Cristiano: seis maneras de perseguir el",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "perseguir",
-          "score": -2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "La pareja de Ayuso llegó a multiplicar por siete sus ingresos de Quirón tras ini",
-      "score": 4.86,
+      "title": "El juez Peinado abre una nueva investigación en el caso de Begoña Gómez",
+      "score": 5.04,
       "words": [
         {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un informe de Hacienda revela que la pareja de Ayuso facturó 4,4 millones a Quir",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
+          "word": "delitos",
+          "score": -3
         },
         {
           "word": "fraude",
           "score": -4
         },
         {
-          "word": "impuesto",
-          "score": -1
+          "word": "popular",
+          "score": 3
         },
         {
           "word": "delitos",
           "score": -3
         },
         {
-          "word": "suspender",
-          "score": -1
+          "word": "delito",
+          "score": -3
         }
       ]
     },
@@ -230,8 +269,62 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La pareja de Ayuso llegó a multiplicar por siete sus ingresos de Quirón tras ini",
+      "score": 4.86,
+      "words": [
+        {
+          "word": "sospecha",
+          "score": -1
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "oportunidad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Miguel Ángel Rodríguez sale en defensa de la pareja de Ayuso con ataques a la Ag",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Sánchez abre la puerta a que las generales sean en el primer trimestre de 2027 s",
-      "score": 5.5,
+      "score": 5.52,
       "words": [
         {
           "word": "logra",
@@ -257,17 +350,36 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los audios de la declaración de Zapatero ante el juez: \"No intervine en el resca",
-      "score": 5.33,
+      "title": "El Gobierno aprobará el 29 de junio sus previsiones para los Presupuestos junto ",
+      "score": 5.12,
       "words": [
         {
-          "word": "rescate",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
           "score": 2
         },
         {
-          "word": "rescate",
-          "score": 2
-        },
+          "word": "alcanzado",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "AUDIO | La declaración completa de Zapatero ante el juez",
+      "score": 6.0,
+      "words": [
         {
           "word": "interrogatorio",
           "score": -1
@@ -277,152 +389,17 @@
           "score": 2
         },
         {
-          "word": "interrogatorio",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero negó conocer la creación de una sociedad en Dubái: \"Jamás en mi vida he",
-      "score": 5.85,
-      "words": [
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
           "word": "rescate",
           "score": 2
         },
         {
-          "word": "responsable",
+          "word": "rescate",
           "score": 2
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué piensan los expertos sobre el acuerdo de Irán y EEUU",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El acuerdo entre EEUU e Irán es el resultado de las ambiciones poco realistas de",
-      "score": 4.71,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Vance advierte a Israel que Trump es su \"último aliado fuerte\" y recuerda que el",
-      "score": 4.97,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo se felicita por \"la paz\" en Irán tras jalear la guerra de Trump y Netanya",
-      "score": 4.57,
-      "words": [
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "desesperado",
-          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-28T14:35:59Z",
-      "score": 4.36
-    },
     {
       "timestamp": "2026-05-28T18:08:34Z",
       "score": 4.49
@@ -1090,6 +1067,10 @@
     {
       "timestamp": "2026-06-19T06:15:02Z",
       "score": 4.83
+    },
+    {
+      "timestamp": "2026-06-19T11:19:24Z",
+      "score": 4.76
     }
   ]
 }

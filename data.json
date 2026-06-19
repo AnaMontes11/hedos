@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-18T22:04:39Z",
-  "global_score": 4.93,
+  "generated": "2026-06-19T00:23:53Z",
+  "global_score": 4.75,
   "articles_scored": 88,
-  "words_matched": 201,
+  "words_matched": 199,
   "top_negative": [
     {
       "word": "negro",
@@ -43,12 +43,12 @@
       "score": 5
     },
     {
-      "word": "triunfo",
+      "word": "alegría",
       "score": 4
     },
     {
-      "word": "feliz",
-      "score": 3
+      "word": "triunfo",
+      "score": 4
     },
     {
       "word": "felicidad",
@@ -59,30 +59,30 @@
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
       "word": "premios",
       "score": 3
     },
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.67,
     "elDiario.es": 4.96,
-    "El Mundo": 5.1,
-    "ABC": 4.79,
+    "El Mundo": 5.32,
+    "ABC": 4.97,
     "El Confidencial": 4.13,
-    "BBC Mundo": 4.45,
-    "France 24 ES": 5.33,
-    "La Nación AR": 5.37,
+    "BBC Mundo": 4.56,
+    "France 24 ES": 4.63,
+    "La Nación AR": 4.14,
     "La Jornada MX": 4.98,
-    "Desinformémonos": 4.33,
-    "Resumen Latinoam.": 5.13
+    "Desinformémonos": 4.18,
+    "Resumen Latinoam.": 4.5
   },
   "articles": [
     {
@@ -408,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-28T06:52:42Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-05-28T10:53:07Z",
       "score": 4.58
@@ -1079,6 +1075,10 @@
     {
       "timestamp": "2026-06-18T22:04:39Z",
       "score": 4.93
+    },
+    {
+      "timestamp": "2026-06-19T00:23:53Z",
+      "score": 4.75
     }
   ]
 }

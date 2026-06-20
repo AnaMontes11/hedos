@@ -1,15 +1,19 @@
 {
-  "generated": "2026-06-20T00:07:02Z",
-  "global_score": 4.53,
-  "articles_scored": 97,
-  "words_matched": 254,
+  "generated": "2026-06-20T05:10:33Z",
+  "global_score": 4.44,
+  "articles_scored": 89,
+  "words_matched": 335,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "defraudador",
+      "word": "mierda",
       "score": -4
     },
     {
@@ -21,7 +25,7 @@
       "score": -4
     },
     {
-      "word": "crisis",
+      "word": "mal",
       "score": -3
     },
     {
@@ -29,18 +33,18 @@
       "score": -3
     },
     {
-      "word": "muerto",
-      "score": -3
-    },
-    {
-      "word": "violencia",
+      "word": "peor",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
+      "word": "victorias",
+      "score": 4
+    },
+    {
+      "word": "victorioso",
+      "score": 4
     },
     {
       "word": "ganar",
@@ -55,105 +59,157 @@
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "mejor",
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "contento",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.86,
-    "elDiario.es": 4.68,
-    "El Mundo": 3.89,
-    "ABC": 5.21,
-    "El Confidencial": 4.54,
+    "El País": 3.87,
+    "elDiario.es": 4.99,
+    "El Mundo": 4.44,
+    "ABC": 4.96,
+    "El Confidencial": 3.89,
     "BBC Mundo": 4.36,
-    "France 24 ES": 4.42,
-    "La Nación AR": 5.33,
+    "France 24 ES": 4.9,
+    "La Nación AR": 4.54,
     "La Jornada MX": 3.79,
-    "Desinformémonos": 3.96,
+    "Desinformémonos": 3.92,
     "Resumen Latinoam.": 4.59
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Cuba se abre al capitalismo y aprueba su mayor reforma en décadas: banca privada",
-      "score": 6.6,
+      "title": "Cuba busca oxígeno en unas reformas tardías que la población recibe con esceptic",
+      "score": 4.6,
       "words": [
         {
-          "word": "aprueba",
+          "word": "escepticismo",
+          "score": -2
+        },
+        {
+          "word": "adopta",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Zapatero defendió la facturación de su secretaria frente a las suspicacias del j",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "puesto",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Más de 1.400 empresas hoteleras ultiman una demanda colectiva contra Booking por",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "demanda",
+          "score": -1
+        },
+        {
+          "word": "unido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los cinco exámenes más polémicos de la PAU: de los ceros en Euskera al drama en ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "protestas",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El aceite de dos variedades de aceituna que solo existen en Galicia",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Conejo desconcertado",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "desconcertado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El informe de la UCO sobre la pareja de Ayuso apunta a relaciones prohibidas por",
+      "score": 4.65,
+      "words": [
+        {
+          "word": "ético",
           "score": 2
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "ético",
+          "score": 2
         },
         {
-          "word": "subsidios",
-          "score": 1
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "gloria",
+          "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Israel y Hezbolá prosiguen los combates pese al anuncio de un nuevo alto el fueg",
-      "score": 3.93,
+      "source": "elDiario.es",
+      "title": "Un contrato \"verbal\", informes genéricos y una consultora a medida de Zapatero: ",
+      "score": 5.45,
       "words": [
         {
-          "word": "combates",
+          "word": "dudas",
           "score": -1
         },
         {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "ataques",
+          "word": "dudas",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump abre una nueva crisis con Meloni al decir que se hizo una foto con ella en",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
         },
         {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "cancela",
+          "word": "interrogatorio",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez Peinado excluye ahora a Begoña Gómez de una nueva línea de investigación",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
         },
         {
-          "word": "impulsar",
-          "score": 1
+          "word": "rescate",
+          "score": 2
         },
         {
           "word": "fraude",
@@ -162,142 +218,55 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Sánchez deja en manos de Zapatero la decisión de entregar las joyas a Patrimonio",
-      "score": 6.2,
+      "source": "elDiario.es",
+      "title": "El juez Peinado mantiene la tensión sobre Begoña Gómez mientras abre un nuevo fr",
+      "score": 4.65,
       "words": [
         {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "aclara",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Dónde hay alertas por calor? Consulte en qué municipios hay riesgo para la salu",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "pasado",
+          "word": "tensión",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Hasta el gigante de la homeopatía ‘pasa’ de ella: Boiron se centra en los comple",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "caído",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Azotes consensuados en la noche de Madrid: entramos en los clubes BDSM de moda e",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "moda",
-          "score": -2
         },
         {
-          "word": "fama",
-          "score": 1
+          "word": "tensión",
+          "score": -1
         },
         {
-          "word": "seguro",
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "tipo",
           "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Antón Castro, el bisnieto que se hizo cargo de la casa de comidas familiar y ha ",
-      "score": 6.8,
-      "words": [
-        {
-          "word": "ganado",
-          "score": 2
-        },
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Israel y Hizbulá pactan un alto el fuego en Líbano que ya ha entrado en vigor, s",
-      "score": 4.57,
+      "title": "El fracaso de Trump en Irán lastra su presidencia",
+      "score": 4.85,
       "words": [
         {
-          "word": "fuego",
+          "word": "fracaso",
           "score": -2
         },
         {
-          "word": "fuego",
+          "word": "fracaso",
           "score": -2
         },
         {
-          "word": "acuerdo",
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "viva",
           "score": 1
         },
         {
-          "word": "llorar",
-          "score": -2
-        },
-        {
           "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El ministro de Seguridad de Netanyahu llama a arrasar Líbano tras el acuerdo de ",
-      "score": 4.77,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "llorar",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "llorar",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
           "score": -2
         }
       ]
@@ -331,91 +300,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El acuerdo entre EEUU e Irán es el resultado de las ambiciones poco realistas de",
-      "score": 4.71,
+      "title": "La tregua busca alterar las reglas del juego en Oriente Próximo, pero no resuelv",
+      "score": 4.6,
       "words": [
         {
-          "word": "acuerdo",
+          "word": "resuelve",
           "score": 1
         },
         {
-          "word": "guerra",
+          "word": "riesgos",
+          "score": -2
+        },
+        {
+          "word": "resuelve",
+          "score": 1
+        },
+        {
+          "word": "riesgos",
           "score": -2
         },
         {
           "word": "acuerdo",
           "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU e Irán cancelan las negociaciones de hoy en Suiza mientras Israel mata a 47",
-      "score": 4.86,
+      "title": "Andy Burnham ha ganado por goleada el escaño que necesitaba para batirse contra ",
+      "score": 5.31,
       "words": [
         {
-          "word": "justificado",
+          "word": "ganado",
           "score": 2
         },
         {
-          "word": "problemas",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
+          "word": "ganado",
           "score": 2
+        },
+        {
+          "word": "convencer",
+          "score": 1
+        },
+        {
+          "word": "defensor",
+          "score": 2
+        },
+        {
+          "word": "unido",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Vance advierte a Israel que Trump es su \"último aliado fuerte\" y recuerda que el",
-      "score": 4.97,
+      "title": "Merz busca imponer su política de tierra quemada con el presupuesto europeo fren",
+      "score": 5.11,
       "words": [
         {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "ataques",
+          "word": "imponer",
           "score": -1
         },
         {
-          "word": "advierte",
-          "score": -2
+          "word": "imponer",
+          "score": -1
         },
         {
-          "word": "fuerte",
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "\"Aprobar es fácil, el juego está en las centésimas\": ¿por qué casi todo el mundo",
+      "score": 4.86,
+      "words": [
+        {
+          "word": "fácil",
+          "score": 1
+        },
+        {
+          "word": "fácil",
+          "score": 1
+        },
+        {
+          "word": "adecuado",
+          "score": 1
+        },
+        {
+          "word": "aprueba",
           "score": 2
+        },
+        {
+          "word": "corte",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-29T13:57:48Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-05-29T17:35:35Z",
       "score": 4.58
@@ -1083,6 +1075,10 @@
     {
       "timestamp": "2026-06-20T00:07:02Z",
       "score": 4.53
+    },
+    {
+      "timestamp": "2026-06-20T05:10:33Z",
+      "score": 4.44
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-20T08:50:54Z",
-  "global_score": 4.4,
-  "articles_scored": 89,
-  "words_matched": 331,
+  "generated": "2026-06-20T11:15:12Z",
+  "global_score": 4.61,
+  "articles_scored": 97,
+  "words_matched": 310,
   "top_negative": [
     {
       "word": "negro",
@@ -13,15 +13,11 @@
       "score": -4
     },
     {
-      "word": "mierda",
+      "word": "culo",
       "score": -4
     },
     {
       "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "infierno",
       "score": -4
     },
     {
@@ -34,6 +30,10 @@
     },
     {
       "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "soborno",
       "score": -3
     }
   ],
@@ -51,11 +51,11 @@
       "score": 4
     },
     {
-      "word": "prestigio",
+      "word": "bueno",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "galardonado",
       "score": 3
     },
     {
@@ -63,26 +63,26 @@
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "alabado",
       "score": 3
     },
     {
-      "word": "cautivado",
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.96,
-    "elDiario.es": 4.91,
-    "El Mundo": 4.41,
-    "ABC": 5.1,
-    "El Confidencial": 3.56,
-    "BBC Mundo": 4.36,
+    "El País": 4.0,
+    "elDiario.es": 4.82,
+    "El Mundo": 3.96,
+    "ABC": 5.32,
+    "El Confidencial": 4.09,
+    "BBC Mundo": 4.62,
     "France 24 ES": 4.9,
-    "La Nación AR": 4.46,
-    "La Jornada MX": 3.79,
+    "La Nación AR": 4.53,
+    "La Jornada MX": 5.43,
     "Desinformémonos": 3.96,
-    "Resumen Latinoam.": 4.18
+    "Resumen Latinoam.": 4.64
   },
   "articles": [
     {
@@ -97,6 +97,17 @@
         {
           "word": "adopta",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Nevenka, en Ponferrada 25 años después de huir de su ciudad: “Estoy muy emociona",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acoso",
+          "score": -2
         }
       ]
     },
@@ -117,15 +128,11 @@
     },
     {
       "source": "El País",
-      "title": "Más de 1.400 empresas hoteleras ultiman una demanda colectiva contra Booking por",
-      "score": 5.0,
+      "title": "Feijóo: “¿Este es el Congreso de una democracia o de una autocracia?”",
+      "score": 5.8,
       "words": [
         {
-          "word": "demanda",
-          "score": -1
-        },
-        {
-          "word": "unido",
+          "word": "confianza",
           "score": 1
         }
       ]
@@ -316,6 +323,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Al menos seis muertos en el Líbano por ataques israelíes en una escalada de viol",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La tregua busca alterar las reglas del juego en Oriente Próximo, pero no resuelv",
       "score": 4.6,
       "words": [
@@ -367,67 +401,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Merz busca imponer su política de tierra quemada con el presupuesto europeo fren",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "celebrado",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Aprobar es fácil, el juego está en las centésimas\": ¿por qué casi todo el mundo",
-      "score": 4.86,
-      "words": [
-        {
-          "word": "fácil",
-          "score": 1
-        },
-        {
-          "word": "fácil",
-          "score": 1
-        },
-        {
-          "word": "adecuado",
-          "score": 1
-        },
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "corte",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-29T20:21:19Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-05-29T22:27:17Z",
       "score": 4.78
@@ -1095,6 +1071,10 @@
     {
       "timestamp": "2026-06-20T08:50:54Z",
       "score": 4.4
+    },
+    {
+      "timestamp": "2026-06-20T11:15:12Z",
+      "score": 4.61
     }
   ]
 }

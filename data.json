@@ -1,15 +1,15 @@
 {
-  "generated": "2026-06-20T17:23:22Z",
-  "global_score": 4.71,
-  "articles_scored": 93,
-  "words_matched": 248,
+  "generated": "2026-06-20T19:21:03Z",
+  "global_score": 4.72,
+  "articles_scored": 97,
+  "words_matched": 240,
   "top_negative": [
     {
-      "word": "negro",
-      "score": -5
+      "word": "fraude",
+      "score": -4
     },
     {
-      "word": "fraude",
+      "word": "violación",
       "score": -4
     },
     {
@@ -21,37 +21,29 @@
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "culpable",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "preocupante",
       "score": -3
     },
     {
       "word": "miserable",
       "score": -3
-    },
-    {
-      "word": "cargado",
-      "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "súper",
-      "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "premio",
       "score": 3
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "lealtad",
       "score": 3
+    },
+    {
+      "word": "prestigio",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.04,
-    "elDiario.es": 4.56,
-    "El Mundo": 4.67,
-    "ABC": 5.43,
-    "El Confidencial": 3.95,
+    "El País": 3.95,
+    "elDiario.es": 4.57,
+    "El Mundo": 5.15,
+    "ABC": 5.47,
+    "El Confidencial": 4.16,
     "BBC Mundo": 5.07,
-    "France 24 ES": 4.59,
-    "La Nación AR": 6.16,
+    "France 24 ES": 4.85,
+    "La Nación AR": 4.8,
     "La Jornada MX": 5.43,
-    "Desinformémonos": 3.92,
-    "Resumen Latinoam.": 4.68
+    "Desinformémonos": 4.44,
+    "Resumen Latinoam.": 4.06
   },
   "articles": [
     {
@@ -106,24 +106,27 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Begoña Gómez recurrirá la re",
-      "score": 4.2,
+      "title": "Los policías salen en tromba contra el juez Peinado por sugerir que los agentes ",
+      "score": 3.4,
       "words": [
         {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "riesgo",
+          "word": "amenaza",
           "score": -2
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Marlaska pide al CGPJ medidas contra Peinado por cuestionar a los policías que e",
+      "score": 3.4,
+      "words": [
         {
-          "word": "fuga",
+          "word": "duda",
           "score": -1
         },
         {
-          "word": "ayuda",
-          "score": 2
+          "word": "retirada",
+          "score": -3
         }
       ]
     },
@@ -140,20 +143,13 @@
     },
     {
       "source": "El País",
-      "title": "Los policías salen en tromba contra el juez Peinado por sugerir que los agentes ",
+      "title": "Irán declara cerrado el estrecho de Ormuz por los bombardeos israelíes en Líbano",
       "score": 3.4,
       "words": [
         {
-          "word": "amenaza",
+          "word": "niega",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Irán vuelve a cerrar el estrecho de Ormuz por los bombardeos israelíes en Líbano",
-      "score": 3.4,
-      "words": [
+        },
         {
           "word": "fuego",
           "score": -2
@@ -241,6 +237,60 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Palante, con togas y a lo loco",
+      "score": 4.31,
+      "words": [
+        {
+          "word": "loco",
+          "score": -2
+        },
+        {
+          "word": "loco",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "errores",
+          "score": -2
+        },
+        {
+          "word": "disparates",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Interior pide al Poder Judicial que tome medidas por las palabras de Peinado sob",
+      "score": 4.38,
+      "words": [
+        {
+          "word": "provocado",
+          "score": -1
+        },
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "grande",
+          "score": 1
+        },
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "facilitar",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Peinado envía a juicio a Begoña Gómez, le retira el pasaporte y le obliga a ir p",
       "score": 4.62,
       "words": [
@@ -262,33 +312,6 @@
         },
         {
           "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los sindicatos policiales cargan contra Peinado por plantear que los escoltas po",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "prestigio",
-          "score": 3
-        },
-        {
-          "word": "miserable",
-          "score": -3
-        },
-        {
-          "word": "cargado",
-          "score": -3
-        },
-        {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "preocupante",
           "score": -3
         }
       ]
@@ -322,64 +345,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El rastro de los millones del novio de Ayuso",
-      "score": 4.88,
+      "title": "Los sindicatos policiales cargan contra Peinado por plantear que los escoltas po",
+      "score": 4.68,
       "words": [
         {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "mayor",
+          "word": "prestigio",
           "score": 3
         },
         {
-          "word": "gracias",
-          "score": 2
+          "word": "miserable",
+          "score": -3
         },
         {
-          "word": "confianza",
-          "score": 1
+          "word": "cargado",
+          "score": -3
         },
         {
-          "word": "apoyo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El informe de la UCO sobre la pareja de Ayuso apunta a relaciones prohibidas por",
-      "score": 4.65,
-      "words": [
-        {
-          "word": "ético",
-          "score": 2
+          "word": "retirada",
+          "score": -3
         },
         {
-          "word": "ético",
-          "score": 2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "gloria",
-          "score": 2
+          "word": "preocupante",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-30T07:38:55Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-05-30T09:57:39Z",
       "score": 4.7
@@ -1047,6 +1039,10 @@
     {
       "timestamp": "2026-06-20T17:23:22Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-06-20T19:21:03Z",
+      "score": 4.72
     }
   ]
 }

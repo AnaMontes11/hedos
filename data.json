@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-20T15:44:56Z",
-  "global_score": 4.63,
-  "articles_scored": 96,
-  "words_matched": 266,
+  "generated": "2026-06-20T17:23:22Z",
+  "global_score": 4.71,
+  "articles_scored": 93,
+  "words_matched": 248,
   "top_negative": [
     {
       "word": "negro",
@@ -14,10 +14,6 @@
     },
     {
       "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "preocupante",
       "score": -3
     },
     {
@@ -33,25 +29,21 @@
       "score": -3
     },
     {
-      "word": "destruir",
+      "word": "miserable",
+      "score": -3
+    },
+    {
+      "word": "cargado",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "magnífico",
-      "score": 5
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "súper",
       "score": 3
     },
     {
@@ -59,27 +51,35 @@
       "score": 3
     },
     {
-      "word": "maravillas",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "premio",
       "score": 3
     },
     {
       "word": "suerte",
       "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.95,
-    "elDiario.es": 4.58,
-    "El Mundo": 4.28,
-    "ABC": 5.39,
-    "El Confidencial": 3.85,
-    "BBC Mundo": 4.87,
-    "France 24 ES": 4.66,
-    "La Nación AR": 5.13,
+    "El País": 4.04,
+    "elDiario.es": 4.56,
+    "El Mundo": 4.67,
+    "ABC": 5.43,
+    "El Confidencial": 3.95,
+    "BBC Mundo": 5.07,
+    "France 24 ES": 4.59,
+    "La Nación AR": 6.16,
     "La Jornada MX": 5.43,
     "Desinformémonos": 3.92,
     "Resumen Latinoam.": 4.68
@@ -141,11 +141,11 @@
     {
       "source": "El País",
       "title": "Los policías salen en tromba contra el juez Peinado por sugerir que los agentes ",
-      "score": 2.6,
+      "score": 3.4,
       "words": [
         {
-          "word": "preocupante",
-          "score": -3
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
@@ -215,7 +215,7 @@
     {
       "source": "elDiario.es",
       "title": "Begoña Gómez recurrirá la retirada del pasaporte impuesta por el juez Peinado",
-      "score": 3.95,
+      "score": 3.92,
       "words": [
         {
           "word": "retirada",
@@ -262,6 +262,33 @@
         },
         {
           "word": "delitos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los sindicatos policiales cargan contra Peinado por plantear que los escoltas po",
+      "score": 4.68,
+      "words": [
+        {
+          "word": "prestigio",
+          "score": 3
+        },
+        {
+          "word": "miserable",
+          "score": -3
+        },
+        {
+          "word": "cargado",
+          "score": -3
+        },
+        {
+          "word": "retirada",
+          "score": -3
+        },
+        {
+          "word": "preocupante",
           "score": -3
         }
       ]
@@ -346,40 +373,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un contrato \"verbal\", informes genéricos y una consultora a medida de Zapatero: ",
-      "score": 5.45,
-      "words": [
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "interrogatorio",
-          "score": -1
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-30T04:51:03Z",
-      "score": 4.68
-    },
     {
       "timestamp": "2026-05-30T07:38:55Z",
       "score": 4.73
@@ -1047,6 +1043,10 @@
     {
       "timestamp": "2026-06-20T15:44:56Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-06-20T17:23:22Z",
+      "score": 4.71
     }
   ]
 }

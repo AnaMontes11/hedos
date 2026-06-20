@@ -1,15 +1,11 @@
 {
-  "generated": "2026-06-20T19:21:03Z",
-  "global_score": 4.72,
-  "articles_scored": 97,
-  "words_matched": 240,
+  "generated": "2026-06-20T21:14:29Z",
+  "global_score": 4.71,
+  "articles_scored": 96,
+  "words_matched": 244,
   "top_negative": [
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -35,15 +31,31 @@
     {
       "word": "miserable",
       "score": -3
+    },
+    {
+      "word": "criminal",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "victorias",
+      "score": 4
+    },
     {
       "word": "triunfo",
       "score": 4
     },
     {
       "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
       "score": 3
     },
     {
@@ -57,32 +69,20 @@
     {
       "word": "mejor",
       "score": 3
-    },
-    {
-      "word": "lealtad",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
-      "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 3.95,
     "elDiario.es": 4.57,
     "El Mundo": 5.15,
-    "ABC": 5.47,
+    "ABC": 4.75,
     "El Confidencial": 4.16,
-    "BBC Mundo": 5.07,
-    "France 24 ES": 4.85,
-    "La Nación AR": 4.8,
+    "BBC Mundo": 4.76,
+    "France 24 ES": 5.19,
+    "La Nación AR": 4.3,
     "La Jornada MX": 5.43,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.06
+    "Resumen Latinoam.": 4.95
   },
   "articles": [
     {
@@ -265,7 +265,7 @@
     {
       "source": "elDiario.es",
       "title": "Interior pide al Poder Judicial que tome medidas por las palabras de Peinado sob",
-      "score": 4.38,
+      "score": 4.43,
       "words": [
         {
           "word": "provocado",
@@ -346,7 +346,7 @@
     {
       "source": "elDiario.es",
       "title": "Los sindicatos policiales cargan contra Peinado por plantear que los escoltas po",
-      "score": 4.68,
+      "score": 4.67,
       "words": [
         {
           "word": "prestigio",
@@ -372,10 +372,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-30T09:57:39Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-05-30T11:23:38Z",
       "score": 4.68
@@ -1043,6 +1039,10 @@
     {
       "timestamp": "2026-06-20T19:21:03Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-20T21:14:29Z",
+      "score": 4.71
     }
   ]
 }

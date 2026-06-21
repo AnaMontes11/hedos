@@ -1,15 +1,11 @@
 {
-  "generated": "2026-06-21T16:28:10Z",
-  "global_score": 4.73,
-  "articles_scored": 91,
-  "words_matched": 247,
+  "generated": "2026-06-21T18:17:58Z",
+  "global_score": 4.8,
+  "articles_scored": 86,
+  "words_matched": 240,
   "top_negative": [
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraude",
       "score": -4
     },
     {
@@ -35,12 +31,20 @@
     {
       "word": "miserable",
       "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "emoción",
-      "score": 3
+      "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
+      "score": 4
     },
     {
       "word": "hermosa",
@@ -55,47 +59,32 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "celebrando",
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "prestigio",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.93,
+    "El País": 4.73,
     "elDiario.es": 4.59,
-    "El Mundo": 4.46,
-    "ABC": 5.44,
-    "El Confidencial": 4.46,
+    "El Mundo": 4.35,
+    "ABC": 5.33,
+    "El Confidencial": 4.51,
     "BBC Mundo": 5.13,
-    "France 24 ES": 4.57,
-    "La Nación AR": 4.04,
+    "France 24 ES": 5.04,
+    "La Nación AR": 3.93,
     "La Jornada MX": 5.22,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.15
+    "Resumen Latinoam.": 4.84
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "España - Arabia Saudí, el partido del Mundial 2026 en directo | Doblete de Oyarz",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "decepcionante",
-          "score": -2
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "Lamine Yamal: “Me veo mucho mejor de lo que la gente me ve”",
@@ -177,23 +166,12 @@
     },
     {
       "source": "El País",
-      "title": "Iván Cepeda: “Es arriesgado pensar que se pueden aplicar en Colombia la motosier",
-      "score": 6.6,
+      "title": "Elecciones Colombia 2026, en vivo | Iván Cepeda, tras votar en Bogotá: “Cuando t",
+      "score": 3.4,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Abelardo de la Espriella: “Si el Gobierno desconoce el orden, el Ejército debe i",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "evita",
-          "score": -1
+          "word": "advierte",
+          "score": -2
         }
       ]
     },
@@ -209,6 +187,17 @@
         {
           "word": "apoyo",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Récord de votantes y máxima tensión: los colombianos en España se vuelcan en las",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "tensión",
+          "score": -1
         }
       ]
     },
@@ -373,13 +362,36 @@
           "score": -3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno se lanza contra el juez Peinado: \"Solo busca reventar a Sánchez para",
+      "score": 4.41,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "impedido",
+          "score": -1
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "destruir",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-30T21:59:02Z",
-      "score": 4.97
-    },
     {
       "timestamp": "2026-05-30T23:06:02Z",
       "score": 4.96
@@ -1047,6 +1059,10 @@
     {
       "timestamp": "2026-06-21T16:28:10Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-06-21T18:17:58Z",
+      "score": 4.8
     }
   ]
 }

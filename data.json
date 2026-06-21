@@ -1,35 +1,35 @@
 {
-  "generated": "2026-06-21T03:54:02Z",
-  "global_score": 4.65,
-  "articles_scored": 95,
-  "words_matched": 250,
+  "generated": "2026-06-21T08:27:51Z",
+  "global_score": 4.69,
+  "articles_scored": 87,
+  "words_matched": 242,
   "top_negative": [
     {
-      "word": "perra",
-      "score": -5
+      "word": "culo",
+      "score": -4
     },
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
+      "word": "conspiración",
+      "score": -3
     },
     {
       "word": "retirada",
       "score": -3
     },
     {
+      "word": "destruir",
+      "score": -3
+    },
+    {
+      "word": "atropello",
+      "score": -3
+    },
+    {
       "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "culpable",
-      "score": -3
-    },
-    {
-      "word": "peor",
       "score": -3
     },
     {
@@ -43,23 +43,7 @@
       "score": 4
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "brillar",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "popular",
       "score": 3
     },
     {
@@ -67,19 +51,34 @@
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "afecto",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.95,
-    "elDiario.es": 4.57,
-    "El Mundo": 4.83,
-    "ABC": 5.0,
-    "El Confidencial": 4.19,
+    "El País": 4.44,
+    "elDiario.es": 4.69,
+    "El Mundo": 4.6,
+    "El Confidencial": 4.81,
     "BBC Mundo": 4.67,
-    "France 24 ES": 5.06,
-    "La Nación AR": 4.26,
+    "France 24 ES": 4.67,
+    "La Nación AR": 4.47,
     "La Jornada MX": 5.43,
     "Desinformémonos": 4.44,
     "Resumen Latinoam.": 4.56
@@ -87,43 +86,46 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Peinado abre juicio oral a Begoña Gómez y le retira el pasaporte",
-      "score": 4.73,
+      "title": "La Audiencia Provincial de Madrid, última carta de Begoña Gómez para evitar el b",
+      "score": 4.2,
       "words": [
         {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "fuga",
+          "word": "evitar",
           "score": -1
-        },
-        {
-          "word": "ayuda",
-          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Los policías salen en tromba contra el juez Peinado por sugerir que los agentes ",
+      "title": "El PSOE pasa de la depresión a la indignación después del auto de Peinado contra",
       "score": 3.4,
       "words": [
         {
-          "word": "amenaza",
+          "word": "indignación",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Marlaska pide al CGPJ medidas contra Peinado por cuestionar a los policías que e",
-      "score": 3.4,
+      "title": "Sánchez manda parar y cerrar filas: ya no cederá más piezas",
+      "score": 3.0,
       "words": [
         {
-          "word": "duda",
-          "score": -1
+          "word": "polémico",
+          "score": -2
         },
+        {
+          "word": "conspiración",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Despropósito judicial",
+      "score": 2.6,
+      "words": [
         {
           "word": "retirada",
           "score": -3
@@ -132,79 +134,114 @@
     },
     {
       "source": "El País",
-      "title": "La Moncloa denuncia “la persecución, la obsesión y la desproporción” del juez Pe",
-      "score": 3.4,
+      "title": "Concurso ideal",
+      "score": 4.2,
       "words": [
         {
-          "word": "denuncia",
-          "score": -2
+          "word": "escapar",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Irán declara cerrado el estrecho de Ormuz por los bombardeos israelíes en Líbano",
-      "score": 3.4,
+      "title": "Un triángulo comercial bajo sospecha: la pareja de Ayuso, la farmacéutica leones",
+      "score": 5.4,
       "words": [
         {
-          "word": "niega",
-          "score": -2
+          "word": "sospecha",
+          "score": -1
         },
         {
-          "word": "fuego",
+          "word": "tipo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los 156 minutos en los que Zapatero no logró convencer al juez de su inocencia",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "convencer",
+          "score": 1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Viaje a la economía más disparatada de Europa",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "arrastrado",
+          "score": -1
+        },
+        {
+          "word": "negativo",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Cuba busca oxígeno en unas reformas tardías que la población recibe con esceptic",
+      "title": "Las raíces de Xi Jinping, el líder que plantó cara a Trump",
       "score": 4.6,
       "words": [
         {
-          "word": "escepticismo",
-          "score": -2
+          "word": "espíritu",
+          "score": 1
         },
         {
-          "word": "adopta",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Nevenka, en Ponferrada 25 años después de huir de su ciudad: “Estoy muy emociona",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "acoso",
+          "word": "lucha",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Zapatero defendió la facturación de su secretaria frente a las suspicacias del j",
-      "score": 3.4,
+      "title": "Lamine Yamal: “Me veo mucho mejor de lo que la gente me ve”",
+      "score": 7.0,
       "words": [
         {
-          "word": "puesto",
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "reivindica",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno se lanza contra el juez Peinado: \"Solo busca reventar a Sánchez para",
+      "score": 4.41,
+      "words": [
+        {
+          "word": "solo",
           "score": -2
         },
         {
           "word": "solo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Feijóo: “¿Este es el Congreso de una democracia o de una autocracia?”",
-      "score": 5.8,
-      "words": [
+        },
         {
-          "word": "confianza",
+          "word": "impedido",
+          "score": -1
+        },
+        {
+          "word": "llegar",
           "score": 1
+        },
+        {
+          "word": "destruir",
+          "score": -3
         }
       ]
     },
@@ -237,33 +274,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Palante, con togas y a lo loco",
-      "score": 4.31,
-      "words": [
-        {
-          "word": "loco",
-          "score": -2
-        },
-        {
-          "word": "loco",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "errores",
-          "score": -2
-        },
-        {
-          "word": "disparates",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Interior pide al Poder Judicial que tome medidas por las palabras de Peinado sob",
       "score": 4.43,
       "words": [
@@ -286,60 +296,6 @@
         {
           "word": "facilitar",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Peinado envía a juicio a Begoña Gómez, le retira el pasaporte y le obliga a ir p",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "acepta",
-          "score": 1
-        },
-        {
-          "word": "acusación",
-          "score": -2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Moncloa afirma que la decisión de Peinado contra Begoña Gómez \"constata la obses",
-      "score": 4.36,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "delito",
-          "score": -3
         }
       ]
     },
@@ -369,13 +325,36 @@
           "score": -3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La traca que se quería que fuera el final pero no lo va a ser",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "sobrecarga",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "terrible",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-30T15:04:02Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-05-30T17:00:18Z",
       "score": 4.83
@@ -1043,6 +1022,10 @@
     {
       "timestamp": "2026-06-21T03:54:02Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-06-21T08:27:51Z",
+      "score": 4.69
     }
   ]
 }

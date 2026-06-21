@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-21T11:43:40Z",
-  "global_score": 4.65,
-  "articles_scored": 92,
-  "words_matched": 235,
+  "generated": "2026-06-21T14:03:31Z",
+  "global_score": 4.78,
+  "articles_scored": 95,
+  "words_matched": 244,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
@@ -31,20 +35,12 @@
     {
       "word": "delitos",
       "score": -3
-    },
-    {
-      "word": "preocupante",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "alegría",
       "score": 4
-    },
-    {
-      "word": "popular",
-      "score": 3
     },
     {
       "word": "emoción",
@@ -63,23 +59,27 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "sentido",
       "score": 3
     },
     {
       "word": "mayor",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.36,
+    "El País": 4.44,
     "elDiario.es": 4.63,
-    "El Mundo": 4.69,
-    "ABC": 5.03,
+    "El Mundo": 4.65,
+    "ABC": 4.37,
     "El Confidencial": 4.78,
-    "BBC Mundo": 4.76,
-    "France 24 ES": 4.67,
-    "La Nación AR": 4.2,
+    "BBC Mundo": 5.29,
+    "France 24 ES": 4.82,
+    "La Nación AR": 6.07,
     "La Jornada MX": 5.22,
     "Desinformémonos": 4.44,
     "Resumen Latinoam.": 4.13
@@ -139,12 +139,16 @@
     },
     {
       "source": "El País",
-      "title": "Concurso ideal",
-      "score": 4.2,
+      "title": "El peligroso populismo judicial de Peinado",
+      "score": 5.0,
       "words": [
         {
-          "word": "escapar",
-          "score": -1
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "problema",
+          "score": -2
         }
       ]
     },
@@ -222,7 +226,7 @@
     {
       "source": "elDiario.es",
       "title": "La defensa de Begoña Gómez denuncia a Peinado ante el Poder Judicial por vulnera",
-      "score": 4.71,
+      "score": 4.73,
       "words": [
         {
           "word": "denuncia",
@@ -275,55 +279,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Interior pide al Poder Judicial que tome medidas por las palabras de Peinado sob",
-      "score": 4.43,
+      "title": "La Policía Nacional tacha de \"injustificadas\" las sospechas de Peinado sobre los",
+      "score": 4.88,
       "words": [
         {
-          "word": "provocado",
-          "score": -1
-        },
-        {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "grave",
-          "score": -2
-        },
-        {
-          "word": "facilitar",
+          "word": "integridad",
           "score": 2
+        },
+        {
+          "word": "integridad",
+          "score": 2
+        },
+        {
+          "word": "compromiso",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno se lanza contra el juez Peinado: \"Solo busca reventar a Sánchez para",
-      "score": 4.41,
+      "title": "Nueve ciudadanos de Madrid elegidos por sorteo: cómo funciona un jurado popular ",
+      "score": 4.6,
       "words": [
         {
-          "word": "solo",
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "impedido",
-          "score": -1
-        },
-        {
-          "word": "llegar",
+          "word": "derecho",
           "score": 1
-        },
-        {
-          "word": "destruir",
-          "score": -3
         }
       ]
     },
@@ -356,10 +360,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-30T19:08:28Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-05-30T20:52:45Z",
       "score": 4.82
@@ -1027,6 +1027,10 @@
     {
       "timestamp": "2026-06-21T11:43:40Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-06-21T14:03:31Z",
+      "score": 4.78
     }
   ]
 }

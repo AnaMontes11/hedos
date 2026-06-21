@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-21T20:22:25Z",
-  "global_score": 4.76,
-  "articles_scored": 92,
-  "words_matched": 281,
+  "generated": "2026-06-21T22:11:48Z",
+  "global_score": 4.9,
+  "articles_scored": 93,
+  "words_matched": 274,
   "top_negative": [
     {
       "word": "negro",
@@ -39,18 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "brillante",
       "score": 4
     },
@@ -59,7 +47,11 @@
       "score": 4
     },
     {
-      "word": "penetración",
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "celebrar",
       "score": 3
     },
     {
@@ -69,22 +61,64 @@
     {
       "word": "hermosa",
       "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "afecto",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.4,
+    "El País": 5.25,
     "elDiario.es": 4.75,
-    "El Mundo": 4.22,
-    "ABC": 5.06,
-    "El Confidencial": 4.97,
-    "BBC Mundo": 4.85,
-    "France 24 ES": 4.82,
-    "La Nación AR": 5.13,
+    "El Mundo": 4.73,
+    "ABC": 5.33,
+    "El Confidencial": 4.51,
+    "BBC Mundo": 5.37,
+    "France 24 ES": 4.96,
+    "La Nación AR": 4.49,
     "La Jornada MX": 5.22,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.48
+    "Resumen Latinoam.": 4.64
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Resultados elecciones Colombia 2026, en vivo | Abelardo de la Espriella logra el",
+      "score": 7.13,
+      "words": [
+        {
+          "word": "logra",
+          "score": 2
+        },
+        {
+          "word": "ventaja",
+          "score": 2
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las claves de la elección en Colombia: la fuerza real de la ultraderecha, el apo",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "España despierta con Lamine y golea a Arabia Saudí",
@@ -93,29 +127,6 @@
         {
           "word": "lento",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Lamine Yamal cambia el ánimo de la Roja",
-      "score": 5.2,
-      "words": [
-        {
-          "word": "ánimo",
-          "score": 2
-        },
-        {
-          "word": "rápido",
-          "score": 2
-        },
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "presión",
-          "score": -1
         }
       ]
     },
@@ -162,50 +173,12 @@
     },
     {
       "source": "El País",
-      "title": "Colombia vota entre el miedo y la rabia",
-      "score": 4.4,
+      "title": "Mbappé: “Messi es el mejor junto a Cristiano Ronaldo”",
+      "score": 7.4,
       "words": [
         {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "rabia",
-          "score": -2
-        },
-        {
-          "word": "favorito",
-          "score": 2
-        },
-        {
-          "word": "anti",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Elecciones Colombia 2026, en vivo | Iván Cepeda, tras votar en Bogotá: “Cuando t",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "advierte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Las claves de la elección en Colombia: la fuerza real de la ultraderecha, el apo",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
@@ -397,13 +370,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las delegaciones de Irán y EEUU inician la primera ronda de negociaciones en Sui",
+      "score": 4.79,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "negociar",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-31T03:32:40Z",
-      "score": 4.85
-    },
     {
       "timestamp": "2026-05-31T07:42:50Z",
       "score": 4.72
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-06-21T20:22:25Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-21T22:11:48Z",
+      "score": 4.9
     }
   ]
 }

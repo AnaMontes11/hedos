@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-21T22:11:48Z",
-  "global_score": 4.9,
-  "articles_scored": 93,
-  "words_matched": 274,
+  "generated": "2026-06-22T00:08:34Z",
+  "global_score": 4.93,
+  "articles_scored": 89,
+  "words_matched": 262,
   "top_negative": [
     {
       "word": "negro",
@@ -14,6 +14,10 @@
     },
     {
       "word": "retirada",
+      "score": -3
+    },
+    {
+      "word": "enfado",
       "score": -3
     },
     {
@@ -31,10 +35,6 @@
     {
       "word": "delitos",
       "score": -3
-    },
-    {
-      "word": "preocupante",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -43,15 +43,23 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "excelente",
       "score": 3
     },
     {
@@ -61,60 +69,48 @@
     {
       "word": "hermosa",
       "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "afecto",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.25,
+    "El País": 4.89,
     "elDiario.es": 4.75,
-    "El Mundo": 4.73,
-    "ABC": 5.33,
+    "El Mundo": 4.84,
+    "ABC": 5.11,
     "El Confidencial": 4.51,
-    "BBC Mundo": 5.37,
-    "France 24 ES": 4.96,
-    "La Nación AR": 4.49,
+    "BBC Mundo": 5.3,
+    "France 24 ES": 5.63,
+    "La Nación AR": 3.96,
     "La Jornada MX": 5.22,
     "Desinformémonos": 4.44,
-    "Resumen Latinoam.": 4.64
+    "Resumen Latinoam.": 5.21
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Resultados elecciones Colombia 2026, en vivo | Abelardo de la Espriella logra el",
-      "score": 7.13,
+      "title": "Resultados elecciones Colombia 2026, en vivo | De la Espriella, nuevo presidente",
+      "score": 7.4,
       "words": [
         {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "ventaja",
-          "score": 2
-        },
-        {
-          "word": "ganar",
+          "word": "ganador",
           "score": 4
+        },
+        {
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las claves de la elección en Colombia: la fuerza real de la ultraderecha, el apo",
-      "score": 6.6,
+      "title": "Qué viene ahora: el escrutinio, el preconteo y los demás asuntos técnicos que de",
+      "score": 6.2,
       "words": [
         {
-          "word": "fuerza",
-          "score": 2
+          "word": "asuntos",
+          "score": 1
         },
         {
-          "word": "apoyo",
+          "word": "valor",
           "score": 2
         }
       ]
@@ -173,12 +169,24 @@
     },
     {
       "source": "El País",
-      "title": "Mbappé: “Messi es el mejor junto a Cristiano Ronaldo”",
-      "score": 7.4,
+      "title": "El PP ve “lógico” el “enfado” de los policías con Peinado y admite que aún no es",
+      "score": 5.0,
       "words": [
         {
-          "word": "mejor",
+          "word": "enfado",
+          "score": -3
+        },
+        {
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "popular",
           "score": 3
+        },
+        {
+          "word": "confianza",
+          "score": 1
         }
       ]
     },
@@ -400,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-31T07:42:50Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-05-31T10:12:47Z",
       "score": 4.81
@@ -1071,6 +1075,10 @@
     {
       "timestamp": "2026-06-21T22:11:48Z",
       "score": 4.9
+    },
+    {
+      "timestamp": "2026-06-22T00:08:34Z",
+      "score": 4.93
     }
   ]
 }

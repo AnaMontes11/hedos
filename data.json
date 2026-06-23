@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-23T08:30:41Z",
-  "global_score": 4.71,
-  "articles_scored": 95,
-  "words_matched": 249,
+  "generated": "2026-06-23T11:58:09Z",
+  "global_score": 4.74,
+  "articles_scored": 100,
+  "words_matched": 260,
   "top_negative": [
     {
       "word": "culo",
@@ -17,11 +17,15 @@
       "score": -4
     },
     {
+      "word": "defectos",
+      "score": -3
+    },
+    {
       "word": "peor",
       "score": -3
     },
     {
-      "word": "defectos",
+      "word": "vil",
       "score": -3
     },
     {
@@ -31,19 +35,15 @@
     {
       "word": "criminal",
       "score": -3
-    },
-    {
-      "word": "soborno",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
+      "word": "ganador",
       "score": 4
     },
     {
-      "word": "ganador",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -51,15 +51,11 @@
       "score": 4
     },
     {
-      "word": "alegre",
+      "word": "celebra",
       "score": 3
     },
     {
       "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "popular",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "suerte",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.46,
-    "elDiario.es": 4.63,
-    "El Mundo": 4.3,
-    "ABC": 4.59,
-    "El Confidencial": 4.32,
-    "BBC Mundo": 5.47,
-    "France 24 ES": 5.62,
-    "La Nación AR": 5.15,
-    "La Jornada MX": 5.33,
+    "El País": 4.73,
+    "elDiario.es": 4.54,
+    "El Mundo": 4.28,
+    "ABC": 5.39,
+    "El Confidencial": 4.79,
+    "BBC Mundo": 5.63,
+    "France 24 ES": 5.55,
+    "La Nación AR": 5.39,
+    "La Jornada MX": 3.91,
     "Desinformémonos": 4.32,
-    "Resumen Latinoam.": 3.7
+    "Resumen Latinoam.": 3.57
   },
   "articles": [
     {
@@ -106,60 +106,41 @@
     },
     {
       "source": "El País",
-      "title": "El Supremo avanza que Aldama ha “favorecido” otras causas en curso y que se debe",
-      "score": 5.0,
+      "title": "¿Dónde hay alertas por calor? Consulte en qué municipios hay riesgo para la salu",
+      "score": 4.73,
       "words": [
         {
-          "word": "favorecido",
+          "word": "calor",
           "score": 2
         },
         {
-          "word": "sentencia",
+          "word": "riesgo",
           "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Ábalos no podrá acceder a permisos penitenciarios antes de enero de 2030",
-      "score": 5.0,
+      "title": "España afronta el final de la ola de calor con avisos en todas las comunidades s",
+      "score": 6.6,
       "words": [
         {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "libertad",
+          "word": "calor",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Recorrido visual por la sentencia del Supremo que condena a Ábalos, Koldo y Alda",
+      "title": "Irán: 3.000 años de historia explicada en mapas",
       "score": 3.4,
       "words": [
         {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Qué efectos puede tener la condena a Ábalos en el Gobierno?",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "condena",
+          "word": "conflicto",
           "score": -2
         }
       ]
@@ -195,6 +176,21 @@
         {
           "word": "error",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ayuso multa con hasta 13.000 euros a pequeños comercios gallegos por incumplir l",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "multa",
+          "score": 2
+        },
+        {
+          "word": "defectos",
+          "score": -3
         }
       ]
     },
@@ -245,17 +241,29 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Ayuso multa con hasta 13.000 euros a pequeños comercios gallegos por incumplir l",
-      "score": 4.6,
+      "source": "elDiario.es",
+      "title": "Zapatero quiere saber si se analizaron dispositivos incautados sin autorización ",
+      "score": 4.56,
       "words": [
         {
-          "word": "multa",
-          "score": 2
+          "word": "duro",
+          "score": -2
         },
         {
-          "word": "defectos",
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "vil",
           "score": -3
+        },
+        {
+          "word": "legal",
+          "score": 1
         }
       ]
     },
@@ -288,73 +296,19 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La recompensa de Aldama por confesar: una condena inferior a la del concejal del",
-      "score": 4.24,
+      "title": "🎙 PODCAST | El éxito del plan Aldama",
+      "score": 4.96,
       "words": [
         {
-          "word": "recompensa",
+          "word": "éxito",
           "score": 2
         },
         {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "inferior",
-          "score": -2
-        },
-        {
-          "word": "recompensa",
+          "word": "éxito",
           "score": 2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Comisiones, pagos mensuales de 10.000 euros y enchufes: qué considera probado la",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "sentencia",
-          "score": -2
         },
         {
           "word": "condenado",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno encaja otro mazazo con la histórica condena a José Luis Ábalos",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "sentencia",
           "score": -2
         },
         {
@@ -362,44 +316,94 @@
           "score": -2
         },
         {
-          "word": "condena",
+          "word": "héroe",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Begoña Gómez recurrirá la decisión de Peinado de retirarle el pasaporte y cree q",
+      "score": 4.62,
+      "words": [
+        {
+          "word": "frase",
+          "score": -2
+        },
+        {
+          "word": "frase",
+          "score": -2
+        },
+        {
+          "word": "fuga",
+          "score": -1
+        },
+        {
+          "word": "retirada",
+          "score": -3
+        },
+        {
+          "word": "fuga",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez Peinado compara el caso de Begoña Gómez con el de unos narcos a los que ",
+      "score": 4.51,
+      "words": [
+        {
+          "word": "retirada",
+          "score": -3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "mejorar",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Ábalos y Koldo fían su libertad al Constitucional ante una sentencia que ven \"po",
-      "score": 4.59,
+      "title": "Ya van tres avisos",
+      "score": 4.37,
       "words": [
         {
-          "word": "libertad",
-          "score": 2
-        },
-        {
           "word": "sentencia",
           "score": -2
         },
         {
-          "word": "motivación",
-          "score": 1
+          "word": "advertencia",
+          "score": -3
         },
         {
-          "word": "libertad",
+          "word": "retirada",
+          "score": -3
+        },
+        {
+          "word": "favores",
           "score": 2
         },
         {
-          "word": "sentencia",
-          "score": -2
+          "word": "justicia",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-31T23:11:18Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-06-01T03:43:58Z",
       "score": 4.69
@@ -1067,6 +1071,10 @@
     {
       "timestamp": "2026-06-23T08:30:41Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-06-23T11:58:09Z",
+      "score": 4.74
     }
   ]
 }

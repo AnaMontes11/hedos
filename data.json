@@ -1,19 +1,27 @@
 {
-  "generated": "2026-06-23T00:02:45Z",
-  "global_score": 4.6,
-  "articles_scored": 96,
-  "words_matched": 218,
+  "generated": "2026-06-23T04:57:30Z",
+  "global_score": 4.72,
+  "articles_scored": 91,
+  "words_matched": 239,
   "top_negative": [
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "asco",
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "mierda",
+      "score": -4
+    },
+    {
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "defectos",
       "score": -3
     },
     {
@@ -25,25 +33,17 @@
       "score": -3
     },
     {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "abuso",
+      "word": "soborno",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
+      "word": "alegría",
       "score": 4
     },
     {
-      "word": "alegría",
+      "word": "ganador",
       "score": 4
     },
     {
@@ -55,40 +55,55 @@
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.24,
-    "elDiario.es": 4.67,
-    "El Mundo": 4.44,
-    "ABC": 4.36,
-    "El Confidencial": 4.63,
-    "BBC Mundo": 5.67,
-    "France 24 ES": 4.61,
-    "La Nación AR": 3.69,
+    "El País": 4.3,
+    "elDiario.es": 4.63,
+    "El Mundo": 4.24,
+    "ABC": 4.57,
+    "El Confidencial": 4.97,
+    "BBC Mundo": 5.47,
+    "France 24 ES": 5.49,
+    "La Nación AR": 4.74,
     "La Jornada MX": 5.33,
-    "Desinformémonos": 4.42,
-    "Resumen Latinoam.": 4.16
+    "Desinformémonos": 4.32,
+    "Resumen Latinoam.": 3.86
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El Supremo condena a Ábalos a 24 años y tres meses de cárcel, a Koldo García a 1",
-      "score": 4.2,
+      "title": "Recorrido visual por la sentencia del Supremo que condena a Ábalos, Koldo y Alda",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Qué efectos puede tener la condena a Ábalos en el Gobierno?",
+      "score": 3.4,
       "words": [
         {
           "word": "condena",
@@ -97,239 +112,196 @@
         {
           "word": "condena",
           "score": -2
-        },
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno cree que el Supremo envía un mensaje para que los implicados declare",
+      "score": 3.4,
+      "words": [
         {
-          "word": "prisión",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "cumple",
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Supremo avanza que Aldama ha “favorecido” otras causas en curso y que se debe",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "favorecido",
+          "score": 2
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ábalos no podrá acceder a permisos penitenciarios antes de enero de 2030",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "libertad",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Alegato del Supremo contra la corrupción: “erosiona” la democracia y pone el pod",
-      "score": 4.6,
+      "title": "Las promesas incumplidas del Brexit: por qué el Reino Unido está peor que antes ",
+      "score": 5.48,
       "words": [
         {
-          "word": "intereses",
+          "word": "promesas",
           "score": 1
         },
         {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "confianza",
+          "word": "unido",
           "score": 1
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "mejorado",
+          "score": 2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El Supremo libra a Aldama de entrar en prisión y lo exime de la multa de 3,7 mil",
-      "score": 4.2,
+      "title": "El Reino Unido y España, 10 años después del Brexit: menos estudiantes, más cont",
+      "score": 4.47,
       "words": [
         {
-          "word": "prisión",
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "ruptura",
           "score": -2
         },
+        {
+          "word": "afectado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ayuso multa con hasta 13.000 euros a pequeños comercios gallegos por incumplir l",
+      "score": 4.6,
+      "words": [
         {
           "word": "multa",
           "score": 2
         },
         {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "sentencia",
-          "score": -2
+          "word": "defectos",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Feijóo rechaza el debate de la moción de censura: “Si la hubiese presentado hace",
-      "score": 4.4,
+      "title": "Francia brilla con un doblete de Mbappé en un partido pasado por agua",
+      "score": 3.93,
       "words": [
         {
-          "word": "rechaza",
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "solemne",
+          "word": "suspendido",
           "score": -1
         },
         {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "sentencia",
+          "word": "amenazas",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "La medida del asco",
-      "score": 3.13,
+      "source": "elDiario.es",
+      "title": "El Supremo premia la aportación de Aldama para descubrir unos delitos que la UCO",
+      "score": 4.5,
       "words": [
         {
-          "word": "asco",
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "criminal",
           "score": -3
         },
         {
           "word": "condena",
           "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "El PSOE carga contra la suspensión de la condena a Aldama: “¿Sale a cuenta ser c",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "La recompensa de Aldama por confesar: una condena inferior a la del concejal del",
+      "score": 4.24,
       "words": [
         {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los 24 años y tres meses de Ábalos, la mayor condena de cárcel a un exministro",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "pena",
-          "score": -2
-        },
-        {
-          "word": "secuestro",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El primer ministro británico, Keir Starmer, anuncia su dimisión tras meses de pr",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "presión",
-          "score": -1
-        },
-        {
-          "word": "renuncia",
-          "score": -1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "aplastante",
-          "score": -1
-        },
-        {
-          "word": "favorito",
+          "word": "recompensa",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Keir Starmer, el abogado prudente que acabó condenado por su indecisión",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "condenado",
-          "score": -2
-        },
-        {
-          "word": "unido",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El CGPJ inicia el proceso para expedientar a Peinado por insinuar que los escolt",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "impulsar",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Supremo condena a Ábalos a 24 años de cárcel y libra a Aldama de entrar en pr",
-      "score": 4.78,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
         },
         {
           "word": "condena",
           "score": -2
         },
         {
-          "word": "prisión",
+          "word": "inferior",
           "score": -2
         },
         {
-          "word": "impone",
-          "score": -1
+          "word": "recompensa",
+          "score": 2
+        },
+        {
+          "word": "condena",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "DOCUMENTO | Consulta íntegra la sentencia del caso Ábalos",
-      "score": 3.4,
+      "title": "Comisiones, pagos mensuales de 10.000 euros y enchufes: qué considera probado la",
+      "score": 4.68,
       "words": [
         {
           "word": "sentencia",
@@ -340,7 +312,7 @@
           "score": -2
         },
         {
-          "word": "condena",
+          "word": "sentencia",
           "score": -2
         },
         {
@@ -348,49 +320,18 @@
           "score": -2
         },
         {
-          "word": "sentencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "A Aldama la corrupción le sale a devolver",
-      "score": 5.19,
-      "words": [
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
           "word": "mayor",
           "score": 3
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "cierto",
-          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Aldama no tendrá que devolver la comisión de 3,7 millones de las mascarillas",
-      "score": 4.5,
+      "title": "El Gobierno encaja otro mazazo con la histórica condena a José Luis Ábalos",
+      "score": 4.59,
       "words": [
         {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "solo",
+          "word": "condena",
           "score": -2
         },
         {
@@ -398,11 +339,42 @@
           "score": -2
         },
         {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
           "word": "prisión",
           "score": -2
         },
         {
-          "word": "solo",
+          "word": "condena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ábalos y Koldo fían su libertad al Constitucional ante una sentencia que ven \"po",
+      "score": 4.59,
+      "words": [
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "motivación",
+          "score": 1
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "sentencia",
           "score": -2
         }
       ]
@@ -436,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-31T20:56:20Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-05-31T21:59:58Z",
       "score": 4.64
@@ -1107,6 +1075,10 @@
     {
       "timestamp": "2026-06-23T00:02:45Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-06-23T04:57:30Z",
+      "score": 4.72
     }
   ]
 }

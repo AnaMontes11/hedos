@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-23T04:57:30Z",
-  "global_score": 4.72,
-  "articles_scored": 91,
-  "words_matched": 239,
+  "generated": "2026-06-23T08:30:41Z",
+  "global_score": 4.71,
+  "articles_scored": 95,
+  "words_matched": 249,
   "top_negative": [
     {
       "word": "culo",
@@ -55,11 +55,7 @@
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "euforia",
+      "word": "mejor",
       "score": 3
     },
     {
@@ -69,52 +65,26 @@
     {
       "word": "perfecto",
       "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.3,
+    "El País": 4.46,
     "elDiario.es": 4.63,
-    "El Mundo": 4.24,
-    "ABC": 4.57,
-    "El Confidencial": 4.97,
+    "El Mundo": 4.3,
+    "ABC": 4.59,
+    "El Confidencial": 4.32,
     "BBC Mundo": 5.47,
-    "France 24 ES": 5.49,
-    "La Nación AR": 4.74,
+    "France 24 ES": 5.62,
+    "La Nación AR": 5.15,
     "La Jornada MX": 5.33,
     "Desinformémonos": 4.32,
-    "Resumen Latinoam.": 3.86
+    "Resumen Latinoam.": 3.7
   },
   "articles": [
-    {
-      "source": "El País",
-      "title": "Recorrido visual por la sentencia del Supremo que condena a Ábalos, Koldo y Alda",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Qué efectos puede tener la condena a Ábalos en el Gobierno?",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
     {
       "source": "El País",
       "title": "El Gobierno cree que el Supremo envía un mensaje para que los implicados declare",
@@ -161,6 +131,70 @@
         {
           "word": "libertad",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Recorrido visual por la sentencia del Supremo que condena a Ábalos, Koldo y Alda",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Qué efectos puede tener la condena a Ábalos en el Gobierno?",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ian Gibson: “Un Gobierno que sacó a Franco del Valle de los Caídos haría muy bie",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "cadáver",
+          "score": -1
+        },
+        {
+          "word": "dedicado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ione Belarra: “Hasta que no se pare a la derecha en Madrid será difícil consolid",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "difícil",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "error",
+          "score": -2
         }
       ]
     },
@@ -222,25 +256,6 @@
         {
           "word": "defectos",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Francia brilla con un doblete de Mbappé en un partido pasado por agua",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "suspendido",
-          "score": -1
-        },
-        {
-          "word": "amenazas",
-          "score": -2
         }
       ]
     },
@@ -378,40 +393,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La condena a Ábalos puede impedir que pise la calle en cinco años y no salir en ",
-      "score": 4.74,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "cumplir",
-          "score": 2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-05-31T21:59:58Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-05-31T23:11:18Z",
       "score": 4.65
@@ -1079,6 +1063,10 @@
     {
       "timestamp": "2026-06-23T04:57:30Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-23T08:30:41Z",
+      "score": 4.71
     }
   ]
 }

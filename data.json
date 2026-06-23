@@ -1,7 +1,7 @@
 {
-  "generated": "2026-06-23T11:58:09Z",
-  "global_score": 4.74,
-  "articles_scored": 100,
+  "generated": "2026-06-23T15:12:08Z",
+  "global_score": 4.67,
+  "articles_scored": 95,
   "words_matched": 260,
   "top_negative": [
     {
@@ -9,19 +9,15 @@
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "catastrófico",
       "score": -4
     },
     {
-      "word": "mierda",
-      "score": -4
-    },
-    {
-      "word": "defectos",
+      "word": "crisis",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "falso",
       "score": -3
     },
     {
@@ -33,11 +29,19 @@
       "score": -3
     },
     {
+      "word": "retirada",
+      "score": -3
+    },
+    {
       "word": "criminal",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "triunfo",
+      "score": 4
+    },
     {
       "word": "ganador",
       "score": 4
@@ -47,60 +51,64 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "celebra",
-      "score": 3
-    },
-    {
       "word": "mejor",
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "celebrando",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "contento",
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "mayor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.73,
-    "elDiario.es": 4.54,
-    "El Mundo": 4.28,
-    "ABC": 5.39,
-    "El Confidencial": 4.79,
-    "BBC Mundo": 5.63,
-    "France 24 ES": 5.55,
-    "La Nación AR": 5.39,
+    "El País": 4.34,
+    "elDiario.es": 5.0,
+    "El Mundo": 3.86,
+    "ABC": 4.97,
+    "El Confidencial": 4.5,
+    "BBC Mundo": 5.48,
+    "France 24 ES": 5.14,
+    "La Nación AR": 4.81,
     "La Jornada MX": 3.91,
-    "Desinformémonos": 4.32,
-    "Resumen Latinoam.": 3.57
+    "Desinformémonos": 4.64,
+    "Resumen Latinoam.": 4.16
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El Gobierno cree que el Supremo envía un mensaje para que los implicados declare",
-      "score": 3.4,
+      "title": "El Banco de España pide abordar la crisis de la vivienda como una “emergencia na",
+      "score": 4.52,
       "words": [
         {
-          "word": "acusa",
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "emergencia",
           "score": -2
         },
         {
-          "word": "golpe",
-          "score": -2
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "sentencia",
-          "score": -2
+          "word": "límites",
+          "score": -1
+        },
+        {
+          "word": "concesión",
+          "score": 1
         }
       ]
     },
@@ -147,96 +155,50 @@
     },
     {
       "source": "El País",
-      "title": "Ian Gibson: “Un Gobierno que sacó a Franco del Valle de los Caídos haría muy bie",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "cadáver",
-          "score": -1
-        },
-        {
-          "word": "dedicado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Ione Belarra: “Hasta que no se pare a la derecha en Madrid será difícil consolid",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "difícil",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "error",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Ayuso multa con hasta 13.000 euros a pequeños comercios gallegos por incumplir l",
+      "title": "Bruselas y representantes de 15 países se reúnen con los talibanes para acelerar",
       "score": 4.6,
       "words": [
         {
-          "word": "multa",
-          "score": 2
+          "word": "autoridad",
+          "score": 1
         },
         {
-          "word": "defectos",
-          "score": -3
+          "word": "criticado",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las promesas incumplidas del Brexit: por qué el Reino Unido está peor que antes ",
-      "score": 5.48,
+      "title": "La titularidad de Cristiano Ronaldo en el Mundial desata una tormenta en Portuga",
+      "score": 3.4,
       "words": [
         {
-          "word": "promesas",
-          "score": 1
-        },
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "mejorado",
-          "score": 2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Reino Unido y España, 10 años después del Brexit: menos estudiantes, más cont",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "unido",
-          "score": 1
-        },
-        {
-          "word": "ruptura",
+          "word": "choques",
           "score": -2
         },
         {
-          "word": "afectado",
-          "score": -1
+          "word": "disputa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La UDEF ve indicios de malversación y prevaricación en el Gobierno del PP de Mel",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "autor",
+          "score": -2
+        },
+        {
+          "word": "autores",
+          "score": -2
         }
       ]
     },
@@ -269,145 +231,195 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Supremo premia la aportación de Aldama para descubrir unos delitos que la UCO",
-      "score": 4.5,
+      "title": "Begoña Gómez recurrirá la decisión de Peinado de retirarle el pasaporte y cree q",
+      "score": 4.56,
       "words": [
         {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "prisión",
+          "word": "frase",
           "score": -2
+        },
+        {
+          "word": "frase",
+          "score": -2
+        },
+        {
+          "word": "fuga",
+          "score": -1
+        },
+        {
+          "word": "retirada",
+          "score": -3
+        },
+        {
+          "word": "fuga",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Guardia Civil detiene a seis personas en una investigación por blanqueo y org",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "criminal",
+          "score": -3
         },
         {
           "word": "criminal",
           "score": -3
         },
         {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "🎙 PODCAST | El éxito del plan Aldama",
-      "score": 4.96,
-      "words": [
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "condenado",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "héroe",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Begoña Gómez recurrirá la decisión de Peinado de retirarle el pasaporte y cree q",
-      "score": 4.62,
-      "words": [
-        {
-          "word": "frase",
-          "score": -2
-        },
-        {
-          "word": "frase",
-          "score": -2
-        },
-        {
-          "word": "fuga",
+          "word": "detenido",
           "score": -1
         },
         {
-          "word": "retirada",
+          "word": "detenciones",
+          "score": -2
+        },
+        {
+          "word": "delitos",
           "score": -3
-        },
-        {
-          "word": "fuga",
-          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Peinado compara el caso de Begoña Gómez con el de unos narcos a los que ",
-      "score": 4.51,
+      "title": "Sánchez anuncia la \"mayor inversión en dependencia de la democracia\": 6.200 mill",
+      "score": 5.73,
       "words": [
         {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "popular",
+          "word": "mayor",
           "score": 3
         },
         {
-          "word": "mejorar",
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "compromiso",
           "score": 2
         },
         {
-          "word": "acusaciones",
+          "word": "enfermos",
+          "score": -2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump anuncia el fin del bloqueo naval a Irán, la liberación de activos e inspec",
+      "score": 4.84,
+      "words": [
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El fracaso de Trump en Irán lastra su presidencia",
+      "score": 4.85,
+      "words": [
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "viva",
+          "score": 1
+        },
+        {
+          "word": "fuego",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Ya van tres avisos",
-      "score": 4.37,
+      "title": "Qué ha aprendido la nueva cúpula de Irán de la guerra con EEUU",
+      "score": 5.05,
       "words": [
         {
-          "word": "sentencia",
+          "word": "guerra",
           "score": -2
         },
         {
-          "word": "advertencia",
-          "score": -3
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "retirada",
-          "score": -3
+          "word": "combates",
+          "score": -1
         },
         {
-          "word": "favores",
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "EEUU levanta temporalmente las sanciones sobre el petróleo iraní y autoriza la v",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "tesoro",
           "score": 2
         },
         {
-          "word": "justicia",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "tesoro",
           "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-01T03:43:58Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-06-01T09:23:54Z",
       "score": 4.82
@@ -1075,6 +1087,10 @@
     {
       "timestamp": "2026-06-23T11:58:09Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-06-23T15:12:08Z",
+      "score": 4.67
     }
   ]
 }

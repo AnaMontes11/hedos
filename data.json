@@ -1,15 +1,23 @@
 {
-  "generated": "2026-06-23T15:12:08Z",
-  "global_score": 4.67,
-  "articles_scored": 95,
-  "words_matched": 260,
+  "generated": "2026-06-23T17:50:18Z",
+  "global_score": 4.48,
+  "articles_scored": 93,
+  "words_matched": 285,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "tortura",
+      "score": -4
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "catastrófico",
+      "word": "violación",
       "score": -4
     },
     {
@@ -27,14 +35,6 @@
     {
       "word": "delitos",
       "score": -3
-    },
-    {
-      "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "criminal",
-      "score": -3
     }
   ],
   "top_positive": [
@@ -51,38 +51,38 @@
       "score": 4
     },
     {
+      "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "euforia",
+      "score": 3
+    },
+    {
       "word": "mejor",
       "score": 3
     },
     {
-      "word": "celebrando",
-      "score": 3
-    },
-    {
-      "word": "contento",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "mayor",
+      "word": "premio",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.34,
-    "elDiario.es": 5.0,
-    "El Mundo": 3.86,
-    "ABC": 4.97,
-    "El Confidencial": 4.5,
-    "BBC Mundo": 5.48,
-    "France 24 ES": 5.14,
-    "La Nación AR": 4.81,
+    "El País": 3.7,
+    "elDiario.es": 4.81,
+    "El Mundo": 4.12,
+    "ABC": 4.83,
+    "El Confidencial": 4.55,
+    "BBC Mundo": 5.36,
+    "France 24 ES": 4.26,
+    "La Nación AR": 4.93,
     "La Jornada MX": 3.91,
-    "Desinformémonos": 4.64,
-    "Resumen Latinoam.": 4.16
+    "Desinformémonos": 4.24,
+    "Resumen Latinoam.": 4.04
   },
   "articles": [
     {
@@ -114,31 +114,27 @@
     },
     {
       "source": "El País",
-      "title": "¿Dónde hay alertas por calor? Consulte en qué municipios hay riesgo para la salu",
-      "score": 4.73,
+      "title": "Desalojada una de las cuatro torres de Madrid por una explosión en el interior d",
+      "score": 3.0,
       "words": [
         {
-          "word": "calor",
-          "score": 2
+          "word": "crisis",
+          "score": -3
         },
         {
-          "word": "riesgo",
+          "word": "ansiedad",
           "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "España afronta el final de la ola de calor con avisos en todas las comunidades s",
-      "score": 6.6,
+      "title": "Bruselas y representantes de 15 países se reúnen con los talibanes para acelerar",
+      "score": 3.4,
       "words": [
         {
-          "word": "calor",
-          "score": 2
+          "word": "criticado",
+          "score": -2
         }
       ]
     },
@@ -155,31 +151,20 @@
     },
     {
       "source": "El País",
-      "title": "Bruselas y representantes de 15 países se reúnen con los talibanes para acelerar",
-      "score": 4.6,
+      "title": "¿Dónde hay alertas por calor? Consulte en qué municipios hay riesgo para la salu",
+      "score": 4.73,
       "words": [
         {
-          "word": "autoridad",
-          "score": 1
+          "word": "calor",
+          "score": 2
         },
         {
-          "word": "criticado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La titularidad de Cristiano Ronaldo en el Mundial desata una tormenta en Portuga",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "choques",
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "disputa",
-          "score": -2
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
@@ -231,8 +216,35 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Begoña Gómez recurrirá la decisión de Peinado de retirarle el pasaporte y cree q",
-      "score": 4.56,
+      "title": "La asistente de Begoña Gómez recurre el auto del juez Peinado por \"grave, impert",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "desconsiderado",
+          "score": -2
+        },
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "desconsiderado",
+          "score": -2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Begoña Gómez recurre la decisión de Peinado de retirarle el pasaporte y cree que",
+      "score": 4.62,
       "words": [
         {
           "word": "frase",
@@ -259,7 +271,7 @@
     {
       "source": "elDiario.es",
       "title": "La Guardia Civil detiene a seis personas en una investigación por blanqueo y org",
-      "score": 4.53,
+      "score": 4.48,
       "words": [
         {
           "word": "criminal",
@@ -270,16 +282,43 @@
           "score": -3
         },
         {
-          "word": "detenido",
-          "score": -1
-        },
-        {
           "word": "detenciones",
           "score": -2
         },
         {
           "word": "delitos",
           "score": -3
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Villarejo, a Fernández Díaz sobre la Operación Cataluña: \"Hablé con los jueces A",
+      "score": 4.37,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "falso",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "confidente",
+          "score": 2
         }
       ]
     },
@@ -390,40 +429,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU levanta temporalmente las sanciones sobre el petróleo iraní y autoriza la v",
-      "score": 5.17,
-      "words": [
-        {
-          "word": "tesoro",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "tesoro",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-01T09:23:54Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-06-01T15:54:03Z",
       "score": 4.89
@@ -1091,6 +1099,10 @@
     {
       "timestamp": "2026-06-23T15:12:08Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-06-23T17:50:18Z",
+      "score": 4.48
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
-  "generated": "2026-06-24T10:20:22Z",
-  "global_score": 4.69,
-  "articles_scored": 92,
-  "words_matched": 213,
+  "generated": "2026-06-24T13:19:53Z",
+  "global_score": 5.02,
+  "articles_scored": 90,
+  "words_matched": 221,
   "top_negative": [
     {
-      "word": "fraude",
+      "word": "fraudulento",
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -21,45 +21,41 @@
       "score": -3
     },
     {
+      "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "desconfianza",
+      "score": -3
+    },
+    {
       "word": "destruir",
-      "score": -3
-    },
-    {
-      "word": "soborno",
-      "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "delitos",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "exitoso",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "excelente",
       "score": 3
     },
     {
@@ -67,32 +63,40 @@
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.9,
-    "elDiario.es": 5.21,
-    "El Mundo": 4.28,
-    "ABC": 4.42,
-    "El Confidencial": 4.97,
-    "BBC Mundo": 4.88,
-    "France 24 ES": 3.95,
-    "La Nación AR": 5.8,
-    "La Jornada MX": 3.91,
+    "El País": 4.81,
+    "elDiario.es": 5.23,
+    "El Mundo": 4.78,
+    "ABC": 5.49,
+    "El Confidencial": 5.49,
+    "BBC Mundo": 5.1,
+    "France 24 ES": 4.03,
+    "La Nación AR": 7.1,
+    "La Jornada MX": 4.6,
     "Desinformémonos": 4.87,
     "Resumen Latinoam.": 4.79
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Sánchez, en el Congreso: “Tratan de crear una sensación de corrupción generaliza",
-      "score": 5.8,
+      "title": "Última hora de la actualidad política, en directo | Sánchez a Junts: “Si quieren",
+      "score": 3.4,
       "words": [
         {
-          "word": "sensación",
-          "score": 1
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
         }
       ]
     },
@@ -117,6 +121,44 @@
     },
     {
       "source": "El País",
+      "title": "La UDEF asegura que Zapatero cobró 200.000 euros por influir a favor de una empr",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "inaceptable",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Patxi López responde a Felipe González tras pedir a Sánchez que dimita o convoqu",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "evitado",
+          "score": -1
+        },
+        {
+          "word": "choque",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Jordi Nieva, catedrático de Derecho Procesal: “Estamos en un momento realmente p",
       "score": 4.2,
       "words": [
@@ -132,76 +174,23 @@
     },
     {
       "source": "El País",
-      "title": "La sentencia del Supremo da por probado que Ábalos y García “urdieron” una trama",
+      "title": "Bajada histórica de las ratios escolares: se quedan en menos de la mitad en el 0",
       "score": 3.4,
       "words": [
         {
-          "word": "sentencia",
+          "word": "infantil",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Felipe González: “Sánchez tiene dos opciones: dimitir o convocar elecciones”",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "José Sacristán, actor: “Este crío que iba al colegio de curas y tuvo que cantar ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "asustado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trece recetas para cenas de verano con las que lucirse sin matarse",
+      "title": "La Organización Meteorológica Mundial prevé que el episodio de calor continúe en",
       "score": 6.6,
       "words": [
         {
-          "word": "rico",
-          "score": 2
-        },
-        {
           "word": "calor",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El cambio climático multiplica los días de calor húmedo peligrosos para la salud",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
         }
       ]
     },
@@ -225,8 +214,23 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Trece recetas para cenas de verano con las que lucirse sin matarse",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
-      "title": "Sánchez desvincula el 'caso Zapatero' del Gobierno y defiende a su familia: \"Le ",
+      "title": "Sánchez afirma que le \"apena y cabrea\" el 'caso Ábalos' y arremete contra Feijóo",
       "score": 4.93,
       "words": [
         {
@@ -238,16 +242,16 @@
           "score": 2
         },
         {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justa",
-          "score": 2
-        },
-        {
           "word": "hostil",
           "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "dedicado",
+          "score": 2
         }
       ]
     },
@@ -280,8 +284,35 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Junts pide a Sánchez que dimita y dé paso a otro presidente del PSOE y los socio",
+      "score": 5.43,
+      "words": [
+        {
+          "word": "robado",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justa",
+          "score": 2
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Feijóo, a Sánchez: \"Usted es el nexo político corruptor, puso el Estado en manos",
-      "score": 5.34,
+      "score": 5.38,
       "words": [
         {
           "word": "alienta",
@@ -307,91 +338,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Supremo contradice a Aldama en sus acusaciones de soborno contra un alto carg",
-      "score": 4.01,
+      "title": "La UDEF acusa a Zapatero de cobrar 200.000 euros por ejercer su influencia polít",
+      "score": 5.14,
       "words": [
         {
-          "word": "acusaciones",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "soborno",
-          "score": -3
-        },
-        {
-          "word": "acusaciones",
+          "word": "cobrar",
           "score": -2
         },
         {
-          "word": "soborno",
-          "score": -3
+          "word": "favor",
+          "score": 2
         },
         {
-          "word": "jesús",
-          "score": 1
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "cobrar",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Aldama se queja de haber tenido que pagar impuestos por su comisión de seis mill",
-      "score": 4.96,
+      "title": "El juez Calama cita a declarar el 21 de julio al empresario que pagó a Zapatero ",
+      "score": 5.0,
       "words": [
         {
-          "word": "asegura",
+          "word": "estable",
           "score": 2
         },
         {
-          "word": "acusaciones",
+          "word": "deuda",
           "score": -2
         },
         {
-          "word": "soborno",
-          "score": -3
+          "word": "fraudulento",
+          "score": -4
         },
         {
-          "word": "condenado",
-          "score": -2
-        },
-        {
-          "word": "justicia",
+          "word": "estable",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Supremo premia la aportación de Aldama para descubrir unos delitos que la UCO",
-      "score": 4.5,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
         },
         {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "condena",
-          "score": -2
+          "word": "pasado",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-02T14:50:03Z",
-      "score": 4.58
-    },
     {
       "timestamp": "2026-06-02T18:37:28Z",
       "score": 4.72
@@ -1059,6 +1059,10 @@
     {
       "timestamp": "2026-06-24T10:20:22Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-06-24T13:19:53Z",
+      "score": 5.02
     }
   ]
 }

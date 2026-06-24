@@ -1,17 +1,9 @@
 {
-  "generated": "2026-06-24T06:48:47Z",
-  "global_score": 4.76,
-  "articles_scored": 91,
-  "words_matched": 262,
+  "generated": "2026-06-24T10:20:22Z",
+  "global_score": 4.69,
+  "articles_scored": 92,
+  "words_matched": 213,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "infierno",
-      "score": -4
-    },
     {
       "word": "fraude",
       "score": -4
@@ -21,19 +13,27 @@
       "score": -4
     },
     {
-      "word": "tortura",
+      "word": "infierno",
       "score": -4
     },
     {
-      "word": "desconfianza",
+      "word": "preocupante",
       "score": -3
     },
     {
-      "word": "agonizante",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "soborno",
+      "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     }
   ],
@@ -43,11 +43,15 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "celebra",
       "score": 3
     },
     {
-      "word": "emocionante",
+      "word": "exitoso",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -55,48 +59,74 @@
       "score": 3
     },
     {
+      "word": "sentido",
+      "score": 3
+    },
+    {
       "word": "mejor",
       "score": 3
     },
     {
-      "word": "premio",
-      "score": 3
-    },
-    {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "medalla",
+      "word": "mayor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.13,
-    "elDiario.es": 4.76,
-    "El Mundo": 4.27,
-    "ABC": 5.35,
+    "El País": 4.9,
+    "elDiario.es": 5.21,
+    "El Mundo": 4.28,
+    "ABC": 4.42,
     "El Confidencial": 4.97,
-    "BBC Mundo": 5.28,
+    "BBC Mundo": 4.88,
     "France 24 ES": 3.95,
-    "La Nación AR": 5.13,
+    "La Nación AR": 5.8,
     "La Jornada MX": 3.91,
     "Desinformémonos": 4.87,
-    "Resumen Latinoam.": 4.63
+    "Resumen Latinoam.": 4.79
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Sánchez saldrá al ataque con la idea de que él limpia y Feijóo no",
-      "score": 5.4,
+      "title": "Sánchez, en el Congreso: “Tratan de crear una sensación de corrupción generaliza",
+      "score": 5.8,
       "words": [
         {
-          "word": "ataque",
+          "word": "sensación",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Feijóo sugiere que Sánchez será imputado: “¿A qué hay que esperar, a que le lleg",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "esperar",
           "score": -1
         },
         {
-          "word": "perdón",
-          "score": 2
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Jordi Nieva, catedrático de Derecho Procesal: “Estamos en un momento realmente p",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "preocupante",
+          "score": -3
         }
       ]
     },
@@ -143,27 +173,35 @@
     },
     {
       "source": "El País",
-      "title": "Salvar la socialdemocracia",
+      "title": "Trece recetas para cenas de verano con las que lucirse sin matarse",
       "score": 6.6,
       "words": [
         {
-          "word": "salvar",
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "calor",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La ola de calor dispara la venta de ventiladores y aumenta las hospitalizaciones",
-      "score": 6.2,
+      "title": "El cambio climático multiplica los días de calor húmedo peligrosos para la salud",
+      "score": 4.73,
       "words": [
         {
           "word": "calor",
           "score": 2
         },
         {
-          "word": "aumenta",
-          "score": 1
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
@@ -188,55 +226,82 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez se enfrenta al Congreso más hostil desde que es presidente para dar expl",
-      "score": 4.35,
+      "title": "Sánchez desvincula el 'caso Zapatero' del Gobierno y defiende a su familia: \"Le ",
+      "score": 4.93,
       "words": [
         {
-          "word": "hostil",
-          "score": -2
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justa",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justa",
+          "score": 2
         },
         {
           "word": "hostil",
           "score": -2
-        },
-        {
-          "word": "infierno",
-          "score": -4
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "provoca",
-          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "González y Page unen fuerzas contra Sánchez: \"Vivimos el momento de mayor degrad",
-      "score": 5.04,
+      "title": "🎙 PODCAST | Pasaporte Peinado: el viaje judicial de Begoña Gómez",
+      "score": 5.93,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "difícil",
+          "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "intenso",
-          "score": 1
-        },
-        {
-          "word": "mancha",
+          "word": "multa",
           "score": 2
         },
         {
-          "word": "avergonzado",
+          "word": "defensor",
+          "score": 2
+        },
+        {
+          "word": "escapa",
+          "score": -1
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo, a Sánchez: \"Usted es el nexo político corruptor, puso el Estado en manos",
+      "score": 5.34,
+      "words": [
+        {
+          "word": "alienta",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justa",
+          "score": 2
+        },
+        {
+          "word": "condena",
           "score": -2
+        },
+        {
+          "word": "exonerado",
+          "score": 2
         }
       ]
     },
@@ -269,6 +334,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Aldama se queja de haber tenido que pagar impuestos por su comisión de seis mill",
+      "score": 4.96,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "condenado",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El Supremo premia la aportación de Aldama para descubrir unos delitos que la UCO",
       "score": 4.5,
       "words": [
@@ -293,121 +385,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ábalos-Koldo-Aldama, otra caja negra de la corrupción",
-      "score": 4.27,
-      "words": [
-        {
-          "word": "fácil",
-          "score": 1
-        },
-        {
-          "word": "criticar",
-          "score": -2
-        },
-        {
-          "word": "combate",
-          "score": -1
-        },
-        {
-          "word": "exigente",
-          "score": -1
-        },
-        {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un calor extremo que no se va: por qué este verano es \"un aviso para el futuro\"",
-      "score": 5.69,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Seis delitos y seis detenidos: la redada en el Ayuntamiento de Soria siembra la ",
-      "score": 4.45,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "golpe",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Turno en Kitchen para la brigada política del PP: declara el policía asesor de C",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "interrogatorio",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "activo",
-          "score": 2
-        },
-        {
-          "word": "intereses",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-02T10:18:05Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-06-02T14:50:03Z",
       "score": 4.58
@@ -1075,6 +1055,10 @@
     {
       "timestamp": "2026-06-24T06:48:47Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-24T10:20:22Z",
+      "score": 4.69
     }
   ]
 }

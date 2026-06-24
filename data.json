@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-24T16:17:33Z",
-  "global_score": 4.98,
-  "articles_scored": 92,
-  "words_matched": 224,
+  "generated": "2026-06-24T18:49:12Z",
+  "global_score": 4.88,
+  "articles_scored": 89,
+  "words_matched": 225,
   "top_negative": [
     {
       "word": "negro",
@@ -17,23 +17,23 @@
       "score": -4
     },
     {
+      "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "escándalos",
       "score": -3
     },
     {
+      "word": "morir",
+      "score": -3
+    },
+    {
       "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "desconfianza",
-      "score": -3
-    },
-    {
-      "word": "destruir",
       "score": -3
     }
   ],
@@ -43,60 +43,60 @@
       "score": 4
     },
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "suerte",
+      "score": 3
     },
     {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "exitoso",
-      "score": 3
-    },
-    {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "mejor",
+      "word": "lealtad",
       "score": 3
     },
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.73,
-    "elDiario.es": 5.09,
-    "El Mundo": 4.86,
-    "ABC": 5.61,
-    "El Confidencial": 5.49,
-    "BBC Mundo": 5.27,
-    "France 24 ES": 4.69,
-    "La Nación AR": 4.87,
+    "El País": 4.28,
+    "elDiario.es": 5.1,
+    "El Mundo": 4.36,
+    "ABC": 5.5,
+    "El Confidencial": 4.83,
+    "BBC Mundo": 5.36,
+    "France 24 ES": 4.57,
+    "La Nación AR": 4.73,
     "La Jornada MX": 4.6,
     "Desinformémonos": 4.87,
-    "Resumen Latinoam.": 4.63
+    "Resumen Latinoam.": 5.25
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Sánchez a Junts: “Si quieren",
-      "score": 3.4,
+      "title": "El debate sobre la corrupción deja a Sánchez cada vez más solo en el Congreso",
+      "score": 5.0,
       "words": [
         {
-          "word": "carga",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "acusa",
-          "score": -2
+          "word": "éxito",
+          "score": 2
         }
       ]
     },
@@ -193,7 +193,7 @@
     },
     {
       "source": "El País",
-      "title": "Iván Cepeda acepta la derrota en la segunda vuelta: “Abelardo de la Espriella es",
+      "title": "Cepeda acepta la derrota en la segunda vuelta: “De la Espriella es el nuevo pres",
       "score": 5.8,
       "words": [
         {
@@ -208,46 +208,39 @@
     },
     {
       "source": "El País",
-      "title": "La Organización Meteorológica Mundial prevé que el episodio de calor continúe en",
-      "score": 6.6,
+      "title": "Convivencia, “empatía” y conocimiento del deseo de morir: el Supremo fija los re",
+      "score": 4.2,
       "words": [
         {
-          "word": "calor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Dónde hay alertas por calor? Consulte en qué municipios hay riesgo para la salu",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
+          "word": "deseo",
+          "score": 1
         },
         {
-          "word": "riesgo",
+          "word": "morir",
+          "score": -3
+        },
+        {
+          "word": "contencioso",
           "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "concesión",
+          "score": 1
+        },
+        {
+          "word": "muerte",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Trece recetas para cenas de verano con las que lucirse sin matarse",
-      "score": 6.6,
+      "title": "¿Quién jugará con quién? Consulte los cruces del Mundial en tiempo real",
+      "score": 3.4,
       "words": [
         {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
@@ -362,7 +355,7 @@
     {
       "source": "elDiario.es",
       "title": "Zapatero recopiló información de sus trabajos para Análisis Relevante tras la de",
-      "score": 4.45,
+      "score": 4.58,
       "words": [
         {
           "word": "detención",
@@ -385,13 +378,36 @@
           "score": -3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero quiere saber si se analizaron dispositivos incautados sin autorización ",
+      "score": 4.56,
+      "words": [
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "vil",
+          "score": -3
+        },
+        {
+          "word": "legal",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-02T21:46:23Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-06-02T23:43:25Z",
       "score": 4.65
@@ -1059,6 +1075,10 @@
     {
       "timestamp": "2026-06-24T16:17:33Z",
       "score": 4.98
+    },
+    {
+      "timestamp": "2026-06-24T18:49:12Z",
+      "score": 4.88
     }
   ]
 }

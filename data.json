@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-25T21:41:06Z",
-  "global_score": 4.72,
-  "articles_scored": 90,
-  "words_matched": 199,
+  "generated": "2026-06-25T23:15:10Z",
+  "global_score": 4.73,
+  "articles_scored": 91,
+  "words_matched": 201,
   "top_negative": [
     {
       "word": "empeora",
@@ -39,7 +39,7 @@
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -47,15 +47,11 @@
       "score": 4
     },
     {
-      "word": "lealtad",
+      "word": "leal",
       "score": 3
     },
     {
-      "word": "súper",
-      "score": 3
-    },
-    {
-      "word": "mejor",
+      "word": "premio",
       "score": 3
     },
     {
@@ -69,20 +65,24 @@
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.08,
+    "El País": 4.85,
     "elDiario.es": 4.85,
-    "El Mundo": 4.71,
-    "ABC": 5.11,
+    "El Mundo": 4.16,
+    "ABC": 5.25,
     "El Confidencial": 4.43,
-    "BBC Mundo": 3.67,
-    "France 24 ES": 5.16,
-    "La Nación AR": 4.38,
+    "BBC Mundo": 3.81,
+    "France 24 ES": 4.71,
+    "La Nación AR": 5.17,
     "La Jornada MX": 5.4,
-    "Desinformémonos": 4.19,
-    "Resumen Latinoam.": 4.75
+    "Desinformémonos": 4.07,
+    "Resumen Latinoam.": 4.89
   },
   "articles": [
     {
@@ -118,6 +118,17 @@
       "words": [
         {
           "word": "devastador",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Exteriores confirma la muerte de dos españoles en el seísmo y eleva a 80 la cifr",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "muerte",
           "score": -2
         }
       ]
@@ -161,6 +172,25 @@
         {
           "word": "víctimas",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El rey Felipe VI y Claudia Sheinbaum entierran el distanciamiento entre España y",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "tensión",
+          "score": -1
+        },
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "perdón",
+          "score": 2
         }
       ]
     },
@@ -359,67 +389,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Calama anuncia una investigación por la filtración de las agendas y mens",
-      "score": 4.29,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "escandaloso",
-          "score": -3
-        },
-        {
-          "word": "sensible",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno y varios socios lamentan la difusión de chats privados de Zapatero: ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "escandaloso",
-          "score": -3
-        },
-        {
-          "word": "escandaloso",
-          "score": -3
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "descartado",
-          "score": -1
-        },
-        {
-          "word": "creciente",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-04T14:53:27Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-06-04T17:43:53Z",
       "score": 4.8
@@ -1087,6 +1059,10 @@
     {
       "timestamp": "2026-06-25T21:41:06Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-25T23:15:10Z",
+      "score": 4.73
     }
   ]
 }

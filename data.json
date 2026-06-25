@@ -1,15 +1,23 @@
 {
-  "generated": "2026-06-25T11:40:17Z",
-  "global_score": 4.76,
-  "articles_scored": 94,
-  "words_matched": 207,
+  "generated": "2026-06-25T14:25:57Z",
+  "global_score": 4.8,
+  "articles_scored": 97,
+  "words_matched": 202,
   "top_negative": [
     {
-      "word": "fraude",
-      "score": -4
+      "word": "empeora",
+      "score": -3
+    },
+    {
+      "word": "catástrofe",
+      "score": -3
     },
     {
       "word": "muerto",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     },
     {
@@ -27,35 +35,19 @@
     {
       "word": "lunático",
       "score": -3
-    },
-    {
-      "word": "pierde",
-      "score": -3
-    },
-    {
-      "word": "enfado",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
+      "word": "excepcional",
+      "score": 5
     },
     {
       "word": "maravilloso",
       "score": 4
     },
     {
-      "word": "súper",
-      "score": 3
-    },
-    {
       "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
       "score": 3
     },
     {
@@ -63,24 +55,32 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "brillar",
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.29,
-    "elDiario.es": 4.63,
-    "El Mundo": 4.74,
-    "ABC": 5.01,
-    "El Confidencial": 4.45,
-    "BBC Mundo": 4.19,
-    "France 24 ES": 4.83,
-    "La Nación AR": 6.04,
-    "La Jornada MX": 4.6,
+    "El País": 4.32,
+    "elDiario.es": 4.81,
+    "El Mundo": 4.15,
+    "ABC": 4.78,
+    "El Confidencial": 4.4,
+    "BBC Mundo": 3.62,
+    "France 24 ES": 4.93,
+    "La Nación AR": 5.92,
+    "La Jornada MX": 5.4,
     "Desinformémonos": 4.22,
     "Resumen Latinoam.": 5.89
   },
@@ -109,22 +109,30 @@
     },
     {
       "source": "El País",
-      "title": "Cuerdas, linternas y vecinos rescatistas entre los escombros de Caracas: “¡Anton",
-      "score": 3.4,
+      "title": "Dos temblores superficiales en 39 segundos y mucha energía por liberar: por qué ",
+      "score": 2.87,
       "words": [
         {
-          "word": "miedo",
+          "word": "empeora",
+          "score": -3
+        },
+        {
+          "word": "catástrofe",
+          "score": -3
+        },
+        {
+          "word": "riesgo",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Venezuela, sacudida por un doblete sísmico: un siglo de energía liberada en una ",
+      "title": "Cuerdas, linternas y vecinos rescatistas entre los escombros de Caracas: “¡Anton",
       "score": 3.4,
       "words": [
         {
-          "word": "falla",
+          "word": "miedo",
           "score": -2
         }
       ]
@@ -176,38 +184,46 @@
     },
     {
       "source": "El País",
-      "title": "Un letrado imputado en el caso de Leire Díez: “Están persiguiendo a los abogados",
-      "score": 5.8,
+      "title": "El Congreso aprueba con el apoyo de Junts y Vox la moción del PP que pide la dim",
+      "score": 6.33,
       "words": [
         {
-          "word": "derecho",
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "confianza",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Ábalos califica de “político” el juicio y asegura desde la cárcel que pedirá la ",
-      "score": 4.47,
+      "title": "Feijóo acusa a Sánchez de “indisciplina” al poder legislativo si no dimite tras ",
+      "score": 4.73,
       "words": [
         {
-          "word": "asegura",
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "favor",
           "score": 2
         },
         {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "condenado",
-          "score": -2
+          "word": "renuncia",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan más de 150 mue",
-      "score": 5.23,
+      "score": 5.19,
       "words": [
         {
           "word": "rescate",
@@ -310,8 +326,35 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Zapatero pide a la Audiencia Nacional que anule toda la causa porque se ha vulne",
+      "score": 5.24,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El juez Calama anuncia una investigación por la filtración de las agendas y mens",
-      "score": 4.2,
+      "score": 4.29,
       "words": [
         {
           "word": "solo",
@@ -334,40 +377,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno y varios socios lamentan la difusión de chats privados de Zapatero: ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "escandaloso",
-          "score": -3
-        },
-        {
-          "word": "escandaloso",
-          "score": -3
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "descartado",
-          "score": -1
-        },
-        {
-          "word": "creciente",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-03T23:40:38Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-06-04T03:42:45Z",
       "score": 4.64
@@ -1035,6 +1047,10 @@
     {
       "timestamp": "2026-06-25T11:40:17Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-25T14:25:57Z",
+      "score": 4.8
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "generated": "2026-06-25T17:10:02Z",
-  "global_score": 4.82,
-  "articles_scored": 88,
-  "words_matched": 197,
+  "generated": "2026-06-25T19:55:52Z",
+  "global_score": 4.71,
+  "articles_scored": 97,
+  "words_matched": 203,
   "top_negative": [
-    {
-      "word": "fraude",
-      "score": -4
-    },
     {
       "word": "empeora",
       "score": -3
     },
     {
       "word": "catástrofe",
+      "score": -3
+    },
+    {
+      "word": "víctimas",
       "score": -3
     },
     {
@@ -39,19 +39,15 @@
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "maravilloso",
       "score": 4
     },
     {
-      "word": "mejor",
+      "word": "lealtad",
+      "score": 3
+    },
+    {
+      "word": "euforia",
       "score": 3
     },
     {
@@ -69,22 +65,41 @@
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.02,
-    "elDiario.es": 4.83,
-    "El Mundo": 4.31,
-    "ABC": 5.42,
-    "El Confidencial": 4.73,
-    "BBC Mundo": 3.54,
-    "France 24 ES": 5.71,
-    "La Nación AR": 4.33,
+    "El País": 5.08,
+    "elDiario.es": 4.84,
+    "El Mundo": 4.42,
+    "ABC": 5.34,
+    "El Confidencial": 4.72,
+    "BBC Mundo": 3.64,
+    "France 24 ES": 4.92,
+    "La Nación AR": 4.95,
     "La Jornada MX": 5.4,
     "Desinformémonos": 4.03,
-    "Resumen Latinoam.": 5.89
+    "Resumen Latinoam.": 4.43
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "En el epicentro del terremoto de Venezuela: “Una máquina, por favor. Necesito a ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "favor",
+          "score": 2
+        },
+        {
+          "word": "rescates",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Mapas y gráficos del devastador doble terremoto en Venezuela",
@@ -117,49 +132,42 @@
     },
     {
       "source": "El País",
-      "title": "Cuerdas, linternas y vecinos rescatistas entre los escombros de Caracas: “¡Anton",
-      "score": 3.4,
+      "title": "El terremoto en Venezuela, en vivo | Dos potentes terremotos sacuden el país dej",
+      "score": 6.6,
       "words": [
         {
-          "word": "miedo",
-          "score": -2
+          "word": "ayuda",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Dos potentes terremotos de 7,2 y 7,5 de magnitud sacuden el norte de Venezuela y",
-      "score": 3.4,
+      "title": "De los primeros temblores a los rescates: la reconstrucción visual del terremoto",
+      "score": 5.0,
       "words": [
         {
-          "word": "desastre",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un megáfono contra la opacidad: Venezuela afronta una tragedia sin apenas inform",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "tragedia",
-          "score": -2
+          "word": "rescates",
+          "score": 2
         },
         {
-          "word": "bloqueo",
+          "word": "rescates",
+          "score": 2
+        },
+        {
+          "word": "provocado",
           "score": -1
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "víctimas",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
       "title": "El Congreso aprueba con el apoyo de Junts y Vox la moción del PP que pide la dim",
-      "score": 6.4,
+      "score": 6.33,
       "words": [
         {
           "word": "aprueba",
@@ -172,10 +180,6 @@
         {
           "word": "confianza",
           "score": 1
-        },
-        {
-          "word": "aprobado",
-          "score": 2
         }
       ]
     },
@@ -200,28 +204,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan más de 150 mue",
-      "score": 5.19,
+      "title": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan más de 180 mue",
+      "score": 5.23,
       "words": [
         {
           "word": "rescate",
           "score": 2
         },
         {
+          "word": "pasado",
+          "score": -1
+        },
+        {
           "word": "muerto",
           "score": -3
         },
         {
-          "word": "dejar",
-          "score": -1
-        },
-        {
-          "word": "maravilloso",
-          "score": 4
-        },
-        {
-          "word": "enorme",
+          "word": "autoridad",
           "score": 1
+        },
+        {
+          "word": "salvar",
+          "score": 2
         }
       ]
     },
@@ -277,33 +281,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "desastre",
-          "score": -2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "temblor",
-          "score": -2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Qué es y cómo se produce un doblete sísmico como el que ha golpeado a Venezuela",
       "score": 3.93,
       "words": [
@@ -326,6 +303,33 @@
         {
           "word": "sentido",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "desastre",
+          "score": -2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "temblor",
+          "score": -2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
         }
       ]
     },
@@ -412,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-04T08:18:10Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-06-04T11:49:59Z",
       "score": 4.76
@@ -1083,6 +1083,10 @@
     {
       "timestamp": "2026-06-25T17:10:02Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-06-25T19:55:52Z",
+      "score": 4.71
     }
   ]
 }

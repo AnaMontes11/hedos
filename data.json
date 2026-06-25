@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-25T19:55:52Z",
-  "global_score": 4.71,
-  "articles_scored": 97,
-  "words_matched": 203,
+  "generated": "2026-06-25T21:41:06Z",
+  "global_score": 4.72,
+  "articles_scored": 90,
+  "words_matched": 199,
   "top_negative": [
     {
       "word": "empeora",
@@ -39,6 +39,10 @@
   ],
   "top_positive": [
     {
+      "word": "ganar",
+      "score": 4
+    },
+    {
       "word": "maravilloso",
       "score": 4
     },
@@ -47,7 +51,11 @@
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "súper",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     },
     {
@@ -61,28 +69,20 @@
     {
       "word": "popular",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 5.08,
-    "elDiario.es": 4.84,
-    "El Mundo": 4.42,
-    "ABC": 5.34,
-    "El Confidencial": 4.72,
-    "BBC Mundo": 3.64,
-    "France 24 ES": 4.92,
-    "La Nación AR": 4.95,
+    "elDiario.es": 4.85,
+    "El Mundo": 4.71,
+    "ABC": 5.11,
+    "El Confidencial": 4.43,
+    "BBC Mundo": 3.67,
+    "France 24 ES": 5.16,
+    "La Nación AR": 4.38,
     "La Jornada MX": 5.4,
-    "Desinformémonos": 4.03,
-    "Resumen Latinoam.": 4.43
+    "Desinformémonos": 4.19,
+    "Resumen Latinoam.": 4.75
   },
   "articles": [
     {
@@ -96,6 +96,17 @@
         },
         {
           "word": "rescates",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El terremoto en Venezuela, en vivo | Dos potentes terremotos sacuden el país dej",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ayuda",
           "score": 2
         }
       ]
@@ -127,17 +138,6 @@
         {
           "word": "riesgo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El terremoto en Venezuela, en vivo | Dos potentes terremotos sacuden el país dej",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "ayuda",
-          "score": 2
         }
       ]
     },
@@ -335,12 +335,12 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero pide a la Audiencia Nacional que anule toda la causa porque se ha vulne",
-      "score": 5.24,
+      "title": "Zapatero pide a la Audiencia Nacional que anule toda la causa por vulneración de",
+      "score": 5.36,
       "words": [
         {
-          "word": "derecho",
-          "score": 1
+          "word": "favor",
+          "score": 2
         },
         {
           "word": "derecho",
@@ -351,12 +351,12 @@
           "score": 1
         },
         {
-          "word": "derecho",
-          "score": 1
+          "word": "favor",
+          "score": 2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "delitos",
+          "score": -3
         }
       ]
     },
@@ -416,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-04T11:49:59Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-06-04T14:53:27Z",
       "score": 4.67
@@ -1087,6 +1083,10 @@
     {
       "timestamp": "2026-06-25T19:55:52Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-06-25T21:41:06Z",
+      "score": 4.72
     }
   ]
 }

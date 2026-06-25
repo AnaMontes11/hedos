@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-25T14:25:57Z",
-  "global_score": 4.8,
-  "articles_scored": 97,
-  "words_matched": 202,
+  "generated": "2026-06-25T17:10:02Z",
+  "global_score": 4.82,
+  "articles_scored": 88,
+  "words_matched": 197,
   "top_negative": [
+    {
+      "word": "fraude",
+      "score": -4
+    },
     {
       "word": "empeora",
       "score": -3
@@ -17,30 +21,30 @@
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "aterrador",
       "score": -3
     },
     {
-      "word": "escandaloso",
+      "word": "pánico",
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "vil",
       "score": -3
     },
     {
-      "word": "cargado",
-      "score": -3
-    },
-    {
-      "word": "lunático",
+      "word": "desesperado",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "ganador",
+      "score": 4
     },
     {
       "word": "maravilloso",
@@ -51,54 +55,39 @@
       "score": 3
     },
     {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
       "word": "popular",
       "score": 3
     },
     {
-      "word": "brillar",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "feliz",
-      "score": 3
-    },
-    {
-      "word": "bueno",
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.32,
-    "elDiario.es": 4.81,
-    "El Mundo": 4.15,
-    "ABC": 4.78,
-    "El Confidencial": 4.4,
-    "BBC Mundo": 3.62,
-    "France 24 ES": 4.93,
-    "La Nación AR": 5.92,
+    "El País": 4.02,
+    "elDiario.es": 4.83,
+    "El Mundo": 4.31,
+    "ABC": 5.42,
+    "El Confidencial": 4.73,
+    "BBC Mundo": 3.54,
+    "France 24 ES": 5.71,
+    "La Nación AR": 4.33,
     "La Jornada MX": 5.4,
-    "Desinformémonos": 4.22,
+    "Desinformémonos": 4.03,
     "Resumen Latinoam.": 5.89
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El terremoto en Venezuela, en vivo | Dos potentes terremotos sacuden el país dej",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "afectado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Mapas y primeros datos del devastador doble terremoto en Venezuela",
+      "title": "Mapas y gráficos del devastador doble terremoto en Venezuela",
       "score": 3.4,
       "words": [
         {
@@ -169,23 +158,8 @@
     },
     {
       "source": "El País",
-      "title": "Trump promete “ayudar rápidamente” a Venezuela tras el terremoto",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "rápidamente",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El Congreso aprueba con el apoyo de Junts y Vox la moción del PP que pide la dim",
-      "score": 6.33,
+      "score": 6.4,
       "words": [
         {
           "word": "aprueba",
@@ -198,6 +172,10 @@
         {
           "word": "confianza",
           "score": 1
+        },
+        {
+          "word": "aprobado",
+          "score": 2
         }
       ]
     },
@@ -244,6 +222,56 @@
         {
           "word": "enorme",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un temblor eterno y aterrador: así he vivido los terremotos en mi apartamento de",
+      "score": 4.76,
+      "words": [
+        {
+          "word": "temblor",
+          "score": -2
+        },
+        {
+          "word": "aterrador",
+          "score": -3
+        },
+        {
+          "word": "temblor",
+          "score": -2
+        },
+        {
+          "word": "aterrador",
+          "score": -3
+        },
+        {
+          "word": "pánico",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "FOTOS | Los efectos del terremoto en Venezuela, en imágenes",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
         }
       ]
     },
@@ -303,29 +331,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "FOTOS | Los efectos del terremoto en Venezuela, en imágenes",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Zapatero pide a la Audiencia Nacional que anule toda la causa porque se ha vulne",
       "score": 5.24,
       "words": [
@@ -377,13 +382,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno y varios socios lamentan la difusión de chats privados de Zapatero: ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "escandaloso",
+          "score": -3
+        },
+        {
+          "word": "escandaloso",
+          "score": -3
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "descartado",
+          "score": -1
+        },
+        {
+          "word": "creciente",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-04T03:42:45Z",
-      "score": 4.64
-    },
     {
       "timestamp": "2026-06-04T08:18:10Z",
       "score": 4.71
@@ -1051,6 +1079,10 @@
     {
       "timestamp": "2026-06-25T14:25:57Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-06-25T17:10:02Z",
+      "score": 4.82
     }
   ]
 }

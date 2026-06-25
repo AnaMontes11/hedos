@@ -1,11 +1,15 @@
 {
-  "generated": "2026-06-25T00:08:23Z",
+  "generated": "2026-06-25T05:02:20Z",
   "global_score": 4.66,
-  "articles_scored": 92,
-  "words_matched": 226,
+  "articles_scored": 99,
+  "words_matched": 325,
   "top_negative": [
     {
-      "word": "negro",
+      "word": "perra",
+      "score": -5
+    },
+    {
+      "word": "puto",
       "score": -5
     },
     {
@@ -13,31 +17,31 @@
       "score": -4
     },
     {
-      "word": "fraudulento",
+      "word": "polla",
       "score": -4
     },
     {
-      "word": "escándalos",
+      "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "puta",
+      "score": -4
+    },
+    {
+      "word": "cargado",
       "score": -3
     },
     {
-      "word": "morir",
-      "score": -3
-    },
-    {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "desconfianza",
+      "word": "empeorar",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
     {
       "word": "triunfo",
       "score": 4
@@ -47,19 +51,11 @@
       "score": 4
     },
     {
-      "word": "perfecto",
-      "score": 3
-    },
-    {
       "word": "súper",
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "emocionante",
+      "word": "perfecto",
       "score": 3
     },
     {
@@ -67,85 +63,107 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "excelente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.1,
-    "elDiario.es": 5.07,
-    "El Mundo": 4.36,
-    "ABC": 4.4,
-    "El Confidencial": 4.65,
-    "BBC Mundo": 4.68,
-    "France 24 ES": 5.53,
+    "El País": 4.69,
+    "elDiario.es": 4.59,
+    "El Mundo": 5.65,
+    "ABC": 4.84,
+    "El Confidencial": 3.87,
+    "BBC Mundo": 4.36,
+    "France 24 ES": 4.83,
     "La Nación AR": 4.19,
     "La Jornada MX": 4.6,
-    "Desinformémonos": 4.29,
-    "Resumen Latinoam.": 5.29
+    "Desinformémonos": 4.22,
+    "Resumen Latinoam.": 5.6
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Las palabras de Sánchez sobre Amador encienden al Gobierno de Ayuso: “Sufre una ",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "sufre",
-          "score": -2
-        },
-        {
-          "word": "escándalos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La UDEF asegura que Zapatero cobró 200.000 euros por influir a favor de una empr",
-      "score": 5.6,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "inaceptable",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los movimientos de Zapatero tras la detención de ‘Julito’ por Plus Ultra: “¿De c",
+      "title": "Dos potentes terremotos de 7,2 y 7,5 de magnitud sacuden el norte de Venezuela y",
       "score": 3.4,
       "words": [
         {
-          "word": "detención",
+          "word": "emergencia",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Patxi López responde a Felipe González tras pedir a Sánchez que dimita o convoqu",
+      "title": "El terremoto en Venezuela, en vivo | El Gobierno venezolano confirma que hay al ",
       "score": 3.8,
       "words": [
         {
-          "word": "evitado",
+          "word": "devastador",
+          "score": -2
+        },
+        {
+          "word": "afectado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cuerdas, linternas y vecinos rescatistas entre los escombros de Caracas: “¡Anton",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "miedo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La enigmática estrategia variable de Junts: “Votar lo mismo que PP y Vox no es v",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "confianza",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La política española huele a elecciones",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "tensión",
           "score": -1
         },
         {
-          "word": "choque",
-          "score": -2
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "viva",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sánchez aguanta; los demás sacan la calculadora",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "popular",
+          "score": 3
         }
       ]
     },
@@ -166,62 +184,12 @@
     },
     {
       "source": "El País",
-      "title": "El Consejo Nacional Electoral termina el escrutinio y confirma la victoria de Ab",
-      "score": 5.8,
+      "title": "Una jueza investiga si hubo negligencia en la muerte de un bebé en una guardería",
+      "score": 3.4,
       "words": [
         {
-          "word": "autoridad",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Keiko Fujimori se asegura la victoria en las presidenciales de Perú al obtener u",
-      "score": 4.33,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "ventaja",
-          "score": 2
-        },
-        {
-          "word": "irreversible",
-          "score": -1
-        },
-        {
-          "word": "denuncia",
+          "word": "negligencia",
           "score": -2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Convivencia, “empatía” y conocimiento del deseo de morir: el Supremo fija los re",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "deseo",
-          "score": 1
-        },
-        {
-          "word": "morir",
-          "score": -3
-        },
-        {
-          "word": "contencioso",
-          "score": -2
-        },
-        {
-          "word": "concesión",
-          "score": 1
         },
         {
           "word": "muerte",
@@ -231,183 +199,183 @@
     },
     {
       "source": "El País",
-      "title": "¿Quién jugará con quién? Consulte los cruces del Mundial en tiempo real",
-      "score": 3.4,
+      "title": "El Vinicius más afilado permite el debut de Neymar y que Brasil se divierta para",
+      "score": 6.2,
       "words": [
         {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez afirma que le \"apena y cabrea\" el 'caso Ábalos' y arremete contra Feijóo",
-      "score": 4.93,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justa",
-          "score": 2
-        },
-        {
-          "word": "hostil",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "dedicado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Junts pide a Sánchez que dimita y dé paso a otro presidente del PSOE y los socio",
-      "score": 5.43,
-      "words": [
-        {
-          "word": "robado",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justa",
-          "score": 2
-        },
-        {
-          "word": "claro",
+          "word": "afilado",
           "score": 1
         },
         {
-          "word": "apoyo",
+          "word": "reivindica",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo, a Sánchez: \"Usted es el nexo político corruptor, puso el Estado en manos",
-      "score": 5.38,
+      "title": "La causa contra Zapatero cuestiona sus negocios privados en el extranjero",
+      "score": 4.84,
       "words": [
         {
-          "word": "alienta",
+          "word": "rescate",
           "score": 2
         },
         {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "justa",
-          "score": 2
-        },
-        {
-          "word": "condena",
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "exonerado",
-          "score": 2
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "alcanzado",
+          "score": 1
+        },
+        {
+          "word": "acusa",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La parodia de Feijóo",
-      "score": 4.48,
+      "title": "Sánchez sale de su pleno más difícil con un aviso a la oposición y a sus socios ",
+      "score": 4.93,
       "words": [
         {
-          "word": "parodia",
+          "word": "difícil",
           "score": -2
         },
         {
-          "word": "parodia",
+          "word": "difícil",
           "score": -2
         },
         {
-          "word": "escándalos",
-          "score": -3
-        },
-        {
-          "word": "parodia",
-          "score": -2
-        },
-        {
-          "word": "fuerza",
+          "word": "mejorar",
           "score": 2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "admitir",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Begoña Gómez entrega su pasaporte en el juzgado por orden del juez Peinado",
-      "score": 4.56,
+      "title": "Alberto Núñez Feijóo, contrabandista de cadáveres",
+      "score": 4.42,
       "words": [
         {
-          "word": "pasado",
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "placer",
+          "score": 3
+        },
+        {
+          "word": "tranquilo",
+          "score": 2
+        },
+        {
+          "word": "espera",
           "score": -1
         },
         {
-          "word": "prohibición",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
+          "word": "rabioso",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero recopiló información de sus trabajos para Análisis Relevante tras la de",
-      "score": 4.83,
+      "title": "El expresidente de la Diputación y un alcalde cierran el desfile judicial de car",
+      "score": 4.76,
       "words": [
         {
-          "word": "detención",
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "detención",
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "gracias",
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "rico",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Almeida recoloca en un día y con sueldo récord a la pareja del consejero de Ayus",
+      "score": 4.5,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "responsable",
           "score": 2
         },
         {
-          "word": "libertad",
-          "score": 2
+          "word": "puesto",
+          "score": -2
         },
         {
-          "word": "retirada",
-          "score": -3
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP de Ayuso quiere censurar nuestro festival",
+      "score": 4.65,
+      "words": [
+        {
+          "word": "censurar",
+          "score": -2
+        },
+        {
+          "word": "censurar",
+          "score": -2
+        },
+        {
+          "word": "cancelar",
+          "score": -1
+        },
+        {
+          "word": "crítico",
+          "score": -2
+        },
+        {
+          "word": "serio",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-03T13:14:41Z",
-      "score": 4.87
-    },
     {
       "timestamp": "2026-06-03T18:21:12Z",
       "score": 5.02
@@ -1074,6 +1042,10 @@
     },
     {
       "timestamp": "2026-06-25T00:08:23Z",
+      "score": 4.66
+    },
+    {
+      "timestamp": "2026-06-25T05:02:20Z",
       "score": 4.66
     }
   ]

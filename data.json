@@ -1,53 +1,45 @@
 {
-  "generated": "2026-06-25T08:56:38Z",
-  "global_score": 4.69,
-  "articles_scored": 95,
-  "words_matched": 279,
+  "generated": "2026-06-25T11:40:17Z",
+  "global_score": 4.76,
+  "articles_scored": 94,
+  "words_matched": 207,
   "top_negative": [
-    {
-      "word": "perra",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "torturado",
-      "score": -4
+      "word": "muerto",
+      "score": -3
     },
     {
-      "word": "culo",
-      "score": -4
+      "word": "escandaloso",
+      "score": -3
+    },
+    {
+      "word": "delito",
+      "score": -3
     },
     {
       "word": "cargado",
       "score": -3
     },
     {
-      "word": "empeorar",
+      "word": "lunático",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "pierde",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "enfado",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
       "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "ganar",
       "score": 4
     },
     {
@@ -59,7 +51,7 @@
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "mejor",
       "score": 3
     },
     {
@@ -67,19 +59,27 @@
       "score": 3
     },
     {
-      "word": "euforia",
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "mayor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.3,
-    "elDiario.es": 4.65,
+    "El País": 4.29,
+    "elDiario.es": 4.63,
     "El Mundo": 4.74,
-    "ABC": 4.69,
-    "El Confidencial": 4.97,
-    "BBC Mundo": 4.36,
-    "France 24 ES": 5.12,
-    "La Nación AR": 4.05,
+    "ABC": 5.01,
+    "El Confidencial": 4.45,
+    "BBC Mundo": 4.19,
+    "France 24 ES": 4.83,
+    "La Nación AR": 6.04,
     "La Jornada MX": 4.6,
     "Desinformémonos": 4.22,
     "Resumen Latinoam.": 5.89
@@ -93,20 +93,16 @@
         {
           "word": "afectado",
           "score": -1
-        },
-        {
-          "word": "afectado",
-          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Dos potentes terremotos de 7,2 y 7,5 de magnitud sacuden el norte de Venezuela y",
+      "title": "Mapas y primeros datos del devastador doble terremoto en Venezuela",
       "score": 3.4,
       "words": [
         {
-          "word": "desastre",
+          "word": "devastador",
           "score": -2
         }
       ]
@@ -129,6 +125,17 @@
       "words": [
         {
           "word": "falla",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Dos potentes terremotos de 7,2 y 7,5 de magnitud sacuden el norte de Venezuela y",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "desastre",
           "score": -2
         }
       ]
@@ -169,7 +176,18 @@
     },
     {
       "source": "El País",
-      "title": "Ábalos califica de “político” el juicio en el Supremo y asegura que estaba “pred",
+      "title": "Un letrado imputado en el caso de Leire Díez: “Están persiguiendo a los abogados",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ábalos califica de “político” el juicio y asegura desde la cárcel que pedirá la ",
       "score": 4.47,
       "words": [
         {
@@ -177,38 +195,27 @@
           "score": 2
         },
         {
-          "word": "condenado",
-          "score": -2
-        },
-        {
           "word": "sentencia",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sánchez apura los últimos cartuchos para mantener viva la legislatura antes de i",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "viva",
-          "score": 1
         },
         {
-          "word": "admite",
-          "score": -1
+          "word": "condenado",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan decenas de mue",
-      "score": 5.38,
+      "title": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan más de 150 mue",
+      "score": 5.23,
       "words": [
         {
-          "word": "fuerte",
+          "word": "rescate",
           "score": 2
+        },
+        {
+          "word": "muerto",
+          "score": -3
         },
         {
           "word": "dejar",
@@ -221,10 +228,60 @@
         {
           "word": "enorme",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
         },
         {
-          "word": "devastador",
+          "word": "desastre",
           "score": -2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "temblor",
+          "score": -2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Qué es y cómo se produce un doblete sísmico como el que ha golpeado a Venezuela",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "golpeado",
+          "score": -1
+        },
+        {
+          "word": "golpeado",
+          "score": -1
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "temblor",
+          "score": -2
+        },
+        {
+          "word": "sentido",
+          "score": 3
         }
       ]
     },
@@ -253,51 +310,24 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Un doblete sísmico que asola Venezuela: preguntas y respuestas",
-      "score": 3.88,
+      "title": "El juez Calama anuncia una investigación por la filtración de las agendas y mens",
+      "score": 4.2,
       "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "temblor",
-          "score": -2
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        },
         {
           "word": "solo",
           "score": -2
         },
         {
-          "word": "temblor",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La causa contra Zapatero cuestiona sus negocios privados en el extranjero",
-      "score": 4.84,
-      "words": [
+          "word": "escandaloso",
+          "score": -3
+        },
         {
-          "word": "rescate",
+          "word": "sensible",
           "score": 2
         },
         {
-          "word": "denuncia",
+          "word": "solo",
           "score": -2
-        },
-        {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "alcanzado",
-          "score": 1
         },
         {
           "word": "acusa",
@@ -307,91 +337,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez sale de su pleno más difícil con un aviso a la oposición y a sus socios ",
-      "score": 4.93,
+      "title": "El Gobierno y varios socios lamentan la difusión de chats privados de Zapatero: ",
+      "score": 4.2,
       "words": [
         {
-          "word": "difícil",
-          "score": -2
-        },
-        {
-          "word": "difícil",
-          "score": -2
-        },
-        {
-          "word": "mejorar",
-          "score": 2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "admitir",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "\"Es un horror\": Trump insulta a España mientras carga contra Francia, Italia y A",
-      "score": 4.57,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "pasivo",
-          "score": -1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "decepción",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Traspasar todas las líneas rojas",
-      "score": 4.3,
-      "words": [
-        {
-          "word": "desesperado",
+          "word": "escandaloso",
           "score": -3
         },
         {
-          "word": "devastador",
+          "word": "escandaloso",
+          "score": -3
+        },
+        {
+          "word": "tiempo",
           "score": -2
         },
         {
-          "word": "valida",
+          "word": "descartado",
+          "score": -1
+        },
+        {
+          "word": "creciente",
           "score": 1
-        },
-        {
-          "word": "insulto",
-          "score": -2
-        },
-        {
-          "word": "frustración",
-          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-03T21:46:36Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-06-03T23:40:38Z",
       "score": 4.75
@@ -1059,6 +1031,10 @@
     {
       "timestamp": "2026-06-25T08:56:38Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-06-25T11:40:17Z",
+      "score": 4.76
     }
   ]
 }

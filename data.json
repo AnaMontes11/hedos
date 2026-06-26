@@ -1,11 +1,15 @@
 {
-  "generated": "2026-06-26T03:25:23Z",
-  "global_score": 4.68,
+  "generated": "2026-06-26T07:48:30Z",
+  "global_score": 4.7,
   "articles_scored": 92,
-  "words_matched": 217,
+  "words_matched": 237,
   "top_negative": [
     {
-      "word": "fraude",
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "culo",
       "score": -4
     },
     {
@@ -13,7 +17,7 @@
       "score": -4
     },
     {
-      "word": "empeora",
+      "word": "víctimas",
       "score": -3
     },
     {
@@ -21,19 +25,15 @@
       "score": -3
     },
     {
-      "word": "víctimas",
+      "word": "morir",
       "score": -3
     },
     {
-      "word": "muerto",
+      "word": "vil",
       "score": -3
     },
     {
-      "word": "aterrador",
-      "score": -3
-    },
-    {
-      "word": "pánico",
+      "word": "terrible",
       "score": -3
     }
   ],
@@ -43,19 +43,11 @@
       "score": 4
     },
     {
-      "word": "maravilloso",
-      "score": 4
-    },
-    {
       "word": "leal",
       "score": 3
     },
     {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "placer",
+      "word": "amor",
       "score": 3
     },
     {
@@ -63,23 +55,31 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     },
     {
       "word": "celebrar",
       "score": 3
+    },
+    {
+      "word": "bondad",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.85,
-    "elDiario.es": 4.85,
-    "El Mundo": 4.43,
-    "ABC": 4.92,
-    "El Confidencial": 4.32,
-    "BBC Mundo": 4.01,
-    "France 24 ES": 5.04,
-    "La Nación AR": 4.87,
+    "El País": 4.55,
+    "elDiario.es": 4.97,
+    "El Mundo": 4.16,
+    "ABC": 4.9,
+    "El Confidencial": 5.61,
+    "BBC Mundo": 4.03,
+    "France 24 ES": 4.81,
+    "La Nación AR": 4.7,
     "La Jornada MX": 5.4,
     "Desinformémonos": 4.2,
     "Resumen Latinoam.": 4.33
@@ -87,22 +87,7 @@
   "articles": [
     {
       "source": "El País",
-      "title": "En el epicentro del terremoto de Venezuela: “Una máquina, por favor. Necesito a ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "rescates",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El terremoto en Venezuela, en vivo | El Gobierno de Venezuela eleva a 235 los mu",
+      "title": "Última hora del terremoto en Venezuela, en directo | El Gobierno de Venezuela el",
       "score": 6.6,
       "words": [
         {
@@ -113,12 +98,12 @@
     },
     {
       "source": "El País",
-      "title": "Mapas y gráficos del devastador doble terremoto en Venezuela",
-      "score": 3.4,
+      "title": "Ayuda a cuentagotas, una noche en la calle y saqueos en La Guaira, la ciudad ven",
+      "score": 6.6,
       "words": [
         {
-          "word": "devastador",
-          "score": -2
+          "word": "ayuda",
+          "score": 2
         }
       ]
     },
@@ -135,39 +120,46 @@
     },
     {
       "source": "El País",
-      "title": "Dos temblores superficiales en 39 segundos y mucha energía por liberar: por qué ",
-      "score": 2.87,
+      "title": "El terremoto en Venezuela pone a prueba la ‘doctrina Donroe’ de Trump en América",
+      "score": 4.73,
       "words": [
         {
-          "word": "empeora",
-          "score": -3
+          "word": "suspendido",
+          "score": -1
         },
         {
-          "word": "catástrofe",
-          "score": -3
+          "word": "ayuda",
+          "score": 2
         },
         {
-          "word": "riesgo",
+          "word": "desastre",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "De los primeros temblores a los rescates: la reconstrucción visual del terremoto",
-      "score": 5.0,
+      "title": "Japón tiembla sin víctimas mientras Venezuela colapsa: la diferencia es la preve",
+      "score": 3.4,
       "words": [
         {
-          "word": "rescates",
-          "score": 2
+          "word": "víctimas",
+          "score": -3
         },
         {
-          "word": "rescates",
-          "score": 2
-        },
-        {
-          "word": "provocado",
+          "word": "alerta",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las empresas españolas en Venezuela confían en que el impacto de los terremotos ",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "daños",
+          "score": -2
         },
         {
           "word": "víctimas",
@@ -196,143 +188,62 @@
     },
     {
       "source": "El País",
-      "title": "El Congreso aprueba con el apoyo de Junts y Vox la moción del PP que pide la dim",
-      "score": 6.33,
-      "words": [
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Feijóo acusa a Sánchez de “indisciplina” al poder legislativo si no dimite tras ",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "renuncia",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Dos potentes terremotos de 7,2 y 7,5 golpean Venezuela y provocan más de 180 mue",
-      "score": 5.23,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "salvar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un temblor eterno y aterrador: así he vivido los terremotos en mi apartamento de",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "temblor",
-          "score": -2
-        },
-        {
-          "word": "aterrador",
-          "score": -3
-        },
-        {
-          "word": "temblor",
-          "score": -2
-        },
-        {
-          "word": "aterrador",
-          "score": -3
-        },
-        {
-          "word": "pánico",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "FOTOS | Los efectos del terremoto en Venezuela, en imágenes",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué es y cómo se produce un doblete sísmico como el que ha golpeado a Venezuela",
+      "title": "Sánchez ignora la petición de dimisión y reta al PP y Junts a presentar una cens",
       "score": 3.93,
       "words": [
         {
-          "word": "golpeado",
+          "word": "ignora",
           "score": -1
         },
         {
-          "word": "golpeado",
+          "word": "desconcertado",
+          "score": -2
+        },
+        {
+          "word": "espera",
           "score": -1
-        },
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Desolación e incertidumbre en Venezuela, que suma ya 235 muertos y 4.300 heridos",
+      "score": 4.63,
+      "words": [
         {
-          "word": "tiempo",
+          "word": "angustia",
           "score": -2
         },
         {
-          "word": "temblor",
-          "score": -2
+          "word": "catástrofe",
+          "score": -3
         },
         {
-          "word": "sentido",
+          "word": "adora",
           "score": 3
+        },
+        {
+          "word": "incapaz",
+          "score": -2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Exteriores confirma dos españoles muertos y 80 desparecidos en los terremotos de",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "emergencia",
+          "score": -2
         }
       ]
     },
@@ -365,11 +276,46 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Zapatero pide a la Audiencia Nacional que anule toda la causa por vulneración de",
-      "score": 5.36,
+      "title": "Un temblor eterno y aterrador: así he vivido los terremotos en mi apartamento de",
+      "score": 4.76,
       "words": [
         {
-          "word": "favor",
+          "word": "temblor",
+          "score": -2
+        },
+        {
+          "word": "aterrador",
+          "score": -3
+        },
+        {
+          "word": "temblor",
+          "score": -2
+        },
+        {
+          "word": "aterrador",
+          "score": -3
+        },
+        {
+          "word": "pánico",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Rodolfo Reyes, sobre el rescate de Plus Ultra: “Me dicen que García Legaz tiene ",
+      "score": 5.45,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "rescate",
           "score": 2
         },
         {
@@ -377,25 +323,67 @@
           "score": 1
         },
         {
-          "word": "derecho",
-          "score": 1
+          "word": "vil",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Mercado de filtraciones en Casa Calama",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "gracias",
+          "score": 2
         },
         {
-          "word": "favor",
-          "score": 2
+          "word": "delito",
+          "score": -3
         },
         {
           "word": "delitos",
           "score": -3
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez, la Policía y las joyas de Zapatero",
+      "score": 4.95,
+      "words": [
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "cumplido",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-04T20:01:29Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-06-04T22:18:27Z",
       "score": 4.63
@@ -1063,6 +1051,10 @@
     {
       "timestamp": "2026-06-26T03:25:23Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-06-26T07:48:30Z",
+      "score": 4.7
     }
   ]
 }

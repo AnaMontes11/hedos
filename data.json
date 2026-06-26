@@ -1,13 +1,9 @@
 {
-  "generated": "2026-06-26T07:48:30Z",
-  "global_score": 4.7,
-  "articles_scored": 92,
-  "words_matched": 237,
+  "generated": "2026-06-26T10:48:21Z",
+  "global_score": 4.72,
+  "articles_scored": 80,
+  "words_matched": 223,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -15,6 +11,10 @@
     {
       "word": "violación",
       "score": -4
+    },
+    {
+      "word": "destrucción",
+      "score": -3
     },
     {
       "word": "víctimas",
@@ -43,23 +43,15 @@
       "score": 4
     },
     {
-      "word": "leal",
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "delicias",
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "caro",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "mejor",
+      "word": "exitoso",
       "score": 3
     },
     {
@@ -69,30 +61,56 @@
     {
       "word": "bondad",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "excelente",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.55,
-    "elDiario.es": 4.97,
-    "El Mundo": 4.16,
-    "ABC": 4.9,
-    "El Confidencial": 5.61,
+    "El País": 4.93,
+    "elDiario.es": 5.04,
+    "El Mundo": 4.51,
+    "El Confidencial": 5.11,
     "BBC Mundo": 4.03,
     "France 24 ES": 4.81,
-    "La Nación AR": 4.7,
-    "La Jornada MX": 5.4,
+    "La Nación AR": 5.02,
+    "La Jornada MX": 5.2,
     "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.33
+    "Resumen Latinoam.": 4.28
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del terremoto en Venezuela, en directo | El Gobierno de Venezuela el",
+      "title": "Última hora del terremoto en Venezuela, en directo | Rescates a la desesperada e",
       "score": 6.6,
       "words": [
         {
+          "word": "rescates",
+          "score": 2
+        },
+        {
           "word": "ayuda",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Mapas del terremoto en Venezuela: el antes y después con imágenes satélite",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "enorme",
+          "score": 1
+        },
+        {
+          "word": "destrucción",
+          "score": -3
         }
       ]
     },
@@ -154,21 +172,6 @@
     },
     {
       "source": "El País",
-      "title": "Las empresas españolas en Venezuela confían en que el impacto de los terremotos ",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "daños",
-          "score": -2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "El rey Felipe VI y Claudia Sheinbaum entierran el distanciamiento entre España y",
       "score": 4.73,
       "words": [
@@ -188,20 +191,12 @@
     },
     {
       "source": "El País",
-      "title": "Sánchez ignora la petición de dimisión y reta al PP y Junts a presentar una cens",
-      "score": 3.93,
+      "title": "El juez ofrece a Hacienda personarse en la investigación sobre las joyas de Zapa",
+      "score": 5.8,
       "words": [
         {
-          "word": "ignora",
-          "score": -1
-        },
-        {
-          "word": "desconcertado",
-          "score": -2
-        },
-        {
-          "word": "espera",
-          "score": -1
+          "word": "joyas",
+          "score": 1
         }
       ]
     },
@@ -234,12 +229,16 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Exteriores confirma dos españoles muertos y 80 desparecidos en los terremotos de",
-      "score": 4.6,
+      "title": "Exteriores confirma tres españoles muertos y 99 \"no localizados\" en los terremot",
+      "score": 5.27,
       "words": [
         {
           "word": "asuntos",
           "score": 1
+        },
+        {
+          "word": "rescate",
+          "score": 2
         },
         {
           "word": "emergencia",
@@ -249,28 +248,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas",
-      "score": 5.1,
+      "title": "La delegada del Gobierno de Canarias en Venezuela, Isabel Jara, desaparecida tra",
+      "score": 5.35,
       "words": [
         {
-          "word": "rescate",
+          "word": "esperanza",
           "score": 2
         },
         {
-          "word": "desastre",
-          "score": -2
+          "word": "asuntos",
+          "score": 1
         },
         {
-          "word": "fuerte",
+          "word": "ayuda",
           "score": 2
         },
         {
-          "word": "temblor",
+          "word": "demandar",
           "score": -2
         },
         {
-          "word": "emergencia",
-          "score": -2
+          "word": "capacidad",
+          "score": 2
         }
       ]
     },
@@ -303,6 +302,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "desastre",
+          "score": -2
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "temblor",
+          "score": -2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Rodolfo Reyes, sobre el rescate de Plus Ultra: “Me dicen que García Legaz tiene ",
       "score": 5.45,
       "words": [
@@ -330,64 +356,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Mercado de filtraciones en Casa Calama",
-      "score": 4.4,
+      "title": "Luis Arce niega que Zapatero le pidiese mediar en favor de una empresa en un lit",
+      "score": 5.22,
       "words": [
         {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "acusado",
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "gracias",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez, la Policía y las joyas de Zapatero",
-      "score": 4.95,
-      "words": [
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "fuerte",
+          "word": "favor",
           "score": 2
         },
         {
-          "word": "cumplido",
+          "word": "litigio",
+          "score": -1
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "favor",
           "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-04T22:18:27Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-06-05T00:03:50Z",
       "score": 4.66
@@ -1055,6 +1050,10 @@
     {
       "timestamp": "2026-06-26T07:48:30Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-06-26T10:48:21Z",
+      "score": 4.72
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
-  "generated": "2026-06-26T13:08:26Z",
-  "global_score": 4.69,
-  "articles_scored": 85,
-  "words_matched": 225,
+  "generated": "2026-06-26T16:13:22Z",
+  "global_score": 4.85,
+  "articles_scored": 80,
+  "words_matched": 213,
   "top_negative": [
     {
-      "word": "violación",
+      "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "torturas",
       "score": -4
     },
     {
@@ -17,7 +21,7 @@
       "score": -3
     },
     {
-      "word": "malo",
+      "word": "pánico",
       "score": -3
     },
     {
@@ -31,17 +35,9 @@
     {
       "word": "vil",
       "score": -3
-    },
-    {
-      "word": "terrible",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "triunfo",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -55,7 +51,11 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "exitoso",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     },
     {
@@ -63,40 +63,35 @@
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "euforia",
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "bondad",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.56,
-    "elDiario.es": 5.0,
-    "El Mundo": 4.41,
-    "ABC": 5.4,
-    "El Confidencial": 4.71,
-    "BBC Mundo": 4.21,
-    "France 24 ES": 4.78,
-    "La Nación AR": 3.98,
+    "El País": 5.02,
+    "elDiario.es": 4.97,
+    "El Mundo": 5.13,
+    "El Confidencial": 4.97,
+    "BBC Mundo": 4.23,
+    "France 24 ES": 5.46,
+    "La Nación AR": 4.54,
     "La Jornada MX": 5.2,
-    "Desinformémonos": 4.2,
-    "Resumen Latinoam.": 4.28
+    "Desinformémonos": 4.44,
+    "Resumen Latinoam.": 4.54
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del terremoto en Venezuela, en directo | Venezuela eleva a 589 la ci",
-      "score": 4.2,
+      "title": "Última hora del terremoto en Venezuela, en directo | Exteriores eleva a 14 los e",
+      "score": 4.6,
       "words": [
         {
           "word": "víctimas",
           "score": -3
-        },
-        {
-          "word": "emergencia",
-          "score": -2
         },
         {
           "word": "ayuda",
@@ -127,6 +122,17 @@
         {
           "word": "ayuda",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Exteriores eleva a 14 los españoles bajo los escombros de edificios derrumbados ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "aumenta",
+          "score": 1
         }
       ]
     },
@@ -166,16 +172,28 @@
     },
     {
       "source": "El País",
-      "title": "Dos generales ratifican que les ordenaron que la UCO se pusiera “de perfil” en c",
-      "score": 3.0,
+      "title": "“¡Dios mío, todavía tiembla fuerte!”: los vídeos del pánico grabado por los test",
+      "score": 5.0,
       "words": [
         {
-          "word": "malo",
+          "word": "dios",
+          "score": 1
+        },
+        {
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "pánico",
           "score": -3
         },
         {
-          "word": "solo",
+          "word": "colapso",
           "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
         }
       ]
     },
@@ -327,20 +345,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Exteriores confirma cuatro españoles muertos y 99 \"no localizados\" en los terrem",
-      "score": 5.27,
+      "title": "Exteriores confirma cuatro españoles muertos, 106 desaparecidos y 14 \"bajo los e",
+      "score": 5.5,
       "words": [
         {
-          "word": "asuntos",
-          "score": 1
+          "word": "espera",
+          "score": -1
         },
         {
           "word": "rescate",
           "score": 2
         },
         {
-          "word": "emergencia",
-          "score": -2
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "asuntos",
+          "score": 1
         }
       ]
     },
@@ -370,40 +396,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Rodolfo Reyes, sobre el rescate de Plus Ultra: “Me dicen que García Legaz tiene ",
-      "score": 5.45,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "vil",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-05T05:13:47Z",
-      "score": 4.56
-    },
     {
       "timestamp": "2026-06-05T09:41:07Z",
       "score": 4.48
@@ -1071,6 +1066,10 @@
     {
       "timestamp": "2026-06-26T13:08:26Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-06-26T16:13:22Z",
+      "score": 4.85
     }
   ]
 }

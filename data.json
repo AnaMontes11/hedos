@@ -1,23 +1,23 @@
 {
-  "generated": "2026-06-26T10:48:21Z",
-  "global_score": 4.72,
-  "articles_scored": 80,
-  "words_matched": 223,
+  "generated": "2026-06-26T13:08:26Z",
+  "global_score": 4.69,
+  "articles_scored": 85,
+  "words_matched": 225,
   "top_negative": [
-    {
-      "word": "culo",
-      "score": -4
-    },
     {
       "word": "violación",
       "score": -4
+    },
+    {
+      "word": "víctimas",
+      "score": -3
     },
     {
       "word": "destrucción",
       "score": -3
     },
     {
-      "word": "víctimas",
+      "word": "malo",
       "score": -3
     },
     {
@@ -47,11 +47,11 @@
       "score": 4
     },
     {
-      "word": "delicias",
-      "score": 3
+      "word": "milagro",
+      "score": 4
     },
     {
-      "word": "exitoso",
+      "word": "delicias",
       "score": 3
     },
     {
@@ -59,7 +59,7 @@
       "score": 3
     },
     {
-      "word": "bondad",
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -72,13 +72,14 @@
     }
   ],
   "per_source": {
-    "El País": 4.93,
-    "elDiario.es": 5.04,
-    "El Mundo": 4.51,
-    "El Confidencial": 5.11,
-    "BBC Mundo": 4.03,
-    "France 24 ES": 4.81,
-    "La Nación AR": 5.02,
+    "El País": 4.56,
+    "elDiario.es": 5.0,
+    "El Mundo": 4.41,
+    "ABC": 5.4,
+    "El Confidencial": 4.71,
+    "BBC Mundo": 4.21,
+    "France 24 ES": 4.78,
+    "La Nación AR": 3.98,
     "La Jornada MX": 5.2,
     "Desinformémonos": 4.2,
     "Resumen Latinoam.": 4.28
@@ -86,12 +87,16 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora del terremoto en Venezuela, en directo | Rescates a la desesperada e",
-      "score": 6.6,
+      "title": "Última hora del terremoto en Venezuela, en directo | Venezuela eleva a 589 la ci",
+      "score": 4.2,
       "words": [
         {
-          "word": "rescates",
-          "score": 2
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "emergencia",
+          "score": -2
         },
         {
           "word": "ayuda",
@@ -122,17 +127,6 @@
         {
           "word": "ayuda",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Exteriores confirma la muerte de dos españoles en el seísmo y eleva a 80 la cifr",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "muerte",
-          "score": -2
         }
       ]
     },
@@ -172,20 +166,16 @@
     },
     {
       "source": "El País",
-      "title": "El rey Felipe VI y Claudia Sheinbaum entierran el distanciamiento entre España y",
-      "score": 4.73,
+      "title": "Dos generales ratifican que les ordenaron que la UCO se pusiera “de perfil” en c",
+      "score": 3.0,
       "words": [
         {
-          "word": "tensión",
-          "score": -1
+          "word": "malo",
+          "score": -3
         },
         {
-          "word": "polémica",
+          "word": "solo",
           "score": -2
-        },
-        {
-          "word": "perdón",
-          "score": 2
         }
       ]
     },
@@ -202,7 +192,7 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Desolación e incertidumbre en Venezuela, que suma ya 235 muertos y 4.300 heridos",
+      "title": "Desolación e incertidumbre en Venezuela, que suma ya 589 muertos y 4.300 heridos",
       "score": 4.63,
       "words": [
         {
@@ -223,52 +213,6 @@
         },
         {
           "word": "fuerte",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Exteriores confirma tres españoles muertos y 99 \"no localizados\" en los terremot",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La delegada del Gobierno de Canarias en Venezuela, Isabel Jara, desaparecida tra",
-      "score": 5.35,
-      "words": [
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "demandar",
-          "score": -2
-        },
-        {
-          "word": "capacidad",
           "score": 2
         }
       ]
@@ -302,6 +246,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Las imágenes por satélite muestran el antes y el después del terremoto en Venezu",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "suspiro",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        },
+        {
+          "word": "grande",
+          "score": 1
+        },
+        {
+          "word": "grande",
+          "score": 1
+        },
+        {
+          "word": "grande",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas",
       "score": 5.1,
       "words": [
@@ -324,6 +295,79 @@
         {
           "word": "emergencia",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La delegada del Gobierno de Canarias en Venezuela, Isabel Jara, una de las vícti",
+      "score": 5.3,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "tragedia",
+          "score": -2
+        },
+        {
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Exteriores confirma cuatro españoles muertos y 99 \"no localizados\" en los terrem",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "asuntos",
+          "score": 1
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Zapatero pide al juez que saque de la causa el informe sobre sus negocios en Bol",
+      "score": 4.16,
+      "words": [
+        {
+          "word": "atropello",
+          "score": -3
+        },
+        {
+          "word": "atropello",
+          "score": -3
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "cobrar",
+          "score": -2
+        },
+        {
+          "word": "favor",
+          "score": 2
         }
       ]
     },
@@ -353,40 +397,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Luis Arce niega que Zapatero le pidiese mediar en favor de una empresa en un lit",
-      "score": 5.22,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        },
-        {
-          "word": "litigio",
-          "score": -1
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-05T00:03:50Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-06-05T05:13:47Z",
       "score": 4.56
@@ -1054,6 +1067,10 @@
     {
       "timestamp": "2026-06-26T10:48:21Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-26T13:08:26Z",
+      "score": 4.69
     }
   ]
 }

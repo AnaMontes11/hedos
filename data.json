@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-27T16:02:29Z",
-  "global_score": 4.79,
-  "articles_scored": 102,
-  "words_matched": 267,
+  "generated": "2026-06-27T17:59:45Z",
+  "global_score": 4.61,
+  "articles_scored": 103,
+  "words_matched": 255,
   "top_negative": [
     {
       "word": "pinchazo",
@@ -13,11 +13,15 @@
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "fraude",
       "score": -4
     },
     {
       "word": "atropello",
+      "score": -3
+    },
+    {
+      "word": "crueldad",
       "score": -3
     },
     {
@@ -31,17 +35,9 @@
     {
       "word": "traicionado",
       "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "maravilloso",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -51,38 +47,42 @@
       "score": 4
     },
     {
-      "word": "diversiones",
+      "word": "feliz",
       "score": 3
     },
     {
-      "word": "cariñoso",
-      "score": 3
-    },
-    {
-      "word": "glamour",
-      "score": 3
-    },
-    {
-      "word": "celebrando",
+      "word": "premios",
       "score": 3
     },
     {
       "word": "impresionante",
       "score": 3
+    },
+    {
+      "word": "emocionante",
+      "score": 3
+    },
+    {
+      "word": "perfecto",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.41,
-    "elDiario.es": 5.12,
-    "El Mundo": 3.85,
-    "ABC": 5.41,
+    "El País": 5.57,
+    "elDiario.es": 5.13,
+    "El Mundo": 4.29,
+    "ABC": 4.85,
     "El Confidencial": 3.7,
-    "BBC Mundo": 4.93,
-    "France 24 ES": 5.01,
-    "La Nación AR": 5.24,
+    "BBC Mundo": 5.12,
+    "France 24 ES": 5.17,
+    "La Nación AR": 3.87,
     "La Jornada MX": 4.75,
     "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 4.5
+    "Resumen Latinoam.": 3.54
   },
   "articles": [
     {
@@ -102,31 +102,23 @@
     },
     {
       "source": "El País",
-      "title": "García Page insiste en pedir elecciones generales “en el peor momento de la hist",
-      "score": 4.2,
+      "title": "Los audios de Page dentro del comité federal: “Falta autocrítica. La gente nos r",
+      "score": 6.6,
       "words": [
         {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "claro",
-          "score": 1
+          "word": "mancha",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Sánchez responde en el cierr",
-      "score": 5.0,
+      "title": "Nadie quiere señalarse en el PSOE",
+      "score": 4.2,
       "words": [
         {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "acusa",
-          "score": -2
+          "word": "evita",
+          "score": -1
         }
       ]
     },
@@ -166,6 +158,17 @@
     },
     {
       "source": "El País",
+      "title": "Última hora del terremoto en Venezuela, en directo | La cifra de muertos por el ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ayuda",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Milagro en la iglesia de La Guaira: “Dios quiso que nos salváramos”",
       "score": 5.8,
       "words": [
@@ -180,17 +183,6 @@
         {
           "word": "tragedia",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del terremoto en Venezuela, en directo | Exteriores eleva a 133 el n",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "ayuda",
-          "score": 2
         }
       ]
     },
@@ -233,35 +225,35 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Pedro Sánchez, ante el Comité Federal del PSOE: \"Limpiaremos lo que haya que lim",
-      "score": 5.33,
+      "title": "Los audios del Comité Federal: Page pide no tener miedo \"a ir a elecciones\" y Sá",
+      "score": 5.35,
       "words": [
         {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "limpiar",
-          "score": 2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "advertir",
+          "word": "miedo",
           "score": -2
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "mancha",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "Page califica la situación actual como el \"peor momento\" del PSOE y exige un mur",
-      "score": 5.1,
+      "score": 5.03,
       "words": [
         {
           "word": "peor",
@@ -287,55 +279,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Un vacío legal abre la puerta a la filtración de agendas y mensajes privados com",
-      "score": 4.8,
+      "title": "Pedro Sánchez, ante el Comité Federal del PSOE: \"Limpiaremos lo que haya que lim",
+      "score": 5.33,
       "words": [
         {
-          "word": "vacío",
-          "score": -1
+          "word": "limpiar",
+          "score": 2
         },
         {
-          "word": "legal",
-          "score": 1
+          "word": "limpiar",
+          "score": 2
         },
         {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "atropello",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La vida privada de Zapatero y qué falla en el sistema judicial",
-      "score": 4.34,
-      "words": [
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "culpable",
+          "word": "peor",
           "score": -3
         },
         {
-          "word": "dudas",
-          "score": -1
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "advertir",
+          "score": -2
         }
       ]
     },
@@ -365,13 +330,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Abascal advierte a Feijóo de que volverá a romper los gobiernos autonómicos si l",
+      "score": 4.35,
+      "words": [
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "insultado",
+          "score": -2
+        },
+        {
+          "word": "loco",
+          "score": -2
+        },
+        {
+          "word": "loco",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-06T11:23:54Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-06-06T13:25:51Z",
       "score": 4.9
@@ -1039,6 +1027,10 @@
     {
       "timestamp": "2026-06-27T16:02:29Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-06-27T17:59:45Z",
+      "score": 4.61
     }
   ]
 }

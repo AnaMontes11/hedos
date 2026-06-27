@@ -1,12 +1,16 @@
 {
-  "generated": "2026-06-27T04:50:53Z",
-  "global_score": 4.96,
-  "articles_scored": 95,
-  "words_matched": 274,
+  "generated": "2026-06-27T07:47:01Z",
+  "global_score": 4.76,
+  "articles_scored": 93,
+  "words_matched": 289,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
+    },
+    {
+      "word": "culo",
+      "score": -4
     },
     {
       "word": "violación",
@@ -21,25 +25,29 @@
       "score": -3
     },
     {
-      "word": "destruido",
+      "word": "atropello",
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "vil",
       "score": -3
     },
     {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "crisis",
+      "word": "criminal",
       "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "victorias",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "alegría",
       "score": 4
     },
     {
@@ -55,33 +63,25 @@
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "bonito",
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "popular",
+      "word": "excelente",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.4,
-    "elDiario.es": 4.97,
-    "El Mundo": 4.78,
-    "ABC": 5.87,
+    "El País": 5.5,
+    "elDiario.es": 4.85,
+    "El Mundo": 4.8,
+    "ABC": 4.69,
     "El Confidencial": 4.8,
-    "BBC Mundo": 4.84,
+    "BBC Mundo": 4.75,
     "France 24 ES": 4.63,
-    "La Nación AR": 5.42,
+    "La Nación AR": 4.46,
     "La Jornada MX": 5.2,
-    "Desinformémonos": 4.67,
+    "Desinformémonos": 4.54,
     "Resumen Latinoam.": 4.17
   },
   "articles": [
@@ -93,6 +93,28 @@
         {
           "word": "desesperado",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Baena encuentra a Baena: “Hoy era un partido para competir, no para lucirse en e",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "perder",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El orgullo herido de Uruguay",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "orgullo",
+          "score": 2
         }
       ]
     },
@@ -139,29 +161,6 @@
     },
     {
       "source": "El País",
-      "title": "Horas cruciales para encontrar supervivientes en los escombros de La Guaira: “Aq",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "indignación",
-          "score": -2
-        },
-        {
-          "word": "salvar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Milagro en la iglesia de La Guaira: “Dios quiso que nos salváramos”",
       "score": 5.8,
       "words": [
@@ -181,26 +180,11 @@
     },
     {
       "source": "El País",
-      "title": "Los frentes judiciales marcan el comité federal del PSOE que da la salida a la e",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "condena",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "España deja el furgón de cola de los países con menos gasto militar de la OTAN p",
+      "title": "Bajo los escombros: “Saqué una mano y me di cuenta de que estaba viva”",
       "score": 5.8,
       "words": [
         {
-          "word": "alcanzado",
-          "score": 1
-        },
-        {
-          "word": "aumentar",
+          "word": "viva",
           "score": 1
         }
       ]
@@ -234,28 +218,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Las imágenes por satélite muestran el antes y el después del terremoto en Venezu",
-      "score": 5.1,
+      "title": "Un vacío legal abre la puerta a la filtración de agendas y mensajes privados com",
+      "score": 4.8,
       "words": [
         {
-          "word": "suspiro",
-          "score": -2
+          "word": "vacío",
+          "score": -1
         },
         {
-          "word": "conflicto",
-          "score": -2
-        },
-        {
-          "word": "grande",
+          "word": "legal",
           "score": 1
         },
         {
-          "word": "grande",
+          "word": "vacío",
+          "score": -1
+        },
+        {
+          "word": "legal",
           "score": 1
         },
         {
-          "word": "grande",
-          "score": 1
+          "word": "atropello",
+          "score": -3
         }
       ]
     },
@@ -288,33 +272,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Un vacío legal abre la puerta la filtración de agendas y mensajes privados como ",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "atropello",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Un traje de corrupción a la medida de José Luis Ábalos",
       "score": 4.24,
       "words": [
@@ -342,64 +299,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La reticencia de la vicepresidenta valenciana a entregar el chat de la dana con ",
-      "score": 5.0,
+      "title": "La vida privada de Zapatero y qué falla en el sistema judicial",
+      "score": 4.34,
       "words": [
         {
-          "word": "aceptar",
-          "score": 1
-        },
-        {
-          "word": "cargos",
+          "word": "falla",
           "score": -2
         },
         {
-          "word": "cargos",
+          "word": "falla",
           "score": -2
         },
         {
-          "word": "pasado",
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "culpable",
+          "score": -3
+        },
+        {
+          "word": "dudas",
           "score": -1
-        },
-        {
-          "word": "popular",
-          "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "España recauda 52.000 millones en impuestos por la vivienda, pero solo le dedica",
-      "score": 4.98,
+      "title": "Ignacio Escolar, en la inauguración del FIC: \"El intento de cancelación de este ",
+      "score": 5.13,
       "words": [
         {
-          "word": "solo",
-          "score": -2
+          "word": "emocionante",
+          "score": 3
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "impresionante",
+          "score": 3
         },
         {
-          "word": "crisis",
+          "word": "emocionante",
+          "score": 3
+        },
+        {
+          "word": "mal",
           "score": -3
         },
         {
-          "word": "dejar",
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Alberto San Juan exhuma los restos inmortales de Lorca",
+      "score": 4.49,
+      "words": [
+        {
+          "word": "restos",
+          "score": -2
+        },
+        {
+          "word": "restos",
+          "score": -2
+        },
+        {
+          "word": "cadáver",
           "score": -1
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "ruina",
+          "score": -2
+        },
+        {
+          "word": "muerto",
+          "score": -3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-05T21:22:59Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-06-05T23:05:43Z",
       "score": 4.65
@@ -1067,6 +1047,10 @@
     {
       "timestamp": "2026-06-27T04:50:53Z",
       "score": 4.96
+    },
+    {
+      "timestamp": "2026-06-27T07:47:01Z",
+      "score": 4.76
     }
   ]
 }

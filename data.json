@@ -1,49 +1,45 @@
 {
-  "generated": "2026-06-27T10:04:19Z",
+  "generated": "2026-06-27T12:07:17Z",
   "global_score": 4.76,
-  "articles_scored": 95,
-  "words_matched": 255,
+  "articles_scored": 97,
+  "words_matched": 253,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
-    },
-    {
-      "word": "desesperado",
-      "score": -3
-    },
-    {
-      "word": "morir",
-      "score": -3
     },
     {
       "word": "atropello",
       "score": -3
     },
     {
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "desesperado",
+      "score": -3
+    },
+    {
+      "word": "traicionado",
+      "score": -3
+    },
+    {
+      "word": "terror",
+      "score": -3
+    },
+    {
+      "word": "mal",
+      "score": -3
+    },
+    {
       "word": "vil",
-      "score": -3
-    },
-    {
-      "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "destruir",
       "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "ganador",
       "score": 4
     },
     {
@@ -59,27 +55,31 @@
       "score": 4
     },
     {
-      "word": "riqueza",
+      "word": "agradable",
       "score": 3
     },
     {
-      "word": "maravilla",
+      "word": "maravillas",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.27,
-    "elDiario.es": 5.11,
-    "El Mundo": 3.94,
-    "ABC": 4.61,
-    "El Confidencial": 4.82,
+    "El País": 4.94,
+    "elDiario.es": 5.02,
+    "El Mundo": 4.1,
+    "ABC": 5.39,
+    "El Confidencial": 4.89,
     "BBC Mundo": 4.75,
     "France 24 ES": 4.63,
-    "La Nación AR": 6.44,
+    "La Nación AR": 5.17,
     "La Jornada MX": 4.75,
     "Desinformémonos": 4.54,
     "Resumen Latinoam.": 4.14
@@ -87,16 +87,72 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Sánchez, en el comité federa",
-      "score": 6.6,
+      "title": "Sánchez pide al PSOE superar la corrupción y arranca la campaña de 2027",
+      "score": 4.2,
       "words": [
         {
-          "word": "justicia",
+          "word": "atropello",
+          "score": -3
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "García Page insiste en pedir elecciones generales “en el peor momento de la hist",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "claro",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Última hora de la actualidad política, en directo | Óscar López acusa a Page en ",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "ganado",
           "score": 2
         },
         {
-          "word": "justa",
-          "score": 2
+          "word": "derecho",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España aguanta la descarga pendenciera de Uruguay",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "desesperado",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Con quién jugará España? Consulte en tiempo real los posibles cruces de cada se",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
@@ -132,6 +188,17 @@
     },
     {
       "source": "El País",
+      "title": "Bajo los escombros: “Saqué una mano y me di cuenta de que estaba viva”",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "viva",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Con los equipos de rescate en Caracas: “¡Déjame ver si está vivo!”",
       "score": 6.6,
       "words": [
@@ -146,161 +213,29 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Bajo los escombros: “Saqué una mano y me di cuenta de que estaba viva”",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "viva",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "España aguanta la descarga pendenciera de Uruguay",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "desesperado",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Baena encuentra a Baena: “Hoy era un partido para competir, no para lucirse en e",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "perder",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Con quién jugará España? Consulte en tiempo real los posibles cruces de cada se",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cabo Verde es el héroe del Mundial: jugará los dieciseisavos contra Argentina",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "héroe",
-          "score": 2
-        },
-        {
-          "word": "logra",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Venezuela se vuelca en una búsqueda de desaparecidos a contrarreloj: \"Hemos enco",
-      "score": 5.39,
+      "title": "Pedro Sánchez, ante el Comité Federal del PSOE: \"Limpiaremos lo que haya que lim",
+      "score": 5.35,
       "words": [
         {
-          "word": "tragedia",
-          "score": -2
-        },
-        {
-          "word": "ayuda",
+          "word": "limpiar",
           "score": 2
         },
         {
-          "word": "caos",
-          "score": -2
+          "word": "limpiar",
+          "score": 2
         },
         {
-          "word": "morir",
+          "word": "peor",
           "score": -3
         },
         {
-          "word": "importante",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Terremotos en Venezuela, última hora en directo",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un vacío legal abre la puerta a la filtración de agendas y mensajes privados com",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "atropello",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez busca el cierre de filas del PSOE ante el nuevo ciclo electoral en plena",
-      "score": 5.22,
-      "words": [
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "mayor",
+          "word": "lealtad",
           "score": 3
         },
         {
-          "word": "resistente",
-          "score": 2
-        },
-        {
-          "word": "deseado",
-          "score": 2
+          "word": "advertir",
+          "score": -2
         }
       ]
     },
@@ -333,6 +268,60 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Un vacío legal abre la puerta a la filtración de agendas y mensajes privados com",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "vacío",
+          "score": -1
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "vacío",
+          "score": -1
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "atropello",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La vida privada de Zapatero y qué falla en el sistema judicial",
+      "score": 4.34,
+      "words": [
+        {
+          "word": "falla",
+          "score": -2
+        },
+        {
+          "word": "falla",
+          "score": -2
+        },
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "culpable",
+          "score": -3
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Un traje de corrupción a la medida de José Luis Ábalos",
       "score": 4.24,
       "words": [
@@ -357,13 +346,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Venezuela se vuelca en una búsqueda de desaparecidos contrarreloj: \"Hemos encont",
+      "score": 5.39,
+      "words": [
+        {
+          "word": "tragedia",
+          "score": -2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "morir",
+          "score": -3
+        },
+        {
+          "word": "importante",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-06T02:51:53Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-06-06T06:28:24Z",
       "score": 4.76
@@ -1030,6 +1042,10 @@
     },
     {
       "timestamp": "2026-06-27T10:04:19Z",
+      "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-27T12:07:17Z",
       "score": 4.76
     }
   ]

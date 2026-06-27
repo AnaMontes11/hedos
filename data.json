@@ -1,23 +1,19 @@
 {
-  "generated": "2026-06-27T00:03:44Z",
-  "global_score": 4.91,
-  "articles_scored": 92,
-  "words_matched": 228,
+  "generated": "2026-06-27T04:50:53Z",
+  "global_score": 4.96,
+  "articles_scored": 95,
+  "words_matched": 274,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "violación",
       "score": -4
     },
     {
-      "word": "destrucción",
-      "score": -3
-    },
-    {
-      "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "catástrofe",
+      "word": "desesperado",
       "score": -3
     },
     {
@@ -25,25 +21,29 @@
       "score": -3
     },
     {
-      "word": "vil",
+      "word": "destruido",
       "score": -3
     },
     {
-      "word": "terrible",
+      "word": "mal",
       "score": -3
     },
     {
-      "word": "terror",
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "victorias",
       "score": 4
     },
     {
-      "word": "victorias",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -55,15 +55,15 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "riguroso",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "fascinante",
+      "word": "premios",
       "score": 3
     },
     {
@@ -72,38 +72,42 @@
     }
   ],
   "per_source": {
-    "El País": 5.03,
-    "elDiario.es": 4.99,
-    "El Mundo": 4.95,
-    "ABC": 5.97,
-    "El Confidencial": 4.63,
-    "BBC Mundo": 4.22,
-    "France 24 ES": 5.47,
-    "La Nación AR": 4.95,
+    "El País": 5.4,
+    "elDiario.es": 4.97,
+    "El Mundo": 4.78,
+    "ABC": 5.87,
+    "El Confidencial": 4.8,
+    "BBC Mundo": 4.84,
+    "France 24 ES": 4.63,
+    "La Nación AR": 5.42,
     "La Jornada MX": 5.2,
-    "Desinformémonos": 4.45,
+    "Desinformémonos": 4.67,
     "Resumen Latinoam.": 4.17
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Uruguay - España, el partido del Mundial 2026 en directo | Comienza el encuentro",
-      "score": 4.2,
+      "title": "España aguanta la descarga pendenciera de Uruguay",
+      "score": 2.6,
       "words": [
         {
-          "word": "ataque",
-          "score": -1
+          "word": "desesperado",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Senegal golea a una corajuda Irak",
-      "score": 4.2,
+      "title": "Cabo Verde es el héroe del Mundial: jugará los dieciseisavos contra Argentina",
+      "score": 6.6,
       "words": [
         {
-          "word": "esperar",
-          "score": -1
+          "word": "héroe",
+          "score": 2
+        },
+        {
+          "word": "logra",
+          "score": 2
         }
       ]
     },
@@ -135,127 +139,96 @@
     },
     {
       "source": "El País",
-      "title": "Exteriores eleva a 14 los españoles atrapados bajo los escombros del doble terre",
+      "title": "Horas cruciales para encontrar supervivientes en los escombros de La Guaira: “Aq",
       "score": 5.8,
       "words": [
         {
-          "word": "aumenta",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Mapas del terremoto en Venezuela: el antes y después con imágenes satélite",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "destrucción",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos lanza nuevos ataques contra Irán tras el golpe a un carguero",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "golpe",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Israel y Líbano firman un acuerdo marco de paz en Washington",
-      "score": 4.68,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "paz",
+          "word": "ayuda",
           "score": 2
         },
         {
-          "word": "rechazado",
-          "score": -1
+          "word": "apoyo",
+          "score": 2
         },
         {
-          "word": "retirada",
-          "score": -3
+          "word": "indignación",
+          "score": -2
         },
         {
-          "word": "duda",
-          "score": -1
+          "word": "salvar",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Milagro en la iglesia de La Guaira: “Dios quiso que nos salváramos”",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "milagro",
+          "score": 4
+        },
+        {
+          "word": "dios",
+          "score": 1
+        },
+        {
+          "word": "tragedia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los frentes judiciales marcan el comité federal del PSOE que da la salida a la e",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "condena",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España deja el furgón de cola de los países con menos gasto militar de la OTAN p",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "alcanzado",
+          "score": 1
+        },
+        {
+          "word": "aumentar",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Desolación e incertidumbre en Venezuela, que suma ya 920 muertos y 3.360 heridos",
-      "score": 4.71,
+      "title": "Venezuela se vuelca en una búsqueda de desaparecidos a contrarreloj: \"Hemos enco",
+      "score": 5.39,
       "words": [
         {
-          "word": "angustia",
+          "word": "tragedia",
           "score": -2
         },
         {
-          "word": "catástrofe",
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "morir",
           "score": -3
         },
         {
           "word": "importante",
           "score": 2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "adora",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un temblor eterno y aterrador: así he vivido los terremotos en mi apartamento de",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "temblor",
-          "score": -2
-        },
-        {
-          "word": "aterrador",
-          "score": -3
-        },
-        {
-          "word": "temblor",
-          "score": -2
-        },
-        {
-          "word": "aterrador",
-          "score": -3
-        },
-        {
-          "word": "pánico",
-          "score": -3
         }
       ]
     },
@@ -288,105 +261,132 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los mapas de los terremotos de Venezuela: estas son las zonas más afectadas",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "desastre",
-          "score": -2
-        },
-        {
-          "word": "fuerte",
-          "score": 2
-        },
-        {
-          "word": "temblor",
-          "score": -2
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Exteriores eleva a cinco españoles muertos, 119 desaparecidos y 14 \"bajo los esc",
-      "score": 5.5,
+      "title": "Sánchez busca el cierre de filas del PSOE ante el nuevo ciclo electoral en plena",
+      "score": 5.22,
       "words": [
         {
           "word": "espera",
           "score": -1
         },
         {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "asuntos",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La delegada del Gobierno de Canarias en Venezuela, Isabel Jara, una de las vícti",
-      "score": 5.3,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "tragedia",
+          "word": "acoso",
           "score": -2
         },
         {
-          "word": "esperanza",
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "resistente",
           "score": 2
         },
         {
-          "word": "asegurado",
+          "word": "deseado",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Líbano e Israel firman un principio de acuerdo tras las negociaciones en Washing",
-      "score": 5.52,
+      "title": "Un vacío legal abre la puerta la filtración de agendas y mensajes privados como ",
+      "score": 4.8,
       "words": [
         {
-          "word": "acuerdo",
+          "word": "vacío",
+          "score": -1
+        },
+        {
+          "word": "legal",
           "score": 1
         },
         {
-          "word": "acuerdo",
+          "word": "vacío",
+          "score": -1
+        },
+        {
+          "word": "legal",
           "score": 1
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "atropello",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un traje de corrupción a la medida de José Luis Ábalos",
+      "score": 4.24,
+      "words": [
+        {
+          "word": "sentencia",
+          "score": -2
         },
         {
-          "word": "paz",
+          "word": "favor",
           "score": 2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "prisión",
+          "score": -2
+        },
+        {
+          "word": "condenado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La reticencia de la vicepresidenta valenciana a entregar el chat de la dana con ",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "aceptar",
+          "score": 1
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "España recauda 52.000 millones en impuestos por la vivienda, pero solo le dedica",
+      "score": 4.98,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "dejar",
+          "score": -1
         },
         {
           "word": "acuerdo",
@@ -396,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-05T19:50:31Z",
-      "score": 4.6
-    },
     {
       "timestamp": "2026-06-05T21:22:59Z",
       "score": 4.72
@@ -1067,6 +1063,10 @@
     {
       "timestamp": "2026-06-27T00:03:44Z",
       "score": 4.91
+    },
+    {
+      "timestamp": "2026-06-27T04:50:53Z",
+      "score": 4.96
     }
   ]
 }

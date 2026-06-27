@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-27T19:40:32Z",
-  "global_score": 4.69,
-  "articles_scored": 95,
-  "words_matched": 256,
+  "generated": "2026-06-27T20:59:04Z",
+  "global_score": 4.87,
+  "articles_scored": 100,
+  "words_matched": 254,
   "top_negative": [
     {
       "word": "pinchazo",
@@ -10,10 +10,6 @@
     },
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "fraude",
       "score": -4
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "mal",
       "score": -3
+    },
+    {
+      "word": "atropello",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -55,11 +55,11 @@
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "afecto",
       "score": 3
     },
     {
-      "word": "afecto",
+      "word": "hermosa",
       "score": 3
     },
     {
@@ -75,13 +75,14 @@
     "El País": 5.41,
     "elDiario.es": 5.14,
     "El Mundo": 4.49,
-    "ABC": 4.96,
+    "ABC": 5.26,
     "El Confidencial": 3.67,
-    "BBC Mundo": 5.12,
-    "La Nación AR": 5.17,
+    "BBC Mundo": 5.16,
+    "France 24 ES": 5.23,
+    "La Nación AR": 4.64,
     "La Jornada MX": 4.75,
     "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 3.54
+    "Resumen Latinoam.": 5.0
   },
   "articles": [
     {
@@ -359,10 +360,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-06T15:12:38Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-06-06T17:09:47Z",
       "score": 4.7
@@ -1030,6 +1027,10 @@
     {
       "timestamp": "2026-06-27T19:40:32Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-06-27T20:59:04Z",
+      "score": 4.87
     }
   ]
 }

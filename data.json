@@ -1,15 +1,15 @@
 {
-  "generated": "2026-06-26T22:10:07Z",
-  "global_score": 4.84,
-  "articles_scored": 93,
-  "words_matched": 234,
+  "generated": "2026-06-27T00:03:44Z",
+  "global_score": 4.91,
+  "articles_scored": 92,
+  "words_matched": 228,
   "top_negative": [
     {
-      "word": "destrucción",
-      "score": -3
+      "word": "violación",
+      "score": -4
     },
     {
-      "word": "víctimas",
+      "word": "destrucción",
       "score": -3
     },
     {
@@ -39,15 +39,11 @@
   ],
   "top_positive": [
     {
-      "word": "victorias",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "alegría",
+      "word": "victorias",
       "score": 4
     },
     {
@@ -59,32 +55,58 @@
       "score": 3
     },
     {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "celebrar",
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "fascinante",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "popular",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.08,
+    "El País": 5.03,
     "elDiario.es": 4.99,
-    "El Mundo": 5.25,
-    "ABC": 5.69,
+    "El Mundo": 4.95,
+    "ABC": 5.97,
     "El Confidencial": 4.63,
     "BBC Mundo": 4.22,
-    "France 24 ES": 4.72,
-    "La Nación AR": 3.87,
+    "France 24 ES": 5.47,
+    "La Nación AR": 4.95,
     "La Jornada MX": 5.2,
-    "Desinformémonos": 4.47,
-    "Resumen Latinoam.": 4.58
+    "Desinformémonos": 4.45,
+    "Resumen Latinoam.": 4.17
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Uruguay - España, el partido del Mundial 2026 en directo | Comienza el encuentro",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Senegal golea a una corajuda Irak",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "esperar",
+          "score": -1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Con los equipos de rescate en Caracas: “¡Déjame ver si está vivo!”",
@@ -113,21 +135,6 @@
     },
     {
       "source": "El País",
-      "title": "Mapas del terremoto en Venezuela: el antes y después con imágenes satélite",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "enorme",
-          "score": 1
-        },
-        {
-          "word": "destrucción",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Exteriores eleva a 14 los españoles atrapados bajo los escombros del doble terre",
       "score": 5.8,
       "words": [
@@ -139,35 +146,16 @@
     },
     {
       "source": "El País",
-      "title": "El terremoto en Venezuela pone a prueba la ‘doctrina Donroe’ de Trump en América",
-      "score": 4.73,
+      "title": "Mapas del terremoto en Venezuela: el antes y después con imágenes satélite",
+      "score": 4.2,
       "words": [
         {
-          "word": "suspendido",
-          "score": -1
+          "word": "enorme",
+          "score": 1
         },
         {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "desastre",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Japón tiembla sin víctimas mientras Venezuela colapsa: la diferencia es la preve",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "víctimas",
+          "word": "destrucción",
           "score": -3
-        },
-        {
-          "word": "alerta",
-          "score": -1
         }
       ]
     },
@@ -214,17 +202,6 @@
         {
           "word": "duda",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez ofrece a Hacienda personarse en la investigación sobre las joyas de Zapa",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "joyas",
-          "score": 1
         }
       ]
     },
@@ -389,13 +366,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Líbano e Israel firman un principio de acuerdo tras las negociaciones en Washing",
+      "score": 5.52,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-05T17:51:18Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-06-05T19:50:31Z",
       "score": 4.6
@@ -1063,6 +1063,10 @@
     {
       "timestamp": "2026-06-26T22:10:07Z",
       "score": 4.84
+    },
+    {
+      "timestamp": "2026-06-27T00:03:44Z",
+      "score": 4.91
     }
   ]
 }

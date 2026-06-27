@@ -1,11 +1,23 @@
 {
-  "generated": "2026-06-27T12:07:17Z",
-  "global_score": 4.76,
-  "articles_scored": 97,
-  "words_matched": 253,
+  "generated": "2026-06-27T14:26:59Z",
+  "global_score": 4.62,
+  "articles_scored": 101,
+  "words_matched": 257,
   "top_negative": [
     {
+      "word": "pinchazo",
+      "score": -5
+    },
+    {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "puta",
+      "score": -4
+    },
+    {
+      "word": "violación",
       "score": -4
     },
     {
@@ -21,19 +33,7 @@
       "score": -3
     },
     {
-      "word": "traicionado",
-      "score": -3
-    },
-    {
       "word": "terror",
-      "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "vil",
       "score": -3
     }
   ],
@@ -55,34 +55,34 @@
       "score": 4
     },
     {
-      "word": "agradable",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "maravillas",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "premios",
+      "word": "glamour",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.94,
-    "elDiario.es": 5.02,
-    "El Mundo": 4.1,
-    "ABC": 5.39,
-    "El Confidencial": 4.89,
-    "BBC Mundo": 4.75,
-    "France 24 ES": 4.63,
-    "La Nación AR": 5.17,
+    "El País": 4.78,
+    "elDiario.es": 5.03,
+    "El Mundo": 3.73,
+    "ABC": 5.97,
+    "El Confidencial": 3.88,
+    "BBC Mundo": 4.93,
+    "France 24 ES": 4.48,
+    "La Nación AR": 4.13,
     "La Jornada MX": 4.75,
-    "Desinformémonos": 4.54,
-    "Resumen Latinoam.": 4.14
+    "Desinformémonos": 4.58,
+    "Resumen Latinoam.": 4.3
   },
   "articles": [
     {
@@ -117,20 +117,16 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Óscar López acusa a Page en ",
-      "score": 5.27,
+      "title": "Feijóo apela en Barcelona a dejar atrás el ‘procés’: “Como la mayoría de los cat",
+      "score": 3.8,
       "words": [
+        {
+          "word": "dejar",
+          "score": -1
+        },
         {
           "word": "acusa",
           "score": -2
-        },
-        {
-          "word": "ganado",
-          "score": 2
-        },
-        {
-          "word": "derecho",
-          "score": 1
         }
       ]
     },
@@ -242,7 +238,7 @@
     {
       "source": "elDiario.es",
       "title": "Page califica la situación actual como el \"peor momento\" del PSOE y exige un mur",
-      "score": 5.13,
+      "score": 5.1,
       "words": [
         {
           "word": "peor",
@@ -257,11 +253,11 @@
           "score": 2
         },
         {
-          "word": "celebra",
-          "score": 3
+          "word": "fácil",
+          "score": 1
         },
         {
-          "word": "fácil",
+          "word": "confianza",
           "score": 1
         }
       ]
@@ -376,10 +372,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-06T06:28:24Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-06-06T09:23:46Z",
       "score": 4.88
@@ -1047,6 +1039,10 @@
     {
       "timestamp": "2026-06-27T12:07:17Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-27T14:26:59Z",
+      "score": 4.62
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-27T17:59:45Z",
-  "global_score": 4.61,
-  "articles_scored": 103,
-  "words_matched": 255,
+  "generated": "2026-06-27T19:40:32Z",
+  "global_score": 4.69,
+  "articles_scored": 95,
+  "words_matched": 256,
   "top_negative": [
     {
       "word": "pinchazo",
@@ -15,10 +15,6 @@
     {
       "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "atropello",
-      "score": -3
     },
     {
       "word": "crueldad",
@@ -35,9 +31,17 @@
     {
       "word": "traicionado",
       "score": -3
+    },
+    {
+      "word": "mal",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "maravilloso",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -55,31 +59,26 @@
       "score": 3
     },
     {
-      "word": "impresionante",
+      "word": "afecto",
       "score": 3
     },
     {
-      "word": "emocionante",
+      "word": "celebrando",
       "score": 3
     },
     {
       "word": "perfecto",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.57,
-    "elDiario.es": 5.13,
-    "El Mundo": 4.29,
-    "ABC": 4.85,
-    "El Confidencial": 3.7,
+    "El País": 5.41,
+    "elDiario.es": 5.14,
+    "El Mundo": 4.49,
+    "ABC": 4.96,
+    "El Confidencial": 3.67,
     "BBC Mundo": 5.12,
-    "France 24 ES": 5.17,
-    "La Nación AR": 3.87,
+    "La Nación AR": 5.17,
     "La Jornada MX": 4.75,
     "Desinformémonos": 4.52,
     "Resumen Latinoam.": 3.54
@@ -87,16 +86,12 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Sánchez pide al PSOE superar la corrupción y arranca la campaña de 2027",
-      "score": 4.2,
+      "title": "Ferraz salva el comité federal con la voz crítica de García-Page y el aval a Sán",
+      "score": 3.4,
       "words": [
         {
-          "word": "atropello",
-          "score": -3
-        },
-        {
-          "word": "enorme",
-          "score": 1
+          "word": "crítica",
+          "score": -2
         }
       ]
     },
@@ -169,6 +164,25 @@
     },
     {
       "source": "El País",
+      "title": "La solidaridad de los venezolanos llena el vacío de la respuesta estatal al terr",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "solidaridad",
+          "score": 2
+        },
+        {
+          "word": "vacío",
+          "score": -1
+        },
+        {
+          "word": "rescates",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Milagro en la iglesia de La Guaira: “Dios quiso que nos salváramos”",
       "score": 5.8,
       "words": [
@@ -194,21 +208,6 @@
         {
           "word": "viva",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Con los equipos de rescate en Caracas: “¡Déjame ver si está vivo!”",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "esperanza",
-          "score": 2
         }
       ]
     },
@@ -360,10 +359,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-06T13:25:51Z",
-      "score": 4.9
-    },
     {
       "timestamp": "2026-06-06T15:12:38Z",
       "score": 4.77
@@ -1031,6 +1026,10 @@
     {
       "timestamp": "2026-06-27T17:59:45Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-06-27T19:40:32Z",
+      "score": 4.69
     }
   ]
 }

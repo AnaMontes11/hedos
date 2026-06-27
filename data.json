@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-27T07:47:01Z",
+  "generated": "2026-06-27T10:04:19Z",
   "global_score": 4.76,
-  "articles_scored": 93,
-  "words_matched": 289,
+  "articles_scored": 95,
+  "words_matched": 255,
   "top_negative": [
     {
       "word": "negro",
@@ -10,10 +10,6 @@
     },
     {
       "word": "culo",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -35,6 +31,10 @@
     {
       "word": "criminal",
       "score": -3
+    },
+    {
+      "word": "destruir",
+      "score": -3
     }
   ],
   "top_positive": [
@@ -43,11 +43,11 @@
       "score": 4
     },
     {
-      "word": "triunfo",
+      "word": "ganador",
       "score": 4
     },
     {
-      "word": "alegría",
+      "word": "maravilloso",
       "score": 4
     },
     {
@@ -59,102 +59,43 @@
       "score": 4
     },
     {
-      "word": "delicias",
+      "word": "riqueza",
       "score": 3
     },
     {
-      "word": "bonito",
+      "word": "maravilla",
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "celebrando",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.5,
-    "elDiario.es": 4.85,
-    "El Mundo": 4.8,
-    "ABC": 4.69,
-    "El Confidencial": 4.8,
+    "El País": 5.27,
+    "elDiario.es": 5.11,
+    "El Mundo": 3.94,
+    "ABC": 4.61,
+    "El Confidencial": 4.82,
     "BBC Mundo": 4.75,
     "France 24 ES": 4.63,
-    "La Nación AR": 4.46,
-    "La Jornada MX": 5.2,
+    "La Nación AR": 6.44,
+    "La Jornada MX": 4.75,
     "Desinformémonos": 4.54,
-    "Resumen Latinoam.": 4.17
+    "Resumen Latinoam.": 4.14
   },
   "articles": [
     {
       "source": "El País",
-      "title": "España aguanta la descarga pendenciera de Uruguay",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "desesperado",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Baena encuentra a Baena: “Hoy era un partido para competir, no para lucirse en e",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "perder",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El orgullo herido de Uruguay",
+      "title": "Última hora de la actualidad política, en directo | Sánchez, en el comité federa",
       "score": 6.6,
       "words": [
         {
-          "word": "orgullo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cabo Verde es el héroe del Mundial: jugará los dieciseisavos contra Argentina",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "héroe",
+          "word": "justicia",
           "score": 2
         },
         {
-          "word": "logra",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Con los equipos de rescate en Caracas: “¡Déjame ver si está vivo!”",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del terremoto en Venezuela, en directo | Venezuela eleva a 920 la ci",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "ayuda",
+          "word": "justa",
           "score": 2
         }
       ]
@@ -180,12 +121,86 @@
     },
     {
       "source": "El País",
+      "title": "Última hora del terremoto en Venezuela, en directo | Exteriores eleva a 133 el n",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ayuda",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Con los equipos de rescate en Caracas: “¡Déjame ver si está vivo!”",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "rescate",
+          "score": 2
+        },
+        {
+          "word": "esperanza",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Bajo los escombros: “Saqué una mano y me di cuenta de que estaba viva”",
       "score": 5.8,
       "words": [
         {
           "word": "viva",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España aguanta la descarga pendenciera de Uruguay",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "desesperado",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Baena encuentra a Baena: “Hoy era un partido para competir, no para lucirse en e",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "perder",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Con quién jugará España? Consulte en tiempo real los posibles cruces de cada se",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cabo Verde es el héroe del Mundial: jugará los dieciseisavos contra Argentina",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "héroe",
+          "score": 2
+        },
+        {
+          "word": "logra",
+          "score": 2
         }
       ]
     },
@@ -212,6 +227,25 @@
         },
         {
           "word": "importante",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Terremotos en Venezuela, última hora en directo",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "rescate",
           "score": 2
         }
       ]
@@ -272,6 +306,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Page califica la situación actual como el \"peor momento\" del PSOE y exige un mur",
+      "score": 5.13,
+      "words": [
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "mancha",
+          "score": 2
+        },
+        {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "fácil",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Un traje de corrupción a la medida de José Luis Ábalos",
       "score": 4.24,
       "words": [
@@ -296,94 +357,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La vida privada de Zapatero y qué falla en el sistema judicial",
-      "score": 4.34,
-      "words": [
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "culpable",
-          "score": -3
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ignacio Escolar, en la inauguración del FIC: \"El intento de cancelación de este ",
-      "score": 5.13,
-      "words": [
-        {
-          "word": "emocionante",
-          "score": 3
-        },
-        {
-          "word": "impresionante",
-          "score": 3
-        },
-        {
-          "word": "emocionante",
-          "score": 3
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Alberto San Juan exhuma los restos inmortales de Lorca",
-      "score": 4.49,
-      "words": [
-        {
-          "word": "restos",
-          "score": -2
-        },
-        {
-          "word": "restos",
-          "score": -2
-        },
-        {
-          "word": "cadáver",
-          "score": -1
-        },
-        {
-          "word": "ruina",
-          "score": -2
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-05T23:05:43Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-06-06T02:51:53Z",
       "score": 4.67
@@ -1050,6 +1026,10 @@
     },
     {
       "timestamp": "2026-06-27T07:47:01Z",
+      "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-27T10:04:19Z",
       "score": 4.76
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-27T20:59:04Z",
-  "global_score": 4.87,
-  "articles_scored": 100,
-  "words_matched": 254,
+  "generated": "2026-06-27T22:10:15Z",
+  "global_score": 4.86,
+  "articles_scored": 101,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "pinchazo",
@@ -75,14 +75,14 @@
     "El País": 5.41,
     "elDiario.es": 5.14,
     "El Mundo": 4.49,
-    "ABC": 5.26,
+    "ABC": 5.59,
     "El Confidencial": 3.67,
     "BBC Mundo": 5.16,
-    "France 24 ES": 5.23,
-    "La Nación AR": 4.64,
+    "France 24 ES": 5.31,
+    "La Nación AR": 4.33,
     "La Jornada MX": 4.75,
     "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 5.0
+    "Resumen Latinoam.": 4.77
   },
   "articles": [
     {
@@ -360,10 +360,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-06T17:09:47Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-06-06T19:17:40Z",
       "score": 4.68
@@ -1031,6 +1027,10 @@
     {
       "timestamp": "2026-06-27T20:59:04Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-06-27T22:10:15Z",
+      "score": 4.86
     }
   ]
 }

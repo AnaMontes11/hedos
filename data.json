@@ -1,9 +1,13 @@
 {
-  "generated": "2026-06-28T04:39:36Z",
-  "global_score": 4.87,
+  "generated": "2026-06-28T08:19:04Z",
+  "global_score": 4.72,
   "articles_scored": 99,
-  "words_matched": 297,
+  "words_matched": 311,
   "top_negative": [
+    {
+      "word": "perra",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -21,19 +25,15 @@
       "score": -3
     },
     {
+      "word": "locos",
+      "score": -3
+    },
+    {
       "word": "crueldad",
       "score": -3
     },
     {
       "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "atropello",
-      "score": -3
-    },
-    {
-      "word": "culpa",
       "score": -3
     }
   ],
@@ -47,15 +47,11 @@
       "score": 4
     },
     {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "feliz",
-      "score": 3
-    },
-    {
-      "word": "encanto",
-      "score": 3
-    },
-    {
-      "word": "perfecto",
       "score": 3
     },
     {
@@ -63,7 +59,11 @@
       "score": 3
     },
     {
-      "word": "excelente",
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "bondad",
       "score": 3
     },
     {
@@ -72,14 +72,14 @@
     }
   ],
   "per_source": {
-    "El País": 4.21,
-    "elDiario.es": 5.05,
+    "El País": 3.98,
+    "elDiario.es": 5.04,
     "El Mundo": 4.27,
-    "ABC": 5.2,
+    "ABC": 4.66,
     "El Confidencial": 4.72,
-    "BBC Mundo": 5.14,
-    "France 24 ES": 5.33,
-    "La Nación AR": 4.89,
+    "BBC Mundo": 5.03,
+    "France 24 ES": 4.78,
+    "La Nación AR": 4.63,
     "La Jornada MX": 4.75,
     "Desinformémonos": 4.52,
     "Resumen Latinoam.": 5.27
@@ -93,17 +93,6 @@
         {
           "word": "catástrofe",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Ansiedad y desconcierto en los hospitales venezolanos: “No sabemos a quién creer",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "ansiedad",
-          "score": -2
         }
       ]
     },
@@ -128,7 +117,7 @@
     },
     {
       "source": "El País",
-      "title": "Míriam Nogueras: “Sánchez tiene que irse o regalará el Gobierno a la extrema der",
+      "title": "Miriam Nogueras: “Sánchez tiene que irse o regalará el Gobierno a la extrema der",
       "score": 6.6,
       "words": [
         {
@@ -149,6 +138,17 @@
         {
           "word": "bloqueo",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Austria es el rival de España en dieciseisavos tras un empate de locos contra Ar",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "locos",
+          "score": -3
         }
       ]
     },
@@ -177,12 +177,12 @@
     },
     {
       "source": "El País",
-      "title": "Bellingham y Kane sacan del sopor a Inglaterra en su gris victoria ante Panamá",
-      "score": 4.2,
+      "title": "La Argentina B también necesita a Leo Messi para rendir a Jordania",
+      "score": 3.4,
       "words": [
         {
-          "word": "gris",
-          "score": -1
+          "word": "sentencia",
+          "score": -2
         }
       ]
     },
@@ -323,28 +323,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Los críticos de Movimiento Sumar pactan la lista para defenestrar a Lara Hernánd",
-      "score": 4.4,
+      "title": "63.134 euros al año con un cursillo de 150 horas y un inglés \"básico\": los sueld",
+      "score": 4.67,
       "words": [
         {
-          "word": "críticos",
+          "word": "responsable",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "pagado",
+          "score": 2
+        },
+        {
+          "word": "cobrar",
           "score": -2
         },
         {
-          "word": "duda",
-          "score": -1
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "críticos",
+          "word": "puesto",
           "score": -2
-        },
-        {
-          "word": "duda",
-          "score": -1
         }
       ]
     },
@@ -377,37 +377,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "63.134 euros al año con un cursillo de 150 horas y un inglés \"básico\": los sueld",
-      "score": 4.67,
+      "title": "Los críticos de Movimiento Sumar pactan la lista para defenestrar a Lara Hernánd",
+      "score": 4.4,
       "words": [
         {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "pagado",
-          "score": 2
-        },
-        {
-          "word": "cobrar",
+          "word": "críticos",
           "score": -2
         },
         {
-          "word": "puesto",
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "críticos",
           "score": -2
+        },
+        {
+          "word": "duda",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-06T23:01:48Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-06-07T03:36:25Z",
       "score": 4.82
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-06-28T04:39:36Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-06-28T08:19:04Z",
+      "score": 4.72
     }
   ]
 }

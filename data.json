@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-28T11:04:31Z",
-  "global_score": 4.8,
-  "articles_scored": 98,
-  "words_matched": 306,
+  "generated": "2026-06-28T13:40:14Z",
+  "global_score": 4.82,
+  "articles_scored": 97,
+  "words_matched": 310,
   "top_negative": [
     {
       "word": "perra",
@@ -33,21 +33,25 @@
       "score": -3
     },
     {
-      "word": "crueldad",
+      "word": "criminal",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "premio",
       "score": 3
     },
     {
@@ -55,34 +59,30 @@
       "score": 3
     },
     {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
       "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "bondad",
-      "score": 3
-    },
-    {
-      "word": "popular",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.01,
-    "elDiario.es": 5.04,
-    "El Mundo": 4.5,
-    "ABC": 4.6,
-    "El Confidencial": 4.94,
-    "BBC Mundo": 4.76,
-    "France 24 ES": 4.78,
-    "La Nación AR": 5.33,
+    "El País": 4.28,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.27,
+    "ABC": 5.18,
+    "El Confidencial": 4.62,
+    "BBC Mundo": 4.94,
+    "France 24 ES": 4.67,
+    "La Nación AR": 5.86,
     "La Jornada MX": 5.33,
     "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 5.21
+    "Resumen Latinoam.": 4.68
   },
   "articles": [
     {
@@ -154,6 +154,17 @@
     },
     {
       "source": "El País",
+      "title": "Colombia muestra las debilidades del plan de Roberto Martínez a la medida de Cri",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "gracias",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Austria es el rival de España en dieciseisavos tras un empate de locos contra Ar",
       "score": 2.6,
       "words": [
@@ -165,35 +176,66 @@
     },
     {
       "source": "El País",
-      "title": "Solo las paradas de Diogo Costa frenan a una Colombia desatada ante la decepcion",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "paradas",
-          "score": -1
-        },
-        {
-          "word": "decepcionante",
-          "score": -2
-        },
-        {
-          "word": "logra",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "La Argentina B también necesita a Leo Messi para rendir a Jordania",
       "score": 3.4,
       "words": [
         {
           "word": "sentencia",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo, en la rueda de ratón de la moción de censura",
+      "score": 5.11,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "logra",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "confianza",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez entona el himno de la resistencia ante un PSOE que se conjura para libra",
+      "score": 4.78,
+      "words": [
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "tipo",
+          "score": 2
         }
       ]
     },
@@ -253,87 +295,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez entona el himno de la resistencia ante un PSOE que se conjura para libra",
-      "score": 4.78,
-      "words": [
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "críticos",
-          "score": -2
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo, en la rueda de ratón de la moción de censura",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "logra",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo pide que Catalunya se convierta en la \"llave\" para echar a Sánchez de la ",
-      "score": 6.05,
-      "words": [
-        {
-          "word": "rico",
-          "score": 2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "capaz",
-          "score": 1
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "63.134 euros al año con un cursillo de 150 horas y un inglés \"básico\": los sueld",
       "score": 4.67,
       "words": [
@@ -385,13 +346,36 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los críticos de Movimiento Sumar pactan la lista para defenestrar a Lara Hernánd",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "críticos",
+          "score": -2
+        },
+        {
+          "word": "duda",
+          "score": -1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-07T07:51:57Z",
-      "score": 4.83
-    },
     {
       "timestamp": "2026-06-07T10:26:22Z",
       "score": 4.56
@@ -1059,6 +1043,10 @@
     {
       "timestamp": "2026-06-28T11:04:31Z",
       "score": 4.8
+    },
+    {
+      "timestamp": "2026-06-28T13:40:14Z",
+      "score": 4.82
     }
   ]
 }

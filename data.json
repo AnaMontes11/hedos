@@ -1,15 +1,11 @@
 {
-  "generated": "2026-06-28T17:06:19Z",
-  "global_score": 4.76,
-  "articles_scored": 95,
-  "words_matched": 307,
+  "generated": "2026-06-28T19:15:06Z",
+  "global_score": 4.82,
+  "articles_scored": 96,
+  "words_matched": 317,
   "top_negative": [
     {
       "word": "perra",
-      "score": -5
-    },
-    {
-      "word": "negro",
       "score": -5
     },
     {
@@ -35,9 +31,17 @@
     {
       "word": "peor",
       "score": -3
+    },
+    {
+      "word": "culpa",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "victorias",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -65,24 +69,20 @@
     {
       "word": "celebrar",
       "score": 3
-    },
-    {
-      "word": "bondad",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 4.92,
-    "elDiario.es": 4.81,
-    "El Mundo": 4.38,
-    "ABC": 4.77,
-    "El Confidencial": 3.83,
+    "elDiario.es": 4.96,
+    "El Mundo": 4.12,
+    "ABC": 5.43,
+    "El Confidencial": 3.77,
     "BBC Mundo": 5.3,
-    "France 24 ES": 4.81,
-    "La Nación AR": 5.5,
+    "France 24 ES": 5.17,
+    "La Nación AR": 5.59,
     "La Jornada MX": 5.33,
     "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 4.63
+    "Resumen Latinoam.": 4.25
   },
   "articles": [
     {
@@ -376,10 +376,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-07T14:49:28Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-06-07T16:11:59Z",
       "score": 4.56
@@ -1047,6 +1043,10 @@
     {
       "timestamp": "2026-06-28T17:06:19Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-06-28T19:15:06Z",
+      "score": 4.82
     }
   ]
 }

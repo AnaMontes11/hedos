@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-29T05:28:20Z",
-  "global_score": 4.79,
-  "articles_scored": 93,
-  "words_matched": 310,
+  "generated": "2026-06-29T10:51:34Z",
+  "global_score": 4.91,
+  "articles_scored": 87,
+  "words_matched": 258,
   "top_negative": [
     {
       "word": "culo",
@@ -13,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "torturado",
+      "word": "tortura",
       "score": -4
     },
     {
@@ -59,77 +59,53 @@
       "score": 4
     },
     {
-      "word": "felicidad",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "sentido",
       "score": 3
     },
     {
       "word": "vibrante",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.05,
-    "elDiario.es": 4.84,
-    "El Mundo": 3.93,
-    "ABC": 5.02,
-    "El Confidencial": 3.53,
-    "BBC Mundo": 5.04,
+    "El País": 4.94,
+    "elDiario.es": 4.89,
+    "El Mundo": 4.17,
+    "El Confidencial": 4.97,
+    "BBC Mundo": 5.22,
     "France 24 ES": 5.68,
-    "La Nación AR": 4.53,
-    "La Jornada MX": 5.33,
+    "La Nación AR": 5.33,
+    "La Jornada MX": 4.92,
     "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 4.78
+    "Resumen Latinoam.": 4.56
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La regularización de inmigrantes culmina con cifras que superan las previsiones ",
-      "score": 5.8,
+      "title": "La guerra interminable de Ayuso contra La Moncloa llega a su momento álgido",
+      "score": 3.4,
       "words": [
         {
-          "word": "resolver",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Mirando al mar desde la playa caribeña de La Guaira, de espaldas a la muerte",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "frustración",
+          "word": "guerra",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La vida se reconstruye a pedazos en los edificios verdes de la colonia caraqueña",
-      "score": 4.73,
+      "title": "Última hora de la actualidad política, en directo | Junts rechaza el gesto de ac",
+      "score": 3.8,
       "words": [
         {
-          "word": "paraíso",
-          "score": 3
+          "word": "rechaza",
+          "score": -1
         },
         {
-          "word": "protestas",
-          "score": -2
-        },
-        {
-          "word": "agrava",
+          "word": "niega",
           "score": -2
         }
       ]
@@ -159,12 +135,35 @@
     },
     {
       "source": "El País",
-      "title": "Venezuela se salva con sus propias manos",
+      "title": "Última hora del terremoto en Venezuela, en directo | Exteriores rebaja a 138 los",
       "score": 6.6,
       "words": [
         {
-          "word": "rescates",
+          "word": "rescate",
           "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El Gobierno desbloquea la jubilación parcial del personal laboral de todas las A",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "parcial",
+          "score": -2
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "contratar",
+          "score": 1
         }
       ]
     },
@@ -218,6 +217,25 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "El Gobierno revisa al alza el crecimiento de este año hasta el 2,6%",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "mejora",
+          "score": 2
+        },
+        {
+          "word": "reivindica",
+          "score": 2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "La causa contra Zapatero se expande entre acusaciones de nulidad y filtraciones",
       "score": 4.91,
@@ -241,6 +259,33 @@
         {
           "word": "rescate",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP acusa al Gobierno de inflar los censos: “No hay ley de nietos que oculte q",
+      "score": 5.28,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "permitir",
+          "score": 1
         }
       ]
     },
@@ -273,28 +318,55 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Podemos pide que el policía acosado por investigar al PP declare en la causa por",
-      "score": 4.56,
+      "title": "Aldama, tocado por la fortuna",
+      "score": 4.94,
       "words": [
         {
-          "word": "acosado",
+          "word": "error",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un juez imputa a la jefa de geriatría del Gregorio Marañón por los protocolos de",
+      "score": 4.29,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "acosado",
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "guerra",
+          "word": "autor",
           "score": -2
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "responsable",
+          "score": 2
         }
       ]
     },
@@ -324,94 +396,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los terremotos en Venezuela ponen a prueba la hoja de ruta de Trump tras recorta",
-      "score": 4.97,
-      "words": [
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "eficaz",
-          "score": 2
-        },
-        {
-          "word": "maduro",
-          "score": 2
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La esperanza de encontrar supervivientes en Venezuela se desvanece: \"Hemos habla",
-      "score": 5.09,
-      "words": [
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "bloques",
-          "score": -1
-        },
-        {
-          "word": "suerte",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "MAPA | Dónde ver el eclipse solar del 12 de agosto: recorrido y visibilidad en c",
-      "score": 5.51,
-      "words": [
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "parcial",
-          "score": -2
-        },
-        {
-          "word": "perdido",
-          "score": -2
-        },
-        {
-          "word": "misterioso",
-          "score": -2
-        },
-        {
-          "word": "cielo",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-08T00:03:54Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-06-08T05:28:20Z",
       "score": 4.63
@@ -1079,6 +1066,10 @@
     {
       "timestamp": "2026-06-29T05:28:20Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-06-29T10:51:34Z",
+      "score": 4.91
     }
   ]
 }

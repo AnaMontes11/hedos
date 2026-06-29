@@ -1,13 +1,9 @@
 {
-  "generated": "2026-06-29T10:51:34Z",
-  "global_score": 4.91,
-  "articles_scored": 87,
-  "words_matched": 258,
+  "generated": "2026-06-29T14:45:56Z",
+  "global_score": 4.72,
+  "articles_scored": 99,
+  "words_matched": 260,
   "top_negative": [
-    {
-      "word": "culo",
-      "score": -4
-    },
     {
       "word": "fraude",
       "score": -4
@@ -25,29 +21,25 @@
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "atropello",
+      "word": "soborno",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "traicionar",
+      "score": -3
+    },
+    {
+      "word": "peor",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
       "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
       "score": 4
     },
     {
@@ -59,7 +51,7 @@
       "score": 4
     },
     {
-      "word": "sentido",
+      "word": "premio",
       "score": 3
     },
     {
@@ -67,81 +59,59 @@
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "feliz",
+      "score": 3
+    },
+    {
+      "word": "euforia",
+      "score": 3
+    },
+    {
+      "word": "encantado",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.94,
-    "elDiario.es": 4.89,
-    "El Mundo": 4.17,
-    "El Confidencial": 4.97,
-    "BBC Mundo": 5.22,
-    "France 24 ES": 5.68,
-    "La Nación AR": 5.33,
+    "El País": 4.83,
+    "elDiario.es": 4.94,
+    "El Mundo": 3.55,
+    "ABC": 5.33,
+    "El Confidencial": 5.07,
+    "BBC Mundo": 5.27,
+    "France 24 ES": 4.65,
+    "La Nación AR": 3.49,
     "La Jornada MX": 4.92,
-    "Desinformémonos": 4.52,
-    "Resumen Latinoam.": 4.56
+    "Desinformémonos": 4.38,
+    "Resumen Latinoam.": 4.96
   },
   "articles": [
     {
       "source": "El País",
-      "title": "La guerra interminable de Ayuso contra La Moncloa llega a su momento álgido",
+      "title": "Feijóo siembra dudas sobre el incremento del censo por la ‘ley de nietos’: “Es i",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "dudas",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La secretaria de Zapatero, María Gertrudis Alcázar, en el Senado: “Voy a mantene",
       "score": 3.4,
       "words": [
         {
-          "word": "guerra",
+          "word": "desaire",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Junts rechaza el gesto de ac",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "niega",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El vuelo de la desgracia: los 147 deportados de Estados Unidos que terminaron ba",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "desgracia",
-          "score": -2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "catástrofe",
-          "score": -3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora del terremoto en Venezuela, en directo | Exteriores rebaja a 138 los",
+      "title": "La empresaria que asegura que llevó 90.000 euros a Ferraz ratifica que la abogad",
       "score": 6.6,
       "words": [
-        {
-          "word": "rescate",
-          "score": 2
-        },
         {
           "word": "asegura",
           "score": 2
@@ -169,16 +139,24 @@
     },
     {
       "source": "El País",
-      "title": "Tras la pista del nazi Mengele en Suiza: unas vacaciones en la nieve y las incóg",
+      "title": "El vuelo de la desgracia: los 147 deportados de Estados Unidos que terminaron ba",
       "score": 3.0,
       "words": [
         {
-          "word": "muerte",
+          "word": "desgracia",
           "score": -2
         },
         {
-          "word": "criminal",
+          "word": "víctimas",
           "score": -3
+        },
+        {
+          "word": "catástrofe",
+          "score": -3
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -218,43 +196,35 @@
     },
     {
       "source": "El País",
-      "title": "El Gobierno revisa al alza el crecimiento de este año hasta el 2,6%",
-      "score": 6.6,
+      "title": "El Tribunal Supremo de EE UU impide la maniobra de Trump de despedir a Lisa Cook",
+      "score": 3.4,
       "words": [
         {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "mejora",
-          "score": 2
-        },
-        {
-          "word": "reivindica",
-          "score": 2
+          "word": "socavar",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La causa contra Zapatero se expande entre acusaciones de nulidad y filtraciones",
-      "score": 4.91,
+      "title": "El juez del caso Leire imputa a la presidenta de la SEPI y a otras 24 personas m",
+      "score": 5.6,
       "words": [
         {
-          "word": "expande",
-          "score": 1
+          "word": "delitos",
+          "score": -3
         },
         {
-          "word": "acusaciones",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "expande",
+          "word": "intereses",
           "score": 1
         },
         {
-          "word": "acusaciones",
-          "score": -2
+          "word": "beneficio",
+          "score": 2
         },
         {
           "word": "rescate",
@@ -264,8 +234,81 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Carmen Pano confirma lo que dijo ante la UCO: sostiene que la abogada de Koldo G",
+      "score": 3.74,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "aceptado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vox revienta la investidura de Moreno y adelanta su voto en contra a mitad de un",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "traicionar",
+          "score": -3
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Discurso íntegro de Juanma Moreno: seis menciones de la palabra \"prioridad\", per",
+      "score": 7.13,
+      "words": [
+        {
+          "word": "claridad",
+          "score": 2
+        },
+        {
+          "word": "fiel",
+          "score": 3
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El PP acusa al Gobierno de inflar los censos: “No hay ley de nietos que oculte q",
-      "score": 5.28,
+      "score": 4.87,
       "words": [
         {
           "word": "acusa",
@@ -284,125 +327,67 @@
           "score": -2
         },
         {
-          "word": "permitir",
-          "score": 1
+          "word": "cargado",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Del hermano de Ayuso al 'caso Aldama': la avaricia no es delito y el pelotazo co",
+      "title": "El Gobierno responde a las acusaciones del PP de inflar los censos: \"Feijóo pare",
+      "score": 4.92,
+      "words": [
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "desesperación",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Anticorrupción mantiene en Kitchen la petición de 15 años de cárcel para el exmi",
       "score": 4.44,
       "words": [
         {
-          "word": "delito",
-          "score": -3
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "soborno",
-          "score": -3
-        },
-        {
-          "word": "premio",
+          "word": "popular",
           "score": 3
         },
         {
-          "word": "delito",
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "delitos",
           "score": -3
-        },
-        {
-          "word": "soborno",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Aldama, tocado por la fortuna",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "error",
-          "score": -2
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un juez imputa a la jefa de geriatría del Gregorio Marañón por los protocolos de",
-      "score": 4.29,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "autor",
-          "score": -2
-        },
-        {
-          "word": "responsable",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP intentó sobornar a las víctimas del metro de València para silenciarlas y ",
-      "score": 4.46,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "cumple",
-          "score": 2
-        },
-        {
-          "word": "accidente",
-          "score": -2
-        },
-        {
-          "word": "tragedia",
-          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-08T05:28:20Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-06-08T10:47:30Z",
       "score": 4.86
@@ -1070,6 +1055,10 @@
     {
       "timestamp": "2026-06-29T10:51:34Z",
       "score": 4.91
+    },
+    {
+      "timestamp": "2026-06-29T14:45:56Z",
+      "score": 4.72
     }
   ]
 }

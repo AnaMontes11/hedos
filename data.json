@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-29T14:45:56Z",
-  "global_score": 4.72,
-  "articles_scored": 99,
-  "words_matched": 260,
+  "generated": "2026-06-29T17:33:50Z",
+  "global_score": 4.76,
+  "articles_scored": 93,
+  "words_matched": 259,
   "top_negative": [
     {
       "word": "fraude",
@@ -25,21 +25,25 @@
       "score": -3
     },
     {
+      "word": "criminal",
+      "score": -3
+    },
+    {
       "word": "soborno",
       "score": -3
     },
     {
       "word": "traicionar",
       "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -47,19 +51,11 @@
       "score": 4
     },
     {
-      "word": "brillante",
-      "score": 4
-    },
-    {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "vibrante",
-      "score": 3
-    },
-    {
-      "word": "feliz",
+      "word": "agradable",
       "score": 3
     },
     {
@@ -67,22 +63,26 @@
       "score": 3
     },
     {
-      "word": "encantado",
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "medalla",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.83,
-    "elDiario.es": 4.94,
-    "El Mundo": 3.55,
-    "ABC": 5.33,
-    "El Confidencial": 5.07,
-    "BBC Mundo": 5.27,
-    "France 24 ES": 4.65,
-    "La Nación AR": 3.49,
+    "El País": 4.15,
+    "elDiario.es": 4.96,
+    "El Mundo": 4.04,
+    "ABC": 5.78,
+    "El Confidencial": 5.31,
+    "BBC Mundo": 4.39,
+    "France 24 ES": 4.83,
+    "La Nación AR": 5.4,
     "La Jornada MX": 4.92,
-    "Desinformémonos": 4.38,
-    "Resumen Latinoam.": 4.96
+    "Desinformémonos": 4.3,
+    "Resumen Latinoam.": 4.59
   },
   "articles": [
     {
@@ -109,31 +109,20 @@
     },
     {
       "source": "El País",
-      "title": "La empresaria que asegura que llevó 90.000 euros a Ferraz ratifica que la abogad",
-      "score": 6.6,
+      "title": "¿Cuántos edificios han colapsado en Venezuela? Los satélites ya han identificado",
+      "score": 3.93,
       "words": [
         {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El Gobierno desbloquea la jubilación parcial del personal laboral de todas las A",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "parcial",
+          "word": "colapsado",
           "score": -2
         },
         {
-          "word": "aprueba",
-          "score": 2
+          "word": "bloques",
+          "score": -1
         },
         {
-          "word": "contratar",
-          "score": 1
+          "word": "bloques",
+          "score": -1
         }
       ]
     },
@@ -162,31 +151,31 @@
     },
     {
       "source": "El País",
-      "title": "Nuestros padres mintieron: a 10 años del Brexit",
-      "score": 6.6,
+      "title": "El Gobierno desbloquea la jubilación parcial del personal laboral de todas las A",
+      "score": 5.27,
       "words": [
         {
-          "word": "unido",
-          "score": 1
+          "word": "parcial",
+          "score": -2
         },
         {
-          "word": "espalda",
-          "score": 1
+          "word": "aprueba",
+          "score": 2
         },
         {
-          "word": "brillante",
-          "score": 4
+          "word": "contratar",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El sueño de la calor produce monstruos",
-      "score": 6.2,
+      "title": "Francia quiere aprender de España cómo afrontar las nuevas olas de calor: “En Ma",
+      "score": 6.6,
       "words": [
         {
-          "word": "sueño",
-          "score": 1
+          "word": "calor",
+          "score": 2
         },
         {
           "word": "calor",
@@ -196,19 +185,38 @@
     },
     {
       "source": "El País",
-      "title": "El Tribunal Supremo de EE UU impide la maniobra de Trump de despedir a Lisa Cook",
+      "title": "Brasil - Japón, el partido de dieciseisavos del Mundial en directo | Brasil domi",
       "score": 3.4,
       "words": [
         {
-          "word": "socavar",
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Antonio Rüdiger, el hijo pequeño de dos refugiados de Sierra Leona al que Aleman",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "criticado",
+          "score": -2
+        },
+        {
+          "word": "lesión",
+          "score": -2
+        },
+        {
+          "word": "puesto",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El juez del caso Leire imputa a la presidenta de la SEPI y a otras 24 personas m",
-      "score": 5.6,
+      "title": "El juez Pedraz imputa a la presidenta de la SEPI y a otras 24 personas en el 'ca",
+      "score": 5.68,
       "words": [
         {
           "word": "delitos",
@@ -219,15 +227,15 @@
           "score": -2
         },
         {
+          "word": "rescate",
+          "score": 2
+        },
+        {
           "word": "intereses",
           "score": 1
         },
         {
           "word": "beneficio",
-          "score": 2
-        },
-        {
-          "word": "rescate",
           "score": 2
         }
       ]
@@ -262,7 +270,7 @@
     {
       "source": "elDiario.es",
       "title": "Vox revienta la investidura de Moreno y adelanta su voto en contra a mitad de un",
-      "score": 5.2,
+      "score": 5.17,
       "words": [
         {
           "word": "reivindica",
@@ -308,7 +316,7 @@
     {
       "source": "elDiario.es",
       "title": "El PP acusa al Gobierno de inflar los censos: “No hay ley de nietos que oculte q",
-      "score": 4.87,
+      "score": 4.89,
       "words": [
         {
           "word": "acusa",
@@ -335,7 +343,7 @@
     {
       "source": "elDiario.es",
       "title": "El Gobierno responde a las acusaciones del PP de inflar los censos: \"Feijóo pare",
-      "score": 4.92,
+      "score": 4.98,
       "words": [
         {
           "word": "acusaciones",
@@ -388,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-08T10:47:30Z",
-      "score": 4.86
-    },
     {
       "timestamp": "2026-06-08T14:45:48Z",
       "score": 4.83
@@ -1059,6 +1063,10 @@
     {
       "timestamp": "2026-06-29T14:45:56Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-29T17:33:50Z",
+      "score": 4.76
     }
   ]
 }

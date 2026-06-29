@@ -1,19 +1,15 @@
 {
-  "generated": "2026-06-29T00:05:23Z",
-  "global_score": 4.91,
-  "articles_scored": 96,
-  "words_matched": 318,
+  "generated": "2026-06-29T05:28:20Z",
+  "global_score": 4.79,
+  "articles_scored": 93,
+  "words_matched": 310,
   "top_negative": [
     {
-      "word": "perra",
-      "score": -5
-    },
-    {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -21,7 +17,11 @@
       "score": -4
     },
     {
-      "word": "desconfianza",
+      "word": "víctimas",
+      "score": -3
+    },
+    {
+      "word": "catástrofe",
       "score": -3
     },
     {
@@ -29,18 +29,18 @@
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "atropello",
       "score": -3
     },
     {
-      "word": "culpa",
+      "word": "ilegal",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
-      "score": 4
+      "word": "excepcional",
+      "score": 5
     },
     {
       "word": "ganar",
@@ -51,40 +51,112 @@
       "score": 4
     },
     {
-      "word": "milagro",
+      "word": "ganador",
       "score": 4
+    },
+    {
+      "word": "brillante",
+      "score": 4
+    },
+    {
+      "word": "felicidad",
+      "score": 3
     },
     {
       "word": "amor",
       "score": 3
     },
     {
-      "word": "feliz",
-      "score": 3
-    },
-    {
-      "word": "alabanza",
-      "score": 3
-    },
-    {
-      "word": "riqueza",
+      "word": "vibrante",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.93,
-    "elDiario.es": 4.96,
-    "El Mundo": 4.53,
-    "ABC": 5.35,
-    "El Confidencial": 3.95,
-    "BBC Mundo": 5.15,
-    "France 24 ES": 4.74,
-    "La Nación AR": 5.2,
+    "El País": 5.05,
+    "elDiario.es": 4.84,
+    "El Mundo": 3.93,
+    "ABC": 5.02,
+    "El Confidencial": 3.53,
+    "BBC Mundo": 5.04,
+    "France 24 ES": 5.68,
+    "La Nación AR": 4.53,
     "La Jornada MX": 5.33,
     "Desinformémonos": 4.52,
     "Resumen Latinoam.": 4.78
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "La regularización de inmigrantes culmina con cifras que superan las previsiones ",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "resolver",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Mirando al mar desde la playa caribeña de La Guaira, de espaldas a la muerte",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "frustración",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La vida se reconstruye a pedazos en los edificios verdes de la colonia caraqueña",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "paraíso",
+          "score": 3
+        },
+        {
+          "word": "protestas",
+          "score": -2
+        },
+        {
+          "word": "agrava",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El vuelo de la desgracia: los 147 deportados de Estados Unidos que terminaron ba",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "desgracia",
+          "score": -2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "catástrofe",
+          "score": -3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Venezuela se salva con sus propias manos",
@@ -98,9 +170,74 @@
     },
     {
       "source": "El País",
-      "title": "Videoanálisis |“Los vecinos sacan los cascotes con sus propias manos. Es una pre",
+      "title": "Tras la pista del nazi Mengele en Suiza: unas vacaciones en la nieve y las incóg",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Nuestros padres mintieron: a 10 años del Brexit",
       "score": 6.6,
       "words": [
+        {
+          "word": "unido",
+          "score": 1
+        },
+        {
+          "word": "espalda",
+          "score": 1
+        },
+        {
+          "word": "brillante",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El sueño de la calor produce monstruos",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "sueño",
+          "score": 1
+        },
+        {
+          "word": "calor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La causa contra Zapatero se expande entre acusaciones de nulidad y filtraciones",
+      "score": 4.91,
+      "words": [
+        {
+          "word": "expande",
+          "score": 1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
+        {
+          "word": "expande",
+          "score": 1
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        },
         {
           "word": "rescate",
           "score": 2
@@ -108,294 +245,169 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Qué son los ‘huecos de vida’ y por qué son clave para salvar personas bajo los e",
-      "score": 5.53,
+      "source": "elDiario.es",
+      "title": "Del hermano de Ayuso al 'caso Aldama': la avaricia no es delito y el pelotazo co",
+      "score": 4.44,
       "words": [
         {
-          "word": "salvar",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Radiografía de la desconfianza ciudadana en la justicia: “El sistema disciplinar",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "desconfianza",
+          "word": "delito",
           "score": -3
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "soborno",
+          "score": -3
+        },
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "soborno",
+          "score": -3
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Ro Khanna, el demócrata al que Elon Musk quiere en la cárcel: “El dinero tiene s",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "Podemos pide que el policía acosado por investigar al PP declare en la causa por",
+      "score": 4.56,
       "words": [
         {
-          "word": "advierte",
+          "word": "acosado",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "acosado",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "guerra",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Austria, el milagro con cerebro alemán rival de España en dieciseisavos",
-      "score": 8.2,
+      "source": "elDiario.es",
+      "title": "El PP intentó sobornar a las víctimas del metro de València para silenciarlas y ",
+      "score": 4.46,
       "words": [
         {
-          "word": "milagro",
-          "score": 4
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "cumple",
+          "score": 2
+        },
+        {
+          "word": "accidente",
+          "score": -2
+        },
+        {
+          "word": "tragedia",
+          "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Colombia muestra las debilidades del plan de Roberto Martínez a la medida de Cri",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "Los terremotos en Venezuela ponen a prueba la hoja de ruta de Trump tras recorta",
+      "score": 4.97,
       "words": [
         {
-          "word": "gracias",
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "eficaz",
+          "score": 2
+        },
+        {
+          "word": "maduro",
+          "score": 2
+        },
+        {
+          "word": "esperanza",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo, en la rueda de ratón de la moción de censura",
-      "score": 5.11,
+      "title": "La esperanza de encontrar supervivientes en Venezuela se desvanece: \"Hemos habla",
+      "score": 5.09,
       "words": [
         {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "logra",
+          "word": "esperanza",
           "score": 2
         },
         {
-          "word": "apoyo",
+          "word": "esperanza",
           "score": 2
         },
         {
-          "word": "confianza",
-          "score": 1
+          "word": "ayuda",
+          "score": 2
         },
         {
-          "word": "mayor",
+          "word": "bloques",
+          "score": -1
+        },
+        {
+          "word": "suerte",
           "score": 3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez entona el himno de la resistencia ante un PSOE que se conjura para libra",
-      "score": 4.78,
+      "title": "MAPA | Dónde ver el eclipse solar del 12 de agosto: recorrido y visibilidad en c",
+      "score": 5.51,
       "words": [
         {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
+          "word": "sol",
           "score": 2
         },
         {
-          "word": "críticos",
+          "word": "parcial",
           "score": -2
         },
         {
-          "word": "tipo",
+          "word": "perdido",
+          "score": -2
+        },
+        {
+          "word": "misterioso",
+          "score": -2
+        },
+        {
+          "word": "cielo",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los audios del Comité Federal: Page pide no tener miedo \"a ir a elecciones\" y Sá",
-      "score": 5.35,
-      "words": [
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "miedo",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "mancha",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Tellado critica el Comité Federal del PSOE: \"De tintes norcoreanos, lo más parec",
-      "score": 4.91,
-      "words": [
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "criminal",
-          "score": -3
-        },
-        {
-          "word": "ausencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "63.134 euros al año con un cursillo de 150 horas y un inglés \"básico\": los sueld",
-      "score": 4.67,
-      "words": [
-        {
-          "word": "responsable",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "pagado",
-          "score": 2
-        },
-        {
-          "word": "cobrar",
-          "score": -2
-        },
-        {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La vida privada de Zapatero y qué falla en el sistema judicial",
-      "score": 4.34,
-      "words": [
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "falla",
-          "score": -2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "culpable",
-          "score": -3
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los críticos de Movimiento Sumar pactan la lista para defenestrar a Lara Hernánd",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "críticos",
-          "score": -2
-        },
-        {
-          "word": "duda",
-          "score": -1
-        },
-        {
-          "word": "batalla",
-          "score": -1
-        },
-        {
-          "word": "críticos",
-          "score": -2
-        },
-        {
-          "word": "duda",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "¿Quieren acabar con el Gobierno? Lean la Constitución",
-      "score": 5.24,
-      "words": [
-        {
-          "word": "risas",
-          "score": 1
-        },
-        {
-          "word": "gamberro",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        },
-        {
-          "word": "confianza",
-          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-07T22:01:03Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-06-08T00:03:54Z",
       "score": 4.57
@@ -1063,6 +1075,10 @@
     {
       "timestamp": "2026-06-29T00:05:23Z",
       "score": 4.91
+    },
+    {
+      "timestamp": "2026-06-29T05:28:20Z",
+      "score": 4.79
     }
   ]
 }

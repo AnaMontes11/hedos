@@ -1,8 +1,8 @@
 {
-  "generated": "2026-06-30T14:12:27Z",
-  "global_score": 4.69,
-  "articles_scored": 84,
-  "words_matched": 194,
+  "generated": "2026-06-30T17:04:29Z",
+  "global_score": 4.74,
+  "articles_scored": 94,
+  "words_matched": 215,
   "top_negative": [
     {
       "word": "fraude",
@@ -13,7 +13,7 @@
       "score": -3
     },
     {
-      "word": "cubrir",
+      "word": "peor",
       "score": -3
     },
     {
@@ -21,7 +21,7 @@
       "score": -3
     },
     {
-      "word": "odio",
+      "word": "delicado",
       "score": -3
     },
     {
@@ -39,11 +39,19 @@
   ],
   "top_positive": [
     {
-      "word": "divertido",
-      "score": 4
+      "word": "excepcional",
+      "score": 5
     },
     {
       "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "alegría",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -51,39 +59,59 @@
       "score": 3
     },
     {
-      "word": "mayor",
+      "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
       "score": 3
     },
     {
       "word": "sentido",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "seguro",
-      "score": 2
     }
   ],
   "per_source": {
-    "El País": 4.97,
-    "elDiario.es": 4.95,
-    "El Mundo": 4.1,
-    "ABC": 5.24,
+    "El País": 5.21,
+    "elDiario.es": 4.77,
+    "El Mundo": 4.05,
+    "ABC": 5.64,
     "El Confidencial": 3.93,
-    "BBC Mundo": 5.02,
-    "France 24 ES": 4.7,
-    "La Nación AR": 5.85,
+    "BBC Mundo": 4.94,
+    "France 24 ES": 4.99,
+    "La Nación AR": 4.12,
     "La Jornada MX": 4.37,
-    "Desinformémonos": 4.27
+    "Desinformémonos": 4.89,
+    "Resumen Latinoam.": 4.93
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El Supremo rechaza el intento de Trump de acabar con el derecho a la ciudadanía ",
+      "score": 4.84,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "duro",
+          "score": -2
+        },
+        {
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Vox pide a la Junta Electoral Central que se prive del derecho a votar por corre",
@@ -101,8 +129,8 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | El PP insiste en su sospecha",
-      "score": 3.56,
+      "title": "Última hora de la actualidad política, en directo | Marlaska, sobre los manejos ",
+      "score": 3.6,
       "words": [
         {
           "word": "sospecha",
@@ -119,25 +147,6 @@
         {
           "word": "derecho",
           "score": 1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Finlandia sale a la caza de maestras españolas de Infantil: “Les ofrecemos 3.200",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "infantil",
-          "score": -2
-        },
-        {
-          "word": "cubrir",
-          "score": -3
         }
       ]
     },
@@ -162,56 +171,65 @@
     },
     {
       "source": "El País",
-      "title": "Casemiro y diez más para Ancelotti: marcó el gol decisivo para pasar a octavos t",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "decisivo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Marruecos elimina a Países Bajos en los penaltis con un Bono providencial",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "imponer",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Paraguay elimina a la apagada Alemania en los penaltis para firmar la primera gr",
+      "title": "Paraguay estalla de júbilo y Peña decreta feriado por “el épico triunfo” de “la ",
       "score": 8.2,
       "words": [
         {
-          "word": "ganador",
+          "word": "triunfo",
           "score": 4
         }
       ]
     },
     {
       "source": "El País",
-      "title": "EL PAÍS logra su mejor dato en más de cinco años al frente de la prensa generali",
-      "score": 7.0,
+      "title": "La alegría de los hinchas de Marruecos inunda las calles de los Países Bajos tra",
+      "score": 6.6,
       "words": [
         {
-          "word": "logra",
+          "word": "alegría",
+          "score": 4
+        },
+        {
+          "word": "triunfo",
+          "score": 4
+        },
+        {
+          "word": "disturbios",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vox tumba la investidura de Moreno y da 48 horas al PP para cumplir sus exigenci",
+      "score": 5.08,
+      "words": [
+        {
+          "word": "tumba",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
           "score": 2
         },
         {
-          "word": "mejor",
-          "score": 3
+          "word": "tumba",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "El Supremo considera que la regularización de migrantes podría chocar con la nor",
-      "score": 4.86,
+      "score": 4.89,
       "words": [
         {
           "word": "chocar",
@@ -237,28 +255,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez anuncia un plan de integración de 500 millones de euros y defiende la re",
-      "score": 6.2,
+      "title": "El Gobierno confía en que un hipotético dictamen del Tribunal de la UE no podrá ",
+      "score": 5.27,
       "words": [
         {
-          "word": "mejor",
-          "score": 3
+          "word": "derecho",
+          "score": 1
         },
         {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "éxito",
-          "score": 2
+          "word": "concesión",
+          "score": 1
         },
         {
           "word": "chocar",
           "score": -1
         },
         {
-          "word": "importancia",
-          "score": 2
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "chocar",
+          "score": -1
         }
       ]
     },
@@ -282,33 +300,6 @@
         {
           "word": "niega",
           "score": -2
-        },
-        {
-          "word": "chocar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno cree que una hipotética resolución del Tribunal de la UE no podrá re",
-      "score": 5.27,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "concesión",
-          "score": 1
-        },
-        {
-          "word": "chocar",
-          "score": -1
-        },
-        {
-          "word": "mejor",
-          "score": 3
         },
         {
           "word": "chocar",
@@ -372,6 +363,60 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La nueva lista de morosos de Hacienda incluye a Isabel Pantoja, que aumenta su d",
+      "score": 4.43,
+      "words": [
+        {
+          "word": "aumenta",
+          "score": 1
+        },
+        {
+          "word": "deuda",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "aumenta",
+          "score": 1
+        },
+        {
+          "word": "deuda",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La nueva lista de morosos de Hacienda 2026: consulta todos los nombres en nuestr",
+      "score": 4.81,
+      "words": [
+        {
+          "word": "deuda",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "aumenta",
+          "score": 1
+        },
+        {
+          "word": "deuda",
+          "score": -2
+        },
+        {
+          "word": "paz",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El fiscal concluye que Kitchen tenía “una finalidad bastarda”: “boicotear” el ca",
       "score": 4.8,
       "words": [
@@ -399,10 +444,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-09T15:52:23Z",
-      "score": 4.88
-    },
     {
       "timestamp": "2026-06-09T18:00:19Z",
       "score": 4.78
@@ -1070,6 +1111,10 @@
     {
       "timestamp": "2026-06-30T14:12:27Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-06-30T17:04:29Z",
+      "score": 4.74
     }
   ]
 }

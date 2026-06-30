@@ -1,11 +1,19 @@
 {
-  "generated": "2026-06-30T00:01:15Z",
-  "global_score": 4.72,
-  "articles_scored": 95,
-  "words_matched": 260,
+  "generated": "2026-06-30T05:00:05Z",
+  "global_score": 4.66,
+  "articles_scored": 92,
+  "words_matched": 269,
   "top_negative": [
     {
+      "word": "infierno",
+      "score": -4
+    },
+    {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "culo",
       "score": -4
     },
     {
@@ -13,27 +21,19 @@
       "score": -4
     },
     {
-      "word": "víctimas",
+      "word": "escándalos",
       "score": -3
     },
     {
-      "word": "catástrofe",
+      "word": "cubrir",
       "score": -3
     },
     {
-      "word": "pierde",
+      "word": "preocupado",
       "score": -3
     },
     {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "víctima",
-      "score": -3
-    },
-    {
-      "word": "criminal",
+      "word": "vil",
       "score": -3
     }
   ],
@@ -55,143 +55,149 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "vibrante",
       "score": 3
     },
     {
-      "word": "emocionante",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "medalla",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "perfectamente",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.17,
-    "elDiario.es": 4.93,
-    "El Mundo": 4.07,
-    "ABC": 5.22,
-    "El Confidencial": 4.73,
+    "El País": 4.29,
+    "elDiario.es": 4.64,
+    "El Mundo": 4.3,
+    "ABC": 5.64,
+    "El Confidencial": 4.23,
     "BBC Mundo": 4.1,
-    "France 24 ES": 6.06,
-    "La Nación AR": 5.08,
+    "France 24 ES": 5.72,
+    "La Nación AR": 5.5,
     "La Jornada MX": 4.92,
     "Desinformémonos": 4.27,
-    "Resumen Latinoam.": 4.3
+    "Resumen Latinoam.": 4.21
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Feijóo siembra dudas sobre el incremento del censo por la ‘ley de nietos’: “Es i",
-      "score": 4.2,
+      "title": "Buscando desaparecidos: “Casi no quiero preguntar por miedo a malas noticias”",
+      "score": 3.8,
       "words": [
         {
-          "word": "dudas",
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "espera",
           "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El juez Pedraz imputa a la presidenta de la SEPI y a una veintena de personas en",
-      "score": 6.33,
+      "title": "Feijóo insinúa que la ‘ley de nietos’ permite manipular el censo tras haber defe",
+      "score": 4.6,
       "words": [
         {
-          "word": "confianza",
+          "word": "conceder",
           "score": 1
         },
         {
-          "word": "salvar",
-          "score": 2
-        },
-        {
-          "word": "rescates",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Cuántos edificios han colapsado en Venezuela? Los satélites ya han identificado",
-      "score": 3.93,
-      "words": [
-        {
-          "word": "colapsado",
-          "score": -2
-        },
-        {
-          "word": "bloques",
-          "score": -1
-        },
-        {
-          "word": "bloques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El vuelo de la desgracia: los 147 deportados de Estados Unidos que terminaron ba",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "desgracia",
-          "score": -2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        },
-        {
-          "word": "catástrofe",
-          "score": -3
-        },
-        {
-          "word": "solo",
+          "word": "persigue",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El Gobierno desbloquea la jubilación parcial del personal laboral de todas las A",
+      "title": "La incertidumbre sobre la amnistía impide cualquier acuerdo del independentismo ",
       "score": 5.27,
       "words": [
         {
-          "word": "parcial",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "aprueba",
+          "word": "negociar",
           "score": 2
-        },
-        {
-          "word": "contratar",
-          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Alemania - Paraguay : Mundial 2026 | Paraguay elimina a Alemania en los penaltis",
-      "score": 4.47,
+      "title": "El Gobierno multiplica sus movimientos para dar contenido a la legislatura con P",
+      "score": 2.6,
       "words": [
         {
-          "word": "querido",
-          "score": 2
-        },
+          "word": "escándalos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La Complutense sanciona a Monedero a un año de suspensión de funciones por acoso",
+      "score": 3.4,
+      "words": [
         {
-          "word": "débil",
+          "word": "acoso",
           "score": -2
         },
         {
-          "word": "insomnio",
+          "word": "denuncia",
           "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Finlandia sale a la caza de maestras españolas de Infantil: “Les ofrecemos 3.200",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "infantil",
+          "score": -2
+        },
+        {
+          "word": "cubrir",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Paraguay elimina a la apagada Alemania en los penaltis para firmar la primera gr",
+      "score": 8.2,
+      "words": [
+        {
+          "word": "ganador",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Marruecos elimina a Países Bajos en los penaltis con un Bono providencial",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "imponer",
+          "score": -1
         }
       ]
     },
@@ -223,13 +229,83 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La cacería de Guadalajara: Uruguay rompe las alas de España",
-      "score": 2.6,
+      "source": "elDiario.es",
+      "title": "El juicio de Kitchen encara su final con una dura petición de cárcel por la Fisc",
+      "score": 4.36,
       "words": [
         {
-          "word": "pierde",
-          "score": -3
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "exposición",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno quiere irse de vacaciones con los deberes hechos para lanzar los Pre",
+      "score": 4.92,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        },
+        {
+          "word": "salvar",
+          "score": 2
+        },
+        {
+          "word": "preparado",
+          "score": 1
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La pareja de Ayuso declara en el juzgado por el señalamiento de Miguel Ángel Rod",
+      "score": 4.14,
+      "words": [
+        {
+          "word": "acosado",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "comparte",
+          "score": 1
         }
       ]
     },
@@ -262,84 +338,46 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Carmen Pano confirma lo que dijo ante la UCO: sostiene que la abogada de Koldo G",
-      "score": 3.74,
+      "title": "La fiscal que consiguió las condenas del accidente del Metro de València: \"Había",
+      "score": 4.19,
       "words": [
         {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "niega",
+          "word": "accidente",
           "score": -2
         },
         {
-          "word": "soborno",
+          "word": "defectos",
           "score": -3
         },
         {
-          "word": "solo",
+          "word": "accidente",
           "score": -2
         },
         {
-          "word": "aceptado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Vox revienta la investidura de Moreno y adelanta su voto en contra a mitad de un",
-      "score": 5.17,
-      "words": [
-        {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "traicionar",
+          "word": "defectos",
           "score": -3
         },
         {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "mayor",
-          "score": 3
+          "word": "riesgos",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Discurso íntegro de Juanma Moreno: seis menciones de la palabra \"prioridad\", per",
-      "score": 7.13,
+      "title": "El PP azuza con la ley de memoria democrática sus denuncias sin pruebas de 'puch",
+      "score": 4.9,
       "words": [
         {
-          "word": "claridad",
-          "score": 2
+          "word": "colapso",
+          "score": -2
         },
         {
-          "word": "fiel",
-          "score": 3
+          "word": "mal",
+          "score": -3
         },
         {
-          "word": "sentido",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP acusa al Gobierno de inflar los censos: “No hay ley de nietos que oculte q",
-      "score": 4.89,
-      "words": [
-        {
-          "word": "acusa",
+          "word": "acusaciones",
           "score": -2
         },
         {
@@ -347,79 +385,13 @@
           "score": -2
         },
         {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "cargado",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno responde a las acusaciones del PP de inflar los censos: \"Feijóo pare",
-      "score": 4.98,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "desesperación",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La pareja de Ayuso declara en el juzgado por el señalamiento de Miguel Ángel Rod",
-      "score": 4.14,
-      "words": [
-        {
-          "word": "acosado",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "comparte",
-          "score": 1
+          "word": "fantasma",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-09T00:02:51Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-06-09T05:02:45Z",
       "score": 4.77
@@ -1087,6 +1059,10 @@
     {
       "timestamp": "2026-06-30T00:01:15Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-06-30T05:00:05Z",
+      "score": 4.66
     }
   ]
 }

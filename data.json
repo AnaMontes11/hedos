@@ -1,12 +1,16 @@
 {
-  "generated": "2026-06-30T21:25:51Z",
-  "global_score": 4.52,
-  "articles_scored": 84,
-  "words_matched": 221,
+  "generated": "2026-06-30T23:08:37Z",
+  "global_score": 4.69,
+  "articles_scored": 96,
+  "words_matched": 245,
   "top_negative": [
     {
       "word": "fraude",
       "score": -4
+    },
+    {
+      "word": "racistas",
+      "score": -3
     },
     {
       "word": "destruye",
@@ -31,27 +35,27 @@
     {
       "word": "ilegal",
       "score": -3
-    },
-    {
-      "word": "odio",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "magnífico",
+      "score": 5
+    },
     {
       "word": "ganador",
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "alegría",
-      "score": 4
+      "word": "celebrar",
+      "score": 3
     },
     {
       "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
       "score": 3
     },
     {
@@ -65,23 +69,20 @@
     {
       "word": "popular",
       "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.4,
+    "El País": 5.0,
     "elDiario.es": 4.95,
     "El Mundo": 4.05,
+    "ABC": 5.13,
     "El Confidencial": 3.93,
-    "BBC Mundo": 4.52,
-    "France 24 ES": 4.5,
-    "La Nación AR": 3.91,
+    "BBC Mundo": 4.68,
+    "France 24 ES": 3.97,
+    "La Nación AR": 5.88,
     "La Jornada MX": 4.37,
-    "Desinformémonos": 4.84,
-    "Resumen Latinoam.": 4.76
+    "Desinformémonos": 4.93,
+    "Resumen Latinoam.": 4.79
   },
   "articles": [
     {
@@ -128,6 +129,21 @@
     },
     {
       "source": "El País",
+      "title": "Grave irresponsabilidad",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "grave",
+          "score": -2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "La lista de grandes morosos de Hacienda baja a 5.853 contribuyentes, con 15.432 ",
       "score": 3.4,
       "words": [
@@ -154,6 +170,32 @@
     },
     {
       "source": "El País",
+      "title": "Francia - Suecia : Mundial 2026, en directo | Dos goles de Mbappé y uno de Barco",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "magnífico",
+          "score": 5
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ronald Koeman dimite como seleccionador holandés tras la derrota contra Marrueco",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "racistas",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Haaland destruye el hermoso sueño de Costa de Marfil",
       "score": 4.73,
       "words": [
@@ -168,25 +210,6 @@
         {
           "word": "decisivo",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La alegría de los hinchas de Marruecos inunda las calles de los Países Bajos tra",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "alegría",
-          "score": 4
-        },
-        {
-          "word": "triunfo",
-          "score": 4
-        },
-        {
-          "word": "disturbios",
-          "score": -2
         }
       ]
     },
@@ -366,67 +389,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Begoña Gómez pide al juez Peinado permiso para asistir a la cumbre de la OTAN en",
-      "score": 4.76,
-      "words": [
-        {
-          "word": "realizar",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "fuga",
-          "score": -1
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La nueva lista de morosos de Hacienda incluye a Isabel Pantoja, que aumenta su d",
-      "score": 4.43,
-      "words": [
-        {
-          "word": "aumenta",
-          "score": 1
-        },
-        {
-          "word": "deuda",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "aumenta",
-          "score": 1
-        },
-        {
-          "word": "deuda",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-09T22:21:46Z",
-      "score": 4.85
-    },
     {
       "timestamp": "2026-06-10T00:10:07Z",
       "score": 4.69
@@ -1094,6 +1059,10 @@
     {
       "timestamp": "2026-06-30T21:25:51Z",
       "score": 4.52
+    },
+    {
+      "timestamp": "2026-06-30T23:08:37Z",
+      "score": 4.69
     }
   ]
 }

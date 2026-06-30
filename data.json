@@ -1,16 +1,12 @@
 {
-  "generated": "2026-06-30T17:04:29Z",
-  "global_score": 4.74,
-  "articles_scored": 94,
-  "words_matched": 215,
+  "generated": "2026-06-30T19:50:50Z",
+  "global_score": 4.61,
+  "articles_scored": 96,
+  "words_matched": 258,
   "top_negative": [
     {
       "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "desesperado",
-      "score": -3
     },
     {
       "word": "peor",
@@ -25,27 +21,23 @@
       "score": -3
     },
     {
+      "word": "mal",
+      "score": -3
+    },
+    {
       "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "odio",
       "score": -3
     },
     {
       "word": "delitos",
       "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
     {
       "word": "alegría",
       "score": 4
@@ -59,30 +51,38 @@
       "score": 3
     },
     {
-      "word": "alegre",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "suerte",
       "score": 3
     },
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.21,
-    "elDiario.es": 4.77,
+    "El País": 5.83,
+    "elDiario.es": 4.95,
     "El Mundo": 4.05,
-    "ABC": 5.64,
+    "ABC": 4.74,
     "El Confidencial": 3.93,
-    "BBC Mundo": 4.94,
-    "France 24 ES": 4.99,
-    "La Nación AR": 4.12,
+    "BBC Mundo": 4.46,
+    "France 24 ES": 4.07,
+    "La Nación AR": 5.45,
     "La Jornada MX": 4.37,
     "Desinformémonos": 4.89,
-    "Resumen Latinoam.": 4.93
+    "Resumen Latinoam.": 4.33
   },
   "articles": [
     {
@@ -129,29 +129,6 @@
     },
     {
       "source": "El País",
-      "title": "Última hora de la actualidad política, en directo | Marlaska, sobre los manejos ",
-      "score": 3.6,
-      "words": [
-        {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "desesperado",
-          "score": -3
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "La Complutense sanciona a Monedero a un año de suspensión de funciones por acoso",
       "score": 3.4,
       "words": [
@@ -166,6 +143,21 @@
         {
           "word": "acusaciones",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Costa de Marfil - Noruega, en directo | Nusa y Haaland clasifican a los noruegos",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "triunfo",
+          "score": 4
+        },
+        {
+          "word": "espera",
+          "score": -1
         }
       ]
     },
@@ -200,9 +192,24 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "EL PAÍS logra su mejor dato en más de cinco años al frente de la prensa generali",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "logra",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Vox tumba la investidura de Moreno y da 48 horas al PP para cumplir sus exigenci",
-      "score": 5.08,
+      "score": 5.1,
       "words": [
         {
           "word": "tumba",
@@ -271,11 +278,11 @@
           "score": -1
         },
         {
-          "word": "mejor",
-          "score": 3
+          "word": "justicia",
+          "score": 2
         },
         {
-          "word": "chocar",
+          "word": "colisiona",
           "score": -1
         }
       ]
@@ -304,6 +311,33 @@
         {
           "word": "chocar",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez anuncia un plan de integración de 500 millones de euros y defiende la re",
+      "score": 5.84,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "éxito",
+          "score": 2
+        },
+        {
+          "word": "chocar",
+          "score": -1
+        },
+        {
+          "word": "importancia",
+          "score": 2
         }
       ]
     },
@@ -387,67 +421,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La nueva lista de morosos de Hacienda 2026: consulta todos los nombres en nuestr",
-      "score": 4.81,
-      "words": [
-        {
-          "word": "deuda",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "aumenta",
-          "score": 1
-        },
-        {
-          "word": "deuda",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El fiscal concluye que Kitchen tenía “una finalidad bastarda”: “boicotear” el ca",
-      "score": 4.8,
-      "words": [
-        {
-          "word": "boicotear",
-          "score": -2
-        },
-        {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "boicotear",
-          "score": -2
-        },
-        {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-09T18:00:19Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-06-09T20:54:15Z",
       "score": 4.7
@@ -1115,6 +1091,10 @@
     {
       "timestamp": "2026-06-30T17:04:29Z",
       "score": 4.74
+    },
+    {
+      "timestamp": "2026-06-30T19:50:50Z",
+      "score": 4.61
     }
   ]
 }

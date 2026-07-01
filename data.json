@@ -1,19 +1,19 @@
 {
-  "generated": "2026-07-01T19:50:06Z",
-  "global_score": 4.71,
-  "articles_scored": 82,
-  "words_matched": 229,
+  "generated": "2026-07-01T21:25:24Z",
+  "global_score": 4.69,
+  "articles_scored": 90,
+  "words_matched": 230,
   "top_negative": [
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "maldición",
-      "score": -4
+      "word": "retirada",
+      "score": -3
     },
     {
-      "word": "retirada",
+      "word": "locos",
       "score": -3
     },
     {
@@ -39,16 +39,16 @@
   ],
   "top_positive": [
     {
+      "word": "victorioso",
+      "score": 4
+    },
+    {
       "word": "triunfo",
       "score": 4
     },
     {
       "word": "ganar",
       "score": 4
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     },
     {
       "word": "encanto",
@@ -72,16 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 4.66,
+    "El País": 4.4,
     "elDiario.es": 4.71,
-    "El Mundo": 4.42,
-    "ABC": 5.22,
-    "BBC Mundo": 4.27,
-    "France 24 ES": 4.18,
-    "La Nación AR": 5.03,
+    "El Mundo": 4.29,
+    "ABC": 4.98,
+    "El Confidencial": 5.22,
+    "BBC Mundo": 4.38,
+    "France 24 ES": 3.94,
+    "La Nación AR": 4.31,
     "La Jornada MX": 5.77,
-    "Desinformémonos": 4.47,
-    "Resumen Latinoam.": 4.42
+    "Desinformémonos": 4.28,
+    "Resumen Latinoam.": 5.13
   },
   "articles": [
     {
@@ -170,6 +171,17 @@
         {
           "word": "conflictos",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Bélgica - Senegal : Mundial 2026, en directo | Golazo de Sarr para volver locos ",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "locos",
+          "score": -3
         }
       ]
     },
@@ -361,40 +373,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Lara Hernández dimite de sus cargos en Movimiento Sumar tras archivarse el exped",
-      "score": 3.92,
-      "words": [
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "frustración",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-10T21:58:32Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-06-10T23:39:50Z",
       "score": 4.72
@@ -1062,6 +1043,10 @@
     {
       "timestamp": "2026-07-01T19:50:06Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-07-01T21:25:24Z",
+      "score": 4.69
     }
   ]
 }

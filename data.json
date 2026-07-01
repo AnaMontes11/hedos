@@ -1,27 +1,15 @@
 {
-  "generated": "2026-07-01T14:49:50Z",
-  "global_score": 4.83,
-  "articles_scored": 94,
-  "words_matched": 216,
+  "generated": "2026-07-01T17:11:49Z",
+  "global_score": 4.9,
+  "articles_scored": 90,
+  "words_matched": 206,
   "top_negative": [
-    {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "violación",
-      "score": -4
-    },
     {
       "word": "maldición",
       "score": -4
     },
     {
       "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "traicionar",
       "score": -3
     },
     {
@@ -33,29 +21,33 @@
       "score": -3
     },
     {
+      "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "desesperado",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
+    },
+    {
       "word": "mal",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
+      "word": "excelencia",
+      "score": 3
     },
     {
-      "word": "brillar",
+      "word": "prestigio",
       "score": 3
     },
     {
       "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "leal",
-      "score": 3
-    },
-    {
-      "word": "mejor",
       "score": 3
     },
     {
@@ -69,22 +61,41 @@
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.23,
-    "elDiario.es": 4.77,
-    "El Mundo": 4.64,
-    "ABC": 4.69,
-    "El Confidencial": 4.79,
-    "BBC Mundo": 4.29,
-    "France 24 ES": 5.16,
-    "La Nación AR": 4.73,
+    "El País": 4.6,
+    "elDiario.es": 4.56,
+    "El Mundo": 4.47,
+    "ABC": 5.54,
+    "El Confidencial": 5.18,
+    "BBC Mundo": 4.11,
+    "France 24 ES": 4.88,
+    "La Nación AR": 5.08,
     "La Jornada MX": 5.77,
-    "Desinformémonos": 5.12,
-    "Resumen Latinoam.": 5.04
+    "Desinformémonos": 4.75,
+    "Resumen Latinoam.": 5.14
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Ayuso se desmarca del giro de Feijóo con Junts: “Lo sensato es alejarse de la am",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Aznar reclama a Feijóo una “mayoría nacional” desde la izquierda a la derecha pa",
@@ -93,21 +104,6 @@
         {
           "word": "evitar",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Agencia Tributaria relevará a la directora general y otros dos altos cargos t",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
         }
       ]
     },
@@ -143,6 +139,17 @@
     },
     {
       "source": "El País",
+      "title": "Muere Manuel Arjona, miembro fundamental del primer Locomía, a los 58 años",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "libertad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "“Yo no la dejaría ir”",
       "score": 2.6,
       "words": [
@@ -154,35 +161,35 @@
     },
     {
       "source": "El País",
-      "title": "Cisma en la Iglesia: los ‘lefebvrianos’ ordenan cuatro obispos sin permiso del P",
-      "score": 4.8,
+      "title": "La pareja de Isak Andic declaró que el fundador de Mango quería dictar un nuevo ",
+      "score": 4.6,
       "words": [
         {
-          "word": "reivindica",
-          "score": 2
+          "word": "resolver",
+          "score": 1
         },
         {
-          "word": "acusa",
+          "word": "conflictos",
           "score": -2
-        },
-        {
-          "word": "traicionar",
-          "score": -3
-        },
-        {
-          "word": "valor",
-          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Jude Bellingham, de comportamiento “repugnante” a fijo de Thomas Tuchel",
-      "score": 4.2,
+      "title": "Inglaterra - RD Congo, en directo | Los africanos se van con ventaja al descanso",
+      "score": 6.6,
       "words": [
         {
-          "word": "tensión",
-          "score": -1
+          "word": "ventaja",
+          "score": 2
+        },
+        {
+          "word": "favoritos",
+          "score": 2
+        },
+        {
+          "word": "gracias",
+          "score": 2
         }
       ]
     },
@@ -270,7 +277,7 @@
     {
       "source": "elDiario.es",
       "title": "Ayuso, tras conocer que la jueza mantiene la causa contra el alcalde de Móstoles",
-      "score": 4.3,
+      "score": 4.05,
       "words": [
         {
           "word": "acoso",
@@ -323,91 +330,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP dice ahora que \"siempre\" defendió la nacionalidad para descendientes de ex",
-      "score": 4.51,
+      "title": "Un juzgado ordena a la Policía detener al agitador ultra Vito Quiles",
+      "score": 4.64,
       "words": [
         {
-          "word": "duda",
+          "word": "detener",
           "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "detener",
+          "score": -1
         },
         {
-          "word": "asegurado",
+          "word": "justicia",
           "score": 2
         },
         {
-          "word": "abandonar",
+          "word": "perseguir",
           "score": -2
         },
         {
-          "word": "acusa",
+          "word": "denuncia",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Albares, sobre el voto exterior: \"PP y Vox no quieren que 3,5 millones de españo",
-      "score": 5.42,
+      "title": "La Fiscalía se suma al recurso de Begoña Gómez y recurre el archivo de su denunc",
+      "score": 4.07,
       "words": [
         {
-          "word": "solo",
+          "word": "denuncia",
           "score": -2
         },
         {
-          "word": "asuntos",
-          "score": 1
+          "word": "denuncia",
+          "score": -2
         },
         {
-          "word": "claramente",
-          "score": 1
+          "word": "denuncia",
+          "score": -2
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "agresión",
+          "score": -2
         },
         {
-          "word": "claramente",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso va más allá en sus insinuaciones de pucherazo por el voto exterior y las r",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "evita",
-          "score": -1
+          "word": "denuncia",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-10T16:33:32Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-06-10T19:32:26Z",
       "score": 4.57
@@ -1075,6 +1051,10 @@
     {
       "timestamp": "2026-07-01T14:49:50Z",
       "score": 4.83
+    },
+    {
+      "timestamp": "2026-07-01T17:11:49Z",
+      "score": 4.9
     }
   ]
 }

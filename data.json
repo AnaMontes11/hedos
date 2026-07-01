@@ -1,9 +1,13 @@
 {
-  "generated": "2026-07-01T17:11:49Z",
-  "global_score": 4.9,
-  "articles_scored": 90,
-  "words_matched": 206,
+  "generated": "2026-07-01T19:50:06Z",
+  "global_score": 4.71,
+  "articles_scored": 82,
+  "words_matched": 229,
   "top_negative": [
+    {
+      "word": "fraude",
+      "score": -4
+    },
     {
       "word": "maldición",
       "score": -4
@@ -13,7 +17,7 @@
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "mal",
       "score": -3
     },
     {
@@ -21,7 +25,7 @@
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "delitos",
       "score": -3
     },
     {
@@ -31,35 +35,23 @@
     {
       "word": "peor",
       "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "excelencia",
-      "score": 3
+      "word": "triunfo",
+      "score": 4
     },
     {
-      "word": "prestigio",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "celebrado",
       "score": 3
     },
     {
-      "word": "mayor",
-      "score": 3
-    },
-    {
-      "word": "riguroso",
-      "score": 3
-    },
-    {
-      "word": "popular",
+      "word": "encanto",
       "score": 3
     },
     {
@@ -69,20 +61,27 @@
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "riguroso",
+      "score": 3
+    },
+    {
+      "word": "leal",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.6,
-    "elDiario.es": 4.56,
-    "El Mundo": 4.47,
-    "ABC": 5.54,
-    "El Confidencial": 5.18,
-    "BBC Mundo": 4.11,
-    "France 24 ES": 4.88,
-    "La Nación AR": 5.08,
+    "El País": 4.66,
+    "elDiario.es": 4.71,
+    "El Mundo": 4.42,
+    "ABC": 5.22,
+    "BBC Mundo": 4.27,
+    "France 24 ES": 4.18,
+    "La Nación AR": 5.03,
     "La Jornada MX": 5.77,
-    "Desinformémonos": 4.75,
-    "Resumen Latinoam.": 5.14
+    "Desinformémonos": 4.47,
+    "Resumen Latinoam.": 4.42
   },
   "articles": [
     {
@@ -98,12 +97,12 @@
     },
     {
       "source": "El País",
-      "title": "Aznar reclama a Feijóo una “mayoría nacional” desde la izquierda a la derecha pa",
-      "score": 4.2,
+      "title": "El PP modula su mensaje sobre la ‘ley de nietos’: apoya nacionalizar a todos los",
+      "score": 6.6,
       "words": [
         {
-          "word": "evitar",
-          "score": -1
+          "word": "asegura",
+          "score": 2
         }
       ]
     },
@@ -175,155 +174,82 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Inglaterra - RD Congo, en directo | Los africanos se van con ventaja al descanso",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "ventaja",
-          "score": 2
-        },
-        {
-          "word": "favoritos",
-          "score": 2
-        },
-        {
-          "word": "gracias",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Lara Hernández dimite de sus cargos en Movimiento Sumar tras archivarse el exped",
-      "score": 3.92,
+      "title": "Ayuso va más allá en sus insinuaciones de pucherazo por el voto exterior y las r",
+      "score": 5.25,
       "words": [
         {
-          "word": "cargos",
-          "score": -2
+          "word": "dudas",
+          "score": -1
         },
         {
-          "word": "acoso",
-          "score": -2
+          "word": "fraude",
+          "score": -4
         },
         {
-          "word": "cargos",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "frustración",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Peinado pregunta a las partes si debe permitir a Begoña Gómez viajar a T",
-      "score": 4.79,
-      "words": [
-        {
-          "word": "permitir",
-          "score": 1
+          "word": "dudas",
+          "score": -1
         },
         {
           "word": "permitir",
           "score": 1
         },
         {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "fuga",
+          "word": "evita",
           "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Begoña Gómez pide al juez Peinado permiso para asistir a la cumbre de la OTAN en",
-      "score": 4.76,
+      "title": "Tres jueces conservadores del Supremo abren la vía europea sin amenazar la mayor",
+      "score": 4.75,
       "words": [
         {
-          "word": "realizar",
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "rechazado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP dice ahora que \"siempre\" defendió la nacionalidad para descendientes de ex",
+      "score": 4.51,
+      "words": [
+        {
+          "word": "duda",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "asegurado",
           "score": 2
         },
         {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "riesgo",
+          "word": "abandonar",
           "score": -2
         },
         {
-          "word": "fuga",
-          "score": -1
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso, tras conocer que la jueza mantiene la causa contra el alcalde de Móstoles",
-      "score": 4.05,
-      "words": [
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "acusado",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La jueza que investiga por acoso al alcalde de Móstoles rechaza su intento de ce",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "acusaciones",
+          "word": "acusa",
           "score": -2
         }
       ]
@@ -357,37 +283,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Fiscalía se suma al recurso de Begoña Gómez y recurre el archivo de su denunc",
-      "score": 4.07,
+      "title": "El juez Peinado pregunta a las partes si debe permitir a Begoña Gómez viajar a T",
+      "score": 4.79,
       "words": [
         {
-          "word": "denuncia",
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "permitir",
+          "score": 1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "denuncia",
+          "word": "fuga",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Aznar reclama una \"mayoría nacional\" para echar a Sánchez y evitar \"un cambio de",
+      "score": 5.95,
+      "words": [
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "capaz",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Page, sobre el PSOE: \"Me cuesta creer que con todo lo que está pasando nada sea ",
+      "score": 4.67,
+      "words": [
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "mancha",
+          "score": 2
+        },
+        {
+          "word": "criticado",
           "score": -2
         },
         {
-          "word": "denuncia",
+          "word": "intereses",
+          "score": 1
+        },
+        {
+          "word": "enorme",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Lara Hernández dimite de sus cargos en Movimiento Sumar tras archivarse el exped",
+      "score": 3.92,
+      "words": [
+        {
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "agresión",
+          "word": "acoso",
           "score": -2
         },
         {
-          "word": "denuncia",
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "frustración",
           "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-10T19:32:26Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-06-10T21:58:32Z",
       "score": 4.62
@@ -1055,6 +1058,10 @@
     {
       "timestamp": "2026-07-01T17:11:49Z",
       "score": 4.9
+    },
+    {
+      "timestamp": "2026-07-01T19:50:06Z",
+      "score": 4.71
     }
   ]
 }

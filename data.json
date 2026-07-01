@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-01T21:25:24Z",
-  "global_score": 4.69,
-  "articles_scored": 90,
-  "words_matched": 230,
+  "generated": "2026-07-01T23:11:52Z",
+  "global_score": 4.65,
+  "articles_scored": 95,
+  "words_matched": 239,
   "top_negative": [
     {
       "word": "fraude",
@@ -10,10 +10,6 @@
     },
     {
       "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "locos",
       "score": -3
     },
     {
@@ -35,20 +31,28 @@
     {
       "word": "peor",
       "score": -3
+    },
+    {
+      "word": "malo",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "victorioso",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "medalla",
+      "score": 3
+    },
+    {
+      "word": "vitalidad",
+      "score": 3
     },
     {
       "word": "encanto",
@@ -65,24 +69,20 @@
     {
       "word": "riguroso",
       "score": 3
-    },
-    {
-      "word": "leal",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.4,
+    "El País": 4.73,
     "elDiario.es": 4.71,
     "El Mundo": 4.29,
     "ABC": 4.98,
     "El Confidencial": 5.22,
-    "BBC Mundo": 4.38,
-    "France 24 ES": 3.94,
-    "La Nación AR": 4.31,
+    "BBC Mundo": 4.33,
+    "France 24 ES": 4.4,
+    "La Nación AR": 4.19,
     "La Jornada MX": 5.77,
-    "Desinformémonos": 4.28,
-    "Resumen Latinoam.": 5.13
+    "Desinformémonos": 3.96,
+    "Resumen Latinoam.": 4.48
   },
   "articles": [
     {
@@ -176,12 +176,24 @@
     },
     {
       "source": "El País",
-      "title": "Bélgica - Senegal : Mundial 2026, en directo | Golazo de Sarr para volver locos ",
-      "score": 2.6,
+      "title": "Bélgica - Senegal : Mundial 2026, en directo | Tielemans desata el milagro belga",
+      "score": 5.2,
       "words": [
         {
-          "word": "locos",
-          "score": -3
+          "word": "milagro",
+          "score": 4
+        },
+        {
+          "word": "claro",
+          "score": 1
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "perdido",
+          "score": -2
         }
       ]
     },
@@ -376,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-10T23:39:50Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-06-11T03:40:00Z",
       "score": 4.65
@@ -1047,6 +1055,10 @@
     {
       "timestamp": "2026-07-01T21:25:24Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-07-01T23:11:52Z",
+      "score": 4.65
     }
   ]
 }

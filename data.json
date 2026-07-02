@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-02T17:43:30Z",
-  "global_score": 4.88,
-  "articles_scored": 85,
-  "words_matched": 203,
+  "generated": "2026-07-02T19:19:41Z",
+  "global_score": 4.79,
+  "articles_scored": 88,
+  "words_matched": 225,
   "top_negative": [
     {
       "word": "negro",
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
-      "word": "pierde",
+      "word": "racistas",
       "score": -3
     },
     {
-      "word": "víctima",
+      "word": "violencia",
       "score": -3
     },
     {
-      "word": "estafa",
+      "word": "ilegal",
       "score": -3
     }
   ],
@@ -51,11 +51,7 @@
       "score": 4
     },
     {
-      "word": "fascinante",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "brillar",
       "score": 3
     },
     {
@@ -63,23 +59,27 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "fascinante",
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.92,
-    "elDiario.es": 5.39,
-    "El Mundo": 5.15,
-    "ABC": 5.24,
-    "El Confidencial": 4.55,
-    "BBC Mundo": 4.71,
-    "France 24 ES": 5.46,
-    "La Nación AR": 5.2,
+    "El País": 4.93,
+    "elDiario.es": 5.3,
+    "El Mundo": 5.05,
+    "ABC": 5.65,
+    "El Confidencial": 4.4,
+    "BBC Mundo": 4.66,
+    "France 24 ES": 4.73,
+    "La Nación AR": 4.82,
     "La Jornada MX": 4.58,
     "Desinformémonos": 3.96,
     "Resumen Latinoam.": 4.08
@@ -113,46 +113,19 @@
     },
     {
       "source": "El País",
-      "title": "La Comunidad de Madrid aprueba, ahora sí, su ley del concebido no nacido",
-      "score": 5.2,
+      "title": "“Al amigo Feu, de Sorolla”: el cuadro perdido en Sevilla vuelve a casa entre inc",
+      "score": 3.4,
       "words": [
         {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "puesto",
+          "word": "perdido",
           "score": -2
         },
         {
-          "word": "defecto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La justicia busca a Vito Quiles por un bulo contra un empleado público: dijo que",
-      "score": 4.0,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "encarcelado",
+          "word": "abandonado",
           "score": -2
         },
         {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "grave",
+          "word": "error",
           "score": -2
         }
       ]
@@ -182,19 +155,23 @@
     },
     {
       "source": "El País",
-      "title": "“Al amigo Feu, de Sorolla”: el cuadro perdido en Sevilla vuelve a casa entre inc",
-      "score": 3.4,
+      "title": "La justicia busca a Vito Quiles por un bulo contra un empleado público: dijo que",
+      "score": 4.0,
       "words": [
         {
-          "word": "perdido",
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "encarcelado",
           "score": -2
         },
         {
-          "word": "abandonado",
-          "score": -2
+          "word": "delito",
+          "score": -3
         },
         {
-          "word": "error",
+          "word": "grave",
           "score": -2
         }
       ]
@@ -242,9 +219,28 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Ni jugar ni ganar: el drama de Países Bajos y Alemania",
+      "score": 5.27,
+      "words": [
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "impuesto",
+          "score": -1
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Moreno, investido presidente de Andalucía tras un pacto con Vox que asume la vic",
-      "score": 5.16,
+      "score": 5.38,
       "words": [
         {
           "word": "acuerdo",
@@ -255,7 +251,7 @@
           "score": 2
         },
         {
-          "word": "gracias",
+          "word": "aprobado",
           "score": 2
         },
         {
@@ -263,62 +259,8 @@
           "score": 1
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Montero, sobre el pacto PP-Vox: \"Por primera vez entra la ultraderecha tras la d",
-      "score": 4.79,
-      "words": [
-        {
-          "word": "vergonzoso",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "oscuridad",
-          "score": -1
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "vergonzoso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El pacto PP-Vox en Andalucía que consagra la 'prioridad nacional' a la que Moren",
-      "score": 6.12,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
+          "word": "popular",
+          "score": 3
         }
       ]
     },
@@ -346,6 +288,60 @@
         {
           "word": "popular",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El pacto PP-Vox en Andalucía asume las tesis de la extrema derecha: \"rechazo fro",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "súper",
+          "score": 3
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Montero, sobre el pacto PP-Vox: \"Por primera vez entra la ultraderecha tras la d",
+      "score": 4.79,
+      "words": [
+        {
+          "word": "vergonzoso",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "oscuridad",
+          "score": -1
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "vergonzoso",
+          "score": -2
         }
       ]
     },
@@ -432,10 +428,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-11T23:45:56Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-06-12T03:39:22Z",
       "score": 4.86
@@ -1103,6 +1095,10 @@
     {
       "timestamp": "2026-07-02T17:43:30Z",
       "score": 4.88
+    },
+    {
+      "timestamp": "2026-07-02T19:19:41Z",
+      "score": 4.79
     }
   ]
 }

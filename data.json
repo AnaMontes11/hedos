@@ -1,39 +1,39 @@
 {
-  "generated": "2026-07-02T02:57:10Z",
-  "global_score": 4.91,
-  "articles_scored": 83,
-  "words_matched": 223,
+  "generated": "2026-07-02T06:42:30Z",
+  "global_score": 4.89,
+  "articles_scored": 84,
+  "words_matched": 279,
   "top_negative": [
     {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "retirada",
+      "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "mierda",
+      "score": -4
+    },
+    {
+      "word": "puta",
+      "score": -4
+    },
+    {
+      "word": "infierno",
+      "score": -4
+    },
+    {
+      "word": "pierde",
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "destruir",
       "score": -3
     },
     {
-      "word": "violencia",
-      "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "desesperado",
-      "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "malo",
+      "word": "suelto",
       "score": -3
     }
   ],
@@ -51,35 +51,35 @@
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "euforia",
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "contento",
       "score": 3
     },
     {
-      "word": "leal",
+      "word": "encantado",
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "caro",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.9,
-    "elDiario.es": 4.71,
+    "El País": 5.19,
+    "elDiario.es": 4.88,
     "El Mundo": 4.85,
     "ABC": 5.08,
-    "El Confidencial": 5.22,
+    "El Confidencial": 4.94,
     "BBC Mundo": 4.43,
-    "France 24 ES": 5.42,
-    "La Nación AR": 4.6,
+    "France 24 ES": 5.31,
+    "La Nación AR": 4.36,
     "La Jornada MX": 5.77,
     "Desinformémonos": 3.96,
     "Resumen Latinoam.": 4.68
@@ -87,20 +87,59 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Ayuso se desmarca del giro de Feijóo con Junts: “Lo sensato es alejarse de la am",
-      "score": 3.4,
+      "title": "¿Cómo puede el PP defender una cosa, la contraria y dar un tercer giro sobre ‘la",
+      "score": 5.2,
       "words": [
         {
-          "word": "amenaza",
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "denunciar",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El PP modula su mensaje sobre la ‘ley de nietos’: apoya nacionalizar a todos los",
-      "score": 6.6,
+      "title": "Veinte años del accidente del Metro de Valencia, un caso lleno de lagunas",
+      "score": 3.4,
       "words": [
+        {
+          "word": "accidente",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Rufus Wainwright, cantante: “No conozco bien la música de Bad Bunny, pero me mue",
+      "score": 6.76,
+      "words": [
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "compromiso",
+          "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
         {
           "word": "asegura",
           "score": 2
@@ -109,50 +148,244 @@
     },
     {
       "source": "El País",
-      "title": "El Supremo investigará a Alvise por incitar al colapso de las comunicaciones dur",
-      "score": 3.4,
+      "title": "La justicia obliga a Atresmedia a indemnizar a la socorrista del vídeo viral ‘La",
+      "score": 5.6,
       "words": [
         {
-          "word": "colapso",
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "honor",
+          "score": 2
+        },
+        {
+          "word": "condena",
           "score": -2
         },
         {
-          "word": "protestas",
-          "score": -2
+          "word": "intereses",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El cuadro de Sorolla olvidado en una calle de Sevilla lo cogió un vecino de Murc",
-      "score": 5.4,
+      "title": "Laporte descansa en la tranquilidad de ‘El Niño’ Cubarsí: una nueva pareja de ce",
+      "score": 4.2,
       "words": [
         {
-          "word": "olvidado",
+          "word": "reto",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un intenso Estados Unidos vence a Bosnia, pero pierde a su goleador para los oct",
+      "score": 6.0,
+      "words": [
+        {
+          "word": "intenso",
+          "score": 1
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La regularización de migrantes se cierra con casi 1,2 millones de solicitudes, l",
+      "score": 5.67,
+      "words": [
+        {
+          "word": "rico",
+          "score": 2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "impulsado",
+          "score": 1
+        },
+        {
+          "word": "demandas",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "PP y Vox callaron en las Cortes durante los 15 meses de tramitación de la ley de",
+      "score": 4.63,
+      "words": [
+        {
+          "word": "crítica",
+          "score": -2
+        },
+        {
+          "word": "conceder",
+          "score": 1
+        },
+        {
+          "word": "denunciar",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "🎙 PODCAST | Los hijos y los nietos del censo electoral: una batalla política con",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "batalla",
           "score": -1
         },
         {
-          "word": "gustó",
-          "score": 2
+          "word": "batalla",
+          "score": -1
+        },
+        {
+          "word": "hambre",
+          "score": -2
+        },
+        {
+          "word": "miedo",
+          "score": -2
+        },
+        {
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Muere Manuel Arjona, miembro fundamental del primer Locomía, a los 58 años",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "Que los jueces del Supremo se presenten a las elecciones",
+      "score": 5.45,
       "words": [
         {
-          "word": "libertad",
+          "word": "audaz",
+          "score": 2
+        },
+        {
+          "word": "limitado",
+          "score": -1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "resignado",
+          "score": -1
+        },
+        {
+          "word": "ganar",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vox se abre paso en el futuro Gobierno de Moreno con una negociación al límite: ",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "tumba",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "firme",
           "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "“Yo no la dejaría ir”",
-      "score": 2.6,
+      "source": "elDiario.es",
+      "title": "Cuando el discurso no aguanta el espejo",
+      "score": 4.71,
       "words": [
+        {
+          "word": "indultos",
+          "score": 2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "falla",
+          "score": -2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "enemigos",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Antonio Balas, en la rampa de ascenso a coronel de la Guardia Civil y su consigu",
+      "score": 4.11,
+      "words": [
+        {
+          "word": "dejar",
+          "score": -1
+        },
+        {
+          "word": "criminal",
+          "score": -3
+        },
+        {
+          "word": "presionados",
+          "score": -2
+        },
+        {
+          "word": "aparejado",
+          "score": -1
+        },
         {
           "word": "retirada",
           "score": -3
@@ -160,154 +393,20 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "La pareja de Isak Andic declaró que el fundador de Mango quería dictar un nuevo ",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "resolver",
-          "score": 1
-        },
-        {
-          "word": "conflictos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Bélgica sale del sarcófago con el billete de octavos tras remontar un 0-2 a una ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "superior",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Ayuso va más allá en sus insinuaciones de pucherazo por el voto exterior y las r",
-      "score": 5.25,
+      "title": "Las energéticas españolas venden activos renovables con potencia equivalente a d",
+      "score": 5.08,
       "words": [
         {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "dudas",
-          "score": -1
-        },
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "evita",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Tres jueces conservadores del Supremo abren la vía europea sin amenazar la mayor",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "amenazar",
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "amenazar",
+          "word": "deuda",
           "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "rechazado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP dice ahora que \"siempre\" defendió la nacionalidad para descendientes de ex",
-      "score": 4.51,
-      "words": [
-        {
-          "word": "duda",
-          "score": -1
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "abandonar",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un juzgado ordena a la Policía detener al agitador ultra Vito Quiles",
-      "score": 4.64,
-      "words": [
-        {
-          "word": "detener",
-          "score": -1
-        },
-        {
-          "word": "detener",
-          "score": -1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "perseguir",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Peinado pregunta a las partes si debe permitir a Begoña Gómez viajar a T",
-      "score": 4.79,
-      "words": [
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "pasado",
+          "word": "presión",
           "score": -1
         },
         {
@@ -315,71 +414,40 @@
           "score": -2
         },
         {
-          "word": "fuga",
-          "score": -1
+          "word": "deuda",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Aznar reclama una \"mayoría nacional\" para echar a Sánchez y evitar \"un cambio de",
-      "score": 5.95,
+      "title": "La Policía investiga un centro de desintoxicación en Catalunya cuyos pacientes d",
+      "score": 4.69,
       "words": [
         {
-          "word": "evitar",
+          "word": "manipulación",
           "score": -1
         },
         {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "capacidad",
-          "score": 2
-        },
-        {
-          "word": "capaz",
-          "score": 1
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Page, sobre el PSOE: \"Me cuesta creer que con todo lo que está pasando nada sea ",
-      "score": 4.67,
-      "words": [
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "mancha",
-          "score": 2
-        },
-        {
-          "word": "criticado",
+          "word": "tiempo",
           "score": -2
         },
         {
-          "word": "intereses",
+          "word": "proteger",
           "score": 1
         },
         {
-          "word": "enorme",
-          "score": 1
+          "word": "mierda",
+          "score": -4
+        },
+        {
+          "word": "insultos",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-11T08:43:54Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-06-11T12:43:04Z",
       "score": 4.77
@@ -1047,6 +1115,10 @@
     {
       "timestamp": "2026-07-02T02:57:10Z",
       "score": 4.91
+    },
+    {
+      "timestamp": "2026-07-02T06:42:30Z",
+      "score": 4.89
     }
   ]
 }

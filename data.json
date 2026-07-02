@@ -1,13 +1,9 @@
 {
-  "generated": "2026-07-02T19:19:41Z",
-  "global_score": 4.79,
-  "articles_scored": 88,
-  "words_matched": 225,
+  "generated": "2026-07-02T21:01:54Z",
+  "global_score": 4.9,
+  "articles_scored": 87,
+  "words_matched": 222,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
@@ -29,11 +25,15 @@
       "score": -3
     },
     {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
       "word": "violencia",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "pierde",
       "score": -3
     }
   ],
@@ -51,14 +51,6 @@
       "score": 4
     },
     {
-      "word": "brillar",
-      "score": 3
-    },
-    {
-      "word": "vigilante",
-      "score": 3
-    },
-    {
       "word": "fascinante",
       "score": 3
     },
@@ -67,24 +59,43 @@
       "score": 3
     },
     {
+      "word": "caro",
+      "score": 3
+    },
+    {
       "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "riguroso",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.93,
-    "elDiario.es": 5.3,
-    "El Mundo": 5.05,
-    "ABC": 5.65,
-    "El Confidencial": 4.4,
+    "El País": 5.12,
+    "elDiario.es": 5.29,
+    "El Mundo": 5.63,
+    "ABC": 5.7,
+    "El Confidencial": 4.31,
     "BBC Mundo": 4.66,
-    "France 24 ES": 4.73,
-    "La Nación AR": 4.82,
+    "France 24 ES": 4.57,
+    "La Nación AR": 4.44,
     "La Jornada MX": 4.58,
     "Desinformémonos": 3.96,
-    "Resumen Latinoam.": 4.08
+    "Resumen Latinoam.": 4.92
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "España - Austria: Mundial 2026, en directo | Oyarzabal marca el tercero de la Se",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ventaja",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Moreno cede y pacta un gobierno de coalición con Vox",
@@ -240,7 +251,7 @@
     {
       "source": "elDiario.es",
       "title": "Moreno, investido presidente de Andalucía tras un pacto con Vox que asume la vic",
-      "score": 5.38,
+      "score": 5.31,
       "words": [
         {
           "word": "acuerdo",
@@ -398,40 +409,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Pedraz cita como investigada a la directora general de la Guardia Civil ",
-      "score": 5.38,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-12T03:39:22Z",
-      "score": 4.86
-    },
     {
       "timestamp": "2026-06-12T08:23:10Z",
       "score": 4.93
@@ -1099,6 +1079,10 @@
     {
       "timestamp": "2026-07-02T19:19:41Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-07-02T21:01:54Z",
+      "score": 4.9
     }
   ]
 }

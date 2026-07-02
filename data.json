@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-01T23:11:52Z",
-  "global_score": 4.65,
-  "articles_scored": 95,
-  "words_matched": 239,
+  "generated": "2026-07-02T02:57:10Z",
+  "global_score": 4.91,
+  "articles_scored": 83,
+  "words_matched": 223,
   "top_negative": [
     {
       "word": "fraude",
@@ -43,19 +43,11 @@
       "score": 4
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
       "word": "medalla",
       "score": 3
     },
     {
       "word": "vitalidad",
-      "score": 3
-    },
-    {
-      "word": "encanto",
       "score": 3
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "riguroso",
       "score": 3
+    },
+    {
+      "word": "leal",
+      "score": 3
+    },
+    {
+      "word": "mejor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.73,
+    "El País": 4.9,
     "elDiario.es": 4.71,
-    "El Mundo": 4.29,
-    "ABC": 4.98,
+    "El Mundo": 4.85,
+    "ABC": 5.08,
     "El Confidencial": 5.22,
-    "BBC Mundo": 4.33,
-    "France 24 ES": 4.4,
-    "La Nación AR": 4.19,
+    "BBC Mundo": 4.43,
+    "France 24 ES": 5.42,
+    "La Nación AR": 4.6,
     "La Jornada MX": 5.77,
     "Desinformémonos": 3.96,
-    "Resumen Latinoam.": 4.48
+    "Resumen Latinoam.": 4.68
   },
   "articles": [
     {
@@ -176,24 +176,12 @@
     },
     {
       "source": "El País",
-      "title": "Bélgica - Senegal : Mundial 2026, en directo | Tielemans desata el milagro belga",
-      "score": 5.2,
+      "title": "Bélgica sale del sarcófago con el billete de octavos tras remontar un 0-2 a una ",
+      "score": 6.6,
       "words": [
         {
-          "word": "milagro",
-          "score": 4
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "perdido",
-          "score": -2
+          "word": "superior",
+          "score": 2
         }
       ]
     },
@@ -388,10 +376,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-11T03:40:00Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-06-11T08:43:54Z",
       "score": 4.75
@@ -1059,6 +1043,10 @@
     {
       "timestamp": "2026-07-01T23:11:52Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-07-02T02:57:10Z",
+      "score": 4.91
     }
   ]
 }

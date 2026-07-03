@@ -1,9 +1,13 @@
 {
-  "generated": "2026-07-02T23:02:17Z",
-  "global_score": 5.02,
-  "articles_scored": 87,
-  "words_matched": 226,
+  "generated": "2026-07-03T02:40:48Z",
+  "global_score": 4.83,
+  "articles_scored": 88,
+  "words_matched": 222,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "fraude",
       "score": -4
@@ -17,14 +21,6 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "infierno",
-      "score": -4
-    },
-    {
       "word": "delitos",
       "score": -3
     },
@@ -34,6 +30,10 @@
     },
     {
       "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "violencia",
       "score": -3
     }
   ],
@@ -55,34 +55,34 @@
       "score": 4
     },
     {
+      "word": "vigilante",
+      "score": 3
+    },
+    {
       "word": "fascinante",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "riguroso",
+      "word": "caro",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 6.15,
+    "El País": 6.29,
     "elDiario.es": 5.29,
-    "El Mundo": 5.49,
-    "ABC": 5.41,
+    "El Mundo": 4.35,
+    "ABC": 4.96,
     "El Confidencial": 4.31,
     "BBC Mundo": 4.77,
-    "France 24 ES": 4.96,
-    "La Nación AR": 5.95,
+    "France 24 ES": 5.1,
+    "La Nación AR": 4.82,
     "La Jornada MX": 4.58,
     "Desinformémonos": 3.63,
-    "Resumen Latinoam.": 4.42
+    "Resumen Latinoam.": 4.45
   },
   "articles": [
     {
@@ -117,7 +117,7 @@
     },
     {
       "source": "El País",
-      "title": "La Plaza de Colón, a la caza del sueño de una nueva selección de leyenda",
+      "title": "La Plaza de Colón, a la caza del sueño de una nueva leyenda",
       "score": 5.8,
       "words": [
         {
@@ -128,7 +128,7 @@
     },
     {
       "source": "El País",
-      "title": "España y Lamine reclaman el foco en los Ángeles",
+      "title": "España y Lamine reclaman el foco en Los Ángeles",
       "score": 6.6,
       "words": [
         {
@@ -183,6 +183,17 @@
         {
           "word": "inestable",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Portugal se salva por los pelos ante Croacia en la última velada en un Mundial d",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "genial",
+          "score": 3
         }
       ]
     },
@@ -358,40 +369,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Pedraz cita como investigada a la directora general de la Guardia Civil ",
-      "score": 5.38,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-12T12:16:48Z",
-      "score": 4.87
-    },
     {
       "timestamp": "2026-06-12T16:15:43Z",
       "score": 4.9
@@ -1059,6 +1039,10 @@
     {
       "timestamp": "2026-07-02T23:02:17Z",
       "score": 5.02
+    },
+    {
+      "timestamp": "2026-07-03T02:40:48Z",
+      "score": 4.83
     }
   ]
 }

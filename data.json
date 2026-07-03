@@ -1,9 +1,13 @@
 {
-  "generated": "2026-07-03T15:08:04Z",
-  "global_score": 4.64,
+  "generated": "2026-07-03T17:22:03Z",
+  "global_score": 4.59,
   "articles_scored": 87,
-  "words_matched": 271,
+  "words_matched": 263,
   "top_negative": [
+    {
+      "word": "perras",
+      "score": -5
+    },
     {
       "word": "infierno",
       "score": -4
@@ -13,7 +17,7 @@
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "violación",
       "score": -4
     },
     {
@@ -31,15 +35,15 @@
     {
       "word": "abusos",
       "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -51,11 +55,11 @@
       "score": 3
     },
     {
-      "word": "brillar",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "amor",
       "score": 3
     },
     {
@@ -63,26 +67,22 @@
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.97,
-    "elDiario.es": 4.92,
-    "El Mundo": 4.75,
-    "ABC": 5.74,
-    "El Confidencial": 5.31,
-    "BBC Mundo": 4.04,
-    "France 24 ES": 4.08,
-    "La Nación AR": 4.97,
+    "El País": 5.33,
+    "elDiario.es": 4.71,
+    "El Mundo": 4.27,
+    "ABC": 5.1,
+    "El Confidencial": 4.88,
+    "BBC Mundo": 4.41,
+    "France 24 ES": 4.31,
+    "La Nación AR": 5.36,
     "La Jornada MX": 4.38,
-    "Desinformémonos": 3.53,
-    "Resumen Latinoam.": 4.13
+    "Desinformémonos": 3.93,
+    "Resumen Latinoam.": 4.06
   },
   "articles": [
     {
@@ -184,6 +184,17 @@
     },
     {
       "source": "El País",
+      "title": "El día que Cristiano despidió a Modric del Mundial en otro partido que agitó el ",
+      "score": 8.2,
+      "words": [
+        {
+          "word": "triunfo",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Portugal se salva por los pelos ante la competitiva Croacia en la última velada ",
       "score": 7.4,
       "words": [
@@ -196,7 +207,7 @@
     {
       "source": "elDiario.es",
       "title": "La Abogacía del Estado se opone a que el Supremo eleve a la Justicia europea la ",
-      "score": 5.36,
+      "score": 5.21,
       "words": [
         {
           "word": "justicia",
@@ -207,16 +218,16 @@
           "score": 2
         },
         {
+          "word": "chocar",
+          "score": -1
+        },
+        {
           "word": "amenazar",
           "score": -2
         },
         {
           "word": "mayor",
           "score": 3
-        },
-        {
-          "word": "justicia",
-          "score": 2
         }
       ]
     },
@@ -330,64 +341,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Agencia Tributaria comunica al juez Calama que inspecciona las declaraciones ",
-      "score": 5.42,
+      "title": "Un miembro de Movimiento Sumar que acusó a Lara Hernández de acoso la denunció a",
+      "score": 3.99,
       "words": [
         {
-          "word": "joyas",
-          "score": 1
-        },
-        {
-          "word": "valor",
-          "score": 2
-        },
-        {
-          "word": "solidaridad",
-          "score": 2
-        },
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La jueza levanta la orden de detención contra Vito Quiles y le cita a declarar e",
-      "score": 4.93,
-      "words": [
-        {
-          "word": "detención",
+          "word": "acoso",
           "score": -2
         },
         {
-          "word": "detención",
+          "word": "acoso",
           "score": -2
         },
         {
-          "word": "detener",
-          "score": -1
+          "word": "denuncia",
+          "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "acusaciones",
+          "score": -2
         },
         {
-          "word": "adecuado",
-          "score": 1
+          "word": "asegura",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-13T03:27:30Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-06-13T07:43:35Z",
       "score": 4.87
@@ -1055,6 +1035,10 @@
     {
       "timestamp": "2026-07-03T15:08:04Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-07-03T17:22:03Z",
+      "score": 4.59
     }
   ]
 }

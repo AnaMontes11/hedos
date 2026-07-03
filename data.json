@@ -1,9 +1,13 @@
 {
-  "generated": "2026-07-03T12:07:15Z",
-  "global_score": 4.63,
-  "articles_scored": 90,
-  "words_matched": 254,
+  "generated": "2026-07-03T15:08:04Z",
+  "global_score": 4.64,
+  "articles_scored": 87,
+  "words_matched": 271,
   "top_negative": [
+    {
+      "word": "infierno",
+      "score": -4
+    },
     {
       "word": "fraude",
       "score": -4
@@ -13,15 +17,7 @@
       "score": -4
     },
     {
-      "word": "infierno",
-      "score": -4
-    },
-    {
       "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "peor",
       "score": -3
     },
     {
@@ -33,15 +29,15 @@
       "score": -3
     },
     {
-      "word": "fiasco",
+      "word": "abusos",
+      "score": -3
+    },
+    {
+      "word": "peor",
       "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganador",
-      "score": 4
-    },
     {
       "word": "ganar",
       "score": 4
@@ -55,34 +51,38 @@
       "score": 3
     },
     {
+      "word": "brillar",
+      "score": 3
+    },
+    {
       "word": "premio",
       "score": 3
     },
     {
-      "word": "vigilante",
+      "word": "mejor",
       "score": 3
     },
     {
-      "word": "fascinante",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "suerte",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.16,
-    "elDiario.es": 4.97,
-    "El Mundo": 4.76,
-    "ABC": 5.01,
-    "El Confidencial": 4.73,
-    "BBC Mundo": 4.47,
-    "France 24 ES": 4.36,
-    "La Nación AR": 4.95,
+    "El País": 4.97,
+    "elDiario.es": 4.92,
+    "El Mundo": 4.75,
+    "ABC": 5.74,
+    "El Confidencial": 5.31,
+    "BBC Mundo": 4.04,
+    "France 24 ES": 4.08,
+    "La Nación AR": 4.97,
     "La Jornada MX": 4.38,
-    "Desinformémonos": 3.63,
-    "Resumen Latinoam.": 4.06
+    "Desinformémonos": 3.53,
+    "Resumen Latinoam.": 4.13
   },
   "articles": [
     {
@@ -128,20 +128,12 @@
     },
     {
       "source": "El País",
-      "title": "Histéricas: Así discrimina la medicina a las mujeres",
-      "score": 3.13,
+      "title": "Las hermanas de Jonathan Andic defienden su inocencia y aseguran que retomarán l",
+      "score": 3.4,
       "words": [
         {
-          "word": "males",
-          "score": -1
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "peor",
-          "score": -3
+          "word": "abandonar",
+          "score": -2
         }
       ]
     },
@@ -192,21 +184,6 @@
     },
     {
       "source": "El País",
-      "title": "La Selección española que estábamos esperando",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "esperando",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Portugal se salva por los pelos ante la competitiva Croacia en la última velada ",
       "score": 7.4,
       "words": [
@@ -218,54 +195,54 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo acusa al Gobierno de \"alterar el censo\" con la 'ley de nietos': \"Esta ing",
-      "score": 4.29,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "denunciar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "De la Alemania nazi a los países bálticos: la 'ley de nietos' de España no es ni",
-      "score": 4.35,
+      "title": "La Abogacía del Estado se opone a que el Supremo eleve a la Justicia europea la ",
+      "score": 5.36,
       "words": [
         {
           "word": "justicia",
           "score": 2
         },
         {
-          "word": "culo",
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Europa quiere ser un infierno para los inmigrantes pero Sánchez no va a ceder",
+      "score": 4.67,
+      "words": [
+        {
+          "word": "infierno",
           "score": -4
         },
         {
-          "word": "excluidos",
+          "word": "infierno",
+          "score": -4
+        },
+        {
+          "word": "críticos",
           "score": -2
         },
         {
-          "word": "perseguidos",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "perseguidos",
+          "word": "tiempo",
           "score": -2
         }
       ]
@@ -299,91 +276,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Moreno admite \"no estar contento\" tras el pacto con Vox por no gobernar en solit",
-      "score": 5.58,
+      "title": "Feijóo acusa al Gobierno de \"alterar el censo\" con la 'ley de nietos': \"Esta ing",
+      "score": 4.29,
       "words": [
         {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "contento",
-          "score": 3
-        },
-        {
-          "word": "solitario",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "contento",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP de Feijóo da un paso más en su entendimiento con la ultraderecha con la cl",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "renuncia",
-          "score": -1
-        },
-        {
-          "word": "promesa",
-          "score": 1
-        },
-        {
-          "word": "solitario",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El pacto PP-Vox en Andalucía asume las tesis de la extrema derecha: \"rechazo fro",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "súper",
-          "score": 3
-        },
-        {
-          "word": "justicia",
+          "word": "asegura",
           "score": 2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denunciar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "En ocasiones, ve socialistas",
+      "score": 5.1,
+      "words": [
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "amenazante",
+          "score": -2
+        },
+        {
+          "word": "asustado",
+          "score": -2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        },
+        {
+          "word": "sol",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Agencia Tributaria comunica al juez Calama que inspecciona las declaraciones ",
+      "score": 5.42,
+      "words": [
+        {
+          "word": "joyas",
+          "score": 1
+        },
+        {
+          "word": "valor",
+          "score": 2
+        },
+        {
+          "word": "solidaridad",
+          "score": 2
+        },
+        {
+          "word": "suspender",
+          "score": -1
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La jueza levanta la orden de detención contra Vito Quiles y le cita a declarar e",
+      "score": 4.93,
+      "words": [
+        {
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "detener",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "adecuado",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-12T23:14:58Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-06-13T03:27:30Z",
       "score": 4.74
@@ -1051,6 +1051,10 @@
     {
       "timestamp": "2026-07-03T12:07:15Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-07-03T15:08:04Z",
+      "score": 4.64
     }
   ]
 }

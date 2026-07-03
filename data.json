@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-03T21:01:29Z",
-  "global_score": 4.58,
-  "articles_scored": 90,
-  "words_matched": 248,
+  "generated": "2026-07-03T22:59:21Z",
+  "global_score": 4.65,
+  "articles_scored": 92,
+  "words_matched": 243,
   "top_negative": [
     {
       "word": "negro",
@@ -59,11 +59,11 @@
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "mejor",
       "score": 3
     },
     {
-      "word": "fiel",
+      "word": "premio",
       "score": 3
     },
     {
@@ -74,15 +74,15 @@
   "per_source": {
     "El País": 5.07,
     "elDiario.es": 4.69,
-    "El Mundo": 4.33,
+    "El Mundo": 4.14,
     "ABC": 4.59,
     "El Confidencial": 4.85,
-    "BBC Mundo": 4.38,
+    "BBC Mundo": 4.25,
     "France 24 ES": 4.39,
-    "La Nación AR": 5.11,
+    "La Nación AR": 5.73,
     "La Jornada MX": 4.38,
     "Desinformémonos": 3.93,
-    "Resumen Latinoam.": 4.67
+    "Resumen Latinoam.": 5.03
   },
   "articles": [
     {
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-13T12:23:29Z",
-      "score": 5.03
-    },
     {
       "timestamp": "2026-06-13T14:58:22Z",
       "score": 4.83
@@ -1055,6 +1051,10 @@
     {
       "timestamp": "2026-07-03T21:01:29Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-07-03T22:59:21Z",
+      "score": 4.65
     }
   ]
 }

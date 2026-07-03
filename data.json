@@ -1,9 +1,13 @@
 {
-  "generated": "2026-07-03T19:15:50Z",
-  "global_score": 4.67,
+  "generated": "2026-07-03T21:01:29Z",
+  "global_score": 4.58,
   "articles_scored": 90,
-  "words_matched": 250,
+  "words_matched": 248,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "infierno",
       "score": -4
@@ -13,7 +17,7 @@
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "culo",
       "score": -4
     },
     {
@@ -31,13 +35,13 @@
     {
       "word": "abusos",
       "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "ganador",
+      "score": 4
+    },
     {
       "word": "ganar",
       "score": 4
@@ -59,11 +63,7 @@
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
+      "word": "fiel",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 5.24,
-    "elDiario.es": 4.71,
+    "El País": 5.07,
+    "elDiario.es": 4.69,
     "El Mundo": 4.33,
-    "ABC": 5.15,
-    "El Confidencial": 4.83,
-    "BBC Mundo": 4.58,
-    "France 24 ES": 5.1,
-    "La Nación AR": 4.76,
+    "ABC": 4.59,
+    "El Confidencial": 4.85,
+    "BBC Mundo": 4.38,
+    "France 24 ES": 4.39,
+    "La Nación AR": 5.11,
     "La Jornada MX": 4.38,
     "Desinformémonos": 3.93,
-    "Resumen Latinoam.": 4.06
+    "Resumen Latinoam.": 4.67
   },
   "articles": [
     {
@@ -145,17 +145,6 @@
         {
           "word": "prisión",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Australia - Egipto, en directo | Ashour adelanta al conjunto africano (0-1)",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "favoritos",
-          "score": 2
         }
       ]
     },
@@ -365,13 +354,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Lara Hernández dimite de sus cargos en Movimiento Sumar tras archivarse el exped",
+      "score": 3.92,
+      "words": [
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "cargos",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "frustración",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-13T10:25:57Z",
-      "score": 4.93
-    },
     {
       "timestamp": "2026-06-13T12:23:29Z",
       "score": 5.03
@@ -1039,6 +1051,10 @@
     {
       "timestamp": "2026-07-03T19:15:50Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-07-03T21:01:29Z",
+      "score": 4.58
     }
   ]
 }

@@ -1,13 +1,9 @@
 {
-  "generated": "2026-07-03T06:28:58Z",
-  "global_score": 4.82,
+  "generated": "2026-07-03T09:54:54Z",
+  "global_score": 4.64,
   "articles_scored": 88,
-  "words_matched": 272,
+  "words_matched": 266,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "fraude",
       "score": -4
@@ -21,10 +17,6 @@
       "score": -4
     },
     {
-      "word": "molesto",
-      "score": -4
-    },
-    {
       "word": "mal",
       "score": -3
     },
@@ -35,11 +27,19 @@
     {
       "word": "fiasco",
       "score": -3
+    },
+    {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "racista",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
+      "word": "milagro",
       "score": 4
     },
     {
@@ -47,15 +47,15 @@
       "score": 4
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
       "word": "brillante",
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "bonito",
+      "score": 3
+    },
+    {
+      "word": "agradable",
       "score": 3
     },
     {
@@ -72,68 +72,27 @@
     }
   ],
   "per_source": {
-    "El País": 5.83,
+    "El País": 5.16,
     "elDiario.es": 4.85,
-    "El Mundo": 4.35,
-    "ABC": 5.4,
-    "El Confidencial": 4.6,
-    "BBC Mundo": 4.57,
-    "France 24 ES": 4.86,
-    "La Nación AR": 5.48,
-    "La Jornada MX": 4.58,
+    "El Mundo": 4.57,
+    "ABC": 5.21,
+    "El Confidencial": 4.7,
+    "BBC Mundo": 4.26,
+    "France 24 ES": 4.36,
+    "La Nación AR": 5.93,
+    "La Jornada MX": 4.38,
     "Desinformémonos": 3.63,
-    "Resumen Latinoam.": 4.53
+    "Resumen Latinoam.": 3.99
   },
   "articles": [
     {
       "source": "El País",
-      "title": "España recupera la magia ante Austria",
-      "score": 5.8,
+      "title": "Juan Manuel Moreno, de “gobernar con Vox es imposible” a asumir todos sus postul",
+      "score": 3.4,
       "words": [
         {
-          "word": "autoridad",
-          "score": 1
-        },
-        {
-          "word": "pobre",
+          "word": "criticado",
           "score": -2
-        },
-        {
-          "word": "brillante",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Portugal se salva por los pelos ante la competitiva Croacia en la última velada ",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "genial",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La contracrónica : no hubo milagro (para Austria) en Los Ángeles",
-      "score": 8.2,
-      "words": [
-        {
-          "word": "milagro",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "España y Lamine reclaman el foco en Los Ángeles",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "optimismo",
-          "score": 2
         }
       ]
     },
@@ -177,23 +136,72 @@
     },
     {
       "source": "El País",
-      "title": "El ‘juego de tronos’ del heavy español: la batalla por el mismo fin de semana de",
-      "score": 4.2,
+      "title": "El repartidor de pollo asado de Arahal, Sevilla, era un atracador de bancos huid",
+      "score": 3.4,
       "words": [
         {
-          "word": "batalla",
-          "score": -1
+          "word": "prisión",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El retrato que destapa el papel decisivo de los españoles en la independencia de",
+      "title": "¿Quién ganará el Mundial? Así avanzan nuestras predicciones",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "cuidado",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España recupera la magia ante Austria",
       "score": 5.8,
       "words": [
         {
-          "word": "decisivo",
+          "word": "autoridad",
           "score": 1
+        },
+        {
+          "word": "pobre",
+          "score": -2
+        },
+        {
+          "word": "brillante",
+          "score": 4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La Selección española que estábamos esperando",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "esperando",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Portugal se salva por los pelos ante la competitiva Croacia en la última velada ",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "genial",
+          "score": 3
         }
       ]
     },
@@ -291,8 +299,35 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Moreno admite \"no estar contento\" tras el pacto con Vox por no gobernar en solit",
+      "score": 5.58,
+      "words": [
+        {
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "contento",
+          "score": 3
+        },
+        {
+          "word": "solitario",
+          "score": -2
+        },
+        {
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "contento",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Radiografía de la regularización: quiénes la han pedido, dónde viven y en qué of",
-      "score": 5.31,
+      "score": 5.37,
       "words": [
         {
           "word": "pasado",
@@ -342,40 +377,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "De la Alemania nazi a los países bálticos: la 'ley de nietos' de España no es ni",
-      "score": 4.35,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "excluidos",
-          "score": -2
-        },
-        {
-          "word": "perseguidos",
-          "score": -2
-        },
-        {
-          "word": "perseguidos",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-12T19:02:48Z",
-      "score": 4.95
-    },
     {
       "timestamp": "2026-06-12T21:41:20Z",
       "score": 4.79
@@ -1043,6 +1047,10 @@
     {
       "timestamp": "2026-07-03T06:28:58Z",
       "score": 4.82
+    },
+    {
+      "timestamp": "2026-07-03T09:54:54Z",
+      "score": 4.64
     }
   ]
 }

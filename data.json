@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-03T09:54:54Z",
-  "global_score": 4.64,
-  "articles_scored": 88,
-  "words_matched": 266,
+  "generated": "2026-07-03T12:07:15Z",
+  "global_score": 4.63,
+  "articles_scored": 90,
+  "words_matched": 254,
   "top_negative": [
     {
       "word": "fraude",
@@ -25,7 +25,7 @@
       "score": -3
     },
     {
-      "word": "fiasco",
+      "word": "retirada",
       "score": -3
     },
     {
@@ -33,13 +33,13 @@
       "score": -3
     },
     {
-      "word": "racista",
+      "word": "fiasco",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "milagro",
+      "word": "ganador",
       "score": 4
     },
     {
@@ -55,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "agradable",
+      "word": "premio",
       "score": 3
     },
     {
@@ -73,21 +73,21 @@
   ],
   "per_source": {
     "El País": 5.16,
-    "elDiario.es": 4.85,
-    "El Mundo": 4.57,
-    "ABC": 5.21,
-    "El Confidencial": 4.7,
-    "BBC Mundo": 4.26,
+    "elDiario.es": 4.97,
+    "El Mundo": 4.76,
+    "ABC": 5.01,
+    "El Confidencial": 4.73,
+    "BBC Mundo": 4.47,
     "France 24 ES": 4.36,
-    "La Nación AR": 5.93,
+    "La Nación AR": 4.95,
     "La Jornada MX": 4.38,
     "Desinformémonos": 3.63,
-    "Resumen Latinoam.": 3.99
+    "Resumen Latinoam.": 4.06
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Juan Manuel Moreno, de “gobernar con Vox es imposible” a asumir todos sus postul",
+      "title": "Juan Manuel Moreno, de “un Gobierno con Vox es imposible” a asumir todos sus pos",
       "score": 3.4,
       "words": [
         {
@@ -98,20 +98,12 @@
     },
     {
       "source": "El País",
-      "title": "Histéricas: Así discrimina la medicina a las mujeres",
-      "score": 3.13,
+      "title": "La Aemet lanza el aviso especial por la segunda ola de calor del verano, que gol",
+      "score": 6.6,
       "words": [
         {
-          "word": "males",
-          "score": -1
-        },
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "peor",
-          "score": -3
+          "word": "calor",
+          "score": 2
         }
       ]
     },
@@ -131,6 +123,25 @@
         {
           "word": "pasado",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Histéricas: Así discrimina la medicina a las mujeres",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "males",
+          "score": -1
+        },
+        {
+          "word": "mal",
+          "score": -3
+        },
+        {
+          "word": "peor",
+          "score": -3
         }
       ]
     },
@@ -206,93 +217,82 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "El barrio que dio cobijo a los gais y después los expulsó: “Hoy no tenemos que i",
-      "score": 6.6,
+      "source": "elDiario.es",
+      "title": "Feijóo acusa al Gobierno de \"alterar el censo\" con la 'ley de nietos': \"Esta ing",
+      "score": 4.29,
       "words": [
         {
-          "word": "progreso",
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "asegura",
           "score": 2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "denunciar",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El PP de Feijóo da un paso más en su entendimiento con la ultraderecha con la cl",
-      "score": 4.94,
+      "title": "De la Alemania nazi a los países bálticos: la 'ley de nietos' de España no es ni",
+      "score": 4.35,
       "words": [
         {
-          "word": "renuncia",
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "culo",
+          "score": -4
+        },
+        {
+          "word": "excluidos",
+          "score": -2
+        },
+        {
+          "word": "perseguidos",
+          "score": -2
+        },
+        {
+          "word": "perseguidos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Radiografía de la regularización: quiénes la han pedido, dónde viven y en qué of",
+      "score": 5.37,
+      "words": [
+        {
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "promesa",
-          "score": 1
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Moreno vira su discurso sobre la 'prioridad nacional': de \"eslogan efectista\" a ",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "acepta",
-          "score": 1
-        },
-        {
-          "word": "importancia",
-          "score": 2
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "alcanzar",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El pacto PP-Vox en Andalucía asume las tesis de la extrema derecha: \"rechazo fro",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "súper",
+          "word": "mayor",
           "score": 3
         },
         {
-          "word": "justicia",
+          "word": "vulnerabilidad",
+          "score": -2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "importancia",
           "score": 2
         }
       ]
@@ -326,64 +326,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Radiografía de la regularización: quiénes la han pedido, dónde viven y en qué of",
-      "score": 5.37,
+      "title": "El PP de Feijóo da un paso más en su entendimiento con la ultraderecha con la cl",
+      "score": 4.94,
       "words": [
         {
-          "word": "pasado",
+          "word": "renuncia",
           "score": -1
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "promesa",
+          "score": 1
         },
         {
-          "word": "vulnerabilidad",
+          "word": "solitario",
           "score": -2
         },
         {
-          "word": "tipo",
-          "score": 2
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "importancia",
-          "score": 2
+          "word": "solo",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Europa quiere ser un infierno para los inmigrantes pero Sánchez no va a ceder",
-      "score": 4.67,
+      "title": "El pacto PP-Vox en Andalucía asume las tesis de la extrema derecha: \"rechazo fro",
+      "score": 5.0,
       "words": [
         {
-          "word": "infierno",
-          "score": -4
+          "word": "violencia",
+          "score": -3
         },
         {
-          "word": "infierno",
-          "score": -4
+          "word": "violencia",
+          "score": -3
         },
         {
-          "word": "críticos",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "súper",
+          "score": 3
         },
         {
-          "word": "tiempo",
-          "score": -2
+          "word": "justicia",
+          "score": 2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-12T21:41:20Z",
-      "score": 4.79
-    },
     {
       "timestamp": "2026-06-12T23:14:58Z",
       "score": 4.78
@@ -1051,6 +1047,10 @@
     {
       "timestamp": "2026-07-03T09:54:54Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-07-03T12:07:15Z",
+      "score": 4.63
     }
   ]
 }

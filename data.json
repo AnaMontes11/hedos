@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-03T02:40:48Z",
-  "global_score": 4.83,
+  "generated": "2026-07-03T06:28:58Z",
+  "global_score": 4.82,
   "articles_scored": 88,
-  "words_matched": 222,
+  "words_matched": 272,
   "top_negative": [
     {
       "word": "negro",
@@ -17,23 +17,23 @@
       "score": -4
     },
     {
-      "word": "maldición",
+      "word": "infierno",
       "score": -4
     },
     {
-      "word": "delitos",
+      "word": "molesto",
+      "score": -4
+    },
+    {
+      "word": "mal",
       "score": -3
     },
     {
-      "word": "racistas",
+      "word": "peor",
       "score": -3
     },
     {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "violencia",
+      "word": "fiasco",
       "score": -3
     }
   ],
@@ -55,6 +55,10 @@
       "score": 4
     },
     {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "vigilante",
       "score": 3
     },
@@ -63,26 +67,22 @@
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "caro",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 6.29,
-    "elDiario.es": 5.29,
+    "El País": 5.83,
+    "elDiario.es": 4.85,
     "El Mundo": 4.35,
-    "ABC": 4.96,
-    "El Confidencial": 4.31,
-    "BBC Mundo": 4.77,
-    "France 24 ES": 5.1,
-    "La Nación AR": 4.82,
+    "ABC": 5.4,
+    "El Confidencial": 4.6,
+    "BBC Mundo": 4.57,
+    "France 24 ES": 4.86,
+    "La Nación AR": 5.48,
     "La Jornada MX": 4.58,
     "Desinformémonos": 3.63,
-    "Resumen Latinoam.": 4.45
+    "Resumen Latinoam.": 4.53
   },
   "articles": [
     {
@@ -106,23 +106,23 @@
     },
     {
       "source": "El País",
+      "title": "Portugal se salva por los pelos ante la competitiva Croacia en la última velada ",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "genial",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "La contracrónica : no hubo milagro (para Austria) en Los Ángeles",
       "score": 8.2,
       "words": [
         {
           "word": "milagro",
           "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Plaza de Colón, a la caza del sueño de una nueva leyenda",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "sueño",
-          "score": 1
         }
       ]
     },
@@ -139,114 +139,118 @@
     },
     {
       "source": "El País",
-      "title": "Moreno cede y pacta un gobierno de coalición con Vox",
-      "score": 6.6,
+      "title": "Histéricas: Así discrimina la medicina a las mujeres",
+      "score": 3.13,
       "words": [
         {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez Pedraz imputa a la directora de la Guardia Civil y a su número dos en el",
-      "score": 4.6,
-      "words": [
+          "word": "males",
+          "score": -1
+        },
         {
-          "word": "delitos",
+          "word": "mal",
           "score": -3
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "peor",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Medio mundo al rescate de Hernán: un venezolano sale con vida de entre los escom",
-      "score": 5.0,
+      "title": "¿Dónde hay alertas por calor? Consulte en qué municipios hay riesgo para la salu",
+      "score": 4.73,
       "words": [
         {
-          "word": "rescate",
+          "word": "calor",
           "score": 2
         },
         {
-          "word": "salvar",
-          "score": 2
-        },
-        {
-          "word": "peligro",
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "inestable",
-          "score": -2
+          "word": "pasado",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Portugal se salva por los pelos ante Croacia en la última velada en un Mundial d",
-      "score": 7.4,
+      "title": "El ‘juego de tronos’ del heavy español: la batalla por el mismo fin de semana de",
+      "score": 4.2,
       "words": [
         {
-          "word": "genial",
-          "score": 3
+          "word": "batalla",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "¿El fútbol en serio es fútbol en serie?",
+      "title": "El retrato que destapa el papel decisivo de los españoles en la independencia de",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "decisivo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El barrio que dio cobijo a los gais y después los expulsó: “Hoy no tenemos que i",
       "score": 6.6,
       "words": [
         {
-          "word": "serio",
+          "word": "progreso",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Moreno, investido presidente de Andalucía tras un pacto con Vox que asume la vic",
-      "score": 5.31,
+      "title": "El PP de Feijóo da un paso más en su entendimiento con la ultraderecha con la cl",
+      "score": 4.94,
       "words": [
         {
+          "word": "renuncia",
+          "score": -1
+        },
+        {
+          "word": "promesa",
+          "score": 1
+        },
+        {
+          "word": "solitario",
+          "score": -2
+        },
+        {
           "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "aprobado",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "popular",
-          "score": 3
+          "word": "solo",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "PP y Vox cierran el pacto en Andalucía: Moreno mete a la extrema derecha en su G",
-      "score": 5.72,
+      "title": "Moreno vira su discurso sobre la 'prioridad nacional': de \"eslogan efectista\" a ",
+      "score": 4.94,
       "words": [
         {
-          "word": "acuerdo",
+          "word": "acepta",
           "score": 1
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "importancia",
+          "score": 2
+        },
+        {
+          "word": "violencia",
+          "score": -3
         },
         {
           "word": "alcanzar",
@@ -255,10 +259,6 @@
         {
           "word": "acuerdo",
           "score": 1
-        },
-        {
-          "word": "popular",
-          "score": 3
         }
       ]
     },
@@ -291,91 +291,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Montero, sobre el pacto PP-Vox: \"Por primera vez entra la ultraderecha tras la d",
-      "score": 4.79,
+      "title": "Radiografía de la regularización: quiénes la han pedido, dónde viven y en qué of",
+      "score": 5.31,
       "words": [
         {
-          "word": "vergonzoso",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "oscuridad",
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "fraude",
-          "score": -4
+          "word": "mayor",
+          "score": 3
         },
         {
-          "word": "vergonzoso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Moreno y Vox: sin cortinas ni caretas",
-      "score": 4.69,
-      "words": [
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "víctima",
-          "score": -3
-        },
-        {
-          "word": "grave",
+          "word": "vulnerabilidad",
           "score": -2
         },
         {
-          "word": "cierto",
+          "word": "tipo",
           "score": 2
         },
         {
-          "word": "olvidar",
-          "score": -1
+          "word": "importancia",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Bruselas advierte de que velará para que no haya discriminación con la \"priorida",
-      "score": 5.62,
+      "title": "Europa quiere ser un infierno para los inmigrantes pero Sánchez no va a ceder",
+      "score": 4.67,
       "words": [
         {
-          "word": "advierte",
+          "word": "infierno",
+          "score": -4
+        },
+        {
+          "word": "infierno",
+          "score": -4
+        },
+        {
+          "word": "críticos",
           "score": -2
         },
         {
-          "word": "advierte",
+          "word": "solo",
           "score": -2
         },
+        {
+          "word": "tiempo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De la Alemania nazi a los países bálticos: la 'ley de nietos' de España no es ni",
+      "score": 4.35,
+      "words": [
         {
           "word": "justicia",
           "score": 2
         },
         {
-          "word": "derecho",
-          "score": 1
+          "word": "culo",
+          "score": -4
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "excluidos",
+          "score": -2
+        },
+        {
+          "word": "perseguidos",
+          "score": -2
+        },
+        {
+          "word": "perseguidos",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-12T16:15:43Z",
-      "score": 4.9
-    },
     {
       "timestamp": "2026-06-12T19:02:48Z",
       "score": 4.95
@@ -1043,6 +1039,10 @@
     {
       "timestamp": "2026-07-03T02:40:48Z",
       "score": 4.83
+    },
+    {
+      "timestamp": "2026-07-03T06:28:58Z",
+      "score": 4.82
     }
   ]
 }

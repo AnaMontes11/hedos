@@ -1,23 +1,19 @@
 {
-  "generated": "2026-07-04T12:04:39Z",
-  "global_score": 4.98,
-  "articles_scored": 91,
-  "words_matched": 299,
+  "generated": "2026-07-04T14:26:50Z",
+  "global_score": 4.9,
+  "articles_scored": 92,
+  "words_matched": 288,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraudulento",
-      "score": -4
-    },
-    {
       "word": "fraude",
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "fraudulento",
       "score": -4
     },
     {
@@ -35,11 +31,15 @@
     {
       "word": "peor",
       "score": -3
+    },
+    {
+      "word": "pánico",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "victorias",
+      "word": "divertido",
       "score": 4
     },
     {
@@ -51,38 +51,38 @@
       "score": 4
     },
     {
-      "word": "brillar",
+      "word": "popular",
       "score": 3
     },
     {
-      "word": "lealtad",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "premio",
+      "word": "fiel",
       "score": 3
     },
     {
-      "word": "exitoso",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "perfecto",
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 5.72,
-    "elDiario.es": 5.12,
+    "elDiario.es": 4.97,
     "El Mundo": 4.13,
-    "ABC": 5.11,
-    "El Confidencial": 5.03,
-    "BBC Mundo": 5.0,
-    "France 24 ES": 4.56,
-    "La Nación AR": 6.0,
+    "ABC": 4.93,
+    "El Confidencial": 5.05,
+    "BBC Mundo": 5.2,
+    "France 24 ES": 5.36,
+    "La Nación AR": 4.51,
     "La Jornada MX": 5.17,
-    "Desinformémonos": 3.93,
-    "Resumen Latinoam.": 4.87
+    "Desinformémonos": 4.26,
+    "Resumen Latinoam.": 4.05
   },
   "articles": [
     {
@@ -265,55 +265,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Vox impone su agenda en su regreso a los gobiernos con el PP dos años después de",
-      "score": 4.71,
+      "title": "Trump se apropia del 250 aniversario de EEUU para imponer su agenda ultra",
+      "score": 5.48,
       "words": [
         {
-          "word": "impone",
+          "word": "imponer",
           "score": -1
         },
         {
-          "word": "impone",
+          "word": "imponer",
           "score": -1
         },
         {
-          "word": "solidaridad",
-          "score": 2
-        },
-        {
-          "word": "alienta",
-          "score": 2
-        },
-        {
-          "word": "odio",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno central avisa a la nueva Junta de PP y Vox: recurrirá al Constitucio",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "mal",
-          "score": -3
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "grande",
+          "word": "intereses",
           "score": 1
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "celebrado",
+          "score": 3
         },
         {
-          "word": "favor",
-          "score": 2
+          "word": "guerra",
+          "score": -2
         }
       ]
     },
@@ -346,64 +319,87 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El caso de la familia de la alcaldesa de Marbella: las escuchas de corrupción qu",
-      "score": 5.04,
+      "title": "El Papa elogia el pasado migrante de EEUU en un dardo directo contra el discurso",
+      "score": 5.46,
       "words": [
         {
-          "word": "sol",
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "importante",
           "score": 2
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "elogiar",
+          "score": 2
         },
         {
-          "word": "condenar",
-          "score": -2
-        },
-        {
-          "word": "condena",
-          "score": -2
-        },
-        {
-          "word": "sol",
+          "word": "libertad",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Mónica Oltra, 'renacida' el 4 de julio: la candidata de Compromís dibuja su prog",
-      "score": 5.51,
+      "title": "El Papa lanza un mensaje a Trump con una visita migratoria a Lampedusa en el 250",
+      "score": 4.75,
       "words": [
         {
-          "word": "lucha",
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "tragedia",
           "score": -2
         },
         {
-          "word": "acuerdo",
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "evitar",
+          "score": -1
+        },
+        {
+          "word": "negado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El abogado marroquí volcado en la regularización de decenas de migrantes: “Los p",
+      "score": 4.78,
+      "words": [
+        {
+          "word": "derecho",
           "score": 1
         },
         {
-          "word": "favor",
+          "word": "fuerza",
           "score": 2
         },
         {
-          "word": "celebra",
-          "score": 3
+          "word": "indiferente",
+          "score": -2
         },
         {
           "word": "pasado",
           "score": -1
+        },
+        {
+          "word": "sentido",
+          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-14T00:03:51Z",
-      "score": 4.83
-    },
     {
       "timestamp": "2026-06-14T05:46:29Z",
       "score": 4.87
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-07-04T12:04:39Z",
       "score": 4.98
+    },
+    {
+      "timestamp": "2026-07-04T14:26:50Z",
+      "score": 4.9
     }
   ]
 }

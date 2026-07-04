@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T15:59:31Z",
-  "global_score": 4.97,
-  "articles_scored": 93,
-  "words_matched": 292,
+  "generated": "2026-07-04T17:15:17Z",
+  "global_score": 4.89,
+  "articles_scored": 88,
+  "words_matched": 302,
   "top_negative": [
     {
       "word": "negro",
@@ -17,15 +17,11 @@
       "score": -4
     },
     {
-      "word": "burro",
-      "score": -4
-    },
-    {
-      "word": "cargado",
+      "word": "odio",
       "score": -3
     },
     {
-      "word": "odio",
+      "word": "cargado",
       "score": -3
     },
     {
@@ -35,16 +31,16 @@
     {
       "word": "fiasco",
       "score": -3
+    },
+    {
+      "word": "morir",
+      "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "magnífico",
       "score": 5
-    },
-    {
-      "word": "ganar",
-      "score": 4
     },
     {
       "word": "divertido",
@@ -63,28 +59,93 @@
       "score": 3
     },
     {
-      "word": "contento",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "fiel",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.81,
-    "elDiario.es": 5.12,
-    "El Mundo": 4.18,
-    "ABC": 5.48,
+    "El País": 5.54,
+    "elDiario.es": 5.19,
+    "El Mundo": 4.43,
+    "ABC": 5.11,
     "El Confidencial": 4.92,
     "BBC Mundo": 5.34,
-    "France 24 ES": 5.19,
-    "La Nación AR": 4.82,
+    "France 24 ES": 5.02,
+    "La Nación AR": 4.2,
     "La Jornada MX": 5.17,
-    "Desinformémonos": 4.26,
+    "Desinformémonos": 4.33,
     "Resumen Latinoam.": 4.05
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Orgullo LGTBIQ+ 2026, en directo | La marcha del Orgullo más masiva de Europa re",
+      "score": 5.16,
+      "words": [
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El orgullo de la libertad",
+      "score": 6.87,
+      "words": [
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "sentido",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Paula Iglesias, presidenta de la Felgtbi+: “Cuestionar los derechos del colectiv",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "orgullo",
+          "score": 2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Irán hace una exhibición de fuerza ante Estados Unidos con un funeral masivo por",
@@ -162,100 +223,16 @@
     },
     {
       "source": "El País",
-      "title": "Orgullo LGTBIQ+ 2026, en directo | La marcha del Orgullo más multitudinaria de E",
-      "score": 5.6,
+      "title": "El seleccionador de Paraguay, Gustavo Alfaro: entre Aristóteles y Einstein",
+      "score": 3.8,
       "words": [
         {
-          "word": "orgullo",
-          "score": 2
-        },
-        {
-          "word": "orgullo",
-          "score": 2
-        },
-        {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "odio",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Paula Iglesias, presidenta de la Felgtbi+: “Cuestionar los derechos del colectiv",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "orgullo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Carla Antonelli: “Ayuso inició este proceso involutivo cuando quiso retrotraer d",
-      "score": 5.32,
-      "words": [
-        {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "grande",
-          "score": 1
-        },
-        {
-          "word": "orgullo",
-          "score": 2
-        },
-        {
-          "word": "puesto",
+          "word": "frases",
           "score": -2
         },
         {
-          "word": "amenazas",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Taylor Swift y Travis Kelce se casan en una boda blindada en Nueva York",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "celebrar",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Quim Gutiérrez: “He dicho muchas veces que no, pero se sufre. Hubiese sido más c",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "sufre",
-          "score": -2
-        },
-        {
-          "word": "cómodo",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "comedia",
-          "score": 1
+          "word": "ausente",
+          "score": -1
         }
       ]
     },
@@ -315,6 +292,87 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Multitudes se congregan en Teherán al comenzar el funeral de seis días por el ay",
+      "score": 4.26,
+      "words": [
+        {
+          "word": "funeral",
+          "score": -1
+        },
+        {
+          "word": "funeral",
+          "score": -1
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "honor",
+          "score": 2
+        },
+        {
+          "word": "murió",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Última hora sobre la manifestación del Orgullo LGTBI: Mónica García acusa al PP ",
+      "score": 6.33,
+      "words": [
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "orgullo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Ya no es solo una amenaza: la ofensiva ultra contra los derechos LGTBI gana terr",
+      "score": 4.83,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El Papa elogia el pasado migrante de EEUU en un dardo directo contra el discurso",
       "score": 5.46,
       "words": [
@@ -339,67 +397,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Papa lanza un mensaje a Trump con una visita migratoria a Lampedusa en el 250",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "tragedia",
-          "score": -2
-        },
-        {
-          "word": "fracaso",
-          "score": -2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "negado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El abogado marroquí volcado en la regularización de decenas de migrantes: “Los p",
-      "score": 4.78,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "indiferente",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "sentido",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-14T09:29:40Z",
-      "score": 4.81
-    },
     {
       "timestamp": "2026-06-14T11:55:10Z",
       "score": 4.78
@@ -1067,6 +1067,10 @@
     {
       "timestamp": "2026-07-04T15:59:31Z",
       "score": 4.97
+    },
+    {
+      "timestamp": "2026-07-04T17:15:17Z",
+      "score": 4.89
     }
   ]
 }

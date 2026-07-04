@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T04:32:18Z",
-  "global_score": 4.85,
-  "articles_scored": 92,
-  "words_matched": 313,
+  "generated": "2026-07-04T07:43:35Z",
+  "global_score": 4.77,
+  "articles_scored": 93,
+  "words_matched": 322,
   "top_negative": [
     {
       "word": "negro",
@@ -25,19 +25,27 @@
       "score": -4
     },
     {
+      "word": "cargado",
+      "score": -3
+    },
+    {
       "word": "muerto",
       "score": -3
     },
     {
       "word": "crisis",
       "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "divertido",
+      "score": 4
+    },
+    {
+      "word": "ganador",
+      "score": 4
+    },
     {
       "word": "victorias",
       "score": 4
@@ -51,10 +59,6 @@
       "score": 4
     },
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "bonito",
       "score": 3
     },
@@ -65,21 +69,17 @@
     {
       "word": "exitoso",
       "score": 3
-    },
-    {
-      "word": "leal",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.96,
-    "elDiario.es": 5.02,
-    "El Mundo": 5.11,
+    "El País": 5.6,
+    "elDiario.es": 4.97,
+    "El Mundo": 5.04,
     "ABC": 4.82,
-    "El Confidencial": 4.97,
+    "El Confidencial": 4.85,
     "BBC Mundo": 4.33,
-    "France 24 ES": 4.49,
-    "La Nación AR": 5.6,
+    "France 24 ES": 4.56,
+    "La Nación AR": 4.93,
     "La Jornada MX": 4.38,
     "Desinformémonos": 3.93,
     "Resumen Latinoam.": 4.87
@@ -106,6 +106,25 @@
     },
     {
       "source": "El País",
+      "title": "Trump conmemora el 250º aniversario de Estados Unidos en el monte Rushmore, dond",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "fantasma",
+          "score": -1
+        },
+        {
+          "word": "cargado",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Jamie Raskin, congresista demócrata: “Los fundadores de EE UU no aprobarían la p",
       "score": 5.4,
       "words": [
@@ -116,29 +135,6 @@
         {
           "word": "sentido",
           "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Trump agita el tablero de la inversión y EE UU vuelve a salir ganador",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "ganador",
-          "score": 4
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "atrae",
-          "score": 1
-        },
-        {
-          "word": "gracias",
-          "score": 2
         }
       ]
     },
@@ -323,6 +319,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Tan españoles como Antonio Machado",
+      "score": 4.61,
+      "words": [
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "enfermo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "escapar",
+          "score": -1
+        },
+        {
+          "word": "morir",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El caso de la familia de la alcaldesa de Marbella: las escuchas de corrupción qu",
       "score": 5.04,
       "words": [
@@ -374,40 +397,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump se apropia del 250 aniversario de EEUU para imponer su agenda ultra",
-      "score": 5.48,
-      "words": [
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "intereses",
-          "score": 1
-        },
-        {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-13T18:05:16Z",
-      "score": 4.93
-    },
     {
       "timestamp": "2026-06-13T20:13:47Z",
       "score": 4.82
@@ -1075,6 +1067,10 @@
     {
       "timestamp": "2026-07-04T04:32:18Z",
       "score": 4.85
+    },
+    {
+      "timestamp": "2026-07-04T07:43:35Z",
+      "score": 4.77
     }
   ]
 }

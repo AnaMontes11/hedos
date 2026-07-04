@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T19:06:22Z",
-  "global_score": 4.92,
-  "articles_scored": 79,
-  "words_matched": 274,
+  "generated": "2026-07-04T20:53:23Z",
+  "global_score": 4.98,
+  "articles_scored": 89,
+  "words_matched": 277,
   "top_negative": [
     {
       "word": "negro",
@@ -13,8 +13,8 @@
       "score": -4
     },
     {
-      "word": "odio",
-      "score": -3
+      "word": "catastrófico",
+      "score": -4
     },
     {
       "word": "murió",
@@ -25,21 +25,25 @@
       "score": -3
     },
     {
-      "word": "racistas",
-      "score": -3
-    },
-    {
-      "word": "fiasco",
-      "score": -3
-    },
-    {
       "word": "delito",
+      "score": -3
+    },
+    {
+      "word": "odio",
+      "score": -3
+    },
+    {
+      "word": "morir",
       "score": -3
     }
   ],
   "top_positive": [
     {
       "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "ganador",
       "score": 4
     },
     {
@@ -51,11 +55,11 @@
       "score": 4
     },
     {
-      "word": "exitoso",
+      "word": "excelencia",
       "score": 3
     },
     {
-      "word": "celebrar",
+      "word": "vigilante",
       "score": 3
     },
     {
@@ -63,51 +67,44 @@
       "score": 3
     },
     {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.43,
-    "elDiario.es": 5.26,
+    "El País": 5.31,
+    "elDiario.es": 5.42,
     "El Mundo": 4.58,
-    "El Confidencial": 5.17,
+    "ABC": 5.28,
+    "El Confidencial": 5.07,
     "BBC Mundo": 5.13,
     "France 24 ES": 5.11,
-    "La Nación AR": 4.3,
+    "La Nación AR": 4.76,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.33,
-    "Resumen Latinoam.": 4.34
+    "Resumen Latinoam.": 4.25
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Orgullo LGTBIQ+ 2026, en directo | La marcha del Orgullo más masiva de Europa re",
-      "score": 5.16,
+      "title": "El Orgullo planta cara en Madrid al auge de la extrema derecha: “Nuestros derech",
+      "score": 6.2,
       "words": [
         {
           "word": "orgullo",
           "score": 2
         },
         {
-          "word": "orgullo",
+          "word": "calor",
           "score": 2
         },
         {
-          "word": "odio",
-          "score": -3
+          "word": "bloques",
+          "score": -1
         },
         {
-          "word": "reivindica",
-          "score": 2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
+          "word": "celebrar",
+          "score": 3
         }
       ]
     },
@@ -132,15 +129,19 @@
     },
     {
       "source": "El País",
-      "title": "Paula Iglesias, presidenta de la Felgtbi+: “Cuestionar los derechos del colectiv",
-      "score": 6.6,
+      "title": "Mi primera vez en el Orgullo: “Es un sueño que nunca pensé que fuera a cumplir”",
+      "score": 6.33,
       "words": [
         {
-          "word": "reivindica",
+          "word": "orgullo",
           "score": 2
         },
         {
-          "word": "orgullo",
+          "word": "sueño",
+          "score": 1
+        },
+        {
+          "word": "cumplir",
           "score": 2
         }
       ]
@@ -226,24 +227,12 @@
     },
     {
       "source": "El País",
-      "title": "Canadá - Marruecos, el partido de octavos del Mundial en directo | Brah",
-      "score": 5.4,
+      "title": "A Marruecos le llega con Bono y Ounahi en su función más floja para despedir a C",
+      "score": 3.4,
       "words": [
-        {
-          "word": "disparo",
-          "score": -2
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
         {
           "word": "tiempo",
           "score": -2
-        },
-        {
-          "word": "premio",
-          "score": 3
         }
       ]
     },
@@ -264,35 +253,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump se apropia del 250 aniversario de EEUU para imponer su agenda ultra",
-      "score": 5.48,
-      "words": [
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "intereses",
-          "score": 1
-        },
-        {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El Orgullo llena la calle frente a la ofensiva reaccionaria global",
-      "score": 5.66,
+      "score": 5.59,
       "words": [
         {
           "word": "orgullo",
@@ -318,43 +280,35 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Ya no es solo una amenaza: la ofensiva ultra contra los derechos LGTBI gana terr",
-      "score": 4.83,
+      "title": "La manifestación del Orgullo LGTBI, en imágenes",
+      "score": 6.6,
       "words": [
         {
-          "word": "solo",
-          "score": -2
+          "word": "orgullo",
+          "score": 2
         },
         {
-          "word": "amenaza",
-          "score": -2
+          "word": "orgullo",
+          "score": 2
         },
         {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
+          "word": "orgullo",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Última hora sobre la manifestación del Orgullo LGTBI: “Los derechos de mi hijo d",
-      "score": 6.36,
+      "title": "Última hora sobre la manifestación del Orgullo LGTBI: \"Vivimos un momento decisi",
+      "score": 6.31,
       "words": [
         {
           "word": "orgullo",
           "score": 2
         },
         {
-          "word": "orgullo",
-          "score": 2
+          "word": "decisivo",
+          "score": 1
         },
         {
           "word": "orgullo",
@@ -365,7 +319,7 @@
           "score": 2
         },
         {
-          "word": "importante",
+          "word": "orgullo",
           "score": 2
         }
       ]
@@ -396,13 +350,36 @@
           "score": -3
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Multitudes se congregan en Teherán al comenzar el funeral de seis días por el ay",
+      "score": 4.26,
+      "words": [
+        {
+          "word": "funeral",
+          "score": -1
+        },
+        {
+          "word": "funeral",
+          "score": -1
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "honor",
+          "score": 2
+        },
+        {
+          "word": "murió",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-14T13:56:50Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-06-14T15:48:48Z",
       "score": 4.78
@@ -1070,6 +1047,10 @@
     {
       "timestamp": "2026-07-04T19:06:22Z",
       "score": 4.92
+    },
+    {
+      "timestamp": "2026-07-04T20:53:23Z",
+      "score": 4.98
     }
   ]
 }

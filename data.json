@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T21:56:20Z",
-  "global_score": 5.1,
-  "articles_scored": 86,
-  "words_matched": 269,
+  "generated": "2026-07-04T22:57:32Z",
+  "global_score": 4.99,
+  "articles_scored": 90,
+  "words_matched": 280,
   "top_negative": [
     {
       "word": "negro",
@@ -51,6 +51,10 @@
       "score": 4
     },
     {
+      "word": "exitoso",
+      "score": 3
+    },
+    {
       "word": "excelencia",
       "score": 3
     },
@@ -65,10 +69,6 @@
     {
       "word": "bueno",
       "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
     }
   ],
   "per_source": {
@@ -76,13 +76,13 @@
     "elDiario.es": 5.43,
     "El Mundo": 4.44,
     "ABC": 5.28,
-    "El Confidencial": 5.38,
+    "El Confidencial": 5.26,
     "BBC Mundo": 5.13,
-    "France 24 ES": 4.63,
-    "La Nación AR": 6.15,
+    "France 24 ES": 4.64,
+    "La Nación AR": 4.77,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.33,
-    "Resumen Latinoam.": 4.61
+    "Resumen Latinoam.": 4.63
   },
   "articles": [
     {
@@ -227,9 +227,13 @@
     },
     {
       "source": "El País",
-      "title": "Paraguay - Francia, el partido de octavos del Mundial en directo | Ambos equipos",
+      "title": "Paraguay - Francia, el partido de octavos del Mundial en directo | Mbappé marca ",
       "score": 6.6,
       "words": [
+        {
+          "word": "ventaja",
+          "score": 2
+        },
         {
           "word": "favorito",
           "score": 2
@@ -376,10 +380,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-14T17:18:05Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-06-14T19:21:56Z",
       "score": 4.67
@@ -1047,6 +1047,10 @@
     {
       "timestamp": "2026-07-04T21:56:20Z",
       "score": 5.1
+    },
+    {
+      "timestamp": "2026-07-04T22:57:32Z",
+      "score": 4.99
     }
   ]
 }

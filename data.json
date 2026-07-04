@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T07:43:35Z",
-  "global_score": 4.77,
-  "articles_scored": 93,
-  "words_matched": 322,
+  "generated": "2026-07-04T10:06:33Z",
+  "global_score": 5.01,
+  "articles_scored": 96,
+  "words_matched": 304,
   "top_negative": [
     {
       "word": "negro",
@@ -21,7 +21,7 @@
       "score": -4
     },
     {
-      "word": "violador",
+      "word": "maldición",
       "score": -4
     },
     {
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "divertido",
-      "score": 4
-    },
-    {
       "word": "ganador",
       "score": 4
     },
@@ -59,7 +55,7 @@
       "score": 4
     },
     {
-      "word": "bonito",
+      "word": "exitoso",
       "score": 3
     },
     {
@@ -67,20 +63,24 @@
       "score": 3
     },
     {
-      "word": "exitoso",
+      "word": "excelencia",
+      "score": 3
+    },
+    {
+      "word": "bueno",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.6,
-    "elDiario.es": 4.97,
-    "El Mundo": 5.04,
-    "ABC": 4.82,
-    "El Confidencial": 4.85,
-    "BBC Mundo": 4.33,
+    "El País": 5.72,
+    "elDiario.es": 5.12,
+    "El Mundo": 4.79,
+    "ABC": 5.49,
+    "El Confidencial": 4.86,
+    "BBC Mundo": 4.55,
     "France 24 ES": 4.56,
-    "La Nación AR": 4.93,
-    "La Jornada MX": 4.38,
+    "La Nación AR": 5.62,
+    "La Jornada MX": 5.17,
     "Desinformémonos": 3.93,
     "Resumen Latinoam.": 4.87
   },
@@ -106,6 +106,21 @@
     },
     {
       "source": "El País",
+      "title": "Contradicción norteamericana",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "celebrar",
+          "score": 3
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Trump conmemora el 250º aniversario de Estados Unidos en el monte Rushmore, dond",
       "score": 3.4,
       "words": [
@@ -120,21 +135,6 @@
         {
           "word": "cargado",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Jamie Raskin, congresista demócrata: “Los fundadores de EE UU no aprobarían la p",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "autor",
-          "score": -2
-        },
-        {
-          "word": "sentido",
-          "score": 3
         }
       ]
     },
@@ -216,6 +216,21 @@
     },
     {
       "source": "El País",
+      "title": "¿Los mejores del Mundial? Cinco gráficos curiosos de Messi, Olise, Pedri y Mbapp",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Taylor Swift y Travis Kelce se casan en una boda blindada en Nueva York",
       "score": 7.4,
       "words": [
@@ -245,21 +260,6 @@
         {
           "word": "comedia",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Del mastín a la carabela portuguesa: ¿qué hacer si te encuentras con estos anima",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "molestar",
-          "score": -2
-        },
-        {
-          "word": "calma",
-          "score": 2
         }
       ]
     },
@@ -400,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-13T20:13:47Z",
-      "score": 4.82
-    },
     {
       "timestamp": "2026-06-13T22:01:12Z",
       "score": 4.84
@@ -1071,6 +1067,10 @@
     {
       "timestamp": "2026-07-04T07:43:35Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-07-04T10:06:33Z",
+      "score": 5.01
     }
   ]
 }

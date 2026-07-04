@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T14:26:50Z",
-  "global_score": 4.9,
-  "articles_scored": 92,
-  "words_matched": 288,
+  "generated": "2026-07-04T15:59:31Z",
+  "global_score": 4.97,
+  "articles_scored": 93,
+  "words_matched": 292,
   "top_negative": [
     {
       "word": "negro",
@@ -17,27 +17,35 @@
       "score": -4
     },
     {
+      "word": "burro",
+      "score": -4
+    },
+    {
       "word": "cargado",
       "score": -3
     },
     {
-      "word": "muerto",
+      "word": "odio",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "racistas",
       "score": -3
     },
     {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "pánico",
+      "word": "fiasco",
       "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "magnífico",
+      "score": 5
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
     {
       "word": "divertido",
       "score": 4
@@ -47,39 +55,31 @@
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
+      "word": "premio",
+      "score": 3
     },
     {
-      "word": "popular",
+      "word": "exitoso",
+      "score": 3
+    },
+    {
+      "word": "contento",
       "score": 3
     },
     {
       "word": "suerte",
       "score": 3
-    },
-    {
-      "word": "fiel",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.72,
-    "elDiario.es": 4.97,
-    "El Mundo": 4.13,
-    "ABC": 4.93,
-    "El Confidencial": 5.05,
-    "BBC Mundo": 5.2,
-    "France 24 ES": 5.36,
-    "La Nación AR": 4.51,
+    "El País": 5.81,
+    "elDiario.es": 5.12,
+    "El Mundo": 4.18,
+    "ABC": 5.48,
+    "El Confidencial": 4.92,
+    "BBC Mundo": 5.34,
+    "France 24 ES": 5.19,
+    "La Nación AR": 4.82,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.26,
     "Resumen Latinoam.": 4.05
@@ -87,35 +87,57 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Estados Unidos celebra el 4 de julio de su 250° aniversario como una nación part",
-      "score": 6.87,
+      "title": "Irán hace una exhibición de fuerza ante Estados Unidos con un funeral masivo por",
+      "score": 5.4,
       "words": [
         {
-          "word": "celebra",
-          "score": 3
-        },
-        {
-          "word": "atracción",
+          "word": "fuerza",
           "score": 2
         },
         {
-          "word": "calor",
+          "word": "funeral",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Esperando a Mojtaba",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "esperando",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Contradicción norteamericana",
-      "score": 5.8,
+      "title": "Irán: negociar con asesinos es una mala decisión",
+      "score": 7.0,
       "words": [
         {
-          "word": "celebrar",
-          "score": 3
+          "word": "negociar",
+          "score": 2
         },
         {
-          "word": "ataque",
-          "score": -1
+          "word": "popular",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Una ola de calor extremo amenaza la celebración del 250° aniversario de Estados ",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
@@ -140,92 +162,66 @@
     },
     {
       "source": "El País",
-      "title": "Jaime de los Santos, vicesecretario de Igualdad del PP: “La autodeterminación de",
+      "title": "Orgullo LGTBIQ+ 2026, en directo | La marcha del Orgullo más multitudinaria de E",
+      "score": 5.6,
+      "words": [
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "odio",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Paula Iglesias, presidenta de la Felgtbi+: “Cuestionar los derechos del colectiv",
       "score": 6.6,
       "words": [
         {
-          "word": "responsable",
+          "word": "reivindica",
+          "score": 2
+        },
+        {
+          "word": "orgullo",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Del crucero de sus sueños a un hospital militar: “Cuando dijeron que había un te",
-      "score": 3.4,
+      "title": "Carla Antonelli: “Ayuso inició este proceso involutivo cuando quiso retrotraer d",
+      "score": 5.32,
       "words": [
         {
-          "word": "sueños",
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "grande",
           "score": 1
         },
         {
-          "word": "muerto",
-          "score": -3
+          "word": "orgullo",
+          "score": 2
         },
         {
-          "word": "problema",
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "peor",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un partido para recordar: la increíble Cabo Verde angustia a Argentina, que solo",
-      "score": 4.77,
-      "words": [
-        {
-          "word": "increíble",
-          "score": -1
-        },
-        {
-          "word": "angustia",
+          "word": "amenazas",
           "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "emocionante",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Colombia elimina a Ghana, está en octavos y no se conforma: siente que puede ser",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Los mejores del Mundial? Cinco gráficos curiosos de Messi, Olise, Pedri y Mbapp",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "dejar",
-          "score": -1
         }
       ]
     },
@@ -293,7 +289,7 @@
     {
       "source": "elDiario.es",
       "title": "Tan españoles como Antonio Machado",
-      "score": 4.61,
+      "score": 4.62,
       "words": [
         {
           "word": "sol",
@@ -400,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-14T05:46:29Z",
-      "score": 4.87
-    },
     {
       "timestamp": "2026-06-14T09:29:40Z",
       "score": 4.81
@@ -1071,6 +1063,10 @@
     {
       "timestamp": "2026-07-04T14:26:50Z",
       "score": 4.9
+    },
+    {
+      "timestamp": "2026-07-04T15:59:31Z",
+      "score": 4.97
     }
   ]
 }

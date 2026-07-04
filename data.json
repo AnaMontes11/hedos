@@ -1,11 +1,15 @@
 {
-  "generated": "2026-07-04T00:13:25Z",
-  "global_score": 4.71,
-  "articles_scored": 80,
-  "words_matched": 227,
+  "generated": "2026-07-04T04:32:18Z",
+  "global_score": 4.85,
+  "articles_scored": 92,
+  "words_matched": 313,
   "top_negative": [
     {
-      "word": "infierno",
+      "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "fraudulento",
       "score": -4
     },
     {
@@ -13,37 +17,29 @@
       "score": -4
     },
     {
-      "word": "mal",
+      "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "violador",
+      "score": -4
+    },
+    {
+      "word": "muerto",
       "score": -3
     },
     {
-      "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
-      "score": -3
-    },
-    {
-      "word": "abusos",
+      "word": "crisis",
       "score": -3
     },
     {
       "word": "peor",
       "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "ganar",
+      "word": "victorias",
       "score": 4
     },
     {
@@ -51,7 +47,11 @@
       "score": 4
     },
     {
-      "word": "brillante",
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "ganador",
       "score": 4
     },
     {
@@ -63,43 +63,41 @@
       "score": 3
     },
     {
-      "word": "mejor",
+      "word": "exitoso",
       "score": 3
     },
     {
-      "word": "felicidad",
+      "word": "leal",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.07,
-    "elDiario.es": 4.69,
+    "El País": 5.96,
+    "elDiario.es": 5.02,
     "El Mundo": 5.11,
-    "El Confidencial": 4.85,
-    "BBC Mundo": 4.25,
-    "France 24 ES": 4.39,
-    "La Nación AR": 5.59,
+    "ABC": 4.82,
+    "El Confidencial": 4.97,
+    "BBC Mundo": 4.33,
+    "France 24 ES": 4.49,
+    "La Nación AR": 5.6,
     "La Jornada MX": 4.38,
     "Desinformémonos": 3.93,
-    "Resumen Latinoam.": 5.01
+    "Resumen Latinoam.": 4.87
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Juan Manuel Moreno, de “un Gobierno con Vox es imposible” a asumir todos sus pos",
-      "score": 3.4,
+      "title": "Estados Unidos celebra el 4 de julio de su 250° aniversario como una nación part",
+      "score": 6.87,
       "words": [
         {
-          "word": "criticado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Aemet lanza el aviso especial por la segunda ola de calor del verano, que gol",
-      "score": 6.6,
-      "words": [
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "atracción",
+          "score": 2
+        },
         {
           "word": "calor",
           "score": 2
@@ -108,132 +106,91 @@
     },
     {
       "source": "El País",
-      "title": "¿Dónde hay alertas por calor? Consulte en qué municipios hay riesgo para la salu",
-      "score": 4.73,
+      "title": "Jamie Raskin, congresista demócrata: “Los fundadores de EE UU no aprobarían la p",
+      "score": 5.4,
       "words": [
         {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "riesgo",
+          "word": "autor",
           "score": -2
         },
         {
-          "word": "pasado",
-          "score": -1
+          "word": "sentido",
+          "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Las hermanas de Jonathan Andic defienden su inocencia y aseguran que retomarán l",
-      "score": 3.4,
+      "title": "Trump agita el tablero de la inversión y EE UU vuelve a salir ganador",
+      "score": 7.0,
       "words": [
         {
-          "word": "abandonar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El repartidor de pollo asado de Arahal, Sevilla, era un atracador de bancos huid",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "prisión",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Quién ganará el Mundial? Así avanzan nuestras predicciones",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "cuidado",
-          "score": 2
+          "word": "ganador",
+          "score": 4
         },
         {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "España recupera la magia ante Austria",
-      "score": 5.8,
-      "words": [
+          "word": "mayor",
+          "score": 3
+        },
         {
-          "word": "autoridad",
+          "word": "atrae",
           "score": 1
         },
         {
-          "word": "pobre",
-          "score": -2
-        },
-        {
-          "word": "brillante",
-          "score": 4
+          "word": "gracias",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El día que Cristiano despidió a Modric del Mundial en otro partido que agitó el ",
-      "score": 8.2,
+      "title": "Jaime de los Santos, vicesecretario de Igualdad del PP: “La autodeterminación de",
+      "score": 6.6,
       "words": [
         {
-          "word": "triunfo",
-          "score": 4
+          "word": "responsable",
+          "score": 2
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "La Abogacía del Estado se opone a que el Supremo eleve a la Justicia europea la ",
-      "score": 5.21,
+      "source": "El País",
+      "title": "Del crucero de sus sueños a un hospital militar: “Cuando dijeron que había un te",
+      "score": 3.4,
       "words": [
         {
-          "word": "justicia",
-          "score": 2
+          "word": "sueños",
+          "score": 1
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "muerto",
+          "score": -3
         },
         {
-          "word": "chocar",
-          "score": -1
-        },
-        {
-          "word": "amenazar",
+          "word": "problema",
           "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "peor",
+          "score": -3
         }
       ]
     },
     {
-      "source": "elDiario.es",
-      "title": "Europa quiere ser un infierno para los inmigrantes pero Sánchez no va a ceder",
-      "score": 4.67,
+      "source": "El País",
+      "title": "Un partido para recordar: la increíble Cabo Verde angustia a Argentina, que solo",
+      "score": 4.77,
       "words": [
         {
-          "word": "infierno",
-          "score": -4
+          "word": "increíble",
+          "score": -1
         },
         {
-          "word": "infierno",
-          "score": -4
-        },
-        {
-          "word": "críticos",
+          "word": "angustia",
           "score": -2
         },
         {
@@ -241,85 +198,149 @@
           "score": -2
         },
         {
-          "word": "tiempo",
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "emocionante",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Colombia elimina a Ghana, está en octavos y no se conforma: siente que puede ser",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Taylor Swift y Travis Kelce se casan en una boda blindada en Nueva York",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "celebrar",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Quim Gutiérrez: “He dicho muchas veces que no, pero se sufre. Hubiese sido más c",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "sufre",
           "score": -2
+        },
+        {
+          "word": "cómodo",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "comedia",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Del mastín a la carabela portuguesa: ¿qué hacer si te encuentras con estos anima",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "molestar",
+          "score": -2
+        },
+        {
+          "word": "calma",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Radiografía de la regularización: quiénes la han pedido, dónde viven y en qué of",
-      "score": 5.37,
+      "title": "Vox impone su agenda en su regreso a los gobiernos con el PP dos años después de",
+      "score": 4.71,
       "words": [
         {
-          "word": "pasado",
+          "word": "impone",
           "score": -1
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "impone",
+          "score": -1
         },
         {
-          "word": "vulnerabilidad",
-          "score": -2
-        },
-        {
-          "word": "tipo",
+          "word": "solidaridad",
           "score": 2
         },
         {
-          "word": "importancia",
+          "word": "alienta",
+          "score": 2
+        },
+        {
+          "word": "odio",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno central avisa a la nueva Junta de PP y Vox: recurrirá al Constitucio",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "mal",
+          "score": -3
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "grande",
+          "score": 1
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "favor",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Feijóo acusa al Gobierno de \"alterar el censo\" con la 'ley de nietos': \"Esta ing",
-      "score": 4.29,
+      "title": "El caso de la familia de la alcaldesa de Marbella: las escuchas de corrupción qu",
+      "score": 5.04,
       "words": [
         {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "asegura",
+          "word": "sol",
           "score": 2
         },
         {
-          "word": "denuncia",
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "condenar",
           "score": -2
         },
         {
-          "word": "denunciar",
+          "word": "condena",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "En ocasiones, ve socialistas",
-      "score": 5.1,
-      "words": [
-        {
-          "word": "sentido",
-          "score": 3
-        },
-        {
-          "word": "amenazante",
-          "score": -2
-        },
-        {
-          "word": "asustado",
-          "score": -2
-        },
-        {
-          "word": "sentido",
-          "score": 3
         },
         {
           "word": "sol",
@@ -329,64 +350,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Un miembro de Movimiento Sumar que acusó a Lara Hernández de acoso la denunció a",
-      "score": 3.99,
+      "title": "Ya no es solo una amenaza: la ofensiva ultra contra los derechos LGTBI gana terr",
+      "score": 4.83,
       "words": [
         {
-          "word": "acoso",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "acoso",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "denuncia",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "acusaciones",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "asegura",
-          "score": 2
+          "word": "delito",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Lara Hernández dimite de sus cargos en Movimiento Sumar tras archivarse el exped",
-      "score": 3.92,
+      "title": "Trump se apropia del 250 aniversario de EEUU para imponer su agenda ultra",
+      "score": 5.48,
       "words": [
         {
-          "word": "cargos",
-          "score": -2
+          "word": "imponer",
+          "score": -1
         },
         {
-          "word": "acoso",
-          "score": -2
+          "word": "imponer",
+          "score": -1
         },
         {
-          "word": "cargos",
-          "score": -2
+          "word": "intereses",
+          "score": 1
         },
         {
-          "word": "acoso",
-          "score": -2
+          "word": "celebrado",
+          "score": 3
         },
         {
-          "word": "frustración",
+          "word": "guerra",
           "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-13T16:18:55Z",
-      "score": 4.89
-    },
     {
       "timestamp": "2026-06-13T18:05:16Z",
       "score": 4.93
@@ -1054,6 +1071,10 @@
     {
       "timestamp": "2026-07-04T00:13:25Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-07-04T04:32:18Z",
+      "score": 4.85
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-04T20:53:23Z",
-  "global_score": 4.98,
-  "articles_scored": 89,
-  "words_matched": 277,
+  "generated": "2026-07-04T21:56:20Z",
+  "global_score": 5.1,
+  "articles_scored": 86,
+  "words_matched": 269,
   "top_negative": [
     {
       "word": "negro",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "ganador",
       "score": 4
     },
@@ -69,20 +65,24 @@
     {
       "word": "bueno",
       "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.31,
-    "elDiario.es": 5.42,
-    "El Mundo": 4.58,
+    "El País": 5.59,
+    "elDiario.es": 5.43,
+    "El Mundo": 4.44,
     "ABC": 5.28,
-    "El Confidencial": 5.07,
+    "El Confidencial": 5.38,
     "BBC Mundo": 5.13,
-    "France 24 ES": 5.11,
-    "La Nación AR": 4.76,
+    "France 24 ES": 4.63,
+    "La Nación AR": 6.15,
     "La Jornada MX": 5.17,
     "Desinformémonos": 4.33,
-    "Resumen Latinoam.": 4.25
+    "Resumen Latinoam.": 4.61
   },
   "articles": [
     {
@@ -227,27 +227,23 @@
     },
     {
       "source": "El País",
+      "title": "Paraguay - Francia, el partido de octavos del Mundial en directo | Ambos equipos",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "favorito",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "A Marruecos le llega con Bono y Ounahi en su función más floja para despedir a C",
       "score": 3.4,
       "words": [
         {
           "word": "tiempo",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El seleccionador de Paraguay, Gustavo Alfaro: entre Aristóteles y Einstein",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "frases",
-          "score": -2
-        },
-        {
-          "word": "ausente",
-          "score": -1
         }
       ]
     },
@@ -299,18 +295,14 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Última hora sobre la manifestación del Orgullo LGTBI: \"Vivimos un momento decisi",
-      "score": 6.31,
+      "title": "Así te hemos contado la última hora sobre la manifestación del Orgullo LGTBI 202",
+      "score": 6.36,
       "words": [
         {
           "word": "orgullo",
           "score": 2
         },
         {
-          "word": "decisivo",
-          "score": 1
-        },
-        {
           "word": "orgullo",
           "score": 2
         },
@@ -320,6 +312,10 @@
         },
         {
           "word": "orgullo",
+          "score": 2
+        },
+        {
+          "word": "importante",
           "score": 2
         }
       ]
@@ -380,10 +376,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-14T15:48:48Z",
-      "score": 4.78
-    },
     {
       "timestamp": "2026-06-14T17:18:05Z",
       "score": 4.77
@@ -1051,6 +1043,10 @@
     {
       "timestamp": "2026-07-04T20:53:23Z",
       "score": 4.98
+    },
+    {
+      "timestamp": "2026-07-04T21:56:20Z",
+      "score": 5.1
     }
   ]
 }

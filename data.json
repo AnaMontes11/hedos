@@ -1,15 +1,11 @@
 {
-  "generated": "2026-07-05T12:13:26Z",
-  "global_score": 4.69,
-  "articles_scored": 87,
-  "words_matched": 370,
+  "generated": "2026-07-05T14:39:23Z",
+  "global_score": 4.51,
+  "articles_scored": 85,
+  "words_matched": 334,
   "top_negative": [
     {
       "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "infierno",
       "score": -4
     },
     {
@@ -18,6 +14,10 @@
     },
     {
       "word": "culo",
+      "score": -4
+    },
+    {
+      "word": "infierno",
       "score": -4
     },
     {
@@ -51,38 +51,38 @@
       "score": 4
     },
     {
-      "word": "fiel",
+      "word": "suerte",
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "leal",
       "score": 3
     },
     {
       "word": "celebrado",
       "score": 3
-    },
-    {
-      "word": "feliz",
-      "score": 3
-    },
-    {
-      "word": "lealtad",
-      "score": 3
     }
   ],
   "per_source": {
     "El País": 4.77,
-    "elDiario.es": 4.77,
-    "El Mundo": 4.47,
-    "ABC": 5.02,
-    "El Confidencial": 4.68,
-    "BBC Mundo": 4.6,
-    "France 24 ES": 4.41,
-    "La Nación AR": 5.67,
+    "elDiario.es": 4.93,
+    "El Mundo": 4.35,
+    "ABC": 4.0,
+    "El Confidencial": 4.29,
+    "BBC Mundo": 4.53,
+    "France 24 ES": 4.8,
+    "La Nación AR": 5.0,
     "La Jornada MX": 4.24,
     "Desinformémonos": 4.33,
-    "Resumen Latinoam.": 4.75
+    "Resumen Latinoam.": 4.61
   },
   "articles": [
     {
@@ -226,33 +226,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno quiere irse de vacaciones con los deberes hechos para lanzar los Pre",
-      "score": 4.92,
-      "words": [
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "dejar",
-          "score": -1
-        },
-        {
-          "word": "salvar",
-          "score": 2
-        },
-        {
-          "word": "preparado",
-          "score": 1
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Hechos y datos para desmontar el bulo del pucherazo electoral que corre a la vel",
       "score": 4.84,
       "words": [
@@ -307,91 +280,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Trump agita el fantasma del enemigo interno en el 250 aniversario y ante las leg",
-      "score": 4.44,
+      "title": "Aldama, el nexo corruptor que acabó entronizado como 'campeón' del antisanchismo",
+      "score": 4.61,
       "words": [
         {
-          "word": "fantasma",
-          "score": -1
+          "word": "fraude",
+          "score": -4
         },
         {
-          "word": "enemigo",
+          "word": "condena",
           "score": -2
         },
         {
-          "word": "cáncer",
-          "score": -1
+          "word": "prisión",
+          "score": -2
         },
         {
-          "word": "fantasma",
-          "score": -1
+          "word": "justicia",
+          "score": 2
         },
         {
-          "word": "enemigo",
+          "word": "acusaciones",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La IA desata una guerra civil en el mundo MAGA y Trump aún no ha tomado partido",
-      "score": 4.42,
+      "title": "Tan españoles como Antonio Machado",
+      "score": 4.62,
       "words": [
         {
-          "word": "guerra",
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "enfermo",
           "score": -2
         },
         {
-          "word": "disputa",
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "corte",
+          "word": "escapar",
           "score": -1
         },
         {
-          "word": "expandir",
+          "word": "morir",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Moreno, en su toma de posesión tras pactar con Vox: \"Los acuerdos no gustan al 1",
+      "score": 5.64,
+      "words": [
+        {
+          "word": "jura",
+          "score": -2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "alcanzar",
           "score": 1
-        },
-        {
-          "word": "explotado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU juega a dos bandas en sus acuerdos con Irán y con Israel y Líbano: por qué ",
-      "score": 4.66,
-      "words": [
-        {
-          "word": "detener",
-          "score": -1
         },
         {
           "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "dilema",
-          "score": -1
-        },
+          "word": "jura",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "De la Torre optará a la reelección en Málaga a los 84 años y tras 27 como alcald",
+      "score": 5.44,
+      "words": [
         {
-          "word": "problema",
+          "word": "puesto",
           "score": -2
         },
         {
-          "word": "farsa",
-          "score": -2
+          "word": "retirada",
+          "score": -3
+        },
+        {
+          "word": "eficaz",
+          "score": 2
+        },
+        {
+          "word": "leal",
+          "score": 3
+        },
+        {
+          "word": "comprometido",
+          "score": 1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-15T16:15:40Z",
-      "score": 4.57
-    },
     {
       "timestamp": "2026-06-15T20:22:59Z",
       "score": 4.77
@@ -1059,6 +1055,10 @@
     {
       "timestamp": "2026-07-05T12:13:26Z",
       "score": 4.69
+    },
+    {
+      "timestamp": "2026-07-05T14:39:23Z",
+      "score": 4.51
     }
   ]
 }

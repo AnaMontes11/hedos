@@ -1,13 +1,9 @@
 {
-  "generated": "2026-07-05T20:10:57Z",
-  "global_score": 4.61,
-  "articles_scored": 89,
-  "words_matched": 279,
+  "generated": "2026-07-05T21:58:15Z",
+  "global_score": 4.72,
+  "articles_scored": 87,
+  "words_matched": 269,
   "top_negative": [
-    {
-      "word": "violación",
-      "score": -4
-    },
     {
       "word": "culo",
       "score": -4
@@ -17,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "violencia",
+      "word": "retirada",
       "score": -3
     },
     {
@@ -33,21 +29,17 @@
       "score": -3
     },
     {
-      "word": "retirada",
+      "word": "cubrir",
+      "score": -3
+    },
+    {
+      "word": "delitos",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "magnífico",
-      "score": 5
-    },
-    {
       "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
       "score": 4
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "vigilante",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.95,
-    "elDiario.es": 5.14,
-    "El Mundo": 4.97,
-    "ABC": 5.11,
-    "El Confidencial": 4.39,
+    "El País": 5.31,
+    "elDiario.es": 5.11,
+    "El Mundo": 4.81,
+    "ABC": 5.29,
+    "El Confidencial": 4.05,
     "BBC Mundo": 4.49,
-    "France 24 ES": 4.86,
-    "La Nación AR": 4.75,
+    "France 24 ES": 4.6,
+    "La Nación AR": 5.55,
     "La Jornada MX": 4.24,
     "Desinformémonos": 4.33,
-    "Resumen Latinoam.": 4.15
+    "Resumen Latinoam.": 3.99
   },
   "articles": [
     {
@@ -106,43 +106,6 @@
     },
     {
       "source": "El País",
-      "title": "Qué ha ocurrido con La Manada diez años después",
-      "score": 1.8,
-      "words": [
-        {
-          "word": "violación",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Diez años de La Manada: la respuesta contra la violencia sexual que cambió Españ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Brasil - Noruega: Mundial 2026, en directo | Gol anulado a Berg por fuera de jue",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "lesionado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "La FIFA retira la tarjeta roja al goleador estadounidense Balogun tras una llama",
       "score": 3.4,
       "words": [
@@ -154,35 +117,12 @@
     },
     {
       "source": "El País",
-      "title": "Azzedine Ounahi, el centrocampista de Marruecos que apoyó las protestas de los j",
-      "score": 5.0,
+      "title": "Brasil - Noruega, el partido de octavos del Mundial, en directo | Doblete de Haa",
+      "score": 5.8,
       "words": [
         {
-          "word": "protestas",
-          "score": -2
-        },
-        {
-          "word": "favor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Egipto se quita la espina mundialista en el gran último baile de Salah",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "ganado",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
+          "word": "lanzado",
+          "score": 1
         }
       ]
     },
@@ -214,9 +154,46 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "Isaac del Toro se impone en Montjuïc en un final de exhibición del UAE de Pogaca",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "impone",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Dos familias frente al calor extremo: los Fernández en Córdoba y los Chevallier ",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "calor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Gabriel Rufián, el auge del líder (percibido como) auténtico",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "alabado",
+          "score": 3
+        },
+        {
+          "word": "favorito",
+          "score": 2
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
-      "title": "Un incendio en Castellón obliga a evacuar Azuébar, en pleno parque natural de la",
-      "score": 5.6,
+      "title": "El incendio de Castellón se descontrola, entra en el parque natural de la sierra",
+      "score": 5.28,
       "words": [
         {
           "word": "natural",
@@ -231,8 +208,8 @@
           "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
+          "word": "afectado",
+          "score": -1
         },
         {
           "word": "obligado",
@@ -401,13 +378,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez Pedraz imputa a la presidenta de la SEPI y a otras 24 personas en el 'ca",
+      "score": 5.62,
+      "words": [
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "víctima",
+          "score": -3
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "rescate",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-16T09:23:34Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-06-16T15:01:20Z",
       "score": 4.65
@@ -1075,6 +1075,10 @@
     {
       "timestamp": "2026-07-05T20:10:57Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-07-05T21:58:15Z",
+      "score": 4.72
     }
   ]
 }

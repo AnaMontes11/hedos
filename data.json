@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-05T10:08:53Z",
-  "global_score": 4.73,
-  "articles_scored": 91,
-  "words_matched": 368,
+  "generated": "2026-07-05T12:13:26Z",
+  "global_score": 4.69,
+  "articles_scored": 87,
+  "words_matched": 370,
   "top_negative": [
     {
       "word": "violación",
@@ -55,6 +55,10 @@
       "score": 3
     },
     {
+      "word": "amor",
+      "score": 3
+    },
+    {
       "word": "celebrado",
       "score": 3
     },
@@ -65,21 +69,17 @@
     {
       "word": "lealtad",
       "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.89,
+    "El País": 4.77,
     "elDiario.es": 4.77,
-    "El Mundo": 4.38,
-    "ABC": 5.32,
-    "El Confidencial": 5.08,
-    "BBC Mundo": 4.49,
+    "El Mundo": 4.47,
+    "ABC": 5.02,
+    "El Confidencial": 4.68,
+    "BBC Mundo": 4.6,
     "France 24 ES": 4.41,
-    "La Nación AR": 5.46,
+    "La Nación AR": 5.67,
     "La Jornada MX": 4.24,
     "Desinformémonos": 4.33,
     "Resumen Latinoam.": 4.75
@@ -104,43 +104,6 @@
         {
           "word": "intereses",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "¿Diplomático o sirviente de Trump? La estrategia de Rutte para salvar la OTAN",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "salvar",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Diez años de La Manada: la respuesta contra la violencia sexual que cambió Españ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "violencia",
-          "score": -3
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Qué ha ocurrido con La Manada diez años después",
-      "score": 1.8,
-      "words": [
-        {
-          "word": "violación",
-          "score": -4
         }
       ]
     },
@@ -173,20 +136,42 @@
     },
     {
       "source": "El País",
-      "title": "Los diarios secretos del último amor de Lorca: “Mi dolor fue mío, sin posibles c",
-      "score": 4.73,
+      "title": "Qué ha ocurrido con La Manada diez años después",
+      "score": 1.8,
       "words": [
         {
-          "word": "amor",
+          "word": "violación",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Diez años de La Manada: la respuesta contra la violencia sexual que cambió Españ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "violencia",
+          "score": -3
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Gabriel Rufián, el auge del líder (percibido como) auténtico",
+      "score": 7.0,
+      "words": [
+        {
+          "word": "alabado",
           "score": 3
         },
         {
-          "word": "dolor",
-          "score": -2
-        },
-        {
-          "word": "abandonar",
-          "score": -2
+          "word": "favorito",
+          "score": 2
         }
       ]
     },
@@ -198,6 +183,17 @@
         {
           "word": "calor",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Madrid, laboratorio de la ‘desokupación’",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "expulsar",
+          "score": -2
         }
       ]
     },
@@ -257,33 +253,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez se escuda en la \"verdad construida\" por la derecha para rebajar el umbra",
-      "score": 4.42,
-      "words": [
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "acoso",
-          "score": -2
-        },
-        {
-          "word": "restos",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Hechos y datos para desmontar el bulo del pucherazo electoral que corre a la vel",
       "score": 4.84,
       "words": [
@@ -306,6 +275,33 @@
         {
           "word": "fraude",
           "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez se escuda en la \"verdad construida\" por la derecha para rebajar el umbra",
+      "score": 4.42,
+      "words": [
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "restos",
+          "score": -2
+        },
+        {
+          "word": "delitos",
+          "score": -3
+        },
+        {
+          "word": "justicia",
+          "score": 2
         }
       ]
     },
@@ -392,10 +388,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-15T10:27:38Z",
-      "score": 4.79
-    },
     {
       "timestamp": "2026-06-15T16:15:40Z",
       "score": 4.57
@@ -1063,6 +1055,10 @@
     {
       "timestamp": "2026-07-05T10:08:53Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-07-05T12:13:26Z",
+      "score": 4.69
     }
   ]
 }

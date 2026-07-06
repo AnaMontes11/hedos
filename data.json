@@ -1,6 +1,6 @@
 {
-  "generated": "2026-07-06T12:01:52Z",
-  "global_score": 4.67,
+  "generated": "2026-07-06T16:17:39Z",
+  "global_score": 4.62,
   "articles_scored": 86,
   "words_matched": 255,
   "top_negative": [
@@ -17,11 +17,15 @@
       "score": -4
     },
     {
-      "word": "retirada",
+      "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "escándalo",
       "score": -3
     },
     {
-      "word": "racistas",
+      "word": "retirada",
       "score": -3
     },
     {
@@ -29,11 +33,7 @@
       "score": -3
     },
     {
-      "word": "morir",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
+      "word": "delitos",
       "score": -3
     }
   ],
@@ -43,97 +43,94 @@
       "score": 5
     },
     {
-      "word": "triunfo",
+      "word": "brillante",
       "score": 4
-    },
-    {
-      "word": "felicidad",
-      "score": 3
-    },
-    {
-      "word": "premio",
-      "score": 3
     },
     {
       "word": "suerte",
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
+      "word": "celebra",
       "score": 3
     },
     {
       "word": "mejor",
       "score": 3
+    },
+    {
+      "word": "riqueza",
+      "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.67,
-    "elDiario.es": 5.19,
-    "El Mundo": 4.21,
-    "ABC": 4.65,
-    "El Confidencial": 4.3,
-    "BBC Mundo": 4.49,
-    "France 24 ES": 5.51,
-    "La Nación AR": 5.33,
+    "El País": 4.71,
+    "elDiario.es": 5.12,
+    "El Mundo": 4.22,
+    "ABC": 4.89,
+    "El Confidencial": 4.65,
+    "BBC Mundo": 4.75,
+    "France 24 ES": 4.3,
+    "La Nación AR": 5.16,
     "La Jornada MX": 4.01,
-    "Desinformémonos": 4.33,
-    "Resumen Latinoam.": 4.5
+    "Desinformémonos": 4.43,
+    "Resumen Latinoam.": 4.47
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Feijóo promete implantar a nivel nacional la ley del concebido no nacido de Ayus",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "concesión",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El PP bloquea en el Senado el tratado de amistad y cooperación entre España y Fr",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La respuesta de la UEFA a la retirada de la roja de Balogun por parte de la FIFA",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "integridad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La FIFA retira la tarjeta roja al goleador estadounidense Balogun tras una llama",
+      "title": "La injerencia de Trump ante la FIFA provoca un escándalo en el Mundial: el presi",
       "score": 3.4,
       "words": [
         {
-          "word": "expulsado",
+          "word": "provoca",
+          "score": -1
+        },
+        {
+          "word": "escándalo",
+          "score": -3
+        },
+        {
+          "word": "admite",
+          "score": -1
+        },
+        {
+          "word": "retirada",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump vuelve a burlarse de Meloni en vísperas de la cumbre de la OTAN y certific",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "ruptura",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cristiano exprime su final ante Lamine el día que España busca los cuartos contr",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "mito",
+          "score": -1
+        },
+        {
+          "word": "ojalá",
+          "score": 2
         }
       ]
     },
@@ -162,20 +159,12 @@
     },
     {
       "source": "El País",
-      "title": "Quiénes son los supremacistas blancos enmascarados que desfilaron el 4 de julio ",
-      "score": 3.93,
+      "title": "Feijóo promete implantar a nivel nacional la ley del concebido no nacido de Ayus",
+      "score": 5.8,
       "words": [
         {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "visión",
+          "word": "concesión",
           "score": 1
-        },
-        {
-          "word": "racistas",
-          "score": -3
         }
       ]
     },
@@ -265,28 +254,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La gran transferencia: quién paga y quién recibe 28.000 millones de euros en alq",
-      "score": 5.53,
+      "title": "La Fiscalía apoya autorizar los viajes a Ankara y Londres que solicitó Begoña Gó",
+      "score": 4.75,
       "words": [
         {
-          "word": "paga",
-          "score": -1
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "creciente",
+          "word": "permitir",
           "score": 1
         },
         {
-          "word": "capacidad",
-          "score": 2
+          "word": "retirada",
+          "score": -3
         },
         {
-          "word": "pagado",
-          "score": 2
+          "word": "resolver",
+          "score": 1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "abandonar",
+          "score": -2
         }
       ]
     },
@@ -340,6 +329,33 @@
         },
         {
           "word": "advierte",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La jueza de la dana dice que cuenta con \"abundantísima prueba\" que \"desmiente\" a",
+      "score": 4.84,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "validar",
+          "score": 1
+        },
+        {
+          "word": "riesgo",
           "score": -2
         }
       ]
@@ -400,10 +416,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-17T06:07:18Z",
-      "score": 4.94
-    },
     {
       "timestamp": "2026-06-17T11:44:15Z",
       "score": 4.89
@@ -1071,6 +1083,10 @@
     {
       "timestamp": "2026-07-06T12:01:52Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-07-06T16:17:39Z",
+      "score": 4.62
     }
   ]
 }

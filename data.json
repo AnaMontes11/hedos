@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T16:17:39Z",
-  "global_score": 4.62,
-  "articles_scored": 86,
-  "words_matched": 255,
+  "generated": "2026-07-06T18:52:44Z",
+  "global_score": 4.68,
+  "articles_scored": 95,
+  "words_matched": 268,
   "top_negative": [
     {
       "word": "negro",
@@ -14,10 +14,6 @@
     },
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "violación",
       "score": -4
     },
     {
@@ -33,7 +29,11 @@
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "vil",
       "score": -3
     }
   ],
@@ -43,46 +43,46 @@
       "score": 5
     },
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "brillante",
       "score": 4
     },
     {
+      "word": "súper",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "vigilante",
+      "score": 3
+    },
+    {
+      "word": "excelente",
+      "score": 3
+    },
+    {
       "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "celebra",
-      "score": 3
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "bueno",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.71,
-    "elDiario.es": 5.12,
-    "El Mundo": 4.22,
-    "ABC": 4.89,
-    "El Confidencial": 4.65,
+    "El País": 4.82,
+    "elDiario.es": 5.22,
+    "El Mundo": 4.43,
+    "ABC": 4.84,
+    "El Confidencial": 4.28,
     "BBC Mundo": 4.75,
-    "France 24 ES": 4.3,
-    "La Nación AR": 5.16,
+    "France 24 ES": 4.81,
+    "La Nación AR": 4.43,
     "La Jornada MX": 4.01,
-    "Desinformémonos": 4.43,
-    "Resumen Latinoam.": 4.47
+    "Desinformémonos": 4.71,
+    "Resumen Latinoam.": 4.72
   },
   "articles": [
     {
@@ -110,6 +110,17 @@
     },
     {
       "source": "El País",
+      "title": "Los memes de la ‘tarjeta Trump’ que ha salvado a Balogun",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "salvado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Trump vuelve a burlarse de Meloni en vísperas de la cumbre de la OTAN y certific",
       "score": 3.4,
       "words": [
@@ -121,16 +132,39 @@
     },
     {
       "source": "El País",
-      "title": "Cristiano exprime su final ante Lamine el día que España busca los cuartos contr",
-      "score": 5.4,
+      "title": "El juzgado autoriza a Begoña Gómez a viajar a Londres a la graduación de su hija",
+      "score": 6.2,
       "words": [
         {
-          "word": "mito",
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "unido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Sánchez se arma de datos para defenderse de los ataques de Trump por la negativa",
+      "score": 5.2,
+      "words": [
+        {
+          "word": "ataques",
           "score": -1
         },
         {
-          "word": "ojalá",
-          "score": 2
+          "word": "aumentar",
+          "score": 1
+        },
+        {
+          "word": "aliviado",
+          "score": 3
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -159,6 +193,21 @@
     },
     {
       "source": "El País",
+      "title": "El PP bloquea en el Senado el tratado de amistad y cooperación entre España y Fr",
+      "score": 4.6,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Feijóo promete implantar a nivel nacional la ley del concebido no nacido de Ayus",
       "score": 5.8,
       "words": [
@@ -169,32 +218,29 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Los jueces achacan la “sensación” de ‘lawfare’ a la “instrumentalización” de la ",
-      "score": 6.2,
+      "source": "elDiario.es",
+      "title": "El juez sustituto de Peinado permite viajar a Begoña Gómez a Londres pero no a l",
+      "score": 5.76,
       "words": [
         {
-          "word": "sensación",
+          "word": "permitir",
           "score": 1
         },
         {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El sesgo político en la percepción de la independencia judicial, al detalle",
-      "score": 5.4,
-      "words": [
+          "word": "permitir",
+          "score": 1
+        },
         {
-          "word": "impone",
+          "word": "cumplir",
+          "score": 2
+        },
+        {
+          "word": "espera",
           "score": -1
         },
         {
-          "word": "imparcial",
-          "score": 2
+          "word": "parada",
+          "score": -1
         }
       ]
     },
@@ -249,33 +295,6 @@
         {
           "word": "aprueba",
           "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Fiscalía apoya autorizar los viajes a Ankara y Londres que solicitó Begoña Gó",
-      "score": 4.75,
-      "words": [
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "abandonar",
-          "score": -2
         }
       ]
     },
@@ -386,40 +405,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Leire Díez sostiene que su detención fue \"desproporcionada e injustificada\" y pi",
-      "score": 5.07,
-      "words": [
-        {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "detención",
-          "score": -2
-        },
-        {
-          "word": "lanzado",
-          "score": 1
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "autoridad",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-17T11:44:15Z",
-      "score": 4.89
-    },
     {
       "timestamp": "2026-06-17T15:19:52Z",
       "score": 4.91
@@ -1087,6 +1075,10 @@
     {
       "timestamp": "2026-07-06T16:17:39Z",
       "score": 4.62
+    },
+    {
+      "timestamp": "2026-07-06T18:52:44Z",
+      "score": 4.68
     }
   ]
 }

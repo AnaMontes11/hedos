@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T02:54:04Z",
-  "global_score": 4.75,
+  "generated": "2026-07-06T07:09:52Z",
+  "global_score": 4.67,
   "articles_scored": 88,
-  "words_matched": 265,
+  "words_matched": 341,
   "top_negative": [
     {
       "word": "negro",
@@ -13,37 +13,45 @@
       "score": -4
     },
     {
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "torturado",
+      "score": -4
+    },
+    {
+      "word": "infierno",
+      "score": -4
+    },
+    {
       "word": "fraudes",
       "score": -4
     },
     {
-      "word": "retirada",
+      "word": "morir",
       "score": -3
     },
     {
-      "word": "perdiendo",
-      "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "culpa",
-      "score": -3
-    },
-    {
-      "word": "cubrir",
+      "word": "criminal",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "alegría",
+      "score": 4
+    },
+    {
       "word": "ganador",
       "score": 4
     },
     {
-      "word": "triunfo",
+      "word": "bendición",
       "score": 4
     },
     {
@@ -55,31 +63,23 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "brillar",
       "score": 3
     },
     {
-      "word": "ventilador",
-      "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
-    },
-    {
-      "word": "caro",
+      "word": "admira",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.23,
-    "elDiario.es": 5.11,
+    "El País": 5.15,
+    "elDiario.es": 5.12,
     "El Mundo": 4.14,
-    "ABC": 4.85,
-    "El Confidencial": 4.39,
-    "BBC Mundo": 3.87,
+    "ABC": 5.02,
+    "El Confidencial": 4.85,
+    "BBC Mundo": 4.4,
     "France 24 ES": 5.21,
-    "La Nación AR": 5.91,
+    "La Nación AR": 3.8,
     "La Jornada MX": 4.24,
     "Desinformémonos": 4.33,
     "Resumen Latinoam.": 5.02
@@ -87,20 +87,58 @@
   "articles": [
     {
       "source": "El País",
-      "title": "La paradoja de Trump en Venezuela: el apoyo a un régimen al que prometió derroca",
-      "score": 5.8,
+      "title": "El sesgo político en la percepción de la independencia judicial, al detalle",
+      "score": 5.4,
       "words": [
         {
-          "word": "paradoja",
+          "word": "impone",
           "score": -1
         },
         {
-          "word": "apoyo",
+          "word": "imparcial",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Asimetría de la justicia",
+      "score": 6.0,
+      "words": [
+        {
+          "word": "justicia",
           "score": 2
         },
         {
-          "word": "respalda",
+          "word": "justicia",
           "score": 2
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "activo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ian Linnell: “El crecimiento en España podría ralentizarse si se echa el freno s",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "negativo",
+          "score": -2
         }
       ]
     },
@@ -117,317 +155,279 @@
     },
     {
       "source": "El País",
-      "title": "50 años buscando a Pertur",
-      "score": 4.36,
+      "title": "Cristiano exprime su final ante Lamine el día que España busca los cuartos contr",
+      "score": 5.4,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "dejar",
+          "word": "mito",
           "score": -1
         },
         {
-          "word": "defensor",
-          "score": 2
-        },
-        {
-          "word": "abandonar",
-          "score": -2
-        },
-        {
-          "word": "desaparece",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Isaac del Toro se impone en Montjuïc en un final de exhibición del UAE de Pogaca",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "impone",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Dos familias frente al calor extremo: los Fernández en Córdoba y los Chevallier ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "calor",
+          "word": "ojalá",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Gabriel Rufián, el auge del líder (percibido como) auténtico",
-      "score": 7.0,
+      "title": "Inglaterra termina con el sueño mundial de México",
+      "score": 6.2,
       "words": [
         {
-          "word": "alabado",
+          "word": "sueño",
+          "score": 1
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La gran transferencia: quién paga y quién recibe 28.000 millones de euros en alq",
+      "score": 5.53,
+      "words": [
+        {
+          "word": "paga",
+          "score": -1
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "creciente",
+          "score": 1
+        },
+        {
+          "word": "capacidad",
+          "score": 2
+        },
+        {
+          "word": "pagado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La estación del AVE de Elche, el sobrecoste que no logró 'colar' Koldo García a ",
+      "score": 4.59,
+      "words": [
+        {
+          "word": "litigio",
+          "score": -1
+        },
+        {
+          "word": "beneficio",
+          "score": 2
+        },
+        {
+          "word": "prometido",
+          "score": 1
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "contencioso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La nueva hoja de ruta de Telemadrid refuerza el control de Ayuso sobre la televi",
+      "score": 5.24,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "mayor",
           "score": 3
         },
         {
-          "word": "favorito",
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Fiestas, comuniones y actos de Esperanza Aguirre: todo lo que la Púnica pagó al ",
+      "score": 5.39,
+      "words": [
+        {
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "esperanza",
+          "score": 2
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "tipo",
+          "score": 2
+        },
+        {
+          "word": "favores",
           "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El incendio de Castellón se descontrola, entra en el parque natural de la sierra",
-      "score": 5.28,
+      "title": "El PSOE se pone en marcha de cara al ciclo electoral: primarias en julio en cinc",
+      "score": 5.27,
       "words": [
         {
-          "word": "natural",
-          "score": 1
+          "word": "celebrar",
+          "score": 3
         },
         {
-          "word": "natural",
-          "score": 1
+          "word": "limpiar",
+          "score": 2
         },
         {
-          "word": "fuego",
+          "word": "condenado",
           "score": -2
         },
         {
-          "word": "afectado",
-          "score": -1
+          "word": "condenar",
+          "score": -2
         },
         {
-          "word": "obligado",
-          "score": 1
+          "word": "delitos",
+          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Los Bomberos levantan los confinamientos en Girona tras estabilizar el incendio",
-      "score": 5.08,
+      "title": "🎙 PODCAST | Del “corazón asín de ancho” al “no más menas”",
+      "score": 5.5,
       "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "provocado",
-          "score": -1
-        },
-        {
-          "word": "daños",
-          "score": -2
-        },
         {
           "word": "miedo",
           "score": -2
         },
         {
-          "word": "derecho",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "traicionado",
+          "score": -3
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "viva",
           "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El incendio de Loporzano se encuentra ya perimetrado tras calcinar 250 hectáreas",
-      "score": 5.36,
+      "title": "La OTAN se juega su futuro ante el vendaval de desplantes de Trump",
+      "score": 4.88,
       "words": [
         {
-          "word": "espera",
+          "word": "presión",
           "score": -1
         },
         {
-          "word": "rescate",
-          "score": 2
+          "word": "guerra",
+          "score": -2
         },
         {
-          "word": "natural",
+          "word": "intereses",
           "score": 1
         },
         {
-          "word": "activo",
-          "score": 2
+          "word": "celebrar",
+          "score": 3
         },
         {
-          "word": "activo",
-          "score": 2
+          "word": "castigar",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Declarado un incendio al sur de Pamplona en una zona de arbolado y campos de cer",
-      "score": 4.51,
+      "title": "Mensaje a los líderes europeos antes de la cumbre de la OTAN: nuestra seguridad ",
+      "score": 5.11,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
+          "word": "unido",
+          "score": 1
         },
         {
-          "word": "emergencia",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         },
         {
           "word": "carga",
           "score": -2
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "celebrar",
+          "score": 3
         },
         {
-          "word": "detenido",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Miles de personas forman una cadena humana para proteger un parque natural de Ma",
-      "score": 5.16,
-      "words": [
-        {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "proteger",
-          "score": 1
-        },
-        {
-          "word": "natural",
-          "score": 1
-        },
-        {
-          "word": "manifestantes",
+          "word": "carga",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Carlos Cuerpo: “La vivienda es la gran prioridad, pero no hay una bala de plata”",
-      "score": 5.54,
+      "title": "González Laya, exministra de Exteriores: “Aumentar el gasto en defensa en Europa",
+      "score": 5.21,
       "words": [
         {
-          "word": "éxito",
-          "score": 2
-        },
-        {
-          "word": "orgulloso",
-          "score": 2
-        },
-        {
-          "word": "mejora",
-          "score": 2
-        },
-        {
-          "word": "problema",
-          "score": -2
-        },
-        {
-          "word": "impulsar",
+          "word": "aumentar",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez se escuda en la \"verdad construida\" por la derecha para rebajar el umbra",
-      "score": 4.42,
-      "words": [
+        },
         {
-          "word": "acoso",
+          "word": "aumentar",
+          "score": 1
+        },
+        {
+          "word": "carga",
           "score": -2
         },
         {
-          "word": "acoso",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "restos",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez Pedraz imputa a la presidenta de la SEPI y a otras 24 personas en el 'ca",
-      "score": 5.62,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "víctima",
-          "score": -3
-        },
-        {
-          "word": "libertad",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "rescate",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trenes parados, carreteras licuadas y centrales detenidas: Europa vive solo un \"",
-      "score": 5.12,
-      "words": [
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "advierte",
+          "word": "guerra",
           "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-16T22:08:30Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-06-17T00:13:29Z",
       "score": 4.61
@@ -1095,6 +1095,10 @@
     {
       "timestamp": "2026-07-06T02:54:04Z",
       "score": 4.75
+    },
+    {
+      "timestamp": "2026-07-06T07:09:52Z",
+      "score": 4.67
     }
   ]
 }

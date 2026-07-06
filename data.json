@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T18:52:44Z",
-  "global_score": 4.68,
-  "articles_scored": 95,
-  "words_matched": 268,
+  "generated": "2026-07-06T20:50:12Z",
+  "global_score": 4.61,
+  "articles_scored": 87,
+  "words_matched": 251,
   "top_negative": [
     {
       "word": "negro",
@@ -43,16 +43,12 @@
       "score": 5
     },
     {
-      "word": "ganador",
+      "word": "victorias",
       "score": 4
     },
     {
       "word": "brillante",
       "score": 4
-    },
-    {
-      "word": "súper",
-      "score": 3
     },
     {
       "word": "amor",
@@ -67,24 +63,38 @@
       "score": 3
     },
     {
+      "word": "feliz",
+      "score": 3
+    },
+    {
       "word": "suerte",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.82,
+    "El País": 4.18,
     "elDiario.es": 5.22,
     "El Mundo": 4.43,
-    "ABC": 4.84,
-    "El Confidencial": 4.28,
+    "ABC": 4.77,
     "BBC Mundo": 4.75,
-    "France 24 ES": 4.81,
-    "La Nación AR": 4.43,
+    "France 24 ES": 4.46,
+    "La Nación AR": 4.31,
     "La Jornada MX": 4.01,
     "Desinformémonos": 4.71,
-    "Resumen Latinoam.": 4.72
+    "Resumen Latinoam.": 4.95
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Portugal - España, el partido de octavos de final del Mundial en directo | El en",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "lesionado",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "La injerencia de Trump ante la FIFA provoca un escándalo en el Mundial: el presi",
@@ -121,12 +131,23 @@
     },
     {
       "source": "El País",
-      "title": "Trump vuelve a burlarse de Meloni en vísperas de la cumbre de la OTAN y certific",
+      "title": "Con la suspensión de la sanción a Balogun, el presidente del Comité Disciplinari",
       "score": 3.4,
       "words": [
         {
-          "word": "ruptura",
+          "word": "conflictiva",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cacicada de Infantino y Trump",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "retirada",
+          "score": -3
         }
       ]
     },
@@ -193,27 +214,12 @@
     },
     {
       "source": "El País",
-      "title": "El PP bloquea en el Senado el tratado de amistad y cooperación entre España y Fr",
-      "score": 4.6,
+      "title": "Trump vuelve a burlarse de Meloni en vísperas de la cumbre de la OTAN y certific",
+      "score": 3.4,
       "words": [
         {
-          "word": "acusa",
+          "word": "ruptura",
           "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Feijóo promete implantar a nivel nacional la ley del concebido no nacido de Ayus",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "concesión",
-          "score": 1
         }
       ]
     },
@@ -378,40 +384,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Dos trabajadoras del PSOE recurren la decisión de Pedraz de no anular la incauta",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-17T15:19:52Z",
-      "score": 4.91
-    },
     {
       "timestamp": "2026-06-17T18:12:29Z",
       "score": 4.92
@@ -1079,6 +1054,10 @@
     {
       "timestamp": "2026-07-06T18:52:44Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-07-06T20:50:12Z",
+      "score": 4.61
     }
   ]
 }

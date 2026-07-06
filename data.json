@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T07:09:52Z",
+  "generated": "2026-07-06T12:01:52Z",
   "global_score": 4.67,
-  "articles_scored": 88,
-  "words_matched": 341,
+  "articles_scored": 86,
+  "words_matched": 255,
   "top_negative": [
     {
       "word": "negro",
@@ -17,128 +17,112 @@
       "score": -4
     },
     {
-      "word": "torturado",
-      "score": -4
+      "word": "retirada",
+      "score": -3
     },
     {
-      "word": "infierno",
-      "score": -4
+      "word": "racistas",
+      "score": -3
     },
     {
-      "word": "fraudes",
-      "score": -4
+      "word": "asesinato",
+      "score": -3
     },
     {
       "word": "morir",
       "score": -3
     },
     {
-      "word": "criminal",
+      "word": "ilegal",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "triunfo",
       "score": 4
     },
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "bendición",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "vibrante",
+      "word": "felicidad",
       "score": 3
     },
     {
-      "word": "brillar",
+      "word": "premio",
       "score": 3
     },
     {
-      "word": "admira",
+      "word": "suerte",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "mejor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.15,
-    "elDiario.es": 5.12,
-    "El Mundo": 4.14,
-    "ABC": 5.02,
-    "El Confidencial": 4.85,
-    "BBC Mundo": 4.4,
-    "France 24 ES": 5.21,
-    "La Nación AR": 3.8,
-    "La Jornada MX": 4.24,
+    "El País": 4.67,
+    "elDiario.es": 5.19,
+    "El Mundo": 4.21,
+    "ABC": 4.65,
+    "El Confidencial": 4.3,
+    "BBC Mundo": 4.49,
+    "France 24 ES": 5.51,
+    "La Nación AR": 5.33,
+    "La Jornada MX": 4.01,
     "Desinformémonos": 4.33,
-    "Resumen Latinoam.": 5.02
+    "Resumen Latinoam.": 4.5
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El sesgo político en la percepción de la independencia judicial, al detalle",
-      "score": 5.4,
+      "title": "Feijóo promete implantar a nivel nacional la ley del concebido no nacido de Ayus",
+      "score": 5.8,
       "words": [
         {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "imparcial",
-          "score": 2
+          "word": "concesión",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Asimetría de la justicia",
-      "score": 6.0,
+      "title": "El PP bloquea en el Senado el tratado de amistad y cooperación entre España y Fr",
+      "score": 4.6,
       "words": [
         {
-          "word": "justicia",
-          "score": 2
+          "word": "acusa",
+          "score": -2
         },
         {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "activo",
-          "score": 2
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Ian Linnell: “El crecimiento en España podría ralentizarse si se echa el freno s",
-      "score": 4.47,
+      "title": "La respuesta de la UEFA a la retirada de la roja de Balogun por parte de la FIFA",
+      "score": 4.6,
       "words": [
         {
-          "word": "crecimiento",
+          "word": "retirada",
+          "score": -3
+        },
+        {
+          "word": "integridad",
           "score": 2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "negativo",
-          "score": -2
         }
       ]
     },
@@ -155,30 +139,126 @@
     },
     {
       "source": "El País",
-      "title": "Cristiano exprime su final ante Lamine el día que España busca los cuartos contr",
-      "score": 5.4,
+      "title": "Luto en Ribera del Duero por la muerte de un conocido bodeguero, su mujer y dos ",
+      "score": 3.4,
       "words": [
         {
-          "word": "mito",
-          "score": -1
+          "word": "luto",
+          "score": -2
         },
         {
-          "word": "ojalá",
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "accidente",
+          "score": -2
+        },
+        {
+          "word": "accidente",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Quiénes son los supremacistas blancos enmascarados que desfilaron el 4 de julio ",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "amenazas",
+          "score": -2
+        },
+        {
+          "word": "visión",
+          "score": 1
+        },
+        {
+          "word": "racistas",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los jueces achacan la “sensación” de ‘lawfare’ a la “instrumentalización” de la ",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "sensación",
+          "score": 1
+        },
+        {
+          "word": "justicia",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Inglaterra termina con el sueño mundial de México",
-      "score": 6.2,
+      "title": "El sesgo político en la percepción de la independencia judicial, al detalle",
+      "score": 5.4,
       "words": [
         {
-          "word": "sueño",
+          "word": "impone",
+          "score": -1
+        },
+        {
+          "word": "imparcial",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Feijóo anuncia una \"ley nacional del concebido no nacido\" como la de Ayuso si go",
+      "score": 5.82,
+      "words": [
+        {
+          "word": "orgulloso",
+          "score": 2
+        },
+        {
+          "word": "promovido",
           "score": 1
         },
         {
-          "word": "gracias",
+          "word": "limitado",
+          "score": -1
+        },
+        {
+          "word": "esperando",
+          "score": 2
+        },
+        {
+          "word": "esperando",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El concebido no nacido de Ayuso y la 'fetal personhood': así es la nueva estrate",
+      "score": 5.32,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "suspiro",
+          "score": -2
+        },
+        {
+          "word": "legal",
+          "score": 1
+        },
+        {
+          "word": "ganando",
+          "score": 2
+        },
+        {
+          "word": "aprueba",
           "score": 2
         }
       ]
@@ -212,226 +292,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La estación del AVE de Elche, el sobrecoste que no logró 'colar' Koldo García a ",
-      "score": 4.59,
+      "title": "El juzgado admite la demanda de Bolaños contra Aldama por decir en televisión qu",
+      "score": 5.34,
       "words": [
         {
-          "word": "litigio",
+          "word": "admite",
           "score": -1
         },
         {
-          "word": "beneficio",
-          "score": 2
+          "word": "demanda",
+          "score": -1
         },
         {
-          "word": "prometido",
-          "score": 1
+          "word": "admite",
+          "score": -1
         },
         {
-          "word": "sentencia",
-          "score": -2
+          "word": "demanda",
+          "score": -1
         },
         {
-          "word": "contencioso",
+          "word": "acusaciones",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La nueva hoja de ruta de Telemadrid refuerza el control de Ayuso sobre la televi",
-      "score": 5.24,
+      "title": "Delcy Rodríguez niega haber entregado un sobre de PDVSA a Aldama y pide que se r",
+      "score": 4.53,
       "words": [
         {
-          "word": "critica",
+          "word": "niega",
           "score": -2
         },
         {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Fiestas, comuniones y actos de Esperanza Aguirre: todo lo que la Púnica pagó al ",
-      "score": 5.39,
-      "words": [
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "esperanza",
-          "score": 2
-        },
-        {
-          "word": "sentencia",
+          "word": "niega",
           "score": -2
         },
-        {
-          "word": "tipo",
-          "score": 2
-        },
-        {
-          "word": "favores",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PSOE se pone en marcha de cara al ciclo electoral: primarias en julio en cinc",
-      "score": 5.27,
-      "words": [
         {
           "word": "celebrar",
           "score": 3
-        },
-        {
-          "word": "limpiar",
-          "score": 2
         },
         {
           "word": "condenado",
           "score": -2
         },
         {
-          "word": "condenar",
+          "word": "advierte",
           "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "🎙 PODCAST | Del “corazón asín de ancho” al “no más menas”",
-      "score": 5.5,
+      "title": "Dos trabajadoras del PSOE recurren la decisión de Pedraz de no anular la incauta",
+      "score": 5.0,
       "words": [
         {
-          "word": "miedo",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "traicionado",
-          "score": -3
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "viva",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La OTAN se juega su futuro ante el vendaval de desplantes de Trump",
-      "score": 4.88,
-      "words": [
-        {
-          "word": "presión",
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "fuerza",
+          "score": 2
         },
         {
-          "word": "intereses",
+          "word": "derecho",
           "score": 1
         },
         {
-          "word": "celebrar",
-          "score": 3
-        },
-        {
-          "word": "castigar",
+          "word": "tiempo",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Mensaje a los líderes europeos antes de la cumbre de la OTAN: nuestra seguridad ",
-      "score": 5.11,
+      "title": "Leire Díez sostiene que su detención fue \"desproporcionada e injustificada\" y pi",
+      "score": 5.07,
       "words": [
         {
-          "word": "unido",
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "detención",
+          "score": -2
+        },
+        {
+          "word": "lanzado",
           "score": 1
         },
         {
-          "word": "acuerdo",
+          "word": "fuerza",
+          "score": 2
+        },
+        {
+          "word": "autoridad",
           "score": 1
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "celebrar",
-          "score": 3
-        },
-        {
-          "word": "carga",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "González Laya, exministra de Exteriores: “Aumentar el gasto en defensa en Europa",
-      "score": 5.21,
-      "words": [
-        {
-          "word": "aumentar",
-          "score": 1
-        },
-        {
-          "word": "aumentar",
-          "score": 1
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "guerra",
-          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-17T00:13:29Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-06-17T06:07:18Z",
       "score": 4.94
@@ -1098,6 +1066,10 @@
     },
     {
       "timestamp": "2026-07-06T07:09:52Z",
+      "score": 4.67
+    },
+    {
+      "timestamp": "2026-07-06T12:01:52Z",
       "score": 4.67
     }
   ]

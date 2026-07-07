@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-06T22:11:09Z",
-  "global_score": 4.54,
-  "articles_scored": 87,
-  "words_matched": 252,
+  "generated": "2026-07-07T00:04:39Z",
+  "global_score": 4.64,
+  "articles_scored": 86,
+  "words_matched": 258,
   "top_negative": [
     {
       "word": "negro",
@@ -29,11 +29,11 @@
       "score": -3
     },
     {
-      "word": "asesinato",
+      "word": "mal",
       "score": -3
     },
     {
-      "word": "ilegal",
+      "word": "pierde",
       "score": -3
     }
   ],
@@ -43,7 +43,7 @@
       "score": 5
     },
     {
-      "word": "triunfo",
+      "word": "ganador",
       "score": 4
     },
     {
@@ -51,15 +51,7 @@
       "score": 4
     },
     {
-      "word": "emocionado",
-      "score": 3
-    },
-    {
-      "word": "vigilante",
-      "score": 3
-    },
-    {
-      "word": "excelente",
+      "word": "fiel",
       "score": 3
     },
     {
@@ -67,22 +59,30 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
+    },
+    {
+      "word": "sentido",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.53,
-    "elDiario.es": 5.22,
+    "elDiario.es": 5.15,
     "El Mundo": 5.57,
-    "ABC": 5.08,
+    "ABC": 5.25,
     "El Confidencial": 4.28,
     "BBC Mundo": 4.43,
-    "France 24 ES": 3.54,
-    "La Nación AR": 4.77,
+    "France 24 ES": 3.7,
+    "La Nación AR": 5.44,
     "La Jornada MX": 4.01,
-    "Desinformémonos": 4.4,
-    "Resumen Latinoam.": 3.93
+    "Desinformémonos": 4.46,
+    "Resumen Latinoam.": 4.17
   },
   "articles": [
     {
@@ -242,6 +242,114 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Los secundarios llevan a España a cuartos y despiden a Cristiano de los mundiale",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "solitario",
+          "score": -2
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "serio",
+          "score": 2
+        },
+        {
+          "word": "injusticia",
+          "score": -2
+        },
+        {
+          "word": "injusticia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Indiferencia por La Roja en el feudo 'indepe': \"A Lamine que no lo toquen\"",
+      "score": 4.68,
+      "words": [
+        {
+          "word": "indiferencia",
+          "score": -2
+        },
+        {
+          "word": "indiferencia",
+          "score": -2
+        },
+        {
+          "word": "pierde",
+          "score": -3
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "culo",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Cómo la FIFA suspendió la sanción al delantero de EEUU Balogun tras tres llamada",
+      "score": 5.02,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "ausencia",
+          "score": -2
+        },
+        {
+          "word": "progreso",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump cuenta su llamada a Infantino para levantar la sanción al delantero de EEU",
+      "score": 5.06,
+      "words": [
+        {
+          "word": "dejar",
+          "score": -1
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        },
+        {
+          "word": "injusto",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Feijóo anuncia una \"ley nacional del concebido no nacido\" como la de Ayuso si go",
       "score": 5.82,
       "words": [
@@ -293,121 +401,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juzgado admite la demanda de Bolaños contra Aldama por decir en televisión qu",
-      "score": 5.34,
-      "words": [
-        {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "demanda",
-          "score": -1
-        },
-        {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "demanda",
-          "score": -1
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Delcy Rodríguez niega haber entregado un sobre de PDVSA a Aldama y pide que se r",
-      "score": 4.53,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "celebrar",
-          "score": 3
-        },
-        {
-          "word": "condenado",
-          "score": -2
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La jueza de la dana dice que cuenta con \"abundantísima prueba\" que \"desmiente\" a",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "validar",
-          "score": 1
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Dos trabajadoras del PSOE recurren la decisión de Pedraz de no anular la incauta",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "fuerza",
-          "score": 2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-17T21:02:55Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-06-17T23:21:09Z",
       "score": 4.83
@@ -1075,6 +1071,10 @@
     {
       "timestamp": "2026-07-06T22:11:09Z",
       "score": 4.54
+    },
+    {
+      "timestamp": "2026-07-07T00:04:39Z",
+      "score": 4.64
     }
   ]
 }

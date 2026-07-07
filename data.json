@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-07T17:10:44Z",
-  "global_score": 4.66,
-  "articles_scored": 94,
-  "words_matched": 275,
+  "generated": "2026-07-07T19:50:28Z",
+  "global_score": 4.78,
+  "articles_scored": 91,
+  "words_matched": 284,
   "top_negative": [
     {
       "word": "fraude",
@@ -21,11 +21,7 @@
       "score": -4
     },
     {
-      "word": "falsificar",
-      "score": -3
-    },
-    {
-      "word": "abuso",
+      "word": "abusos",
       "score": -3
     },
     {
@@ -33,29 +29,33 @@
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "falsificar",
+      "score": -3
+    },
+    {
+      "word": "abuso",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "felicidad",
+      "word": "ganador",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "ganar",
+      "score": 4
+    },
+    {
+      "word": "emocionado",
       "score": 3
     },
     {
       "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "vibrante",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
-      "word": "amor",
       "score": 3
     },
     {
@@ -72,19 +72,30 @@
     }
   ],
   "per_source": {
-    "El País": 4.85,
-    "elDiario.es": 4.97,
-    "El Mundo": 4.77,
-    "ABC": 4.37,
+    "El País": 3.93,
+    "elDiario.es": 4.87,
+    "El Mundo": 4.71,
+    "ABC": 5.27,
     "El Confidencial": 4.86,
     "BBC Mundo": 4.59,
-    "France 24 ES": 4.13,
-    "La Nación AR": 5.45,
+    "France 24 ES": 4.44,
+    "La Nación AR": 6.32,
     "La Jornada MX": 4.66,
-    "Desinformémonos": 4.26,
+    "Desinformémonos": 3.96,
     "Resumen Latinoam.": 4.5
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Marine Le Pen será candidata en 2027 pese a estar condenada",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "promesa",
+          "score": 1
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Trump renueva sus amenazas sobre Groenlandia y carga en Ankara contra los aliado",
@@ -102,69 +113,35 @@
     },
     {
       "source": "El País",
-      "title": "Trump obvia a España en sus críticas uno por uno a los líderes europeos y Sánche",
-      "score": 3.8,
+      "title": "Argentina se levanta de la muerte y remonta a Egipto con tres goles en 15 minuto",
+      "score": 3.4,
       "words": [
         {
-          "word": "evitar",
-          "score": -1
+          "word": "muerte",
+          "score": -2
         },
         {
-          "word": "choque",
+          "word": "rebelión",
           "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "El tribunal rebaja la pena a Le Pen y abre la puerta a que sea candidata con un ",
-      "score": 5.53,
+      "title": "El Vaticano investiga al cardenal de Rabat, el español Cristóbal López, por acus",
+      "score": 2.87,
       "words": [
         {
-          "word": "pena",
+          "word": "acusaciones",
           "score": -2
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "abusos",
+          "score": -3
         },
         {
-          "word": "cumple",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Abascal defiende a Meloni ante el ataque de Trump: “No es normal tratar a los al",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "respalda",
-          "score": 2
-        },
-        {
-          "word": "bueno",
-          "score": 3
-        },
-        {
-          "word": "tipo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Argentina - Egipto, el partido de octavos de final del Mundial en directo | Egip",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "gracias",
-          "score": 2
+          "word": "retirada",
+          "score": -3
         }
       ]
     },
@@ -196,20 +173,9 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Gianni Infantino, un presidente de la FIFA que ha pasado de becario de LaLiga a ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
       "title": "Feijóo apuesta por recortar sueldo \"y prestaciones\" a los trabajadores de baja \"",
-      "score": 5.23,
+      "score": 4.96,
       "words": [
         {
           "word": "acuerdo",
@@ -230,6 +196,33 @@
         {
           "word": "ausencia",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Por qué España casi ha duplicado las bajas laborales desde 2016: los datos que a",
+      "score": 4.17,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "colapso",
+          "score": -2
+        },
+        {
+          "word": "enfermedad",
+          "score": -2
+        },
+        {
+          "word": "incapacidad",
+          "score": -2
+        },
+        {
+          "word": "fraude",
+          "score": -4
         }
       ]
     },
@@ -316,6 +309,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Mónica García y Rita Maestre ganan las primarias de Más Madrid para la Comunidad",
+      "score": 5.11,
+      "words": [
+        {
+          "word": "ganado",
+          "score": 2
+        },
+        {
+          "word": "ganado",
+          "score": 2
+        },
+        {
+          "word": "celebrado",
+          "score": 3
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El Supremo rechaza rebajar las costas que debe abonar el ex fiscal general para ",
       "score": 4.47,
       "words": [
@@ -370,35 +390,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Sala que resolverá el recurso de Begoña Gómez sobre Vito Quiles suspende la c",
-      "score": 4.38,
-      "words": [
-        {
-          "word": "disfrutando",
-          "score": 2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "resolver",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Trump vuelve a incendiar su relación con Europa: \"Groenlandia debería estar bajo",
-      "score": 4.7,
+      "score": 4.72,
       "words": [
         {
           "word": "amenazar",
@@ -421,13 +414,36 @@
           "score": -1
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Claves para entender la cumbre de la OTAN en Turquía: lo que se esconde tras las",
+      "score": 4.92,
+      "words": [
+        {
+          "word": "abandona",
+          "score": -2
+        },
+        {
+          "word": "deseo",
+          "score": 1
+        },
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "frases",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-18T19:25:09Z",
-      "score": 4.75
-    },
     {
       "timestamp": "2026-06-18T22:04:39Z",
       "score": 4.93
@@ -1095,6 +1111,10 @@
     {
       "timestamp": "2026-07-07T17:10:44Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-07-07T19:50:28Z",
+      "score": 4.78
     }
   ]
 }

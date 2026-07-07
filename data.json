@@ -1,20 +1,24 @@
 {
-  "generated": "2026-07-07T04:49:10Z",
-  "global_score": 4.73,
-  "articles_scored": 91,
-  "words_matched": 276,
+  "generated": "2026-07-07T08:20:03Z",
+  "global_score": 4.76,
+  "articles_scored": 83,
+  "words_matched": 248,
   "top_negative": [
+    {
+      "word": "culo",
+      "score": -4
+    },
     {
       "word": "molesto",
       "score": -4
     },
     {
-      "word": "torturas",
+      "word": "violación",
       "score": -4
     },
     {
-      "word": "escándalo",
-      "score": -3
+      "word": "torturas",
+      "score": -4
     },
     {
       "word": "retirada",
@@ -29,11 +33,7 @@
       "score": -3
     },
     {
-      "word": "pierde",
-      "score": -3
-    },
-    {
-      "word": "ilegal",
+      "word": "delito",
       "score": -3
     }
   ],
@@ -47,11 +47,11 @@
       "score": 4
     },
     {
-      "word": "premio",
+      "word": "excelencia",
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "emoción",
       "score": 3
     },
     {
@@ -72,19 +72,41 @@
     }
   ],
   "per_source": {
-    "El País": 4.5,
-    "elDiario.es": 5.14,
-    "El Mundo": 4.54,
-    "ABC": 5.62,
-    "El Confidencial": 4.68,
+    "El País": 4.98,
+    "elDiario.es": 4.94,
+    "El Mundo": 4.8,
+    "ABC": 4.94,
+    "El Confidencial": 5.09,
     "BBC Mundo": 4.62,
-    "France 24 ES": 5.01,
-    "La Nación AR": 4.62,
+    "France 24 ES": 5.07,
+    "La Nación AR": 5.53,
     "La Jornada MX": 4.01,
     "Desinformémonos": 4.22,
-    "Resumen Latinoam.": 4.75
+    "Resumen Latinoam.": 4.62
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Gianni Infantino, un presidente de la FIFA que ha pasado de becario de LaLiga a ",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "pasado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Lamine Yamal, contenido por Nuno Mendes: análisis uno por uno de los jugadores d",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Bélgica aplasta a Estados Unidos tras la polémica intervención de Trump con la F",
@@ -121,55 +143,6 @@
     },
     {
       "source": "El País",
-      "title": "El último sorbo en los Mundiales de Cristiano Ronaldo, que jugó todo el encuentr",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "suerte",
-          "score": 3
-        },
-        {
-          "word": "disputa",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Gianni Infantino, un presidente de la FIFA que ha pasado de becario de LaLiga a ",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La injerencia de Trump ante la FIFA provoca un escándalo en el Mundial: el presi",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "provoca",
-          "score": -1
-        },
-        {
-          "word": "escándalo",
-          "score": -3
-        },
-        {
-          "word": "admite",
-          "score": -1
-        },
-        {
-          "word": "retirada",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "Conmoción en la Ribera del Duero por la muerte de la familia de un conocido bode",
       "score": 3.4,
       "words": [
@@ -191,25 +164,6 @@
         {
           "word": "aumentar",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La OTAN ensaya en la cumbre de Ankara su coreografía para aplacar a Trump",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "cuidadosamente",
-          "score": 2
-        },
-        {
-          "word": "evitar",
-          "score": -1
-        },
-        {
-          "word": "choque",
-          "score": -2
         }
       ]
     },
@@ -242,55 +196,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez sustituto de Peinado permite viajar a Begoña Gómez a Londres pero no a l",
-      "score": 5.76,
+      "title": "La acusación popular pide que se investigue a Quirón por delito fiscal en el cas",
+      "score": 4.96,
       "words": [
         {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "permitir",
-          "score": 1
-        },
-        {
-          "word": "cumplir",
-          "score": 2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "parada",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo se dice \"orgulloso\" de los pactos con Vox pero se borra de las tomas de p",
-      "score": 5.09,
-      "words": [
-        {
-          "word": "orgulloso",
-          "score": 2
-        },
-        {
-          "word": "borra",
-          "score": 1
-        },
-        {
-          "word": "orgulloso",
-          "score": 2
-        },
-        {
-          "word": "borra",
-          "score": 1
-        },
-        {
-          "word": "solo",
+          "word": "acusación",
           "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "acusación",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
         }
       ]
     },
@@ -323,6 +250,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La Sala que resolverá el recurso de Begoña Gómez sobre Vito Quiles suspende la c",
+      "score": 4.38,
+      "words": [
+        {
+          "word": "disfrutando",
+          "score": 2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "resolver",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "¿Se pueden ganar unas elecciones autonómicas desde un despacho de ministra?",
       "score": 5.2,
       "words": [
@@ -344,33 +298,6 @@
         },
         {
           "word": "puesto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cuando el ciudadano deja de creer",
-      "score": 4.73,
-      "words": [
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "caído",
-          "score": -2
-        },
-        {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "claro",
-          "score": 1
-        },
-        {
-          "word": "solo",
           "score": -2
         }
       ]
@@ -401,13 +328,90 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Última hora sobre los incendios en España: estabilizado el fuego en Anoia y se l",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Turistas a la sombra y vecinos al sol: el cambio de una marquesina de bus indign",
+      "score": 5.08,
+      "words": [
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "parada",
+          "score": -1
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "presión",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El mapa del calor en España: compara la temperatura de cada día con la media his",
+      "score": 5.85,
+      "words": [
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "pasado",
+          "score": -1
+        },
+        {
+          "word": "calor",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-18T03:38:35Z",
-      "score": 4.8
-    },
     {
       "timestamp": "2026-06-18T08:43:08Z",
       "score": 4.72
@@ -1075,6 +1079,10 @@
     {
       "timestamp": "2026-07-07T04:49:10Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-07-07T08:20:03Z",
+      "score": 4.76
     }
   ]
 }

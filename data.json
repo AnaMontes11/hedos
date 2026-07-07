@@ -1,15 +1,19 @@
 {
-  "generated": "2026-07-07T08:20:03Z",
-  "global_score": 4.76,
-  "articles_scored": 83,
-  "words_matched": 248,
+  "generated": "2026-07-07T11:45:36Z",
+  "global_score": 4.7,
+  "articles_scored": 69,
+  "words_matched": 222,
   "top_negative": [
+    {
+      "word": "negro",
+      "score": -5
+    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "molesto",
+      "word": "infierno",
       "score": -4
     },
     {
@@ -21,33 +25,25 @@
       "score": -4
     },
     {
+      "word": "ilegal",
+      "score": -3
+    },
+    {
+      "word": "advertencia",
+      "score": -3
+    },
+    {
       "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "criminal",
-      "score": -3
-    },
-    {
-      "word": "delito",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "alegría",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "excelencia",
+      "word": "bueno",
       "score": 3
     },
     {
@@ -55,7 +51,7 @@
       "score": 3
     },
     {
-      "word": "ventilador",
+      "word": "alegremente",
       "score": 3
     },
     {
@@ -63,28 +59,60 @@
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "celebrado",
       "score": 3
     },
     {
       "word": "prestigio",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.98,
-    "elDiario.es": 4.94,
-    "El Mundo": 4.8,
-    "ABC": 4.94,
-    "El Confidencial": 5.09,
-    "BBC Mundo": 4.62,
-    "France 24 ES": 5.07,
-    "La Nación AR": 5.53,
-    "La Jornada MX": 4.01,
-    "Desinformémonos": 4.22,
-    "Resumen Latinoam.": 4.62
+    "El País": 5.08,
+    "elDiario.es": 5.05,
+    "El Mundo": 5.38,
+    "El Confidencial": 4.45,
+    "BBC Mundo": 4.99,
+    "France 24 ES": 4.26,
+    "La Jornada MX": 4.66,
+    "Desinformémonos": 4.29,
+    "Resumen Latinoam.": 4.44
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "El Gobierno eleva el techo de gasto hasta un récord de 226.032 millones para 202",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "aprueba",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Ayuso, sobre los presupuestos generales: “Buscan financiar a Cataluña por encima",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "déficit",
+          "score": -2
+        },
+        {
+          "word": "deuda",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Gianni Infantino, un presidente de la FIFA que ha pasado de becario de LaLiga a ",
@@ -93,17 +121,6 @@
         {
           "word": "pasado",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Lamine Yamal, contenido por Nuno Mendes: análisis uno por uno de los jugadores d",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
         }
       ]
     },
@@ -124,46 +141,39 @@
     },
     {
       "source": "El País",
-      "title": "Aparece Rodri, aparece España: MVP del partido contra Portugal, el jugador ha re",
-      "score": 5.27,
+      "title": "Lamine Yamal, contenido por Nuno Mendes: análisis uno por uno de los jugadores d",
+      "score": 7.4,
       "words": [
         {
           "word": "mejor",
           "score": 3
-        },
-        {
-          "word": "impone",
-          "score": -1
-        },
-        {
-          "word": "batalla",
-          "score": -1
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Conmoción en la Ribera del Duero por la muerte de la familia de un conocido bode",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "Carboneras aprueba anular la licencia de El Algarrobico tras el ultimátum de los",
+      "score": 5.27,
       "words": [
         {
-          "word": "muerte",
-          "score": -2
+          "word": "aprueba",
+          "score": 2
         },
         {
-          "word": "accidente",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La Europa de dos pilares debe estar preparada para defenderse",
-      "score": 5.8,
-      "words": [
+          "word": "aprueba",
+          "score": 2
+        },
         {
-          "word": "aumentar",
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "concedido",
           "score": 1
+        },
+        {
+          "word": "cumplir",
+          "score": 2
         }
       ]
     },
@@ -191,6 +201,60 @@
         {
           "word": "retirada",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno cuestiona que el sustituto de Peinado no deje a Begoña Gómez viajar ",
+      "score": 5.48,
+      "words": [
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "cuestionado",
+          "score": -1
+        },
+        {
+          "word": "permitir",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Sala que resolverá el recurso de Begoña Gómez sobre Vito Quiles suspende la c",
+      "score": 4.38,
+      "words": [
+        {
+          "word": "disfrutando",
+          "score": 2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "resolver",
+          "score": 1
         }
       ]
     },
@@ -250,172 +314,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La Sala que resolverá el recurso de Begoña Gómez sobre Vito Quiles suspende la c",
-      "score": 4.38,
+      "title": "El Gobierno da luz verde a un techo de gasto récord de 226.032 millones para los",
+      "score": 5.58,
       "words": [
         {
-          "word": "disfrutando",
+          "word": "aprueba",
           "score": 2
         },
         {
-          "word": "denuncia",
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "aprobado",
+          "score": 2
+        },
+        {
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "excluidos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno recupera una idea de Montoro en 2013 para tentar a las comunidades d",
+      "score": 5.45,
+      "words": [
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "déficit",
           "score": -2
         },
         {
-          "word": "agresión",
-          "score": -2
+          "word": "infierno",
+          "score": -4
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno aprueba la nueva ley de derecho al honor: qué cambios incluye sobre ",
+      "score": 5.37,
+      "words": [
+        {
+          "word": "aprueba",
+          "score": 2
         },
         {
-          "word": "denuncia",
-          "score": -2
+          "word": "derecho",
+          "score": 1
         },
         {
-          "word": "resolver",
+          "word": "honor",
+          "score": 2
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        },
+        {
+          "word": "derecho",
           "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "¿Se pueden ganar unas elecciones autonómicas desde un despacho de ministra?",
-      "score": 5.2,
+      "title": "Una niña de 15 años de mi familia fue asesinada por los suyos por negarse a casa",
+      "score": 4.47,
       "words": [
         {
-          "word": "ganar",
-          "score": 4
+          "word": "asesinato",
+          "score": -3
         },
         {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "alegría",
-          "score": 4
-        },
-        {
-          "word": "abandonar",
+          "word": "infantil",
           "score": -2
         },
         {
-          "word": "puesto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un cóctel de calor extremo y negligencias desata una ola de incendios que arrasa",
-      "score": 4.97,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "negligencias",
-          "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "negligencias",
-          "score": -2
-        },
-        {
-          "word": "accidentes",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Última hora sobre los incendios en España: estabilizado el fuego en Anoia y se l",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "alerta",
+          "word": "forzado",
           "score": -1
         },
         {
-          "word": "gracias",
-          "score": 2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Turistas a la sombra y vecinos al sol: el cambio de una marquesina de bus indign",
-      "score": 5.08,
-      "words": [
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "parada",
+          "word": "hacha",
           "score": -1
         },
         {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "presión",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El mapa del calor en España: compara la temperatura de cada día con la media his",
-      "score": 5.85,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "calor",
-          "score": 2
+          "word": "celebrar",
+          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-18T08:43:08Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-06-18T12:22:26Z",
       "score": 4.9
@@ -1083,6 +1089,10 @@
     {
       "timestamp": "2026-07-07T08:20:03Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-07-07T11:45:36Z",
+      "score": 4.7
     }
   ]
 }

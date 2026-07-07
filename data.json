@@ -1,13 +1,9 @@
 {
-  "generated": "2026-07-07T11:45:36Z",
+  "generated": "2026-07-07T14:25:43Z",
   "global_score": 4.7,
-  "articles_scored": 69,
-  "words_matched": 222,
+  "articles_scored": 88,
+  "words_matched": 240,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -25,37 +21,33 @@
       "score": -4
     },
     {
-      "word": "ilegal",
+      "word": "falsificar",
       "score": -3
     },
     {
-      "word": "advertencia",
+      "word": "terrible",
       "score": -3
     },
     {
-      "word": "retirada",
+      "word": "destruye",
+      "score": -3
+    },
+    {
+      "word": "peor",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
+      "word": "victorias",
       "score": 4
     },
     {
-      "word": "bueno",
-      "score": 3
+      "word": "ganador",
+      "score": 4
     },
     {
       "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "alegremente",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
       "score": 3
     },
     {
@@ -63,53 +55,90 @@
       "score": 3
     },
     {
-      "word": "prestigio",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "sentido",
+      "word": "riguroso",
+      "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "amor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.08,
-    "elDiario.es": 5.05,
-    "El Mundo": 5.38,
-    "El Confidencial": 4.45,
-    "BBC Mundo": 4.99,
-    "France 24 ES": 4.26,
+    "El País": 4.69,
+    "elDiario.es": 4.98,
+    "El Mundo": 5.15,
+    "ABC": 5.19,
+    "El Confidencial": 4.86,
+    "BBC Mundo": 4.51,
+    "France 24 ES": 4.35,
+    "La Nación AR": 5.4,
     "La Jornada MX": 4.66,
     "Desinformémonos": 4.29,
-    "Resumen Latinoam.": 4.44
+    "Resumen Latinoam.": 3.82
   },
   "articles": [
     {
       "source": "El País",
-      "title": "El Gobierno eleva el techo de gasto hasta un récord de 226.032 millones para 202",
-      "score": 6.6,
+      "title": "El tribunal rebaja la pena a Le Pen y abre la puerta a que sea candidata con un ",
+      "score": 5.53,
       "words": [
         {
-          "word": "aprueba",
+          "word": "pena",
+          "score": -2
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "cumple",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Ayuso, sobre los presupuestos generales: “Buscan financiar a Cataluña por encima",
-      "score": 3.4,
+      "title": "Última hora de la cumbre de la OTAN en Ankara, en directo | Trump vuelve a la ca",
+      "score": 3.8,
       "words": [
         {
-          "word": "déficit",
+          "word": "carga",
           "score": -2
         },
         {
-          "word": "deuda",
-          "score": -2
+          "word": "urgente",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Abascal defiende a Meloni ante el ataque de Trump: “No es normal tratar a los al",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "respalda",
+          "score": 2
+        },
+        {
+          "word": "bueno",
+          "score": 3
+        },
+        {
+          "word": "tipo",
+          "score": 2
         }
       ]
     },
@@ -126,54 +155,93 @@
     },
     {
       "source": "El País",
-      "title": "Bélgica aplasta a Estados Unidos tras la polémica intervención de Trump con la F",
-      "score": 3.8,
+      "title": "La justicia suspende la entrada en prisión del Pequeño Nicolás: de estar condena",
+      "score": 4.2,
       "words": [
         {
-          "word": "aplasta",
-          "score": -1
+          "word": "justicia",
+          "score": 2
         },
         {
-          "word": "polémica",
+          "word": "prisión",
           "score": -2
+        },
+        {
+          "word": "condenado",
+          "score": -2
+        },
+        {
+          "word": "condenado",
+          "score": -2
+        },
+        {
+          "word": "falsificar",
+          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Lamine Yamal, contenido por Nuno Mendes: análisis uno por uno de los jugadores d",
-      "score": 7.4,
+      "title": "La soledad de Leo Messi: tira a portería un 50% más que el resto de compañeros j",
+      "score": 4.2,
       "words": [
         {
-          "word": "mejor",
-          "score": 3
+          "word": "dudas",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Carboneras aprueba anular la licencia de El Algarrobico tras el ultimátum de los",
-      "score": 5.27,
+      "title": "Trump vuelve a incendiar su relación con Europa: \"Groenlandia debería estar bajo",
+      "score": 4.56,
       "words": [
         {
-          "word": "aprueba",
+          "word": "conflictos",
+          "score": -2
+        },
+        {
+          "word": "asegurado",
           "score": 2
         },
         {
-          "word": "aprueba",
-          "score": 2
+          "word": "solo",
+          "score": -2
         },
         {
-          "word": "aprueba",
-          "score": 2
+          "word": "mejor",
+          "score": 3
         },
         {
-          "word": "concedido",
+          "word": "cuidado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Claves para entender la cumbre de la OTAN en Turquía: lo que se esconde tras las",
+      "score": 4.92,
+      "words": [
+        {
+          "word": "abandona",
+          "score": -2
+        },
+        {
+          "word": "deseo",
           "score": 1
         },
         {
-          "word": "cumplir",
+          "word": "paz",
           "score": 2
+        },
+        {
+          "word": "libertad",
+          "score": 2
+        },
+        {
+          "word": "frases",
+          "score": -2
         }
       ]
     },
@@ -233,6 +301,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Supremo rechaza rebajar las costas que debe abonar el ex fiscal general para ",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "irracional",
+          "score": -1
+        },
+        {
+          "word": "condena",
+          "score": -2
+        },
+        {
+          "word": "parcial",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La Sala que resolverá el recurso de Begoña Gómez sobre Vito Quiles suspende la c",
       "score": 4.38,
       "words": [
@@ -287,28 +382,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "La desconfianza en la Justicia",
-      "score": 4.63,
+      "title": "El comandante investigado en el caso Koldo insiste en que Leire Díez le ofreció ",
+      "score": 5.07,
       "words": [
         {
-          "word": "desconfianza",
-          "score": -3
+          "word": "llegar",
+          "score": 1
         },
         {
-          "word": "justicia",
+          "word": "ratificado",
           "score": 2
         },
         {
-          "word": "desconfianza",
-          "score": -3
-        },
-        {
-          "word": "justicia",
+          "word": "facilitar",
           "score": 2
         },
         {
-          "word": "delitos",
-          "score": -3
+          "word": "ratificado",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -338,94 +433,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno recupera una idea de Montoro en 2013 para tentar a las comunidades d",
-      "score": 5.45,
-      "words": [
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "déficit",
-          "score": -2
-        },
-        {
-          "word": "infierno",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno aprueba la nueva ley de derecho al honor: qué cambios incluye sobre ",
-      "score": 5.37,
-      "words": [
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "honor",
-          "score": 2
-        },
-        {
-          "word": "aprueba",
-          "score": 2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Una niña de 15 años de mi familia fue asesinada por los suyos por negarse a casa",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "asesinato",
-          "score": -3
-        },
-        {
-          "word": "infantil",
-          "score": -2
-        },
-        {
-          "word": "forzado",
-          "score": -1
-        },
-        {
-          "word": "hacha",
-          "score": -1
-        },
-        {
-          "word": "celebrar",
-          "score": 3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-18T12:22:26Z",
-      "score": 4.9
-    },
     {
       "timestamp": "2026-06-18T16:27:43Z",
       "score": 4.8
@@ -1092,6 +1102,10 @@
     },
     {
       "timestamp": "2026-07-07T11:45:36Z",
+      "score": 4.7
+    },
+    {
+      "timestamp": "2026-07-07T14:25:43Z",
       "score": 4.7
     }
   ]

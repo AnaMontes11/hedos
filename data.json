@@ -1,23 +1,15 @@
 {
-  "generated": "2026-07-08T07:25:43Z",
-  "global_score": 4.66,
+  "generated": "2026-07-08T10:13:08Z",
+  "global_score": 4.58,
   "articles_scored": 89,
-  "words_matched": 253,
+  "words_matched": 264,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "fraude",
-      "score": -4
-    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -25,37 +17,41 @@
       "score": -4
     },
     {
-      "word": "delito",
+      "word": "violación",
+      "score": -4
+    },
+    {
+      "word": "infierno",
+      "score": -4
+    },
+    {
+      "word": "terrible",
       "score": -3
     },
     {
-      "word": "abuso",
+      "word": "horrible",
       "score": -3
     },
     {
-      "word": "cargado",
+      "word": "crisis",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "maravilloso",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "victorias",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "celebrando",
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "bueno",
+      "score": 3
+    },
+    {
+      "word": "riguroso",
       "score": 3
     },
     {
@@ -67,24 +63,81 @@
       "score": 3
     },
     {
-      "word": "emoción",
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.22,
-    "elDiario.es": 4.86,
-    "El Mundo": 5.5,
-    "ABC": 4.54,
-    "El Confidencial": 4.27,
-    "BBC Mundo": 3.59,
-    "France 24 ES": 4.81,
-    "La Nación AR": 5.18,
+    "El País": 4.98,
+    "elDiario.es": 4.51,
+    "El Mundo": 4.94,
+    "ABC": 5.41,
+    "El Confidencial": 3.91,
+    "BBC Mundo": 3.92,
+    "France 24 ES": 5.05,
+    "La Nación AR": 4.66,
     "La Jornada MX": 4.66,
-    "Desinformémonos": 3.93,
-    "Resumen Latinoam.": 4.7
+    "Desinformémonos": 3.87,
+    "Resumen Latinoam.": 4.28
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Trump da por rota la tregua con Irán: “Para mí, el acuerdo se ha terminado”",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Desplome súbito en los mercados al anunciar Trump el final del alto el fuego: el",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "pesimismo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Trump carga de nuevo contra España por su gasto en defensa y amenaza con cortar ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "cortar",
+          "score": -1
+        },
+        {
+          "word": "terrible",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Sí a Londres, pero no a Ankara: expertos ven en la decisión sobre Begoña Gómez u",
@@ -142,178 +195,136 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Argentina se levanta de la muerte y remonta a Egipto con tres goles en 15 minuto",
-      "score": 3.4,
+      "source": "elDiario.es",
+      "title": "Trump califica a España como \"un aliado horrible\" y advierte de que cortará las ",
+      "score": 4.79,
       "words": [
         {
-          "word": "muerte",
+          "word": "horrible",
+          "score": -3
+        },
+        {
+          "word": "advierte",
           "score": -2
         },
         {
-          "word": "rebelión",
+          "word": "horrible",
+          "score": -3
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "carga",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "Hossam Hassan, seleccionador de Egipto, denuncia la labor arbitral contra Argent",
-      "score": 4.84,
+      "source": "elDiario.es",
+      "title": "El Gobierno responde a la amenaza de Trump con \"tranquilidad\": \"Tenemos una magn",
+      "score": 3.53,
       "words": [
         {
-          "word": "denuncia",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "protesta",
+          "word": "amenaza",
           "score": -2
         },
         {
-          "word": "emoción",
+          "word": "horrible",
+          "score": -3
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "terrible",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La primera ministra de Dinamarca responde a Trump por Groenlandia: \"Defenderemos",
+      "score": 4.86,
+      "words": [
+        {
+          "word": "atacado",
+          "score": -1
+        },
+        {
+          "word": "celebrando",
           "score": 3
         },
         {
-          "word": "perder",
+          "word": "desgracia",
           "score": -2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso ha duplicado los pagos a Quirón desde que gobierna en solitario",
-      "score": 4.81,
-      "words": [
-        {
-          "word": "solitario",
-          "score": -2
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        },
-        {
-          "word": "procesado",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo apuesta por recortar sueldo \"y prestaciones\" a los trabajadores de baja \"",
-      "score": 4.96,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "cáncer",
-          "score": -1
-        },
-        {
-          "word": "ausencia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo contra el derecho a enfermar",
-      "score": 4.57,
-      "words": [
-        {
-          "word": "derecho",
-          "score": 1
         },
         {
           "word": "derecho",
           "score": 1
         },
         {
-          "word": "cáncer",
-          "score": -1
-        },
-        {
-          "word": "enfermo",
-          "score": -2
-        },
-        {
-          "word": "prometido",
-          "score": 1
+          "word": "integridad",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Las encuestas demuestran el coste que supone que los jueces se conviertan en act",
-      "score": 5.39,
+      "title": "Trump vuelve a incendiar su relación con Europa: \"Groenlandia debería estar bajo",
+      "score": 4.72,
       "words": [
         {
-          "word": "escepticismo",
+          "word": "amenazar",
           "score": -2
         },
         {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "desconfianza",
+          "word": "retirada",
           "score": -3
         },
         {
-          "word": "justicia",
+          "word": "conflictos",
+          "score": -2
+        },
+        {
+          "word": "asegurado",
           "score": 2
         },
         {
-          "word": "justicia",
-          "score": 2
+          "word": "espera",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El PP vuelve a excluir a los pensionistas de la pasarela de mutualistas a la Seg",
-      "score": 5.34,
+      "title": "Trump dice que el acuerdo de alto el fuego con Irán ha terminado, pero que las c",
+      "score": 4.55,
       "words": [
         {
-          "word": "excluir",
-          "score": -1
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "excluir",
-          "score": -1
+          "word": "fuego",
+          "score": -2
         },
         {
-          "word": "exclusión",
-          "score": -1
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "excluir",
-          "score": -1
+          "word": "fuego",
+          "score": -2
         },
         {
-          "word": "excluir",
+          "word": "ataques",
           "score": -1
         }
       ]
@@ -321,7 +332,7 @@
     {
       "source": "elDiario.es",
       "title": "EEUU lanza una \"potente\" ofensiva contra Irán y Teherán responde contra objetivo",
-      "score": 4.78,
+      "score": 4.64,
       "words": [
         {
           "word": "imponer",
@@ -347,91 +358,60 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Un agente del ICE mata a tiros a un migrante mexicano en Houston",
-      "score": 3.77,
+      "title": "Detrás de la marea humana por Jamenei: qué revela el funeral masivo sobre el apo",
+      "score": 4.74,
       "words": [
         {
-          "word": "evitar",
+          "word": "funeral",
           "score": -1
         },
         {
-          "word": "detenido",
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "funeral",
           "score": -1
         },
         {
-          "word": "culo",
-          "score": -4
-        },
-        {
-          "word": "legal",
-          "score": 1
-        },
-        {
-          "word": "culo",
-          "score": -4
+          "word": "apoyo",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "En las islas del Pacífico que ya sufren un dramático adelanto del ‘Superniño’: \"",
-      "score": 5.16,
+      "title": "Las bolsas se desploman y el petróleo escala un 5% después de que Trump anuncie ",
+      "score": 4.39,
       "words": [
         {
-          "word": "pacífico",
-          "score": 2
-        },
-        {
-          "word": "pacífico",
-          "score": 2
-        },
-        {
-          "word": "solo",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "pacífico",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Matías, Becky, Jerry... los testigos del Sinlaku, un tifón 'interminable'",
-      "score": 4.96,
-      "words": [
-        {
-          "word": "pacífico",
-          "score": 2
-        },
-        {
-          "word": "dios",
-          "score": 1
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "miedo",
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "víctimas",
+          "word": "pierde",
           "score": -3
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "cortar",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-19T17:21:08Z",
-      "score": 4.51
-    },
     {
       "timestamp": "2026-06-19T19:45:42Z",
       "score": 4.47
@@ -1099,6 +1079,10 @@
     {
       "timestamp": "2026-07-08T07:25:43Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-07-08T10:13:08Z",
+      "score": 4.58
     }
   ]
 }

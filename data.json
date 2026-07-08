@@ -1,19 +1,23 @@
 {
-  "generated": "2026-07-08T10:13:08Z",
-  "global_score": 4.58,
-  "articles_scored": 89,
-  "words_matched": 264,
+  "generated": "2026-07-08T12:17:36Z",
+  "global_score": 4.6,
+  "articles_scored": 93,
+  "words_matched": 240,
   "top_negative": [
-    {
-      "word": "culo",
-      "score": -4
-    },
     {
       "word": "fraude",
       "score": -4
     },
     {
+      "word": "culo",
+      "score": -4
+    },
+    {
       "word": "tortura",
+      "score": -4
+    },
+    {
+      "word": "escoria",
       "score": -4
     },
     {
@@ -29,60 +33,56 @@
       "score": -3
     },
     {
-      "word": "horrible",
-      "score": -3
-    },
-    {
-      "word": "crisis",
+      "word": "ducha",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
+      "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "celebrado",
+      "word": "vigilante",
       "score": 3
     },
     {
-      "word": "bueno",
+      "word": "celebrando",
       "score": 3
     },
     {
-      "word": "riguroso",
+      "word": "contento",
       "score": 3
     },
     {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "celebra",
+      "word": "suerte",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.98,
-    "elDiario.es": 4.51,
-    "El Mundo": 4.94,
-    "ABC": 5.41,
-    "El Confidencial": 3.91,
-    "BBC Mundo": 3.92,
+    "El País": 4.28,
+    "elDiario.es": 4.84,
+    "El Mundo": 4.35,
+    "ABC": 4.74,
+    "El Confidencial": 4.69,
+    "BBC Mundo": 4.52,
     "France 24 ES": 5.05,
-    "La Nación AR": 4.66,
-    "La Jornada MX": 4.66,
+    "La Nación AR": 6.04,
+    "La Jornada MX": 4.21,
     "Desinformémonos": 3.87,
-    "Resumen Latinoam.": 4.28
+    "Resumen Latinoam.": 4.36
   },
   "articles": [
     {
@@ -135,6 +135,10 @@
         {
           "word": "terrible",
           "score": -3
+        },
+        {
+          "word": "critica",
+          "score": -2
         }
       ]
     },
@@ -159,12 +163,16 @@
     },
     {
       "source": "El País",
-      "title": "¿Por qué la extrema derecha lidera las encuestas en Francia y Alemania?",
-      "score": 5.8,
+      "title": "14 gráficos para explicar el aumento de las bajas laborales en España",
+      "score": 3.8,
       "words": [
         {
-          "word": "llegar",
-          "score": 1
+          "word": "incapacidad",
+          "score": -2
+        },
+        {
+          "word": "cáncer",
+          "score": -1
         }
       ]
     },
@@ -185,19 +193,189 @@
     },
     {
       "source": "El País",
-      "title": "Suiza es más efectiva en los penales y Colombia lamenta su oportunidad perdida",
-      "score": 6.6,
+      "title": "Hossam Hassan, seleccionador de Egipto, denuncia la labor arbitral contra Argent",
+      "score": 4.84,
       "words": [
         {
-          "word": "oportunidad",
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "protesta",
+          "score": -2
+        },
+        {
+          "word": "emoción",
+          "score": 3
+        },
+        {
+          "word": "perder",
+          "score": -2
+        },
+        {
+          "word": "asegura",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Miguel Ángel Rodríguez y la ducha de después",
+      "score": 3.13,
+      "words": [
+        {
+          "word": "ducha",
+          "score": -3
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "fanáticos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Tribunal Supremo rechaza llevar la regularización de migrantes ante la justic",
+      "score": 5.4,
+      "words": [
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "rechaza",
+          "score": -1
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "amenazar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Cómo funcionan las bajas laborales y por qué no existen las faltas \"sin justific",
+      "score": 4.3,
+      "words": [
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "cierto",
+          "score": 2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "enfermedad",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La patronal celebra el discurso de Feijóo sobre las bajas laborales: \"Nos alegra",
+      "score": 5.43,
+      "words": [
+        {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "criticado",
+          "score": -2
+        },
+        {
+          "word": "problema",
+          "score": -2
+        },
+        {
+          "word": "soluciones",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez Peinado dice que no pretendía \"ofender\" a los escoltas de Begoña Gómez p",
+      "score": 4.49,
+      "words": [
+        {
+          "word": "ofender",
+          "score": -2
+        },
+        {
+          "word": "ofender",
+          "score": -2
+        },
+        {
+          "word": "fuga",
+          "score": -1
+        },
+        {
+          "word": "frase",
+          "score": -2
+        },
+        {
+          "word": "frase",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP vuelve a excluir a los pensionistas de la pasarela de mutualistas a la Seg",
+      "score": 5.34,
+      "words": [
+        {
+          "word": "excluir",
+          "score": -1
+        },
+        {
+          "word": "excluir",
+          "score": -1
+        },
+        {
+          "word": "exclusión",
+          "score": -1
+        },
+        {
+          "word": "excluir",
+          "score": -1
+        },
+        {
+          "word": "excluir",
+          "score": -1
         }
       ]
     },
     {
       "source": "elDiario.es",
       "title": "Trump califica a España como \"un aliado horrible\" y advierte de que cortará las ",
-      "score": 4.79,
+      "score": 4.97,
       "words": [
         {
           "word": "horrible",
@@ -247,175 +425,9 @@
           "score": -3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La primera ministra de Dinamarca responde a Trump por Groenlandia: \"Defenderemos",
-      "score": 4.86,
-      "words": [
-        {
-          "word": "atacado",
-          "score": -1
-        },
-        {
-          "word": "celebrando",
-          "score": 3
-        },
-        {
-          "word": "desgracia",
-          "score": -2
-        },
-        {
-          "word": "derecho",
-          "score": 1
-        },
-        {
-          "word": "integridad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump vuelve a incendiar su relación con Europa: \"Groenlandia debería estar bajo",
-      "score": 4.72,
-      "words": [
-        {
-          "word": "amenazar",
-          "score": -2
-        },
-        {
-          "word": "retirada",
-          "score": -3
-        },
-        {
-          "word": "conflictos",
-          "score": -2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump dice que el acuerdo de alto el fuego con Irán ha terminado, pero que las c",
-      "score": 4.55,
-      "words": [
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU lanza una \"potente\" ofensiva contra Irán y Teherán responde contra objetivo",
-      "score": 4.64,
-      "words": [
-        {
-          "word": "imponer",
-          "score": -1
-        },
-        {
-          "word": "atacado",
-          "score": -1
-        },
-        {
-          "word": "violado",
-          "score": -2
-        },
-        {
-          "word": "paz",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Detrás de la marea humana por Jamenei: qué revela el funeral masivo sobre el apo",
-      "score": 4.74,
-      "words": [
-        {
-          "word": "funeral",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "funeral",
-          "score": -1
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las bolsas se desploman y el petróleo escala un 5% después de que Trump anuncie ",
-      "score": 4.39,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "pierde",
-          "score": -3
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "cortar",
-          "score": -1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-19T19:45:42Z",
-      "score": 4.47
-    },
     {
       "timestamp": "2026-06-19T21:07:35Z",
       "score": 4.41
@@ -1083,6 +1095,10 @@
     {
       "timestamp": "2026-07-08T10:13:08Z",
       "score": 4.58
+    },
+    {
+      "timestamp": "2026-07-08T12:17:36Z",
+      "score": 4.6
     }
   ]
 }

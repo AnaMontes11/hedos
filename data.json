@@ -1,15 +1,11 @@
 {
-  "generated": "2026-07-08T12:17:36Z",
-  "global_score": 4.6,
-  "articles_scored": 93,
-  "words_matched": 240,
+  "generated": "2026-07-08T15:18:01Z",
+  "global_score": 4.67,
+  "articles_scored": 95,
+  "words_matched": 254,
   "top_negative": [
     {
       "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "culo",
       "score": -4
     },
     {
@@ -17,23 +13,27 @@
       "score": -4
     },
     {
-      "word": "escoria",
-      "score": -4
-    },
-    {
       "word": "violación",
       "score": -4
     },
     {
-      "word": "infierno",
-      "score": -4
-    },
-    {
-      "word": "terrible",
+      "word": "culpa",
       "score": -3
     },
     {
-      "word": "ducha",
+      "word": "crisis",
+      "score": -3
+    },
+    {
+      "word": "retirada",
+      "score": -3
+    },
+    {
+      "word": "abuso",
+      "score": -3
+    },
+    {
+      "word": "empeoramiento",
       "score": -3
     }
   ],
@@ -43,11 +43,7 @@
       "score": 5
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
+      "word": "alegría",
       "score": 4
     },
     {
@@ -55,40 +51,44 @@
       "score": 4
     },
     {
-      "word": "vigilante",
+      "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "euforia",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "celebrar",
       "score": 3
     },
     {
-      "word": "contento",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "suerte",
+      "word": "cortés",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.28,
-    "elDiario.es": 4.84,
-    "El Mundo": 4.35,
-    "ABC": 4.74,
-    "El Confidencial": 4.69,
-    "BBC Mundo": 4.52,
-    "France 24 ES": 5.05,
-    "La Nación AR": 6.04,
+    "El País": 4.73,
+    "elDiario.es": 4.82,
+    "El Mundo": 3.99,
+    "ABC": 5.96,
+    "El Confidencial": 4.9,
+    "BBC Mundo": 4.75,
+    "France 24 ES": 4.49,
+    "La Nación AR": 4.81,
     "La Jornada MX": 4.21,
-    "Desinformémonos": 3.87,
-    "Resumen Latinoam.": 4.36
+    "Desinformémonos": 4.1,
+    "Resumen Latinoam.": 4.27
   },
   "articles": [
     {
       "source": "El País",
       "title": "Trump da por rota la tregua con Irán: “Para mí, el acuerdo se ha terminado”",
-      "score": 5.0,
+      "score": 4.47,
       "words": [
         {
           "word": "acuerdo",
@@ -97,14 +97,22 @@
         {
           "word": "ataques",
           "score": -1
+        },
+        {
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Desplome súbito en los mercados al anunciar Trump el final del alto el fuego: el",
-      "score": 3.4,
+      "title": "Tensión máxima en los mercados al anunciar Trump el final del alto el fuego: el ",
+      "score": 3.67,
       "words": [
+        {
+          "word": "tensión",
+          "score": -1
+        },
         {
           "word": "fuego",
           "score": -2
@@ -117,46 +125,15 @@
     },
     {
       "source": "El País",
-      "title": "Trump carga de nuevo contra España por su gasto en defensa y amenaza con cortar ",
-      "score": 3.4,
+      "title": "Sánchez minimiza el ataque de Trump y dice que después de que llamara “mala gent",
+      "score": 4.2,
       "words": [
         {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "cortar",
+          "word": "ataque",
           "score": -1
         },
         {
-          "word": "terrible",
-          "score": -3
-        },
-        {
-          "word": "critica",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sí a Londres, pero no a Ankara: expertos ven en la decisión sobre Begoña Gómez u",
-      "score": 3.67,
-      "words": [
-        {
-          "word": "prohibición",
-          "score": -2
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "fuga",
+          "word": "cortar",
           "score": -1
         }
       ]
@@ -178,16 +155,31 @@
     },
     {
       "source": "El País",
-      "title": "Lamine y el día que Neymar le recordó cómo en 2015 corrió al servicio de Messi y",
-      "score": 7.0,
+      "title": "El PP matiza las palabras de Feijóo sobre las bajas laborales y las circunscribe",
+      "score": 3.93,
       "words": [
         {
-          "word": "mejor",
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "popular",
           "score": 3
         },
         {
-          "word": "compromiso",
-          "score": 2
+          "word": "culpa",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Mundial 2026: Programa ‘Fútbol chapa’ | Claves de la remontada de Argentina fren",
+      "score": 8.2,
+      "words": [
+        {
+          "word": "milagro",
+          "score": 4
         }
       ]
     },
@@ -219,28 +211,9 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Miguel Ángel Rodríguez y la ducha de después",
-      "score": 3.13,
-      "words": [
-        {
-          "word": "ducha",
-          "score": -3
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "fanáticos",
-          "score": -2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "El Tribunal Supremo rechaza llevar la regularización de migrantes ante la justic",
-      "score": 5.4,
+      "title": "El Tribunal Supremo rechaza llevar la regularización extraordinaria de migrantes",
+      "score": 4.91,
       "words": [
         {
           "word": "rechaza",
@@ -260,6 +233,33 @@
         },
         {
           "word": "amenazar",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Sánchez carga contra el discurso de Feijóo sobre las bajas laborales: \"Todo lo q",
+      "score": 5.17,
+      "words": [
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "recortes",
+          "score": -1
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "recortes",
+          "score": -1
+        },
+        {
+          "word": "polémica",
           "score": -2
         }
       ]
@@ -374,6 +374,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Una jueza abre la puerta a inhabilitar a Azcón para administrar bienes por rever",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "bienes",
+          "score": 2
+        },
+        {
+          "word": "concesión",
+          "score": 1
+        },
+        {
+          "word": "bienes",
+          "score": 2
+        },
+        {
+          "word": "concesión",
+          "score": 1
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump califica a España como \"un aliado horrible\" y advierte de que cortará las ",
       "score": 4.97,
       "words": [
@@ -398,40 +425,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno responde a la amenaza de Trump con \"tranquilidad\": \"Tenemos una magn",
-      "score": 3.53,
-      "words": [
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "horrible",
-          "score": -3
-        },
-        {
-          "word": "advierte",
-          "score": -2
-        },
-        {
-          "word": "terrible",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-19T21:07:35Z",
-      "score": 4.41
-    },
     {
       "timestamp": "2026-06-19T22:53:43Z",
       "score": 4.52
@@ -1099,6 +1095,10 @@
     {
       "timestamp": "2026-07-08T12:17:36Z",
       "score": 4.6
+    },
+    {
+      "timestamp": "2026-07-08T15:18:01Z",
+      "score": 4.67
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-08T00:02:16Z",
-  "global_score": 4.64,
-  "articles_scored": 79,
-  "words_matched": 256,
+  "generated": "2026-07-08T04:11:43Z",
+  "global_score": 4.76,
+  "articles_scored": 94,
+  "words_matched": 270,
   "top_negative": [
     {
       "word": "fraude",
@@ -13,19 +13,19 @@
       "score": -4
     },
     {
+      "word": "tortura",
+      "score": -4
+    },
+    {
       "word": "violación",
       "score": -4
     },
     {
-      "word": "abusos",
+      "word": "cubrir",
       "score": -3
     },
     {
-      "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "falsificar",
+      "word": "delito",
       "score": -3
     },
     {
@@ -39,11 +39,7 @@
   ],
   "top_positive": [
     {
-      "word": "alegría",
-      "score": 4
-    },
-    {
-      "word": "ganar",
+      "word": "milagro",
       "score": 4
     },
     {
@@ -51,73 +47,101 @@
       "score": 4
     },
     {
-      "word": "encanto",
-      "score": 3
+      "word": "victorias",
+      "score": 4
     },
     {
-      "word": "impresionante",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "suerte",
+      "word": "bueno",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.1,
-    "elDiario.es": 4.87,
-    "El Mundo": 4.66,
-    "El Confidencial": 4.86,
-    "BBC Mundo": 4.22,
-    "France 24 ES": 4.06,
-    "La Nación AR": 5.45,
+    "El País": 4.73,
+    "elDiario.es": 5.11,
+    "El Mundo": 5.84,
+    "ABC": 5.08,
+    "El Confidencial": 4.38,
+    "BBC Mundo": 3.59,
+    "France 24 ES": 4.86,
+    "La Nación AR": 5.51,
     "La Jornada MX": 4.66,
     "Desinformémonos": 3.93,
-    "Resumen Latinoam.": 5.59
+    "Resumen Latinoam.": 4.54
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Marine Le Pen será candidata en 2027 pese a estar condenada",
+      "title": "Los aliados europeos de la OTAN avanzan para cubrir el hueco de EE UU con mision",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "cubrir",
+          "score": -3
+        },
+        {
+          "word": "presión",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "¿Por qué la extrema derecha lidera las encuestas en Francia y Alemania?",
       "score": 5.8,
       "words": [
         {
-          "word": "promesa",
+          "word": "llegar",
           "score": 1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Trump renueva sus amenazas sobre Groenlandia y carga en Ankara contra los aliado",
-      "score": 3.4,
+      "title": "Sí a Londres, pero no a Ankara: expertos ven en la decisión sobre Begoña Gómez u",
+      "score": 3.67,
       "words": [
         {
-          "word": "amenazas",
+          "word": "prohibición",
           "score": -2
         },
         {
-          "word": "carga",
+          "word": "riesgo",
           "score": -2
+        },
+        {
+          "word": "fuga",
+          "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Estados Unidos lanza nuevos golpes contra Irán como represalia por los ataques c",
-      "score": 4.2,
+      "title": "Lamine y el día que Neymar le recordó cómo en 2015 corrió al servicio de Messi y",
+      "score": 7.0,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "compromiso",
+          "score": 2
         }
       ]
     },
@@ -165,47 +189,43 @@
     },
     {
       "source": "El País",
-      "title": "El Vaticano investiga al cardenal de Rabat, el español Cristóbal López, por acus",
-      "score": 2.87,
+      "title": "Robbie Williams: “Soy quien soy porque bebí y me drogué. De tener una máquina de",
+      "score": 5.0,
       "words": [
         {
-          "word": "acusaciones",
+          "word": "tiempo",
           "score": -2
         },
         {
-          "word": "abusos",
-          "score": -3
-        },
-        {
-          "word": "retirada",
-          "score": -3
+          "word": "favorito",
+          "score": 2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "La justicia suspende la entrada en prisión del Pequeño Nicolás: de estar condena",
-      "score": 4.2,
+      "source": "elDiario.es",
+      "title": "Ayuso ha duplicado los pagos de su Gobierno a Quirón desde 2021",
+      "score": 4.85,
       "words": [
         {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "prisión",
+          "word": "solitario",
           "score": -2
         },
         {
-          "word": "condenado",
+          "word": "solitario",
           "score": -2
         },
         {
-          "word": "condenado",
+          "word": "procesado",
           "score": -2
         },
         {
-          "word": "falsificar",
+          "word": "delito",
           "score": -3
+        },
+        {
+          "word": "procesado",
+          "score": -2
         }
       ]
     },
@@ -238,93 +258,47 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Por qué España casi ha duplicado las bajas laborales desde 2016: los datos que a",
-      "score": 4.17,
+      "title": "Feijóo contra el derecho a enfermar",
+      "score": 4.57,
       "words": [
         {
-          "word": "pasado",
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "cáncer",
           "score": -1
         },
         {
-          "word": "colapso",
+          "word": "enfermo",
           "score": -2
         },
         {
-          "word": "enfermedad",
-          "score": -2
-        },
-        {
-          "word": "incapacidad",
-          "score": -2
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Zapatero pide a Hacienda suspender la inspección contra él porque se abrió tras ",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "suspender",
-          "score": -1
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "sospecha",
-          "score": -1
-        },
-        {
-          "word": "joyas",
+          "word": "prometido",
           "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La Audiencia de Madrid decidirá el futuro judicial de Begoña Gómez tras las reso",
-      "score": 4.95,
+      "title": "Las encuestas demuestran el coste que supone que los jueces se conviertan en act",
+      "score": 5.39,
       "words": [
         {
-          "word": "popular",
-          "score": 3
+          "word": "escepticismo",
+          "score": -2
         },
         {
-          "word": "permitir",
-          "score": 1
+          "word": "justicia",
+          "score": 2
         },
         {
-          "word": "adopta",
-          "score": 1
-        },
-        {
-          "word": "resuelto",
-          "score": 1
-        },
-        {
-          "word": "retirada",
+          "word": "desconfianza",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Gobierno cuestiona que el sustituto de Peinado no deje a Begoña Gómez viajar ",
-      "score": 5.48,
-      "words": [
-        {
-          "word": "riesgo",
-          "score": -2
         },
         {
           "word": "justicia",
@@ -333,104 +307,119 @@
         {
           "word": "justicia",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El rechazo de Podemos a las ayudas fiscales a caseros que exige Junts complica e",
+      "score": 5.67,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "cuestionado",
-          "score": -1
+          "word": "puesto",
+          "score": -2
         },
         {
-          "word": "permitir",
+          "word": "claro",
           "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Mónica García y Rita Maestre ganan las primarias de Más Madrid para la Comunidad",
-      "score": 5.11,
-      "words": [
+        },
         {
-          "word": "ganado",
+          "word": "favor",
           "score": 2
         },
         {
-          "word": "ganado",
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno diseña un Presupuesto que dobla el último de Rajoy pero la falta de ",
+      "score": 4.62,
+      "words": [
+        {
+          "word": "apoyo",
           "score": 2
         },
         {
-          "word": "celebrado",
-          "score": 3
-        },
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Supremo rechaza rebajar las costas que debe abonar el ex fiscal general para ",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "irracional",
-          "score": -1
-        },
-        {
-          "word": "condena",
+          "word": "fracaso",
           "score": -2
         },
         {
-          "word": "parcial",
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "fracaso",
+          "score": -2
+        },
+        {
+          "word": "excluidos",
           "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "La acusación popular pide que se investigue a Quirón por delito fiscal en el cas",
-      "score": 4.96,
+      "title": "El Gobierno da luz verde a un techo de gasto récord de 226.032 millones para los",
+      "score": 5.58,
       "words": [
         {
-          "word": "acusación",
-          "score": -2
+          "word": "aprueba",
+          "score": 2
         },
         {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "delito",
+          "word": "peor",
           "score": -3
         },
         {
-          "word": "acusación",
-          "score": -2
+          "word": "aprobado",
+          "score": 2
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "superior",
+          "score": 2
+        },
+        {
+          "word": "excluidos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP vuelve a excluir a los pensionistas de la pasarela de mutualistas a la Seg",
+      "score": 5.34,
+      "words": [
+        {
+          "word": "excluir",
+          "score": -1
+        },
+        {
+          "word": "excluir",
+          "score": -1
+        },
+        {
+          "word": "exclusión",
+          "score": -1
+        },
+        {
+          "word": "excluir",
+          "score": -1
+        },
+        {
+          "word": "excluir",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-19T11:19:24Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-06-19T14:58:11Z",
       "score": 4.66
@@ -1098,6 +1087,10 @@
     {
       "timestamp": "2026-07-08T00:02:16Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-07-08T04:11:43Z",
+      "score": 4.76
     }
   ]
 }

@@ -1,11 +1,15 @@
 {
-  "generated": "2026-07-08T15:18:01Z",
-  "global_score": 4.67,
-  "articles_scored": 95,
-  "words_matched": 254,
+  "generated": "2026-07-08T17:25:43Z",
+  "global_score": 4.68,
+  "articles_scored": 98,
+  "words_matched": 255,
   "top_negative": [
     {
       "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "culo",
       "score": -4
     },
     {
@@ -13,15 +17,11 @@
       "score": -4
     },
     {
-      "word": "violación",
-      "score": -4
-    },
-    {
       "word": "culpa",
       "score": -3
     },
     {
-      "word": "crisis",
+      "word": "horrible",
       "score": -3
     },
     {
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "empeoramiento",
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -41,10 +41,6 @@
     {
       "word": "excepcional",
       "score": 5
-    },
-    {
-      "word": "alegría",
-      "score": 4
     },
     {
       "word": "ganar",
@@ -59,30 +55,34 @@
       "score": 3
     },
     {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "prestigio",
       "score": 3
     },
     {
       "word": "cortés",
       "score": 3
+    },
+    {
+      "word": "caro",
+      "score": 3
+    },
+    {
+      "word": "celebrando",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.73,
-    "elDiario.es": 4.82,
-    "El Mundo": 3.99,
-    "ABC": 5.96,
-    "El Confidencial": 4.9,
-    "BBC Mundo": 4.75,
-    "France 24 ES": 4.49,
-    "La Nación AR": 4.81,
+    "El País": 4.93,
+    "elDiario.es": 4.72,
+    "El Mundo": 4.11,
+    "ABC": 4.91,
+    "El Confidencial": 5.14,
+    "BBC Mundo": 4.62,
+    "France 24 ES": 4.33,
+    "La Nación AR": 5.91,
     "La Jornada MX": 4.21,
-    "Desinformémonos": 4.1,
-    "Resumen Latinoam.": 4.27
+    "Desinformémonos": 4.61,
+    "Resumen Latinoam.": 4.15
   },
   "articles": [
     {
@@ -106,20 +106,12 @@
     },
     {
       "source": "El País",
-      "title": "Tensión máxima en los mercados al anunciar Trump el final del alto el fuego: el ",
-      "score": 3.67,
+      "title": "Última hora de la cumbre de la OTAN, en Ankara, en directo | Trump dice que tien",
+      "score": 5.8,
       "words": [
         {
-          "word": "tensión",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "pesimismo",
-          "score": -2
+          "word": "comprometido",
+          "score": 1
         }
       ]
     },
@@ -155,12 +147,12 @@
     },
     {
       "source": "El País",
-      "title": "El PP matiza las palabras de Feijóo sobre las bajas laborales y las circunscribe",
-      "score": 3.93,
+      "title": "El PP matiza las palabras de Feijóo sobre las bajas laborales y Sánchez augura q",
+      "score": 4.73,
       "words": [
         {
-          "word": "fraude",
-          "score": -4
+          "word": "recortes",
+          "score": -1
         },
         {
           "word": "popular",
@@ -169,6 +161,29 @@
         {
           "word": "culpa",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“¡Me están matando!”: el grito de un inmigrante mexicano baleado por el ICE que ",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "grito",
+          "score": -2
+        },
+        {
+          "word": "denuncia",
+          "score": -2
+        },
+        {
+          "word": "muerte",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -212,35 +227,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Tribunal Supremo rechaza llevar la regularización extraordinaria de migrantes",
-      "score": 4.91,
-      "words": [
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "rechaza",
-          "score": -1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "amenazar",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Sánchez carga contra el discurso de Feijóo sobre las bajas laborales: \"Todo lo q",
-      "score": 5.17,
+      "score": 5.11,
       "words": [
         {
           "word": "carga",
@@ -261,6 +249,33 @@
         {
           "word": "polémica",
           "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los datos del aumento de bajas que desmienten el \"fraude\" masivo del \"absentismo",
+      "score": 4.38,
+      "words": [
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "enfermedad",
+          "score": -2
+        },
+        {
+          "word": "colapso",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -320,33 +335,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Peinado dice que no pretendía \"ofender\" a los escoltas de Begoña Gómez p",
-      "score": 4.49,
-      "words": [
-        {
-          "word": "ofender",
-          "score": -2
-        },
-        {
-          "word": "ofender",
-          "score": -2
-        },
-        {
-          "word": "fuga",
-          "score": -1
-        },
-        {
-          "word": "frase",
-          "score": -2
-        },
-        {
-          "word": "frase",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El PP vuelve a excluir a los pensionistas de la pasarela de mutualistas a la Seg",
       "score": 5.34,
       "words": [
@@ -369,33 +357,6 @@
         {
           "word": "excluir",
           "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Una jueza abre la puerta a inhabilitar a Azcón para administrar bienes por rever",
-      "score": 4.47,
-      "words": [
-        {
-          "word": "bienes",
-          "score": 2
-        },
-        {
-          "word": "concesión",
-          "score": 1
-        },
-        {
-          "word": "bienes",
-          "score": 2
-        },
-        {
-          "word": "concesión",
-          "score": 1
-        },
-        {
-          "word": "crisis",
-          "score": -3
         }
       ]
     },
@@ -425,13 +386,36 @@
           "score": -2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Gobierno responde a la amenaza de Trump con \"tranquilidad\": \"Tenemos una magn",
+      "score": 3.98,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "horrible",
+          "score": -3
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "terrible",
+          "score": -3
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-19T22:53:43Z",
-      "score": 4.52
-    },
     {
       "timestamp": "2026-06-20T00:07:02Z",
       "score": 4.53
@@ -1099,6 +1083,10 @@
     {
       "timestamp": "2026-07-08T15:18:01Z",
       "score": 4.67
+    },
+    {
+      "timestamp": "2026-07-08T17:25:43Z",
+      "score": 4.68
     }
   ]
 }

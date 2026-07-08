@@ -1,19 +1,15 @@
 {
-  "generated": "2026-07-08T21:03:27Z",
-  "global_score": 4.57,
-  "articles_scored": 90,
-  "words_matched": 279,
+  "generated": "2026-07-08T23:03:05Z",
+  "global_score": 4.55,
+  "articles_scored": 96,
+  "words_matched": 269,
   "top_negative": [
-    {
-      "word": "fraude",
-      "score": -4
-    },
     {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "tortura",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -21,19 +17,23 @@
       "score": -3
     },
     {
+      "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "destruir",
+      "score": -3
+    },
+    {
+      "word": "enemigos",
+      "score": -3
+    },
+    {
       "word": "horrible",
-      "score": -3
-    },
-    {
-      "word": "retirada",
-      "score": -3
-    },
-    {
-      "word": "abuso",
-      "score": -3
-    },
-    {
-      "word": "crisis",
       "score": -3
     }
   ],
@@ -45,6 +45,10 @@
     {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "fiel",
+      "score": 3
     },
     {
       "word": "amor",
@@ -59,30 +63,26 @@
       "score": 3
     },
     {
-      "word": "amado",
+      "word": "vigilante",
       "score": 3
     },
     {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "premios",
+      "word": "riguroso",
       "score": 3
     }
   ],
   "per_source": {
     "El País": 4.39,
-    "elDiario.es": 4.77,
-    "El Mundo": 4.08,
-    "ABC": 4.67,
+    "elDiario.es": 4.62,
+    "El Mundo": 3.95,
+    "ABC": 4.64,
     "El Confidencial": 5.04,
-    "BBC Mundo": 4.68,
-    "France 24 ES": 4.52,
-    "La Nación AR": 4.8,
+    "BBC Mundo": 4.97,
+    "France 24 ES": 4.37,
+    "La Nación AR": 4.49,
     "La Jornada MX": 4.21,
-    "Desinformémonos": 4.61,
-    "Resumen Latinoam.": 4.42
+    "Desinformémonos": 5.12,
+    "Resumen Latinoam.": 3.99
   },
   "articles": [
     {
@@ -231,116 +231,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Sánchez carga contra el discurso de Feijóo sobre las bajas laborales: \"Todo lo q",
-      "score": 5.11,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "polémica",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los datos del aumento de bajas que desmienten el \"fraude\" masivo del \"absentismo",
-      "score": 4.38,
-      "words": [
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "enfermedad",
-          "score": -2
-        },
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cómo funcionan las bajas laborales y por qué no existen las faltas \"sin justific",
-      "score": 4.3,
-      "words": [
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "cierto",
-          "score": 2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "popular",
-          "score": 3
-        },
-        {
-          "word": "enfermedad",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El PP vuelve a excluir a los pensionistas de la pasarela de mutualistas a la Seg",
-      "score": 5.34,
-      "words": [
-        {
-          "word": "excluir",
-          "score": -1
-        },
-        {
-          "word": "excluir",
-          "score": -1
-        },
-        {
-          "word": "exclusión",
-          "score": -1
-        },
-        {
-          "word": "excluir",
-          "score": -1
-        },
-        {
-          "word": "excluir",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU lanza una nueva oleada de ataques sobre Irán tras las amenazas de Trump",
-      "score": 4.39,
+      "title": "EEUU lanza una nueva oleada de ataques sobre Irán tras las amenazas de Trump \"en",
+      "score": 4.22,
       "words": [
         {
           "word": "ataques",
@@ -361,6 +253,33 @@
         {
           "word": "ataques",
           "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump dice que el acuerdo de alto el fuego con Irán ha terminado y amenaza con m",
+      "score": 4.32,
+      "words": [
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -393,6 +312,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El Gobierno responde a la amenaza de Trump con \"tranquilidad\": \"Tenemos una magn",
+      "score": 3.98,
+      "words": [
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "horrible",
+          "score": -3
+        },
+        {
+          "word": "advierte",
+          "score": -2
+        },
+        {
+          "word": "terrible",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Detrás de la marea humana por Jamenei: qué revela el funeral masivo sobre el apo",
       "score": 4.74,
       "words": [
@@ -417,13 +363,63 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La primera ministra de Dinamarca responde a Trump por Groenlandia: \"Defenderemos",
+      "score": 4.86,
+      "words": [
+        {
+          "word": "atacado",
+          "score": -1
+        },
+        {
+          "word": "celebrando",
+          "score": 3
+        },
+        {
+          "word": "desgracia",
+          "score": -2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "integridad",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Los datos del aumento de bajas que desmienten el \"fraude\" masivo del \"absentismo",
+      "score": 4.38,
+      "words": [
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "enfermedad",
+          "score": -2
+        },
+        {
+          "word": "colapso",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-20T08:50:54Z",
-      "score": 4.4
-    },
     {
       "timestamp": "2026-06-20T11:15:12Z",
       "score": 4.61
@@ -1091,6 +1087,10 @@
     {
       "timestamp": "2026-07-08T21:03:27Z",
       "score": 4.57
+    },
+    {
+      "timestamp": "2026-07-08T23:03:05Z",
+      "score": 4.55
     }
   ]
 }

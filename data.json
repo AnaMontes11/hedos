@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-08T17:25:43Z",
-  "global_score": 4.68,
-  "articles_scored": 98,
-  "words_matched": 255,
+  "generated": "2026-07-08T19:20:14Z",
+  "global_score": 4.56,
+  "articles_scored": 92,
+  "words_matched": 272,
   "top_negative": [
     {
       "word": "fraude",
@@ -43,19 +43,15 @@
       "score": 5
     },
     {
-      "word": "ganar",
-      "score": 4
-    },
-    {
       "word": "milagro",
       "score": 4
     },
     {
-      "word": "euforia",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
-      "word": "prestigio",
+      "word": "amor",
       "score": 3
     },
     {
@@ -63,28 +59,47 @@
       "score": 3
     },
     {
-      "word": "caro",
+      "word": "amado",
       "score": 3
     },
     {
-      "word": "celebrando",
+      "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "premios",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.93,
-    "elDiario.es": 4.72,
-    "El Mundo": 4.11,
-    "ABC": 4.91,
+    "El País": 4.37,
+    "elDiario.es": 4.8,
+    "El Mundo": 4.06,
+    "ABC": 5.08,
     "El Confidencial": 5.14,
     "BBC Mundo": 4.62,
-    "France 24 ES": 4.33,
-    "La Nación AR": 5.91,
+    "France 24 ES": 4.01,
+    "La Nación AR": 4.65,
     "La Jornada MX": 4.21,
     "Desinformémonos": 4.61,
-    "Resumen Latinoam.": 4.15
+    "Resumen Latinoam.": 4.25
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Trump lleva el caos a la cumbre de la OTAN de Ankara con insultos y piropos a su",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "insultos",
+          "score": -2
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Trump da por rota la tregua con Irán: “Para mí, el acuerdo se ha terminado”",
@@ -101,17 +116,6 @@
         {
           "word": "amenaza",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Última hora de la cumbre de la OTAN, en Ankara, en directo | Trump dice que tien",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "comprometido",
-          "score": 1
         }
       ]
     },
@@ -189,38 +193,11 @@
     },
     {
       "source": "El País",
-      "title": "Mundial 2026: Programa ‘Fútbol chapa’ | Claves de la remontada de Argentina fren",
-      "score": 8.2,
+      "title": "Bélgica calienta motores (y aviones) ante su duelo contra España",
+      "score": 6.6,
       "words": [
         {
-          "word": "milagro",
-          "score": 4
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Hossam Hassan, seleccionador de Egipto, denuncia la labor arbitral contra Argent",
-      "score": 4.84,
-      "words": [
-        {
-          "word": "denuncia",
-          "score": -2
-        },
-        {
-          "word": "protesta",
-          "score": -2
-        },
-        {
-          "word": "emoción",
-          "score": 3
-        },
-        {
-          "word": "perder",
-          "score": -2
-        },
-        {
-          "word": "asegura",
+          "word": "honor",
           "score": 2
         }
       ]
@@ -389,11 +366,15 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El Gobierno responde a la amenaza de Trump con \"tranquilidad\": \"Tenemos una magn",
-      "score": 3.98,
+      "title": "Trump dice que el acuerdo de alto el fuego con Irán ha terminado y amenaza con m",
+      "score": 4.32,
       "words": [
         {
-          "word": "amenaza",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "fuego",
           "score": -2
         },
         {
@@ -401,25 +382,44 @@
           "score": -2
         },
         {
-          "word": "horrible",
-          "score": -3
+          "word": "ataques",
+          "score": -1
         },
         {
-          "word": "advierte",
+          "word": "acuerdo",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Ibex cae un 3% y el petróleo escala un 5% después de que Trump anuncie el fin",
+      "score": 4.55,
+      "words": [
+        {
+          "word": "fuego",
           "score": -2
         },
         {
-          "word": "terrible",
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "pierde",
           "score": -3
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "cortar",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-20T00:07:02Z",
-      "score": 4.53
-    },
     {
       "timestamp": "2026-06-20T05:10:33Z",
       "score": 4.44
@@ -1087,6 +1087,10 @@
     {
       "timestamp": "2026-07-08T17:25:43Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-07-08T19:20:14Z",
+      "score": 4.56
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T20:44:17Z",
-  "global_score": 5.02,
-  "articles_scored": 97,
-  "words_matched": 206,
+  "generated": "2026-07-09T22:18:57Z",
+  "global_score": 5.03,
+  "articles_scored": 94,
+  "words_matched": 205,
   "top_negative": [
     {
       "word": "negro",
@@ -25,30 +25,26 @@
       "score": -3
     },
     {
+      "word": "delito",
+      "score": -3
+    },
+    {
       "word": "mal",
       "score": -3
     },
     {
       "word": "falso",
       "score": -3
-    },
-    {
-      "word": "delito",
-      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganar",
+      "word": "ganador",
       "score": 4
     },
     {
-      "word": "felicidad",
-      "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "premios",
@@ -69,20 +65,24 @@
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "excelencia",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.6,
-    "elDiario.es": 4.93,
-    "El Mundo": 5.34,
+    "El País": 4.89,
+    "elDiario.es": 4.89,
+    "El Mundo": 5.33,
     "ABC": 4.94,
     "El Confidencial": 5.21,
-    "BBC Mundo": 5.19,
-    "France 24 ES": 4.95,
-    "La Nación AR": 5.23,
+    "BBC Mundo": 5.41,
+    "France 24 ES": 4.96,
+    "La Nación AR": 5.73,
     "La Jornada MX": 4.47,
     "Desinformémonos": 4.6,
-    "Resumen Latinoam.": 5.38
+    "Resumen Latinoam.": 4.9
   },
   "articles": [
     {
@@ -113,12 +113,16 @@
     },
     {
       "source": "El País",
-      "title": "Francia - Marruecos: Mundial 2026, en directo | Bono detiene el penalti de Mbapp",
-      "score": 3.4,
+      "title": "Francia - Marruecos: Mundial 2026, en directo | Mbappé y Dembélé hunden a Marrue",
+      "score": 5.4,
       "words": [
         {
-          "word": "puesto",
-          "score": -2
+          "word": "ventaja",
+          "score": 2
+        },
+        {
+          "word": "detenido",
+          "score": -1
         }
       ]
     },
@@ -176,28 +180,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El PP vota en contra de que el Gobierno asuma el 50% del gasto en dependencia, p",
-      "score": 6.25,
+      "title": "El juez encarga a Asuntos Internos volver sobre la pista de Rajoy y Cospedal y r",
+      "score": 5.88,
       "words": [
         {
-          "word": "gracias",
-          "score": 2
+          "word": "asuntos",
+          "score": 1
         },
         {
-          "word": "apoyo",
-          "score": 2
+          "word": "asuntos",
+          "score": 1
         },
         {
-          "word": "mayor",
-          "score": 3
+          "word": "proteger",
+          "score": 1
         },
         {
-          "word": "popular",
-          "score": 3
+          "word": "aceptado",
+          "score": -1
         },
         {
-          "word": "compromiso",
-          "score": 2
+          "word": "asuntos",
+          "score": 1
         }
       ]
     },
@@ -392,10 +396,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-21T03:54:02Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-06-21T08:27:51Z",
       "score": 4.69
@@ -1063,6 +1063,10 @@
     {
       "timestamp": "2026-07-09T20:44:17Z",
       "score": 5.02
+    },
+    {
+      "timestamp": "2026-07-09T22:18:57Z",
+      "score": 5.03
     }
   ]
 }

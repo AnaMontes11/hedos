@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T16:25:06Z",
-  "global_score": 4.77,
+  "generated": "2026-07-09T18:47:52Z",
+  "global_score": 4.87,
   "articles_scored": 95,
-  "words_matched": 213,
+  "words_matched": 209,
   "top_negative": [
     {
       "word": "negro",
@@ -43,6 +43,18 @@
       "score": 4
     },
     {
+      "word": "triunfo",
+      "score": 4
+    },
+    {
+      "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
@@ -51,63 +63,51 @@
       "score": 3
     },
     {
-      "word": "prestigio",
+      "word": "amor",
       "score": 3
     },
     {
       "word": "riguroso",
       "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "mayor",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.55,
-    "elDiario.es": 4.71,
-    "El Mundo": 5.14,
-    "ABC": 4.61,
-    "El Confidencial": 5.45,
-    "BBC Mundo": 4.72,
-    "France 24 ES": 4.44,
-    "La Nación AR": 4.84,
+    "El País": 5.25,
+    "elDiario.es": 5.02,
+    "El Mundo": 5.29,
+    "ABC": 4.91,
+    "El Confidencial": 5.21,
+    "BBC Mundo": 5.03,
+    "France 24 ES": 3.96,
+    "La Nación AR": 4.6,
     "La Jornada MX": 4.47,
-    "Desinformémonos": 4.64,
-    "Resumen Latinoam.": 3.8
+    "Desinformémonos": 4.6,
+    "Resumen Latinoam.": 4.91
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Alemania cifra en más de 5.000 las muertes por la ola de calor de junio",
-      "score": 6.6,
+      "title": "Qué pasó en la cumbre de la OTAN de Ankara: los cinco minutos que cambiaron el h",
+      "score": 5.0,
       "words": [
         {
-          "word": "calor",
+          "word": "humor",
           "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "España afronta el final de la segunda ola de calor con la amenaza de un nuevo re",
-      "score": 5.0,
+      "title": "Los líderes de la OTAN no saben qué hacer con el regalo de Erdogan: un revólver ",
+      "score": 6.6,
       "words": [
         {
-          "word": "calor",
+          "word": "regalo",
           "score": 2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
         }
       ]
     },
@@ -139,23 +139,27 @@
     },
     {
       "source": "El País",
-      "title": "Los líderes de la OTAN no saben qué hacer con el regalo de Erdogan: un revólver ",
+      "title": "Alemania cifra en más de 5.000 las muertes por la ola de calor de junio",
       "score": 6.6,
       "words": [
         {
-          "word": "regalo",
+          "word": "calor",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Sánchez explicó en el plenario de la OTAN el aumento de gasto español hasta el 2",
-      "score": 7.4,
+      "title": "España afronta el final de la segunda ola de calor con la amenaza de un nuevo re",
+      "score": 5.0,
       "words": [
         {
-          "word": "amor",
-          "score": 3
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
         }
       ]
     },
@@ -182,6 +186,33 @@
         {
           "word": "mayor",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP vota en contra de que el Gobierno asuma el 50% del gasto en dependencia, p",
+      "score": 6.25,
+      "words": [
+        {
+          "word": "gracias",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "compromiso",
+          "score": 2
         }
       ]
     },
@@ -268,27 +299,27 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El juez Peinado dice que no pretendía \"ofender\" a los escoltas de Begoña Gómez p",
-      "score": 4.49,
+      "title": "Lastra recurre ante el Supremo su no renovación como fiscal superior de Madrid",
+      "score": 5.07,
       "words": [
         {
-          "word": "ofender",
-          "score": -2
+          "word": "superior",
+          "score": 2
         },
         {
-          "word": "ofender",
-          "score": -2
+          "word": "superior",
+          "score": 2
         },
         {
-          "word": "fuga",
+          "word": "pasado",
           "score": -1
         },
         {
-          "word": "frase",
-          "score": -2
+          "word": "demanda",
+          "score": -1
         },
         {
-          "word": "frase",
+          "word": "contencioso",
           "score": -2
         }
       ]
@@ -346,40 +377,9 @@
           "score": -4
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Aliança Catalana se come a Junts y compite con ERC por ser el segundo partido de",
-      "score": 5.87,
-      "words": [
-        {
-          "word": "ganar",
-          "score": 4
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "crecimiento",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-20T21:14:29Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-06-20T23:04:37Z",
       "score": 4.77
@@ -1047,6 +1047,10 @@
     {
       "timestamp": "2026-07-09T16:25:06Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-07-09T18:47:52Z",
+      "score": 4.87
     }
   ]
 }

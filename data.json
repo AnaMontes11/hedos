@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T06:45:29Z",
-  "global_score": 4.88,
-  "articles_scored": 90,
-  "words_matched": 293,
+  "generated": "2026-07-09T10:31:55Z",
+  "global_score": 4.85,
+  "articles_scored": 93,
+  "words_matched": 240,
   "top_negative": [
     {
       "word": "culo",
@@ -13,7 +13,7 @@
       "score": -4
     },
     {
-      "word": "fraudes",
+      "word": "violación",
       "score": -4
     },
     {
@@ -21,19 +21,19 @@
       "score": -3
     },
     {
-      "word": "muerto",
+      "word": "delito",
       "score": -3
     },
     {
-      "word": "terrible",
+      "word": "delitos",
       "score": -3
     },
     {
-      "word": "horrible",
+      "word": "violencia",
       "score": -3
     },
     {
-      "word": "mal",
+      "word": "crisis",
       "score": -3
     }
   ],
@@ -47,102 +47,60 @@
       "score": 4
     },
     {
-      "word": "fiel",
-      "score": 3
-    },
-    {
       "word": "prestigio",
       "score": 3
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "vibrante",
-      "score": 3
-    },
-    {
-      "word": "sentido",
+      "word": "riguroso",
       "score": 3
     },
     {
       "word": "celebrado",
       "score": 3
+    },
+    {
+      "word": "vigilante",
+      "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "perfectamente",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.89,
-    "elDiario.es": 4.65,
-    "El Mundo": 5.18,
-    "ABC": 5.31,
-    "El Confidencial": 5.67,
-    "BBC Mundo": 4.65,
-    "France 24 ES": 4.37,
-    "La Nación AR": 4.8,
+    "El País": 5.84,
+    "elDiario.es": 5.03,
+    "El Mundo": 5.33,
+    "ABC": 4.62,
+    "El Confidencial": 5.03,
+    "BBC Mundo": 4.79,
+    "France 24 ES": 3.99,
+    "La Nación AR": 4.7,
     "La Jornada MX": 4.21,
     "Desinformémonos": 5.12,
-    "Resumen Latinoam.": 4.4
+    "Resumen Latinoam.": 4.63
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Trump dice que España se “redimió por completo” al comprometerse a un pago impor",
-      "score": 5.4,
+      "title": "La Fiscalía acusa al juez Peinado de idear una “confabulación” para retirar el p",
+      "score": 3.67,
       "words": [
         {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "imponer",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Estados Unidos cumple la amenaza de Trump y lanza duros ataques contra Irán",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "cumple",
-          "score": 2
-        },
-        {
-          "word": "amenaza",
+          "word": "acusa",
           "score": -2
         },
         {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La cumbre de la OTAN y la otra ‘cumbre de Trump’",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "atacado",
-          "score": -1
-        },
-        {
-          "word": "despedido",
+          "word": "critica",
           "score": -2
         },
         {
-          "word": "alabando",
-          "score": 3
+          "word": "fuga",
+          "score": -1
         }
       ]
     },
@@ -171,42 +129,27 @@
     },
     {
       "source": "El País",
-      "title": "La Fiscalía acusa al juez Peinado de idear una “confabulación” para retirar el p",
-      "score": 3.67,
+      "title": "Trump dice que España se “redimió por completo” al comprometerse a un pago impor",
+      "score": 5.4,
       "words": [
         {
-          "word": "acusa",
-          "score": -2
+          "word": "importante",
+          "score": 2
         },
         {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "fuga",
+          "word": "imponer",
           "score": -1
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La trampa del PP para reabrir el debate del aborto",
-      "score": 4.2,
+      "title": "Sánchez explicó en el plenario de la OTAN el aumento de gasto español hasta el 2",
+      "score": 7.4,
       "words": [
         {
-          "word": "trampa",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La red de conserjes que da el chivatazo sobre pisos de lujo en venta en Madrid: ",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "muerto",
-          "score": -3
+          "word": "amor",
+          "score": 3
         }
       ]
     },
@@ -234,8 +177,143 @@
     },
     {
       "source": "elDiario.es",
+      "title": "La Fiscalía pide la absolución de Begoña Gómez en su escrito de conclusiones par",
+      "score": 4.76,
+      "words": [
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "autor",
+          "score": -2
+        },
+        {
+          "word": "delito",
+          "score": -3
+        },
+        {
+          "word": "autor",
+          "score": -2
+        },
+        {
+          "word": "beneficio",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La Fiscalía acusa a Peinado de inventarse \"una confabulación\" para impedir la sa",
+      "score": 4.69,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "ofender",
+          "score": -2
+        },
+        {
+          "word": "exponer",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La UCO apunta a que el ex jefe de gabinete de Sánchez tuvo \"una participación pr",
+      "score": 5.69,
+      "words": [
+        {
+          "word": "beneficios",
+          "score": 2
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "beneficios",
+          "score": 2
+        },
+        {
+          "word": "intereses",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Aliança Catalana se come a Junts y compite con ERC por ser el segundo partido de",
+      "score": 5.87,
+      "words": [
+        {
+          "word": "ganar",
+          "score": 4
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "crecimiento",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez ve indicios claros de que el exDAO cometió una agresión sexual y aboca l",
+      "score": 4.15,
+      "words": [
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "agresión",
+          "score": -2
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "celos",
+          "score": -1
+        },
+        {
+          "word": "violencia",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Trump dice ahora que España “se ha redimido por completo” tras comprometerse a u",
-      "score": 5.34,
+      "score": 5.36,
       "words": [
         {
           "word": "redimido",
@@ -288,43 +366,47 @@
     },
     {
       "source": "elDiario.es",
-      "title": "EEUU lanza una nueva oleada de ataques sobre Irán tras las amenazas de Trump \"en",
-      "score": 4.22,
+      "title": "El Gobierno asegura que el \"pago importante\" del que habla Trump solo es el aume",
+      "score": 5.48,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "amenazas",
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "solo",
           "score": -2
         },
         {
-          "word": "ataques",
-          "score": -1
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
+          "word": "importante",
+          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Un Irán envalentonado busca mantener el control del estrecho de Ormuz frente a l",
-      "score": 4.42,
+      "title": "Irán responde a la segunda noche de bombardeos de Trump con nuevos ataques contr",
+      "score": 4.57,
       "words": [
         {
           "word": "ataques",
           "score": -1
         },
         {
-          "word": "amenazas",
-          "score": -2
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
         },
         {
           "word": "ataques",
@@ -332,74 +414,12 @@
         },
         {
           "word": "amenazas",
-          "score": -2
-        },
-        {
-          "word": "tensión",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo asume las peticiones de la patronal y anticipa recortes en bajas médicas ",
-      "score": 4.45,
-      "words": [
-        {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "recortes",
-          "score": -1
-        },
-        {
-          "word": "dejar",
-          "score": -1
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        },
-        {
-          "word": "legalmente",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Feijóo comete el error de anunciar lo que hará en Moncloa con las bajas médicas",
-      "score": 4.54,
-      "words": [
-        {
-          "word": "error",
-          "score": -2
-        },
-        {
-          "word": "error",
-          "score": -2
-        },
-        {
-          "word": "inteligente",
-          "score": 1
-        },
-        {
-          "word": "cáncer",
-          "score": -1
-        },
-        {
-          "word": "cobrar",
           "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-20T15:44:56Z",
-      "score": 4.63
-    },
     {
       "timestamp": "2026-06-20T17:23:22Z",
       "score": 4.71
@@ -1067,6 +1087,10 @@
     {
       "timestamp": "2026-07-09T06:45:29Z",
       "score": 4.88
+    },
+    {
+      "timestamp": "2026-07-09T10:31:55Z",
+      "score": 4.85
     }
   ]
 }

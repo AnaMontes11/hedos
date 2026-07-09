@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T13:46:32Z",
-  "global_score": 4.78,
-  "articles_scored": 93,
-  "words_matched": 226,
+  "generated": "2026-07-09T16:25:06Z",
+  "global_score": 4.77,
+  "articles_scored": 95,
+  "words_matched": 213,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -3
     },
     {
-      "word": "víctima",
-      "score": -3
-    },
-    {
       "word": "delito",
       "score": -3
     },
@@ -35,19 +31,15 @@
     {
       "word": "matar",
       "score": -3
+    },
+    {
+      "word": "horrible",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
       "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
       "score": 4
     },
     {
@@ -55,7 +47,7 @@
       "score": 4
     },
     {
-      "word": "amor",
+      "word": "mejor",
       "score": 3
     },
     {
@@ -69,20 +61,28 @@
     {
       "word": "sentido",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.87,
-    "elDiario.es": 4.78,
-    "El Mundo": 5.23,
-    "ABC": 4.97,
+    "El País": 5.55,
+    "elDiario.es": 4.71,
+    "El Mundo": 5.14,
+    "ABC": 4.61,
     "El Confidencial": 5.45,
-    "BBC Mundo": 4.53,
-    "France 24 ES": 4.2,
-    "La Nación AR": 4.28,
+    "BBC Mundo": 4.72,
+    "France 24 ES": 4.44,
+    "La Nación AR": 4.84,
     "La Jornada MX": 4.47,
-    "Desinformémonos": 5.12,
-    "Resumen Latinoam.": 4.31
+    "Desinformémonos": 4.64,
+    "Resumen Latinoam.": 3.8
   },
   "articles": [
     {
@@ -139,43 +139,38 @@
     },
     {
       "source": "El País",
-      "title": "Barrabés, empresario investigado en el ‘caso Begoña Gómez’: “No soy una víctima,",
-      "score": 5.4,
+      "title": "Los líderes de la OTAN no saben qué hacer con el regalo de Erdogan: un revólver ",
+      "score": 6.6,
       "words": [
         {
-          "word": "víctima",
-          "score": -3
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        },
-        {
-          "word": "justicia",
+          "word": "regalo",
           "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "La Fiscalía acusa al juez Peinado de idear una “confabulación” para retirar el p",
-      "score": 3.67,
+      "title": "Sánchez explicó en el plenario de la OTAN el aumento de gasto español hasta el 2",
+      "score": 7.4,
       "words": [
         {
-          "word": "acusa",
-          "score": -2
-        },
+          "word": "amor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Un instructor de aviación se arroja al vacío en pleno vuelo y su alumna logra at",
+      "score": 5.4,
+      "words": [
         {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "fuga",
+          "word": "vacío",
           "score": -1
+        },
+        {
+          "word": "logra",
+          "score": 2
         }
       ]
     },
@@ -273,6 +268,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El juez Peinado dice que no pretendía \"ofender\" a los escoltas de Begoña Gómez p",
+      "score": 4.49,
+      "words": [
+        {
+          "word": "ofender",
+          "score": -2
+        },
+        {
+          "word": "ofender",
+          "score": -2
+        },
+        {
+          "word": "fuga",
+          "score": -1
+        },
+        {
+          "word": "frase",
+          "score": -2
+        },
+        {
+          "word": "frase",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "La UCO señala una \"participación preeminente\" en la trama de Leire Díez del ex j",
       "score": 5.03,
       "words": [
@@ -295,6 +317,33 @@
         {
           "word": "mayor",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Un empresario niega que la trama de Leire Díez le pidiera información contra la ",
+      "score": 4.49,
+      "words": [
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "niega",
+          "score": -2
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "intereses",
+          "score": 1
+        },
+        {
+          "word": "fraude",
+          "score": -4
         }
       ]
     },
@@ -324,94 +373,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Ayuso, sobre la investigación a su pareja: “Llevo el 80% de la relación con este",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "solitario",
-          "score": -2
-        },
-        {
-          "word": "procesado",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "procesado",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez ve indicios claros de que el exDAO cometió una agresión sexual y aboca l",
-      "score": 4.15,
-      "words": [
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "agresión",
-          "score": -2
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "celos",
-          "score": -1
-        },
-        {
-          "word": "violencia",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El juez abre juicio oral al BBVA, a su expresidente Francisco González  y otras ",
-      "score": 3.69,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        },
-        {
-          "word": "delitos",
-          "score": -3
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-20T19:21:03Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-06-20T21:14:29Z",
       "score": 4.71
@@ -1079,6 +1043,10 @@
     {
       "timestamp": "2026-07-09T13:46:32Z",
       "score": 4.78
+    },
+    {
+      "timestamp": "2026-07-09T16:25:06Z",
+      "score": 4.77
     }
   ]
 }

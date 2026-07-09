@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T18:47:52Z",
-  "global_score": 4.87,
-  "articles_scored": 95,
-  "words_matched": 209,
+  "generated": "2026-07-09T20:44:17Z",
+  "global_score": 5.02,
+  "articles_scored": 97,
+  "words_matched": 206,
   "top_negative": [
     {
       "word": "negro",
@@ -21,7 +21,7 @@
       "score": -3
     },
     {
-      "word": "delito",
+      "word": "perdió",
       "score": -3
     },
     {
@@ -29,34 +29,30 @@
       "score": -3
     },
     {
-      "word": "matar",
+      "word": "falso",
       "score": -3
     },
     {
-      "word": "horrible",
+      "word": "delito",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "victorias",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "milagro",
-      "score": 4
-    },
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "felicidad",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "premios",
+      "score": 3
     },
     {
       "word": "mejor",
@@ -69,20 +65,24 @@
     {
       "word": "riguroso",
       "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.25,
-    "elDiario.es": 5.02,
-    "El Mundo": 5.29,
-    "ABC": 4.91,
+    "El País": 4.6,
+    "elDiario.es": 4.93,
+    "El Mundo": 5.34,
+    "ABC": 4.94,
     "El Confidencial": 5.21,
-    "BBC Mundo": 5.03,
-    "France 24 ES": 3.96,
-    "La Nación AR": 4.6,
+    "BBC Mundo": 5.19,
+    "France 24 ES": 4.95,
+    "La Nación AR": 5.23,
     "La Jornada MX": 4.47,
     "Desinformémonos": 4.6,
-    "Resumen Latinoam.": 4.91
+    "Resumen Latinoam.": 5.38
   },
   "articles": [
     {
@@ -113,53 +113,23 @@
     },
     {
       "source": "El País",
+      "title": "Francia - Marruecos: Mundial 2026, en directo | Bono detiene el penalti de Mbapp",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "puesto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "El juez sienta en el banquillo al BBVA y su expresidente Francisco González por ",
       "score": 2.6,
       "words": [
         {
           "word": "delitos",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Ayuso defiende las palabras de Feijóo sobre las bajas: “Tiene más razón que un s",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "carga",
-          "score": -2
-        },
-        {
-          "word": "injusto",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Alemania cifra en más de 5.000 las muertes por la ola de calor de junio",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "España afronta el final de la segunda ola de calor con la amenaza de un nuevo re",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
         }
       ]
     },
@@ -180,12 +150,27 @@
     },
     {
       "source": "El País",
-      "title": "Francia-Marruecos, un partido que explica medio siglo de fenómenos sociales y mi",
-      "score": 7.4,
+      "title": "La muralla de España: es la única selección que no ha recibido goles en el Mundi",
+      "score": 5.8,
       "words": [
         {
-          "word": "mayor",
-          "score": 3
+          "word": "comprometido",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Bélgica y el corazón roto de España en 1986",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "roto",
+          "score": -1
+        },
+        {
+          "word": "perdió",
+          "score": -3
         }
       ]
     },
@@ -212,6 +197,60 @@
         },
         {
           "word": "compromiso",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Bolaños, al presidente de los obispos tras sus ataques al Gobierno: \"¿Y si calif",
+      "score": 4.87,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "justicia",
+          "score": 2
+        },
+        {
+          "word": "exageración",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El presidente de los obispos tacha al Gobierno de “banda de ladrones” y argument",
+      "score": 4.31,
+      "words": [
+        {
+          "word": "critica",
+          "score": -2
+        },
+        {
+          "word": "prohibición",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "colapso",
+          "score": -2
+        },
+        {
+          "word": "oportunidad",
           "score": 2
         }
       ]
@@ -350,40 +389,9 @@
           "score": 3
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un empresario niega que la trama de Leire Díez le pidiera información contra la ",
-      "score": 4.49,
-      "words": [
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "niega",
-          "score": -2
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "intereses",
-          "score": 1
-        },
-        {
-          "word": "fraude",
-          "score": -4
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-20T23:04:37Z",
-      "score": 4.77
-    },
     {
       "timestamp": "2026-06-21T03:54:02Z",
       "score": 4.65
@@ -1051,6 +1059,10 @@
     {
       "timestamp": "2026-07-09T18:47:52Z",
       "score": 4.87
+    },
+    {
+      "timestamp": "2026-07-09T20:44:17Z",
+      "score": 5.02
     }
   ]
 }

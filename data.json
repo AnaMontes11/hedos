@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-09T22:18:57Z",
-  "global_score": 5.03,
-  "articles_scored": 94,
-  "words_matched": 205,
+  "generated": "2026-07-10T00:01:32Z",
+  "global_score": 4.97,
+  "articles_scored": 96,
+  "words_matched": 216,
   "top_negative": [
     {
       "word": "negro",
@@ -17,11 +17,7 @@
       "score": -4
     },
     {
-      "word": "delitos",
-      "score": -3
-    },
-    {
-      "word": "perdió",
+      "word": "víctimas",
       "score": -3
     },
     {
@@ -35,11 +31,15 @@
     {
       "word": "falso",
       "score": -3
+    },
+    {
+      "word": "delitos",
+      "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "ganador",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -47,11 +47,7 @@
       "score": 4
     },
     {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "mejor",
+      "word": "súper",
       "score": 3
     },
     {
@@ -67,24 +63,39 @@
       "score": 3
     },
     {
+      "word": "penetración",
+      "score": 3
+    },
+    {
       "word": "excelencia",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.89,
+    "El País": 5.69,
     "elDiario.es": 4.89,
-    "El Mundo": 5.33,
-    "ABC": 4.94,
-    "El Confidencial": 5.21,
-    "BBC Mundo": 5.41,
-    "France 24 ES": 4.96,
-    "La Nación AR": 5.73,
+    "El Mundo": 5.57,
+    "ABC": 5.04,
+    "El Confidencial": 5.55,
+    "BBC Mundo": 5.31,
+    "France 24 ES": 4.84,
+    "La Nación AR": 4.5,
     "La Jornada MX": 4.47,
     "Desinformémonos": 4.6,
-    "Resumen Latinoam.": 4.9
+    "Resumen Latinoam.": 4.04
   },
   "articles": [
+    {
+      "source": "El País",
+      "title": "Mueren al menos seis personas en el incendio de Los Gallardos, en Almería",
+      "score": 2.6,
+      "words": [
+        {
+          "word": "víctimas",
+          "score": -3
+        }
+      ]
+    },
     {
       "source": "El País",
       "title": "Qué pasó en la cumbre de la OTAN de Ankara: los cinco minutos que cambiaron el h",
@@ -113,27 +124,12 @@
     },
     {
       "source": "El País",
-      "title": "Francia - Marruecos: Mundial 2026, en directo | Mbappé y Dembélé hunden a Marrue",
-      "score": 5.4,
+      "title": "Francia sale a la calle para celebrar la victoria contra Marruecos",
+      "score": 7.4,
       "words": [
         {
-          "word": "ventaja",
-          "score": 2
-        },
-        {
-          "word": "detenido",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "El juez sienta en el banquillo al BBVA y su expresidente Francisco González por ",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "delitos",
-          "score": -3
+          "word": "celebrar",
+          "score": 3
         }
       ]
     },
@@ -154,27 +150,27 @@
     },
     {
       "source": "El País",
-      "title": "La muralla de España: es la única selección que no ha recibido goles en el Mundi",
-      "score": 5.8,
+      "title": "Mapa de sitios donde ver el eclipse total de Sol: EL PAÍS recopila más de 350 pu",
+      "score": 7.0,
       "words": [
         {
-          "word": "comprometido",
-          "score": 1
+          "word": "sol",
+          "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Bélgica y el corazón roto de España en 1986",
-      "score": 3.4,
+      "title": "El juez Piña ordena localizar “indicios de criminalidad” en las conversaciones d",
+      "score": 5.8,
       "words": [
         {
-          "word": "roto",
-          "score": -1
-        },
-        {
-          "word": "perdió",
-          "score": -3
+          "word": "acepta",
+          "score": 1
         }
       ]
     },
@@ -396,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-21T08:27:51Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-06-21T11:43:40Z",
       "score": 4.65
@@ -1067,6 +1059,10 @@
     {
       "timestamp": "2026-07-09T22:18:57Z",
       "score": 5.03
+    },
+    {
+      "timestamp": "2026-07-10T00:01:32Z",
+      "score": 4.97
     }
   ]
 }

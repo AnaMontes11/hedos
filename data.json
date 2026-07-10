@@ -1,11 +1,15 @@
 {
-  "generated": "2026-07-10T14:17:26Z",
-  "global_score": 4.72,
+  "generated": "2026-07-10T16:53:10Z",
+  "global_score": 4.73,
   "articles_scored": 97,
-  "words_matched": 204,
+  "words_matched": 209,
   "top_negative": [
     {
       "word": "negro",
+      "score": -5
+    },
+    {
+      "word": "bastardo",
       "score": -5
     },
     {
@@ -15,10 +19,6 @@
     {
       "word": "culo",
       "score": -4
-    },
-    {
-      "word": "víctimas",
-      "score": -3
     },
     {
       "word": "advertencia",
@@ -33,7 +33,7 @@
       "score": -3
     },
     {
-      "word": "agoniza",
+      "word": "víctimas",
       "score": -3
     }
   ],
@@ -43,15 +43,23 @@
       "score": 4
     },
     {
-      "word": "ganar",
-      "score": 4
+      "word": "mejor",
+      "score": 3
+    },
+    {
+      "word": "aliviado",
+      "score": 3
+    },
+    {
+      "word": "celebrar",
+      "score": 3
     },
     {
       "word": "riqueza",
       "score": 3
     },
     {
-      "word": "aliviado",
+      "word": "premios",
       "score": 3
     },
     {
@@ -61,28 +69,20 @@
     {
       "word": "bueno",
       "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
-    },
-    {
-      "word": "sentido",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.9,
-    "elDiario.es": 4.64,
-    "El Mundo": 4.0,
-    "ABC": 5.08,
-    "El Confidencial": 5.02,
-    "BBC Mundo": 5.0,
-    "France 24 ES": 4.34,
-    "La Nación AR": 5.95,
+    "El País": 4.34,
+    "elDiario.es": 4.66,
+    "El Mundo": 3.85,
+    "ABC": 4.67,
+    "El Confidencial": 5.17,
+    "BBC Mundo": 4.92,
+    "France 24 ES": 4.6,
+    "La Nación AR": 5.25,
     "La Jornada MX": 4.76,
-    "Desinformémonos": 4.88,
-    "Resumen Latinoam.": 4.37
+    "Desinformémonos": 4.87,
+    "Resumen Latinoam.": 5.1
   },
   "articles": [
     {
@@ -132,12 +132,20 @@
     },
     {
       "source": "El País",
-      "title": "Al menos 12 muertos en el incendio de Los Gallardos (Almería), el más mortífero ",
-      "score": 2.6,
+      "title": "Una mujer rescatada en el incendio de Los Gallardos: “Nos dieron diez minutos pa",
+      "score": 6.6,
       "words": [
         {
-          "word": "víctimas",
-          "score": -3
+          "word": "rescatada",
+          "score": 2
+        },
+        {
+          "word": "ojalá",
+          "score": 2
+        },
+        {
+          "word": "salvado",
+          "score": 2
         }
       ]
     },
@@ -231,7 +239,7 @@
     {
       "source": "elDiario.es",
       "title": "Al menos 12 muertos en el incendio de Los Gallardos en Almería",
-      "score": 4.74,
+      "score": 4.7,
       "words": [
         {
           "word": "emergencia",
@@ -392,10 +400,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-21T20:22:25Z",
-      "score": 4.76
-    },
     {
       "timestamp": "2026-06-21T22:11:48Z",
       "score": 4.9
@@ -1063,6 +1067,10 @@
     {
       "timestamp": "2026-07-10T14:17:26Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-07-10T16:53:10Z",
+      "score": 4.73
     }
   ]
 }

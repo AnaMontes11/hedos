@@ -1,19 +1,19 @@
 {
-  "generated": "2026-07-10T00:01:32Z",
-  "global_score": 4.97,
+  "generated": "2026-07-10T04:48:20Z",
+  "global_score": 4.83,
   "articles_scored": 96,
-  "words_matched": 216,
+  "words_matched": 261,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "infierno",
       "score": -4
     },
     {
@@ -33,33 +33,17 @@
       "score": -3
     },
     {
-      "word": "delitos",
+      "word": "malo",
       "score": -3
     }
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "súper",
-      "score": 3
-    },
-    {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "riguroso",
-      "score": 3
-    },
-    {
-      "word": "premio",
+      "word": "aliviado",
       "score": 3
     },
     {
@@ -67,99 +51,48 @@
       "score": 3
     },
     {
-      "word": "excelencia",
+      "word": "premios",
+      "score": 3
+    },
+    {
+      "word": "amor",
+      "score": 3
+    },
+    {
+      "word": "calmar",
+      "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "mayor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 5.69,
-    "elDiario.es": 4.89,
-    "El Mundo": 5.57,
-    "ABC": 5.04,
-    "El Confidencial": 5.55,
-    "BBC Mundo": 5.31,
-    "France 24 ES": 4.84,
-    "La Nación AR": 4.5,
+    "El País": 5.07,
+    "elDiario.es": 4.9,
+    "El Mundo": 5.49,
+    "ABC": 4.85,
+    "El Confidencial": 5.19,
+    "BBC Mundo": 5.43,
+    "France 24 ES": 4.29,
+    "La Nación AR": 4.52,
     "La Jornada MX": 4.47,
     "Desinformémonos": 4.6,
-    "Resumen Latinoam.": 4.04
+    "Resumen Latinoam.": 4.08
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Mueren al menos seis personas en el incendio de Los Gallardos, en Almería",
+      "title": "Mueren al menos 12 personas en el incendio de Los Gallardos, en Almería",
       "score": 2.6,
       "words": [
         {
           "word": "víctimas",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Qué pasó en la cumbre de la OTAN de Ankara: los cinco minutos que cambiaron el h",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "humor",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Los líderes de la OTAN no saben qué hacer con el regalo de Erdogan: un revólver ",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "regalo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Francia sale a la calle para celebrar la victoria contra Marruecos",
-      "score": 7.4,
-      "words": [
-        {
-          "word": "celebrar",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Un instructor de aviación se arroja al vacío en pleno vuelo y su alumna logra at",
-      "score": 5.4,
-      "words": [
-        {
-          "word": "vacío",
-          "score": -1
-        },
-        {
-          "word": "logra",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Mapa de sitios donde ver el eclipse total de Sol: EL PAÍS recopila más de 350 pu",
-      "score": 7.0,
-      "words": [
-        {
-          "word": "sol",
-          "score": 2
-        },
-        {
-          "word": "mejor",
-          "score": 3
         }
       ]
     },
@@ -171,6 +104,119 @@
         {
           "word": "acepta",
           "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Vox recupera a un antiguo candidato que renunció tras desvelarse su revisionismo",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "paz",
+          "score": 2
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El CNI retiró el acceso a secretos a un sargento de la Armada que ocultó su boda",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "dudas",
+          "score": -1
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Cucurella: “Soy muy intenso, trabajo para que el rival nunca se sienta cómodo”",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "intenso",
+          "score": 1
+        },
+        {
+          "word": "cómodo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El euro digital da un paso decisivo: qué es, por qué Europa lo quiere y cuánto f",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "decisivo",
+          "score": 1
+        },
+        {
+          "word": "aprueba",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La batalla de los inmigrantes",
+      "score": 4.2,
+      "words": [
+        {
+          "word": "batalla",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España se asoma a territorio esquivo: busca contra Bélgica su segunda semifinal",
+      "score": 6.2,
+      "words": [
+        {
+          "word": "autoridad",
+          "score": 1
+        },
+        {
+          "word": "esperando",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Luis de la Fuente: “El mejor Lamine está por llegar; ahora es muy peligroso para",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "llegar",
+          "score": 1
+        },
+        {
+          "word": "relajado",
+          "score": 2
+        },
+        {
+          "word": "lesión",
+          "score": -2
         }
       ]
     },
@@ -230,172 +276,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El presidente de los obispos tacha al Gobierno de “banda de ladrones” y argument",
-      "score": 4.31,
+      "title": "La única moción sobre absentismo que el PP ha llevado a votación en la legislatu",
+      "score": 5.08,
       "words": [
         {
-          "word": "critica",
-          "score": -2
-        },
-        {
-          "word": "prohibición",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "colapso",
-          "score": -2
-        },
-        {
-          "word": "oportunidad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Fiscalía pide la absolución de Begoña Gómez en su escrito de conclusiones par",
-      "score": 4.71,
-      "words": [
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "autor",
-          "score": -2
-        },
-        {
-          "word": "delito",
-          "score": -3
-        },
-        {
-          "word": "autor",
-          "score": -2
-        },
-        {
-          "word": "beneficio",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Barrabés, ante la causa de Peinado sobre Begoña Gómez: \"Esto son cuatro o cinco ",
-      "score": 3.99,
-      "words": [
-        {
-          "word": "acusaciones",
-          "score": -2
-        },
-        {
-          "word": "prisión",
-          "score": -2
-        },
-        {
-          "word": "asegura",
+          "word": "apoyo",
           "score": 2
         },
         {
-          "word": "delito",
-          "score": -3
+          "word": "fraude",
+          "score": -4
         },
         {
-          "word": "autor",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La Fiscalía acusa a Peinado de inventarse \"una confabulación\" para impedir la sa",
-      "score": 4.69,
-      "words": [
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "acusa",
-          "score": -2
-        },
-        {
-          "word": "ofender",
-          "score": -2
-        },
-        {
-          "word": "exponer",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Lastra recurre ante el Supremo su no renovación como fiscal superior de Madrid",
-      "score": 5.07,
-      "words": [
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "superior",
-          "score": 2
-        },
-        {
-          "word": "pasado",
-          "score": -1
-        },
-        {
-          "word": "demanda",
-          "score": -1
-        },
-        {
-          "word": "contencioso",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La UCO señala una \"participación preeminente\" en la trama de Leire Díez del ex j",
-      "score": 5.03,
-      "words": [
-        {
-          "word": "beneficios",
-          "score": 2
-        },
-        {
-          "word": "alcanzar",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "beneficios",
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "ausencia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El Supremo deja en papel mojado decenas de negativas del Gobierno al registro de",
+      "score": 5.55,
+      "words": [
+        {
+          "word": "aprobado",
           "score": 2
         },
         {
-          "word": "intereses",
-          "score": 1
+          "word": "cumplir",
+          "score": 2
         },
         {
           "word": "mayor",
           "score": 3
+        },
+        {
+          "word": "perseguir",
+          "score": -2
+        },
+        {
+          "word": "cumplir",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Vivir con síndrome del olor a pescado: \"Por la calle me llaman guarra, solo me s",
+      "score": 4.11,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "enfermedad",
+          "score": -2
+        },
+        {
+          "word": "ansiedad",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Trump vuelve a bombardear Irán y a cometer un error garrafal: no tiene ni idea d",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "cometer",
+          "score": 1
+        },
+        {
+          "word": "error",
+          "score": -2
+        },
+        {
+          "word": "enemigo",
+          "score": -2
+        },
+        {
+          "word": "cometer",
+          "score": 1
+        },
+        {
+          "word": "error",
+          "score": -2
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-21T11:43:40Z",
-      "score": 4.65
-    },
     {
       "timestamp": "2026-06-21T14:03:31Z",
       "score": 4.78
@@ -1063,6 +1051,10 @@
     {
       "timestamp": "2026-07-10T00:01:32Z",
       "score": 4.97
+    },
+    {
+      "timestamp": "2026-07-10T04:48:20Z",
+      "score": 4.83
     }
   ]
 }

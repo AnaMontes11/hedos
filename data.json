@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T18:20:40Z",
-  "global_score": 4.7,
-  "articles_scored": 96,
-  "words_matched": 219,
+  "generated": "2026-07-10T20:19:50Z",
+  "global_score": 4.68,
+  "articles_scored": 93,
+  "words_matched": 215,
   "top_negative": [
     {
       "word": "negro",
@@ -10,10 +10,6 @@
     },
     {
       "word": "perras",
-      "score": -5
-    },
-    {
-      "word": "bastardo",
       "score": -5
     },
     {
@@ -33,88 +29,70 @@
       "score": -3
     },
     {
-      "word": "advertencia",
+      "word": "muerto",
+      "score": -3
+    },
+    {
+      "word": "terrible",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "aliviado",
-      "score": 3
-    },
-    {
-      "word": "celebrar",
-      "score": 3
-    },
-    {
-      "word": "riqueza",
-      "score": 3
-    },
-    {
-      "word": "premios",
-      "score": 3
-    },
-    {
-      "word": "popular",
-      "score": 3
+      "word": "triunfo",
+      "score": 4
     },
     {
       "word": "mejor",
       "score": 3
     },
     {
+      "word": "aliviado",
+      "score": 3
+    },
+    {
+      "word": "feliz",
+      "score": 3
+    },
+    {
       "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.37,
+    "El País": 4.14,
     "elDiario.es": 4.54,
-    "El Mundo": 3.68,
-    "ABC": 4.85,
+    "El Mundo": 3.93,
+    "ABC": 5.07,
     "El Confidencial": 5.17,
-    "BBC Mundo": 5.4,
-    "France 24 ES": 4.51,
-    "La Nación AR": 4.44,
+    "BBC Mundo": 5.67,
+    "France 24 ES": 3.98,
+    "La Nación AR": 4.36,
     "La Jornada MX": 4.76,
     "Desinformémonos": 4.42,
-    "Resumen Latinoam.": 5.57
+    "Resumen Latinoam.": 5.35
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | ",
+      "title": "España - Bélgica en directo | La selección busca adelantarse en la segunda mitad",
       "score": 2.6,
       "words": [
         {
           "word": "víctimas",
           "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Viento, barrancos y decenas de casas diseminadas: la noche infernal de Bédar",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "peligro",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Qué hacer y qué no en caso de ser sorprendido por un incendio forestal como el d",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "sorprendido",
-          "score": -2
         }
       ]
     },
@@ -131,23 +109,26 @@
     },
     {
       "source": "El País",
-      "title": "“Es importante confinarse y nunca autoevacuarse”, la advertencia de los bomberos",
-      "score": 4.8,
+      "title": "Viento, barrancos y decenas de casas diseminadas: la noche infernal de Bédar",
+      "score": 3.4,
       "words": [
         {
-          "word": "importante",
+          "word": "peligro",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Después de Los Gallardos, nada puede seguir igual",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "ayuda",
           "score": 2
         },
         {
-          "word": "advertencia",
-          "score": -3
-        },
-        {
-          "word": "tragedia",
-          "score": -2
-        },
-        {
-          "word": "asegura",
+          "word": "solidaridad",
           "score": 2
         }
       ]
@@ -173,25 +154,6 @@
     },
     {
       "source": "El País",
-      "title": "Los tres elementos que funcionan como un acelerador del fuego",
-      "score": 5.53,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "cuidado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "¿Dónde se han producido las muertes? Mapas del fatal incendio en Almería",
       "score": 3.0,
       "words": [
@@ -207,42 +169,11 @@
     },
     {
       "source": "El País",
-      "title": "Después de Los Gallardos, nada puede seguir igual",
-      "score": 6.6,
+      "title": "Qué hacer y qué no en caso de ser sorprendido por un incendio forestal como el d",
+      "score": 3.4,
       "words": [
         {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "solidaridad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La angustia de los evacuados por el fuego en Almería: “No sé qué pasará con mi c",
-      "score": 4.37,
-      "words": [
-        {
-          "word": "angustia",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "angustia",
-          "score": -2
-        },
-        {
-          "word": "fuego",
+          "word": "sorprendido",
           "score": -2
         }
       ]
@@ -271,6 +202,33 @@
         {
           "word": "salvar",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La angustia de los evacuados por el fuego en Almería: “No sé qué pasará con mi c",
+      "score": 4.43,
+      "words": [
+        {
+          "word": "angustia",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "negro",
+          "score": -5
+        },
+        {
+          "word": "angustia",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
@@ -381,13 +339,63 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El incendio en Almería es ya uno de los más mortíferos: solo Lloret y La Gomera ",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
+        },
+        {
+          "word": "provocado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Muere un temporero de 64 años en Seròs (Lleida) mientras trabajaba en plena ola ",
+      "score": 5.23,
+      "words": [
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "golpe",
+          "score": -2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "sufrir",
+          "score": -2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-22T00:08:34Z",
-      "score": 4.93
-    },
     {
       "timestamp": "2026-06-22T06:26:12Z",
       "score": 5.12
@@ -1055,6 +1063,10 @@
     {
       "timestamp": "2026-07-10T18:20:40Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-07-10T20:19:50Z",
+      "score": 4.68
     }
   ]
 }

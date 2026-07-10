@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T20:19:50Z",
-  "global_score": 4.68,
+  "generated": "2026-07-10T21:58:38Z",
+  "global_score": 4.66,
   "articles_scored": 93,
-  "words_matched": 215,
+  "words_matched": 218,
   "top_negative": [
     {
       "word": "negro",
@@ -21,10 +21,6 @@
       "score": -4
     },
     {
-      "word": "puta",
-      "score": -4
-    },
-    {
       "word": "víctimas",
       "score": -3
     },
@@ -35,31 +31,19 @@
     {
       "word": "terrible",
       "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "ganador",
-      "score": 4
-    },
-    {
-      "word": "ganar",
-      "score": 4
-    },
-    {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
-      "word": "mejor",
-      "score": 3
-    },
     {
       "word": "aliviado",
       "score": 3
     },
     {
-      "word": "feliz",
+      "word": "suerte",
       "score": 3
     },
     {
@@ -69,41 +53,69 @@
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
+      "word": "alegre",
+      "score": 3
+    },
+    {
+      "word": "mayor",
+      "score": 3
+    },
+    {
+      "word": "valiente",
+      "score": 2
     }
   ],
   "per_source": {
-    "El País": 4.14,
+    "El País": 4.83,
     "elDiario.es": 4.54,
-    "El Mundo": 3.93,
-    "ABC": 5.07,
+    "El Mundo": 4.63,
+    "ABC": 5.06,
     "El Confidencial": 5.17,
-    "BBC Mundo": 5.67,
-    "France 24 ES": 3.98,
-    "La Nación AR": 4.36,
+    "BBC Mundo": 5.06,
+    "France 24 ES": 4.4,
+    "La Nación AR": 3.87,
     "La Jornada MX": 4.76,
     "Desinformémonos": 4.42,
-    "Resumen Latinoam.": 5.35
+    "Resumen Latinoam.": 4.43
   },
   "articles": [
     {
       "source": "El País",
-      "title": "España - Bélgica en directo | La selección busca adelantarse en la segunda mitad",
-      "score": 2.6,
+      "title": "Otra danza de Merino rumbo a la semifinal: marca en los últimos minutos, tumba a",
+      "score": 5.0,
       "words": [
         {
-          "word": "víctimas",
-          "score": -3
+          "word": "tumba",
+          "score": -2
+        },
+        {
+          "word": "logra",
+          "score": 2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Así son las imágenes aéreas del incendio de Los Gallardos (Almería)",
-      "score": 3.4,
+      "title": "Cronología en vídeo del incendio de Los Gallardos, el más mortal del siglo en An",
+      "score": 5.8,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
+          "word": "activo",
+          "score": 2
+        },
+        {
+          "word": "dejar",
+          "score": -1
+        },
+        {
+          "word": "rápido",
+          "score": 2
         }
       ]
     },
@@ -396,10 +408,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-22T06:26:12Z",
-      "score": 5.12
-    },
     {
       "timestamp": "2026-06-22T12:47:18Z",
       "score": 4.99
@@ -1067,6 +1075,10 @@
     {
       "timestamp": "2026-07-10T20:19:50Z",
       "score": 4.68
+    },
+    {
+      "timestamp": "2026-07-10T21:58:38Z",
+      "score": 4.66
     }
   ]
 }

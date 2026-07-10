@@ -1,23 +1,23 @@
 {
-  "generated": "2026-07-10T08:19:03Z",
-  "global_score": 4.73,
-  "articles_scored": 95,
-  "words_matched": 241,
+  "generated": "2026-07-10T11:47:54Z",
+  "global_score": 4.65,
+  "articles_scored": 94,
+  "words_matched": 199,
   "top_negative": [
-    {
-      "word": "culo",
-      "score": -4
-    },
     {
       "word": "infierno",
       "score": -4
     },
     {
-      "word": "víctimas",
+      "word": "mierda",
+      "score": -4
+    },
+    {
+      "word": "advertencia",
       "score": -3
     },
     {
-      "word": "terrible",
+      "word": "víctimas",
       "score": -3
     },
     {
@@ -25,15 +25,15 @@
       "score": -3
     },
     {
+      "word": "terrible",
+      "score": -3
+    },
+    {
+      "word": "peor",
+      "score": -3
+    },
+    {
       "word": "delito",
-      "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "falso",
       "score": -3
     }
   ],
@@ -43,67 +43,97 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
+      "word": "amor",
+      "score": 3
     },
     {
       "word": "aliviado",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "sentido",
       "score": 3
     },
     {
-      "word": "euforia",
-      "score": 3
-    },
-    {
-      "word": "emoción",
-      "score": 3
-    },
-    {
-      "word": "amor",
+      "word": "premios",
       "score": 3
     },
     {
       "word": "calmar",
       "score": 3
+    },
+    {
+      "word": "premio",
+      "score": 3
+    },
+    {
+      "word": "suerte",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.69,
-    "elDiario.es": 4.76,
-    "El Mundo": 5.3,
-    "ABC": 4.86,
-    "El Confidencial": 4.98,
-    "BBC Mundo": 5.43,
+    "El País": 4.18,
+    "elDiario.es": 4.88,
+    "El Mundo": 4.68,
+    "ABC": 4.96,
+    "El Confidencial": 4.48,
+    "BBC Mundo": 5.56,
     "France 24 ES": 4.29,
-    "La Nación AR": 4.36,
-    "La Jornada MX": 4.47,
+    "La Nación AR": 4.71,
+    "La Jornada MX": 4.76,
     "Desinformémonos": 4.6,
-    "Resumen Latinoam.": 4.1
+    "Resumen Latinoam.": 4.17
   },
   "articles": [
     {
       "source": "El País",
       "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | ",
-      "score": 3.4,
+      "score": 3.67,
       "words": [
         {
           "word": "trágico",
           "score": -2
         },
         {
-          "word": "espera",
+          "word": "cadáver",
           "score": -1
         },
         {
-          "word": "víctimas",
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“Es importante confinarse y nunca autoevacuarse”, la advertencia de los bomberos",
+      "score": 4.8,
+      "words": [
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "advertencia",
           "score": -3
         },
         {
-          "word": "fuego",
+          "word": "tragedia",
+          "score": -2
+        },
+        {
+          "word": "asegura",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Viento, barrancos y decenas de casas diseminadas: la noche infernal de Bédar",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "peligro",
           "score": -2
         }
       ]
@@ -121,16 +151,50 @@
     },
     {
       "source": "El País",
-      "title": "Los incendios forestales más letales en España: de los 21 fallecidos en Lloret d",
-      "score": 3.0,
+      "title": "La Guardia Civil investiga la caída de un cable eléctrico como desencadenante de",
+      "score": 4.73,
+      "words": [
+        {
+          "word": "asegura",
+          "score": 2
+        },
+        {
+          "word": "tensión",
+          "score": -1
+        },
+        {
+          "word": "abandonado",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las imágenes del incendio forestal de Los Gallardos (Almería)",
+      "score": 3.4,
       "words": [
         {
           "word": "fuego",
           "score": -2
         },
         {
-          "word": "víctimas",
-          "score": -3
+          "word": "trágico",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El lamento del alcalde de Los Gallardos tras una noche entre las llamas: “Parece",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "caído",
+          "score": -2
+        },
+        {
+          "word": "bomba",
+          "score": -1
         }
       ]
     },
@@ -165,77 +229,9 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Luis de la Fuente: “El mejor Lamine está por llegar; ahora es muy peligroso para",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "llegar",
-          "score": 1
-        },
-        {
-          "word": "relajado",
-          "score": 2
-        },
-        {
-          "word": "lesión",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Cucurella: “Soy muy intenso, trabajo para que el rival nunca se sienta cómodo”",
-      "score": 6.2,
-      "words": [
-        {
-          "word": "intenso",
-          "score": 1
-        },
-        {
-          "word": "cómodo",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Más allá del debut de Borja Iglesias",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "fácil",
-          "score": 1
-        },
-        {
-          "word": "esperar",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Crítica de ‘Foreign Tongues’, de The Rolling Stones: viejos, sí; acabados, ni ha",
-      "score": 5.0,
-      "words": [
-        {
-          "word": "crítica",
-          "score": -2
-        },
-        {
-          "word": "digno",
-          "score": 2
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Al menos 11 muertos en el incendio de Los Gallardos en Almería",
-      "score": 4.39,
+      "title": "Al menos 12 muertos en el incendio de Los Gallardos en Almería",
+      "score": 4.79,
       "words": [
         {
           "word": "tragedia",
@@ -261,9 +257,25 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Incendio de Los Gallardos, última hora en directo: hay 12 muertos, 8 heridos y 1",
-      "score": 3.4,
+      "title": "Qué sabemos del incendio de Almería: la caída de un poste eléctrico y una vía al",
+      "score": 4.15,
       "words": [
+        {
+          "word": "escapar",
+          "score": -1
+        },
+        {
+          "word": "trampa",
+          "score": -1
+        },
+        {
+          "word": "escapar",
+          "score": -1
+        },
+        {
+          "word": "trampa",
+          "score": -1
+        },
         {
           "word": "fuego",
           "score": -2
@@ -272,28 +284,82 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Qué sabemos del incendio de Los Gallardos: la caída de un poste eléctrico y una ",
-      "score": 3.97,
+      "title": "El mapa de los incendios activos en España en 2026: cómo avanzan y qué zonas se ",
+      "score": 3.83,
       "words": [
         {
-          "word": "escapar",
-          "score": -1
+          "word": "fuego",
+          "score": -2
         },
         {
-          "word": "trampa",
-          "score": -1
+          "word": "fuego",
+          "score": -2
         },
         {
-          "word": "escapar",
-          "score": -1
+          "word": "calor",
+          "score": 2
         },
         {
-          "word": "trampa",
-          "score": -1
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "salvado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El incendio en Almería es ya uno de los más mortíferos: solo Lloret y La Gomera ",
+      "score": 3.93,
+      "words": [
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
         },
         {
           "word": "víctimas",
           "score": -3
+        },
+        {
+          "word": "provocado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El juez Pedraz imputa al ex jefe de gabinete de Sánchez en el PSOE en el caso Le",
+      "score": 6.16,
+      "words": [
+        {
+          "word": "positivo",
+          "score": 2
+        },
+        {
+          "word": "alcanzar",
+          "score": 1
+        },
+        {
+          "word": "beneficios",
+          "score": 2
+        },
+        {
+          "word": "intereses",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
         }
       ]
     },
@@ -323,67 +389,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Bolaños, al presidente de los obispos tras sus ataques al Gobierno: \"¿Y si calif",
-      "score": 4.87,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "justicia",
-          "score": 2
-        },
-        {
-          "word": "exageración",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El Supremo deja en papel mojado decenas de negativas del Gobierno al registro de",
-      "score": 5.55,
-      "words": [
-        {
-          "word": "aprobado",
-          "score": 2
-        },
-        {
-          "word": "cumplir",
-          "score": 2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        },
-        {
-          "word": "perseguir",
-          "score": -2
-        },
-        {
-          "word": "cumplir",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-21T16:28:10Z",
-      "score": 4.73
-    },
     {
       "timestamp": "2026-06-21T18:17:58Z",
       "score": 4.8
@@ -1051,6 +1059,10 @@
     {
       "timestamp": "2026-07-10T08:19:03Z",
       "score": 4.73
+    },
+    {
+      "timestamp": "2026-07-10T11:47:54Z",
+      "score": 4.65
     }
   ]
 }

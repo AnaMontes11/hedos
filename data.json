@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T16:53:58Z",
+  "generated": "2026-07-11T17:52:49Z",
   "global_score": 4.61,
-  "articles_scored": 86,
-  "words_matched": 200,
+  "articles_scored": 87,
+  "words_matched": 193,
   "top_negative": [
     {
       "word": "negro",
@@ -21,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "víctimas",
       "score": -3
     },
@@ -30,10 +34,6 @@
     },
     {
       "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "ducha",
       "score": -3
     }
   ],
@@ -55,7 +55,7 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "caro",
       "score": 3
     },
     {
@@ -67,7 +67,7 @@
       "score": 3
     },
     {
-      "word": "popular",
+      "word": "sentido",
       "score": 3
     }
   ],
@@ -75,14 +75,14 @@
     "El País": 4.32,
     "elDiario.es": 4.4,
     "El Mundo": 3.7,
-    "ABC": 5.11,
-    "El Confidencial": 5.59,
+    "ABC": 5.24,
+    "El Confidencial": 5.27,
     "BBC Mundo": 5.32,
-    "France 24 ES": 4.44,
-    "La Nación AR": 3.95,
+    "France 24 ES": 4.22,
+    "La Nación AR": 3.97,
     "La Jornada MX": 4.76,
     "Desinformémonos": 5.05,
-    "Resumen Latinoam.": 4.37
+    "Resumen Latinoam.": 4.6
   },
   "articles": [
     {
@@ -230,7 +230,7 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Última hora del incendio de Almería: Sánchez visitará este lunes la zona del inc",
+      "title": "Última hora del incendio de Almería: Antas exige autorizaciones para la vuelta d",
       "score": 3.8,
       "words": [
         {
@@ -384,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-23T19:58:24Z",
-      "score": 4.59
-    },
     {
       "timestamp": "2026-06-23T21:45:25Z",
       "score": 4.62
@@ -1054,6 +1050,10 @@
     },
     {
       "timestamp": "2026-07-11T16:53:58Z",
+      "score": 4.61
+    },
+    {
+      "timestamp": "2026-07-11T17:52:49Z",
       "score": 4.61
     }
   ]

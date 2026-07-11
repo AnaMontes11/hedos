@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T20:05:54Z",
-  "global_score": 4.64,
-  "articles_scored": 87,
-  "words_matched": 204,
+  "generated": "2026-07-11T21:44:59Z",
+  "global_score": 4.73,
+  "articles_scored": 75,
+  "words_matched": 193,
   "top_negative": [
     {
       "word": "negro",
@@ -29,11 +29,11 @@
       "score": -4
     },
     {
-      "word": "torturado",
-      "score": -4
+      "word": "víctimas",
+      "score": -3
     },
     {
-      "word": "víctimas",
+      "word": "peor",
       "score": -3
     }
   ],
@@ -45,6 +45,10 @@
     {
       "word": "ganar",
       "score": 4
+    },
+    {
+      "word": "vitalidad",
+      "score": 3
     },
     {
       "word": "galardonado",
@@ -59,10 +63,6 @@
       "score": 3
     },
     {
-      "word": "celebrado",
-      "score": 3
-    },
-    {
       "word": "sentido",
       "score": 3
     },
@@ -74,15 +74,14 @@
   "per_source": {
     "El País": 4.43,
     "elDiario.es": 4.38,
-    "El Mundo": 4.1,
-    "ABC": 4.81,
+    "El Mundo": 4.05,
     "El Confidencial": 5.27,
     "BBC Mundo": 5.32,
-    "France 24 ES": 4.46,
-    "La Nación AR": 4.4,
+    "France 24 ES": 4.76,
+    "La Nación AR": 5.8,
     "La Jornada MX": 4.76,
     "Desinformémonos": 5.05,
-    "Resumen Latinoam.": 4.38
+    "Resumen Latinoam.": 4.71
   },
   "articles": [
     {
@@ -204,16 +203,24 @@
     },
     {
       "source": "El País",
-      "title": "Otra danza de Merino rumbo a la semifinal: marca en los últimos minutos, tumba a",
+      "title": "Noruega - Inglaterra, el partido de cuartos de final del Mundial 2026 en directo",
       "score": 5.0,
       "words": [
         {
-          "word": "tumba",
+          "word": "fuerte",
+          "score": 2
+        },
+        {
+          "word": "disparo",
           "score": -2
         },
         {
-          "word": "logra",
+          "word": "sorprende",
           "score": 2
+        },
+        {
+          "word": "disputa",
+          "score": -2
         }
       ]
     },
@@ -392,10 +399,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-24T02:56:01Z",
-      "score": 4.48
-    },
     {
       "timestamp": "2026-06-24T06:48:47Z",
       "score": 4.76
@@ -1063,6 +1066,10 @@
     {
       "timestamp": "2026-07-11T20:05:54Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-07-11T21:44:59Z",
+      "score": 4.73
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T09:25:19Z",
-  "global_score": 4.72,
-  "articles_scored": 89,
-  "words_matched": 260,
+  "generated": "2026-07-11T11:01:24Z",
+  "global_score": 4.63,
+  "articles_scored": 87,
+  "words_matched": 252,
   "top_negative": [
     {
       "word": "negro",
@@ -25,23 +25,19 @@
       "score": -4
     },
     {
+      "word": "violación",
+      "score": -4
+    },
+    {
       "word": "víctimas",
       "score": -3
     },
     {
       "word": "peor",
       "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
     }
   ],
   "top_positive": [
-    {
-      "word": "alegría",
-      "score": 4
-    },
     {
       "word": "ganador",
       "score": 4
@@ -55,34 +51,38 @@
       "score": 4
     },
     {
+      "word": "afecto",
+      "score": 3
+    },
+    {
       "word": "galardonado",
-      "score": 3
-    },
-    {
-      "word": "exitoso",
-      "score": 3
-    },
-    {
-      "word": "aliviado",
       "score": 3
     },
     {
       "word": "celebra",
       "score": 3
+    },
+    {
+      "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "celebrado",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.14,
+    "El País": 3.76,
     "elDiario.es": 4.35,
     "El Mundo": 4.0,
-    "ABC": 5.1,
+    "ABC": 5.18,
     "El Confidencial": 5.22,
-    "BBC Mundo": 5.57,
+    "BBC Mundo": 5.11,
     "France 24 ES": 4.46,
-    "La Nación AR": 6.04,
+    "La Nación AR": 5.2,
     "La Jornada MX": 4.76,
     "Desinformémonos": 4.69,
-    "Resumen Latinoam.": 4.43
+    "Resumen Latinoam.": 4.85
   },
   "articles": [
     {
@@ -98,20 +98,12 @@
     },
     {
       "source": "El País",
-      "title": "Víctor Resco, ingeniero: “Lo sucedido en Almería no es para nada inesperado, se ",
-      "score": 3.67,
+      "title": "Los hoteles se vuelcan con los evacuados del incendio: “Vienen en condiciones qu",
+      "score": 3.4,
       "words": [
         {
-          "word": "tiempo",
+          "word": "abandonar",
           "score": -2
-        },
-        {
-          "word": "lamentar",
-          "score": -2
-        },
-        {
-          "word": "ataques",
-          "score": -1
         }
       ]
     },
@@ -136,21 +128,6 @@
     },
     {
       "source": "El País",
-      "title": "Después de Los Gallardos, nada puede seguir igual",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "solidaridad",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "El País",
       "title": "¿Dónde se han producido las muertes? Mapas del fatal incendio en Almería",
       "score": 3.0,
       "words": [
@@ -161,6 +138,25 @@
         {
           "word": "víctimas",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Víctor Resco, ingeniero: “Lo sucedido en Almería no es para nada inesperado, se ",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "lamentar",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
         }
       ]
     },
@@ -192,12 +188,24 @@
     },
     {
       "source": "El País",
-      "title": "Lamine Yamal: “Si a alguien debe temer Francia es a nosotros”",
-      "score": 6.6,
+      "title": "Mikel Merino vuelve a ser el héroe de España en cuartos de final",
+      "score": 6.4,
       "words": [
         {
-          "word": "importancia",
+          "word": "héroe",
           "score": 2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "ataque",
+          "score": -1
         }
       ]
     },
@@ -268,6 +276,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "El mapa de los incendios activos en España en 2026: cómo avanzan y qué zonas se ",
+      "score": 3.83,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "salvado",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y",
       "score": 4.59,
       "words": [
@@ -322,51 +357,24 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El mapa de los incendios activos en España en 2026: cómo avanzan y qué zonas se ",
-      "score": 3.83,
+      "title": "Qué sabemos del incendio de Almería: la caída de un poste eléctrico y una vía al",
+      "score": 4.2,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
+          "word": "escapar",
+          "score": -1
         },
         {
-          "word": "fuego",
-          "score": -2
+          "word": "trampa",
+          "score": -1
         },
         {
-          "word": "calor",
-          "score": 2
+          "word": "escapar",
+          "score": -1
         },
         {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "salvado",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La angustia de los evacuados por el fuego en Almería: “No sé qué pasará con mi c",
-      "score": 4.43,
-      "words": [
-        {
-          "word": "angustia",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "angustia",
-          "score": -2
+          "word": "trampa",
+          "score": -1
         },
         {
           "word": "fuego",
@@ -376,10 +384,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-23T04:57:30Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-06-23T08:30:41Z",
       "score": 4.71
@@ -1047,6 +1051,10 @@
     {
       "timestamp": "2026-07-11T09:25:19Z",
       "score": 4.72
+    },
+    {
+      "timestamp": "2026-07-11T11:01:24Z",
+      "score": 4.63
     }
   ]
 }

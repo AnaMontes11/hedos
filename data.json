@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T18:57:32Z",
-  "global_score": 4.77,
-  "articles_scored": 89,
-  "words_matched": 210,
+  "generated": "2026-07-11T20:05:54Z",
+  "global_score": 4.64,
+  "articles_scored": 87,
+  "words_matched": 204,
   "top_negative": [
     {
       "word": "negro",
@@ -11,6 +11,10 @@
     {
       "word": "perras",
       "score": -5
+    },
+    {
+      "word": "molesto",
+      "score": -4
     },
     {
       "word": "culo",
@@ -25,15 +29,11 @@
       "score": -4
     },
     {
+      "word": "torturado",
+      "score": -4
+    },
+    {
       "word": "víctimas",
-      "score": -3
-    },
-    {
-      "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "mal",
       "score": -3
     }
   ],
@@ -73,16 +73,16 @@
   ],
   "per_source": {
     "El País": 4.43,
-    "elDiario.es": 4.33,
-    "El Mundo": 3.7,
-    "ABC": 5.16,
+    "elDiario.es": 4.38,
+    "El Mundo": 4.1,
+    "ABC": 4.81,
     "El Confidencial": 5.27,
     "BBC Mundo": 5.32,
-    "France 24 ES": 4.48,
-    "La Nación AR": 5.72,
+    "France 24 ES": 4.46,
+    "La Nación AR": 4.4,
     "La Jornada MX": 4.76,
     "Desinformémonos": 5.05,
-    "Resumen Latinoam.": 4.6
+    "Resumen Latinoam.": 4.38
   },
   "articles": [
     {
@@ -234,8 +234,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Última hora del incendio de Almería: Bolaños confirma las previsiones \"favorable",
-      "score": 3.72,
+      "title": "Los bomberos aprovechan la falta de viento y la humedad para frenar al fuego en ",
+      "score": 4.22,
       "words": [
         {
           "word": "fuego",
@@ -246,16 +246,16 @@
           "score": -2
         },
         {
-          "word": "restos",
+          "word": "mejora",
+          "score": 2
+        },
+        {
+          "word": "perspectiva",
+          "score": 1
+        },
+        {
+          "word": "fuego",
           "score": -2
-        },
-        {
-          "word": "alerta",
-          "score": -1
-        },
-        {
-          "word": "provocado",
-          "score": -1
         }
       ]
     },
@@ -392,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-23T23:06:33Z",
-      "score": 4.61
-    },
     {
       "timestamp": "2026-06-24T02:56:01Z",
       "score": 4.48
@@ -1063,6 +1059,10 @@
     {
       "timestamp": "2026-07-11T18:57:32Z",
       "score": 4.77
+    },
+    {
+      "timestamp": "2026-07-11T20:05:54Z",
+      "score": 4.64
     }
   ]
 }

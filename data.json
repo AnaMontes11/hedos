@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T13:11:38Z",
-  "global_score": 4.63,
-  "articles_scored": 92,
-  "words_matched": 221,
+  "generated": "2026-07-11T14:49:47Z",
+  "global_score": 4.65,
+  "articles_scored": 89,
+  "words_matched": 220,
   "top_negative": [
     {
       "word": "negro",
@@ -47,7 +47,7 @@
       "score": 4
     },
     {
-      "word": "afecto",
+      "word": "premio",
       "score": 3
     },
     {
@@ -59,11 +59,11 @@
       "score": 3
     },
     {
-      "word": "celebra",
+      "word": "celebrado",
       "score": 3
     },
     {
-      "word": "fiel",
+      "word": "celebra",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 3.94,
+    "El País": 4.19,
     "elDiario.es": 4.29,
-    "El Mundo": 4.22,
-    "ABC": 5.3,
-    "El Confidencial": 5.22,
+    "El Mundo": 4.28,
+    "ABC": 4.76,
+    "El Confidencial": 5.25,
     "BBC Mundo": 5.53,
-    "France 24 ES": 4.25,
-    "La Nación AR": 3.91,
+    "France 24 ES": 4.11,
+    "La Nación AR": 5.01,
     "La Jornada MX": 4.76,
-    "Desinformémonos": 4.69,
-    "Resumen Latinoam.": 5.04
+    "Desinformémonos": 4.87,
+    "Resumen Latinoam.": 4.59
   },
   "articles": [
     {
@@ -117,6 +117,17 @@
     },
     {
       "source": "El País",
+      "title": "Bédar después de la tragedia: medio centenar de vecinos resisten en el corazón d",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "tragedia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | ",
       "score": 3.4,
       "words": [
@@ -131,6 +142,21 @@
         {
           "word": "víctimas",
           "score": -3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“La tecnología no llega a niveles como el de Los Gallardos”",
+      "score": 6.6,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "preparado",
+          "score": 1
         }
       ]
     },
@@ -185,56 +211,22 @@
     },
     {
       "source": "El País",
-      "title": "De la Fuente siempre acierta: Los cambios en la sala de máquinas entre Fabián y ",
-      "score": 3.4,
+      "title": "España va de otra cosa y la sensación es desconcertante",
+      "score": 5.8,
       "words": [
         {
-          "word": "autor",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Mikel Merino vuelve a ser el héroe de España en cuartos de final",
-      "score": 6.4,
-      "words": [
-        {
-          "word": "héroe",
-          "score": 2
+          "word": "sensación",
+          "score": 1
         },
         {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Sin Courtois, Bélgica se descompone: “Sentía que no me harían un segundo gol”",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "paradas",
-          "score": -1
-        },
-        {
-          "word": "lesionado",
-          "score": -2
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Última hora del incendio de Almería: el fuego avanzó 100 metros por minuto, \"una",
+      "title": "Última hora del incendio de Almería: las llamas dejan a una persona en la UCI y ",
       "score": 3.8,
       "words": [
         {
@@ -388,10 +380,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-23T11:58:09Z",
-      "score": 4.74
-    },
     {
       "timestamp": "2026-06-23T15:12:08Z",
       "score": 4.67
@@ -1059,6 +1047,10 @@
     {
       "timestamp": "2026-07-11T13:11:38Z",
       "score": 4.63
+    },
+    {
+      "timestamp": "2026-07-11T14:49:47Z",
+      "score": 4.65
     }
   ]
 }

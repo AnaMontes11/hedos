@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T17:52:49Z",
-  "global_score": 4.61,
-  "articles_scored": 87,
-  "words_matched": 193,
+  "generated": "2026-07-11T18:57:32Z",
+  "global_score": 4.77,
+  "articles_scored": 89,
+  "words_matched": 210,
   "top_negative": [
     {
       "word": "negro",
@@ -47,15 +47,7 @@
       "score": 4
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
       "word": "galardonado",
-      "score": 3
-    },
-    {
-      "word": "caro",
       "score": 3
     },
     {
@@ -67,19 +59,27 @@
       "score": 3
     },
     {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
       "word": "sentido",
+      "score": 3
+    },
+    {
+      "word": "alegre",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.32,
-    "elDiario.es": 4.4,
+    "El País": 4.43,
+    "elDiario.es": 4.33,
     "El Mundo": 3.7,
-    "ABC": 5.24,
+    "ABC": 5.16,
     "El Confidencial": 5.27,
     "BBC Mundo": 5.32,
-    "France 24 ES": 4.22,
-    "La Nación AR": 3.97,
+    "France 24 ES": 4.48,
+    "La Nación AR": 5.72,
     "La Jornada MX": 4.76,
     "Desinformémonos": 5.05,
     "Resumen Latinoam.": 4.6
@@ -106,11 +106,11 @@
     },
     {
       "source": "El País",
-      "title": "Los hoteles se vuelcan con los evacuados del incendio: “Vienen en condiciones qu",
+      "title": "“Los animales y las mascotas llevan días sin comer ni beber”: Los vecinos de Béd",
       "score": 3.4,
       "words": [
         {
-          "word": "abandonar",
+          "word": "fuego",
           "score": -2
         }
       ]
@@ -129,15 +129,19 @@
     {
       "source": "El País",
       "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | ",
-      "score": 3.4,
+      "score": 4.4,
       "words": [
         {
           "word": "fuego",
           "score": -2
         },
         {
-          "word": "afectado",
-          "score": -1
+          "word": "avanzado",
+          "score": 1
+        },
+        {
+          "word": "perspectivas",
+          "score": 1
         },
         {
           "word": "víctimas",
@@ -230,8 +234,8 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Última hora del incendio de Almería: Antas exige autorizaciones para la vuelta d",
-      "score": 3.8,
+      "title": "Última hora del incendio de Almería: Bolaños confirma las previsiones \"favorable",
+      "score": 3.72,
       "words": [
         {
           "word": "fuego",
@@ -239,6 +243,10 @@
         },
         {
           "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "restos",
           "score": -2
         },
         {
@@ -384,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-23T21:45:25Z",
-      "score": 4.62
-    },
     {
       "timestamp": "2026-06-23T23:06:33Z",
       "score": 4.61
@@ -1055,6 +1059,10 @@
     {
       "timestamp": "2026-07-11T17:52:49Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-07-11T18:57:32Z",
+      "score": 4.77
     }
   ]
 }

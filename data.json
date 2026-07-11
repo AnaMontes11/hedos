@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T15:52:51Z",
-  "global_score": 4.64,
+  "generated": "2026-07-11T16:53:58Z",
+  "global_score": 4.61,
   "articles_scored": 86,
-  "words_matched": 210,
+  "words_matched": 200,
   "top_negative": [
     {
       "word": "negro",
@@ -21,19 +21,19 @@
       "score": -4
     },
     {
-      "word": "fraude",
-      "score": -4
-    },
-    {
-      "word": "fraudulento",
-      "score": -4
-    },
-    {
       "word": "víctimas",
       "score": -3
     },
     {
       "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "ducha",
       "score": -3
     }
   ],
@@ -47,19 +47,19 @@
       "score": 4
     },
     {
-      "word": "premio",
-      "score": 3
+      "word": "milagro",
+      "score": 4
     },
     {
       "word": "galardonado",
       "score": 3
     },
     {
-      "word": "heroico",
+      "word": "amor",
       "score": 3
     },
     {
-      "word": "celebrado",
+      "word": "heroico",
       "score": 3
     },
     {
@@ -72,17 +72,17 @@
     }
   ],
   "per_source": {
-    "El País": 3.98,
-    "elDiario.es": 4.39,
-    "El Mundo": 4.03,
-    "ABC": 5.41,
-    "El Confidencial": 5.25,
+    "El País": 4.32,
+    "elDiario.es": 4.4,
+    "El Mundo": 3.7,
+    "ABC": 5.11,
+    "El Confidencial": 5.59,
     "BBC Mundo": 5.32,
-    "France 24 ES": 4.33,
-    "La Nación AR": 4.08,
+    "France 24 ES": 4.44,
+    "La Nación AR": 3.95,
     "La Jornada MX": 4.76,
     "Desinformémonos": 5.05,
-    "Resumen Latinoam.": 4.59
+    "Resumen Latinoam.": 4.37
   },
   "articles": [
     {
@@ -162,9 +162,13 @@
     },
     {
       "source": "El País",
-      "title": "¿Dónde se han producido las muertes? Mapas del fatal incendio en Almería",
-      "score": 3.0,
+      "title": "¿Qué papel jugaron el viento y el calor? Mapas del fatal incendio en Almería",
+      "score": 4.2,
       "words": [
+        {
+          "word": "calor",
+          "score": 2
+        },
         {
           "word": "fuego",
           "score": -2
@@ -206,6 +210,21 @@
         {
           "word": "logra",
           "score": 2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "España va de otra cosa y la sensación es desconcertante",
+      "score": 5.8,
+      "words": [
+        {
+          "word": "sensación",
+          "score": 1
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
         }
       ]
     },
@@ -362,40 +381,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y",
-      "score": 4.59,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-23T17:50:18Z",
-      "score": 4.48
-    },
     {
       "timestamp": "2026-06-23T19:58:24Z",
       "score": 4.59
@@ -1063,6 +1051,10 @@
     {
       "timestamp": "2026-07-11T15:52:51Z",
       "score": 4.64
+    },
+    {
+      "timestamp": "2026-07-11T16:53:58Z",
+      "score": 4.61
     }
   ]
 }

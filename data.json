@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T14:49:47Z",
-  "global_score": 4.65,
-  "articles_scored": 89,
-  "words_matched": 220,
+  "generated": "2026-07-11T15:52:51Z",
+  "global_score": 4.64,
+  "articles_scored": 86,
+  "words_matched": 210,
   "top_negative": [
     {
       "word": "negro",
@@ -21,19 +21,19 @@
       "score": -4
     },
     {
+      "word": "fraude",
+      "score": -4
+    },
+    {
+      "word": "fraudulento",
+      "score": -4
+    },
+    {
       "word": "víctimas",
       "score": -3
     },
     {
       "word": "peor",
-      "score": -3
-    },
-    {
-      "word": "mal",
-      "score": -3
-    },
-    {
-      "word": "ducha",
       "score": -3
     }
   ],
@@ -72,16 +72,16 @@
     }
   ],
   "per_source": {
-    "El País": 4.19,
-    "elDiario.es": 4.29,
-    "El Mundo": 4.28,
-    "ABC": 4.76,
+    "El País": 3.98,
+    "elDiario.es": 4.39,
+    "El Mundo": 4.03,
+    "ABC": 5.41,
     "El Confidencial": 5.25,
-    "BBC Mundo": 5.53,
-    "France 24 ES": 4.11,
-    "La Nación AR": 5.01,
+    "BBC Mundo": 5.32,
+    "France 24 ES": 4.33,
+    "La Nación AR": 4.08,
     "La Jornada MX": 4.76,
-    "Desinformémonos": 4.87,
+    "Desinformémonos": 5.05,
     "Resumen Latinoam.": 4.59
   },
   "articles": [
@@ -210,23 +210,8 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "España va de otra cosa y la sensación es desconcertante",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "sensación",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        }
-      ]
-    },
-    {
       "source": "elDiario.es",
-      "title": "Última hora del incendio de Almería: las llamas dejan a una persona en la UCI y ",
+      "title": "Última hora del incendio de Almería: Sánchez visitará este lunes la zona del inc",
       "score": 3.8,
       "words": [
         {
@@ -353,6 +338,33 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Cómo hay que actuar y cómo no ante un incendio forestal como el de Almería",
+      "score": 4.48,
+      "words": [
+        {
+          "word": "adecuado",
+          "score": 1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "tragedia",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y",
       "score": 4.59,
       "words": [
@@ -380,10 +392,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-23T15:12:08Z",
-      "score": 4.67
-    },
     {
       "timestamp": "2026-06-23T17:50:18Z",
       "score": 4.48
@@ -1051,6 +1059,10 @@
     {
       "timestamp": "2026-07-11T14:49:47Z",
       "score": 4.65
+    },
+    {
+      "timestamp": "2026-07-11T15:52:51Z",
+      "score": 4.64
     }
   ]
 }

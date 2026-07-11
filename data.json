@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-10T23:03:21Z",
-  "global_score": 4.66,
-  "articles_scored": 94,
-  "words_matched": 229,
+  "generated": "2026-07-11T02:23:35Z",
+  "global_score": 4.64,
+  "articles_scored": 87,
+  "words_matched": 219,
   "top_negative": [
     {
       "word": "negro",
@@ -43,15 +43,11 @@
       "score": 4
     },
     {
-      "word": "amor",
-      "score": 3
-    },
-    {
-      "word": "euforia",
-      "score": 3
-    },
-    {
       "word": "popular",
+      "score": 3
+    },
+    {
+      "word": "exitoso",
       "score": 3
     },
     {
@@ -69,20 +65,23 @@
     {
       "word": "premio",
       "score": 3
+    },
+    {
+      "word": "sentido",
+      "score": 3
     }
   ],
   "per_source": {
     "El País": 4.65,
     "elDiario.es": 4.45,
-    "El Mundo": 4.45,
-    "ABC": 5.06,
+    "El Mundo": 4.05,
     "El Confidencial": 5.17,
-    "BBC Mundo": 5.06,
-    "France 24 ES": 4.41,
-    "La Nación AR": 5.06,
+    "BBC Mundo": 5.5,
+    "France 24 ES": 4.11,
+    "La Nación AR": 5.17,
     "La Jornada MX": 4.76,
     "Desinformémonos": 4.42,
-    "Resumen Latinoam.": 3.97
+    "Resumen Latinoam.": 4.29
   },
   "articles": [
     {
@@ -392,10 +391,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-22T17:37:51Z",
-      "score": 4.87
-    },
     {
       "timestamp": "2026-06-22T20:42:53Z",
       "score": 4.83
@@ -1063,6 +1058,10 @@
     {
       "timestamp": "2026-07-10T23:03:21Z",
       "score": 4.66
+    },
+    {
+      "timestamp": "2026-07-11T02:23:35Z",
+      "score": 4.64
     }
   ]
 }

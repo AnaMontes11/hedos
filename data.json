@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T11:01:24Z",
+  "generated": "2026-07-11T13:11:38Z",
   "global_score": 4.63,
-  "articles_scored": 87,
-  "words_matched": 252,
+  "articles_scored": 92,
+  "words_matched": 221,
   "top_negative": [
     {
       "word": "negro",
@@ -13,19 +13,11 @@
       "score": -5
     },
     {
-      "word": "pinchazo",
-      "score": -5
-    },
-    {
-      "word": "infierno",
-      "score": -4
-    },
-    {
       "word": "culo",
       "score": -4
     },
     {
-      "word": "violación",
+      "word": "infierno",
       "score": -4
     },
     {
@@ -34,6 +26,14 @@
     },
     {
       "word": "peor",
+      "score": -3
+    },
+    {
+      "word": "mal",
+      "score": -3
+    },
+    {
+      "word": "ducha",
       "score": -3
     }
   ],
@@ -47,10 +47,6 @@
       "score": 4
     },
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "afecto",
       "score": 3
     },
@@ -59,40 +55,52 @@
       "score": 3
     },
     {
+      "word": "heroico",
+      "score": 3
+    },
+    {
       "word": "celebra",
+      "score": 3
+    },
+    {
+      "word": "fiel",
       "score": 3
     },
     {
       "word": "popular",
       "score": 3
-    },
-    {
-      "word": "celebrado",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.76,
-    "elDiario.es": 4.35,
-    "El Mundo": 4.0,
-    "ABC": 5.18,
+    "El País": 3.94,
+    "elDiario.es": 4.29,
+    "El Mundo": 4.22,
+    "ABC": 5.3,
     "El Confidencial": 5.22,
-    "BBC Mundo": 5.11,
-    "France 24 ES": 4.46,
-    "La Nación AR": 5.2,
+    "BBC Mundo": 5.53,
+    "France 24 ES": 4.25,
+    "La Nación AR": 3.91,
     "La Jornada MX": 4.76,
     "Desinformémonos": 4.69,
-    "Resumen Latinoam.": 4.85
+    "Resumen Latinoam.": 5.04
   },
   "articles": [
     {
       "source": "El País",
-      "title": "Las horas más críticas del infierno en Bédar, una isla en el desierto almeriense",
-      "score": 1.8,
+      "title": "El viento da una tregua y permite pasar “al ataque” contra el letal incendio de ",
+      "score": 3.4,
       "words": [
         {
-          "word": "infierno",
-          "score": -4
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "emergencia",
+          "score": -2
+        },
+        {
+          "word": "víctimas",
+          "score": -3
         }
       ]
     },
@@ -226,6 +234,29 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Última hora del incendio de Almería: el fuego avanzó 100 metros por minuto, \"una",
+      "score": 3.8,
+      "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "alerta",
+          "score": -1
+        },
+        {
+          "word": "provocado",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "En la zona cero de la tragedia de Almería: “Aún no hemos localizado a algunos am",
       "score": 4.27,
       "words": [
@@ -253,11 +284,11 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Última hora del incendio de Los Gallardos, en Almería: el fuego arrasa ya 6.600 ",
-      "score": 3.8,
+      "title": "La angustia de los evacuados por el fuego en Almería: “No sé qué pasará con mi c",
+      "score": 4.43,
       "words": [
         {
-          "word": "fuego",
+          "word": "angustia",
           "score": -2
         },
         {
@@ -265,12 +296,39 @@
           "score": -2
         },
         {
-          "word": "alerta",
-          "score": -1
+          "word": "negro",
+          "score": -5
         },
         {
-          "word": "provocado",
-          "score": -1
+          "word": "angustia",
+          "score": -2
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El antes y después del incendio de Almería, con imágenes de satélite",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "tragedia",
+          "score": -2
+        },
+        {
+          "word": "peor",
+          "score": -3
+        },
+        {
+          "word": "grave",
+          "score": -2
         }
       ]
     },
@@ -327,67 +385,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Cómo hay que actuar y cómo no ante un incendio forestal como el de Almería",
-      "score": 4.48,
-      "words": [
-        {
-          "word": "adecuado",
-          "score": 1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "tragedia",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Qué sabemos del incendio de Almería: la caída de un poste eléctrico y una vía al",
-      "score": 4.2,
-      "words": [
-        {
-          "word": "escapar",
-          "score": -1
-        },
-        {
-          "word": "trampa",
-          "score": -1
-        },
-        {
-          "word": "escapar",
-          "score": -1
-        },
-        {
-          "word": "trampa",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-23T08:30:41Z",
-      "score": 4.71
-    },
     {
       "timestamp": "2026-06-23T11:58:09Z",
       "score": 4.74
@@ -1054,6 +1054,10 @@
     },
     {
       "timestamp": "2026-07-11T11:01:24Z",
+      "score": 4.63
+    },
+    {
+      "timestamp": "2026-07-11T13:11:38Z",
       "score": 4.63
     }
   ]

@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-11T23:51:57Z",
-  "global_score": 4.79,
-  "articles_scored": 91,
-  "words_matched": 223,
+  "generated": "2026-07-12T02:28:31Z",
+  "global_score": 4.81,
+  "articles_scored": 88,
+  "words_matched": 217,
   "top_negative": [
     {
       "word": "negro",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganador",
       "score": 4
     },
@@ -63,23 +59,27 @@
       "score": 3
     },
     {
-      "word": "amor",
+      "word": "emoción",
       "score": 3
     },
     {
       "word": "heroico",
       "score": 3
+    },
+    {
+      "word": "celebra",
+      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.47,
+    "El País": 4.46,
     "elDiario.es": 4.38,
-    "El Mundo": 4.11,
-    "ABC": 4.65,
+    "El Mundo": 4.3,
+    "ABC": 4.39,
     "El Confidencial": 5.27,
-    "BBC Mundo": 5.88,
-    "France 24 ES": 4.73,
-    "La Nación AR": 5.51,
+    "BBC Mundo": 6.28,
+    "France 24 ES": 4.98,
+    "La Nación AR": 5.33,
     "La Jornada MX": 4.76,
     "Desinformémonos": 5.05,
     "Resumen Latinoam.": 4.66
@@ -204,31 +204,12 @@
     },
     {
       "source": "El País",
-      "title": "Noruega - Inglaterra, el partido de cuartos de final del Mundial 2026 en directo",
-      "score": 5.4,
+      "title": "Argentina - Suiza, en vivo | El gol de Mac Allister mantiene a Argentina con ven",
+      "score": 6.6,
       "words": [
         {
-          "word": "gracias",
+          "word": "ventaja",
           "score": 2
-        },
-        {
-          "word": "descuento",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "España va de otra cosa y la sensación es desconcertante",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "sensación",
-          "score": 1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
         }
       ]
     },
@@ -389,13 +370,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y",
+      "score": 4.59,
+      "words": [
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-24T13:19:53Z",
-      "score": 5.02
-    },
     {
       "timestamp": "2026-06-24T16:17:33Z",
       "score": 4.98
@@ -1063,6 +1067,10 @@
     {
       "timestamp": "2026-07-11T23:51:57Z",
       "score": 4.79
+    },
+    {
+      "timestamp": "2026-07-12T02:28:31Z",
+      "score": 4.81
     }
   ]
 }

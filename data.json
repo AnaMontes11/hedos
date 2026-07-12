@@ -1,15 +1,15 @@
 {
-  "generated": "2026-07-12T11:56:42Z",
-  "global_score": 4.83,
-  "articles_scored": 91,
-  "words_matched": 291,
+  "generated": "2026-07-12T13:20:57Z",
+  "global_score": 4.86,
+  "articles_scored": 96,
+  "words_matched": 298,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "molesto",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -17,7 +17,7 @@
       "score": -4
     },
     {
-      "word": "fraude",
+      "word": "torturas",
       "score": -4
     },
     {
@@ -39,11 +39,7 @@
   ],
   "top_positive": [
     {
-      "word": "excepcional",
-      "score": 5
-    },
-    {
-      "word": "ganar",
+      "word": "triunfo",
       "score": 4
     },
     {
@@ -51,8 +47,8 @@
       "score": 4
     },
     {
-      "word": "celebrado",
-      "score": 3
+      "word": "ganar",
+      "score": 4
     },
     {
       "word": "riqueza",
@@ -69,20 +65,24 @@
     {
       "word": "hermosa",
       "score": 3
+    },
+    {
+      "word": "premios",
+      "score": 3
     }
   ],
   "per_source": {
     "El País": 4.04,
-    "elDiario.es": 4.45,
-    "El Mundo": 4.24,
-    "ABC": 5.33,
-    "El Confidencial": 5.35,
-    "BBC Mundo": 4.85,
-    "France 24 ES": 5.39,
-    "La Nación AR": 4.4,
+    "elDiario.es": 4.53,
+    "El Mundo": 4.21,
+    "ABC": 5.04,
+    "El Confidencial": 4.98,
+    "BBC Mundo": 5.03,
+    "France 24 ES": 5.12,
+    "La Nación AR": 6.07,
     "La Jornada MX": 5.3,
     "Desinformémonos": 4.7,
-    "Resumen Latinoam.": 4.8
+    "Resumen Latinoam.": 4.69
   },
   "articles": [
     {
@@ -196,6 +196,168 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Trump desata el caos con nuevos ataques sobre Irán, insultos a sus aliados de la",
+      "score": 4.21,
+      "words": [
+        {
+          "word": "caos",
+          "score": -2
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "insultos",
+          "score": -2
+        },
+        {
+          "word": "crisis",
+          "score": -3
+        },
+        {
+          "word": "caos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Irán responde a los nuevos ataques de EEUU con una ofensiva contra objetivos est",
+      "score": 4.28,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "disparar",
+          "score": -1
+        },
+        {
+          "word": "caos",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Amistades peligrosas: cómo se fraguó el apoyo incondicional de Alemania a Israel",
+      "score": 5.02,
+      "words": [
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        },
+        {
+          "word": "ayuda",
+          "score": 2
+        },
+        {
+          "word": "importante",
+          "score": 2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Una niña de 8 años muere por un ataque israelí en el centro de Gaza",
+      "score": 4.27,
+      "words": [
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "viva",
+          "score": 1
+        },
+        {
+          "word": "ataque",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El 'Melonellum': Meloni pisa el acelerador para aprobar una polémica reforma del",
+      "score": 5.73,
+      "words": [
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "polémica",
+          "score": -2
+        },
+        {
+          "word": "premio",
+          "score": 3
+        },
+        {
+          "word": "anti",
+          "score": -1
+        },
+        {
+          "word": "peligro",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Las cuentas de elDiario.es en 2025: otra forma de hacer periodismo",
+      "score": 4.94,
+      "words": [
+        {
+          "word": "aumenta",
+          "score": 1
+        },
+        {
+          "word": "pregonan",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "El calor dispara las muertes en España a cifras sin precedentes y amenaza al sis",
       "score": 5.34,
       "words": [
@@ -247,171 +409,9 @@
           "score": 1
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Última hora del incendio de Almería, en directo: el fuego de Los Gallardos queda",
-      "score": 4.04,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "provocado",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Los bomberos aprovechan la falta de viento y la humedad para frenar al fuego en ",
-      "score": 4.22,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "mejora",
-          "score": 2
-        },
-        {
-          "word": "perspectiva",
-          "score": 1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El antes y después del incendio de Almería, con imágenes de satélite",
-      "score": 3.0,
-      "words": [
-        {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "tragedia",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "grave",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las cuentas de elDiario.es en 2025: otra forma de hacer periodismo",
-      "score": 4.94,
-      "words": [
-        {
-          "word": "aumenta",
-          "score": 1
-        },
-        {
-          "word": "pregonan",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El desinterés de jueces y fiscales deja impunes las principales operaciones ileg",
-      "score": 4.52,
-      "words": [
-        {
-          "word": "asuntos",
-          "score": 1
-        },
-        {
-          "word": "arrastra",
-          "score": -1
-        },
-        {
-          "word": "robar",
-          "score": -2
-        },
-        {
-          "word": "ilegal",
-          "score": -3
-        },
-        {
-          "word": "guerra",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Sánchez se prepara para un tórrido julio judicial pero recibe como un balón de o",
-      "score": 4.6,
-      "words": [
-        {
-          "word": "recelo",
-          "score": -2
-        },
-        {
-          "word": "recelo",
-          "score": -2
-        },
-        {
-          "word": "espera",
-          "score": -1
-        },
-        {
-          "word": "sentencia",
-          "score": -2
-        },
-        {
-          "word": "carga",
-          "score": -2
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-25T00:08:23Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-06-25T05:02:20Z",
       "score": 4.66
@@ -1079,6 +1079,10 @@
     {
       "timestamp": "2026-07-12T11:56:42Z",
       "score": 4.83
+    },
+    {
+      "timestamp": "2026-07-12T13:20:57Z",
+      "score": 4.86
     }
   ]
 }

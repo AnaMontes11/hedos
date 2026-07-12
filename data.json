@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T14:53:06Z",
-  "global_score": 4.76,
-  "articles_scored": 91,
-  "words_matched": 305,
+  "generated": "2026-07-12T15:56:37Z",
+  "global_score": 4.75,
+  "articles_scored": 96,
+  "words_matched": 295,
   "top_negative": [
     {
       "word": "negro",
@@ -17,23 +17,23 @@
       "score": -4
     },
     {
-      "word": "torturas",
-      "score": -4
-    },
-    {
-      "word": "violador",
-      "score": -4
-    },
-    {
       "word": "violación",
       "score": -4
+    },
+    {
+      "word": "muerto",
+      "score": -3
+    },
+    {
+      "word": "crisis",
+      "score": -3
     },
     {
       "word": "odio",
       "score": -3
     },
     {
-      "word": "muerto",
+      "word": "racista",
       "score": -3
     }
   ],
@@ -43,15 +43,15 @@
       "score": 4
     },
     {
-      "word": "milagro",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
     {
-      "word": "celebrado",
+      "word": "milagro",
+      "score": 4
+    },
+    {
+      "word": "popular",
       "score": 3
     },
     {
@@ -72,14 +72,14 @@
     }
   ],
   "per_source": {
-    "El País": 4.17,
-    "elDiario.es": 4.63,
-    "El Mundo": 4.07,
-    "ABC": 4.58,
-    "El Confidencial": 5.01,
+    "El País": 3.85,
+    "elDiario.es": 4.32,
+    "El Mundo": 4.59,
+    "ABC": 4.68,
+    "El Confidencial": 4.98,
     "BBC Mundo": 5.03,
-    "France 24 ES": 5.21,
-    "La Nación AR": 4.6,
+    "France 24 ES": 4.47,
+    "La Nación AR": 5.57,
     "La Jornada MX": 5.3,
     "Desinformémonos": 4.7,
     "Resumen Latinoam.": 4.92
@@ -87,35 +87,12 @@
   "articles": [
     {
       "source": "El País",
-      "title": "La espiral xenófoba: así se han endurecido el discurso derechista y el clima soc",
-      "score": 4.4,
+      "title": "Última gran batida en Los Gallardos: cien operativos barren 217 hectáreas quemad",
+      "score": 3.4,
       "words": [
         {
-          "word": "visión",
-          "score": 1
-        },
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "riesgo",
+          "word": "muerte",
           "score": -2
-        },
-        {
-          "word": "creciente",
-          "score": 1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Inquietud en el PP tras los últimos tropiezos de Feijóo: “La sensación es que va",
-      "score": 5.8,
-      "words": [
-        {
-          "word": "sensación",
-          "score": 1
         }
       ]
     },
@@ -154,6 +131,52 @@
         {
           "word": "mayor",
           "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "La espiral xenófoba: así se han endurecido el discurso derechista y el clima soc",
+      "score": 4.4,
+      "words": [
+        {
+          "word": "visión",
+          "score": 1
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "riesgo",
+          "score": -2
+        },
+        {
+          "word": "creciente",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Francia considera “racista” e “inaceptable” el artículo de Rajoy sobre la selecc",
+      "score": 4.0,
+      "words": [
+        {
+          "word": "racista",
+          "score": -3
+        },
+        {
+          "word": "inaceptable",
+          "score": -2
+        },
+        {
+          "word": "mejor",
+          "score": 3
+        },
+        {
+          "word": "racismo",
+          "score": -3
         }
       ]
     },
@@ -274,16 +297,16 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Irán responde a los nuevos ataques de EEUU con una ofensiva contra objetivos est",
-      "score": 4.27,
+      "title": "EEUU asegura que Irán \"no controla el estrecho\" tras la respuesta de Teherán a u",
+      "score": 4.4,
       "words": [
         {
-          "word": "ataques",
-          "score": -1
+          "word": "asegura",
+          "score": 2
         },
         {
-          "word": "ataques",
-          "score": -1
+          "word": "asegura",
+          "score": 2
         },
         {
           "word": "ataques",
@@ -296,33 +319,6 @@
         {
           "word": "caos",
           "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Amistades peligrosas: cómo se fraguó el apoyo incondicional de Alemania a Israel",
-      "score": 5.02,
-      "words": [
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
-        },
-        {
-          "word": "ayuda",
-          "score": 2
-        },
-        {
-          "word": "importante",
-          "score": 2
-        },
-        {
-          "word": "apoyo",
-          "score": 2
         }
       ]
     },
@@ -349,33 +345,6 @@
         },
         {
           "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El 'Melonellum': Meloni pisa el acelerador para aprobar una polémica reforma del",
-      "score": 5.73,
-      "words": [
-        {
-          "word": "polémica",
-          "score": -2
-        },
-        {
-          "word": "polémica",
-          "score": -2
-        },
-        {
-          "word": "premio",
-          "score": 3
-        },
-        {
-          "word": "anti",
-          "score": -1
-        },
-        {
-          "word": "peligro",
           "score": -2
         }
       ]
@@ -433,13 +402,36 @@
           "score": 2
         }
       ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El incendio mortal de Almería sorprende a la Junta con retenes \"incompletos\": \"A",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "sorprende",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "sorprende",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "aumenta",
+          "score": 1
+        }
+      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-25T08:56:38Z",
-      "score": 4.69
-    },
     {
       "timestamp": "2026-06-25T11:40:17Z",
       "score": 4.76
@@ -1107,6 +1099,10 @@
     {
       "timestamp": "2026-07-12T14:53:06Z",
       "score": 4.76
+    },
+    {
+      "timestamp": "2026-07-12T15:56:37Z",
+      "score": 4.75
     }
   ]
 }

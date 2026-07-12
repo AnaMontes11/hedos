@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T21:45:28Z",
-  "global_score": 4.61,
-  "articles_scored": 89,
-  "words_matched": 274,
+  "generated": "2026-07-12T22:43:20Z",
+  "global_score": 4.6,
+  "articles_scored": 90,
+  "words_matched": 276,
   "top_negative": [
     {
       "word": "negro",
@@ -39,10 +39,6 @@
   ],
   "top_positive": [
     {
-      "word": "triunfo",
-      "score": 4
-    },
-    {
       "word": "ganar",
       "score": 4
     },
@@ -69,6 +65,10 @@
     {
       "word": "popular",
       "score": 3
+    },
+    {
+      "word": "lealtad",
+      "score": 3
     }
   ],
   "per_source": {
@@ -76,10 +76,10 @@
     "elDiario.es": 4.47,
     "El Mundo": 4.51,
     "ABC": 4.2,
-    "El Confidencial": 4.5,
+    "El Confidencial": 4.85,
     "BBC Mundo": 5.07,
     "France 24 ES": 4.44,
-    "La Nación AR": 5.12,
+    "La Nación AR": 4.38,
     "La Jornada MX": 5.3,
     "Desinformémonos": 4.7,
     "Resumen Latinoam.": 4.96
@@ -436,10 +436,6 @@
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-25T21:41:06Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-06-25T23:15:10Z",
       "score": 4.73
@@ -1107,6 +1103,10 @@
     {
       "timestamp": "2026-07-12T21:45:28Z",
       "score": 4.61
+    },
+    {
+      "timestamp": "2026-07-12T22:43:20Z",
+      "score": 4.6
     }
   ]
 }

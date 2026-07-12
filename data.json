@@ -1,15 +1,11 @@
 {
-  "generated": "2026-07-12T02:28:31Z",
-  "global_score": 4.81,
+  "generated": "2026-07-12T05:54:26Z",
+  "global_score": 4.8,
   "articles_scored": 88,
-  "words_matched": 217,
+  "words_matched": 289,
   "top_negative": [
     {
       "word": "negro",
-      "score": -5
-    },
-    {
-      "word": "perras",
       "score": -5
     },
     {
@@ -21,7 +17,7 @@
       "score": -4
     },
     {
-      "word": "infierno",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -29,25 +25,37 @@
       "score": -4
     },
     {
-      "word": "víctimas",
+      "word": "odio",
       "score": -3
     },
     {
-      "word": "peor",
+      "word": "muerto",
+      "score": -3
+    },
+    {
+      "word": "crisis",
       "score": -3
     }
   ],
   "top_positive": [
     {
+      "word": "excepcional",
+      "score": 5
+    },
+    {
       "word": "ganador",
       "score": 4
     },
     {
-      "word": "ganar",
+      "word": "triunfo",
       "score": 4
     },
     {
       "word": "brillante",
+      "score": 4
+    },
+    {
+      "word": "milagro",
       "score": 4
     },
     {
@@ -59,27 +67,19 @@
       "score": 3
     },
     {
-      "word": "emoción",
-      "score": 3
-    },
-    {
       "word": "heroico",
-      "score": 3
-    },
-    {
-      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.46,
-    "elDiario.es": 4.38,
+    "El País": 4.5,
+    "elDiario.es": 4.42,
     "El Mundo": 4.3,
-    "ABC": 4.39,
-    "El Confidencial": 5.27,
-    "BBC Mundo": 6.28,
-    "France 24 ES": 4.98,
-    "La Nación AR": 5.33,
+    "ABC": 4.33,
+    "El Confidencial": 5.06,
+    "BBC Mundo": 5.0,
+    "France 24 ES": 5.39,
+    "La Nación AR": 5.88,
     "La Jornada MX": 4.76,
     "Desinformémonos": 5.05,
     "Resumen Latinoam.": 4.66
@@ -87,129 +87,168 @@
   "articles": [
     {
       "source": "El País",
-      "title": "El viento da una tregua y permite pasar “al ataque” contra el letal incendio de ",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "emergencia",
-          "score": -2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "“Los animales y las mascotas llevan días sin comer ni beber”: Los vecinos de Béd",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Bédar después de la tragedia: medio centenar de vecinos resisten en el corazón d",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "tragedia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | ",
+      "title": "La espiral xenófoba: así se han endurecido el discurso derechista y el clima soc",
       "score": 4.4,
       "words": [
         {
-          "word": "fuego",
+          "word": "visión",
+          "score": 1
+        },
+        {
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "riesgo",
           "score": -2
         },
         {
-          "word": "avanzado",
+          "word": "creciente",
           "score": 1
-        },
-        {
-          "word": "perspectivas",
-          "score": 1
-        },
-        {
-          "word": "víctimas",
-          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "“La tecnología no llega a niveles como el de Los Gallardos”",
-      "score": 6.6,
+      "title": "Viento, maleza y viviendas sueltas: así se convirtió un “chispazo” en un incendi",
+      "score": 3.4,
       "words": [
         {
-          "word": "mejor",
-          "score": 3
-        },
-        {
-          "word": "preparado",
-          "score": 1
+          "word": "fuego",
+          "score": -2
         }
       ]
     },
     {
       "source": "El País",
-      "title": "¿Qué papel jugaron el viento y el calor? Mapas del fatal incendio en Almería",
-      "score": 4.2,
+      "title": "Ángel Collado, el alcalde que avisó del incendio a los vecinos puerta por puerta",
+      "score": 4.47,
+      "words": [
+        {
+          "word": "ganando",
+          "score": 2
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "reto",
+          "score": -1
+        },
+        {
+          "word": "difícil",
+          "score": -2
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las olas de calor encadenadas llevaron al extremo el riesgo de incendio en Los G",
+      "score": 5.0,
       "words": [
         {
           "word": "calor",
           "score": 2
         },
         {
-          "word": "fuego",
+          "word": "riesgo",
           "score": -2
-        },
-        {
-          "word": "víctimas",
-          "score": -3
         }
       ]
     },
     {
       "source": "El País",
-      "title": "Víctor Resco, ingeniero: “Lo sucedido en Almería no es para nada inesperado, se ",
-      "score": 3.67,
+      "title": "Javier Negre Inc, la multinacional del bulo",
+      "score": 3.4,
       "words": [
+        {
+          "word": "propaganda",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Argentina, semifinalista de angustia en angustia: hasta la prórroga no puede con",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "angustia",
+          "score": -2
+        },
+        {
+          "word": "angustia",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Los datos de España y Francia: ¿quién ha jugado mejor en el Mundial?",
+      "score": 7.4,
+      "words": [
+        {
+          "word": "mejor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El calor dispara las muertes en España a cifras sin precedentes y amenaza al sis",
+      "score": 5.34,
+      "words": [
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        },
+        {
+          "word": "amenaza",
+          "score": -2
+        },
+        {
+          "word": "calor",
+          "score": 2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El incendio mortal de Almería sorprende a la Junta con retenes \"incompletos\": \"A",
+      "score": 4.53,
+      "words": [
+        {
+          "word": "sorprende",
+          "score": 2
+        },
         {
           "word": "tiempo",
           "score": -2
         },
         {
-          "word": "lamentar",
+          "word": "sorprende",
+          "score": 2
+        },
+        {
+          "word": "tiempo",
           "score": -2
         },
         {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Argentina - Suiza, en vivo | El gol de Mac Allister mantiene a Argentina con ven",
-      "score": 6.6,
-      "words": [
-        {
-          "word": "ventaja",
-          "score": 2
+          "word": "aumenta",
+          "score": 1
         }
       ]
     },
@@ -242,60 +281,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "En la zona cero de la tragedia de Almería: “Aún no hemos localizado a algunos am",
-      "score": 4.27,
-      "words": [
-        {
-          "word": "tragedia",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "tragedia",
-          "score": -2
-        },
-        {
-          "word": "peor",
-          "score": -3
-        },
-        {
-          "word": "grave",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "La angustia de los evacuados por el fuego en Almería: “No sé qué pasará con mi c",
-      "score": 4.43,
-      "words": [
-        {
-          "word": "angustia",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "negro",
-          "score": -5
-        },
-        {
-          "word": "angustia",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "El antes y después del incendio de Almería, con imágenes de satélite",
       "score": 3.0,
       "words": [
@@ -319,91 +304,114 @@
     },
     {
       "source": "elDiario.es",
-      "title": "El mapa de los incendios activos en España en 2026: cómo avanzan y qué zonas se ",
-      "score": 3.83,
+      "title": "Las cuentas de elDiario.es en 2025: otra forma de hacer periodismo",
+      "score": 4.94,
       "words": [
         {
-          "word": "fuego",
-          "score": -2
+          "word": "aumenta",
+          "score": 1
         },
         {
-          "word": "fuego",
+          "word": "pregonan",
           "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
         },
         {
           "word": "solo",
           "score": -2
         },
         {
-          "word": "salvado",
-          "score": 2
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "Cómo hay que actuar y cómo no ante un incendio forestal como el de Almería",
-      "score": 4.48,
+      "title": "El desinterés de jueces y fiscales deja impunes las principales operaciones ileg",
+      "score": 4.52,
       "words": [
         {
-          "word": "adecuado",
+          "word": "asuntos",
           "score": 1
         },
         {
-          "word": "fuego",
+          "word": "arrastra",
+          "score": -1
+        },
+        {
+          "word": "robar",
           "score": -2
         },
         {
-          "word": "tragedia",
-          "score": -2
+          "word": "ilegal",
+          "score": -3
         },
         {
-          "word": "fuego",
+          "word": "guerra",
           "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
         }
       ]
     },
     {
       "source": "elDiario.es",
-      "title": "El calor extremo deja ya más de 30.000 hectáreas arrasadas, miles de evacuados y",
-      "score": 4.59,
+      "title": "Sánchez se prepara para un tórrido julio judicial pero recibe como un balón de o",
+      "score": 4.6,
       "words": [
         {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
+          "word": "recelo",
           "score": -2
         },
         {
-          "word": "calor",
-          "score": 2
+          "word": "recelo",
+          "score": -2
+        },
+        {
+          "word": "espera",
+          "score": -1
+        },
+        {
+          "word": "sentencia",
+          "score": -2
+        },
+        {
+          "word": "carga",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "El PP y la patronal tratan de enfrentar a los trabajadores por el aumento de baj",
+      "score": 3.94,
+      "words": [
+        {
+          "word": "celebra",
+          "score": 3
+        },
+        {
+          "word": "fraude",
+          "score": -4
+        },
+        {
+          "word": "acuerdo",
+          "score": 1
+        },
+        {
+          "word": "enfermos",
+          "score": -2
+        },
+        {
+          "word": "popular",
+          "score": 3
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-24T16:17:33Z",
-      "score": 4.98
-    },
     {
       "timestamp": "2026-06-24T18:49:12Z",
       "score": 4.88
@@ -1071,6 +1079,10 @@
     {
       "timestamp": "2026-07-12T02:28:31Z",
       "score": 4.81
+    },
+    {
+      "timestamp": "2026-07-12T05:54:26Z",
+      "score": 4.8
     }
   ]
 }

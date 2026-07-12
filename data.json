@@ -1,8 +1,8 @@
 {
-  "generated": "2026-07-12T13:20:57Z",
-  "global_score": 4.86,
-  "articles_scored": 96,
-  "words_matched": 298,
+  "generated": "2026-07-12T14:53:06Z",
+  "global_score": 4.76,
+  "articles_scored": 91,
+  "words_matched": 305,
   "top_negative": [
     {
       "word": "negro",
@@ -21,6 +21,10 @@
       "score": -4
     },
     {
+      "word": "violador",
+      "score": -4
+    },
+    {
       "word": "violación",
       "score": -4
     },
@@ -30,10 +34,6 @@
     },
     {
       "word": "muerto",
-      "score": -3
-    },
-    {
-      "word": "crisis",
       "score": -3
     }
   ],
@@ -51,6 +51,10 @@
       "score": 4
     },
     {
+      "word": "celebrado",
+      "score": 3
+    },
+    {
       "word": "riqueza",
       "score": 3
     },
@@ -65,24 +69,20 @@
     {
       "word": "hermosa",
       "score": 3
-    },
-    {
-      "word": "premios",
-      "score": 3
     }
   ],
   "per_source": {
-    "El País": 4.04,
-    "elDiario.es": 4.53,
-    "El Mundo": 4.21,
-    "ABC": 5.04,
-    "El Confidencial": 4.98,
+    "El País": 4.17,
+    "elDiario.es": 4.63,
+    "El Mundo": 4.07,
+    "ABC": 4.58,
+    "El Confidencial": 5.01,
     "BBC Mundo": 5.03,
-    "France 24 ES": 5.12,
-    "La Nación AR": 6.07,
+    "France 24 ES": 5.21,
+    "La Nación AR": 4.6,
     "La Jornada MX": 5.3,
     "Desinformémonos": 4.7,
-    "Resumen Latinoam.": 4.69
+    "Resumen Latinoam.": 4.92
   },
   "articles": [
     {
@@ -159,37 +159,61 @@
     },
     {
       "source": "El País",
+      "title": "Rusia está perdiendo la guerra, Ucrania la gana solo a medias",
+      "score": 3.2,
+      "words": [
+        {
+          "word": "perdiendo",
+          "score": -3
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "solo",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“Rusia no está ganando la guerra pero esto no evita el desastre para Ucrania”",
+      "score": 4.54,
+      "words": [
+        {
+          "word": "ganando",
+          "score": 2
+        },
+        {
+          "word": "guerra",
+          "score": -2
+        },
+        {
+          "word": "evita",
+          "score": -1
+        },
+        {
+          "word": "desastre",
+          "score": -2
+        },
+        {
+          "word": "conflicto",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
       "title": "Javier Negre Inc, la multinacional del bulo",
       "score": 3.4,
       "words": [
         {
           "word": "propaganda",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Argentina, semifinalista de angustia en angustia: hasta la prórroga no puede con",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "angustia",
-          "score": -2
-        },
-        {
-          "word": "angustia",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La tristeza argentina",
-      "score": 3.4,
-      "words": [
-        {
-          "word": "lucha",
           "score": -2
         }
       ]
@@ -223,8 +247,35 @@
     },
     {
       "source": "elDiario.es",
+      "title": "Cinco muertos, entre ellos una niña de ocho años, en varios ataques israelíes co",
+      "score": 4.11,
+      "words": [
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        },
+        {
+          "word": "muerto",
+          "score": -3
+        },
+        {
+          "word": "ataques",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
       "title": "Irán responde a los nuevos ataques de EEUU con una ofensiva contra objetivos est",
-      "score": 4.28,
+      "score": 4.27,
       "words": [
         {
           "word": "ataques",
@@ -277,28 +328,28 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Una niña de 8 años muere por un ataque israelí en el centro de Gaza",
-      "score": 4.27,
+      "title": "Varios ministros de Francia cargan contra las palabras racistas de Rajoy sobre s",
+      "score": 4.17,
       "words": [
         {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "ataque",
-          "score": -1
-        },
-        {
-          "word": "muerto",
+          "word": "racistas",
           "score": -3
         },
         {
-          "word": "viva",
-          "score": 1
+          "word": "racistas",
+          "score": -3
         },
         {
-          "word": "ataque",
-          "score": -1
+          "word": "odio",
+          "score": -3
+        },
+        {
+          "word": "metódico",
+          "score": 2
+        },
+        {
+          "word": "solo",
+          "score": -2
         }
       ]
     },
@@ -382,40 +433,9 @@
           "score": 2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El incendio mortal de Almería sorprende a la Junta con retenes \"incompletos\": \"A",
-      "score": 4.53,
-      "words": [
-        {
-          "word": "sorprende",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "sorprende",
-          "score": 2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "aumenta",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-25T05:02:20Z",
-      "score": 4.66
-    },
     {
       "timestamp": "2026-06-25T08:56:38Z",
       "score": 4.69
@@ -1083,6 +1103,10 @@
     {
       "timestamp": "2026-07-12T13:20:57Z",
       "score": 4.86
+    },
+    {
+      "timestamp": "2026-07-12T14:53:06Z",
+      "score": 4.76
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "generated": "2026-07-13T02:30:13Z",
-  "global_score": 4.7,
-  "articles_scored": 96,
-  "words_matched": 289,
+  "generated": "2026-07-13T06:13:11Z",
+  "global_score": 4.71,
+  "articles_scored": 91,
+  "words_matched": 299,
   "top_negative": [
     {
       "word": "negro",
       "score": -5
     },
     {
-      "word": "fraude",
+      "word": "culo",
       "score": -4
     },
     {
-      "word": "culo",
+      "word": "fraude",
       "score": -4
     },
     {
@@ -21,23 +21,27 @@
       "score": -4
     },
     {
-      "word": "crisis",
-      "score": -3
-    },
-    {
-      "word": "víctimas",
-      "score": -3
-    },
-    {
-      "word": "odio",
+      "word": "mal",
       "score": -3
     },
     {
       "word": "racista",
       "score": -3
+    },
+    {
+      "word": "racismo",
+      "score": -3
+    },
+    {
+      "word": "delitos",
+      "score": -3
     }
   ],
   "top_positive": [
+    {
+      "word": "excepcional",
+      "score": 5
+    },
     {
       "word": "alegría",
       "score": 4
@@ -51,6 +55,10 @@
       "score": 4
     },
     {
+      "word": "ganador",
+      "score": 4
+    },
+    {
       "word": "milagro",
       "score": 4
     },
@@ -59,27 +67,19 @@
       "score": 3
     },
     {
-      "word": "hermosa",
-      "score": 3
-    },
-    {
-      "word": "suerte",
-      "score": 3
-    },
-    {
       "word": "amor",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.8,
-    "elDiario.es": 4.47,
-    "El Mundo": 3.92,
-    "ABC": 4.5,
-    "El Confidencial": 4.83,
-    "BBC Mundo": 5.07,
+    "El País": 3.79,
+    "elDiario.es": 4.72,
+    "El Mundo": 4.07,
+    "ABC": 4.92,
+    "El Confidencial": 4.1,
+    "BBC Mundo": 5.34,
     "France 24 ES": 4.51,
-    "La Nación AR": 5.34,
+    "La Nación AR": 4.84,
     "La Jornada MX": 5.3,
     "Desinformémonos": 4.7,
     "Resumen Latinoam.": 5.27
@@ -87,9 +87,73 @@
   "articles": [
     {
       "source": "El País",
-      "title": "Última gran batida en Los Gallardos: cien operativos barren 217 hectáreas quemad",
+      "title": "Ángel Víctor Torres: “En 2027 puede haber 500.000 nuevos nacionalizados con dere",
+      "score": 5.0,
+      "words": [
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "resolver",
+          "score": 1
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "“Las vigas se quemaban, cogí leche, agua, vinagre, cerveza, vino, lo que pillara",
       "score": 3.4,
       "words": [
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Las imágenes de uno de los supervivientes del incendio de Los Gallardos: “Menos ",
+      "score": 3.0,
+      "words": [
+        {
+          "word": "mal",
+          "score": -3
+        },
+        {
+          "word": "fuego",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "Imputado el alcalde del PP de Móstoles por acoso sexual y laboral a una exedil d",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acoso",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "El País",
+      "title": "El último recurso de Isak y Jonathan Andic ante el “sufrimiento” por su relación",
+      "score": 3.67,
+      "words": [
+        {
+          "word": "sufrimiento",
+          "score": -2
+        },
+        {
+          "word": "bloqueo",
+          "score": -1
+        },
         {
           "word": "muerte",
           "score": -2
@@ -98,62 +162,12 @@
     },
     {
       "source": "El País",
-      "title": "Ángel Collado, el alcalde que avisó del incendio a los vecinos puerta por puerta",
-      "score": 4.6,
+      "title": "Dentro de la Casa Blanca: así ejerce Trump un poder desenfrenado para dejar su h",
+      "score": 4.2,
       "words": [
         {
-          "word": "ganando",
-          "score": 2
-        },
-        {
-          "word": "castigado",
-          "score": -2
-        },
-        {
-          "word": "reto",
+          "word": "dejar",
           "score": -1
-        },
-        {
-          "word": "difícil",
-          "score": -2
-        },
-        {
-          "word": "mayor",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | ",
-      "score": 2.6,
-      "words": [
-        {
-          "word": "víctimas",
-          "score": -3
-        }
-      ]
-    },
-    {
-      "source": "El País",
-      "title": "La espiral xenófoba: así se han endurecido el discurso derechista y el clima soc",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "visión",
-          "score": 1
-        },
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "riesgo",
-          "score": -2
-        },
-        {
-          "word": "creciente",
-          "score": 1
         }
       ]
     },
@@ -185,52 +199,164 @@
       ]
     },
     {
-      "source": "El País",
-      "title": "Rusia está perdiendo la guerra, Ucrania la gana solo a medias",
-      "score": 3.2,
+      "source": "elDiario.es",
+      "title": "Feijóo y su dirección ocultan al Congreso los ingresos que perciben del PP",
+      "score": 5.35,
       "words": [
         {
-          "word": "perdiendo",
-          "score": -3
+          "word": "acuerdo",
+          "score": 1
         },
         {
-          "word": "guerra",
+          "word": "cargos",
           "score": -2
         },
         {
-          "word": "solo",
-          "score": -2
+          "word": "bienes",
+          "score": 2
         },
         {
-          "word": "conflicto",
+          "word": "cumple",
+          "score": 2
+        },
+        {
+          "word": "ausencia",
           "score": -2
         }
       ]
     },
     {
-      "source": "El País",
-      "title": "“Rusia no está ganando la guerra pero esto no evita el desastre para Ucrania”",
-      "score": 4.54,
+      "source": "elDiario.es",
+      "title": "Cinco magistrados estudian la decisión del juez Peinado de mandar a Begoña Gómez",
+      "score": 4.98,
       "words": [
         {
-          "word": "ganando",
-          "score": 2
+          "word": "popular",
+          "score": 3
         },
         {
-          "word": "guerra",
-          "score": -2
+          "word": "popular",
+          "score": 3
         },
         {
-          "word": "evita",
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "popular",
+          "score": 3
+        },
+        {
+          "word": "veredicto",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La decisión del TJUE sobre la amnistía marcará el futuro de Puigdemont y el fina",
+      "score": 5.13,
+      "words": [
+        {
+          "word": "espera",
           "score": -1
         },
         {
-          "word": "desastre",
+          "word": "sentencia",
           "score": -2
         },
         {
-          "word": "conflicto",
+          "word": "resolver",
+          "score": 1
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        },
+        {
+          "word": "mayor",
+          "score": 3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Estamos pidiendo bajas por encima de nuestras posibilidades",
+      "score": 4.18,
+      "words": [
+        {
+          "word": "posibilidades",
+          "score": 2
+        },
+        {
+          "word": "posibilidades",
+          "score": 2
+        },
+        {
+          "word": "derecho",
+          "score": 1
+        },
+        {
+          "word": "lucha",
           "score": -2
+        },
+        {
+          "word": "abuso",
+          "score": -3
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "La jueza imputa al alcalde de Móstoles acusado de acoso sexual y laboral a una e",
+      "score": 3.92,
+      "words": [
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "acusado",
+          "score": -2
+        },
+        {
+          "word": "acoso",
+          "score": -2
+        },
+        {
+          "word": "acusaciones",
+          "score": -2
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "\"¿Ha vuelto Corina a Venezuela?\": el desconocimiento de Trump de decisiones clav",
+      "score": 5.78,
+      "words": [
+        {
+          "word": "impedido",
+          "score": -1
+        },
+        {
+          "word": "desorientado",
+          "score": -2
+        },
+        {
+          "word": "tiempo",
+          "score": -2
+        },
+        {
+          "word": "asegurado",
+          "score": 2
+        },
+        {
+          "word": "premio",
+          "score": 3
         }
       ]
     },
@@ -263,87 +389,6 @@
     },
     {
       "source": "elDiario.es",
-      "title": "Seis muertos, entre ellos una niña de ocho años, en varios ataques israelíes con",
-      "score": 4.11,
-      "words": [
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "muerto",
-          "score": -3
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "EEUU asegura que Irán \"no controla el estrecho\" tras la respuesta de Teherán a u",
-      "score": 4.4,
-      "words": [
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "asegura",
-          "score": 2
-        },
-        {
-          "word": "ataques",
-          "score": -1
-        },
-        {
-          "word": "disparar",
-          "score": -1
-        },
-        {
-          "word": "caos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Varios ministros de Francia cargan contra las palabras racistas de Rajoy sobre s",
-      "score": 4.17,
-      "words": [
-        {
-          "word": "racistas",
-          "score": -3
-        },
-        {
-          "word": "racistas",
-          "score": -3
-        },
-        {
-          "word": "odio",
-          "score": -3
-        },
-        {
-          "word": "metódico",
-          "score": 2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
       "title": "Las cuentas de elDiario.es en 2025: otra forma de hacer periodismo",
       "score": 4.92,
       "words": [
@@ -368,94 +413,9 @@
           "score": -2
         }
       ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "El calor dispara las muertes en España a cifras sin precedentes y amenaza al sis",
-      "score": 5.34,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "calor",
-          "score": 2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Un juez avala que unos vecinos mantengan su aire acondicionado en la fachada",
-      "score": 4.56,
-      "words": [
-        {
-          "word": "calor",
-          "score": 2
-        },
-        {
-          "word": "amenaza",
-          "score": -2
-        },
-        {
-          "word": "demanda",
-          "score": -1
-        },
-        {
-          "word": "acuerdo",
-          "score": 1
-        },
-        {
-          "word": "litigio",
-          "score": -1
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Así te hemos contado la última hora del incendio de Almería",
-      "score": 3.8,
-      "words": [
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "fuego",
-          "score": -2
-        },
-        {
-          "word": "triste",
-          "score": -2
-        },
-        {
-          "word": "muerte",
-          "score": -2
-        },
-        {
-          "word": "confianza",
-          "score": 1
-        }
-      ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-26T07:48:30Z",
-      "score": 4.7
-    },
     {
       "timestamp": "2026-06-26T10:48:21Z",
       "score": 4.72
@@ -1123,6 +1083,10 @@
     {
       "timestamp": "2026-07-13T02:30:13Z",
       "score": 4.7
+    },
+    {
+      "timestamp": "2026-07-13T06:13:11Z",
+      "score": 4.71
     }
   ]
 }

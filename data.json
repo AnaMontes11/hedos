@@ -1,13 +1,9 @@
 {
-  "generated": "2026-07-13T06:13:11Z",
-  "global_score": 4.71,
+  "generated": "2026-07-13T10:22:02Z",
+  "global_score": 4.7,
   "articles_scored": 91,
-  "words_matched": 299,
+  "words_matched": 279,
   "top_negative": [
-    {
-      "word": "negro",
-      "score": -5
-    },
     {
       "word": "culo",
       "score": -4
@@ -15,14 +11,6 @@
     {
       "word": "fraude",
       "score": -4
-    },
-    {
-      "word": "violación",
-      "score": -4
-    },
-    {
-      "word": "mal",
-      "score": -3
     },
     {
       "word": "racista",
@@ -34,6 +22,18 @@
     },
     {
       "word": "delitos",
+      "score": -3
+    },
+    {
+      "word": "falso",
+      "score": -3
+    },
+    {
+      "word": "retirada",
+      "score": -3
+    },
+    {
+      "word": "aterrador",
       "score": -3
     }
   ],
@@ -51,11 +51,11 @@
       "score": 4
     },
     {
-      "word": "ganar",
+      "word": "triunfo",
       "score": 4
     },
     {
-      "word": "ganador",
+      "word": "ganar",
       "score": 4
     },
     {
@@ -63,26 +63,26 @@
       "score": 4
     },
     {
-      "word": "cautivado",
-      "score": 3
+      "word": "ganador",
+      "score": 4
     },
     {
-      "word": "amor",
+      "word": "celebra",
       "score": 3
     }
   ],
   "per_source": {
-    "El País": 3.79,
-    "elDiario.es": 4.72,
-    "El Mundo": 4.07,
-    "ABC": 4.92,
-    "El Confidencial": 4.1,
-    "BBC Mundo": 5.34,
+    "El País": 4.19,
+    "elDiario.es": 4.88,
+    "El Mundo": 3.82,
+    "ABC": 5.43,
+    "El Confidencial": 3.61,
+    "BBC Mundo": 5.03,
     "France 24 ES": 4.51,
-    "La Nación AR": 4.84,
-    "La Jornada MX": 5.3,
+    "La Nación AR": 6.28,
+    "La Jornada MX": 4.44,
     "Desinformémonos": 4.7,
-    "Resumen Latinoam.": 5.27
+    "Resumen Latinoam.": 4.83
   },
   "articles": [
     {
@@ -117,12 +117,12 @@
     },
     {
       "source": "El País",
-      "title": "Las imágenes de uno de los supervivientes del incendio de Los Gallardos: “Menos ",
-      "score": 3.0,
+      "title": "Últimas noticias del incendio forestal de Los Gallardos (Almería), en directo | ",
+      "score": 5.0,
       "words": [
         {
-          "word": "mal",
-          "score": -3
+          "word": "estable",
+          "score": 2
         },
         {
           "word": "fuego",
@@ -132,12 +132,16 @@
     },
     {
       "source": "El País",
-      "title": "Imputado el alcalde del PP de Móstoles por acoso sexual y laboral a una exedil d",
-      "score": 3.4,
+      "title": "El PP de Madrid mantiene su respaldo al alcalde de Móstoles tras su imputación p",
+      "score": 5.0,
       "words": [
         {
           "word": "acoso",
           "score": -2
+        },
+        {
+          "word": "apoyo",
+          "score": 2
         }
       ]
     },
@@ -199,6 +203,33 @@
       ]
     },
     {
+      "source": "El País",
+      "title": "El Gobierno acusa a Rajoy de racismo y xenofobia por su artículo sobre la selecc",
+      "score": 3.4,
+      "words": [
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "racismo",
+          "score": -3
+        },
+        {
+          "word": "carga",
+          "score": -2
+        },
+        {
+          "word": "boicotear",
+          "score": -2
+        },
+        {
+          "word": "provocado",
+          "score": -1
+        }
+      ]
+    },
+    {
       "source": "elDiario.es",
       "title": "Feijóo y su dirección ocultan al Congreso los ingresos que perciben del PP",
       "score": 5.35,
@@ -248,6 +279,33 @@
         },
         {
           "word": "veredicto",
+          "score": -1
+        }
+      ]
+    },
+    {
+      "source": "elDiario.es",
+      "title": "Detenido en Ibiza un \"filántropo\" estadounidense al que la administración Trump ",
+      "score": 5.13,
+      "words": [
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "detenido",
+          "score": -1
+        },
+        {
+          "word": "acusa",
+          "score": -2
+        },
+        {
+          "word": "pasado",
           "score": -1
         }
       ]
@@ -309,7 +367,7 @@
     {
       "source": "elDiario.es",
       "title": "La jueza imputa al alcalde de Móstoles acusado de acoso sexual y laboral a una e",
-      "score": 3.92,
+      "score": 3.91,
       "words": [
         {
           "word": "acusado",
@@ -335,91 +393,33 @@
     },
     {
       "source": "elDiario.es",
-      "title": "\"¿Ha vuelto Corina a Venezuela?\": el desconocimiento de Trump de decisiones clav",
-      "score": 5.78,
+      "title": "La Audiencia Nacional rechaza paralizar la resignificación de Cuelgamuros como p",
+      "score": 5.39,
       "words": [
         {
-          "word": "impedido",
+          "word": "rechaza",
           "score": -1
         },
         {
-          "word": "desorientado",
-          "score": -2
-        },
-        {
-          "word": "tiempo",
-          "score": -2
-        },
-        {
-          "word": "asegurado",
-          "score": 2
-        },
-        {
-          "word": "premio",
-          "score": 3
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Trump desata el caos con nuevos ataques sobre Irán, insultos a sus aliados de la",
-      "score": 4.21,
-      "words": [
-        {
-          "word": "caos",
-          "score": -2
-        },
-        {
-          "word": "ataques",
+          "word": "rechaza",
           "score": -1
         },
         {
-          "word": "insultos",
+          "word": "contencioso",
           "score": -2
         },
         {
-          "word": "crisis",
-          "score": -3
-        },
-        {
-          "word": "caos",
-          "score": -2
-        }
-      ]
-    },
-    {
-      "source": "elDiario.es",
-      "title": "Las cuentas de elDiario.es en 2025: otra forma de hacer periodismo",
-      "score": 4.92,
-      "words": [
-        {
-          "word": "aumenta",
+          "word": "acuerdo",
           "score": 1
         },
         {
-          "word": "pregonan",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
-        },
-        {
-          "word": "solo",
-          "score": -2
+          "word": "batalla",
+          "score": -1
         }
       ]
     }
   ],
   "history": [
-    {
-      "timestamp": "2026-06-26T10:48:21Z",
-      "score": 4.72
-    },
     {
       "timestamp": "2026-06-26T13:08:26Z",
       "score": 4.69
@@ -1087,6 +1087,10 @@
     {
       "timestamp": "2026-07-13T06:13:11Z",
       "score": 4.71
+    },
+    {
+      "timestamp": "2026-07-13T10:22:02Z",
+      "score": 4.7
     }
   ]
 }
